@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Objectif Civique",
+    "slug": "objectif-civique",
+    "scheme": "objectifcivique",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/branding/icon.png",
+    "splash": {
+      "image": "./assets/branding/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.horizon224.objectifcivique"
+    },
+    "android": {
+      "package": "com.horizon224.objectifcivique",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/branding/icon-foreground.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "plugins": ["expo-router", "expo-font"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
