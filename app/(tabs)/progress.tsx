@@ -57,7 +57,7 @@ export default function ProgressTab() {
       contentContainerStyle={{
         padding: 16,
         paddingTop: insets.top + 12,
-        paddingBottom: 120,
+        paddingBottom: 140,
       }}
     >
       <View style={{ marginBottom: 14 }}>
@@ -181,7 +181,7 @@ export default function ProgressTab() {
             <View key={a.id} style={styles.badgeCard}>
               {unlocked ? (
                 <LinearGradient
-                  colors={[Colors.tertiary, "#ffd24d"]}
+                  colors={[Colors.tertiary, Colors.tertiaryLight]}
                   style={styles.badgeCircle}
                 >
                   <Icon size={20} color={Colors.white} />
@@ -222,7 +222,7 @@ export default function ProgressTab() {
           onPress={() => router.push("/simulation/intro")}
         />
         <GhostButton
-          label="Réviser un thème"
+          label="S'entraîner par thème"
           size="md"
           fullWidth
           onPress={() => router.push("/(tabs)/revise")}

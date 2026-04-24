@@ -9,10 +9,9 @@ import {
 import { router, useLocalSearchParams } from "expo-router";
 import * as LucideIcons from "lucide-react-native";
 import {
-  Check,
+  BookOpen,
   ChevronLeft,
   CircleDashed,
-  X,
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
@@ -25,6 +24,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { GhostButton } from "@/components/ui/GhostButton";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS } from "@/data/questions";
+import { LESSONS } from "@/data/lessons";
 import { useProgressStore } from "@/store/progressStore";
 import { useSessionStore } from "@/store/sessionStore";
 import { Category, ThemeId } from "@/types";
@@ -62,6 +62,8 @@ export default function ThemeDetail() {
   const correctCount = lastSession
     ? Math.round((lastSession.percent / 100) * filtered.length)
     : 0;
+
+  const lesson = LESSONS[themeId];
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -127,6 +129,32 @@ export default function ThemeDetail() {
             style={{ marginTop: 12 }}
           />
         </GlassCard>
+
+        {lesson ? (
+          <View style={styles.lessonBlock}>
+            <View style={styles.lessonHeader}>
+              <View style={styles.lessonIcon}>
+                <BookOpen size={16} color={Colors.primary} />
+              </View>
+              <Text style={styles.lessonTag}>Cours didactique</Text>
+            </View>
+            <Text style={styles.lessonIntro}>{lesson.intro}</Text>
+            {lesson.sections.map((s, i) => (
+              <View key={i} style={styles.lessonSection}>
+                <Text style={styles.lessonHeading}>{s.heading}</Text>
+                <Text style={styles.lessonBody}>{s.body}</Text>
+              </View>
+            ))}
+            <View style={styles.keyPointsBox}>
+              <Text style={styles.keyPointsTitle}>À retenir</Text>
+              {lesson.keyPoints.map((kp, i) => (
+                <Text key={i} style={styles.keyPoint}>
+                  •  {kp}
+                </Text>
+              ))}
+            </View>
+          </View>
+        ) : null}
 
         <Text style={styles.sectionTitle}>Questions</Text>
         <Text style={styles.sectionSub}>Aperçu</Text>
@@ -273,5 +301,76 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surfaceContainerLow,
     alignItems: "center",
     justifyContent: "center",
+  },
+  lessonBlock: {
+    marginBottom: 18,
+    padding: 14,
+    borderRadius: Radius.lg,
+    backgroundColor: Colors.surfaceContainerLowest,
+    borderWidth: 1,
+    borderColor: "rgba(204,199,208,0.35)",
+  },
+  lessonHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    marginBottom: 10,
+  },
+  lessonIcon: {
+    width: 28,
+    height: 28,
+    borderRadius: 999,
+    backgroundColor: Colors.primaryFixed,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  lessonTag: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 11,
+    color: Colors.primary,
+    letterSpacing: 0.3,
+    textTransform: "uppercase",
+  },
+  lessonIntro: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 14,
+    lineHeight: 22,
+    color: Colors.onSurface,
+    marginBottom: 10,
+  },
+  lessonSection: {
+    marginBottom: 10,
+  },
+  lessonHeading: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 13,
+    color: Colors.onSurface,
+    marginBottom: 4,
+  },
+  lessonBody: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 20,
+    color: Colors.textSecondary,
+  },
+  keyPointsBox: {
+    marginTop: 4,
+    padding: 12,
+    borderRadius: Radius.lg,
+    backgroundColor: Colors.primaryFixed,
+  },
+  keyPointsTitle: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 11,
+    color: Colors.primary,
+    letterSpacing: 0.3,
+    textTransform: "uppercase",
+    marginBottom: 6,
+  },
+  keyPoint: {
+    fontFamily: "Inter_500Medium",
+    fontSize: 13,
+    lineHeight: 20,
+    color: Colors.primary,
   },
 });

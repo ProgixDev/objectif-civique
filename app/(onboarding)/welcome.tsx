@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useMemo, useRef, useState } from "react";
 import {
   FlatList,
   Image,
@@ -12,9 +12,9 @@ import {
 } from "react-native";
 import { router } from "expo-router";
 import { ArrowRight } from "lucide-react-native";
-import { LinearGradient } from "expo-linear-gradient";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { MotiView } from "moti";
+import { BlurView } from "expo-blur";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Assets } from "@/constants/assets";
@@ -22,30 +22,44 @@ import { OnboardingSlide } from "@/components/OnboardingSlide";
 import { useHaptics } from "@/hooks/useHaptics";
 import { Shadows } from "@/constants/shadows";
 
-const SLIDES = [
+const CURRENT_YEAR = new Date().getFullYear();
+
+type Slide = {
+  key: string;
+  image: any;
+  eyebrow: string;
+  title: string;
+  subtitle: string;
+  accent: "navy" | "red";
+};
+
+const SLIDES: Slide[] = [
   {
     key: "exam",
     image: Assets.onboarding.exam,
-    bg: "#e8c8e5",
-    title: "Préparez votre Examen Civique",
+    eyebrow: `Naturalisation ${CURRENT_YEAR}`,
+    title: "Réussissez l'examen civique sereinement.",
     subtitle:
-      "Révisez les valeurs et institutions de la République française à votre rythme.",
+      "Révisez les valeurs et les institutions de la République française à votre rythme.",
+    accent: "navy",
   },
   {
     key: "questions",
     image: Assets.onboarding.questions,
-    bg: "#e6dcf7",
-    title: "2500+ Questions Officielles",
+    eyebrow: "2 500+ questions officielles",
+    title: "Entraînez-vous sur les vraies questions.",
     subtitle:
-      "Des questions officielles et des mises en situation pour vous entraîner dans les meilleures conditions.",
+      "Des questions officielles et des mises en situation pour vous préparer dans les meilleures conditions.",
+    accent: "red",
   },
   {
     key: "progress",
     image: Assets.onboarding.progress,
-    bg: "#e6dcf7",
-    title: "Suivez votre Progression",
+    eyebrow: "Votre progression",
+    title: "Avancez un peu chaque jour, visiblement.",
     subtitle:
       "Statistiques détaillées, simulations chronométrées et révision par thème pour maximiser vos chances.",
+    accent: "navy",
   },
 ];
 
@@ -56,12 +70,21 @@ export default function Welcome() {
   const listRef = useRef<FlatList>(null);
   const [index, setIndex] = useState(0);
 
-  const gradientHeight = Math.round(height * 0.3);
+  // Height reserved for the white content sheet at the bottom of each slide.
+  // Scales with device height so it feels balanced on both small and large screens.
+  const navReserved = Math.max(insets.bottom + 20, 28) + 54 + 20;
+  const sheetHeight = useMemo(
+    () => Math.max(320, Math.round(height * 0.42)),
+    [height],
+  );
 
   const onScroll = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
     const x = e.nativeEvent.contentOffset.x;
     const newIndex = Math.round(x / width);
-    if (newIndex !== index) setIndex(newIndex);
+    if (newIndex !== index) {
+      setIndex(newIndex);
+      haptics.light();
+    }
   };
 
   const scrollTo = (i: number) => {
@@ -77,7 +100,11 @@ export default function Welcome() {
     }
   };
 
-  const current = SLIDES[index];
+  const onSkip = () => {
+    haptics.light();
+    router.replace("/(onboarding)/auth-landing");
+  };
+
   const isLast = index === SLIDES.length - 1;
 
   return (
@@ -94,48 +121,48 @@ export default function Welcome() {
         renderItem={({ item }) => (
           <OnboardingSlide
             imageSource={item.image}
+            width={width}
             height={height}
-            backgroundColor={item.bg}
+            eyebrow={item.eyebrow}
+            title={item.title}
+            subtitle={item.subtitle}
+            accent={item.accent}
+            sheetHeight={sheetHeight}
+            navReserved={navReserved}
           />
         )}
       />
 
-      <View style={[styles.topBar, { top: insets.top + 12 }]} pointerEvents="box-none">
-        <View style={{ width: 56 }} />
-        <Image
-          source={Assets.branding.logo}
-          style={styles.logo}
-          resizeMode="contain"
-        />
+      {/* Top bar — logo + skip */}
+      <View
+        style={[styles.topBar, { top: insets.top + 12 }]}
+        pointerEvents="box-none"
+      >
+        <View style={styles.logoWrap}>
+          <Image
+            source={Assets.branding.logo}
+            style={styles.logo}
+            resizeMode="contain"
+          />
+        </View>
         <Pressable
-          onPress={() => router.replace("/(onboarding)/auth-landing")}
+          onPress={onSkip}
           accessibilityRole="button"
-          accessibilityLabel="Ignorer"
-          hitSlop={8}
+          accessibilityLabel="Ignorer l'introduction"
+          hitSlop={12}
         >
-          <Text style={[Typography.button, styles.skip]}>Ignorer</Text>
+          <BlurView intensity={40} tint="light" style={styles.skipPill}>
+            <Text style={styles.skipText}>Ignorer</Text>
+          </BlurView>
         </Pressable>
       </View>
 
+      {/* Bottom nav — dots + CTA */}
       <View
         style={[
-          styles.textTop,
-          { top: insets.top + 72, paddingHorizontal: 24 },
+          styles.navRow,
+          { paddingBottom: Math.max(insets.bottom + 20, 28) },
         ]}
-        pointerEvents="none"
-      >
-        <Text style={styles.title}>{current.title}</Text>
-      </View>
-
-      <LinearGradient
-        colors={["rgba(255,255,255,0)", "rgba(255,255,255,0.9)", "#FFFFFF"]}
-        locations={[0, 0.6, 1]}
-        style={[styles.gradient, { height: gradientHeight }]}
-        pointerEvents="none"
-      />
-
-      <View
-        style={[styles.navRow, { paddingBottom: insets.bottom + 20 }]}
         pointerEvents="box-none"
       >
         <View style={styles.dots}>
@@ -143,11 +170,11 @@ export default function Welcome() {
             <MotiView
               key={s.key}
               animate={{
-                width: i === index ? 24 : 8,
+                width: i === index ? 28 : 8,
                 backgroundColor:
-                  i === index ? Colors.primary : Colors.outlineVariant,
+                  i === index ? Colors.primary : "rgba(25,28,30,0.18)",
               }}
-              transition={{ type: "spring", damping: 18, stiffness: 200 }}
+              transition={{ type: "spring", damping: 18, stiffness: 220 }}
               style={styles.dot}
             />
           ))}
@@ -156,14 +183,17 @@ export default function Welcome() {
         <Pressable
           onPress={onNext}
           style={({ pressed }) => [
-            styles.nextBtn,
-            Shadows.card,
-            pressed && { opacity: 0.9 },
+            styles.cta,
+            Shadows.modal,
+            pressed && { transform: [{ scale: 0.97 }], opacity: 0.95 },
           ]}
           accessibilityRole="button"
           accessibilityLabel={isLast ? "Commencer" : "Suivant"}
         >
-          <ArrowRight size={22} color={Colors.white} />
+          <Text style={styles.ctaLabel}>
+            {isLast ? "Commencer" : "Suivant"}
+          </Text>
+          <ArrowRight size={18} color={Colors.white} strokeWidth={2.4} />
         </Pressable>
       </View>
     </View>
@@ -182,53 +212,39 @@ const styles = StyleSheet.create({
     alignItems: "center",
     zIndex: 10,
   },
-  logo: { width: 40, height: 40 },
-  skip: {
-    color: Colors.white,
-    textShadowColor: "rgba(0,0,0,0.25)",
-    textShadowOffset: { width: 0, height: 1 },
-    textShadowRadius: 3,
+  logoWrap: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    backgroundColor: "rgba(255,255,255,0.85)",
+    alignItems: "center",
+    justifyContent: "center",
+    ...Shadows.soft,
   },
-  gradient: {
-    position: "absolute",
-    left: 0,
-    right: 0,
-    bottom: 0,
+  logo: { width: 30, height: 30 },
+  skipPill: {
+    paddingHorizontal: 14,
+    paddingVertical: 8,
+    borderRadius: 999,
+    overflow: "hidden",
+    backgroundColor: "rgba(255,255,255,0.55)",
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: "rgba(255,255,255,0.8)",
   },
-  textTop: {
-    position: "absolute",
-    left: 0,
-    right: 0,
-    alignItems: "flex-start",
-  },
-  title: {
-    color: "#000000",
-    textAlign: "left",
-    marginBottom: 12,
-    fontFamily: "Inter_700Bold",
-    fontSize: 38,
-    lineHeight: 44,
-    letterSpacing: -0.5,
-  },
-  subtitle: {
-    color: Colors.white,
-    textAlign: "left",
-    fontFamily: "Inter_500Medium",
-    fontSize: 16,
-    lineHeight: 24,
-    textShadowColor: "rgba(0,0,0,0.2)",
-    textShadowOffset: { width: 0, height: 1 },
-    textShadowRadius: 2,
+  skipText: {
+    ...Typography.button,
+    color: Colors.onSurface,
   },
   navRow: {
     position: "absolute",
     left: 0,
     right: 0,
     bottom: 0,
-    paddingHorizontal: 24,
+    paddingHorizontal: 28,
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "space-between",
+    backgroundColor: "transparent",
   },
   dots: {
     flexDirection: "row",
@@ -236,12 +252,20 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   dot: { height: 8, borderRadius: 999 },
-  nextBtn: {
-    width: 56,
-    height: 56,
+  cta: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 10,
+    paddingLeft: 22,
+    paddingRight: 18,
+    height: 54,
     borderRadius: 999,
     backgroundColor: Colors.primary,
-    alignItems: "center",
-    justifyContent: "center",
+  },
+  ctaLabel: {
+    color: Colors.white,
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 15,
+    letterSpacing: 0.2,
   },
 });

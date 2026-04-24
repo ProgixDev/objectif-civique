@@ -62,7 +62,7 @@ export default function Splash() {
             { color: "rgba(255,255,255,0.7)", marginTop: 4 },
           ]}
         >
-          Réussissez votre examen civique
+          {`Examen civique & naturalisation ${new Date().getFullYear()}`}
         </Text>
       </MotiView>
     </View>

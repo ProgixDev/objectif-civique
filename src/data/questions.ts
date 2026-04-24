@@ -1,6 +1,7 @@
 import { Question } from "@/types";
+import { EXTENDED_QUESTIONS } from "./questions.extended";
 
-export const QUESTIONS: Question[] = [
+const BASE_QUESTIONS: Question[] = [
   // Institutions (10)
   {
     id: "q1",
@@ -405,6 +406,8 @@ export const QUESTIONS: Question[] = [
       "Claude Monet, peintre impressionniste, a réalisé la célèbre série des Nymphéas.",
   },
 ];
+
+export const QUESTIONS: Question[] = [...BASE_QUESTIONS, ...EXTENDED_QUESTIONS];
 
 export const GOAL_LABELS = {
   NAT: "Naturalisation",

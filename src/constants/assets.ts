@@ -30,9 +30,9 @@ export const Assets = {
   // ONBOARDING — 3 swipeable slides (3D claymorphism illustrations)
   // ─────────────────────────────────────────────────────────────────
   onboarding: {
-    exam: require("../../assets/images/onb1.jpeg"),
-    questions: require("../../assets/images/onb2.jpeg"),
-    progress: require("../../assets/images/onb3.jpeg"),
+    exam: require("../../assets/images/on1.png"),
+    questions: require("../../assets/images/on2.png"),
+    progress: require("../../assets/images/on3.png"),
     heroProgress: require("../../assets/images/onboarding-progress.png"),
   },
 

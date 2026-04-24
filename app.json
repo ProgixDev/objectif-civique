@@ -14,7 +14,10 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.horizon224.objectifcivique"
+      "bundleIdentifier": "com.horizon224.objectifcivique",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.horizon224.objectifcivique",
@@ -23,9 +26,18 @@
         "backgroundColor": "#FFFFFF"
       }
     },
-    "plugins": ["expo-router", "expo-font"],
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "95d77655-d971-47f0-91a1-765d25c5bf59"
+      }
     }
   }
 }
