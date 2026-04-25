@@ -8,7 +8,11 @@ type SessionState = {
   currentIndex: number;
   startPractice: (category: Category, count?: number) => void;
   startTheme: (themeId: ThemeId, count?: number) => void;
-  startSimulation: () => void;
+  startSimulation: (opts?: {
+    category?: Category;
+    themes?: ThemeId[];
+    label?: string;
+  }) => void;
   startAssessment: (questions: Question[]) => void;
   answerCurrent: (selectedIndex: number | null) => void;
   setCurrentIndex: (i: number) => void;
@@ -53,8 +57,12 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     });
   },
 
-  startSimulation: () => {
-    const questions = pickQuestions({ count: 40 });
+  startSimulation: (opts) => {
+    const questions = pickQuestions({
+      count: 40,
+      category: opts?.category,
+      themes: opts?.themes,
+    });
     const timerInitialSeconds = 45 * 60;
     set({
       current: {

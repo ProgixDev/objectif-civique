@@ -193,14 +193,14 @@ function OptionCard({
           ) : Icon ? (
             <Icon
               size={26}
-              color={selected ? Colors.primary : Colors.onSurface}
+              color={selected ? Colors.success : Colors.onSurface}
             />
           ) : null}
         </View>
 
         <View style={styles.cardText}>
           <Text
-            style={[styles.cardTitle, selected && { color: Colors.primary }]}
+            style={[styles.cardTitle, selected && { color: Colors.success }]}
           >
             {option.title}
           </Text>
@@ -309,9 +309,9 @@ const styles = StyleSheet.create({
     ...Shadows.soft,
   },
   cardSelected: {
-    borderColor: Colors.primary,
+    borderColor: Colors.success,
     borderWidth: 2,
-    backgroundColor: "rgba(0,85,164,0.04)",
+    backgroundColor: "rgba(16,185,129,0.05)",
   },
   iconTile: {
     width: 56,
@@ -322,7 +322,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#F2F4F7",
   },
   iconTileSelected: {
-    backgroundColor: "rgba(0,85,164,0.12)",
+    backgroundColor: "rgba(16,185,129,0.15)",
   },
   iconTileImage: {
     backgroundColor: "transparent",
@@ -358,8 +358,8 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.white,
   },
   radioSelected: {
-    borderColor: Colors.primary,
-    backgroundColor: Colors.primary,
+    borderColor: Colors.success,
+    backgroundColor: Colors.success,
   },
   bottomBar: {
     position: "absolute",

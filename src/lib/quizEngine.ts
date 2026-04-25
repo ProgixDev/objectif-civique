@@ -13,12 +13,20 @@ export function shuffleArray<T>(arr: T[]): T[] {
 type PickOpts = {
   category?: Category | "Tous";
   theme?: ThemeId;
+  themes?: ThemeId[];
   count: number;
 };
 
-export function pickQuestions({ category, theme, count }: PickOpts): Question[] {
+export function pickQuestions({
+  category,
+  theme,
+  themes,
+  count,
+}: PickOpts): Question[] {
   let pool = QUESTIONS;
   if (theme) pool = pool.filter((q) => q.theme === theme);
+  if (themes && themes.length)
+    pool = pool.filter((q) => themes.includes(q.theme));
   if (category && category !== "Tous")
     pool = pool.filter((q) => q.category === category);
   const shuffled = shuffleArray(pool);

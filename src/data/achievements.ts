@@ -58,7 +58,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   {
     id: "citizen",
     title: "Citoyen",
-    description: "Réussir l'examen blanc avec 80%+.",
+    description: "Réussir une simulation en conditions réelles avec 80 %+.",
     icon: "Award",
   },
 ];

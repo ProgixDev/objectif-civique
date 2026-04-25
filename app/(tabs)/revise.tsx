@@ -104,6 +104,19 @@ export default function Revise() {
           </View>
         </View>
 
+        {/* Programme officiel banner */}
+        <View style={styles.programmeBanner}>
+          <View style={styles.programmeBadge}>
+            <Text style={styles.programmeBadgeText}>PROGRAMME OFFICIEL</Text>
+          </View>
+          <Text style={styles.programmeTitle}>
+            14 chapitres · 5 thématiques
+          </Text>
+          <Text style={styles.programmeSub}>
+            Conforme au Livret du Citoyen publié par le Ministère de l'Intérieur.
+          </Text>
+        </View>
+
         {/* Summary card */}
         <View style={styles.summary}>
           <View style={styles.summaryCol}>
@@ -361,6 +374,45 @@ const styles = StyleSheet.create({
     marginTop: 2,
   },
 
+  programmeBanner: {
+    borderRadius: 20,
+    backgroundColor: Colors.primary,
+    padding: 16,
+    marginBottom: 14,
+    overflow: "hidden",
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.22,
+    shadowRadius: 18,
+    shadowOffset: { width: 0, height: 10 },
+    elevation: 6,
+  },
+  programmeBadge: {
+    alignSelf: "flex-start",
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.18)",
+    marginBottom: 10,
+  },
+  programmeBadgeText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 10,
+    color: Colors.white,
+    letterSpacing: 1.3,
+  },
+  programmeTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 17,
+    color: Colors.white,
+    letterSpacing: -0.2,
+  },
+  programmeSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    color: "rgba(255,255,255,0.82)",
+    marginTop: 4,
+    lineHeight: 16,
+  },
   summary: {
     flexDirection: "row",
     alignItems: "center",

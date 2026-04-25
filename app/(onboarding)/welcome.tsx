@@ -38,7 +38,7 @@ const SLIDES: Slide[] = [
     key: "exam",
     image: Assets.onboarding.exam,
     eyebrow: `Naturalisation ${CURRENT_YEAR}`,
-    title: "Réussissez l'examen civique sereinement.",
+    title: `Préparez l'examen civique et l'entretien de naturalisation ${CURRENT_YEAR}.`,
     subtitle:
       "Révisez les valeurs et les institutions de la République française à votre rythme.",
     accent: "navy",
@@ -47,7 +47,7 @@ const SLIDES: Slide[] = [
     key: "questions",
     image: Assets.onboarding.questions,
     eyebrow: "2 500+ questions officielles",
-    title: "Entraînez-vous sur les vraies questions.",
+    title: "2 500+ questions officielles à votre rythme.",
     subtitle:
       "Des questions officielles et des mises en situation pour vous préparer dans les meilleures conditions.",
     accent: "red",

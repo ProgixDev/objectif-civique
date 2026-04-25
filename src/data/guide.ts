@@ -49,6 +49,51 @@ export const GUIDE_SECTIONS: GuideSection[] = [
   },
 ];
 
+export const GUIDE_LINKS = [
+  {
+    title: "Livret du Citoyen",
+    subtitle: "Référentiel officiel du Ministère de l'Intérieur",
+    url: "https://www.immigration.interieur.gouv.fr/Integration-et-Acces-a-la-nationalite/La-nationalite-francaise/Le-livret-du-citoyen",
+  },
+  {
+    title: "Formation civique officielle",
+    subtitle: "Plateforme publique d'information et de préparation",
+    url: "https://formation-civique.interieur.gouv.fr/",
+  },
+  {
+    title: "Service-Public.fr — Naturalisation",
+    subtitle: "Démarches et conditions d'obtention",
+    url: "https://www.service-public.fr/particuliers/vosdroits/N111",
+  },
+];
+
+export const GUIDE_TESTIMONIALS = [
+  {
+    name: "Aïssata K.",
+    goal: "Naturalisation",
+    text: "Les simulations m'ont mise en confiance. J'ai eu 36/40 le jour J, exactement comme pendant mes entraînements.",
+    rating: 5,
+  },
+  {
+    name: "Mohamed B.",
+    goal: "Carte de Résident",
+    text: "Les explications sont vraiment détaillées, avec les articles de loi. Enfin une app qui ne se contente pas de dire « bonne réponse ».",
+    rating: 5,
+  },
+  {
+    name: "Sofiane R.",
+    goal: "CSP",
+    text: "Parfait pour réviser dans les transports. Les flashcards et le mode thème m'ont permis de cibler mes points faibles.",
+    rating: 5,
+  },
+  {
+    name: "Linda T.",
+    goal: "Naturalisation",
+    text: "L'app est très claire et le test d'éligibilité m'a évité une démarche inutile. Je recommande à 100 %.",
+    rating: 5,
+  },
+];
+
 export const GUIDE_FAQ = [
   {
     q: "L'application est-elle à jour ?",

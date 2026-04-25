@@ -31,7 +31,9 @@ import { useSessionStore } from "@/store/sessionStore";
 import { scoreSession, isPass } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
 import { toast } from "@/store/toastStore";
-import { Category } from "@/types";
+import { Category, ThemeId } from "@/types";
+import { THEMES } from "@/data/themes";
+import { ProgressBar } from "@/components/ui/ProgressBar";
 
 export default function Results() {
   const insets = useSafeAreaInsets();
@@ -67,6 +69,26 @@ export default function Results() {
         const a = session.answers.find((x) => x.questionId === q.id);
         return a && a.selectedIndex !== null && a.selectedIndex !== q.correctIndex;
       }) ?? [];
+
+  // Per-theme breakdown: correct vs total per theme present in this session
+  const themeBreakdown = useMemo(() => {
+    if (!session) return [] as { id: ThemeId; name: string; correct: number; total: number }[];
+    const acc = new Map<ThemeId, { correct: number; total: number }>();
+    for (const q of session.questions) {
+      const t = q.theme;
+      const entry = acc.get(t) ?? { correct: 0, total: 0 };
+      entry.total += 1;
+      const a = session.answers.find((x) => x.questionId === q.id);
+      if (a && a.selectedIndex === q.correctIndex) entry.correct += 1;
+      acc.set(t, entry);
+    }
+    return THEMES.filter((t) => acc.has(t.id)).map((t) => ({
+      id: t.id,
+      name: t.name,
+      correct: acc.get(t.id)!.correct,
+      total: acc.get(t.id)!.total,
+    }));
+  }, [session]);
 
   const title =
     mode === "simulation"
@@ -158,6 +180,62 @@ export default function Results() {
           <StatTile icon={<XCircle size={16} color={Colors.error} />} label="Erreurs" value={recap.wrong.toString()} />
           <StatTile icon={<SkipForward size={16} color={Colors.textSecondary} />} label="Sautées" value={recap.skipped.toString()} />
         </View>
+
+        {themeBreakdown.length > 0 ? (
+          <View style={{ marginTop: 24 }}>
+            <Text
+              style={[
+                Typography.h2,
+                { color: Colors.onSurface, marginBottom: 12 },
+              ]}
+            >
+              Détail par thème
+            </Text>
+            <View style={styles.themeBreakdownCard}>
+              {themeBreakdown.map((t, i) => {
+                const pct = t.total ? t.correct / t.total : 0;
+                const tone =
+                  pct >= 0.8
+                    ? Colors.success
+                    : pct >= 0.5
+                      ? Colors.primary
+                      : Colors.secondary;
+                return (
+                  <React.Fragment key={t.id}>
+                    {i > 0 ? <View style={styles.themeDividerBreakdown} /> : null}
+                    <View style={styles.themeBreakdownRow}>
+                      <View style={{ flex: 1 }}>
+                        <View style={styles.themeBreakdownTop}>
+                          <Text
+                            style={styles.themeBreakdownName}
+                            numberOfLines={1}
+                          >
+                            {t.name}
+                          </Text>
+                          <Text
+                            style={[
+                              styles.themeBreakdownScore,
+                              { color: tone },
+                            ]}
+                          >
+                            {t.correct}/{t.total}
+                          </Text>
+                        </View>
+                        <ProgressBar
+                          value={pct}
+                          height={5}
+                          trackColor="rgba(25,28,30,0.06)"
+                          fillColors={[tone, tone]}
+                          style={{ marginTop: 8 }}
+                        />
+                      </View>
+                    </View>
+                  </React.Fragment>
+                );
+              })}
+            </View>
+          </View>
+        ) : null}
 
         {wrongQuestions.length > 0 ? (
           <View style={{ marginTop: 24 }}>
@@ -441,5 +519,42 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(183,16,42,0.1)",
     alignItems: "center",
     justifyContent: "center",
+  },
+  themeBreakdownCard: {
+    backgroundColor: Colors.white,
+    borderRadius: 20,
+    paddingHorizontal: 14,
+    shadowColor: "#0A0F1E",
+    shadowOpacity: 0.09,
+    shadowRadius: 18,
+    shadowOffset: { width: 0, height: 8 },
+    elevation: 5,
+  },
+  themeBreakdownRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    paddingVertical: 14,
+  },
+  themeDividerBreakdown: {
+    height: StyleSheet.hairlineWidth,
+    backgroundColor: "rgba(25,28,30,0.08)",
+  },
+  themeBreakdownTop: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    gap: 10,
+  },
+  themeBreakdownName: {
+    flex: 1,
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 14,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  themeBreakdownScore: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 13,
+    letterSpacing: 0.2,
   },
 });
