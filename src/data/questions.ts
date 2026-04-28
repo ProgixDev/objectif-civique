@@ -1,6 +1,9 @@
 import { Question } from "@/types";
 import { EXTENDED_QUESTIONS } from "./questions.extended";
 import { OFFICIAL_QUESTIONS } from "./questions.official";
+import { OFFICIAL_CSP_QUESTIONS } from "./questions.official.csp";
+import { OFFICIAL_CR_QUESTIONS } from "./questions.official.cr";
+import { OFFICIAL_NAT_QUESTIONS } from "./questions.official.nat";
 import { LIVRET_QUESTIONS } from "./questions.livret";
 
 const BASE_QUESTIONS: Question[] = [
@@ -413,6 +416,9 @@ const BASE_QUESTIONS: Question[] = [
 export const QUESTIONS: Question[] = [
   ...LIVRET_QUESTIONS,
   ...OFFICIAL_QUESTIONS,
+  ...OFFICIAL_CSP_QUESTIONS,
+  ...OFFICIAL_CR_QUESTIONS,
+  ...OFFICIAL_NAT_QUESTIONS,
   ...BASE_QUESTIONS,
   ...EXTENDED_QUESTIONS,
 ];

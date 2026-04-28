@@ -33,14 +33,17 @@ const OPTIONS: CarouselOption[] = [
 export default function Step4() {
   const updateUser = useUserStore((s) => s.updateUser);
   const existing = useUserStore((s) => s.user?.companion);
+  const goal = useUserStore((s) => s.user?.goal);
   const [selected, setSelected] = useState<Key | null>(
     (existing as Key | null) ?? null
   );
 
+  const isNat = goal === "NAT";
+
   return (
     <PersoCarouselShell
-      step={4}
-      total={4}
+      step={isNat ? 5 : 4}
+      total={isNat ? 5 : 4}
       title="Préparez-vous seul ou avec un proche ?"
       subtitle="S'entraîner à plusieurs augmente vos chances de réussite."
       options={OPTIONS}

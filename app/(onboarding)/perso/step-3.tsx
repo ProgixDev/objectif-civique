@@ -38,12 +38,15 @@ const OPTIONS: CarouselOption[] = [
 export default function Step3() {
   const updateUser = useUserStore((s) => s.updateUser);
   const existing = useUserStore((s) => s.user?.level);
+  const goal = useUserStore((s) => s.user?.goal);
   const [selected, setSelected] = useState<Level | null>(existing ?? null);
+
+  const isNat = goal === "NAT";
 
   return (
     <PersoCarouselShell
-      step={3}
-      total={4}
+      step={isNat ? 4 : 3}
+      total={isNat ? 5 : 4}
       title="Quel est votre niveau de français ?"
       subtitle="Soyez honnête — nous ajusterons la difficulté."
       options={OPTIONS}

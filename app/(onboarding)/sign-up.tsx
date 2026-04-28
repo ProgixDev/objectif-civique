@@ -75,6 +75,7 @@ export default function SignUp() {
       companion: null,
       createdAt: new Date().toISOString(),
       subscriptionPlan: "free",
+      civicTestPassed: null,
     });
     haptics.success();
     setSubmitting(false);

@@ -11,6 +11,7 @@ export const MOCK_USER: User = {
   companion: "alone",
   createdAt: new Date().toISOString(),
   subscriptionPlan: "free",
+  civicTestPassed: null,
 };
 
 export const INITIAL_THEME_PROGRESS: Record<string, number> = {

@@ -24,6 +24,8 @@ export type User = {
   companion: string | null;
   createdAt: string;
   subscriptionPlan: SubscriptionPlan;
+  /** Naturalisation only: has the candidate already passed the test civique? */
+  civicTestPassed: boolean | null;
 };
 
 export type Question = {
@@ -49,7 +51,30 @@ export type Answer = {
   isCorrect: boolean | null;
 };
 
-export type SessionType = "practice" | "simulation" | "theme" | "assessment";
+export type SessionType =
+  | "practice"
+  | "simulation"
+  | "theme"
+  | "assessment"
+  | "assimilation";
+
+export type AssimilationTopic =
+  | "motivation"
+  | "valeurs"
+  | "histoire"
+  | "institutions"
+  | "vie-quotidienne"
+  | "personnel";
+
+export type AssimilationQuestion = {
+  id: string;
+  topic: AssimilationTopic;
+  type: "vraiFaux" | "choix";
+  text: string;
+  choices: string[];
+  correctIndex: number;
+  explanation: string;
+};
 
 export type Session = {
   id: string;

@@ -36,16 +36,69 @@ type SimConfig = {
   tone: "navy" | "red" | "deep" | "violet";
 };
 
-const SIMULATIONS: SimConfig[] = [
+type ThemeSetup = {
+  id: ThemeId;
+  label: string;
+  short: string;
+  subtitle: string;
+  tone: SimConfig["tone"];
+};
+
+const THEME_SETUPS: ThemeSetup[] = [
   {
-    key: "mix",
-    number: 1,
-    title: "Mix général",
-    subtitle: "Toutes catégories, tous thèmes",
-    tag: "Recommandé",
+    id: "institutions",
+    label: "Institutions & pouvoirs",
+    short: "Institutions",
+    subtitle: "Président, Parlement, Constitution",
     tone: "navy",
   },
   {
+    id: "histoire",
+    label: "Histoire de France",
+    short: "Histoire",
+    subtitle: "Révolution, Républiques, grandes dates",
+    tone: "red",
+  },
+  {
+    id: "valeurs",
+    label: "Valeurs & laïcité",
+    short: "Valeurs",
+    subtitle: "Liberté, Égalité, Fraternité, laïcité",
+    tone: "violet",
+  },
+  {
+    id: "geographie",
+    label: "Géographie",
+    short: "Géo",
+    subtitle: "Régions, fleuves, frontières, outre-mer",
+    tone: "deep",
+  },
+  {
+    id: "culture",
+    label: "Culture & société",
+    short: "Culture",
+    subtitle: "Symboles, figures, vie quotidienne",
+    tone: "navy",
+  },
+];
+
+const RUNS_PER_THEME = 5;
+
+function buildSimulations(): SimConfig[] {
+  const out: SimConfig[] = [];
+
+  // 1. Mix général
+  out.push({
+    key: "mix",
+    number: 1,
+    title: "Mix général",
+    subtitle: "Toutes catégories, tous thèmes — 40 questions tirées au sort",
+    tag: "Recommandé",
+    tone: "navy",
+  });
+
+  // 2-4. Per category
+  out.push({
     key: "nat",
     number: 2,
     title: "Naturalisation",
@@ -53,8 +106,8 @@ const SIMULATIONS: SimConfig[] = [
     category: "NAT",
     tag: "NAT",
     tone: "red",
-  },
-  {
+  });
+  out.push({
     key: "cr",
     number: 3,
     title: "Carte de Résident",
@@ -62,8 +115,8 @@ const SIMULATIONS: SimConfig[] = [
     category: "CR",
     tag: "CR",
     tone: "deep",
-  },
-  {
+  });
+  out.push({
     key: "csp",
     number: 4,
     title: "Carte de Séjour Pluriannuelle",
@@ -71,61 +124,28 @@ const SIMULATIONS: SimConfig[] = [
     category: "CSP",
     tag: "CSP",
     tone: "navy",
-  },
-  {
-    key: "institutions",
-    number: 5,
-    title: "Institutions & pouvoirs",
-    subtitle: "Président, Parlement, Constitution",
-    themes: ["institutions"],
-    tag: "Institutions",
-    tone: "navy",
-  },
-  {
-    key: "histoire",
-    number: 6,
-    title: "Histoire de France",
-    subtitle: "Révolution, République, grandes dates",
-    themes: ["histoire"],
-    tag: "Histoire",
-    tone: "red",
-  },
-  {
-    key: "valeurs",
-    number: 7,
-    title: "Valeurs & laïcité",
-    subtitle: "Liberté, Égalité, Fraternité, laïcité",
-    themes: ["valeurs"],
-    tag: "Valeurs",
-    tone: "violet",
-  },
-  {
-    key: "vivre",
-    number: 8,
-    title: "Vivre en France",
-    subtitle: "Sécu, APL, impôts, droits du quotidien",
-    themes: ["culture"],
-    tag: "Société",
-    tone: "deep",
-  },
-  {
-    key: "geo-culture",
-    number: 9,
-    title: "Géographie & culture",
-    subtitle: "Régions, monuments, artistes",
-    themes: ["geographie", "culture"],
-    tag: "Culture",
-    tone: "navy",
-  },
-  {
-    key: "final",
-    number: 10,
-    title: "Test final",
-    subtitle: "Mix complet, niveau expert",
-    tag: "Expert",
-    tone: "red",
-  },
-];
+  });
+
+  // 5+. Per theme × RUNS_PER_THEME runs
+  let n = out.length + 1;
+  for (const theme of THEME_SETUPS) {
+    for (let run = 1; run <= RUNS_PER_THEME; run++) {
+      out.push({
+        key: `${theme.id}-${run}`,
+        number: n++,
+        title: `${theme.label} — Série ${run}`,
+        subtitle: theme.subtitle,
+        themes: [theme.id],
+        tag: theme.short,
+        tone: theme.tone,
+      });
+    }
+  }
+
+  return out;
+}
+
+const SIMULATIONS: SimConfig[] = buildSimulations();
 
 const TONE: Record<
   SimConfig["tone"],
@@ -214,8 +234,12 @@ export default function SimulationIntro() {
 
         {/* Section label */}
         <View style={styles.sectionHeader}>
-          <Text style={styles.sectionLabel}>10 simulations disponibles</Text>
-          <Text style={styles.sectionSub}>Tirées aléatoirement à chaque lancement</Text>
+          <Text style={styles.sectionLabel}>
+            {SIMULATIONS.length} simulations disponibles
+          </Text>
+          <Text style={styles.sectionSub}>
+            5 séries par thème — tirées aléatoirement à chaque lancement
+          </Text>
         </View>
 
         {/* Simulation list */}

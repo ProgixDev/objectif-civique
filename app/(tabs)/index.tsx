@@ -18,6 +18,7 @@ import {
   Flame,
   Layers,
   MapPin,
+  MessageCircle,
   MessagesSquare,
   Newspaper,
   ShieldQuestion,
@@ -243,6 +244,35 @@ export default function HomeTab() {
             <StudyTile key={key} {...rest} width={tileWidth} />
           ))}
         </View>
+
+        {/* NAT-only: Entretien d'assimilation banner */}
+        {user?.goal === "NAT" ? (
+          <Pressable
+            onPress={go(() => router.push("/assimilation"))}
+            style={({ pressed }) => [
+              styles.assimBanner,
+              pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+            ]}
+          >
+            <LinearGradient
+              colors={[Colors.secondary, "#ff6b5f"]}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 1 }}
+              style={styles.assimIcon}
+            >
+              <MessageCircle size={20} color={Colors.white} strokeWidth={2.2} />
+            </LinearGradient>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.assimTitle}>Entretien d'assimilation</Text>
+              <Text style={styles.assimSub} numberOfLines={2}>
+                {user.civicTestPassed
+                  ? "Étape suivante après le test civique — questions vrai/faux."
+                  : "Après le test civique, préparez l'entretien en préfecture."}
+              </Text>
+            </View>
+            <ChevronRight size={18} color={Colors.textTertiary} />
+          </Pressable>
+        ) : null}
 
         {/* Derniers thèmes */}
         <View style={[styles.sectionHeader, { marginTop: 24 }]}>
@@ -759,5 +789,41 @@ const styles = StyleSheet.create({
     fontSize: 12,
     color: Colors.onSurface,
     letterSpacing: 0.1,
+  },
+
+  assimBanner: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    backgroundColor: Colors.white,
+    marginTop: 14,
+    ...cardShadow,
+  },
+  assimIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    shadowColor: Colors.secondary,
+    shadowOpacity: 0.3,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 4,
+  },
+  assimTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  assimSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: Colors.textSecondary,
+    marginTop: 2,
   },
 });

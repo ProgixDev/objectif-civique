@@ -60,6 +60,7 @@ export default function SignIn() {
         companion: null,
         createdAt: new Date().toISOString(),
         subscriptionPlan: "free",
+        civicTestPassed: null,
       };
       setUser(signed);
     }

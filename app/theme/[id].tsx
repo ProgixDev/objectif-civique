@@ -143,6 +143,27 @@ export default function ThemeDetail() {
               <View key={i} style={styles.lessonSection}>
                 <Text style={styles.lessonHeading}>{s.heading}</Text>
                 <Text style={styles.lessonBody}>{s.body}</Text>
+                {s.subTopics?.length ? (
+                  <View style={styles.subTopicList}>
+                    {s.subTopics.map((sub, j) => (
+                      <View key={j} style={styles.subTopicCard}>
+                        <Text style={styles.subTopicTitle}>{sub.title}</Text>
+                        <Text style={styles.subTopicSummary}>
+                          {sub.summary}
+                        </Text>
+                        {sub.facts?.length ? (
+                          <View style={styles.subTopicFacts}>
+                            {sub.facts.map((f, k) => (
+                              <Text key={k} style={styles.subTopicFact}>
+                                ·  {f}
+                              </Text>
+                            ))}
+                          </View>
+                        ) : null}
+                      </View>
+                    ))}
+                  </View>
+                ) : null}
               </View>
             ))}
             <View style={styles.keyPointsBox}>
@@ -372,5 +393,41 @@ const styles = StyleSheet.create({
     fontSize: 13,
     lineHeight: 20,
     color: Colors.primary,
+  },
+
+  subTopicList: {
+    marginTop: 10,
+    gap: 8,
+  },
+  subTopicCard: {
+    padding: 12,
+    borderRadius: 12,
+    backgroundColor: Colors.white,
+    borderWidth: 1,
+    borderColor: "rgba(0,85,164,0.18)",
+  },
+  subTopicTitle: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 12.5,
+    color: Colors.primary,
+    letterSpacing: 0.1,
+    marginBottom: 4,
+  },
+  subTopicSummary: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12.5,
+    lineHeight: 18,
+    color: Colors.onSurface,
+  },
+  subTopicFacts: {
+    marginTop: 6,
+    paddingLeft: 4,
+    gap: 2,
+  },
+  subTopicFact: {
+    fontFamily: "Inter_500Medium",
+    fontSize: 11.5,
+    lineHeight: 16,
+    color: Colors.textSecondary,
   },
 });

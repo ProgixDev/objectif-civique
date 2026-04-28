@@ -35,10 +35,12 @@ export default function Step1() {
   const existing = useUserStore((s) => s.user?.goal);
   const [selected, setSelected] = useState<Category | null>(existing ?? null);
 
+  const total = selected === "NAT" ? 5 : 4;
+
   return (
     <PersoCarouselShell
       step={1}
-      total={4}
+      total={total}
       title="Quel examen visez-vous ?"
       subtitle="Nous adapterons les questions à votre objectif."
       options={OPTIONS}
@@ -46,8 +48,16 @@ export default function Step1() {
       onSelect={(k) => setSelected(k as Category)}
       onConfirm={() => {
         if (!selected) return;
-        updateUser({ goal: selected });
-        router.push("/(onboarding)/perso/step-2");
+        const patch: { goal: Category; civicTestPassed?: null } = {
+          goal: selected,
+        };
+        if (selected !== "NAT") patch.civicTestPassed = null;
+        updateUser(patch);
+        if (selected === "NAT") {
+          router.push("/(onboarding)/perso/step-civic-test");
+        } else {
+          router.push("/(onboarding)/perso/step-2");
+        }
       }}
     />
   );
