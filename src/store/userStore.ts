@@ -28,6 +28,15 @@ export const useUserStore = create<UserState>()(
     {
       name: "objectif-civique-user",
       storage: createJSONStorage(() => zustandStorage),
+      // Version du schéma persistant : bumpe ce nombre si la forme de `User`
+      // change de manière incompatible. Zustand efface alors le state
+      // persistant obsolète au prochain démarrage.
+      version: 2,
+      migrate: () => ({
+        // Si on hydrate depuis une version antérieure, on remet à zéro.
+        user: null,
+        hydrated: false,
+      }),
       onRehydrateStorage: () => (state) => {
         state?.setHydrated(true);
       },

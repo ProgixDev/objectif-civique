@@ -30,6 +30,7 @@ import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
 import { useUserStore } from "@/store/userStore";
 import { createId } from "@/lib/id";
 import { useHaptics } from "@/hooks/useHaptics";
+import { toast } from "@/store/toastStore";
 
 const schema = z.object({
   firstName: z.string().min(2, "Prénom trop court"),
@@ -63,25 +64,40 @@ export default function SignUp() {
 
   const onSubmit = async (data: FormData) => {
     setSubmitting(true);
-    await new Promise((r) => setTimeout(r, 600));
-    setUser({
-      id: createId("user"),
-      firstName: data.firstName.trim(),
-      email: data.email.trim().toLowerCase(),
-      goal: null,
-      deadline: null,
-      level: null,
-      channel: null,
-      companion: null,
-      createdAt: new Date().toISOString(),
-      subscriptionPlan: "free",
-      civicTestPassed: null,
-      languageTestStatus: null,
-      languageCertLevel: null,
-    });
-    haptics.success();
-    setSubmitting(false);
-    router.replace("/(onboarding)/perso/step-1");
+    try {
+      await new Promise((r) => setTimeout(r, 600));
+
+      // 1) Crée et sauvegarde l'utilisateur d'abord — bloquant.
+      setUser({
+        id: createId("user"),
+        firstName: data.firstName.trim(),
+        email: data.email.trim().toLowerCase(),
+        goal: null,
+        deadline: null,
+        level: null,
+        channel: null,
+        companion: null,
+        createdAt: new Date().toISOString(),
+        subscriptionPlan: "free",
+        civicTestPassed: null,
+        languageTestStatus: null,
+        languageCertLevel: null,
+      });
+
+      // 2) Haptique en fire-and-forget — ne doit jamais bloquer la navigation.
+      //    .catch() pour ne pas générer d'unhandled rejection si le module
+      //    haptique n'est pas dispo sur le device.
+      Promise.resolve(haptics.success()).catch(() => {});
+
+      // 3) Navigation immédiate vers le 1er écran de perso.
+      router.replace("/(onboarding)/perso/step-1");
+    } catch (err) {
+      // Affiche une erreur compréhensible plutôt que de crasher silencieusement.
+      toast.error("Une erreur est survenue. Veuillez réessayer.");
+      console.warn("[sign-up] onSubmit failed", err);
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   return (

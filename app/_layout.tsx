@@ -8,6 +8,7 @@ import * as SplashScreen from "expo-splash-screen";
 import { Colors } from "@/constants/colors";
 import { useAppFonts } from "@/hooks/useFonts";
 import { ToastHost } from "@/components/ui/Toast";
+import { ErrorBoundary } from "@/components/ErrorBoundary";
 import { useProgressStore } from "@/store/progressStore";
 
 SplashScreen.preventAutoHideAsync().catch(() => {});
@@ -28,17 +29,19 @@ export default function RootLayout() {
   }
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }}>
-      <SafeAreaProvider>
-        <StatusBar style="dark" />
-        <Stack
-          screenOptions={{
-            headerShown: false,
-            contentStyle: { backgroundColor: Colors.surface },
-          }}
-        />
-        <ToastHost />
-      </SafeAreaProvider>
-    </GestureHandlerRootView>
+    <ErrorBoundary>
+      <GestureHandlerRootView style={{ flex: 1 }}>
+        <SafeAreaProvider>
+          <StatusBar style="dark" />
+          <Stack
+            screenOptions={{
+              headerShown: false,
+              contentStyle: { backgroundColor: Colors.surface },
+            }}
+          />
+          <ToastHost />
+        </SafeAreaProvider>
+      </GestureHandlerRootView>
+    </ErrorBoundary>
   );
 }

@@ -45,30 +45,35 @@ export default function SignIn() {
 
   const onSubmit = async (data: FormData) => {
     setSubmitting(true);
-    await new Promise((r) => setTimeout(r, 500));
+    try {
+      await new Promise((r) => setTimeout(r, 500));
 
-    let signed = user;
-    if (!signed || signed.email !== data.email.trim().toLowerCase()) {
-      signed = {
-        id: createId("user"),
-        firstName: "Étudiant",
-        email: data.email.trim().toLowerCase(),
-        goal: null,
-        deadline: null,
-        level: null,
-        channel: null,
-        companion: null,
-        createdAt: new Date().toISOString(),
-        subscriptionPlan: "free",
-        civicTestPassed: null,
-        languageTestStatus: null,
-        languageCertLevel: null,
-      };
-      setUser(signed);
+      let signed = user;
+      if (!signed || signed.email !== data.email.trim().toLowerCase()) {
+        signed = {
+          id: createId("user"),
+          firstName: "Étudiant",
+          email: data.email.trim().toLowerCase(),
+          goal: null,
+          deadline: null,
+          level: null,
+          channel: null,
+          companion: null,
+          createdAt: new Date().toISOString(),
+          subscriptionPlan: "free",
+          civicTestPassed: null,
+          languageTestStatus: null,
+          languageCertLevel: null,
+        };
+        setUser(signed);
+      }
+      Promise.resolve(haptics.success()).catch(() => {});
+      router.replace("/(tabs)");
+    } catch (err) {
+      console.warn("[sign-in] onSubmit failed", err);
+    } finally {
+      setSubmitting(false);
     }
-    haptics.success();
-    setSubmitting(false);
-    router.replace("/(tabs)");
   };
 
   return (

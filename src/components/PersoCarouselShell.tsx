@@ -1,5 +1,6 @@
 import React from "react";
 import {
+  Image,
   ImageSourcePropType,
   Pressable,
   ScrollView,
@@ -7,11 +8,9 @@ import {
   Text,
   View,
 } from "react-native";
-import { Image } from "expo-image";
 import { router } from "expo-router";
 import { Check, ChevronLeft } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
-import { MotiView } from "moti";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Shadows } from "@/constants/shadows";
@@ -158,88 +157,75 @@ function OptionCard({
   const Icon = option.Icon;
   const hasImage = !!option.image;
 
+  // Wrapper plat, sans MotiView : Reanimated 4 + Moti causent des crashes
+  // natifs sporadiques sur certains appareils Android en release.
   return (
-    <MotiView
-      from={{ opacity: 0, translateY: 12 }}
-      animate={{ opacity: 1, translateY: 0 }}
-      transition={{
-        type: "timing",
-        duration: 320,
-        delay: 80 + index * 60,
-      }}
+    <Pressable
+      onPress={onPress}
+      accessibilityRole="radio"
+      accessibilityState={{ selected }}
+      accessibilityLabel={option.title}
+      style={({ pressed }) => [
+        styles.card,
+        selected && styles.cardSelected,
+        pressed && { opacity: 0.9, transform: [{ scale: 0.995 }] },
+      ]}
     >
-      <Pressable
-        onPress={onPress}
-        accessibilityRole="radio"
-        accessibilityState={{ selected }}
-        accessibilityLabel={option.title}
-        style={({ pressed }) => [
-          styles.card,
-          selected && styles.cardSelected,
-          pressed && { opacity: 0.9, transform: [{ scale: 0.995 }] },
+      <View
+        style={[
+          styles.iconTile,
+          selected && styles.iconTileSelected,
+          hasImage && styles.iconTileImage,
         ]}
       >
-        <View
-          style={[
-            styles.iconTile,
-            selected && styles.iconTileSelected,
-            hasImage && styles.iconTileImage,
-          ]}
-        >
-          {hasImage ? (
-            <Image
-              source={option.image}
-              style={styles.iconImage}
-              contentFit="contain"
-            />
-          ) : Icon ? (
-            <Icon
-              size={26}
-              color={selected ? Colors.success : Colors.onSurface}
-            />
-          ) : null}
-        </View>
+        {hasImage ? (
+          <Image
+            source={option.image}
+            style={styles.iconImage}
+            resizeMode="contain"
+          />
+        ) : Icon ? (
+          <Icon
+            size={26}
+            color={selected ? Colors.success : Colors.onSurface}
+          />
+        ) : null}
+      </View>
 
-        <View style={styles.cardText}>
-          <Text
-            style={[styles.cardTitle, selected && { color: Colors.success }]}
+      <View style={styles.cardText}>
+        <Text
+          style={[styles.cardTitle, selected && { color: Colors.success }]}
+        >
+          {option.title}
+        </Text>
+        {option.description ? (
+          <Text style={styles.cardDescription}>{option.description}</Text>
+        ) : null}
+        {option.footerBadge ? (
+          <View
+            style={[
+              styles.footerBadge,
+              selected && styles.footerBadgeSelected,
+            ]}
           >
-            {option.title}
-          </Text>
-          {option.description ? (
-            <Text style={styles.cardDescription}>{option.description}</Text>
-          ) : null}
-          {option.footerBadge ? (
-            <View
+            <Text
               style={[
-                styles.footerBadge,
-                selected && styles.footerBadgeSelected,
+                styles.footerBadgeText,
+                selected && { color: Colors.success },
               ]}
             >
-              <Text
-                style={[
-                  styles.footerBadgeText,
-                  selected && { color: Colors.success },
-                ]}
-              >
-                {option.footerBadge}
-              </Text>
-            </View>
-          ) : null}
-        </View>
+              {option.footerBadge}
+            </Text>
+          </View>
+        ) : null}
+      </View>
 
-        <View
-          style={[
-            styles.radio,
-            selected && styles.radioSelected,
-          ]}
-        >
-          {selected ? (
-            <Check size={14} color={Colors.white} strokeWidth={3} />
-          ) : null}
-        </View>
-      </Pressable>
-    </MotiView>
+      <View style={[styles.radio, selected && styles.radioSelected]}>
+        {selected ? (
+          <Check size={14} color={Colors.white} strokeWidth={3} />
+        ) : null}
+      </View>
+    </Pressable>
   );
 }
 
