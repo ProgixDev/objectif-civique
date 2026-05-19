@@ -8,7 +8,15 @@ import {
   View,
 } from "react-native";
 import { router } from "expo-router";
-import { Calendar, Target, TrendingUp, X } from "lucide-react-native";
+import {
+  Calendar,
+  Check,
+  Crown,
+  Sparkles,
+  Target,
+  TrendingUp,
+  X,
+} from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
@@ -16,11 +24,14 @@ import { ProgressCircle } from "@/components/ui/ProgressCircle";
 import { GlassCard } from "@/components/ui/GlassCard";
 import { Badge } from "@/components/ui/Badge";
 import { PillButton } from "@/components/ui/PillButton";
+import { GhostButton } from "@/components/ui/GhostButton";
 import { IconTilePattern } from "@/components/IconTilePattern";
 import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
 import { DEADLINE_LABELS, GOAL_LABELS, LEVEL_LABELS } from "@/data/questions";
+import { PLANS } from "@/data/plans";
 import { scoreSession } from "@/lib/quizEngine";
+import { recommendPlan } from "@/lib/planRecommendation";
 
 export default function AssessmentResult() {
   const insets = useSafeAreaInsets();
@@ -43,6 +54,9 @@ export default function AssessmentResult() {
   const deadlineLabel = user?.deadline ? DEADLINE_LABELS[user.deadline] : "—";
   const levelLabel = user?.level ? LEVEL_LABELS[user.level] : "—";
 
+  const reco = recommendPlan(user, recap);
+  const recoPlan = PLANS.find((p) => p.id === reco.planId);
+
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
       <IconTilePattern
@@ -56,7 +70,7 @@ export default function AssessmentResult() {
       <View style={[styles.topBar, { paddingTop: insets.top + 12 }]}>
         <View style={{ flex: 1 }} />
         <Pressable
-          onPress={() => router.replace("/(onboarding)/paywall")}
+          onPress={() => router.replace("/(tabs)")}
           style={styles.closeBtn}
           accessibilityLabel="Fermer"
         >
@@ -112,16 +126,71 @@ export default function AssessmentResult() {
         >
           <Badge label="Programme intensif" variant="info" />
           <Badge label="Révision quotidienne" variant="gold" />
-          <Badge label="Coaching humain" variant="success" />
+          <Badge label="Accompagnement humain" variant="success" />
         </ScrollView>
 
-        <PillButton
-          label="Voir mon plan personnalisé"
-          size="md"
-          variant="primary"
+        {/* Carte de recommandation personnalisée — axe + forfait suggéré */}
+        {recoPlan ? (
+          <View style={styles.recoCard}>
+            <View style={styles.recoBadgeRow}>
+              <Sparkles size={12} color={Colors.white} />
+              <Text style={styles.recoBadgeText}>RECOMMANDÉ POUR VOUS</Text>
+            </View>
+
+            <View style={styles.recoFocus}>
+              <Text style={styles.recoFocusLabel}>Axe prioritaire</Text>
+              <Text style={styles.recoFocusTitle}>{reco.focusLabel}</Text>
+              <Text style={styles.recoFocusDesc}>
+                {reco.focusDescription}
+              </Text>
+            </View>
+
+            <View style={styles.recoPlanRow}>
+              <View style={styles.recoPlanIcon}>
+                <Crown size={18} color={Colors.white} />
+              </View>
+              <View style={{ flex: 1 }}>
+                <Text style={styles.recoPlanLabel}>Formule recommandée</Text>
+                <Text style={styles.recoPlanTitle}>
+                  {recoPlan.title}
+                  <Text style={styles.recoPlanPrice}>  ·  {recoPlan.price}</Text>
+                </Text>
+              </View>
+            </View>
+
+            {reco.reasons.length > 0 ? (
+              <View style={styles.reasonsList}>
+                {reco.reasons.map((r, i) => (
+                  <View key={i} style={styles.reasonRow}>
+                    <View style={styles.reasonBullet}>
+                      <Check
+                        size={11}
+                        color={Colors.white}
+                        strokeWidth={3}
+                      />
+                    </View>
+                    <Text style={styles.reasonText}>{r}</Text>
+                  </View>
+                ))}
+              </View>
+            ) : null}
+
+            <PillButton
+              label="Découvrir ce forfait"
+              variant="primary"
+              size="md"
+              fullWidth
+              onPress={() => router.push("/subscription")}
+              style={{ marginTop: 14 }}
+            />
+          </View>
+        ) : null}
+
+        <GhostButton
+          label="Continuer en version gratuite"
           fullWidth
-          onPress={() => router.replace("/(onboarding)/paywall")}
-          style={{ marginTop: 24 }}
+          onPress={() => router.replace("/(tabs)")}
+          style={{ marginTop: 12 }}
         />
       </ScrollView>
     </View>
@@ -160,5 +229,120 @@ const styles = StyleSheet.create({
     top: 0,
     left: 0,
     right: 0,
+  },
+
+  recoCard: {
+    marginTop: 22,
+    padding: 18,
+    borderRadius: 22,
+    backgroundColor: Colors.white,
+    borderWidth: 2,
+    borderColor: Colors.primary,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.18,
+    shadowRadius: 20,
+    shadowOffset: { width: 0, height: 12 },
+    elevation: 7,
+  },
+  recoBadgeRow: {
+    alignSelf: "flex-start",
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 5,
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    borderRadius: 999,
+    backgroundColor: Colors.primary,
+    marginBottom: 14,
+  },
+  recoBadgeText: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 10,
+    color: Colors.white,
+    letterSpacing: 0.8,
+  },
+  recoFocus: {
+    marginBottom: 14,
+  },
+  recoFocusLabel: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 10.5,
+    color: Colors.textTertiary,
+    letterSpacing: 1.2,
+    textTransform: "uppercase",
+    marginBottom: 4,
+  },
+  recoFocusTitle: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 18,
+    lineHeight: 24,
+    color: Colors.onSurface,
+    letterSpacing: -0.3,
+  },
+  recoFocusDesc: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 19,
+    color: Colors.textSecondary,
+    marginTop: 4,
+  },
+  recoPlanRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 12,
+    borderRadius: 16,
+    backgroundColor: "rgba(0,85,164,0.08)",
+    marginBottom: 14,
+  },
+  recoPlanIcon: {
+    width: 38,
+    height: 38,
+    borderRadius: 12,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: Colors.primary,
+  },
+  recoPlanLabel: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 10,
+    color: Colors.primary,
+    letterSpacing: 1.1,
+    textTransform: "uppercase",
+  },
+  recoPlanTitle: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 15,
+    color: Colors.onSurface,
+    marginTop: 2,
+  },
+  recoPlanPrice: {
+    fontFamily: "Inter_500Medium",
+    color: Colors.textSecondary,
+    fontSize: 13,
+  },
+  reasonsList: {
+    gap: 8,
+  },
+  reasonRow: {
+    flexDirection: "row",
+    alignItems: "flex-start",
+    gap: 10,
+  },
+  reasonBullet: {
+    width: 18,
+    height: 18,
+    borderRadius: 999,
+    backgroundColor: Colors.success,
+    alignItems: "center",
+    justifyContent: "center",
+    marginTop: 1,
+  },
+  reasonText: {
+    flex: 1,
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 18,
+    color: Colors.onSurface,
   },
 });

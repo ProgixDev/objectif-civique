@@ -120,9 +120,9 @@ export const FORUM_THREADS: ForumThread[] = [
     authorInitials: "YN",
     authorGoal: "NAT",
     topic: "general",
-    title: "Niveau B1 : quelles ressources recommander ?",
+    title: "Niveau B2 : quelles ressources recommander ?",
     body:
-      "Je dois justifier du niveau B1 de français pour la naturalisation. Quelles ressources, podcasts ou livres vous recommandez pour m'améliorer en plus de l'application ?",
+      "Je dois justifier du niveau B2 de français pour la naturalisation. Quelles ressources, podcasts ou livres vous recommandez pour m'améliorer en plus de l'application ?",
     createdAt: "2026-04-10T19:30:00Z",
     views: 176,
     replies: [
@@ -132,7 +132,7 @@ export const FORUM_THREADS: ForumThread[] = [
         authorInitials: "CF",
         authorGoal: "NAT",
         body:
-          "Le podcast InnerFrench est excellent pour le B1/B2. Lire des articles de Le Monde ou France Info régulièrement aide aussi beaucoup pour la culture générale.",
+          "Le podcast InnerFrench est excellent pour le B2. Lire des articles de Le Monde ou France Info régulièrement aide aussi beaucoup pour la culture générale.",
         createdAt: "2026-04-11T08:12:00Z",
         helpful: 22,
       },

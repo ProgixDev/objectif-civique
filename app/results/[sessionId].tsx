@@ -282,7 +282,7 @@ export default function Results() {
         {recap.percent < 70 ? (
           <GlassCard style={{ marginTop: 24 }}>
             <Text style={[Typography.bodyLarge, { color: Colors.onSurface }]}>
-              Un coach humain peut vous aider
+              Un accompagnement humain peut vous aider
             </Text>
             <Text
               style={[

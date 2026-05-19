@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import {
+  Image,
   Pressable,
   ScrollView,
   Share,
@@ -13,6 +14,7 @@ import {
   ChevronRight,
   FileText,
   Globe,
+  Handshake,
   LifeBuoy,
   LogOut,
   Share2,
@@ -32,6 +34,7 @@ import { GOAL_LABELS } from "@/data/questions";
 import { PLAN_LABELS } from "@/data/plans";
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
+import { getPresentation } from "@/lib/goalPresentation";
 
 export default function Profile() {
   const insets = useSafeAreaInsets();
@@ -42,6 +45,7 @@ export default function Profile() {
   const [showLogout, setShowLogout] = useState(false);
 
   const goalLabel = user?.goal ? GOAL_LABELS[user.goal] : "—";
+  const presentation = getPresentation(user?.goal ?? null);
   const successRate = getSuccessRate({
     questionsAnswered: progress.questionsAnswered,
     correctCount: progress.correctCount,
@@ -100,13 +104,43 @@ export default function Profile() {
             </Pressable>
           </View>
 
-          <View style={styles.goalPill}>
-            <Sparkles size={12} color={Colors.primary} />
-            <Text style={styles.goalPillText} numberOfLines={1}>
-              {goalLabel}
-            </Text>
-          </View>
         </View>
+
+        {/* Carte de parcours — communique clairement le cas */}
+        {user?.goal ? (
+          <View style={styles.goalCard}>
+            <LinearGradient
+              colors={[Colors.primary, "#003a75"]}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 1 }}
+              style={StyleSheet.absoluteFillObject}
+            />
+            <View style={styles.goalCardBlob} pointerEvents="none" />
+
+            {presentation.illustration ? (
+              <Image
+                source={presentation.illustration}
+                style={styles.goalCardIllustration}
+                resizeMode="contain"
+              />
+            ) : null}
+
+            <View style={styles.goalCardContent}>
+              <Text style={styles.goalCardLabel}>{presentation.banner}</Text>
+              <Text style={styles.goalCardTitle}>
+                {presentation.longLabel}
+              </Text>
+              <View style={styles.goalCardRow}>
+                <View style={styles.goalCardChip}>
+                  <Sparkles size={11} color={Colors.white} />
+                  <Text style={styles.goalCardChipText}>
+                    Niveau requis · {presentation.languageLevel}
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        ) : null}
 
         {/* Stats strip */}
         <View style={styles.statsRow}>
@@ -179,8 +213,13 @@ export default function Profile() {
           />
           <Row
             icon={<Sparkles size={16} color={Colors.primary} />}
-            label="Coaching humain"
+            label="Accompagnement"
             onPress={go(() => router.push("/coaching"))}
+          />
+          <Row
+            icon={<Handshake size={16} color={Colors.primary} />}
+            label="Programme partenaire"
+            onPress={go(() => router.push("/partnership" as any))}
           />
           <Row
             icon={<Star size={16} color={Colors.primary} />}
@@ -370,6 +409,88 @@ const styles = StyleSheet.create({
     color: Colors.primary,
     letterSpacing: 0.2,
     flexShrink: 1,
+  },
+
+  goalCard: {
+    position: "relative",
+    overflow: "hidden",
+    borderRadius: 20,
+    paddingHorizontal: 16,
+    paddingVertical: 16,
+    marginBottom: 14,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.3,
+    shadowRadius: 18,
+    shadowOffset: { width: 0, height: 10 },
+    elevation: 6,
+    minHeight: 140,
+  },
+  goalCardIllustration: {
+    position: "absolute",
+    top: 10,
+    right: 6,
+    width: 92,
+    height: 92,
+  },
+  goalCardContent: {
+    paddingRight: 86,
+  },
+  goalCardBlob: {
+    position: "absolute",
+    top: -40,
+    right: -30,
+    width: 140,
+    height: 140,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.10)",
+  },
+  goalCardHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 10,
+    marginBottom: 8,
+  },
+  goalCardIcon: {
+    width: 32,
+    height: 32,
+    borderRadius: 10,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "rgba(255,255,255,0.18)",
+  },
+  goalCardLabel: {
+    flex: 1,
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 10,
+    color: "rgba(255,255,255,0.75)",
+    letterSpacing: 1.6,
+  },
+  goalCardTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 18,
+    lineHeight: 23,
+    color: Colors.white,
+    letterSpacing: -0.3,
+    marginBottom: 12,
+  },
+  goalCardRow: {
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  goalCardChip: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.18)",
+  },
+  goalCardChipText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 11,
+    color: Colors.white,
+    letterSpacing: 0.3,
   },
 
   statsRow: {

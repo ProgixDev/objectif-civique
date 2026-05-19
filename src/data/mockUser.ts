@@ -12,12 +12,14 @@ export const MOCK_USER: User = {
   createdAt: new Date().toISOString(),
   subscriptionPlan: "free",
   civicTestPassed: null,
+  languageTestStatus: null,
+  languageCertLevel: null,
 };
 
 export const INITIAL_THEME_PROGRESS: Record<string, number> = {
-  institutions: 72,
-  histoire: 58,
-  valeurs: 85,
-  geographie: 40,
-  culture: 33,
+  "principes-valeurs-republique": 85,
+  "droits-et-devoirs": 58,
+  "systeme-institutionnel": 72,
+  "histoire-geographie-culture": 40,
+  "vivre-en-societe": 33,
 };

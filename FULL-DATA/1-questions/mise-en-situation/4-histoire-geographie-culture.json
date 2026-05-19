@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f8df85fc09247513a44d9595",
+    "shortId": "Q-4D9595",
+    "statement": "Quelle région française est la plus peuplée du pays ?",
+    "choices": [
+      {
+        "text": "L’Île-de-France",
+        "isCorrect": true
+      },
+      {
+        "text": "La Nouvelle-Aquitaine",
+        "isCorrect": false
+      },
+      {
+        "text": "L’Occitanie",
+        "isCorrect": false
+      },
+      {
+        "text": "La Bretagne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’Île-de-France, qui comprend Paris et sa banlieue, est la région la plus peuplée avec environ 12 millions d’habitants.",
+    "theme": "histoire-geographie-culture",
+    "subTheme": "territoires-et-geographie",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Régions françaises",
+      "Démographie et économie"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  }
+]

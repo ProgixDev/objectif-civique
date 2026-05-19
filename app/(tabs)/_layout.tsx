@@ -14,7 +14,8 @@ export default function TabsLayout() {
       }}
     >
       <Tabs.Screen name="index" options={{ title: "Accueil" }} />
-      <Tabs.Screen name="revise" options={{ title: "Entraînement" }} />
+      <Tabs.Screen name="revise" options={{ title: "Réviser" }} />
+      <Tabs.Screen name="simulation" options={{ title: "Simulation" }} />
       <Tabs.Screen name="progress" options={{ title: "Progrès" }} />
       <Tabs.Screen name="profile" options={{ title: "Profil" }} />
     </Tabs>

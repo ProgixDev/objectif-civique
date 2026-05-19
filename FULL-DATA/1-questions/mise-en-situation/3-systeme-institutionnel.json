@@ -1,0 +1,989 @@
+[
+  {
+    "id": "5d48858b5a04c2ff64d9495a",
+    "shortId": "Q-D9495A",
+    "statement": "En tant qu'agent de la mairie, une administrée vous demande d'être reçue uniquement par une femme pour des raisons religieuses. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous accédez à sa demande pour lui faire plaisir",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous lui expliquez que le service public ne peut pas organiser son fonctionnement selon les croyances des usagers",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous refusez de la recevoir",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous transférez immédiatement le dossier à une collègue",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "a957c6d26ef4df10c466a16f",
+    "shortId": "Q-66A16F",
+    "statement": "On vous propose de voter à la place d'un ami en échange d'un service. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous acceptez si c'est pour une bonne cause",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous refusez, le vote est personnel et secret",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous acceptez si l'ami vous rembourse",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous demandez l'avis du responsable du bureau de vote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "ba7b452eb20ae46ffdb5fcd7",
+    "shortId": "Q-B5FCD7",
+    "statement": "Vous avez été condamné pour un délit à une peine d'emprisonnement avec sursis. Pouvez-vous encore voter ?",
+    "choices": [
+      {
+        "text": "Non, toute condamnation pénale entraîne la perte du droit de vote",
+        "isCorrect": false
+      },
+      {
+        "text": "Cela dépend : seule une décision judiciaire spécifique privant des droits civiques entraîne la perte du droit de vote",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, le sursis signifie que vous gardez tous vos droits",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, vous devez attendre 5 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "230cec1cea9a12f54c7561ae",
+    "shortId": "Q-7561AE",
+    "statement": "Vous souhaitez voter aux prochaines élections. Que devez-vous avoir fait au préalable ?",
+    "choices": [
+      {
+        "text": "Vous inscrire sur les listes électorales de votre mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Passer un test de culture civique",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir un casier judiciaire vierge",
+        "isCorrect": false
+      },
+      {
+        "text": "Résider en France depuis 10 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "593ec9f2bdc4677d5e9b7187",
+    "shortId": "Q-9B7187",
+    "statement": "Vous souhaitez voter à l'élection présidentielle mais vous n'êtes pas inscrit sur les listes électorales. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous vous présentez quand même au bureau de vote",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous vous inscrivez sur les listes électorales avant la date limite (souvent 6 semaines avant le scrutin)",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous ne pouvez plus voter, c'est trop tard",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous pouvez voter dans n'importe quelle mairie sans inscription",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7a5e8dd18e5c2d9d55f50ac0",
+    "shortId": "Q-F50AC0",
+    "statement": "Vous êtes naturalisé français depuis 3 ans. Vous apprenez que votre naturalisation pourrait être retirée. Dans quels cas est-ce possible ?",
+    "choices": [
+      {
+        "text": "Jamais, la naturalisation est définitive",
+        "isCorrect": false
+      },
+      {
+        "text": "En cas d'indignité (condamnation pour crimes ou délits contre la nation, terrorisme) dans les 10 ans suivant la naturalisation, ou si elle a été obtenue par fraude",
+        "isCorrect": true
+      },
+      {
+        "text": "Seulement si vous retournez dans votre pays d'origine",
+        "isCorrect": false
+      },
+      {
+        "text": "Jamais si vous avez un enfant français",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "714f35b2c42143c294391c6c",
+    "shortId": "Q-391C6C",
+    "statement": "Vous êtes naturalisé français et souhaitez voter pour la première fois. Que devez-vous faire ?",
+    "choices": [
+      {
+        "text": "Vous inscrire sur les listes électorales de votre commune",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous présenter directement au bureau de vote",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous êtes automatiquement inscrit",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre la mise à jour automatique des listes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "a359a4d78e95575260eb728a",
+    "shortId": "Q-EB728A",
+    "statement": "Vous êtes sélectionné comme juré dans un procès d'assises. Pouvez-vous refuser ?",
+    "choices": [
+      {
+        "text": "Oui, librement",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf motif légitime reconnu par le tribunal (maladie, déplacement professionnel indispensable…)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui si vous avez peur",
+        "isCorrect": false
+      },
+      {
+        "text": "Non jamais, c'est une obligation absolue sans exception",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "systeme-institutionnel",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "17e82d721094790a2af12cea",
+    "shortId": "Q-F12CEA",
+    "statement": "Le jour des élections présidentielles, vous êtes en voyage. Pouvez-vous quand même voter ?",
+    "choices": [
+      {
+        "text": "Oui, en établissant une procuration avant le départ",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c’est impossible de voter à distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, on peut voter en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf si on revient le jour même",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lors des élections en France, le vote en ligne n’existe pas pour l’élection présidentielle. En revanche, un électeur absent le jour du scrutin peut voter par procuration, à condition de l’avoir établie avant le départ.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Le vote par procuration est autorisé en France"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "1157670dcac0870dfbdd1d81",
+    "shortId": "Q-DD1D81",
+    "statement": "Un citoyen est convoqué comme juré pour une session d’assises. Quelle est sa responsabilité ?",
+    "choices": [
+      {
+        "text": "Participer aux délibérations pour juger les crimes les plus graves",
+        "isCorrect": true
+      },
+      {
+        "text": "Assister en tant qu’observateur sans voter",
+        "isCorrect": false
+      },
+      {
+        "text": "Décider seul de la peine du prévenu",
+        "isCorrect": false
+      },
+      {
+        "text": "Représenter la commune lors du procès",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les jurés participent, avec les magistrats, aux délibérations et au verdict des cours d’assises pour les crimes graves.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Cour d’assises",
+      "Participation citoyenne à la justice"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "03d4ca1615fdbc193777ec85",
+    "shortId": "Q-77EC85",
+    "statement": "Un couple se rend dans un bureau de vote. Comment doivent-ils voter ?",
+    "choices": [
+      {
+        "text": "Ils doivent entrer ensemble dans le même isoloir",
+        "isCorrect": false
+      },
+      {
+        "text": "Chacun doit entrer seul dans un isoloir",
+        "isCorrect": true
+      },
+      {
+        "text": "L’homme décide du vote pour le couple",
+        "isCorrect": false
+      },
+      {
+        "text": "L’homme entre dans l’isoloir pendant que la femme attend",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le vote est personnel, libre et secret. Chaque électeur vote seul dans l’isoloir.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [
+      "csp"
+    ],
+    "type": "mise-en-situation",
+    "isOfficial": true,
+    "helpNotes": [
+      "Vote secret",
+      "Égalité femmes-hommes"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "eab5724b4d8bc2b912b55da8",
+    "shortId": "Q-B55DA8",
+    "statement": "Un maire décide de prendre une décision qui contrevient à une ordonnance de justice. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "Le maire peut agir en dehors des lois si la majorité des citoyens sont d'accord",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire commet une violation de la loi et peut être poursuivi",
+        "isCorrect": true
+      },
+      {
+        "text": "Le maire peut déroger à la loi sous certaines conditions",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire ne risque rien s'il agit pour le bien des citoyens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les décisions de justice doivent toujours être respectées, et un élu qui les ignore peut être sanctionné.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Etat de droit",
+      "Respect des décisions judiciaires"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "73b5fa5727f73e3a8853d5f8",
+    "shortId": "Q-53D5F8",
+    "statement": "Un maire refuse d’appliquer une décision de justice concernant l’urbanisme. Que risque-t-il ?",
+    "choices": [
+      {
+        "text": "Des poursuites pour non-respect de l’autorité judiciaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Une simple remarque du préfet sans sanction",
+        "isCorrect": false
+      },
+      {
+        "text": "Rien, car il est élu par la population",
+        "isCorrect": false
+      },
+      {
+        "text": "Un avertissement sans conséquence juridique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dans un État de droit, les décisions de justice s’imposent à tous, y compris aux élus. Le maire peut être sanctionné s’il refuse de les exécuter.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Principe de séparation des pouvoirs",
+      "Respect de la justice"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "2794a0af7311aeb4fa59ef4a",
+    "shortId": "Q-59EF4A",
+    "statement": "Un électeur ne reçoit pas sa carte électorale avant les élections. Peut-il voter ?",
+    "choices": [
+      {
+        "text": "Oui, avec une pièce d’identité et une inscription valide sur les listes électorales",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, la carte électorale est obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement s’il présente une facture récente",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf autorisation du maire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inscription sur les listes électorales et une pièce d’identité suffisent pour voter, même sans carte électorale.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code électoral",
+      "Conditions pour voter"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "c35747b130a7812d6ebdd43d",
+    "shortId": "Q-BDD43D",
+    "statement": "Un élu local décide de passer outre une décision de justice. Quelle est la conséquence juridique ?",
+    "choices": [
+      {
+        "text": "L'élu local n'est pas responsable, la décision est un choix politique",
+        "isCorrect": false
+      },
+      {
+        "text": "L'élu commet une illégalité et peut être poursuivi en justice",
+        "isCorrect": true
+      },
+      {
+        "text": "L'élu peut agir ainsi tant qu'il informe la population",
+        "isCorrect": false
+      },
+      {
+        "text": "L'élu peut déroger à la loi s'il a le soutien de la majorité des citoyens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les décisions de justice doivent être respectées, et un élu ne peut passer outre sans encourir des poursuites.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Etat de droit",
+      "Respect des décisions judiciaires"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "4d2469d480be37e9b0c26284",
+    "shortId": "Q-C26284",
+    "statement": "Une personne française vivant à l’étranger veut voter à l’élection présidentielle. Quelle démarche doit-elle faire ?",
+    "choices": [
+      {
+        "text": "S’inscrire sur la liste électorale consulaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Envoyer son vote directement par courrier au ministère",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander à un proche en France de voter à sa place",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle ne peut pas voter depuis l’étranger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les Français de l’étranger votent dans les consulats ou ambassades s’ils sont inscrits sur la liste électorale consulaire.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "democratie-et-droit-de-vote",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Vote des Français établis hors de France",
+      "Inscription consulaire"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "e854936b6c587687193cdcd5",
+    "shortId": "Q-3CDCD5",
+    "statement": "Le Conseil constitutionnel annule une partie d’une loi récemment adoptée. Pourquoi ?",
+    "choices": [
+      {
+        "text": "Parce qu’elle est contraire à la Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Parce qu’elle est impopulaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Parce que le président en a décidé ainsi",
+        "isCorrect": false
+      },
+      {
+        "text": "Parce qu’elle a été votée trop vite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil constitutionnel veille à ce que les lois respectent la Constitution. Il peut en annuler tout ou partie si elles la contredisent.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Rôle du Conseil constitutionnel",
+      "Contrôle de constitutionnalité"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "faed6f710c82ffcae392918e",
+    "shortId": "Q-92918E",
+    "statement": "Le gouvernement présente un projet de loi au Parlement. Quelle est la première étape du processus législatif ?",
+    "choices": [
+      {
+        "text": "L’examen du texte en commission à l’Assemblée nationale ou au Sénat",
+        "isCorrect": true
+      },
+      {
+        "text": "La promulgation immédiate par le président",
+        "isCorrect": false
+      },
+      {
+        "text": "Le vote des citoyens par référendum",
+        "isCorrect": false
+      },
+      {
+        "text": "L’approbation préalable du Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un projet de loi est d’abord examiné en commission parlementaire avant d’être débattu et voté en séance publique.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Procédure législative",
+      "Rôle des commissions parlementaires"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "1c977317563dd3a1e8fe0acb",
+    "shortId": "Q-FE0ACB",
+    "statement": "Le gouvernement veut faire adopter une loi urgente. Quelle procédure spéciale peut-il utiliser ?",
+    "choices": [
+      {
+        "text": "Engager la responsabilité du gouvernement avec l’article 49.3",
+        "isCorrect": true
+      },
+      {
+        "text": "Faire voter la loi uniquement au Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander au président de la République de la signer directement",
+        "isCorrect": false
+      },
+      {
+        "text": "Soumettre la loi à un référendum local",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’article 49.3 permet au gouvernement d’adopter un texte sans vote, sauf si une motion de censure est votée.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Constitution de la Ve République",
+      "Procédure du 49.3"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "113a24e8b9e39720c79c0a50",
+    "shortId": "Q-9C0A50",
+    "statement": "Un conseiller municipal démissionne avant la fin de son mandat. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "Il est remplacé par le suivant sur la liste électorale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le maire choisit librement un remplaçant",
+        "isCorrect": false
+      },
+      {
+        "text": "Une nouvelle élection est immédiatement organisée",
+        "isCorrect": false
+      },
+      {
+        "text": "Le conseil municipal perd son quorum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas de démission, le siège vacant est attribué au suivant sur la liste, sans nouvelle élection sauf cas particulier.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code général des collectivités territoriales",
+      "Règles de remplacement des élus locaux"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "c88c6985be2ce34ba45c20dd",
+    "shortId": "Q-5C20DD",
+    "statement": "Un député ne respecte pas le règlement de l’Assemblée nationale. Qui peut le sanctionner ?",
+    "choices": [
+      {
+        "text": "Le président de l’Assemblée nationale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Les électeurs de sa circonscription",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chaque assemblée parlementaire dispose de son propre règlement et d’un président chargé de faire respecter la discipline.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Pouvoir législatif",
+      "Règlement intérieur de l’Assemblée nationale"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "716ac8955fede36cd3556251",
+    "shortId": "Q-556251",
+    "statement": "Un habitant souhaite signaler un problème de voirie (trou dans la chaussée). À qui doit-il s’adresser ?",
+    "choices": [
+      {
+        "text": "À la mairie de sa commune",
+        "isCorrect": true
+      },
+      {
+        "text": "Au ministère de l’Intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture de région",
+        "isCorrect": false
+      },
+      {
+        "text": "Au président de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La voirie communale relève de la compétence du maire. Les citoyens peuvent signaler les problèmes à la mairie.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Compétences des communes",
+      "Rôle du maire"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "16c050d110de36426ce10023",
+    "shortId": "Q-E10023",
+    "statement": "Un événement grave survient : **le Président de la République décède en cours de mandat.** Selon la Constitution, qui assure alors l’intérim à la tête de l’État ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de l’Assemblée nationale.",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du Sénat.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "En cas de décès, démission ou empêchement du Président de la République, **la Constitution prévoit que le président du Sénat assure l’intérim jusqu’à l’élection d’un nouveau président.**",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "C’est la deuxième autorité de l’État.",
+      "Il dirige la chambre haute du Parlement."
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "bb0665f3c010dad40dedea53",
+    "shortId": "Q-EDEA53",
+    "statement": "Une nouvelle loi sur l’environnement est promulguée par le président de la République. Que signifie cette action ?",
+    "choices": [
+      {
+        "text": "Le président rend la loi applicable après son adoption par le Parlement",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président crée la loi sans vote du Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président peut modifier la loi à tout moment",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président applique une décision du Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La promulgation est l’acte par lequel le président rend une loi exécutoire après son adoption par le Parlement.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "organisation-de-la-republique",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Article 10 de la Constitution",
+      "Processus législatif français"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "0e30269d22bbcc830facb82c",
+    "shortId": "Q-ACB82C",
+    "statement": "Un Français vivant en Espagne souhaite voter aux élections municipales de sa ville de résidence. Est-ce possible ?",
+    "choices": [
+      {
+        "text": "Oui, car les citoyens européens peuvent voter aux municipales dans leur pays de résidence",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, seuls les citoyens du pays peuvent voter",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement pour les élections présidentielles",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, car il doit résider en France pour voter",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les citoyens de l’Union européenne peuvent voter et se présenter aux élections municipales dans le pays de résidence.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "union-europeenne",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Citoyenneté européenne",
+      "Droit de vote local dans l’UE"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "115babe6f4cda00a8b3513ca",
+    "shortId": "Q-3513CA",
+    "statement": "Un citoyen français souhaite adresser une plainte à une institution européenne pour violation de ses droits. À qui peut-il s’adresser ?",
+    "choices": [
+      {
+        "text": "Au Médiateur européen",
+        "isCorrect": true
+      },
+      {
+        "text": "Au président du Conseil européen",
+        "isCorrect": false
+      },
+      {
+        "text": "Au Parlement français",
+        "isCorrect": false
+      },
+      {
+        "text": "À la Banque centrale européenne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Médiateur européen peut être saisi par tout citoyen de l’Union pour un dysfonctionnement d’une institution européenne.",
+    "theme": "systeme-institutionnel",
+    "subTheme": "union-europeenne",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Institutions européennes",
+      "Rôle du Médiateur européen"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  }
+]

@@ -44,7 +44,7 @@ export default function FlashcardDeck() {
     }
     const cat = slug as Category;
     return {
-      deck: QUESTIONS.filter((q) => q.category === cat),
+      deck: QUESTIONS.filter((q) => q.categories.includes(cat)),
       title: GOAL_LABELS[cat] ?? "Flashcards",
     };
   }, [slug]);

@@ -50,7 +50,9 @@ export default function ThemeDetail() {
   const filtered = useMemo(
     () =>
       QUESTIONS.filter(
-        (q) => q.theme === themeId && (cat === "Tous" || q.category === cat)
+        (q) =>
+          q.theme === themeId &&
+          (cat === "Tous" || q.categories.includes(cat as Category))
       ),
     [themeId, cat]
   );

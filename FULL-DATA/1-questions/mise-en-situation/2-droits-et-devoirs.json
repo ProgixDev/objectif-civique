@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "b32b485c0709ac3ed16ad4a6",
+    "shortId": "Q-6AD4A6",
+    "statement": "Amara veut voter aux élections municipales. Elle est ressortissante italienne vivant en France depuis 5 ans.\n\nPeut-elle voter ?",
+    "choices": [
+      {
+        "text": "Non, seuls les Français peuvent voter aux élections municipales",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, tout ressortissant de l'Union européenne résidant en France peut voter aux élections municipales",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, uniquement aux élections européennes",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement si elle a la résidence permanente",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "9226e96270996e7922e3dbd7",
+    "shortId": "Q-E3DBD7",
+    "statement": "Amira est demandeure d'asile. Elle vient d'arriver en France et veut déposer une demande.\n\nAuprès de quelle instance doit-elle déposer sa demande ?",
+    "choices": [
+      {
+        "text": "Directement à la préfecture sans délai",
+        "isCorrect": false
+      },
+      {
+        "text": "À l'OFPRA (Office Français de Protection des Réfugiés et Apatrides) via une procédure initiée en préfecture",
+        "isCorrect": true
+      },
+      {
+        "text": "Au tribunal administratif directement",
+        "isCorrect": false
+      },
+      {
+        "text": "À la CPAM",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "e67c53b4d427c1c5dde34a0d",
+    "shortId": "Q-E34A0D",
+    "statement": "Amira est victime de discrimination à l'embauche en raison de son prénom. Elle veut agir.\n\nQuelle institution peut l'aider ?",
+    "choices": [
+      {
+        "text": "L'ambassade de son pays d'origine",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Défenseur des droits (saisine gratuite en ligne ou par courrier)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le tribunal correctionnel directement",
+        "isCorrect": false
+      },
+      {
+        "text": "La préfecture de police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "9a901f626b7f4dc3d897d584",
+    "shortId": "Q-97D584",
+    "statement": "Aziz a reçu une OQTF (Obligation de Quitter le Territoire Français). Il conteste cette décision.\n\nQuel recours dispose-t-il ?",
+    "choices": [
+      {
+        "text": "Il n'existe aucun recours contre une OQTF",
+        "isCorrect": false
+      },
+      {
+        "text": "Un recours devant le tribunal administratif dans un délai de 30 jours (ou 48h si maintenu en rétention)",
+        "isCorrect": true
+      },
+      {
+        "text": "Un recours uniquement devant la Cour européenne des droits de l'homme",
+        "isCorrect": false
+      },
+      {
+        "text": "Un recours auprès du préfet qui a signé la décision",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "46c70e5fa25947b891ae89ea",
+    "shortId": "Q-AE89EA",
+    "statement": "Aïcha a fait une demande de carte de séjour. La préfecture ne répond pas depuis 6 mois.\n\nQue peut-elle faire ?",
+    "choices": [
+      {
+        "text": "Attendre indéfiniment",
+        "isCorrect": false
+      },
+      {
+        "text": "Saisir le tribunal administratif pour excès de pouvoir (silence de l'administration valant refus implicite après 4 mois) ou contacter le Défenseur des droits",
+        "isCorrect": true
+      },
+      {
+        "text": "Contacter uniquement une association",
+        "isCorrect": false
+      },
+      {
+        "text": "Partir et revenir avec un nouveau visa",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "dcdfd10c84e4d3ed8049fc03",
+    "shortId": "Q-49FC03",
+    "statement": "Dans la rue, un policier vous demande de présenter vos papiers. Vous devez :",
+    "choices": [
+      {
+        "text": "Obtempérer : le contrôle d'identité est légal",
+        "isCorrect": true
+      },
+      {
+        "text": "Refuser catégoriquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Appeler votre avocat avant de répondre",
+        "isCorrect": false
+      },
+      {
+        "text": "Partir rapidement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7000ef1ff439d39aa0ae0813",
+    "shortId": "Q-AE0813",
+    "statement": "Dans les transports en commun, vous n'avez pas votre titre de transport. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "Vous devez payer une amende et régulariser votre situation",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous pouvez partir si vous expliquez avoir oublié",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous devez descendre immédiatement sans amende",
+        "isCorrect": false
+      },
+      {
+        "text": "Rien si c'est la première fois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "cd3f4d3546eb521e5273498d",
+    "shortId": "Q-73498D",
+    "statement": "Dans votre entreprise, un collègue fait des blagues racistes. Quelle est la bonne attitude ?",
+    "choices": [
+      {
+        "text": "Vous riez pour ne pas créer de problème",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous dites clairement que ce comportement est inacceptable et le signalez à l'employeur ou aux RH",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous ignorez la situation",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous attendez que cela empire pour agir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7600be1173c21c2c7ef322ad",
+    "shortId": "Q-F322AD",
+    "statement": "Djamila a besoin d'aide pour des démarches administratives complexes (CAF, CPAM, impôts). Elle ne sait pas où aller.\n\nQuel service peut l'aider gratuitement ?",
+    "choices": [
+      {
+        "text": "Uniquement un avocat payant",
+        "isCorrect": false
+      },
+      {
+        "text": "Une Maison France Services (MFS) ou un Point d'Accès au Droit (PAD)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le commissariat de police",
+        "isCorrect": false
+      },
+      {
+        "text": "La chambre des notaires",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "61bd031089f8919997388589",
+    "shortId": "Q-388589",
+    "statement": "Farida a reçu une convocation des impôts. Elle pense avoir fait une erreur dans sa déclaration.\n\nQue peut-elle faire ?",
+    "choices": [
+      {
+        "text": "Ignorer la convocation",
+        "isCorrect": false
+      },
+      {
+        "text": "Se présenter avec ses justificatifs et, si besoin, demander l'assistance d'un conseiller fiscal ou d'un avocat",
+        "isCorrect": true
+      },
+      {
+        "text": "Contacter uniquement son banquier",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander l'aide de son employeur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5bf98e7d3b2062d55e8a9ab9",
+    "shortId": "Q-8A9AB9",
+    "statement": "Fatou est locataire. Son propriétaire la harcèle pour qu'elle parte (appels incessants, refus de travaux, intimidations).\n\nQuel terme juridique décrit cette situation ?",
+    "choices": [
+      {
+        "text": "Un conflit de voisinage ordinaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Un harcèlement locatif (ou traquenard locatif), puni par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Un simple désaccord entre particuliers",
+        "isCorrect": false
+      },
+      {
+        "text": "Une situation de force majeure",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5329f31147436bac6e7e3c26",
+    "shortId": "Q-7E3C26",
+    "statement": "Fatou veut faire régulariser sa situation administrative. Elle est en France depuis 10 ans sans papiers.\n\nPeut-elle être régularisée ?",
+    "choices": [
+      {
+        "text": "Non, les personnes sans papiers ne peuvent jamais être régularisées",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, sous certaines conditions (travail, attaches familiales, durée de résidence) via une demande en préfecture",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, automatiquement après 10 ans de résidence",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sans un visa de retour dans son pays",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "764a3d85580dedce51fa0fa2",
+    "shortId": "Q-FA0FA2",
+    "statement": "Hamid veut demander la naturalisation française. Il réside en France depuis 8 ans.\n\nQuelles sont les conditions principales ?",
+    "choices": [
+      {
+        "text": "Uniquement avoir 5 ans de résidence régulière",
+        "isCorrect": false
+      },
+      {
+        "text": "Résidence régulière depuis au moins 5 ans, intégration dans la société française (langue, emploi, civisme), assimilation des valeurs de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Parler parfaitement français sans accent",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir travaillé sans interruption pendant 10 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "10988be721a4ba66f72e8ece",
+    "shortId": "Q-2E8ECE",
+    "statement": "Hamid veut porter plainte contre son voisin qui lui a volé son vélo.\n\nOù peut-il porter plainte ?",
+    "choices": [
+      {
+        "text": "Uniquement au tribunal correctionnel en personne",
+        "isCorrect": false
+      },
+      {
+        "text": "Au commissariat de police ou à la brigade de gendarmerie de son domicile",
+        "isCorrect": true
+      },
+      {
+        "text": "À la mairie de sa commune",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture de police uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "3685519c24a1009888568e08",
+    "shortId": "Q-568E08",
+    "statement": "Ibrahim est en France avec un visa touristique depuis 3 mois. Il veut travailler.\n\nPeut-il travailler légalement avec ce visa ?",
+    "choices": [
+      {
+        "text": "Oui, tout visa permet de travailler",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, un visa touristique n'autorise pas à travailler en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, s'il trouve un employeur d'accord",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, mais il peut travailler au noir légalement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "f1586d3298e830bf0a016601",
+    "shortId": "Q-016601",
+    "statement": "Karim a besoin d'argent urgent. Un ami lui propose de signer un document chez le notaire pour emprunter sur son logement.\n\nDe quoi s'agit-il probablement ?",
+    "choices": [
+      {
+        "text": "Un bail locatif",
+        "isCorrect": false
+      },
+      {
+        "text": "Un prêt hypothécaire garanti par le logement",
+        "isCorrect": true
+      },
+      {
+        "text": "Une donation",
+        "isCorrect": false
+      },
+      {
+        "text": "Une promesse de vente",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4f6a61eca82421f056872167",
+    "shortId": "Q-872167",
+    "statement": "Karim a reçu une décision de refus de titre de séjour de la préfecture. Il ne comprend pas les motifs.\n\nQue peut-il faire ?",
+    "choices": [
+      {
+        "text": "Rien, les décisions préfectorales sont définitives",
+        "isCorrect": false
+      },
+      {
+        "text": "Déposer un recours gracieux auprès de la préfecture ou un recours contentieux devant le tribunal administratif",
+        "isCorrect": true
+      },
+      {
+        "text": "Contacter uniquement une association",
+        "isCorrect": false
+      },
+      {
+        "text": "Partir en France illégalement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "27d73dce8a5a469e5811ab01",
+    "shortId": "Q-11AB01",
+    "statement": "Leila veut s'inscrire sur les listes électorales pour voter aux prochaines élections.\n\nOù et comment peut-elle s'inscrire ?",
+    "choices": [
+      {
+        "text": "Uniquement en préfecture, sur rendez-vous",
+        "isCorrect": false
+      },
+      {
+        "text": "En ligne sur service-public.fr, à la mairie, ou automatiquement à 18 ans (si recensement citoyen effectué à 16 ans)",
+        "isCorrect": true
+      },
+      {
+        "text": "Par courrier recommandé au Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle doit attendre la prochaine élection et faire sa demande le jour du vote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "eefc1d56c744c848ba8b4d21",
+    "shortId": "Q-8B4D21",
+    "statement": "Lila est française et veut acquérir la nationalité française pour son enfant né à l'étranger.\n\nQuel est le principe applicable ?",
+    "choices": [
+      {
+        "text": "L'enfant doit attendre 18 ans pour faire une demande",
+        "isCorrect": false
+      },
+      {
+        "text": "L'enfant d'au moins un parent français est français par filiation (droit du sang), quel que soit le lieu de naissance",
+        "isCorrect": true
+      },
+      {
+        "text": "L'enfant doit vivre en France depuis 5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "L'enfant est automatiquement binational",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5577f456a2b33b1f2d20f78c",
+    "shortId": "Q-20F78C",
+    "statement": "Lors d'un achat en ligne, le vendeur refuse de vous rembourser bien que la loi vous donne 14 jours pour changer d'avis. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous acceptez le refus",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous envoyez une lettre recommandée rappelant votre droit de rétractation légal de 14 jours et saisissez la DGCCRF si nécessaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous laissez un avis négatif et n'agissez pas",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous abandonnez car c'est trop compliqué",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7129b608b22b9e1afffc0b1e",
+    "shortId": "Q-FC0B1E",
+    "statement": "Lors d'un entretien d'embauche, on vous demande si vous comptez avoir des enfants. Vous pouvez :",
+    "choices": [
+      {
+        "text": "Refuser de répondre, cette question est illégale",
+        "isCorrect": true
+      },
+      {
+        "text": "Répondre honnêtement pour maintenir de bonnes relations",
+        "isCorrect": false
+      },
+      {
+        "text": "Porter plainte immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Mentir pour obtenir le poste",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "e84cffef28785b5679966b46",
+    "shortId": "Q-966B46",
+    "statement": "Lors d'un examen civique, vous constatez qu'un autre candidat triche. Que risque-t-il ?",
+    "choices": [
+      {
+        "text": "Une simple mise en garde",
+        "isCorrect": false
+      },
+      {
+        "text": "L'interdiction de passer l'examen pendant 2 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "Une amende uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Rien si c'est la première fois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "931383da64468cf7283849a0",
+    "shortId": "Q-3849A0",
+    "statement": "Lors d'une réunion de copropriété, un voisin tient des propos antisémites. Quelle est la bonne réaction ?",
+    "choices": [
+      {
+        "text": "Vous approuvez si vous partagez ces opinions",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous intervenez pour rappeler que ces propos sont illégaux et peuvent être signalés à la police",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous quittez la réunion sans rien dire",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous notez les propos pour en rire avec des amis",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "95df5dbd14a0c4565115f574",
+    "shortId": "Q-15F574",
+    "statement": "Lors de votre demande de naturalisation, l'agent préfectoral vous demande si vous respectez la loi sur la polygamie. Comment répondez-vous ?",
+    "choices": [
+      {
+        "text": "Vous mentez pour ne pas créer de problème",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous répondez honnêtement : la polygamie est interdite en France et vous respectez cette loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous refusez de répondre",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous invitez l'agent à vérifier lui-même",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "6f35039df819d904e84de1b2",
+    "shortId": "Q-4DE1B2",
+    "statement": "Lors de votre demande de naturalisation, on vous demande de signer un document approuvant des pratiques contraires aux valeurs de la République. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous signez pour accélérer la procédure",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous refusez — adhérer aux valeurs républicaines est une condition sincère de la naturalisation",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous demandez un délai",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous contactez votre consulat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7f4fecb9b45ed1a2508c4b86",
+    "shortId": "Q-8C4B86",
+    "statement": "Malika veut divorcer mais n'a pas les moyens de payer un avocat.\n\nQuelle aide peut-elle obtenir ?",
+    "choices": [
+      {
+        "text": "Aucune, les avocats coûtent toujours cher",
+        "isCorrect": false
+      },
+      {
+        "text": "L'aide juridictionnelle, accordée sous conditions de ressources, prend en charge les honoraires d'avocat",
+        "isCorrect": true
+      },
+      {
+        "text": "Une aide uniquement pour les fonctionnaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Un avocat commis d'office uniquement en matière pénale",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1bbde6c61dc59aeb92e1dc83",
+    "shortId": "Q-E1DC83",
+    "statement": "Mehdi est condamné à une peine de prison avec sursis. Il ne comprend pas ce que ça signifie.\n\nQu'est-ce qu'une peine avec sursis ?",
+    "choices": [
+      {
+        "text": "Il va directement en prison pour la durée de la peine",
+        "isCorrect": false
+      },
+      {
+        "text": "La peine est prononcée mais son exécution est suspendue sous condition de ne pas récidiver",
+        "isCorrect": true
+      },
+      {
+        "text": "La peine est annulée définitivement",
+        "isCorrect": false
+      },
+      {
+        "text": "Il peut choisir de faire ou non la prison",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "b138e4248dab6ab6dbc67075",
+    "shortId": "Q-C67075",
+    "statement": "Mohamed a besoin d'un acte de naissance pour renouveler ses papiers. Il est né à l'étranger.\n\nOù peut-il l'obtenir ?",
+    "choices": [
+      {
+        "text": "À la mairie de Paris uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Auprès du Service Central d'État Civil de Nantes pour les personnes nées à l'étranger de nationalité française",
+        "isCorrect": true
+      },
+      {
+        "text": "Auprès du consulat français de son pays de naissance",
+        "isCorrect": false
+      },
+      {
+        "text": "Auprès de sa préfecture de résidence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "b3995d8b3b6dff9c67c4e46a",
+    "shortId": "Q-C4E46A",
+    "statement": "Mourad a reçu des courriers menaçants de son propriétaire. Il veut les conserver comme preuves.\n\nQuelle est la bonne pratique en matière de preuves ?",
+    "choices": [
+      {
+        "text": "Jeter les courriers, ils n'ont aucune valeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Conserver tous les courriers, les classer par date, et faire des copies numériques",
+        "isCorrect": true
+      },
+      {
+        "text": "Envoyer les courriers directement à la police",
+        "isCorrect": false
+      },
+      {
+        "text": "Déposer les courriers chez un notaire sans les lire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1f77cb02efb2aab815513c1e",
+    "shortId": "Q-513C1E",
+    "statement": "Mourad a subi un cambriolage. Il veut faire une déclaration.\n\nQuelles démarches doit-il effectuer ?",
+    "choices": [
+      {
+        "text": "Uniquement appeler son assurance",
+        "isCorrect": false
+      },
+      {
+        "text": "Porter plainte à la police ou à la gendarmerie, puis déclarer le sinistre à son assurance dans les 2 jours ouvrés",
+        "isCorrect": true
+      },
+      {
+        "text": "Réparer lui-même sans signaler",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre une semaine avant de décider",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "d30805e3f91599910589e0fd",
+    "shortId": "Q-89E0FD",
+    "statement": "Nadia a perdu sa carte d'identité. Elle veut la renouveler.\n\nQuelles sont les pièces à fournir en mairie ?",
+    "choices": [
+      {
+        "text": "Uniquement une photo d'identité récente",
+        "isCorrect": false
+      },
+      {
+        "text": "Un justificatif de domicile, une photo d'identité récente, et si possible l'ancienne carte (ou une déclaration de perte)",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement son passeport en cours de validité",
+        "isCorrect": false
+      },
+      {
+        "text": "Un certificat de nationalité française et son acte de naissance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "60772179479c327a0276b65e",
+    "shortId": "Q-76B65E",
+    "statement": "Nadia a reçu une décision de la CAF réduisant ses allocations. Elle conteste.\n\nQuelle est la procédure de recours ?",
+    "choices": [
+      {
+        "text": "Saisir directement le tribunal judiciaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Déposer un recours amiable auprès de la CAF, puis saisir le pôle social du tribunal judiciaire si besoin",
+        "isCorrect": true
+      },
+      {
+        "text": "Écrire au Président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Contacter uniquement un syndicat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "8aa226c9a25a0bd92bdd741a",
+    "shortId": "Q-DD741A",
+    "statement": "Nassim a été arrêté par la police. Il ne parle pas bien français.\n\nA-t-il le droit à un interprète ?",
+    "choices": [
+      {
+        "text": "Non, il doit se débrouiller seul",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, toute personne gardée à vue a le droit à un interprète dans une langue qu'elle comprend",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, mais seulement si l'interprète est disponible immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf pour les audiences devant le tribunal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7966be42494bbb152de32db9",
+    "shortId": "Q-E32DB9",
+    "statement": "Nassim a été interpellé par la police. Il est placé en garde à vue.\n\nQuels sont ses droits dès le début de la garde à vue ?",
+    "choices": [
+      {
+        "text": "Il n'a aucun droit pendant la garde à vue",
+        "isCorrect": false
+      },
+      {
+        "text": "Être informé de ses droits, garder le silence, être assisté d'un avocat, être examiné par un médecin, prévenir sa famille",
+        "isCorrect": true
+      },
+      {
+        "text": "Signer immédiatement toute déclaration",
+        "isCorrect": false
+      },
+      {
+        "text": "Partir librement après 6 heures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "b3fa58bd98e3745385836026",
+    "shortId": "Q-836026",
+    "statement": "Nassim vient de se marier. Il veut prendre des jours de congé pour son mariage.\n\nA-t-il droit à des jours de congé pour événements familiaux ?",
+    "choices": [
+      {
+        "text": "Non, les congés pour mariage ne sont pas légaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, 4 jours ouvrables sont accordés pour le mariage du salarié (légalement)",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, 1 seul jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf si la convention collective le prévoit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "0a42ec5f1786a0fc7ba475f6",
+    "shortId": "Q-A475F6",
+    "statement": "Pendant l'examen civique, votre téléphone portable sonne. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "Vous pouvez l'éteindre et continuer",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous êtes immédiatement exclu de l'examen",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous recevez un avertissement",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous perdez des points",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "7989962147b007da42af48d1",
+    "shortId": "Q-AF48D1",
+    "statement": "Pendant l'examen civique, vous réalisez que la question suivante est celle que vous avez vue dans une fuite. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous l'utilisez, personne ne le saura",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous signalez la situation à l'examinateur",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous répondez normalement sans signaler",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous quittez la salle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "ac0b473e80ed84fea6635878",
+    "shortId": "Q-635878",
+    "statement": "Pour votre naturalisation, vous devez passer l'examen civique. Quel est le seuil de réussite ?",
+    "choices": [
+      {
+        "text": "50% de bonnes réponses",
+        "isCorrect": false
+      },
+      {
+        "text": "60% de bonnes réponses",
+        "isCorrect": false
+      },
+      {
+        "text": "70% de bonnes réponses",
+        "isCorrect": false
+      },
+      {
+        "text": "80% de bonnes réponses (32/40)",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1cf62a6e6dcd8b97c7875af2",
+    "shortId": "Q-875AF2",
+    "statement": "Rachida reçoit une facture d'énergie qu'elle ne peut pas payer.\n\nVers quelle aide peut-elle se tourner ?",
+    "choices": [
+      {
+        "text": "Aucune aide n'existe pour les factures d'énergie",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Chèque Énergie, attribué automatiquement sous conditions de ressources",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement son fournisseur d'énergie",
+        "isCorrect": false
+      },
+      {
+        "text": "Une aide uniquement disponible en hiver",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "14e6894e6295f58dfe76fc2f",
+    "shortId": "Q-76FC2F",
+    "statement": "Rania est victime de violences conjugales. Elle a peur de porter plainte.\n\nQue peut-elle faire ?",
+    "choices": [
+      {
+        "text": "Ne rien faire tant qu'il n'y a pas de blessures graves",
+        "isCorrect": false
+      },
+      {
+        "text": "Appeler le 3919 (numéro national violences femmes info) ou se rendre à l'hôpital pour un certificat médical",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement envoyer un message à son agresseur",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre que la situation s'améliore seule",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "69432eff21494a77dfdf8b74",
+    "shortId": "Q-DF8B74",
+    "statement": "Sadia a besoin de renouveler sa carte de séjour. Elle ne sait pas comment faire.\n\nQuelle est la démarche à suivre ?",
+    "choices": [
+      {
+        "text": "Se rendre à la mairie de son domicile",
+        "isCorrect": false
+      },
+      {
+        "text": "Faire la demande sur le téléservice ANEF (Administation Numérique pour les Étrangers en France)",
+        "isCorrect": true
+      },
+      {
+        "text": "Envoyer une lettre au ministère de l'Intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Se rendre directement à la préfecture sans rendez-vous",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "982d1210a19b4814cdfc4ebe",
+    "shortId": "Q-FC4EBE",
+    "statement": "Salim veut accéder à son dossier médical conservé par son médecin.\n\nEn a-t-il le droit ?",
+    "choices": [
+      {
+        "text": "Non, le dossier médical appartient au médecin",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, tout patient a le droit d'accéder à son dossier médical sur simple demande",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, mais uniquement en présence d'un avocat",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, uniquement ses héritiers peuvent y accéder",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "d4108b04969cbc02a7256fc0",
+    "shortId": "Q-256FC0",
+    "statement": "Selim a reçu un PV de stationnement qu'il estime abusif. Il veut le contester.\n\nQuelle est la procédure ?",
+    "choices": [
+      {
+        "text": "Refuser de payer sans faire de démarche",
+        "isCorrect": false
+      },
+      {
+        "text": "Formuler un recours administratif en ligne ou par courrier auprès du service de gestion des amendes",
+        "isCorrect": true
+      },
+      {
+        "text": "Porter plainte contre l'agent verbalisateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Aller directement au tribunal correctionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "bd139a8d6ef09b6acf871567",
+    "shortId": "Q-871567",
+    "statement": "Sofia a besoin d'un casier judiciaire vierge pour postuler à un emploi.\n\nOù peut-elle obtenir son bulletin n°3 du casier judiciaire ?",
+    "choices": [
+      {
+        "text": "À la mairie de son domicile",
+        "isCorrect": false
+      },
+      {
+        "text": "En ligne sur le site du casier judiciaire national (cjn.justice.fr) ou par courrier",
+        "isCorrect": true
+      },
+      {
+        "text": "À la préfecture de police",
+        "isCorrect": false
+      },
+      {
+        "text": "Auprès de son employeur potentiel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "b7cce3a00e7df5aaf082e6a5",
+    "shortId": "Q-82E6A5",
+    "statement": "Soraya veut savoir si son enfant né en France est automatiquement français.\n\nQue prévoit la loi ?",
+    "choices": [
+      {
+        "text": "Oui, tout enfant né en France est automatiquement français",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, un enfant né en France de parents étrangers n'est pas automatiquement français à la naissance, mais peut le devenir",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, après 3 ans de résidence en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, uniquement si ses parents ont la nationalité française",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "44e42721a5525e4c8aff39b2",
+    "shortId": "Q-FF39B2",
+    "statement": "Tarek veut faire une procuration pour voter, car il sera absent le jour du scrutin.\n\nComment procéder ?",
+    "choices": [
+      {
+        "text": "Appeler directement la mairie le jour du vote",
+        "isCorrect": false
+      },
+      {
+        "text": "Remplir un formulaire de procuration en mairie ou en ligne et désigner un mandataire inscrit dans la même commune",
+        "isCorrect": true
+      },
+      {
+        "text": "Envoyer une lettre recommandée à la préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Voter par correspondance par email",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "696d4afb0239268a3f3d0419",
+    "shortId": "Q-3D0419",
+    "statement": "Un ami vous demande d'héberger chez vous une personne en situation irrégulière. Que risquez-vous ?",
+    "choices": [
+      {
+        "text": "Rien du tout",
+        "isCorrect": false
+      },
+      {
+        "text": "Potentiellement des poursuites pour aide à l'entrée ou au séjour irrégulier, sauf si c'est pour des raisons humanitaires (délit de solidarité limité par la loi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement si la personne commet un délit",
+        "isCorrect": false
+      },
+      {
+        "text": "Une amende symbolique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "dd09b8ebfeff198a12e03e7a",
+    "shortId": "Q-E03E7A",
+    "statement": "Un ami vous dit que la Seconde Guerre mondiale n'a pas eu lieu et que la Shoah est inventée. Que lui répondez-vous ?",
+    "choices": [
+      {
+        "text": "Vous êtes d'accord si ça vous amuse",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous lui expliquez que le négationnisme est un délit en France et que la Shoah est un fait historique documenté",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous changez de sujet",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous le dénoncez immédiatement à la police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "29ecfe630e60171cd0d8c372",
+    "shortId": "Q-D8C372",
+    "statement": "Un ami vous propose de l'aider à vendre des objets sans les déclarer au fisc. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous acceptez pour lui rendre service",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous refusez : la dissimulation de revenus est illégale et vous engage pénalement",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous acceptez si le montant est faible",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous demandez une partie des bénéfices",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "cfbff17848437e6f629acae8",
+    "shortId": "Q-9ACAE8",
+    "statement": "Un commerçant refuse de vous servir en raison de votre origine. C'est :",
+    "choices": [
+      {
+        "text": "Une discrimination illégale que vous pouvez signaler au Défenseur des droits",
+        "isCorrect": true
+      },
+      {
+        "text": "Légal dans le commerce privé",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceptable si décision commerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Légal s'il justifie par écrit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1cf1086cbde6b21fc44c291a",
+    "shortId": "Q-4C291A",
+    "statement": "Un employeur refuse de vous embaucher car vous portez un prénom étranger. C'est :",
+    "choices": [
+      {
+        "text": "Une discrimination illégale que vous pouvez signaler",
+        "isCorrect": true
+      },
+      {
+        "text": "Légal si l'entreprise le justifie",
+        "isCorrect": false
+      },
+      {
+        "text": "Légal dans le secteur privé",
+        "isCorrect": false
+      },
+      {
+        "text": "Toléré si justifié économiquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "bca17165cc70c2d8c79c1123",
+    "shortId": "Q-9C1123",
+    "statement": "Un inconnu vous agresse dans la rue. Que faites-vous ensuite ?",
+    "choices": [
+      {
+        "text": "Porter plainte au commissariat et appeler le 17, vous faire soigner",
+        "isCorrect": true
+      },
+      {
+        "text": "Régler l'affaire vous-même",
+        "isCorrect": false
+      },
+      {
+        "text": "Publier sa photo sur les réseaux sociaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre que les témoins interviennent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "8e887253413d2326e32e4a02",
+    "shortId": "Q-2E4A02",
+    "statement": "Un policier vous interpelle dans la rue et vous demande de décliner votre identité. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous refusez : c'est votre droit",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous présentez votre pièce d'identité : le contrôle d'identité est légal",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous fuyez",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous insultez le policier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "609799690611e9aab0630024",
+    "shortId": "Q-630024",
+    "statement": "Un salarié d'une entreprise privée souhaite prier durant sa pause déjeuner dans un espace de l'entreprise. L'employeur peut-il le lui interdire ?",
+    "choices": [
+      {
+        "text": "Oui, toute pratique religieuse est interdite en entreprise",
+        "isCorrect": false
+      },
+      {
+        "text": "Cela dépend : l'employeur peut l'interdire si cela perturbe l'activité ou pour des raisons objectives, mais ne peut imposer la neutralité religieuse en l'absence de règlement intérieur le prévoyant",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, la liberté religieuse est absolue",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, la laïcité s'applique à toutes les entreprises",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "17b5456fe45d8838b2c88a97",
+    "shortId": "Q-C88A97",
+    "statement": "Une personne refusée à un poste dans la fonction publique pour motif de son appartenance religieuse visible (port du voile dans une photo de candidature) peut-elle contester cette décision ?",
+    "choices": [
+      {
+        "text": "Non, la neutralité de la fonction publique justifie tout refus",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, le refus à l'embauche ne peut pas être basé sur la religion du candidat mais sur ses compétences. Elle peut saisir le Défenseur des droits",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, les agents publics doivent être neutres",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement devant le tribunal administratif",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "86be4f721a6608f265ddbd85",
+    "shortId": "Q-DDBD85",
+    "statement": "Votre employeur vous licencie sans vous donner de motif. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous acceptez sans rien dire",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous demandez par écrit les motifs du licenciement et consultez un avocat ou les prud'hommes si vous suspectez un licenciement sans cause réelle et sérieuse",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous reprenez le travail sans autorisation",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous sabotez l'entreprise",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "0dd31097bffb8d54130ef0ca",
+    "shortId": "Q-0EF0CA",
+    "statement": "Votre patron vous dit qu'il peut vous licencier car vous êtes enceinte. Est-ce légal ?",
+    "choices": [
+      {
+        "text": "Oui, si c'est pour des raisons économiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, le licenciement d'une femme enceinte est protégé et généralement interdit",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, en période d'essai",
+        "isCorrect": false
+      },
+      {
+        "text": "Cela dépend du contrat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1de71cd20e242d270a3855cd",
+    "shortId": "Q-3855CD",
+    "statement": "Votre propriétaire ne fait pas les réparations indispensables dans votre appartement. Que pouvez-vous faire ?",
+    "choices": [
+      {
+        "text": "Cesser de payer le loyer immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Mettre en demeure le propriétaire puis saisir le tribunal si nécessaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Quitter les lieux sans préavis",
+        "isCorrect": false
+      },
+      {
+        "text": "Ne rien faire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "536e1fde161b8a4691655fa5",
+    "shortId": "Q-655FA5",
+    "statement": "Votre propriétaire refuse de vous rendre votre dépôt de garantie sans justification valable. Que pouvez-vous faire ?",
+    "choices": [
+      {
+        "text": "Rien, le propriétaire a toujours raison",
+        "isCorrect": false
+      },
+      {
+        "text": "Saisir la commission départementale de conciliation puis le tribunal d'instance si nécessaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Entrer de force dans le logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Arrêter de payer vos factures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "9a473fceb7a2f1560980f2cc",
+    "shortId": "Q-80F2CC",
+    "statement": "Votre titre de séjour expire dans un mois. Que devez-vous faire ?",
+    "choices": [
+      {
+        "text": "Attendre qu'il expire puis le renouveler",
+        "isCorrect": false
+      },
+      {
+        "text": "Déposer votre demande de renouvellement avant l'expiration (idéalement 2 à 3 mois avant)",
+        "isCorrect": true
+      },
+      {
+        "text": "Partir du territoire et revenir",
+        "isCorrect": false
+      },
+      {
+        "text": "Rien, il se renouvelle automatiquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "fd282991e30f913bbb470684",
+    "shortId": "Q-470684",
+    "statement": "Votre voisin fait du bruit toutes les nuits après 22h. Quelle est la bonne attitude ?",
+    "choices": [
+      {
+        "text": "Lui parler calmement, et si ça persiste contacter les autorités (police, mairie)",
+        "isCorrect": true
+      },
+      {
+        "text": "Faire du bruit en représailles",
+        "isCorrect": false
+      },
+      {
+        "text": "Ne rien faire",
+        "isCorrect": false
+      },
+      {
+        "text": "L'insulter publiquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "3874bc99ac52c2624aec9ffc",
+    "shortId": "Q-EC9FFC",
+    "statement": "Votre voisin fait un bruit insupportable chaque nuit. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous faites pareil pour vous venger",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous lui parlez calmement d'abord, puis contactez le syndic ou la mairie si nécessaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous appelez directement la police sans essayer de régler à l'amiable",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous acceptez la situation",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "a59ccb969eb63b2295046832",
+    "shortId": "Q-046832",
+    "statement": "Votre voisin joue de la musique très fort à 2h du matin régulièrement. Quelle est la bonne démarche ?",
+    "choices": [
+      {
+        "text": "Vous cassez ses enceintes",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous appelez d'abord le 17 (police) pour signaler le trouble à la tranquillité publique, ou contactez la mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous organisez une fête encore plus bruyante",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous ne dites rien pour éviter les conflits",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4e0513ab2709ad5e715a8fb7",
+    "shortId": "Q-5A8FB7",
+    "statement": "Votre voisin vous demande de signer une pétition pour interdire la construction d'une mosquée dans votre quartier. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous signez sans réfléchir",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous refusez : en France, la liberté religieuse garantit à chacun le droit de pratiquer son culte",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous signez si la majorité du quartier est d'accord",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous signalez la pétition à la police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5ca4a9e32b1070fdd58d9764",
+    "shortId": "Q-8D9764",
+    "statement": "Vous apprenez que votre dossier de naturalisation a été refusé sans que vous en connaissiez les raisons. Que pouvez-vous faire ?",
+    "choices": [
+      {
+        "text": "Rien, la décision est définitive",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercer un recours administratif préalable obligatoire, puis si nécessaire un recours contentieux devant le tribunal administratif",
+        "isCorrect": true
+      },
+      {
+        "text": "Partir du territoire immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Recommencer un nouveau dossier sans déposer de recours",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "38e311107b3a6faff500529b",
+    "shortId": "Q-00529B",
+    "statement": "Vous arrivez en retard à votre session d'examen civique. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "On vous laisse entrer avec du retard",
+        "isCorrect": false
+      },
+      {
+        "text": "On vous propose une autre session le même jour",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous n'êtes pas admis à l'examen, le règlement est strict",
+        "isCorrect": true
+      },
+      {
+        "text": "On vous admet avec une pénalité de temps",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "8948814fab79ec4d04d73ba2",
+    "shortId": "Q-D73BA2",
+    "statement": "Vous assistez à un rassemblement non déclaré qui tourne à l'émeute. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous restez pour voir la suite",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous vous éloignez calmement des zones de violence et ne participez pas aux violences",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous filmez depuis le premier rang",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous rejoignez le groupe le plus nombreux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "51ed4aedc5938bec750dc5da",
+    "shortId": "Q-0DC5DA",
+    "statement": "Vous assistez à une altercation où une personne est gravement blessée et ne portez pas secours. C'est :",
+    "choices": [
+      {
+        "text": "Un délit punissable par la loi (non-assistance à personne en danger)",
+        "isCorrect": true
+      },
+      {
+        "text": "Votre droit si vous avez peur",
+        "isCorrect": false
+      },
+      {
+        "text": "Normal si vous ne connaissez pas la victime",
+        "isCorrect": false
+      },
+      {
+        "text": "Votre liberté personnelle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "656469430052db98c7b8d26e",
+    "shortId": "Q-B8D26E",
+    "statement": "Vous avez un litige avec votre voisin concernant une haie trop haute. Vers qui vous tournez-vous en premier ?",
+    "choices": [
+      {
+        "text": "Vous portez plainte directement au tribunal",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous tentez une médiation amiable ou contactez le conciliateur de justice, gratuit",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous coupez la haie vous-même sans prévenir",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous contactez le préfet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "e2c6f132152b32484385dae0",
+    "shortId": "Q-85DAE0",
+    "statement": "Vous avez été victime de discrimination à l'embauche en raison de votre origine. Quels sont vos recours ?",
+    "choices": [
+      {
+        "text": "Aucun recours efficace",
+        "isCorrect": false
+      },
+      {
+        "text": "Saisir le Défenseur des droits, porter plainte, et/ou saisir le conseil de prud'hommes avec des éléments de preuves",
+        "isCorrect": true
+      },
+      {
+        "text": "Accepter et chercher un autre emploi",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement si vous avez été explicitement informé du motif de refus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4ec2b991a0febcfffbc9ba1a",
+    "shortId": "Q-C9BA1A",
+    "statement": "Vous constatez une fuite d'eau importante dans votre appartement en location. Que faites-vous en premier ?",
+    "choices": [
+      {
+        "text": "Vous attendez que ça se règle tout seul",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous prévenez immédiatement votre propriétaire par écrit et coupez l'eau si possible",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous faites les réparations vous-même et déduisez le coût du loyer",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous quittez l'appartement sans prévenir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4bcb384b4db95fa8b1255458",
+    "shortId": "Q-255458",
+    "statement": "Vous recevez un avis d'imposition avec une erreur. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Contester auprès des services fiscaux dans les délais légaux",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer l'avis",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuser de payer",
+        "isCorrect": false
+      },
+      {
+        "text": "Payer puis partir à l'étranger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4440c385893ffcb8a1e65d7d",
+    "shortId": "Q-E65D7D",
+    "statement": "Vous recevez un avis d'imposition et vous ne comprenez pas pourquoi vous devez payer des impôts. Quelle est la bonne réponse ?",
+    "choices": [
+      {
+        "text": "Vous refusez de payer car vous ne comprenez pas",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous payez : c'est une obligation légale qui finance les services publics pour tous",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous attendez une relance avant de payer",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous payez seulement si vous en avez envie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "a853b74eabe3e68aad3cd462",
+    "shortId": "Q-3CD462",
+    "statement": "Vous recevez un courrier vous indiquant que vos données personnelles ont été utilisées sans votre consentement par une entreprise. Que pouvez-vous faire ?",
+    "choices": [
+      {
+        "text": "Rien, c'est inévitable à l'ère numérique",
+        "isCorrect": false
+      },
+      {
+        "text": "Saisir la CNIL (Commission Nationale de l'Informatique et des Libertés) qui peut sanctionner l'entreprise",
+        "isCorrect": true
+      },
+      {
+        "text": "Contacter uniquement votre avocat",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignorer le courrier",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "96f3ef129c18367bd3781cac",
+    "shortId": "Q-781CAC",
+    "statement": "Vous recevez une amende que vous estimez injustifiée (contravention de stationnement). Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous ne payez pas en espérant que ça s'oublie",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous contestez l'avis de contravention par lettre recommandée dans les délais légaux en expliquant les faits",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous insultez l'agent verbalisateur",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous payez immédiatement sans contester",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "2a01f54849e9590984084b8b",
+    "shortId": "Q-084B8B",
+    "statement": "Vous recevez une convocation devant le tribunal. Que devez-vous faire ?",
+    "choices": [
+      {
+        "text": "Vous présenter à la date indiquée, éventuellement avec un avocat",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer la convocation",
+        "isCorrect": false
+      },
+      {
+        "text": "Envoyer quelqu'un à votre place",
+        "isCorrect": false
+      },
+      {
+        "text": "Partir à l'étranger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "95df88ceec50061e1d604cd9",
+    "shortId": "Q-604CD9",
+    "statement": "Vous recevez une fausse information alarmante sur les réseaux sociaux. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vérifier auprès de sources officielles avant de partager",
+        "isCorrect": true
+      },
+      {
+        "text": "La partager immédiatement si elle semble importante",
+        "isCorrect": false
+      },
+      {
+        "text": "La croire si elle vient d'un ami",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ignorer sans la signaler",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "8ee2a029c845645ca07a75ae",
+    "shortId": "Q-7A75AE",
+    "statement": "Vous souhaitez créer une association pour aider les nouveaux arrivants dans votre commune. Quelle démarche effectuez-vous ?",
+    "choices": [
+      {
+        "text": "Vous avez besoin d'une autorisation préfectorale",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous déposez une déclaration en préfecture et publiez au Journal Officiel : c'est suffisant",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous devez obtenir l'accord du maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous devez avoir au moins 100 membres fondateurs",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "a8330f535973da142b47acf3",
+    "shortId": "Q-47ACF3",
+    "statement": "Vous souhaitez naturalisation française. Quel niveau de français est désormais exigé depuis 2026 ?",
+    "choices": [
+      {
+        "text": "Niveau A2",
+        "isCorrect": false
+      },
+      {
+        "text": "Niveau B1",
+        "isCorrect": false
+      },
+      {
+        "text": "Niveau B2",
+        "isCorrect": true
+      },
+      {
+        "text": "Niveau C1",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5210bbfd641800e7ecb33a0b",
+    "shortId": "Q-B33A0B",
+    "statement": "Vous souhaitez ouvrir votre propre commerce. Quelles sont les premières démarches ?",
+    "choices": [
+      {
+        "text": "Il suffit d'ouvrir sans formalité",
+        "isCorrect": false
+      },
+      {
+        "text": "Immatriculer votre entreprise (Guichet unique des formalités d'entreprises), choisir un statut juridique et déclarer votre activité",
+        "isCorrect": true
+      },
+      {
+        "text": "Demander l'autorisation du maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtenir l'accord de votre banque uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "4bbbd3fa5f90c7c3c986bf1b",
+    "shortId": "Q-86BF1B",
+    "statement": "Vous trouvez un portefeuille avec de l'argent dans la rue. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous le gardez car personne ne vous a vu",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous le remettez à la police ou à la mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous prenez l'argent et jetez le portefeuille",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous le donnez à une association",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "57a21366f8d8201079ab7653",
+    "shortId": "Q-AB7653",
+    "statement": "Vous trouvez un portefeuille contenant 500€ et une carte d'identité dans la rue. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous gardez l'argent et jetez le portefeuille",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous remettez le tout à la police ou à la mairie du lieu de découverte",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous gardez l'argent et envoyez le reste par courrier",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous attendez que le propriétaire revienne sur les lieux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "325db297d2c05756d499b25c",
+    "shortId": "Q-99B25C",
+    "statement": "Vous trouvez un portefeuille dans la rue avec de l'argent et des papiers. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Le déposer au commissariat ou à la mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Le garder entièrement",
+        "isCorrect": false
+      },
+      {
+        "text": "En garder l'argent et déposer les papiers",
+        "isCorrect": false
+      },
+      {
+        "text": "L'ignorer",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "d6cd458c6399bf6a0b3b5c69",
+    "shortId": "Q-3B5C69",
+    "statement": "Vous trouvez un portefeuille dans la rue. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous le gardez, nul ne vous a vu",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous le remettez à la police ou à la mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous prenez l'argent et jetez le reste",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous le laissez sur place",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "1b8de053c7572c7e942dfcb6",
+    "shortId": "Q-2DFCB6",
+    "statement": "Vous venez d'emménager dans un nouveau logement. Quelles démarches devez-vous effectuer ?",
+    "choices": [
+      {
+        "text": "Aucune démarche particulière",
+        "isCorrect": false
+      },
+      {
+        "text": "Signaler votre changement d'adresse à la mairie, aux impôts, à la Sécu, à la banque et aux autres organismes concernés",
+        "isCorrect": true
+      },
+      {
+        "text": "Seulement prévenir la mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement prévenir votre employeur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "ceca7f4694b9aa68bf744791",
+    "shortId": "Q-744791",
+    "statement": "Vous voyez quelqu'un se noyer dans un étang public. Vous ne savez pas nager. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous sautez à l'eau quand même",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous appelez le 18 ou le 15 et alertez les personnes autour de vous pour qu'une aide arrive rapidement",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous partez chercher de l'aide en courant sans appeler",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous ne faites rien car vous ne savez pas nager",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "15a443411e9cdab7e332975d",
+    "shortId": "Q-32975D",
+    "statement": "Vous êtes convoqué comme juré d'assises. Vous avez un empêchement sérieux. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Demander une dispense officielle auprès du tribunal avec justificatif",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer la convocation",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous y rendre mais refuser de participer au délibéré",
+        "isCorrect": false
+      },
+      {
+        "text": "Envoyer un représentant à votre place",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "ffd91e8183474f3b445d0a22",
+    "shortId": "Q-5D0A22",
+    "statement": "Vous êtes convoqué pour une audience au tribunal et vous ne comprenez pas le français. Quels sont vos droits ?",
+    "choices": [
+      {
+        "text": "Vous devez vous débrouiller seul",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous avez droit à un interprète désigné par le tribunal, gratuitement",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous pouvez refuser de comparaître",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous devez payer vous-même l'interprète",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "22bf65692d4c6ad437a92592",
+    "shortId": "Q-A92592",
+    "statement": "Vous êtes en désaccord avec une décision fiscale. Que pouvez-vous faire ?",
+    "choices": [
+      {
+        "text": "Former un recours gracieux auprès de l'administration puis saisir le tribunal administratif",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer la décision",
+        "isCorrect": false
+      },
+      {
+        "text": "Cesser de payer tous vos impôts",
+        "isCorrect": false
+      },
+      {
+        "text": "Contacter directement le Président de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5966cc6754e78a393480387a",
+    "shortId": "Q-80387A",
+    "statement": "Vous êtes témoin d'un accident de la route avec des blessés. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous continuez votre chemin pour ne pas être impliqué",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous appelez le 15 (SAMU) ou le 18 (pompiers) et portez secours si vous le pouvez",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous attendez que quelqu'un d'autre appelle",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous prenez des photos pour les réseaux sociaux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "5d346507a6f86ee8e83962fb",
+    "shortId": "Q-3962FB",
+    "statement": "Vous êtes témoin d'un accident de voiture avec des blessés. Que faites-vous en premier ?",
+    "choices": [
+      {
+        "text": "Appeler le 15 (SAMU) ou le 112 et ne pas déplacer les blessés",
+        "isCorrect": true
+      },
+      {
+        "text": "Prendre des photos pour les réseaux sociaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuer votre chemin",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre que quelqu'un d'autre appelle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "0b813fccb054425b152ed4bb",
+    "shortId": "Q-2ED4BB",
+    "statement": "Vous êtes témoin d'une altercation violente dans la rue. Une personne est blessée. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous filmez pour mettre en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous appelez le 15 ou le 18 et portez secours si vous le pouvez sans danger",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous passez votre chemin",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous attendez que quelqu'un d'autre intervienne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "f64388f377f796d115ff573f",
+    "shortId": "Q-FF573F",
+    "statement": "Vous êtes témoin d'une personne blessée dans la rue. Personne ne s'arrête. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous continuez votre chemin comme les autres",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous appelez le 15 ou le 18 et portez assistance",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous prenez une photo et la publiez",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous attendez qu'un médecin passe",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "591f1eadcfacc3b18c20241a",
+    "shortId": "Q-20241A",
+    "statement": "Vous êtes victime d'une escroquerie sur internet. Vous avez perdu de l'argent. Que faites-vous ?",
+    "choices": [
+      {
+        "text": "Vous acceptez la perte",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous portez plainte au commissariat ou à la gendarmerie et signalez sur la plateforme cybermalveillance.gouv.fr",
+        "isCorrect": true
+      },
+      {
+        "text": "Vous cherchez à vous venger vous-même",
+        "isCorrect": false
+      },
+      {
+        "text": "Vous ne faites rien par honte",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "85deddd1c2bab42acea085b1",
+    "shortId": "Q-A085B1",
+    "statement": "Vous êtes à Paris et ressentez une douleur thoracique intense. Quel numéro appelez-vous en premier ?",
+    "choices": [
+      {
+        "text": "Le 17 (police)",
+        "isCorrect": false
+      },
+      {
+        "text": "Le 15 (SAMU) car c'est une urgence médicale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le 18 (pompiers) uniquement pour les accidents",
+        "isCorrect": false
+      },
+      {
+        "text": "Votre médecin traitant",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "8d39e641eaf35cc1bc1e4bc1",
+    "shortId": "Q-1E4BC1",
+    "statement": "Walid a été condamné à payer des dommages et intérêts par le tribunal. La victime ne reçoit pas l'argent.\n\nQue peut faire la victime pour obtenir paiement ?",
+    "choices": [
+      {
+        "text": "Rien, si le condamné refuse de payer",
+        "isCorrect": false
+      },
+      {
+        "text": "Saisir un huissier de justice pour obtenir l'exécution forcée de la condamnation",
+        "isCorrect": true
+      },
+      {
+        "text": "Porter à nouveau plainte",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander au tribunal de re-juger l'affaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "9fbfb27df64e28b53fdc38b6",
+    "shortId": "Q-DC38B6",
+    "statement": "Youssef a reçu une contravention qu'il estime injuste. Il veut la contester.\n\nQuelle est la démarche ?",
+    "choices": [
+      {
+        "text": "Ignorer la contravention et ne pas la payer",
+        "isCorrect": false
+      },
+      {
+        "text": "Envoyer une requête en exonération à l'officier du ministère public dans les délais impartis",
+        "isCorrect": true
+      },
+      {
+        "text": "Porter plainte contre le policier",
+        "isCorrect": false
+      },
+      {
+        "text": "Contester directement auprès du maire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "45db58c3322a872b9fccae84",
+    "shortId": "Q-CCAE84",
+    "statement": "Zineb est sans ressources et a besoin d'aide financière d'urgence.\n\nQuelle aide peut-elle demander en urgence ?",
+    "choices": [
+      {
+        "text": "Aucune aide n'est disponible en urgence",
+        "isCorrect": false
+      },
+      {
+        "text": "Le RSA (Revenu de Solidarité Active) à la CAF, ou l'aide sociale d'urgence au CCAS de sa mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Une avance sur salaire à son employeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement le chômage si elle a travaillé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "theme": "droits-et-devoirs",
+    "subTheme": null,
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": false
+      }
+    ]
+  },
+  {
+    "id": "ab6e8d6258f1ee32688b1210",
+    "shortId": "Q-8B1210",
+    "statement": "Un citoyen se plaint de ne pas avoir accès à des soins médicaux. Quelles sont ses options légales en France ?",
+    "choices": [
+      {
+        "text": "Il peut demander une aide juridique et une prise en charge médicale même sans papiers",
+        "isCorrect": true
+      },
+      {
+        "text": "Il doit payer en entier ou risquer de ne pas être soigné",
+        "isCorrect": false
+      },
+      {
+        "text": "Il ne peut pas recevoir de soins avant d'avoir des papiers légaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Il peut être refoulé si la personne n'a pas une carte vitale",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L'accès aux soins est garanti à tous, même aux personnes en situation irrégulière, sous certaines conditions.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Accès aux soins en France",
+      "Droits du patient",
+      "Santé publique"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "3a3958349df946ce6feaf3fa",
+    "shortId": "Q-EAF3FA",
+    "statement": "Un citoyen souhaite enregistrer en vidéo un policier pendant une intervention réalisée dans un espace public. La loi l’y autorise-t-elle ?",
+    "choices": [
+      {
+        "text": "Oui, seulement si la vidéo est prise sans le son",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement avec une autorisation préalable de la préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, il est strictement interdit de filmer un policier en action",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, c’est possible tant que l’enregistrement ne gêne pas l’intervention et respecte la vie privée",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "En France, filmer la police dans l’espace public est autorisé si cela n’entrave pas l’action et respecte la vie privée.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "fa4c9b2d3228316d6872b78f",
+    "shortId": "Q-72B78F",
+    "statement": "Un citoyen vous demande si une association de défense des droits des femmes peut légalement organiser une manifestation publique. Comment devez-vous répondre ?",
+    "choices": [
+      {
+        "text": "L'association doit obtenir une autorisation préalable auprès de la préfecture",
+        "isCorrect": true
+      },
+      {
+        "text": "L'association peut organiser la manifestation sans restriction",
+        "isCorrect": false
+      },
+      {
+        "text": "L'association peut organiser la manifestation uniquement dans un espace privé",
+        "isCorrect": false
+      },
+      {
+        "text": "Il est illégal d'organiser une manifestation publique sans l'accord du gouvernement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, toute manifestation publique doit faire l'objet d'une déclaration en préfecture.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Liberté de manifestation",
+      "Droits de l'homme",
+      "Autorisation en préfecture"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "0517b61a8560b72228ad1494",
+    "shortId": "Q-AD1494",
+    "statement": "Un internaute publie sur un réseau social des propos diffamatoires envers une personne publique. Que risque-t-il ?",
+    "choices": [
+      {
+        "text": "Des poursuites pour diffamation publique",
+        "isCorrect": true
+      },
+      {
+        "text": "Rien, car la liberté d’expression est absolue",
+        "isCorrect": false
+      },
+      {
+        "text": "Une simple suppression du message par le site",
+        "isCorrect": false
+      },
+      {
+        "text": "Un rappel à la loi sans suite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La liberté d’expression est encadrée. La diffamation ou l’injure publique est punie par la loi sur la presse de 1881.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Loi du 29 juillet 1881",
+      "Diffamation et injure publique"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "8b271943cb6c51c91be9685f",
+    "shortId": "Q-E9685F",
+    "statement": "Un journaliste publie un article critiquant le gouvernement. Quelle est la situation légale ?",
+    "choices": [
+      {
+        "text": "Il exerce sa liberté d’expression, sauf s’il diffame",
+        "isCorrect": true
+      },
+      {
+        "text": "Il risque une sanction pour avoir critiqué l’État",
+        "isCorrect": false
+      },
+      {
+        "text": "Il doit obtenir l’autorisation du ministère de la Culture",
+        "isCorrect": false
+      },
+      {
+        "text": "Il enfreint le devoir de réserve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La liberté de la presse est garantie, mais les propos diffamatoires ou incitant à la haine sont punis.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Article 11 DDHC",
+      "Liberté de la presse et limites légales"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "2241da0a6ea1fc58f1e182d6",
+    "shortId": "Q-E182D6",
+    "statement": "Un locataire reçoit un courrier contenant des propos insultants en raison de son origine. Quelle démarche peut-il entreprendre ?",
+    "choices": [
+      {
+        "text": "Porter plainte pour injure à caractère discriminatoire",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer le courrier sans le signaler",
+        "isCorrect": false
+      },
+      {
+        "text": "Répondre par un message insultant",
+        "isCorrect": false
+      },
+      {
+        "text": "Publier le message sur les réseaux sociaux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les injures à caractère raciste, religieux ou discriminatoire sont punies par la loi. La victime peut déposer plainte au commissariat.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code pénal – injures discriminatoires",
+      "Procédure de plainte pour discrimination"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "70fdf36e55cde49567662415",
+    "shortId": "Q-662415",
+    "statement": "Un salarié découvre une inégalité de salaire entre hommes et femmes dans son entreprise. Quelle action est possible ?",
+    "choices": [
+      {
+        "text": "Saisir l’inspection du travail ou le Défenseur des droits",
+        "isCorrect": true
+      },
+      {
+        "text": "Dénoncer publiquement l’entreprise sur internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Quitter l’emploi sans préavis",
+        "isCorrect": false
+      },
+      {
+        "text": "Régler le problème directement avec ses collègues",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les inégalités salariales sont interdites. L’inspection du travail et le Défenseur des droits peuvent être saisis.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Égalité professionnelle",
+      "Défenseur des droits"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "61c83e19ab3361f20a06d610",
+    "shortId": "Q-06D610",
+    "statement": "Un salarié n’est pas payé depuis deux mois malgré ses relances. Quelle est la première démarche à suivre ?",
+    "choices": [
+      {
+        "text": "Saisir le conseil de prud’hommes pour non-paiement du salaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Arrêter immédiatement de venir travailler",
+        "isCorrect": false
+      },
+      {
+        "text": "Signaler la situation à ses collègues",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre que l’entreprise soit en meilleure situation financière",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le non-paiement du salaire constitue une faute grave de l’employeur. Le salarié peut saisir le conseil de prud’hommes.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code du travail – non-paiement du salaire",
+      "Conseil de prud’hommes"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "ae96f1f792f96b6652a1b0ee",
+    "shortId": "Q-A1B0EE",
+    "statement": "Une association refuse l’adhésion à une personne en raison de son orientation sexuelle. Ce refus est-il légal ?",
+    "choices": [
+      {
+        "text": "Oui, si cela est mentionné dans le règlement intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, car une association est libre de ses choix",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, la discrimination est interdite par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, uniquement si l’association reçoit des aides publiques",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La loi interdit toute discrimination fondée notamment sur l’orientation sexuelle, y compris dans le cadre associatif.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "droits-fondamentaux",
+    "levels": [
+      "csp",
+      "cr",
+      "nat"
+    ],
+    "type": "mise-en-situation",
+    "isOfficial": true,
+    "helpNotes": [
+      "Libertés fondamentales"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "387572a5d9a23612754d86f6",
+    "shortId": "Q-4D86F6",
+    "statement": "Monsieur X jette un gâteau par la fenêtre de sa voiture. Que risque-t-il ?",
+    "choices": [
+      {
+        "text": "Rien",
+        "isCorrect": false
+      },
+      {
+        "text": "Une sanction avec une amende pouvant aller jusqu’à 750 €",
+        "isCorrect": true
+      },
+      {
+        "text": "Une peine d’emprisonnement",
+        "isCorrect": false
+      },
+      {
+        "text": "Une simple sanction orale",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Jeter des déchets sur la voie publique constitue une infraction sanctionnée par une amende.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [
+      "csp",
+      "cr",
+      "nat"
+    ],
+    "type": "mise-en-situation",
+    "isOfficial": true,
+    "helpNotes": [
+      "Respect de l’ordre public",
+      "Incivilités"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "b8226d53ec6741f090c8108d",
+    "shortId": "Q-C8108D",
+    "statement": "Pour organiser une manifestation en France, il faut :",
+    "choices": [
+      {
+        "text": "Avoir l’accord du maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander une autorisation à l’administration",
+        "isCorrect": false
+      },
+      {
+        "text": "La manifestation est interdite",
+        "isCorrect": false
+      },
+      {
+        "text": "Faire une déclaration préalable en préfecture",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "La liberté de manifester est garantie sous réserve d’une déclaration préalable en préfecture.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [
+      "csp",
+      "cr",
+      "nat"
+    ],
+    "type": "mise-en-situation",
+    "isOfficial": true,
+    "helpNotes": [
+      "Liberté de manifester",
+      "Déclaration préalable"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "9fcf69b0f1ab05b304eef4ad",
+    "shortId": "Q-EEF4AD",
+    "statement": "Un automobiliste est contrôlé avec un taux d’alcool supérieur à la limite autorisée. Quelle est la conséquence immédiate possible ?",
+    "choices": [
+      {
+        "text": "La rétention ou la suspension du permis de conduire",
+        "isCorrect": true
+      },
+      {
+        "text": "Une simple amende symbolique sans retrait de points",
+        "isCorrect": false
+      },
+      {
+        "text": "Une confiscation de son véhicule sans procès",
+        "isCorrect": false
+      },
+      {
+        "text": "Aucune, si la personne coopère avec la police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La conduite en état d’ivresse est un délit pouvant entraîner la suspension du permis et des poursuites pénales.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code de la route – alcool au volant",
+      "Sanctions immédiates"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "1c61caf41d5171a5b87362c3",
+    "shortId": "Q-7362C3",
+    "statement": "Un citoyen découvre un portefeuille perdu sur un trottoir. Quelle est la conduite à tenir ?",
+    "choices": [
+      {
+        "text": "Le remettre à la police, à la gendarmerie ou à la mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Le garder s’il ne contient pas d’argent",
+        "isCorrect": false
+      },
+      {
+        "text": "Le laisser sur place",
+        "isCorrect": false
+      },
+      {
+        "text": "Publier une annonce sur internet et le conserver",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La bonne conduite consiste à remettre l’objet trouvé aux autorités compétentes pour restitution au propriétaire.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code civil – objets trouvés",
+      "Remise à la police ou à la mairie"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "1ddf76932e4cb0f9b2d4855a",
+    "shortId": "Q-D4855A",
+    "statement": "Un citoyen reçoit un appel pour participer à la réserve citoyenne de sécurité civile. Que signifie cet engagement ?",
+    "choices": [
+      {
+        "text": "Il s’agit d’un engagement volontaire pour aider en cas de crise ou de catastrophe",
+        "isCorrect": true
+      },
+      {
+        "text": "C’est une obligation imposée à tous les majeurs",
+        "isCorrect": false
+      },
+      {
+        "text": "C’est une mission militaire obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "C’est un travail rémunéré par l’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La réserve citoyenne permet à des volontaires d’aider les autorités en cas d’urgence (inondations, incendies, etc.).",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Réserve civique et sécurité civile",
+      "Engagement volontaire"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "c39e1b068786118d692a7745",
+    "shortId": "Q-2A7745",
+    "statement": "Un citoyen reçoit une convocation pour être assesseur dans un bureau de vote mais refuse de s’y rendre. Quelle conséquence ?",
+    "choices": [
+      {
+        "text": "Il peut être sanctionné d’une amende pour refus d’un devoir civique",
+        "isCorrect": true
+      },
+      {
+        "text": "Il perd automatiquement son droit de vote",
+        "isCorrect": false
+      },
+      {
+        "text": "Il n’encourt aucune conséquence",
+        "isCorrect": false
+      },
+      {
+        "text": "Il sera convoqué une nouvelle fois sans amende",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Participer à la tenue d’un bureau de vote est un devoir civique. Le refus injustifié peut être sanctionné d’une amende.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code électoral – fonction d’assesseur",
+      "Devoir civique"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "b11af716d0d36f83ec7020b1",
+    "shortId": "Q-7020B1",
+    "statement": "Un citoyen reçoit une convocation pour être juré d’assises mais refuse sans motif. Quelles peuvent être les conséquences ?",
+    "choices": [
+      {
+        "text": "Une amende prévue par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Aucune, c’est une mission facultative",
+        "isCorrect": false
+      },
+      {
+        "text": "Une simple remarque de la préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Une interdiction de vote",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Être juré d’assises est une obligation légale.\nLe refus sans motif légitime est spécifiquement sanctionné par une amende.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code de procédure pénale",
+      "Devoir civique des jurés"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "85b45a7d170425a9af01e5bf",
+    "shortId": "Q-01E5BF",
+    "statement": "Un citoyen souhaite s’inscrire sur les listes électorales pour voter aux prochaines élections municipales. Quelle est la condition principale ?",
+    "choices": [
+      {
+        "text": "Être majeur et avoir la nationalité française ou européenne",
+        "isCorrect": true
+      },
+      {
+        "text": "Être propriétaire de son logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir un emploi déclaré",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir résidé en France depuis 5 ans, quelle que soit sa nationalité",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour voter, il faut être majeur, jouir de ses droits civiques et être inscrit sur les listes électorales de sa commune.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Inscription sur les listes électorales",
+      "Conditions pour voter"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "78a81eae8c3f2def852fc260",
+    "shortId": "Q-2FC260",
+    "statement": "Un voisin fait du bruit chaque nuit après 23 heures malgré plusieurs avertissements. Que peut faire la personne gênée ?",
+    "choices": [
+      {
+        "text": "Appeler la police municipale ou nationale pour tapage nocturne",
+        "isCorrect": true
+      },
+      {
+        "text": "Essayer de se venger en faisant du bruit à son tour",
+        "isCorrect": false
+      },
+      {
+        "text": "Fermer ses fenêtres et ignorer le problème",
+        "isCorrect": false
+      },
+      {
+        "text": "Porter plainte directement au maire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le tapage nocturne est puni par la loi. La police peut intervenir et dresser une amende.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Code pénal – tapage nocturne",
+      "Trouble à l’ordre public"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "292cf1cf52a06cd832626492",
+    "shortId": "Q-626492",
+    "statement": "Une personne coupe un arbre protégé sans autorisation. Que risque-t-elle en France ?",
+    "choices": [
+      {
+        "text": "Aucune sanction si l’arbre se trouve sur son terrain",
+        "isCorrect": false
+      },
+      {
+        "text": "Une simple obligation de replanter un arbre",
+        "isCorrect": false
+      },
+      {
+        "text": "Des sanctions pouvant inclure une amende et des poursuites",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement un avertissement verbal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La protection de l’environnement est encadrée par la loi. La destruction d’un arbre protégé sans autorisation peut entraîner des sanctions pénales et administratives.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [
+      "csp",
+      "cr",
+      "nat"
+    ],
+    "type": "mise-en-situation",
+    "isOfficial": true,
+    "helpNotes": [
+      "Protection de l’environnement",
+      "Respect de la loi"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "2936d3e85f5d9190ea8879bc",
+    "shortId": "Q-8879BC",
+    "statement": "Une personne oublie de déclarer ses revenus avant la date limite. Que risque-t-elle ?",
+    "choices": [
+      {
+        "text": "Une majoration ou une pénalité de retard sur ses impôts",
+        "isCorrect": true
+      },
+      {
+        "text": "Une perte immédiate de son emploi",
+        "isCorrect": false
+      },
+      {
+        "text": "Aucune conséquence, la déclaration est facultative",
+        "isCorrect": false
+      },
+      {
+        "text": "Une suspension de ses droits sociaux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas de déclaration tardive, une pénalité ou des intérêts de retard peuvent être appliqués par l’administration fiscale.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Déclaration de revenus",
+      "Pénalités fiscales"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "d074e4b5544f3c42afa1df6a",
+    "shortId": "Q-A1DF6A",
+    "statement": "Une personne refuse de payer une amende pour excès de vitesse. Que peut-elle faire ?",
+    "choices": [
+      {
+        "text": "Elle peut ignorer l'amende si elle n'est pas d'accord avec",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle doit contester l'amende en suivant la procédure légale",
+        "isCorrect": true
+      },
+      {
+        "text": "Elle peut simplement la payer et ne plus s'inquiéter",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle doit déposer une plainte contre la police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Il est possible de contester une amende en suivant les procédures légales prévues par le code de la route.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "Respect de la loi",
+      "Amendes et contestation"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  },
+  {
+    "id": "cf1af1d30fa7fba6b1f902e0",
+    "shortId": "Q-F902E0",
+    "statement": "Une personne reçoit une amende pour stationnement interdit mais estime qu’il s’agit d’une erreur. Quelle est la démarche correcte ?",
+    "choices": [
+      {
+        "text": "Contester l’amende via le site indiqué sur l’avis de contravention",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer l’amende et attendre un nouveau courrier",
+        "isCorrect": false
+      },
+      {
+        "text": "Aller directement au commissariat pour l’annuler",
+        "isCorrect": false
+      },
+      {
+        "text": "Payer l’amende puis réclamer un remboursement sans preuve",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Une amende contestée doit être réclamée par voie administrative ou en ligne via le site de l’ANTAI dans les délais légaux.",
+    "theme": "droits-et-devoirs",
+    "subTheme": "obligations-et-devoirs",
+    "levels": [],
+    "type": "mise-en-situation",
+    "isOfficial": false,
+    "helpNotes": [
+      "ANTAI",
+      "Procédure de contestation d’amende"
+    ],
+    "presentations": [
+      {
+        "type": "mise-en-situation",
+        "hasExplanation": true
+      }
+    ]
+  }
+]

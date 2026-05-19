@@ -45,8 +45,8 @@ export default function Step2() {
 
   return (
     <PersoCarouselShell
-      step={isNat ? 3 : 2}
-      total={isNat ? 5 : 4}
+      step={isNat ? 4 : 3}
+      total={isNat ? 6 : 5}
       title="Dans combien de temps passez-vous votre examen ?"
       subtitle="Cela nous permet de calibrer votre rythme d'apprentissage."
       options={OPTIONS}

@@ -6,9 +6,14 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { NEWS_ARTICLES, NEWS_CATEGORY_LABELS } from "@/data/news";
+import {
+  NEWS_ARTICLES,
+  NEWS_CATEGORY_LABELS,
+  categorizeArticle,
+} from "@/data/news";
 
-function formatDate(iso: string) {
+function formatDate(iso: string | null) {
+  if (!iso) return "";
   const d = new Date(iso);
   return d.toLocaleDateString("fr-FR", {
     day: "numeric",
@@ -20,7 +25,7 @@ function formatDate(iso: string) {
 export default function NewsList() {
   const insets = useSafeAreaInsets();
   const sorted = [...NEWS_ARTICLES].sort((a, b) =>
-    b.publishedAt.localeCompare(a.publishedAt)
+    (b.publishedAt ?? "").localeCompare(a.publishedAt ?? "")
   );
 
   return (
@@ -65,7 +70,7 @@ export default function NewsList() {
             <View style={styles.cardHeader}>
               <View style={styles.catPill}>
                 <Text style={styles.catPillText}>
-                  {NEWS_CATEGORY_LABELS[a.category]}
+                  {NEWS_CATEGORY_LABELS[categorizeArticle(a)]}
                 </Text>
               </View>
               <Text style={styles.date}>{formatDate(a.publishedAt)}</Text>

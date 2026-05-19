@@ -45,8 +45,8 @@ export default function Step3() {
 
   return (
     <PersoCarouselShell
-      step={isNat ? 4 : 3}
-      total={isNat ? 5 : 4}
+      step={isNat ? 5 : 4}
+      total={isNat ? 6 : 5}
       title="Quel est votre niveau de français ?"
       subtitle="Soyez honnête — nous ajusterons la difficulté."
       options={OPTIONS}

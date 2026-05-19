@@ -1,17 +1,23 @@
 export type Category = "CR" | "CSP" | "NAT";
 
 export type ThemeId =
-  | "institutions"
-  | "histoire"
-  | "valeurs"
-  | "geographie"
-  | "culture";
+  | "principes-valeurs-republique"
+  | "droits-et-devoirs"
+  | "systeme-institutionnel"
+  | "histoire-geographie-culture"
+  | "vivre-en-societe";
+
+export type QuestionType = "qcm" | "flashcard" | "mise-en-situation";
 
 export type Level = "debutant" | "intermediaire" | "avance" | "inconnu";
 
 export type Deadline = "lt1m" | "1to3m" | "3to6m" | "undecided";
 
 export type SubscriptionPlan = "free" | "monthly" | "quarterly" | "lifetime";
+
+export type LanguageTestStatus = "passed" | "not_yet" | "planned";
+
+export type LanguageCertLevel = "A1" | "A2" | "B1" | "B2" | "C1" | "C2";
 
 export type User = {
   id: string;
@@ -26,16 +32,31 @@ export type User = {
   subscriptionPlan: SubscriptionPlan;
   /** Naturalisation only: has the candidate already passed the test civique? */
   civicTestPassed: boolean | null;
+  /** All cases: has the candidate already passed an official French language test? */
+  languageTestStatus: LanguageTestStatus | null;
+  /** Certified level if languageTestStatus === "passed" */
+  languageCertLevel: LanguageCertLevel | null;
 };
 
 export type Question = {
   id: string;
-  category: Category;
+  /** Identifiant court humain-lisible (ex: "Q-89331C") */
+  shortId?: string;
+  /**
+   * Cas concernés par la question (NAT, CR, CSP).
+   * Une question peut être valide pour plusieurs cas — d'où un tableau.
+   */
+  categories: Category[];
   theme: ThemeId;
   text: string;
   choices: string[];
+  /** -1 si la question est une flashcard sans choix */
   correctIndex: number;
   explanation: string;
+  /** Type pédagogique de la question. Défaut: "qcm". */
+  type?: QuestionType;
+  /** True si la question est extraite des banques officielles du gouvernement. */
+  isOfficial?: boolean;
 };
 
 export type Theme = {

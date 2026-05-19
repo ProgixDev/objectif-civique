@@ -42,8 +42,8 @@ export default function Step4() {
 
   return (
     <PersoCarouselShell
-      step={isNat ? 5 : 4}
-      total={isNat ? 5 : 4}
+      step={isNat ? 6 : 5}
+      total={isNat ? 6 : 5}
       title="Préparez-vous seul ou avec un proche ?"
       subtitle="S'entraîner à plusieurs augmente vos chances de réussite."
       options={OPTIONS}

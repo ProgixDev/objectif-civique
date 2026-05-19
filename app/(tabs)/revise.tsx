@@ -13,7 +13,10 @@ import {
   BookOpenCheck,
   ChevronRight,
   Flame,
+  Layers,
+  MessageCircle,
   Sparkles,
+  Target,
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
@@ -21,24 +24,31 @@ import { GrainyBackground } from "@/components/ui/GrainyBackground";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { EmptyState } from "@/components/EmptyState";
 import { THEMES } from "@/data/themes";
-import { QUESTIONS } from "@/data/questions";
+import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
+import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
+import { getPresentation } from "@/lib/goalPresentation";
 import { Category } from "@/types";
 
 type FilterKey = "Tous" | Category;
+type SubTab = "officielles" | "themes" | "flashcards" | "assimilation";
 
 const FILTERS: { key: FilterKey; label: string }[] = [
-  { key: "Tous", label: "Tous" },
   { key: "NAT", label: "Naturalisation" },
   { key: "CSP", label: "CSP" },
   { key: "CR", label: "Résident" },
+  { key: "Tous", label: "Tous" },
 ];
 
 export default function Revise() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
-  const [selected, setSelected] = useState<FilterKey>("Tous");
+  const userGoal = useUserStore((s) => s.user?.goal);
+  const [selected, setSelected] = useState<FilterKey>(
+    (userGoal as FilterKey) ?? "Tous"
+  );
+  const [subTab, setSubTab] = useState<SubTab>("officielles");
 
   const themeProgress = useProgressStore((s) => s.themeProgress);
   const bookmarks = useProgressStore((s) => s.bookmarks);
@@ -50,7 +60,7 @@ export default function Revise() {
     return THEMES.reduce<Record<string, number>>((acc, t) => {
       acc[t.id] = QUESTIONS.filter(
         (q) =>
-          q.theme === t.id && (selected === "Tous" || q.category === selected)
+          q.theme === t.id && (selected === "Tous" || q.categories.includes(selected as any))
       ).length;
       return acc;
     }, {});
@@ -58,7 +68,7 @@ export default function Revise() {
 
   const totalQuestions = useMemo(
     () =>
-      QUESTIONS.filter((q) => selected === "Tous" || q.category === selected)
+      QUESTIONS.filter((q) => selected === "Tous" || q.categories.includes(selected as any))
         .length,
     [selected]
   );
@@ -79,6 +89,24 @@ export default function Revise() {
     setSelected(key);
   };
 
+  const onSelectSubTab = (key: SubTab) => {
+    haptics.light();
+    setSubTab(key);
+  };
+
+  // Sous-onglets — "assimilation" affiché uniquement aux candidats NAT
+  const subTabs: { key: SubTab; label: string }[] = [
+    { key: "officielles", label: "Officielles" },
+    { key: "themes", label: "Thèmes" },
+    { key: "flashcards", label: "Flashcards" },
+    ...(userGoal === "NAT"
+      ? [{ key: "assimilation" as SubTab, label: "Assimilation" }]
+      : []),
+  ];
+
+  const activeCategory: Category =
+    selected === "Tous" ? (userGoal as Category) ?? "NAT" : selected;
+
   return (
     <View style={{ flex: 1, backgroundColor: "#F3F6FB" }}>
       <GrainyBackground />
@@ -97,27 +125,27 @@ export default function Revise() {
             <BookOpenCheck size={22} color={Colors.white} />
           </View>
           <View style={{ flex: 1 }}>
-            <Text style={styles.title}>Entraînement</Text>
+            <Text style={styles.title}>Réviser</Text>
             <Text style={styles.subtitle}>
-              Choisissez un thème pour vous entraîner.
+              {(() => {
+                const p = getPresentation(userGoal ?? null);
+                return `Préparation ${p.shortLabel} — tous les modes regroupés.`;
+              })()}
             </Text>
           </View>
         </View>
 
-        {/* Programme officiel banner */}
-        <View style={styles.programmeBanner}>
-          <View style={styles.programmeBadge}>
-            <Text style={styles.programmeBadgeText}>PROGRAMME OFFICIEL</Text>
+        {/* Bandeau de cas — rappel visuel constant */}
+        {userGoal ? (
+          <View style={styles.caseBadge}>
+            <Text style={styles.caseBadgeLabel}>EN COURS</Text>
+            <Text style={styles.caseBadgeText}>
+              {GOAL_LABELS[userGoal].toUpperCase()}
+            </Text>
           </View>
-          <Text style={styles.programmeTitle}>
-            14 chapitres · 5 thématiques
-          </Text>
-          <Text style={styles.programmeSub}>
-            Conforme au Livret du Citoyen publié par le Ministère de l'Intérieur.
-          </Text>
-        </View>
+        ) : null}
 
-        {/* Summary card */}
+        {/* Summary card — toujours visible */}
         <View style={styles.summary}>
           <View style={styles.summaryCol}>
             <Text style={styles.summaryValue}>{Math.round(avgProgress)}%</Text>
@@ -138,126 +166,323 @@ export default function Revise() {
           </View>
         </View>
 
-        {/* Filter chips */}
+        {/* Sous-onglets */}
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
-          contentContainerStyle={styles.filtersRow}
-          style={styles.filtersScroll}
+          contentContainerStyle={styles.subTabsRow}
+          style={styles.subTabsScroll}
         >
-          {FILTERS.map((f) => {
-            const isActive = selected === f.key;
+          {subTabs.map((t) => {
+            const active = subTab === t.key;
             return (
               <Pressable
-                key={f.key}
-                onPress={() => onSelectFilter(f.key)}
-                style={[styles.filter, isActive && styles.filterActive]}
-                accessibilityRole="button"
-                accessibilityState={{ selected: isActive }}
+                key={t.key}
+                onPress={() => onSelectSubTab(t.key)}
+                style={[styles.subTab, active && styles.subTabActive]}
+                accessibilityRole="tab"
+                accessibilityState={{ selected: active }}
               >
-                {isActive ? (
-                  <Sparkles size={12} color={Colors.white} />
-                ) : null}
                 <Text
                   style={[
-                    styles.filterLabel,
-                    isActive && styles.filterLabelActive,
+                    styles.subTabLabel,
+                    active && styles.subTabLabelActive,
                   ]}
                 >
-                  {f.label}
+                  {t.label}
                 </Text>
               </Pressable>
             );
           })}
         </ScrollView>
 
-        {/* Section label */}
-        <View style={styles.sectionHeader}>
-          <Text style={styles.sectionLabel}>Thèmes</Text>
-          <Text style={styles.sectionCount}>{totalQuestions} questions</Text>
-        </View>
+        {subTab === "officielles" ? (
+          <OfficiellesSection
+            selected={selected}
+            onSelectFilter={onSelectFilter}
+            totalQuestions={totalQuestions}
+            activeCategory={activeCategory}
+            bookmarkedQuestions={bookmarkedQuestions}
+            onStartPractice={() =>
+              router.push({
+                pathname: "/practice/[category]",
+                params: { category: activeCategory },
+              })
+            }
+          />
+        ) : null}
 
-        {/* Theme cards */}
-        <View style={styles.themeList}>
-          {THEMES.map((t, i) => (
-            <ThemeCard
-              key={t.id}
-              iconName={t.icon}
-              title={t.name}
-              questionCount={themeCounts[t.id] ?? 0}
-              progress={themeProgress[t.id] ?? 0}
-              index={i}
-              onPress={() => {
-                haptics.light();
-                router.push({
-                  pathname: "/theme/[id]",
-                  params: { id: t.id, category: selected },
-                });
-              }}
-            />
+        {subTab === "themes" ? (
+          <ThemesSection
+            themeCounts={themeCounts}
+            themeProgress={themeProgress}
+            selected={selected}
+            onSelectFilter={onSelectFilter}
+            totalQuestions={totalQuestions}
+          />
+        ) : null}
+
+        {subTab === "flashcards" ? <FlashcardsSection /> : null}
+
+        {subTab === "assimilation" ? <AssimilationSection /> : null}
+      </ScrollView>
+    </View>
+  );
+}
+
+/* ---------- Sections ---------- */
+
+function OfficiellesSection({
+  selected,
+  onSelectFilter,
+  totalQuestions,
+  activeCategory,
+  bookmarkedQuestions,
+  onStartPractice,
+}: {
+  selected: FilterKey;
+  onSelectFilter: (k: FilterKey) => void;
+  totalQuestions: number;
+  activeCategory: Category;
+  bookmarkedQuestions: typeof QUESTIONS;
+  onStartPractice: () => void;
+}) {
+  return (
+    <View>
+      {/* Filtres cas */}
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.filtersRow}
+        style={styles.filtersScroll}
+      >
+        {FILTERS.map((f) => {
+          const isActive = selected === f.key;
+          return (
+            <Pressable
+              key={f.key}
+              onPress={() => onSelectFilter(f.key)}
+              style={[styles.filter, isActive && styles.filterActive]}
+              accessibilityRole="button"
+              accessibilityState={{ selected: isActive }}
+            >
+              {isActive ? <Sparkles size={12} color={Colors.white} /> : null}
+              <Text
+                style={[
+                  styles.filterLabel,
+                  isActive && styles.filterLabelActive,
+                ]}
+              >
+                {f.label}
+              </Text>
+            </Pressable>
+          );
+        })}
+      </ScrollView>
+
+      {/* Programme officiel banner — affiche le cas sélectionné */}
+      <View style={styles.programmeBanner}>
+        <View style={styles.programmeBadge}>
+          <Text style={styles.programmeBadgeText}>
+            QUESTIONS OFFICIELLES ·{" "}
+            {selected === "Tous"
+              ? "TOUS LES CAS"
+              : GOAL_LABELS[selected].toUpperCase()}
+          </Text>
+        </View>
+        <Text style={styles.programmeTitle}>
+          {totalQuestions} questions disponibles
+        </Text>
+        <Text style={styles.programmeSub}>
+          Programme rédigé par l'équipe Objectif Civique, adapté à chaque
+          parcours (NAT, CSP, CR).
+        </Text>
+        <Pressable
+          onPress={onStartPractice}
+          style={({ pressed }) => [
+            styles.programmeCta,
+            pressed && { opacity: 0.92 },
+          ]}
+        >
+          <Text style={styles.programmeCtaText}>
+            Commencer l'entraînement
+          </Text>
+          <ChevronRight size={14} color={Colors.primary} />
+        </Pressable>
+      </View>
+
+      {/* Marqués pour révision */}
+      <View style={[styles.sectionHeader, { marginTop: 22 }]}>
+        <Text style={styles.sectionLabel}>Marqués pour révision</Text>
+        <View style={styles.bookmarksBadge}>
+          <Bookmark size={11} color={Colors.primary} />
+          <Text style={styles.bookmarksBadgeText}>
+            {bookmarkedQuestions.length}
+          </Text>
+        </View>
+      </View>
+
+      {bookmarkedQuestions.length === 0 ? (
+        <View style={styles.emptyWrap}>
+          <EmptyState
+            icon="Bookmark"
+            title="Aucune question marquée"
+            subtitle="Touchez l'icône signet pendant un entraînement pour les retrouver ici."
+            cta="Commencer un entraînement"
+            onCta={onStartPractice}
+          />
+        </View>
+      ) : (
+        <View style={styles.bookmarksCard}>
+          {bookmarkedQuestions.slice(0, 5).map((q, i) => (
+            <React.Fragment key={q.id}>
+              {i > 0 ? <View style={styles.bookmarkDivider} /> : null}
+              <Pressable
+                onPress={() =>
+                  router.push({
+                    pathname: "/theme/[id]",
+                    params: { id: q.theme },
+                  })
+                }
+                style={styles.bookmarkRow}
+              >
+                <View style={styles.numBadge}>
+                  <Text style={styles.numBadgeText}>{i + 1}</Text>
+                </View>
+                <Text numberOfLines={2} style={styles.bookmarkText}>
+                  {q.text}
+                </Text>
+                <ChevronRight size={16} color={Colors.textTertiary} />
+              </Pressable>
+            </React.Fragment>
           ))}
         </View>
+      )}
+    </View>
+  );
+}
 
-        {/* Bookmarks */}
-        <View style={[styles.sectionHeader, { marginTop: 26 }]}>
-          <Text style={styles.sectionLabel}>Marqués pour révision</Text>
-          <View style={styles.bookmarksBadge}>
-            <Bookmark size={11} color={Colors.primary} />
-            <Text style={styles.bookmarksBadgeText}>
-              {bookmarkedQuestions.length}
-            </Text>
-          </View>
-        </View>
-
-        {bookmarkedQuestions.length === 0 ? (
-          <View style={styles.emptyWrap}>
-            <EmptyState
-              icon="Bookmark"
-              title="Aucune question marquée"
-              subtitle="Touchez l'icône signet pendant un entraînement pour les retrouver ici."
-              cta="Commencer un entraînement"
-              onCta={() => router.push("/(tabs)")}
-            />
-          </View>
-        ) : (
-          <View style={styles.bookmarksCard}>
-            {bookmarkedQuestions.slice(0, 5).map((q, i) => (
-              <React.Fragment key={q.id}>
-                {i > 0 ? <View style={styles.bookmarkDivider} /> : null}
-                <Pressable
-                  onPress={() => {
-                    haptics.light();
-                    router.push({
-                      pathname: "/theme/[id]",
-                      params: { id: q.theme },
-                    });
-                  }}
-                  style={styles.bookmarkRow}
-                >
-                  <View style={styles.numBadge}>
-                    <Text style={styles.numBadgeText}>{i + 1}</Text>
-                  </View>
-                  <Text numberOfLines={2} style={styles.bookmarkText}>
-                    {q.text}
-                  </Text>
-                  <ChevronRight size={16} color={Colors.textTertiary} />
-                </Pressable>
-              </React.Fragment>
-            ))}
-            {bookmarkedQuestions.length > 5 ? (
-              <Pressable
-                onPress={() => router.push("/(tabs)")}
-                style={styles.bookmarkViewAll}
+function ThemesSection({
+  themeCounts,
+  themeProgress,
+  selected,
+  onSelectFilter,
+  totalQuestions,
+}: {
+  themeCounts: Record<string, number>;
+  themeProgress: Record<string, number>;
+  selected: FilterKey;
+  onSelectFilter: (k: FilterKey) => void;
+  totalQuestions: number;
+}) {
+  return (
+    <View>
+      {/* Filtres cas */}
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.filtersRow}
+        style={styles.filtersScroll}
+      >
+        {FILTERS.map((f) => {
+          const isActive = selected === f.key;
+          return (
+            <Pressable
+              key={f.key}
+              onPress={() => onSelectFilter(f.key)}
+              style={[styles.filter, isActive && styles.filterActive]}
+            >
+              {isActive ? <Sparkles size={12} color={Colors.white} /> : null}
+              <Text
+                style={[
+                  styles.filterLabel,
+                  isActive && styles.filterLabelActive,
+                ]}
               >
-                <Text style={styles.bookmarkViewAllText}>
-                  Voir tous ({bookmarkedQuestions.length})
-                </Text>
-                <ChevronRight size={14} color={Colors.primary} />
-              </Pressable>
-            ) : null}
-          </View>
-        )}
+                {f.label}
+              </Text>
+            </Pressable>
+          );
+        })}
       </ScrollView>
+
+      <View style={styles.sectionHeader}>
+        <Text style={styles.sectionLabel}>Par thème</Text>
+        <Text style={styles.sectionCount}>{totalQuestions} questions</Text>
+      </View>
+
+      <View style={styles.themeList}>
+        {THEMES.map((t, i) => (
+          <ThemeCard
+            key={t.id}
+            iconName={t.icon}
+            title={t.name}
+            questionCount={themeCounts[t.id] ?? 0}
+            progress={themeProgress[t.id] ?? 0}
+            index={i}
+            onPress={() => {
+              router.push({
+                pathname: "/theme/[id]",
+                params: { id: t.id, category: selected },
+              });
+            }}
+          />
+        ))}
+      </View>
+    </View>
+  );
+}
+
+function FlashcardsSection() {
+  return (
+    <View>
+      <View style={styles.flashIntro}>
+        <View style={styles.flashIcon}>
+          <Layers size={20} color={Colors.white} />
+        </View>
+        <Text style={styles.flashTitle}>Révisez en mode cartes</Text>
+        <Text style={styles.flashSub}>
+          Parcourez rapidement les questions et retournez la carte pour voir la
+          réponse et l'explication.
+        </Text>
+        <Pressable
+          onPress={() => router.push("/flashcards")}
+          style={({ pressed }) => [
+            styles.flashCta,
+            pressed && { opacity: 0.92 },
+          ]}
+        >
+          <Text style={styles.flashCtaText}>Lancer les flashcards</Text>
+          <ChevronRight size={14} color={Colors.white} />
+        </Pressable>
+      </View>
+    </View>
+  );
+}
+
+function AssimilationSection() {
+  return (
+    <View>
+      <View style={styles.assimIntro}>
+        <View style={styles.assimIcon}>
+          <MessageCircle size={20} color={Colors.white} />
+        </View>
+        <Text style={styles.assimTitle}>Entretien d'assimilation</Text>
+        <Text style={styles.assimSub}>
+          Préparez l'entretien en préfecture : questions vrai/faux et choix
+          multiples sur 6 thématiques.
+        </Text>
+        <Pressable
+          onPress={() => router.push("/assimilation")}
+          style={({ pressed }) => [
+            styles.assimCta,
+            pressed && { opacity: 0.92 },
+          ]}
+        >
+          <Text style={styles.assimCtaText}>Accéder à l'entretien</Text>
+          <ChevronRight size={14} color={Colors.white} />
+        </Pressable>
+      </View>
     </View>
   );
 }
@@ -308,7 +533,7 @@ function ThemeCard({
         <Icon size={20} color={Colors.white} strokeWidth={2.2} />
       </View>
       <View style={{ flex: 1 }}>
-        <Text style={styles.themeTitle} numberOfLines={1}>
+        <Text style={styles.themeCardTitle} numberOfLines={1}>
           {title}
         </Text>
         <Text style={styles.themeMeta}>{questionCount} questions</Text>
@@ -373,61 +598,42 @@ const styles = StyleSheet.create({
     color: Colors.textSecondary,
     marginTop: 2,
   },
-
-  programmeBanner: {
-    borderRadius: 20,
-    backgroundColor: Colors.primary,
-    padding: 16,
-    marginBottom: 14,
-    overflow: "hidden",
-    shadowColor: Colors.primary,
-    shadowOpacity: 0.22,
-    shadowRadius: 18,
-    shadowOffset: { width: 0, height: 10 },
-    elevation: 6,
-  },
-  programmeBadge: {
+  caseBadge: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
     alignSelf: "flex-start",
-    paddingHorizontal: 10,
-    paddingVertical: 4,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
     borderRadius: 999,
-    backgroundColor: "rgba(255,255,255,0.18)",
-    marginBottom: 10,
+    backgroundColor: Colors.primary,
+    marginBottom: 14,
   },
-  programmeBadgeText: {
+  caseBadgeLabel: {
     fontFamily: "Satoshi_700Bold",
-    fontSize: 10,
-    color: Colors.white,
-    letterSpacing: 1.3,
+    fontSize: 9.5,
+    color: "rgba(255,255,255,0.7)",
+    letterSpacing: 1.2,
   },
-  programmeTitle: {
+  caseBadgeText: {
     fontFamily: "Satoshi_700Bold",
-    fontSize: 17,
-    color: Colors.white,
-    letterSpacing: -0.2,
-  },
-  programmeSub: {
-    fontFamily: "Inter_400Regular",
     fontSize: 12,
-    color: "rgba(255,255,255,0.82)",
-    marginTop: 4,
-    lineHeight: 16,
+    color: Colors.white,
+    letterSpacing: 0.4,
   },
+
   summary: {
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "space-between",
     backgroundColor: Colors.white,
     borderRadius: 20,
-    paddingVertical: 16,
+    paddingVertical: 14,
     paddingHorizontal: 12,
-    marginBottom: 20,
+    marginBottom: 14,
     ...cardShadow,
   },
-  summaryCol: {
-    flex: 1,
-    alignItems: "center",
-  },
+  summaryCol: { flex: 1, alignItems: "center" },
   summaryDivider: {
     width: StyleSheet.hairlineWidth,
     height: 28,
@@ -452,9 +658,42 @@ const styles = StyleSheet.create({
     gap: 4,
   },
 
+  /* Sous-onglets */
+  subTabsScroll: {
+    marginHorizontal: -20,
+    marginBottom: 14,
+  },
+  subTabsRow: {
+    gap: 6,
+    paddingHorizontal: 20,
+  },
+  subTab: {
+    paddingHorizontal: 14,
+    paddingVertical: 9,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.7)",
+    borderWidth: 1,
+    borderColor: "rgba(25,28,30,0.08)",
+  },
+  subTabActive: {
+    backgroundColor: Colors.onSurface,
+    borderColor: Colors.onSurface,
+  },
+  subTabLabel: {
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 12.5,
+    color: Colors.textSecondary,
+    letterSpacing: 0.1,
+  },
+  subTabLabelActive: {
+    color: Colors.white,
+    fontFamily: "Satoshi_700Bold",
+  },
+
+  /* Filtres cas */
   filtersScroll: {
     marginHorizontal: -20,
-    marginBottom: 16,
+    marginBottom: 14,
   },
   filtersRow: {
     gap: 8,
@@ -491,6 +730,64 @@ const styles = StyleSheet.create({
     fontFamily: "Satoshi_700Bold",
   },
 
+  /* Programme banner */
+  programmeBanner: {
+    borderRadius: 20,
+    backgroundColor: Colors.primary,
+    padding: 16,
+    marginBottom: 6,
+    overflow: "hidden",
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.22,
+    shadowRadius: 18,
+    shadowOffset: { width: 0, height: 10 },
+    elevation: 6,
+  },
+  programmeBadge: {
+    alignSelf: "flex-start",
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.18)",
+    marginBottom: 10,
+  },
+  programmeBadgeText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 10,
+    color: Colors.white,
+    letterSpacing: 1.1,
+  },
+  programmeTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 17,
+    color: Colors.white,
+    letterSpacing: -0.2,
+  },
+  programmeSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    color: "rgba(255,255,255,0.82)",
+    marginTop: 4,
+    lineHeight: 16,
+    marginBottom: 14,
+  },
+  programmeCta: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 6,
+    height: 40,
+    borderRadius: 999,
+    backgroundColor: Colors.white,
+  },
+  programmeCtaText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 13,
+    color: Colors.primary,
+    letterSpacing: 0.2,
+  },
+
+  /* Section header générique */
   sectionHeader: {
     flexDirection: "row",
     alignItems: "center",
@@ -511,9 +808,8 @@ const styles = StyleSheet.create({
     letterSpacing: 0.2,
   },
 
-  themeList: {
-    gap: 10,
-  },
+  /* Themes */
+  themeList: { gap: 10 },
   themeCard: {
     flexDirection: "row",
     alignItems: "center",
@@ -534,7 +830,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 6 },
     elevation: 4,
   },
-  themeTitle: {
+  themeCardTitle: {
     fontFamily: "Satoshi_700Bold",
     fontSize: 14.5,
     lineHeight: 18,
@@ -560,6 +856,7 @@ const styles = StyleSheet.create({
     textAlign: "right",
   },
 
+  /* Bookmarks */
   bookmarksBadge: {
     flexDirection: "row",
     alignItems: "center",
@@ -575,7 +872,6 @@ const styles = StyleSheet.create({
     color: Colors.primary,
     letterSpacing: 0.2,
   },
-
   bookmarksCard: {
     backgroundColor: Colors.white,
     borderRadius: 20,
@@ -612,26 +908,114 @@ const styles = StyleSheet.create({
     lineHeight: 18,
     color: Colors.onSurface,
   },
-  bookmarkViewAll: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "center",
-    gap: 4,
-    paddingVertical: 12,
-    borderTopWidth: StyleSheet.hairlineWidth,
-    borderTopColor: "rgba(25,28,30,0.08)",
-  },
-  bookmarkViewAllText: {
-    fontFamily: "Satoshi_600SemiBold",
-    fontSize: 12.5,
-    color: Colors.primary,
-    letterSpacing: 0.1,
-  },
-
   emptyWrap: {
     backgroundColor: Colors.white,
     borderRadius: 20,
     padding: 20,
     ...cardShadow,
+  },
+
+  /* Flashcards section */
+  flashIntro: {
+    padding: 18,
+    borderRadius: 22,
+    backgroundColor: Colors.white,
+    ...cardShadow,
+    alignItems: "flex-start",
+  },
+  flashIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    backgroundColor: "#7a4ae0",
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: 12,
+    shadowColor: "#7a4ae0",
+    shadowOpacity: 0.3,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 4,
+  },
+  flashTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 18,
+    color: Colors.onSurface,
+    letterSpacing: -0.3,
+    marginBottom: 6,
+  },
+  flashSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 19,
+    color: Colors.textSecondary,
+    marginBottom: 14,
+  },
+  flashCta: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    paddingHorizontal: 16,
+    height: 40,
+    borderRadius: 999,
+    backgroundColor: "#7a4ae0",
+  },
+  flashCtaText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 13,
+    color: Colors.white,
+    letterSpacing: 0.2,
+  },
+
+  /* Assimilation section */
+  assimIntro: {
+    padding: 18,
+    borderRadius: 22,
+    backgroundColor: Colors.white,
+    ...cardShadow,
+    alignItems: "flex-start",
+  },
+  assimIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    backgroundColor: Colors.secondary,
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: 12,
+    shadowColor: Colors.secondary,
+    shadowOpacity: 0.3,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 4,
+  },
+  assimTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 18,
+    color: Colors.onSurface,
+    letterSpacing: -0.3,
+    marginBottom: 6,
+  },
+  assimSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 19,
+    color: Colors.textSecondary,
+    marginBottom: 14,
+  },
+  assimCta: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    paddingHorizontal: 16,
+    height: 40,
+    borderRadius: 999,
+    backgroundColor: Colors.secondary,
+  },
+  assimCtaText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 13,
+    color: Colors.white,
+    letterSpacing: 0.2,
   },
 });

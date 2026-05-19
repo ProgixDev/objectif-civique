@@ -34,7 +34,7 @@ export default function StepCivicTest() {
   return (
     <PersoCarouselShell
       step={2}
-      total={5}
+      total={6}
       title="Avez-vous déjà passé le test civique ?"
       subtitle="Le test civique est obligatoire avant de déposer une demande de naturalisation."
       options={OPTIONS}
@@ -43,7 +43,7 @@ export default function StepCivicTest() {
       onConfirm={() => {
         if (!selected) return;
         updateUser({ civicTestPassed: selected === "yes" });
-        router.push("/(onboarding)/perso/step-2");
+        router.push("/(onboarding)/perso/step-language-test");
       }}
     />
   );

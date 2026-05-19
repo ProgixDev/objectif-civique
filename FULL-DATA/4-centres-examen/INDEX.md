@@ -1,0 +1,197 @@
+# Centres d'examen — index
+
+**216 centres** répartis sur **180 villes**.
+
+## Fichiers globaux
+- `centres-all.json` — annuaire complet, un objet par centre
+- `villes-index.json` — liste des villes avec compteur de centres et flag `has_editorial`
+
+## `par-ville/<slug>.json`
+
+- 39 fiches éditoriales (avec `meta` + `faq`)
+- 141 fiches auto-générées depuis l'annuaire (centres uniquement)
+
+## Villes
+
+- [Agde](par-ville/agde.json) — 1 centre(s)
+- [Aix-en-Provence](par-ville/aix-en-provence.json) — 1 centre(s) ✏
+- [Ajaccio](par-ville/ajaccio.json) — 1 centre(s) ✏
+- [Albi](par-ville/albi.json) — 1 centre(s)
+- [Ambérieux En Bugey](par-ville/amberieux-en-bugey.json) — 1 centre(s)
+- [Amiens](par-ville/amiens.json) — 2 centre(s) ✏
+- [Ancenis](par-ville/ancenis.json) — 1 centre(s)
+- [Angers](par-ville/angers.json) — 1 centre(s) ✏
+- [Angouleme](par-ville/angouleme.json) — 1 centre(s)
+- [Annecy](par-ville/annecy.json) — 0 centre(s) ✏
+- [Annemasse](par-ville/annemasse.json) — 1 centre(s)
+- [Argenteuil](par-ville/argenteuil.json) — 1 centre(s)
+- [Arras](par-ville/arras.json) — 2 centre(s)
+- [Aubenas](par-ville/aubenas.json) — 1 centre(s)
+- [Auch](par-ville/auch.json) — 1 centre(s)
+- [Aulnay-Sous-Bois](par-ville/aulnay-sous-bois.json) — 1 centre(s)
+- [Auxerre](par-ville/auxerre.json) — 1 centre(s)
+- [Avignon](par-ville/avignon.json) — 3 centre(s) ✏
+- [Bastia](par-ville/bastia.json) — 1 centre(s)
+- [Bayonne](par-ville/bayonne.json) — 1 centre(s) ✏
+- [Beauvais](par-ville/beauvais.json) — 1 centre(s)
+- [Belfort](par-ville/belfort.json) — 1 centre(s)
+- [Besancon](par-ville/besancon.json) — 1 centre(s) ✏
+- [Beziers](par-ville/beziers.json) — 1 centre(s)
+- [Biarritz](par-ville/biarritz.json) — 1 centre(s)
+- [Blois](par-ville/blois.json) — 1 centre(s)
+- [Bobigny](par-ville/bobigny.json) — 1 centre(s)
+- [Boissy - Saint-Léger](par-ville/boissy-saint-leger.json) — 1 centre(s)
+- [Bordeaux](par-ville/bordeaux.json) — 1 centre(s) ✏
+- [Bourg-En-Bresse](par-ville/bourg-en-bresse.json) — 1 centre(s)
+- [Bourges](par-ville/bourges.json) — 1 centre(s)
+- [Brest](par-ville/brest.json) — 1 centre(s) ✏
+- [Brive La Gaillarde](par-ville/brive-la-gaillarde.json) — 1 centre(s)
+- [Bussy-Saint-Georges](par-ville/bussy-saint-georges.json) — 1 centre(s)
+- [Caen](par-ville/caen.json) — 1 centre(s) ✏
+- [Cahors](par-ville/cahors.json) — 1 centre(s)
+- [Canet En Roussillon](par-ville/canet-en-roussillon.json) — 1 centre(s)
+- [Cannes](par-ville/cannes.json) — 1 centre(s)
+- [Carcassonne](par-ville/carcassonne.json) — 1 centre(s)
+- [Castelnaudary](par-ville/castelnaudary.json) — 1 centre(s)
+- [Castelsarrasin](par-ville/castelsarrasin.json) — 1 centre(s)
+- [Cergy](par-ville/cergy.json) — 1 centre(s)
+- [Chalon-Sur-Saone](par-ville/chalon-sur-saone.json) — 1 centre(s)
+- [Chambéry](par-ville/chambery.json) — 1 centre(s)
+- [Charleville-Mézières](par-ville/charleville-mezieres.json) — 1 centre(s)
+- [Chartres](par-ville/chartres.json) — 1 centre(s)
+- [Chateau-Thierry](par-ville/chateau-thierry.json) — 1 centre(s)
+- [Chateaudun](par-ville/chateaudun.json) — 1 centre(s)
+- [Chateauroux](par-ville/chateauroux.json) — 1 centre(s)
+- [Châtillon](par-ville/chatillon.json) — 1 centre(s)
+- [Chaumont](par-ville/chaumont.json) — 1 centre(s)
+- [Cherbourg-En-Cotentin](par-ville/cherbourg-en-cotentin.json) — 1 centre(s)
+- [Cholet](par-ville/cholet.json) — 1 centre(s)
+- [Clermont-Ferrand](par-ville/clermont-ferrand.json) — 2 centre(s) ✏
+- [Clichy-La-Garenne](par-ville/clichy-la-garenne.json) — 1 centre(s)
+- [Colombes](par-ville/colombes.json) — 1 centre(s)
+- [Compiègne](par-ville/compiegne.json) — 1 centre(s)
+- [Condom](par-ville/condom.json) — 1 centre(s)
+- [Cran-Gevrier](par-ville/cran-gevrier.json) — 1 centre(s)
+- [Creil](par-ville/creil.json) — 1 centre(s)
+- [Dieppe](par-ville/dieppe.json) — 1 centre(s)
+- [Dijon](par-ville/dijon.json) — 1 centre(s) ✏
+- [Dole](par-ville/dole.json) — 1 centre(s)
+- [Dreux](par-ville/dreux.json) — 1 centre(s)
+- [Dunkerque](par-ville/dunkerque.json) — 1 centre(s)
+- [Dzaoudzi](par-ville/dzaoudzi.json) — 1 centre(s)
+- [Échirolles](par-ville/echirolles.json) — 1 centre(s)
+- [Étampes](par-ville/etampes.json) — 1 centre(s)
+- [Évreux](par-ville/evreux.json) — 1 centre(s)
+- [Évry](par-ville/evry.json) — 1 centre(s)
+- [Figeac](par-ville/figeac.json) — 1 centre(s)
+- [Foix](par-ville/foix.json) — 1 centre(s)
+- [Franconville](par-ville/franconville.json) — 1 centre(s)
+- [Gagny](par-ville/gagny.json) — 1 centre(s)
+- [Gap](par-ville/gap.json) — 1 centre(s)
+- [Garges-Lès-Gonesse](par-ville/garges-les-gonesse.json) — 2 centre(s)
+- [Grenoble](par-ville/grenoble.json) — 1 centre(s) ✏
+- [Joigny](par-ville/joigny.json) — 1 centre(s)
+- [L'isle Jourdain](par-ville/l-isle-jourdain.json) — 1 centre(s)
+- [La Roche Sur Yon](par-ville/la-roche-sur-yon.json) — 1 centre(s)
+- [Lannemezan](par-ville/lannemezan.json) — 1 centre(s)
+- [Lavelanet](par-ville/lavelanet.json) — 1 centre(s)
+- [Le Bourget](par-ville/le-bourget.json) — 1 centre(s)
+- [le-Havre](par-ville/le-havre.json) — 1 centre(s) ✏
+- [Le Puy-En-Velay](par-ville/le-puy-en-velay.json) — 1 centre(s)
+- [Lens](par-ville/lens.json) — 1 centre(s)
+- [Les Abymes](par-ville/les-abymes.json) — 1 centre(s)
+- [Les Mureaux](par-ville/les-mureaux.json) — 1 centre(s)
+- [Lieusaint](par-ville/lieusaint.json) — 1 centre(s)
+- [Lille](par-ville/lille.json) — 3 centre(s) ✏
+- [Limas](par-ville/limas.json) — 1 centre(s)
+- [Limoges](par-ville/limoges.json) — 1 centre(s) ✏
+- [Lons-Le-Saunier](par-ville/lons-le-saunier.json) — 1 centre(s)
+- [Lorient](par-ville/lorient.json) — 1 centre(s)
+- [Lormont](par-ville/lormont.json) — 1 centre(s)
+- [Lourdes](par-ville/lourdes.json) — 1 centre(s)
+- [Lyon](par-ville/lyon.json) — 1 centre(s) ✏
+- [Mâcon](par-ville/macon.json) — 1 centre(s)
+- [Manosque](par-ville/manosque.json) — 1 centre(s)
+- [Mantes La Jolie](par-ville/mantes-la-jolie.json) — 1 centre(s)
+- [Marseille](par-ville/marseille.json) — 3 centre(s) ✏
+- [Massy](par-ville/massy.json) — 1 centre(s)
+- [Maurecourt](par-ville/maurecourt.json) — 1 centre(s)
+- [Meaux](par-ville/meaux.json) — 1 centre(s)
+- [Melun](par-ville/melun.json) — 1 centre(s)
+- [Mende](par-ville/mende.json) — 1 centre(s)
+- [Metz](par-ville/metz.json) — 1 centre(s) ✏
+- [Millau](par-ville/millau.json) — 1 centre(s)
+- [Miribel](par-ville/miribel.json) — 1 centre(s)
+- [Montauban](par-ville/montauban.json) — 1 centre(s) ✏
+- [Montbéliard](par-ville/montbeliard.json) — 1 centre(s)
+- [Montceau-Les-Mines](par-ville/montceau-les-mines.json) — 1 centre(s)
+- [Montpellier](par-ville/montpellier.json) — 1 centre(s) ✏
+- [Montreuil](par-ville/montreuil.json) — 1 centre(s)
+- [Mulhouse](par-ville/mulhouse.json) — 2 centre(s) ✏
+- [Nancy](par-ville/nancy.json) — 1 centre(s) ✏
+- [Nanterre](par-ville/nanterre.json) — 1 centre(s)
+- [Nantes](par-ville/nantes.json) — 1 centre(s) ✏
+- [Narbonne](par-ville/narbonne.json) — 1 centre(s)
+- [Nevers](par-ville/nevers.json) — 2 centre(s)
+- [Nice](par-ville/nice.json) — 2 centre(s) ✏
+- [Nimes](par-ville/nimes.json) — 1 centre(s) ✏
+- [Niort](par-ville/niort.json) — 1 centre(s)
+- [Nogent-Sur-Marne](par-ville/nogent-sur-marne.json) — 1 centre(s)
+- [Nogent Sur Oise](par-ville/nogent-sur-oise.json) — 1 centre(s)
+- [Noisy-Le-Grand](par-ville/noisy-le-grand.json) — 1 centre(s)
+- [Orleans](par-ville/orleans.json) — 1 centre(s) ✏
+- [Pamiers](par-ville/pamiers.json) — 1 centre(s)
+- [Pantin](par-ville/pantin.json) — 3 centre(s)
+- [Paris](par-ville/paris.json) — 13 centre(s) ✏
+- [Pau](par-ville/pau.json) — 1 centre(s)
+- [Perpignan](par-ville/perpignan.json) — 1 centre(s) ✏
+- [Persan](par-ville/persan.json) — 1 centre(s)
+- [Poitiers](par-ville/poitiers.json) — 1 centre(s) ✏
+- [Pontivy](par-ville/pontivy.json) — 1 centre(s)
+- [Puteaux](par-ville/puteaux.json) — 1 centre(s)
+- [Quimper](par-ville/quimper.json) — 1 centre(s)
+- [Reims](par-ville/reims.json) — 2 centre(s) ✏
+- [Rémire-Montjoly](par-ville/remire-montjoly.json) — 1 centre(s)
+- [Rennes](par-ville/rennes.json) — 1 centre(s) ✏
+- [Reze](par-ville/reze.json) — 1 centre(s)
+- [Roanne](par-ville/roanne.json) — 1 centre(s)
+- [Rodez](par-ville/rodez.json) — 1 centre(s)
+- [Roubaix](par-ville/roubaix.json) — 1 centre(s)
+- [Rouen](par-ville/rouen.json) — 2 centre(s) ✏
+- [Rueil-Malmaison](par-ville/rueil-malmaison.json) — 1 centre(s)
+- [Saint-Brieuc](par-ville/saint-brieuc.json) — 1 centre(s)
+- [Saint-Chamond](par-ville/saint-chamond.json) — 1 centre(s)
+- [Saint-Denis](par-ville/saint-denis.json) — 3 centre(s)
+- [Saint-Dié-Des-Vosges](par-ville/saint-die-des-vosges.json) — 1 centre(s)
+- [Saint-Flour](par-ville/saint-flour.json) — 1 centre(s)
+- [Saint Girons](par-ville/saint-girons.json) — 1 centre(s)
+- [Saint-Martin - Marigot](par-ville/saint-martin-marigot.json) — 1 centre(s)
+- [Saint Nazaire](par-ville/saint-nazaire.json) — 1 centre(s)
+- [Saint-Ouen L'aumone](par-ville/saint-ouen-l-aumone.json) — 1 centre(s)
+- [Saintes](par-ville/saintes.json) — 1 centre(s)
+- [Sartrouville](par-ville/sartrouville.json) — 1 centre(s)
+- [Saumur](par-ville/saumur.json) — 1 centre(s)
+- [Schiltigheim](par-ville/schiltigheim.json) — 1 centre(s)
+- [Sete](par-ville/sete.json) — 1 centre(s)
+- [Soissons](par-ville/soissons.json) — 1 centre(s)
+- [Souillac](par-ville/souillac.json) — 1 centre(s)
+- [Stains](par-ville/stains.json) — 1 centre(s)
+- [Strasbourg](par-ville/strasbourg.json) — 3 centre(s) ✏
+- [Tarbes](par-ville/tarbes.json) — 2 centre(s)
+- [Thiais](par-ville/thiais.json) — 1 centre(s)
+- [Toulon](par-ville/toulon.json) — 1 centre(s) ✏
+- [Toulouse](par-ville/toulouse.json) — 3 centre(s) ✏
+- [Tours](par-ville/tours.json) — 1 centre(s) ✏
+- [Trappes](par-ville/trappes.json) — 1 centre(s)
+- [Troyes](par-ville/troyes.json) — 1 centre(s)
+- [Valence](par-ville/valence.json) — 1 centre(s)
+- [Valenciennes](par-ville/valenciennes.json) — 1 centre(s) ✏
+- [Valserhône](par-ville/valserhone.json) — 1 centre(s)
+- [Vannes](par-ville/vannes.json) — 1 centre(s)
+- [Vaulx-En-Velin](par-ville/vaulx-en-velin.json) — 1 centre(s)
+- [Vichy](par-ville/vichy.json) — 1 centre(s)
+- [Vierzon](par-ville/vierzon.json) — 1 centre(s)
+- [Villepinte](par-ville/villepinte.json) — 2 centre(s)
+- [Villeurbanne](par-ville/villeurbanne.json) — 1 centre(s)
+
+> ✏ = fiche enrichie (meta + faq)

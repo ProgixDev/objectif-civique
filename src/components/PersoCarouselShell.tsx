@@ -25,6 +25,8 @@ export type CarouselOption = {
   description?: string;
   image?: ImageSourcePropType;
   Icon?: React.ComponentType<{ size?: number; color?: string }>;
+  /** Optional small pill rendered under the description (e.g. "Niveau requis : A2") */
+  footerBadge?: string;
 };
 
 type Props = {
@@ -207,6 +209,23 @@ function OptionCard({
           {option.description ? (
             <Text style={styles.cardDescription}>{option.description}</Text>
           ) : null}
+          {option.footerBadge ? (
+            <View
+              style={[
+                styles.footerBadge,
+                selected && styles.footerBadgeSelected,
+              ]}
+            >
+              <Text
+                style={[
+                  styles.footerBadgeText,
+                  selected && { color: Colors.success },
+                ]}
+              >
+                {option.footerBadge}
+              </Text>
+            </View>
+          ) : null}
         </View>
 
         <View
@@ -346,6 +365,26 @@ const styles = StyleSheet.create({
     fontSize: 13,
     lineHeight: 18,
     color: Colors.textSecondary,
+  },
+  footerBadge: {
+    alignSelf: "flex-start",
+    marginTop: 8,
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 999,
+    backgroundColor: "rgba(0,85,164,0.08)",
+    borderWidth: 1,
+    borderColor: "rgba(0,85,164,0.18)",
+  },
+  footerBadgeSelected: {
+    backgroundColor: "rgba(16,185,129,0.10)",
+    borderColor: "rgba(16,185,129,0.30)",
+  },
+  footerBadgeText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 11,
+    letterSpacing: 0.3,
+    color: Colors.primary,
   },
   radio: {
     width: 26,

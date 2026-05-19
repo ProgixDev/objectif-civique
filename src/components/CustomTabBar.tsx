@@ -8,7 +8,7 @@ import {
 } from "react-native";
 import { BlurView } from "expo-blur";
 import { LinearGradient } from "expo-linear-gradient";
-import { BarChart3, BookOpen, Home, User } from "lucide-react-native";
+import { BarChart3, BookOpen, Home, Timer, User } from "lucide-react-native";
 import type { BottomTabBarProps } from "@react-navigation/bottom-tabs";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { MotiView } from "moti";
@@ -18,12 +18,14 @@ import { useHaptics } from "@/hooks/useHaptics";
 const ICONS: Record<string, React.ComponentType<any>> = {
   index: Home,
   revise: BookOpen,
+  simulation: Timer,
   progress: BarChart3,
   profile: User,
 };
 const LABELS: Record<string, string> = {
   index: "Accueil",
-  revise: "Entraînement",
+  revise: "Réviser",
+  simulation: "Simulation",
   progress: "Progrès",
   profile: "Profil",
 };

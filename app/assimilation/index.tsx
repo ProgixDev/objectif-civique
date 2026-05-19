@@ -12,8 +12,10 @@ import {
   BookOpen,
   ChevronLeft,
   ChevronRight,
+  Clock,
   Heart,
   Landmark,
+  Mic,
   MessageCircle,
   Scroll,
   Sparkles,
@@ -123,6 +125,28 @@ export default function AssimilationIndex() {
             <Stat icon={<BookOpen size={14} color={Colors.white} />} value={`${total}`} label="questions" />
             <View style={styles.statDivider} />
             <Stat icon={<Award size={14} color={Colors.white} />} value="B2" label="niveau oral" />
+          </View>
+        </View>
+
+        {/* Teaser : entretien oral IA — fonctionnalité à venir */}
+        <View style={styles.comingSoonCard}>
+          <View style={styles.comingSoonIcon}>
+            <Mic size={18} color={Colors.white} />
+          </View>
+          <View style={{ flex: 1 }}>
+            <View style={styles.comingSoonRow}>
+              <Text style={styles.comingSoonTitle}>
+                Entretien oral avec IA
+              </Text>
+              <View style={styles.comingSoonBadge}>
+                <Clock size={10} color={Colors.primary} />
+                <Text style={styles.comingSoonBadgeText}>BIENTÔT</Text>
+              </View>
+            </View>
+            <Text style={styles.comingSoonSub}>
+              Simulation d'entretien à l'oral avec une IA : questions, évaluation
+              de vos réponses et rapport personnalisé.
+            </Text>
           </View>
         </View>
 
@@ -309,6 +333,67 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(255,255,255,0.25)",
   },
 
+  comingSoonCard: {
+    flexDirection: "row",
+    alignItems: "flex-start",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    backgroundColor: "rgba(0,85,164,0.06)",
+    borderWidth: 1.5,
+    borderColor: "rgba(0,85,164,0.18)",
+    borderStyle: "dashed",
+    marginBottom: 14,
+  },
+  comingSoonIcon: {
+    width: 38,
+    height: 38,
+    borderRadius: 12,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: Colors.primary,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.25,
+    shadowRadius: 8,
+    shadowOffset: { width: 0, height: 4 },
+    elevation: 3,
+  },
+  comingSoonRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    flexWrap: "wrap",
+  },
+  comingSoonTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  comingSoonBadge: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 3,
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 999,
+    backgroundColor: Colors.white,
+    borderWidth: 1,
+    borderColor: "rgba(0,85,164,0.25)",
+  },
+  comingSoonBadgeText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 9.5,
+    color: Colors.primary,
+    letterSpacing: 0.8,
+  },
+  comingSoonSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: Colors.textSecondary,
+    marginTop: 4,
+  },
   fullCard: {
     flexDirection: "row",
     alignItems: "center",

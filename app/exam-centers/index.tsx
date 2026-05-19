@@ -1,42 +1,49 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState, useCallback } from "react";
 import {
+  FlatList,
   Pressable,
-  ScrollView,
   StyleSheet,
   Text,
   TextInput,
   View,
-  Linking,
 } from "react-native";
 import { router } from "expo-router";
-import {
-  ChevronLeft,
-  MapPin,
-  Phone,
-  Mail,
-  Search,
-} from "lucide-react-native";
+import { ChevronLeft, MapPin, Search } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { EXAM_CENTERS } from "@/data/examCenters";
+import { EXAM_CENTERS, ExamCenter } from "@/data/examCenters";
+
+const SEARCH_DEBOUNCE_MS = 250;
 
 export default function ExamCentersScreen() {
   const insets = useSafeAreaInsets();
   const [query, setQuery] = useState("");
+  const [debouncedQuery, setDebouncedQuery] = useState("");
+
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedQuery(query), SEARCH_DEBOUNCE_MS);
+    return () => clearTimeout(t);
+  }, [query]);
 
   const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = debouncedQuery.trim().toLowerCase();
     if (!q) return EXAM_CENTERS;
     return EXAM_CENTERS.filter(
       (c) =>
+        c.cityLabel.toLowerCase().includes(q) ||
         c.city.toLowerCase().includes(q) ||
-        c.department.toLowerCase().includes(q) ||
         c.name.toLowerCase().includes(q) ||
-        c.address.toLowerCase().includes(q)
+        c.address.toLowerCase().includes(q) ||
+        c.postalCode.includes(q)
     );
-  }, [query]);
+  }, [debouncedQuery]);
+
+  const renderItem = useCallback(
+    ({ item }: { item: ExamCenter }) => <CenterCard center={item} />,
+    []
+  );
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -58,72 +65,63 @@ export default function ExamCentersScreen() {
         <TextInput
           value={query}
           onChangeText={setQuery}
-          placeholder="Rechercher une ville ou un département"
+          placeholder="Rechercher une ville, un centre ou un code postal"
           placeholderTextColor={Colors.textTertiary}
           style={styles.searchInput}
           autoCorrect={false}
           returnKeyType="search"
+          clearButtonMode="while-editing"
         />
       </View>
 
-      <ScrollView
+      <FlatList
+        data={filtered}
+        keyExtractor={(c) => c.id}
+        renderItem={renderItem}
         contentContainerStyle={{
           padding: 16,
           paddingBottom: insets.bottom + 40,
         }}
-      >
-        <Text style={styles.hint}>
-          {filtered.length} centre{filtered.length > 1 ? "s" : ""} agréé
-          {filtered.length > 1 ? "s" : ""} {query ? "correspondant" : "en France"}
-        </Text>
-
-        {filtered.map((c) => (
-          <View key={c.id} style={styles.card}>
-            <Text style={styles.name}>{c.name}</Text>
-            <Text style={styles.dept}>{c.department}</Text>
-
-            <View style={styles.row}>
-              <MapPin size={14} color={Colors.primary} />
-              <Text style={styles.rowText}>{c.address}</Text>
-            </View>
-
-            <Pressable
-              style={styles.row}
-              onPress={() => Linking.openURL(`tel:${c.phone.replace(/\s/g, "")}`)}
-            >
-              <Phone size={14} color={Colors.primary} />
-              <Text style={[styles.rowText, styles.link]}>{c.phone}</Text>
-            </Pressable>
-
-            {c.email ? (
-              <Pressable
-                style={styles.row}
-                onPress={() => Linking.openURL(`mailto:${c.email}`)}
-              >
-                <Mail size={14} color={Colors.primary} />
-                <Text style={[styles.rowText, styles.link]}>{c.email}</Text>
-              </Pressable>
-            ) : null}
-
-            <View style={styles.servicesRow}>
-              {c.services.map((s) => (
-                <View key={s} style={styles.servicePill}>
-                  <Text style={styles.servicePillText}>{s}</Text>
-                </View>
-              ))}
-            </View>
-          </View>
-        ))}
-
-        {filtered.length === 0 ? (
+        ListHeaderComponent={
+          <Text style={styles.hint}>
+            {filtered.length} centre{filtered.length > 1 ? "s" : ""}{" "}
+            {debouncedQuery ? "correspondant" : "agréés en France"}
+          </Text>
+        }
+        ListEmptyComponent={
           <Text style={styles.empty}>
             Aucun centre ne correspond à votre recherche.
           </Text>
-        ) : null}
-      </ScrollView>
+        }
+        initialNumToRender={10}
+        maxToRenderPerBatch={12}
+        windowSize={7}
+        removeClippedSubviews
+        keyboardShouldPersistTaps="handled"
+      />
     </View>
   );
 }
+
+const CenterCard = React.memo(function CenterCard({
+  center,
+}: {
+  center: ExamCenter;
+}) {
+  return (
+    <View style={styles.card}>
+      <Text style={styles.name}>{center.name}</Text>
+      <Text style={styles.city}>
+        {center.cityLabel} · {center.postalCode}
+      </Text>
+
+      <View style={styles.row}>
+        <MapPin size={14} color={Colors.primary} />
+        <Text style={styles.rowText}>{center.address}</Text>
+      </View>
+    </View>
+  );
+});
 
 const styles = StyleSheet.create({
   topBar: {
@@ -182,7 +180,7 @@ const styles = StyleSheet.create({
     fontSize: 15,
     color: Colors.onSurface,
   },
-  dept: {
+  city: {
     fontFamily: "Inter_500Medium",
     fontSize: 12,
     color: Colors.primary,
@@ -200,27 +198,6 @@ const styles = StyleSheet.create({
     fontFamily: "Inter_400Regular",
     fontSize: 13,
     color: Colors.textSecondary,
-  },
-  link: {
-    color: Colors.primary,
-    fontFamily: "Inter_500Medium",
-  },
-  servicesRow: {
-    flexDirection: "row",
-    gap: 6,
-    marginTop: 10,
-  },
-  servicePill: {
-    paddingHorizontal: 8,
-    paddingVertical: 3,
-    borderRadius: 999,
-    backgroundColor: Colors.primaryFixed,
-  },
-  servicePillText: {
-    fontFamily: "Inter_700Bold",
-    fontSize: 10,
-    color: Colors.primary,
-    letterSpacing: 0.4,
   },
   empty: {
     fontFamily: "Inter_400Regular",

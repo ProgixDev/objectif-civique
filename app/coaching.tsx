@@ -44,7 +44,7 @@ const TESTIMONIAL_AVATAR = {
 
 const FAQ = [
   {
-    q: "À quoi sert un coach humain ?",
+    q: "À quoi sert un accompagnement humain ?",
     a: "Il vous aide à structurer votre préparation, comprendre les subtilités des questions et gérer les démarches administratives.",
   },
   {
@@ -53,7 +53,7 @@ const FAQ = [
   },
   {
     q: "Comment se passe une séance ?",
-    a: "45 minutes en visioconférence avec un coach certifié, un plan d'action écrit et un suivi entre les séances.",
+    a: "45 minutes en visioconférence avec un accompagnateur certifié, un plan d'action écrit et un suivi entre les séances.",
   },
 ];
 
@@ -78,7 +78,9 @@ export default function Coaching() {
     }
     setSheetOffer(null);
     setForm({ name: "", email: "", date: "" });
-    toast.success("Demande envoyée — un coach vous contactera sous 24h.");
+    toast.success(
+      "Demande envoyée — un accompagnateur vous contactera sous 24h."
+    );
   };
 
   return (
@@ -119,7 +121,7 @@ export default function Coaching() {
           <View style={styles.heroText}>
             <Text style={styles.heroKicker}>ACCOMPAGNEMENT HUMAIN</Text>
             <Text style={styles.heroTitle} numberOfLines={2}>
-              Un coach humain à vos côtés
+              Un accompagnateur à vos côtés
             </Text>
             <Text style={styles.heroSub} numberOfLines={2}>
               Préparation, démarches, suivi personnalisé.
@@ -147,7 +149,7 @@ export default function Coaching() {
         </View>
 
         <View style={styles.section}>
-          <Text style={styles.sectionTitle}>Pourquoi un coach ?</Text>
+          <Text style={styles.sectionTitle}>Pourquoi un accompagnement ?</Text>
           <View style={{ gap: 8 }}>
             <ReasonCard
               icon={<FileCheck size={16} color={Colors.primary} />}
@@ -275,7 +277,7 @@ export default function Coaching() {
           style={[styles.stickyCta, { paddingBottom: insets.bottom + 10 }]}
         >
           <PillButton
-            label="Réserver mon coach"
+            label="Réserver mon accompagnement"
             variant="primary"
             size="md"
             fullWidth
@@ -289,9 +291,9 @@ export default function Coaching() {
         onClose={() => setSheetOffer(null)}
       >
         <View style={{ paddingBottom: 16 }}>
-          <Text style={styles.sheetTitle}>Réserver un coach</Text>
+          <Text style={styles.sheetTitle}>Réserver un accompagnement</Text>
           <Text style={styles.sheetDesc}>
-            Laissez-nous vos coordonnées, un coach vous contactera sous 24h.
+            Laissez-nous vos coordonnées, un accompagnateur vous contactera sous 24h.
           </Text>
           <View style={{ gap: 10, marginTop: 12 }}>
             <Input

@@ -1,0 +1,48 @@
+{
+  "total": 1867,
+  "by_bucket": {
+    "officielles": 1152,
+    "entrainement": 327,
+    "mise_en_situation": 397,
+    "_note": "Une question mise-en-situation officielle apparaît dans 'officielles' ET 'mise_en_situation'."
+  },
+  "by_theme": {
+    "droits-et-devoirs": 385,
+    "histoire-geographie-culture": 442,
+    "principes-valeurs-republique": 267,
+    "systeme-institutionnel": 296,
+    "vivre-en-societe": 477
+  },
+  "by_type": {
+    "flashcard": 32,
+    "mise-en-situation": 397,
+    "qcm": 1438
+  },
+  "by_official": {
+    "official": 1152,
+    "training": 715
+  },
+  "by_level": {
+    "cr": 430,
+    "csp": 444,
+    "nat": 502
+  },
+  "by_theme_type": {
+    "droits-et-devoirs|flashcard": 5,
+    "droits-et-devoirs|mise-en-situation": 120,
+    "droits-et-devoirs|qcm": 260,
+    "histoire-geographie-culture|flashcard": 5,
+    "histoire-geographie-culture|mise-en-situation": 1,
+    "histoire-geographie-culture|qcm": 436,
+    "principes-valeurs-republique|flashcard": 12,
+    "principes-valeurs-republique|mise-en-situation": 28,
+    "principes-valeurs-republique|qcm": 227,
+    "systeme-institutionnel|flashcard": 4,
+    "systeme-institutionnel|mise-en-situation": 26,
+    "systeme-institutionnel|qcm": 266,
+    "vivre-en-societe|flashcard": 6,
+    "vivre-en-societe|mise-en-situation": 222,
+    "vivre-en-societe|qcm": 249
+  },
+  "flashcards": 32
+}

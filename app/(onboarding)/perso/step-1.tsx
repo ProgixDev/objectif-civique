@@ -15,18 +15,21 @@ const OPTIONS: CarouselOption[] = [
     title: "Naturalisation",
     description:
       "Devenir français — questions d'assimilation et culture nationale.",
+    footerBadge: "Niveau de langue requis : B2",
   },
   {
     key: "CSP",
     image: Assets.perso.csp,
     title: "Carte de Séjour Pluriannuelle",
     description: "Renouveler ou obtenir un titre de séjour pluriannuel.",
+    footerBadge: "Niveau de langue requis : A2",
   },
   {
     key: "CR",
     image: Assets.perso.cr,
     title: "Carte de Résident",
     description: "Obtenir une carte de résident de 10 ans.",
+    footerBadge: "Niveau de langue requis : A2",
   },
 ];
 
@@ -35,7 +38,10 @@ export default function Step1() {
   const existing = useUserStore((s) => s.user?.goal);
   const [selected, setSelected] = useState<Category | null>(existing ?? null);
 
-  const total = selected === "NAT" ? 5 : 4;
+  // Step counts: NAT has civic-test extra step. Language test is shared.
+  // NAT: step-1 → civic-test → language-test → deadline → level → companion = 6
+  // CR/CSP: step-1 → language-test → deadline → level → companion = 5
+  const total = selected === "NAT" ? 6 : 5;
 
   return (
     <PersoCarouselShell
@@ -56,7 +62,7 @@ export default function Step1() {
         if (selected === "NAT") {
           router.push("/(onboarding)/perso/step-civic-test");
         } else {
-          router.push("/(onboarding)/perso/step-2");
+          router.push("/(onboarding)/perso/step-language-test");
         }
       }}
     />

@@ -76,6 +76,8 @@ export default function SignUp() {
       createdAt: new Date().toISOString(),
       subscriptionPlan: "free",
       civicTestPassed: null,
+      languageTestStatus: null,
+      languageCertLevel: null,
     });
     haptics.success();
     setSubmitting(false);

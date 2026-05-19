@@ -61,6 +61,8 @@ export default function SignIn() {
         createdAt: new Date().toISOString(),
         subscriptionPlan: "free",
         civicTestPassed: null,
+        languageTestStatus: null,
+        languageCertLevel: null,
       };
       setUser(signed);
     }

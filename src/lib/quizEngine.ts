@@ -28,7 +28,7 @@ export function pickQuestions({
   if (themes && themes.length)
     pool = pool.filter((q) => themes.includes(q.theme));
   if (category && category !== "Tous")
-    pool = pool.filter((q) => q.category === category);
+    pool = pool.filter((q) => q.categories.includes(category));
   const shuffled = shuffleArray(pool);
   return shuffled.slice(0, Math.min(count, shuffled.length));
 }

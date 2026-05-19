@@ -32,6 +32,7 @@ import { GhostButton } from "@/components/ui/GhostButton";
 import { useHaptics } from "@/hooks/useHaptics";
 import { QuitModal } from "@/components/QuitModal";
 import { THEME_LABELS } from "@/data/themes";
+import { GOAL_LABELS } from "@/data/questions";
 
 const LETTERS = ["A", "B", "C", "D"];
 const VALID: Category[] = ["NAT", "CSP", "CR"];
@@ -149,9 +150,11 @@ export default function Practice() {
         >
           <X size={18} color={Colors.primary} />
         </Pressable>
-        <Text style={[Typography.caption, { color: Colors.textTertiary }]}>
-          Entraînement
-        </Text>
+        <View style={styles.categoryChip}>
+          <Text style={styles.categoryChipText} numberOfLines={1}>
+            Questions officielles · {GOAL_LABELS[initCategory]}
+          </Text>
+        </View>
         <Pressable
           onPress={() => toggleBookmark(question.id)}
           style={styles.iconBtn}
@@ -309,6 +312,21 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     borderWidth: 1,
     borderColor: Colors.outlineVariant,
+  },
+  categoryChip: {
+    flex: 1,
+    marginHorizontal: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 999,
+    backgroundColor: "rgba(0,85,164,0.10)",
+    alignItems: "center",
+  },
+  categoryChipText: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 11.5,
+    color: Colors.primary,
+    letterSpacing: 0.3,
   },
   explain: {
     padding: 16,

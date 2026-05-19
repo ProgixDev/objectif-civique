@@ -1,5 +1,6 @@
 import React from "react";
 import {
+  Image,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -15,6 +16,8 @@ import {
   BookOpenCheck,
   ChevronRight,
   Compass,
+  Crown,
+  FileText,
   Flame,
   Layers,
   MapPin,
@@ -35,6 +38,7 @@ import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { GOAL_LABELS } from "@/data/questions";
 import { THEMES } from "@/data/themes";
 import { useHaptics } from "@/hooks/useHaptics";
+import { getPresentation } from "@/lib/goalPresentation";
 
 const TOTAL_QUESTION_BANK = 2500;
 const FLASHCARD_TARGET = 50;
@@ -59,6 +63,7 @@ export default function HomeTab() {
   const firstName = user?.firstName ?? "Ami";
   const initials = firstName.slice(0, 1).toUpperCase();
   const goalLabel = user?.goal ? GOAL_LABELS[user.goal] : "Naturalisation";
+  const presentation = getPresentation(user?.goal ?? null);
   const successRate = getSuccessRate({
     questionsAnswered: progress.questionsAnswered,
     correctCount: progress.correctCount,
@@ -95,24 +100,25 @@ export default function HomeTab() {
     fn();
   };
 
+  const caseTag = user?.goal ?? "NAT";
   const tiles: TileDef[] = [
     {
       key: "training",
       title: "Entraînement",
-      subtitle: "Question par question",
+      subtitle: `Questions officielles ${caseTag}`,
       value: trainingPct,
       icon: <BookOpenCheck size={20} color={Colors.white} strokeWidth={2.2} />,
       gradient: [Colors.primary, Colors.primaryContainer],
       onPress: () =>
         router.push({
           pathname: "/practice/[category]",
-          params: { category: user?.goal ?? "NAT" },
+          params: { category: caseTag },
         }),
     },
     {
       key: "simulation",
       title: "Simulation",
-      subtitle: "40 questions · 45 min",
+      subtitle: `Examen blanc ${caseTag} · 40 Q`,
       value: simulationPct,
       icon: <Timer size={20} color={Colors.white} strokeWidth={2.2} />,
       gradient: [Colors.secondary, "#ff6b5f"],
@@ -121,7 +127,7 @@ export default function HomeTab() {
     {
       key: "flashcards",
       title: "Flashcards",
-      subtitle: "Révision rapide",
+      subtitle: `Cartes mémo ${caseTag}`,
       value: flashcardsPct,
       icon: <Layers size={20} color={Colors.white} strokeWidth={2.2} />,
       gradient: ["#7a4ae0", "#9a72f0"],
@@ -130,7 +136,7 @@ export default function HomeTab() {
     {
       key: "themes",
       title: "Par thème",
-      subtitle: "Révision ciblée",
+      subtitle: `5 thèmes · ${caseTag}`,
       value: themesPct,
       icon: <Compass size={20} color={Colors.white} strokeWidth={2.2} />,
       gradient: [Colors.primaryContainer, Colors.primary],
@@ -170,11 +176,69 @@ export default function HomeTab() {
           </Pressable>
         </View>
 
-        {/* Goal pill */}
-        <View style={styles.goalPill}>
-          <Sparkles size={12} color={Colors.primary} />
-          <Text style={styles.goalPillText}>{goalLabel}</Text>
+        {/* Bannière de parcours — communique IMMÉDIATEMENT le cas de l'utilisateur */}
+        <View style={styles.goalBanner}>
+          <LinearGradient
+            colors={[Colors.primary, "#003a75"]}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={StyleSheet.absoluteFillObject}
+          />
+          <View style={styles.goalBannerBlob} pointerEvents="none" />
+
+          {presentation.illustration ? (
+            <Image
+              source={presentation.illustration}
+              style={styles.goalBannerIllustration}
+              resizeMode="contain"
+            />
+          ) : null}
+
+          <View style={styles.goalBannerContent}>
+            <Text style={styles.goalBannerLabel}>{presentation.banner}</Text>
+            <Text style={styles.goalBannerTitle}>{presentation.longLabel}</Text>
+            <Text style={styles.goalBannerTagline} numberOfLines={2}>
+              {presentation.tagline}
+            </Text>
+            <View style={styles.goalBannerFooter}>
+              <View style={styles.goalBannerChip}>
+                <Sparkles size={11} color={Colors.white} />
+                <Text style={styles.goalBannerChipText}>
+                  Niveau requis · {presentation.languageLevel}
+                </Text>
+              </View>
+            </View>
+          </View>
         </View>
+        {/* Forfait CTA — shown only while on free plan */}
+        {(user?.subscriptionPlan ?? "free") === "free" ? (
+          <Pressable
+            onPress={go(() => router.push("/subscription"))}
+            style={({ pressed }) => [
+              styles.forfaitBanner,
+              pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel="Voir les forfaits premium"
+          >
+            <LinearGradient
+              colors={[Colors.primary, Colors.primaryContainer]}
+              start={{ x: 0, y: 0 }}
+              end={{ x: 1, y: 1 }}
+              style={StyleSheet.absoluteFillObject}
+            />
+            <View style={styles.forfaitIcon}>
+              <Crown size={20} color={Colors.white} strokeWidth={2.2} />
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.forfaitTitle}>Débloquez tout le contenu</Text>
+              <Text style={styles.forfaitSub} numberOfLines={2}>
+                Questions illimitées, simulations, accompagnement — à partir de 4,99 €/mois.
+              </Text>
+            </View>
+            <ArrowRight size={18} color={Colors.white} />
+          </Pressable>
+        ) : null}
 
         {/* Hero — continue session */}
         <Pressable
@@ -205,10 +269,8 @@ export default function HomeTab() {
               <Text style={styles.heroCountMuted}>/50</Text>
             </Text>
           </View>
-          <Text style={styles.heroTitle}>Continuez votre préparation</Text>
-          <Text style={styles.heroDesc}>
-            Reprenez là où vous vous êtes arrêté — {goalLabel}.
-          </Text>
+          <Text style={styles.heroTitle}>{presentation.heroTitle}</Text>
+          <Text style={styles.heroDesc}>{presentation.heroSubtitle}</Text>
 
           <View style={styles.heroFooter}>
             <View style={styles.heroCta}>
@@ -244,6 +306,48 @@ export default function HomeTab() {
             <StudyTile key={key} {...rest} width={tileWidth} />
           ))}
         </View>
+
+        {/* Bloc parcours spécifique au profil */}
+        {user?.goal ? (
+          <View style={styles.parcoursCard}>
+            <View style={styles.parcoursHeader}>
+              <Target size={14} color={Colors.primary} />
+              <Text style={styles.parcoursLabel}>
+                MON PARCOURS · {GOAL_LABELS[user.goal].toUpperCase()}
+              </Text>
+            </View>
+            <View style={styles.parcoursList}>
+              <ParcoursStep
+                first
+                label={
+                  user.goal === "NAT"
+                    ? "Réviser le programme civique NAT"
+                    : "Réviser le programme civique " + user.goal
+                }
+                onPress={go(() =>
+                  router.push({
+                    pathname: "/practice/[category]",
+                    params: { category: user.goal ?? "NAT" },
+                  })
+                )}
+              />
+              <ParcoursStep
+                label="Préparer mon dossier (pièces requises)"
+                onPress={go(() => router.push("/documents" as any))}
+              />
+              {user.goal === "NAT" ? (
+                <ParcoursStep
+                  label="Entretien d'assimilation (vrai/faux + thèmes)"
+                  onPress={go(() => router.push("/assimilation"))}
+                />
+              ) : null}
+              <ParcoursStep
+                label="Lancer une simulation 40 questions"
+                onPress={go(() => router.push("/simulation/intro"))}
+              />
+            </View>
+          </View>
+        ) : null}
 
         {/* NAT-only: Entretien d'assimilation banner */}
         {user?.goal === "NAT" ? (
@@ -321,6 +425,11 @@ export default function HomeTab() {
             onPress={go(() => router.push("/guide"))}
           />
           <ToolChip
+            icon={<FileText size={18} color={Colors.primary} />}
+            label="Mon dossier"
+            onPress={go(() => router.push("/documents" as any))}
+          />
+          <ToolChip
             icon={<ShieldQuestion size={18} color={Colors.primary} />}
             label="Éligibilité"
             onPress={go(() => router.push("/eligibility"))}
@@ -342,7 +451,7 @@ export default function HomeTab() {
           />
           <ToolChip
             icon={<Target size={18} color={Colors.primary} />}
-            label="Coaching"
+            label="Accompagnement"
             onPress={go(() => router.push("/coaching"))}
           />
         </View>
@@ -422,6 +531,33 @@ function StudyTile({
           {pct}%
         </Text>
       </View>
+    </Pressable>
+  );
+}
+
+function ParcoursStep({
+  label,
+  onPress,
+  first,
+}: {
+  label: string;
+  onPress: () => void;
+  first?: boolean;
+}) {
+  return (
+    <Pressable
+      onPress={onPress}
+      style={({ pressed }) => [
+        styles.parcoursStep,
+        first && { borderTopWidth: 0 },
+        pressed && { opacity: 0.85 },
+      ]}
+    >
+      <View style={styles.parcoursDot} />
+      <Text style={styles.parcoursStepText} numberOfLines={1}>
+        {label}
+      </Text>
+      <ChevronRight size={14} color={Colors.textTertiary} />
     </Pressable>
   );
 }
@@ -526,6 +662,82 @@ const styles = StyleSheet.create({
     fontFamily: "Satoshi_600SemiBold",
     fontSize: 11,
     color: Colors.primary,
+    letterSpacing: 0.3,
+  },
+
+  /* Bannière de parcours — affichée en gros en haut de l'accueil */
+  goalBanner: {
+    position: "relative",
+    overflow: "hidden",
+    borderRadius: 22,
+    paddingHorizontal: 18,
+    paddingVertical: 18,
+    marginBottom: 18,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.3,
+    shadowRadius: 22,
+    shadowOffset: { width: 0, height: 12 },
+    elevation: 8,
+    minHeight: 180,
+  },
+  goalBannerBlob: {
+    position: "absolute",
+    top: -50,
+    right: -40,
+    width: 160,
+    height: 160,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.08)",
+  },
+  goalBannerIllustration: {
+    position: "absolute",
+    top: 12,
+    right: 8,
+    width: 110,
+    height: 110,
+  },
+  goalBannerContent: {
+    paddingRight: 100,
+  },
+  goalBannerLabel: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 11,
+    color: "rgba(255,255,255,0.85)",
+    letterSpacing: 1.6,
+    marginBottom: 8,
+  },
+  goalBannerTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 22,
+    lineHeight: 27,
+    color: Colors.white,
+    letterSpacing: -0.4,
+    marginBottom: 6,
+  },
+  goalBannerTagline: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 19,
+    color: "rgba(255,255,255,0.85)",
+    marginBottom: 14,
+  },
+  goalBannerFooter: {
+    flexDirection: "row",
+    alignItems: "center",
+  },
+  goalBannerChip: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.18)",
+  },
+  goalBannerChipText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 11,
+    color: Colors.white,
     letterSpacing: 0.3,
   },
 
@@ -791,6 +1003,84 @@ const styles = StyleSheet.create({
     letterSpacing: 0.1,
   },
 
+  forfaitBanner: {
+    position: "relative",
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    marginBottom: 18,
+    overflow: "hidden",
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.25,
+    shadowRadius: 14,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 5,
+  },
+  forfaitIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "rgba(255,255,255,0.18)",
+  },
+  forfaitTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.white,
+    letterSpacing: -0.1,
+  },
+  forfaitSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: "rgba(255,255,255,0.85)",
+    marginTop: 2,
+  },
+  parcoursCard: {
+    marginTop: 14,
+    padding: 14,
+    borderRadius: 20,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: "rgba(0,85,164,0.18)",
+    ...cardShadow,
+  },
+  parcoursHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    marginBottom: 10,
+  },
+  parcoursLabel: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 11,
+    color: Colors.primary,
+    letterSpacing: 1.1,
+  },
+  parcoursList: { gap: 4 },
+  parcoursStep: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 10,
+    paddingVertical: 10,
+    borderTopWidth: StyleSheet.hairlineWidth,
+    borderTopColor: "rgba(25,28,30,0.06)",
+  },
+  parcoursDot: {
+    width: 7,
+    height: 7,
+    borderRadius: 999,
+    backgroundColor: Colors.primary,
+  },
+  parcoursStepText: {
+    flex: 1,
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 13,
+    color: Colors.onSurface,
+  },
   assimBanner: {
     flexDirection: "row",
     alignItems: "center",

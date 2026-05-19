@@ -6,9 +6,15 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { NEWS_ARTICLES, NEWS_CATEGORY_LABELS } from "@/data/news";
+import {
+  NEWS_ARTICLES,
+  NEWS_CATEGORY_LABELS,
+  categorizeArticle,
+} from "@/data/news";
+import { MarkdownView } from "@/components/MarkdownView";
 
-function formatDate(iso: string) {
+function formatDate(iso: string | null) {
+  if (!iso) return "";
   const d = new Date(iso);
   return d.toLocaleDateString("fr-FR", {
     day: "numeric",
@@ -51,7 +57,10 @@ export default function NewsArticleScreen() {
         >
           <ChevronLeft size={22} color={Colors.primary} />
         </Pressable>
-        <Text style={[Typography.h2, { color: Colors.onSurface, flex: 1 }]}>
+        <Text
+          style={[Typography.h2, { color: Colors.onSurface, flex: 1 }]}
+          numberOfLines={1}
+        >
           Actualité
         </Text>
       </View>
@@ -65,15 +74,16 @@ export default function NewsArticleScreen() {
         <View style={styles.catRow}>
           <View style={styles.catPill}>
             <Text style={styles.catPillText}>
-              {NEWS_CATEGORY_LABELS[article.category]}
+              {NEWS_CATEGORY_LABELS[categorizeArticle(article)]}
             </Text>
           </View>
           <Text style={styles.date}>{formatDate(article.publishedAt)}</Text>
         </View>
         <Text style={styles.title}>{article.title}</Text>
         <Text style={styles.source}>Source : {article.source}</Text>
-        <Text style={styles.excerpt}>{article.excerpt}</Text>
-        <Text style={styles.body}>{article.body}</Text>
+
+        {/* Corps de l'article rendu en markdown léger */}
+        <MarkdownView source={article.body} />
       </ScrollView>
     </View>
   );
@@ -126,33 +136,21 @@ const styles = StyleSheet.create({
   },
   title: {
     fontFamily: "Inter_700Bold",
-    fontSize: 24,
-    lineHeight: 30,
+    fontSize: 22,
+    lineHeight: 28,
     color: Colors.onSurface,
     marginBottom: 10,
+    letterSpacing: -0.3,
   },
   source: {
     fontFamily: "Inter_500Medium",
     fontSize: 12,
     color: Colors.primary,
     marginBottom: 16,
-  },
-  excerpt: {
-    fontFamily: "Inter_600SemiBold",
-    fontSize: 15,
-    lineHeight: 24,
-    color: Colors.onSurface,
-    marginBottom: 16,
-    padding: 14,
-    borderRadius: Radius.lg,
+    padding: 10,
+    borderRadius: Radius.md,
     backgroundColor: Colors.surfaceContainerLow,
     borderLeftWidth: 3,
     borderLeftColor: Colors.primary,
-  },
-  body: {
-    fontFamily: "Inter_400Regular",
-    fontSize: 14,
-    lineHeight: 24,
-    color: Colors.textSecondary,
   },
 });

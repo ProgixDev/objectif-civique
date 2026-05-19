@@ -1,114 +1,103 @@
-export type GuideSection = {
+import rawGuide from "./guideContent.json";
+import { ThemeId } from "@/types";
+
+/**
+ * Contenu pédagogique compilé depuis FULL-DATA/2-guides-pedagogiques/.
+ * Recompiler via `node scripts/merge-guide.mjs` si la base client est mise à jour.
+ */
+
+export type LivretChapter = {
   id: string;
+  order: number;
+  title: string;
+  /** Corps en markdown (parsé par MarkdownView). */
+  body: string;
+};
+
+export type Course = {
+  id: string;
+  themeId: ThemeId;
+  subTheme: string;
+  order: number;
   title: string;
   body: string;
 };
 
-export const GUIDE_INTRO = {
-  title: "Découvrir Objectif Civique",
-  tagline:
-    "Votre compagnon pour préparer l'examen civique et l'entretien de naturalisation.",
+export type Fiche = {
+  id: string;
+  shortId: string;
+  title: string;
+  content: string;
+  themeId: ThemeId;
+  subTheme: string | null;
 };
 
-export const GUIDE_SECTIONS: GuideSection[] = [
-  {
-    id: "objective",
-    title: "L'objectif de cette application",
-    body:
-      "Objectif Civique vous aide à préparer, seul(e) et à votre rythme, l'examen civique et l'entretien de naturalisation française. L'application couvre les trois parcours officiels : Carte de Résident (CR), Carte de Séjour Pluriannuelle (CSP) et Naturalisation (NAT).",
-  },
-  {
-    id: "how-to-use",
-    title: "Comment utiliser l'application",
-    body:
-      "1. Choisissez votre objectif (CR, CSP ou NAT) lors de la personnalisation.\n\n2. Entraînez-vous avec l'onglet Entraînement : révisez thème par thème (institutions, histoire, valeurs, géographie, culture).\n\n3. Lancez une Simulation quand vous vous sentez prêt(e) : 40 questions, 45 minutes, seuil de réussite à 80 %.\n\n4. Suivez votre progression dans l'onglet Progrès.\n\n5. Consultez les Flashcards pour une révision rapide avant le jour J.",
-  },
-  {
-    id: "eligibility",
-    title: "Suis-je concerné(e) par l'examen civique ?",
-    body:
-      "Certaines personnes sont dispensées de l'examen civique : les mineurs, les personnes de 65 ans et plus, et les personnes en situation de handicap sur présentation d'un certificat médical. Faites le test d'éligibilité dans l'application pour savoir si vous devez passer l'examen.",
-  },
-  {
-    id: "exam-day",
-    title: "Le jour de l'examen",
-    body:
-      "L'examen se déroule dans un centre agréé par la préfecture. Vous répondrez à 40 questions à choix multiple en 45 minutes. Il faut obtenir au moins 32 bonnes réponses sur 40 (80 %) pour réussir. Utilisez l'onglet Centres d'examen pour trouver le centre le plus proche de chez vous.",
-  },
-  {
-    id: "content-source",
-    title: "D'où viennent les questions ?",
-    body:
-      "Toutes les questions sont issues du livret du citoyen et des listes officielles publiées par le ministère de l'Intérieur sur formation-civique.interieur.gouv.fr. Le contenu est mis à jour chaque année selon les évolutions de la législation.",
-  },
-  {
-    id: "support",
-    title: "Besoin d'aide ?",
-    body:
-      "Consultez l'onglet Profil pour gérer votre abonnement, vos paramètres et nous contacter. Vous pouvez aussi échanger avec la communauté dans l'onglet Forum et suivre les dernières actualités sur la naturalisation dans l'onglet Actualités.",
-  },
-];
+export type Notion = {
+  id: string;
+  shortId: string;
+  themeId: ThemeId;
+  question: string;
+  answer: string;
+};
 
-export const GUIDE_LINKS = [
-  {
-    title: "Livret du Citoyen",
-    subtitle: "Référentiel officiel du Ministère de l'Intérieur",
-    url: "https://www.immigration.interieur.gouv.fr/Integration-et-Acces-a-la-nationalite/La-nationalite-francaise/Le-livret-du-citoyen",
-  },
-  {
-    title: "Formation civique officielle",
-    subtitle: "Plateforme publique d'information et de préparation",
-    url: "https://formation-civique.interieur.gouv.fr/",
-  },
-  {
-    title: "Service-Public.fr — Naturalisation",
-    subtitle: "Démarches et conditions d'obtention",
-    url: "https://www.service-public.fr/particuliers/vosdroits/N111",
-  },
-];
+type RawGuide = {
+  livret: LivretChapter[];
+  courses: Course[];
+  fiches: Fiche[];
+  notions: Notion[];
+  counts: {
+    livret: number;
+    courses: number;
+    fiches: number;
+    notions: number;
+  };
+};
 
-export const GUIDE_TESTIMONIALS = [
-  {
-    name: "Aïssata K.",
-    goal: "Naturalisation",
-    text: "Les simulations m'ont mise en confiance. J'ai eu 36/40 le jour J, exactement comme pendant mes entraînements.",
-    rating: 5,
-  },
-  {
-    name: "Mohamed B.",
-    goal: "Carte de Résident",
-    text: "Les explications sont vraiment détaillées, avec les articles de loi. Enfin une app qui ne se contente pas de dire « bonne réponse ».",
-    rating: 5,
-  },
-  {
-    name: "Sofiane R.",
-    goal: "CSP",
-    text: "Parfait pour réviser dans les transports. Les flashcards et le mode thème m'ont permis de cibler mes points faibles.",
-    rating: 5,
-  },
-  {
-    name: "Linda T.",
-    goal: "Naturalisation",
-    text: "L'app est très claire et le test d'éligibilité m'a évité une démarche inutile. Je recommande à 100 %.",
-    rating: 5,
-  },
-];
+const guide = rawGuide as RawGuide;
 
-export const GUIDE_FAQ = [
+export const LIVRET_CHAPTERS: LivretChapter[] = guide.livret;
+export const COURSES: Course[] = guide.courses;
+export const FICHES: Fiche[] = guide.fiches;
+export const NOTIONS: Notion[] = guide.notions;
+
+/** En-tête affiché dans l'écran Guide. */
+export const GUIDE_INTRO = {
+  title: "Guide pédagogique",
+  tagline:
+    "Livret du citoyen, cours, fiches de révision et notions détaillées — tout le contenu pédagogique d'Objectif Civique.",
+};
+
+/** Outils internes affichés en fin de page Guide. */
+export type GuideTool = {
+  title: string;
+  subtitle: string;
+  route: string;
+  icon: string;
+};
+
+export const GUIDE_TOOLS: GuideTool[] = [
   {
-    q: "L'application est-elle à jour ?",
-    a: "Oui, nous actualisons les questions et explications à chaque nouvelle version officielle publiée par le ministère de l'Intérieur.",
+    title: "Test d'éligibilité",
+    subtitle: "Vérifiez si vous êtes dispensé(e) de l'examen civique.",
+    route: "/eligibility",
+    icon: "ShieldQuestion",
   },
   {
-    q: "Puis-je utiliser l'application hors-ligne ?",
-    a: "Les questions déjà téléchargées restent accessibles hors-ligne. La synchronisation de votre progression nécessite une connexion internet.",
+    title: "Centres d'examen",
+    subtitle: `Trouvez l'un des 216 centres en France.`,
+    route: "/exam-centers",
+    icon: "MapPin",
   },
   {
-    q: "Quelle est la différence entre Entraînement et Simulation ?",
-    a: "L'Entraînement est à votre rythme avec feedback immédiat après chaque réponse. La Simulation reproduit les conditions réelles de l'examen : 40 questions, 45 minutes chronométrées, correction à la fin.",
+    title: "Actualités",
+    subtitle: "Articles à jour sur la naturalisation et le séjour.",
+    route: "/news",
+    icon: "Newspaper",
   },
   {
-    q: "Comment réussir l'examen civique ?",
-    a: "Visez 32 bonnes réponses sur 40 (80 %). Entraînez-vous régulièrement, lisez les explications détaillées après chaque question, et enchaînez plusieurs simulations complètes avant le jour J.",
+    title: "Forum",
+    subtitle: "Échangez avec d'autres candidats.",
+    route: "/forum",
+    icon: "MessagesSquare",
   },
 ];
