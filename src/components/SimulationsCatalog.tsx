@@ -13,6 +13,7 @@ import {
   Clock,
   EyeOff,
   ListChecks,
+  Lock,
   Pause,
   Play,
   Sparkles,
@@ -23,141 +24,7 @@ import { GrainyBackground } from "@/components/ui/GrainyBackground";
 import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
-import { Category, ThemeId } from "@/types";
-
-type SimConfig = {
-  key: string;
-  number: number;
-  title: string;
-  subtitle: string;
-  category?: Category;
-  themes?: ThemeId[];
-  tag: string;
-  tone: "navy" | "red" | "deep" | "violet";
-  recommended?: boolean;
-};
-
-type ThemeSetup = {
-  id: ThemeId;
-  label: string;
-  short: string;
-  subtitle: string;
-  tone: SimConfig["tone"];
-};
-
-const THEME_SETUPS: ThemeSetup[] = [
-  {
-    id: "principes-valeurs-republique",
-    label: "Principes & valeurs",
-    short: "Valeurs",
-    subtitle: "Liberté, Égalité, Fraternité, laïcité",
-    tone: "violet",
-  },
-  {
-    id: "droits-et-devoirs",
-    label: "Droits & devoirs",
-    short: "Droits",
-    subtitle: "Droits fondamentaux et devoirs civiques",
-    tone: "red",
-  },
-  {
-    id: "systeme-institutionnel",
-    label: "Système institutionnel",
-    short: "Institutions",
-    subtitle: "Président, Parlement, Constitution",
-    tone: "navy",
-  },
-  {
-    id: "histoire-geographie-culture",
-    label: "Histoire, géographie & culture",
-    short: "Hist./Géo.",
-    subtitle: "Révolution, régions, patrimoine",
-    tone: "deep",
-  },
-  {
-    id: "vivre-en-societe",
-    label: "Vivre en société",
-    short: "Société",
-    subtitle: "École, santé, démarches, travail",
-    tone: "navy",
-  },
-];
-
-const RUNS_PER_THEME = 5;
-
-function buildSimulations(userGoal: Category | null): SimConfig[] {
-  const out: SimConfig[] = [];
-
-  const CATEGORY_BLUEPRINTS: Record<
-    Category,
-    Omit<SimConfig, "number" | "recommended">
-  > = {
-    NAT: {
-      key: "nat",
-      title: "Naturalisation",
-      subtitle: "Questions orientées NAT — niveau approfondi",
-      category: "NAT",
-      tag: "NAT",
-      tone: "red",
-    },
-    CR: {
-      key: "cr",
-      title: "Carte de Résident",
-      subtitle: "Questions orientées CR — niveau intermédiaire",
-      category: "CR",
-      tag: "CR",
-      tone: "deep",
-    },
-    CSP: {
-      key: "csp",
-      title: "Carte de Séjour Pluriannuelle",
-      subtitle: "Questions orientées CSP — niveau fondamental",
-      category: "CSP",
-      tag: "CSP",
-      tone: "navy",
-    },
-  };
-
-  const orderedCats: Category[] = ["NAT", "CR", "CSP"];
-  if (userGoal && orderedCats.includes(userGoal)) {
-    orderedCats.splice(orderedCats.indexOf(userGoal), 1);
-    orderedCats.unshift(userGoal);
-  }
-
-  let n = 1;
-  for (const cat of orderedCats) {
-    out.push({
-      ...CATEGORY_BLUEPRINTS[cat],
-      number: n++,
-      recommended: cat === userGoal,
-    });
-  }
-
-  out.push({
-    key: "mix",
-    number: n++,
-    title: "Mix général",
-    subtitle: "Toutes catégories, tous thèmes — 40 questions tirées au sort",
-    tag: "Mix",
-    tone: "navy",
-  });
-
-  for (const theme of THEME_SETUPS) {
-    for (let run = 1; run <= RUNS_PER_THEME; run++) {
-      out.push({
-        key: `${theme.id}-${run}`,
-        number: n++,
-        title: `${theme.label} — Série ${run}`,
-        subtitle: theme.subtitle,
-        themes: [theme.id],
-        tag: theme.short,
-        tone: theme.tone,
-      });
-    }
-  }
-
-  return out;
-}
+import { buildSimulations, SimConfig } from "@/lib/simulations";
 
 const TONE: Record<
   SimConfig["tone"],
@@ -174,11 +41,21 @@ type Props = {
   showBackButton?: boolean;
 };
 
+/**
+ * Clés des simulations gratuites pour les utilisateurs sans abonnement.
+ * Une simulation par cas (NAT, CR, CSP). Le reste (mix + séries thématiques)
+ * est cadenassé et redirige vers /subscription.
+ */
+const FREE_SIM_KEYS = new Set<string>(["nat", "cr", "csp"]);
+
 export function SimulationsCatalog({ showBackButton = false }: Props) {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
+  const subscriptionPlan =
+    useUserStore((s) => s.user?.subscriptionPlan) ?? "free";
+  const isLockedForUser = subscriptionPlan === "free";
 
   const simulations = useMemo(
     () => buildSimulations(userGoal),
@@ -187,10 +64,16 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
 
   const onStart = (cfg: SimConfig) => {
     haptics.medium();
+    const isLocked = isLockedForUser && !FREE_SIM_KEYS.has(cfg.key);
+    if (isLocked) {
+      router.push("/subscription");
+      return;
+    }
     startSimulation({
       category: cfg.category,
       themes: cfg.themes,
       label: cfg.title,
+      simKey: cfg.key,
     });
     router.push("/simulation/run");
   };
@@ -269,6 +152,7 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
         <View style={styles.simList}>
           {simulations.map((cfg) => {
             const tone = TONE[cfg.tone];
+            const locked = isLockedForUser && !FREE_SIM_KEYS.has(cfg.key);
             return (
               <Pressable
                 key={cfg.key}
@@ -276,29 +160,50 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
                 style={({ pressed }) => [
                   styles.simCard,
                   cfg.recommended && styles.simCardRecommended,
+                  locked && styles.simCardLocked,
                   pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
                 ]}
+                accessibilityLabel={
+                  locked
+                    ? `${cfg.title} — verrouillée, débloquer avec un abonnement`
+                    : cfg.title
+                }
               >
                 <View
                   style={[
                     styles.simNumber,
-                    { backgroundColor: tone.bg, shadowColor: tone.shadow },
+                    {
+                      backgroundColor: locked ? Colors.outlineVariant : tone.bg,
+                      shadowColor: locked ? "transparent" : tone.shadow,
+                    },
                   ]}
                 >
-                  <Text style={[styles.simNumberText, { color: tone.fg }]}>
-                    {String(cfg.number).padStart(2, "0")}
-                  </Text>
+                  {locked ? (
+                    <Lock size={20} color={Colors.white} />
+                  ) : (
+                    <Text style={[styles.simNumberText, { color: tone.fg }]}>
+                      {String(cfg.number).padStart(2, "0")}
+                    </Text>
+                  )}
                 </View>
 
                 <View style={{ flex: 1 }}>
                   <View style={styles.simTopRow}>
-                    <Text style={styles.simTitle} numberOfLines={1}>
+                    <Text
+                      style={[styles.simTitle, locked && styles.simTitleLocked]}
+                      numberOfLines={1}
+                    >
                       {cfg.title}
                     </Text>
                     {cfg.recommended ? (
                       <View style={styles.recoTag}>
                         <Sparkles size={9} color={Colors.white} />
                         <Text style={styles.recoTagText}>POUR VOUS</Text>
+                      </View>
+                    ) : locked ? (
+                      <View style={styles.lockedTag}>
+                        <Lock size={9} color={Colors.white} />
+                        <Text style={styles.lockedTagText}>PREMIUM</Text>
                       </View>
                     ) : (
                       <View
@@ -314,7 +219,9 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
                     )}
                   </View>
                   <Text style={styles.simSub} numberOfLines={2}>
-                    {cfg.subtitle}
+                    {locked
+                      ? "Débloquez avec un abonnement pour accéder à cette simulation."
+                      : cfg.subtitle}
                   </Text>
                   <View style={styles.simMeta}>
                     <Clock size={11} color={Colors.textTertiary} />
@@ -325,8 +232,21 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
                   </View>
                 </View>
 
-                <View style={[styles.playBtn, { backgroundColor: tone.bg }]}>
-                  <Play size={14} color={Colors.white} fill={Colors.white} />
+                <View
+                  style={[
+                    styles.playBtn,
+                    {
+                      backgroundColor: locked
+                        ? Colors.outlineVariant
+                        : tone.bg,
+                    },
+                  ]}
+                >
+                  {locked ? (
+                    <Lock size={14} color={Colors.white} />
+                  ) : (
+                    <Play size={14} color={Colors.white} fill={Colors.white} />
+                  )}
                 </View>
               </Pressable>
             );
@@ -475,6 +395,27 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.primary,
   },
   recoTagText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 9,
+    color: Colors.white,
+    letterSpacing: 0.6,
+  },
+  simCardLocked: {
+    opacity: 0.85,
+  },
+  simTitleLocked: {
+    color: Colors.textSecondary,
+  },
+  lockedTag: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 3,
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 999,
+    backgroundColor: "#0A0F1E",
+  },
+  lockedTagText: {
     fontFamily: "Satoshi_700Bold",
     fontSize: 9,
     color: Colors.white,

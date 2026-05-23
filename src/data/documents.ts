@@ -121,7 +121,7 @@ export const DOSSIERS: Record<Category, DossierContent> = {
     goal: "CR",
     intro:
       "Pièces à fournir pour obtenir ou renouveler une Carte de Résident de 10 ans.",
-    languageLevel: "A2 (oral et écrit)",
+    languageLevel: "B1 (oral et écrit)",
     sections: [
       {
         id: "identite",
@@ -188,8 +188,8 @@ export const DOSSIERS: Record<Category, DossierContent> = {
       {
         id: "cr-attest-langue",
         sectionId: "integration",
-        label: "Attestation de niveau A2 de français",
-        detail: "TCF, TEF, DELF A2 ou équivalent.",
+        label: "Attestation de niveau B1 de français",
+        detail: "TCF, TEF, DELF B1 ou équivalent.",
         status: "required",
       },
       {

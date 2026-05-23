@@ -110,6 +110,11 @@ export type Session = {
   // For simulation
   startedAtMs?: number;
   timerInitialSeconds?: number;
+  /**
+   * Clé de la simulation lancée depuis le catalogue (ex: "histoire-1").
+   * Utilisée par l'écran de résultats pour proposer la simu suivante.
+   */
+  simKey?: string;
 };
 
 export type Plan = {

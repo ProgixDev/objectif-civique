@@ -12,6 +12,7 @@ type SessionState = {
     category?: Category;
     themes?: ThemeId[];
     label?: string;
+    simKey?: string;
   }) => void;
   startAssessment: (questions: Question[]) => void;
   answerCurrent: (selectedIndex: number | null) => void;
@@ -68,11 +69,14 @@ export const useSessionStore = create<SessionState>((set, get) => ({
       current: {
         id: createId("sim"),
         type: "simulation",
+        category: opts?.category,
+        themeId: opts?.themes?.[0],
         questions,
         answers: [],
         startedAt: new Date().toISOString(),
         startedAtMs: Date.now(),
         timerInitialSeconds,
+        simKey: opts?.simKey,
       },
       currentIndex: 0,
     });

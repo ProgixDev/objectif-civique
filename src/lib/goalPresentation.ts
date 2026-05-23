@@ -54,7 +54,7 @@ export const GOAL_PRESENTATION: Record<Category, GoalPresentation> = {
     heroTitle: "Préparez votre Carte de Résident",
     heroSubtitle:
       "Programme civique officiel et conditions d'intégration pour le titre de 10 ans.",
-    languageLevel: "A2",
+    languageLevel: "B1",
     actionVerb: "Continuer ma préparation CR",
     iconName: "ShieldCheck",
     illustration: Assets.perso.cr,

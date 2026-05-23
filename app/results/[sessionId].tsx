@@ -28,8 +28,10 @@ import { PillButton } from "@/components/ui/PillButton";
 import { GhostButton } from "@/components/ui/GhostButton";
 import { BottomSheet } from "@/components/ui/BottomSheet";
 import { useSessionStore } from "@/store/sessionStore";
+import { useUserStore } from "@/store/userStore";
 import { scoreSession, isPass } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
+import { getNextSimulation } from "@/lib/simulations";
 import { toast } from "@/store/toastStore";
 import { Category, ThemeId } from "@/types";
 import { THEMES } from "@/data/themes";
@@ -48,6 +50,15 @@ export default function Results() {
   const session = useSessionStore((s) => s.current);
   const startPractice = useSessionStore((s) => s.startPractice);
   const startSimulation = useSessionStore((s) => s.startSimulation);
+  const userGoal = useUserStore((s) => s.user?.goal) ?? null;
+
+  // Pour les simulations thématiques, calcule la simulation suivante
+  // (ex: histoire-1 → histoire-2). Null si pas de suite logique.
+  const nextSim = useMemo(
+    () =>
+      mode === "simulation" ? getNextSimulation(session?.simKey, userGoal) : null,
+    [mode, session?.simKey, userGoal]
+  );
 
   const [openDetail, setOpenDetail] = useState<number | null>(null);
 
@@ -316,15 +327,40 @@ export default function Results() {
             }
           />
           {mode === "simulation" ? (
-            <GhostButton
-              label="Recommencer la simulation"
-              size="md"
-              fullWidth
-              onPress={() => {
-                startSimulation();
-                router.replace("/simulation/run");
-              }}
-            />
+            <>
+              {nextSim ? (
+                <PillButton
+                  label={`Suivant : ${nextSim.title}`}
+                  size="md"
+                  variant="secondary"
+                  fullWidth
+                  rightIcon={<ChevronRight size={16} color={Colors.white} />}
+                  onPress={() => {
+                    startSimulation({
+                      category: nextSim.category,
+                      themes: nextSim.themes,
+                      label: nextSim.title,
+                      simKey: nextSim.key,
+                    });
+                    router.replace("/simulation/run");
+                  }}
+                />
+              ) : null}
+              <GhostButton
+                label="Recommencer la même simulation"
+                size="md"
+                fullWidth
+                onPress={() => {
+                  if (!session) return;
+                  startSimulation({
+                    category: session.category,
+                    themes: session.themeId ? [session.themeId] : undefined,
+                    simKey: session.simKey,
+                  });
+                  router.replace("/simulation/run");
+                }}
+              />
+            </>
           ) : (
             <GhostButton
               label="Recommencer"

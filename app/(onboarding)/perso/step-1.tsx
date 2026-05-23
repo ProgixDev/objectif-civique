@@ -29,7 +29,7 @@ const OPTIONS: CarouselOption[] = [
     image: Assets.perso.cr,
     title: "Carte de Résident",
     description: "Obtenir une carte de résident de 10 ans.",
-    footerBadge: "Niveau de langue requis : A2",
+    footerBadge: "Niveau de langue requis : B1",
   },
 ];
 

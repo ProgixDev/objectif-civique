@@ -80,12 +80,23 @@ for (const folder of folders) {
   }
   let body = bodyLines.join("\n").trim();
 
-  // Remplace les mentions à la source d'origine par notre équipe
+  // Remplace les mentions à la source d'origine par notre équipe.
+  // On retire aussi tous les liens et handles externes (sociaux, sites du
+  // partenaire d'origine) pour que le contenu paraisse 100% issu de notre app.
   body = body
     .replace(/Équipe\s+Le\s+Test\s+Civique/gi, "L'équipe Objectif Civique")
     .replace(/le\s*test\s*civique\.com/gi, "Objectif Civique")
     .replace(/test-civique\.com/gi, "Objectif Civique")
-    .replace(/horizon224\.fr/gi, "Objectif Civique");
+    .replace(/horizon224\.fr/gi, "Objectif Civique")
+    // Liens markdown vers les comptes sociaux horizon224 : on retire la ligne
+    .replace(/^\s*[*-]\s*<https?:\/\/[^>]*horizon22[^>]*>\s*$/gim, "")
+    .replace(/<https?:\/\/[^>]*horizon22[^>]*>/gi, "")
+    .replace(/@horizon22\d*/gi, "@objectifcivique")
+    // Liens markdown vers test-civique.com — on retire l'URL en gardant le texte
+    .replace(
+      /\[([^\]]+)\]\(https?:\/\/[^)]*(test-?civique|examen-?civique)[^)]*\)/gi,
+      "$1"
+    );
 
   articles.push({
     id: folder,
