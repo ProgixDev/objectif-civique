@@ -189,3 +189,37 @@ export const SIM_TONES: Record<
   deep: { bg: "#0A0F1E", fg: "#FFFFFF", shadow: "#0A0F1E" },
   violet: { bg: "#7a4ae0", fg: "#FFFFFF", shadow: "#7a4ae0" },
 };
+
+/**
+ * Simulations gratuites pour les utilisateurs sans abonnement :
+ *   - 3 cas (NAT, CR, CSP)
+ *   - 1ʳᵉ série de chacun des 5 thèmes
+ *
+ * Toutes les autres simulations (Mix + séries 2-5 par thème) nécessitent
+ * un abonnement payant.
+ */
+export const FREE_SIM_KEYS = new Set<string>([
+  "nat",
+  "cr",
+  "csp",
+  "principes-valeurs-republique-1",
+  "droits-et-devoirs-1",
+  "systeme-institutionnel-1",
+  "histoire-geographie-culture-1",
+  "vivre-en-societe-1",
+]);
+
+/**
+ * Détermine si une simulation est verrouillée pour cet utilisateur :
+ *   - Plan gratuit + clé hors `FREE_SIM_KEYS` → verrouillée
+ *   - Plan payant (monthly/quarterly/lifetime) → toutes accessibles
+ */
+export function isSimLocked(
+  simKey: string | null | undefined,
+  subscriptionPlan: string | null | undefined
+): boolean {
+  if (!simKey) return false;
+  const plan = subscriptionPlan ?? "free";
+  if (plan !== "free") return false;
+  return !FREE_SIM_KEYS.has(simKey);
+}

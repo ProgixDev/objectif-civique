@@ -24,7 +24,11 @@ import { GrainyBackground } from "@/components/ui/GrainyBackground";
 import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
-import { buildSimulations, SimConfig } from "@/lib/simulations";
+import {
+  buildSimulations,
+  FREE_SIM_KEYS,
+  SimConfig,
+} from "@/lib/simulations";
 
 const TONE: Record<
   SimConfig["tone"],
@@ -40,13 +44,6 @@ type Props = {
   /** Affiche un bouton retour dans la top bar (false depuis un onglet) */
   showBackButton?: boolean;
 };
-
-/**
- * Clés des simulations gratuites pour les utilisateurs sans abonnement.
- * Une simulation par cas (NAT, CR, CSP). Le reste (mix + séries thématiques)
- * est cadenassé et redirige vers /subscription.
- */
-const FREE_SIM_KEYS = new Set<string>(["nat", "cr", "csp"]);
 
 export function SimulationsCatalog({ showBackButton = false }: Props) {
   const insets = useSafeAreaInsets();

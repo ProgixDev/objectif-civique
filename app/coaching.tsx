@@ -14,7 +14,9 @@ import { router, Stack } from "expo-router";
 import { LinearGradient } from "expo-linear-gradient";
 import * as LucideIcons from "lucide-react-native";
 import {
+  ArrowRight,
   ChevronLeft,
+  ExternalLink,
   Mail,
   MessageCircle,
   Phone,
@@ -24,11 +26,8 @@ import {
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
-import { Typography } from "@/constants/typography";
 import { Assets } from "@/constants/assets";
 import { PillButton } from "@/components/ui/PillButton";
-import { Input } from "@/components/ui/Input";
-import { BottomSheet } from "@/components/ui/BottomSheet";
 import {
   COACH_SERVICES,
   COACH_STEPS,
@@ -38,39 +37,24 @@ import {
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
 
+/** Site partenaire DemarchesCivique — destination des CTA "Démarrer ma procédure". */
+const SITE_URL = "https://demarchescivique.fr";
+
 export default function Coaching() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
   const [scrolled, setScrolled] = useState(false);
-  const [sheetService, setSheetService] = useState<string | null>(null);
-  const [form, setForm] = useState({
-    name: "",
-    email: "",
-    service: "",
-  });
-
-  const heroHeight = 260;
 
   const onScroll = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
     setScrolled(e.nativeEvent.contentOffset.y > 200);
   };
 
-  const openSheet = (serviceTitle: string) => {
+  /** Ouvre le site partenaire dans le navigateur du téléphone. */
+  const openSite = () => {
     haptics.medium();
-    setForm((f) => ({ ...f, service: serviceTitle }));
-    setSheetService(serviceTitle);
-  };
-
-  const submit = () => {
-    if (!form.name.trim() || !form.email.trim()) {
-      toast.error("Veuillez renseigner votre nom et email");
-      return;
-    }
-    setSheetService(null);
-    setForm({ name: "", email: "", service: "" });
-    toast.success(
-      "Demande envoyée — un juriste vous contactera sous 24h ouvrées."
-    );
+    Linking.openURL(SITE_URL).catch(() => {
+      toast.error("Impossible d'ouvrir le navigateur");
+    });
   };
 
   return (
@@ -82,17 +66,16 @@ export default function Coaching() {
         contentContainerStyle={{ paddingBottom: 120 }}
         showsVerticalScrollIndicator={false}
       >
-        {/* Hero */}
-        <View style={[styles.hero, { height: heroHeight }]}>
-          <Image
-            source={Assets.coaching.hero}
-            style={StyleSheet.absoluteFill}
-            resizeMode="cover"
-          />
+        {/* Hero — logo du site partenaire + branding */}
+        <View style={styles.hero}>
           <LinearGradient
-            colors={["rgba(0,18,69,0.15)", "rgba(0,18,69,0.92)"]}
+            colors={[Colors.primary, "#003a75"]}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
             style={StyleSheet.absoluteFill}
           />
+          <View style={styles.heroBlob} pointerEvents="none" />
+
           <View style={[styles.heroTop, { paddingTop: insets.top + 10 }]}>
             <Pressable
               onPress={() => router.back()}
@@ -109,24 +92,48 @@ export default function Coaching() {
               <Share2 size={16} color={Colors.white} />
             </Pressable>
           </View>
-          <View style={styles.heroText}>
-            <Text style={styles.heroKicker}>SERVICE D'ACCOMPAGNEMENT</Text>
-            <Text style={styles.heroTitle} numberOfLines={2}>
-              Accompagnement d'excellence pour vos démarches en France
-            </Text>
-            <Text style={styles.heroSub} numberOfLines={2}>
-              Expertise juridique et administrative — 100 % à distance.
-            </Text>
-          </View>
-        </View>
 
-        {/* Trust strip */}
-        <View style={styles.trustCard}>
-          <TrustItem icon="ShieldCheck" label="Juristes certifiés" />
-          <View style={styles.trustDivider} />
-          <TrustItem icon="Clock" label="Réponse < 24h" />
-          <View style={styles.trustDivider} />
-          <TrustItem icon="MapPin" label="France & Canada" />
+          <View style={styles.heroBody}>
+            <View style={styles.heroLogoWrap}>
+              <Image
+                source={Assets.branding.logoSite}
+                style={styles.heroLogo}
+                resizeMode="contain"
+              />
+            </View>
+            <Text style={styles.heroKicker}>DÉMARCHESCIVIQUE</Text>
+            <Text style={styles.heroTitle}>Accompagnement en ligne</Text>
+            <Text style={styles.heroSub}>
+              Accompagnement en ligne pour vos démarches administratives en
+              France.
+            </Text>
+            <Text style={styles.heroDesc}>
+              Étudiants, titres de séjour, demandeurs d'asile, regroupement
+              familial, naturalisation, logement, insertion professionnelle. Un
+              accompagnement humain et transparent.
+            </Text>
+
+            <View style={styles.heroCtaRow}>
+              <Pressable
+                onPress={openSite}
+                style={({ pressed }) => [
+                  styles.heroCtaPrimary,
+                  pressed && { opacity: 0.92 },
+                ]}
+                accessibilityRole="button"
+                accessibilityLabel="Démarrer ma procédure sur DemarchesCivique"
+              >
+                <Text style={styles.heroCtaPrimaryText}>
+                  Démarrer ma procédure
+                </Text>
+                <ArrowRight size={15} color={Colors.primary} />
+              </Pressable>
+              <View style={styles.heroLinkRow}>
+                <ExternalLink size={11} color="rgba(255,255,255,0.75)" />
+                <Text style={styles.heroLinkText}>demarchescivique.fr</Text>
+              </View>
+            </View>
+          </View>
         </View>
 
         {/* 6 services */}
@@ -145,7 +152,7 @@ export default function Coaching() {
               return (
                 <Pressable
                   key={s.id}
-                  onPress={() => openSheet(s.title)}
+                  onPress={openSite}
                   style={({ pressed }) => [
                     styles.serviceCard,
                     pressed && { opacity: 0.92 },
@@ -304,7 +311,7 @@ export default function Coaching() {
               icon={<Video size={18} color={Colors.primary} />}
               label="Visioconférence"
               value="Sur rendez-vous"
-              onPress={() => openSheet("Visioconférence")}
+              onPress={openSite}
             />
           </View>
 
@@ -317,79 +324,21 @@ export default function Coaching() {
           style={[styles.stickyCta, { paddingBottom: insets.bottom + 10 }]}
         >
           <PillButton
-            label="Demander un examen de situation"
+            label="Démarrer ma procédure"
             variant="primary"
             size="md"
             fullWidth
-            onPress={() => openSheet("Examen de situation")}
+            rightIcon={<ArrowRight size={16} color={Colors.white} />}
+            onPress={openSite}
           />
         </View>
       ) : null}
 
-      <BottomSheet
-        visible={sheetService !== null}
-        onClose={() => setSheetService(null)}
-      >
-        <View style={{ paddingBottom: 16 }}>
-          <Text style={styles.sheetTitle}>
-            {sheetService ?? "Demande d'accompagnement"}
-          </Text>
-          <Text style={styles.sheetDesc}>
-            Un juriste vous recontactera sous 24h ouvrées.
-          </Text>
-          <View style={{ gap: 10, marginTop: 14 }}>
-            <Input
-              label="Nom et prénom"
-              placeholder="Ex : Jean Dupont"
-              value={form.name}
-              onChangeText={(v) => setForm({ ...form, name: v })}
-              autoCapitalize="words"
-            />
-            <Input
-              label="Email"
-              placeholder="vous@email.com"
-              value={form.email}
-              onChangeText={(v) => setForm({ ...form, email: v })}
-              keyboardType="email-address"
-              autoCapitalize="none"
-            />
-            <Input
-              label="Nature de votre demande"
-              placeholder="Précisez votre situation"
-              value={form.service}
-              onChangeText={(v) => setForm({ ...form, service: v })}
-            />
-          </View>
-          <PillButton
-            label="Demander un premier échange"
-            size="md"
-            variant="primary"
-            fullWidth
-            onPress={submit}
-            style={{ marginTop: 16 }}
-          />
-          <Text style={styles.rgpdNotice}>
-            Conformément au règlement RGPD, vos informations restent strictement
-            confidentielles et sont protégées par le secret professionnel.
-          </Text>
-        </View>
-      </BottomSheet>
     </View>
   );
 }
 
 /* ───── helpers ───── */
-
-function TrustItem({ icon, label }: { icon: string; label: string }) {
-  const Icon =
-    (LucideIcons as any)[icon] ?? (LucideIcons as any).BadgeCheck;
-  return (
-    <View style={styles.trustItem}>
-      <Icon size={14} color={Colors.primary} />
-      <Text style={styles.trustLabel}>{label}</Text>
-    </View>
-  );
-}
 
 function ContactCard({
   icon,
@@ -433,7 +382,18 @@ const cardShadow = {
 
 const styles = StyleSheet.create({
   hero: {
+    position: "relative",
     overflow: "hidden",
+    paddingBottom: 40,
+  },
+  heroBlob: {
+    position: "absolute",
+    top: -60,
+    right: -60,
+    width: 220,
+    height: 220,
+    borderRadius: 999,
+    backgroundColor: "rgba(255,255,255,0.08)",
   },
   heroTop: {
     flexDirection: "row",
@@ -450,62 +410,95 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: "rgba(255,255,255,0.25)",
   },
-  heroText: {
-    position: "absolute",
-    left: 16,
-    right: 16,
-    bottom: 20,
+  heroBody: {
+    paddingHorizontal: 20,
+    paddingTop: 24,
+    alignItems: "center",
+  },
+  heroLogoWrap: {
+    width: 200,
+    height: 200,
+    borderRadius: 40,
+    backgroundColor: Colors.white,
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: 22,
+    shadowColor: "#000",
+    shadowOpacity: 0.22,
+    shadowRadius: 20,
+    shadowOffset: { width: 0, height: 12 },
+    elevation: 8,
+  },
+  heroLogo: {
+    width: 176,
+    height: 176,
   },
   heroKicker: {
     fontFamily: "Satoshi_700Bold",
     fontSize: 10,
-    letterSpacing: 1.4,
-    color: "rgba(255,255,255,0.78)",
+    letterSpacing: 1.6,
+    color: "rgba(255,255,255,0.85)",
+    marginBottom: 6,
   },
   heroTitle: {
     fontFamily: "Satoshi_700Bold",
-    fontSize: 22,
-    lineHeight: 27,
+    fontSize: 24,
+    lineHeight: 28,
     color: Colors.white,
-    marginTop: 6,
-    letterSpacing: -0.3,
+    letterSpacing: -0.4,
+    textAlign: "center",
+    marginBottom: 8,
   },
   heroSub: {
-    fontFamily: "Inter_400Regular",
-    fontSize: 13,
-    lineHeight: 18,
-    color: "rgba(255,255,255,0.85)",
-    marginTop: 6,
-  },
-
-  trustCard: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-    marginHorizontal: 16,
-    marginTop: -18,
-    paddingVertical: 12,
-    paddingHorizontal: 12,
-    backgroundColor: Colors.white,
-    borderRadius: 16,
-    ...cardShadow,
-  },
-  trustItem: {
-    flexDirection: "row",
-    alignItems: "center",
-    gap: 6,
-    flex: 1,
-    justifyContent: "center",
-  },
-  trustLabel: {
     fontFamily: "Satoshi_600SemiBold",
-    fontSize: 11,
-    color: Colors.onSurface,
+    fontSize: 14,
+    lineHeight: 20,
+    color: "rgba(255,255,255,0.92)",
+    textAlign: "center",
   },
-  trustDivider: {
-    width: 1,
-    height: 18,
-    backgroundColor: Colors.outlineVariant,
+  heroDesc: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12.5,
+    lineHeight: 18,
+    color: "rgba(255,255,255,0.78)",
+    textAlign: "center",
+    marginTop: 8,
+  },
+  heroCtaRow: {
+    marginTop: 18,
+    alignItems: "center",
+    gap: 10,
+  },
+  heroCtaPrimary: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    backgroundColor: Colors.white,
+    paddingHorizontal: 18,
+    height: 44,
+    borderRadius: 999,
+    shadowColor: "#000",
+    shadowOpacity: 0.2,
+    shadowRadius: 12,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 5,
+  },
+  heroCtaPrimaryText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 13.5,
+    color: Colors.primary,
+    letterSpacing: 0.2,
+  },
+  heroLinkRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 5,
+  },
+  heroLinkText: {
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 11.5,
+    color: "rgba(255,255,255,0.78)",
+    letterSpacing: 0.3,
   },
 
   section: {
@@ -791,26 +784,4 @@ const styles = StyleSheet.create({
     borderTopColor: "rgba(204,199,208,0.25)",
   },
 
-  /* Sheet */
-  sheetTitle: {
-    fontFamily: "Satoshi_700Bold",
-    fontSize: 19,
-    color: Colors.onSurface,
-    letterSpacing: -0.3,
-  },
-  sheetDesc: {
-    fontFamily: "Inter_400Regular",
-    fontSize: 13,
-    color: Colors.textSecondary,
-    marginTop: 4,
-    lineHeight: 18,
-  },
-  rgpdNotice: {
-    fontFamily: "Inter_400Regular",
-    fontSize: 10.5,
-    lineHeight: 14,
-    color: Colors.textTertiary,
-    marginTop: 12,
-    textAlign: "center",
-  },
 });

@@ -24,6 +24,8 @@ export const Assets = {
     logoMonoWhite: require("../../assets/branding/logo-mono-white.png"),
     favicon: require("../../assets/branding/favicon.png"),
     splash: require("../../assets/branding/splash.png"),
+    /** Logo du site partenaire DemarchesCivique (affiché sur l'écran Accompagnement). */
+    logoSite: require("../../assets/branding/logo_de_site.png"),
   },
 
   // ─────────────────────────────────────────────────────────────────

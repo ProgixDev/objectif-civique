@@ -31,7 +31,7 @@ import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
 import { scoreSession, isPass } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
-import { getNextSimulation } from "@/lib/simulations";
+import { getNextSimulation, isSimLocked } from "@/lib/simulations";
 import { toast } from "@/store/toastStore";
 import { Category, ThemeId } from "@/types";
 import { THEMES } from "@/data/themes";
@@ -51,6 +51,8 @@ export default function Results() {
   const startPractice = useSessionStore((s) => s.startPractice);
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
+  const subscriptionPlan =
+    useUserStore((s) => s.user?.subscriptionPlan) ?? "free";
 
   // Pour les simulations thématiques, calcule la simulation suivante
   // (ex: histoire-1 → histoire-2). Null si pas de suite logique.
@@ -58,6 +60,13 @@ export default function Results() {
     () =>
       mode === "simulation" ? getNextSimulation(session?.simKey, userGoal) : null,
     [mode, session?.simKey, userGoal]
+  );
+
+  // La simulation suivante peut être verrouillée (premium uniquement) pour
+  // les utilisateurs sans abonnement — on les redirige alors vers le paywall.
+  const nextSimLocked = useMemo(
+    () => (nextSim ? isSimLocked(nextSim.key, subscriptionPlan) : false),
+    [nextSim, subscriptionPlan]
   );
 
   const [openDetail, setOpenDetail] = useState<number | null>(null);
@@ -329,22 +338,37 @@ export default function Results() {
           {mode === "simulation" ? (
             <>
               {nextSim ? (
-                <PillButton
-                  label={`Suivant : ${nextSim.title}`}
-                  size="md"
-                  variant="secondary"
-                  fullWidth
-                  rightIcon={<ChevronRight size={16} color={Colors.white} />}
-                  onPress={() => {
-                    startSimulation({
-                      category: nextSim.category,
-                      themes: nextSim.themes,
-                      label: nextSim.title,
-                      simKey: nextSim.key,
-                    });
-                    router.replace("/simulation/run");
-                  }}
-                />
+                nextSimLocked ? (
+                  <PillButton
+                    label={`Débloquer : ${nextSim.title}`}
+                    size="md"
+                    variant="secondary"
+                    fullWidth
+                    rightIcon={
+                      <ChevronRight size={16} color={Colors.white} />
+                    }
+                    onPress={() => router.push("/subscription")}
+                  />
+                ) : (
+                  <PillButton
+                    label={`Suivant : ${nextSim.title}`}
+                    size="md"
+                    variant="secondary"
+                    fullWidth
+                    rightIcon={
+                      <ChevronRight size={16} color={Colors.white} />
+                    }
+                    onPress={() => {
+                      startSimulation({
+                        category: nextSim.category,
+                        themes: nextSim.themes,
+                        label: nextSim.title,
+                        simKey: nextSim.key,
+                      });
+                      router.replace("/simulation/run");
+                    }}
+                  />
+                )
               ) : null}
               <GhostButton
                 label="Recommencer la même simulation"
