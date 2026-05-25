@@ -1,0 +1,508 @@
+[
+  {
+    "id": "69416a4c48ffb722a33b2f5d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Est-il toujours possible de divorcer ?",
+    "choices": [
+      {
+        "text": "Oui, selon des procédures prévues par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, le divorce est interdit en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement avec l’accord de l’employeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf après un délai obligatoire de vingt ans de mariage",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le divorce est possible, mais il est encadré par des procédures légales.",
+    "helpNotes": [
+      "Divorce",
+      "Procédures légales",
+      "Droit de la famille"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912beb",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une famille reçoit un avis d’expulsion pour loyers impayés. Quelle institution peut les aider en premier ?",
+    "choices": [
+      {
+        "text": "La mairie ou le service social du département",
+        "isCorrect": true
+      },
+      {
+        "text": "Le ministère de l’Intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Le propriétaire lui-même",
+        "isCorrect": false
+      },
+      {
+        "text": "Le centre des impôts",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les familles en difficulté peuvent contacter la mairie ou les services sociaux du département pour une aide ou une médiation.",
+    "helpNotes": [
+      "Aide au logement",
+      "Prévention des expulsions locatives"
+    ]
+  },
+  {
+    "id": "691367c868a89b75e3912bf1",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne âgée ne peut plus préparer ses repas seule. Quelle aide publique peut-elle demander ?",
+    "choices": [
+      {
+        "text": "L’aide à domicile via l’Allocation personnalisée d’autonomie (APA)",
+        "isCorrect": true
+      },
+      {
+        "text": "Une aide spéciale de la mairie pour le logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Une réduction d’impôt automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "Une allocation chômage temporaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’APA permet aux personnes âgées dépendantes de bénéficier d’aides à domicile financées par le département.",
+    "helpNotes": [
+      "APA",
+      "Aide sociale départementale aux personnes âgées"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3094",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+    "choices": [
+      {
+        "text": "Assurer le véhicule",
+        "isCorrect": true
+      },
+      {
+        "text": "Demander une carte Vitale",
+        "isCorrect": false
+      },
+      {
+        "text": "S’inscrire à la mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtenir un passeport",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, il est obligatoire d’assurer un véhicule pour pouvoir circuler.",
+    "helpNotes": [
+      "Assurance auto obligatoire",
+      "Permis ≠ assurance"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3095",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+    "choices": [
+      {
+        "text": "S’il est célébré à la mairie (mariage civil)",
+        "isCorrect": true
+      },
+      {
+        "text": "S’il est célébré uniquement à l’église",
+        "isCorrect": false
+      },
+      {
+        "text": "S’il est célébré uniquement à la mosquée",
+        "isCorrect": false
+      },
+      {
+        "text": "S’il est célébré uniquement en famille",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, seul le mariage civil célébré par un officier d’état civil (mairie) a une valeur juridique.",
+    "helpNotes": [
+      "Mariage civil obligatoire",
+      "Cérémonies religieuses = possibles mais non suffisantes"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b2ffe",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel mariage est reconnu par l'État ?",
+    "choices": [
+      {
+        "text": "Le mariage civil (à la mairie)",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement le mariage religieux",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mariage uniquement célébré entre amis",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mariage sans déclaration à l’état civil",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, seul le mariage civil, célébré par un officier d’état civil en mairie, est reconnu par l’État.",
+    "helpNotes": [
+      "Mariage civil",
+      "Mairie"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b3004",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un bail locatif est valide s'il est :",
+    "choices": [
+      {
+        "text": "Écrit et signé par le propriétaire et le locataire",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement oral",
+        "isCorrect": false
+      },
+      {
+        "text": "Valide seulement s’il est notarié",
+        "isCorrect": false
+      },
+      {
+        "text": "Valide sans aucune signature",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un bail est généralement un contrat écrit, signé par les parties, précisant droits et obligations.",
+    "helpNotes": [
+      "Bail",
+      "Contrat de location",
+      "Écrit et signé"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3017",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est l'âge de la majorité ?",
+    "choices": [
+      {
+        "text": "18 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "16 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "21 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "15 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La majorité légale est fixée à 18 ans en France.",
+    "helpNotes": [
+      "Majorité",
+      "18 ans",
+      "Droits civils"
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd373a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Où déclare-t-on une naissance en France ?",
+    "choices": [
+      {
+        "text": "À la mairie du lieu de naissance",
+        "isCorrect": true
+      },
+      {
+        "text": "Au consulat",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "À l’hôpital central",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Toute naissance doit être déclarée à la mairie du lieu où elle a eu lieu, dans les cinq jours.",
+    "helpNotes": [
+      "Un acte de naissance est ensuite délivré.",
+      "C’est une démarche gratuite et obligatoire."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3743",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle aide peut soutenir une famille pour payer le loyer ?",
+    "choices": [
+      {
+        "text": "L’aide personnalisée au logement (APL)",
+        "isCorrect": true
+      },
+      {
+        "text": "La prime d’activité",
+        "isCorrect": false
+      },
+      {
+        "text": "L’allocation familiale",
+        "isCorrect": false
+      },
+      {
+        "text": "La pension alimentaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’APL aide les familles et les personnes à revenus modestes à payer leur loyer.",
+    "helpNotes": [
+      "Versée par la Caisse d’allocations familiales (CAF).",
+      "Le montant dépend du revenu et du type de logement."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd374c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document prouve la propriété ou la location d’un logement ?",
+    "choices": [
+      {
+        "text": "Une quittance de loyer ou un titre de propriété",
+        "isCorrect": true
+      },
+      {
+        "text": "Une facture d’électricité",
+        "isCorrect": false
+      },
+      {
+        "text": "Un certificat médical",
+        "isCorrect": false
+      },
+      {
+        "text": "Une attestation bancaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Ces documents servent de justificatif de domicile pour les démarches administratives.",
+    "helpNotes": [
+      "Demandé pour la carte d’identité, le passeport ou la scolarisation.",
+      "Peut être remplacé par une attestation d’hébergement si besoin."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd3899",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document prouve une naissance en France ?",
+    "choices": [
+      {
+        "text": "L’acte de naissance",
+        "isCorrect": true
+      },
+      {
+        "text": "Le livret de famille",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte d’identité",
+        "isCorrect": false
+      },
+      {
+        "text": "Le passeport",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’acte de naissance est un document d’état civil délivré par la mairie du lieu de naissance.",
+    "helpNotes": [
+      "Contient les informations officielles sur la naissance.",
+      "Peut être demandé en ligne sur service-public.fr."
+    ]
+  },
+  {
+    "id": "694ef3cd610d4109b1eca7ec",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+    "choices": [
+      {
+        "text": "Modifier la structure du logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Percer des murs porteurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Effectuer des aménagements légers et réversibles (peinture, décoration)",
+        "isCorrect": true
+      },
+      {
+        "text": "Changer la destination du logement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le locataire peut réaliser des aménagements légers et réversibles (peindre un mur, poser des étagères), à condition de remettre le logement en état lors du départ. Les travaux lourds nécessitent l’accord du propriétaire.",
+    "helpNotes": []
+  },
+  {
+    "id": "694ef4df610d4109b1ed44f8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Si une machine à laver est cassée, il est possible de :",
+    "choices": [
+      {
+        "text": "La jeter dans la rue",
+        "isCorrect": false
+      },
+      {
+        "text": "La réparer soi-même sans aucune règle",
+        "isCorrect": false
+      },
+      {
+        "text": "La déposer en déchèterie ou faire appel à un service de collecte",
+        "isCorrect": true
+      },
+      {
+        "text": "La laisser dans les parties communes de l’immeuble",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les appareils électroménagers usagés doivent être déposés en déchèterie ou repris par un service de collecte spécialisé, afin de respecter les règles de gestion des déchets et de protection de l’environnement.",
+    "helpNotes": []
+  },
+  {
+    "id": "694ef7c8610d4109b1ef54c1",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut demander le divorce de personnes mariées ?",
+    "choices": [
+      {
+        "text": "Les parents des époux",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire",
+        "isCorrect": false
+      },
+      {
+        "text": "L’un ou l’autre des époux",
+        "isCorrect": true
+      },
+      {
+        "text": "Le procureur de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le divorce peut être demandé par l’un ou l’autre des époux, avec ou sans l’accord de l’autre, selon la procédure prévue par la loi.",
+    "helpNotes": []
+  },
+  {
+    "id": "696928d458a8a578f25a9b84",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne possède un terrain en France. Peut-elle construire une maison sans demander d’autorisation ?",
+    "choices": [
+      {
+        "text": "Oui, si le terrain lui appartient",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement en zone rurale",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, une autorisation d’urbanisme est nécessaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, la construction est interdite dans tous les cas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Même propriétaire d’un terrain, il est obligatoire de respecter les règles d’urbanisme et d’obtenir une autorisation avant toute construction.",
+    "helpNotes": [
+      "Urbanisme",
+      "Règles locales"
+    ]
+  }
+]

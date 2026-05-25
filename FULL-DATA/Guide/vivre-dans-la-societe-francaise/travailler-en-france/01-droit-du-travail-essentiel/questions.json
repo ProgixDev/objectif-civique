@@ -1,0 +1,821 @@
+[
+  {
+    "id": "691367be68a89b75e3912be8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un employeur demande à un salarié de travailler 12 heures par jour sans repos. Quelle est la règle ?",
+    "choices": [
+      {
+        "text": "La durée maximale de travail est encadrée par la loi, l’employeur est en infraction",
+        "isCorrect": true
+      },
+      {
+        "text": "Le salarié peut accepter librement s’il le souhaite",
+        "isCorrect": false
+      },
+      {
+        "text": "La loi ne s’applique pas dans les petites entreprises",
+        "isCorrect": false
+      },
+      {
+        "text": "Le salarié doit d’abord prévenir l’inspection du travail",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La durée quotidienne maximale de travail est de 10 heures, sauf dérogation exceptionnelle.",
+    "helpNotes": [
+      "Code du travail – durée maximale",
+      "Protection de la santé au travail"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bef",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un salarié remarque une erreur sur sa fiche de paie. Que doit-il faire en premier ?",
+    "choices": [
+      {
+        "text": "Prévenir son employeur ou le service de paie pour vérification",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer l’erreur, elle sera corrigée automatiquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Déposer une plainte immédiate au tribunal",
+        "isCorrect": false
+      },
+      {
+        "text": "Avertir directement l’inspection du travail",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas d’erreur, le salarié doit d’abord en parler à son employeur. En cas de litige persistant, il peut saisir les prud’hommes.",
+    "helpNotes": [
+      "Fiche de paie",
+      "Démarche en cas d’erreur salariale"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3097",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le travail non déclaré est :",
+    "choices": [
+      {
+        "text": "Interdit par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Autorisé si les deux personnes sont d’accord",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligatoire pour les petits emplois",
+        "isCorrect": false
+      },
+      {
+        "text": "Recommandé pour éviter les impôts",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le travail non déclaré (« au noir ») est illégal et expose l’employeur et le salarié à des sanctions.",
+    "helpNotes": [
+      "Travail dissimulé = interdit",
+      "Sanctions possibles"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3098",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Que doit faire un employeur pour fixer un salaire ?",
+    "choices": [
+      {
+        "text": "Respecter au minimum le SMIC et les règles applicables",
+        "isCorrect": true
+      },
+      {
+        "text": "Fixer librement n’importe quel montant",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander l’autorisation à la préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "S’aligner obligatoirement sur le salaire des cadres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un employeur doit respecter les règles légales (au moins le SMIC) et, le cas échéant, la convention collective.",
+    "helpNotes": [
+      "Salaire minimum = SMIC",
+      "Convention collective possible"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3099",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu'est-ce que le SMIC ?",
+    "choices": [
+      {
+        "text": "Le salaire minimum légal",
+        "isCorrect": true
+      },
+      {
+        "text": "Un impôt payé par les salariés",
+        "isCorrect": false
+      },
+      {
+        "text": "Une aide au logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contrat de travail",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le SMIC est le Salaire Minimum Interprofessionnel de Croissance : c’est le salaire horaire minimum légal.",
+    "helpNotes": [
+      "SMIC = salaire minimum",
+      "Minimum légal"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la durée légale du temps de travail par semaine ?",
+    "choices": [
+      {
+        "text": "35 heures",
+        "isCorrect": true
+      },
+      {
+        "text": "24 heures",
+        "isCorrect": false
+      },
+      {
+        "text": "40 heures",
+        "isCorrect": false
+      },
+      {
+        "text": "48 heures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La durée légale du travail en France est fixée à 35 heures par semaine (pour un temps plein).",
+    "helpNotes": [
+      "Durée légale = 35h",
+      "Temps plein"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À partir de quel âge un mineur peut-il travailler ?",
+    "choices": [
+      {
+        "text": "16 ans (en règle générale)",
+        "isCorrect": true
+      },
+      {
+        "text": "10 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "12 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "21 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En règle générale, on peut travailler à partir de 16 ans (avec des exceptions encadrées, notamment pour des emplois légers plus tôt).",
+    "helpNotes": [
+      "Âge général = 16 ans",
+      "Exceptions encadrées"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut demander un congé parental d'éducation ?",
+    "choices": [
+      {
+        "text": "Le père ou la mère",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement la mère",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement le père",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement les grands-parents",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le congé parental peut être demandé par l’un ou l’autre des parents.",
+    "helpNotes": [
+      "Congé parental",
+      "Parents"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+    "choices": [
+      {
+        "text": "Les conflits entre salariés et employeurs",
+        "isCorrect": true
+      },
+      {
+        "text": "Les affaires pénales",
+        "isCorrect": false
+      },
+      {
+        "text": "Les divorces",
+        "isCorrect": false
+      },
+      {
+        "text": "Les affaires fiscales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le conseil de prud’hommes règle les litiges liés au travail.",
+    "helpNotes": [
+      "Prud’hommes",
+      "Conflits du travail"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Travailler sans être déclaré est :",
+    "choices": [
+      {
+        "text": "Illégal",
+        "isCorrect": true
+      },
+      {
+        "text": "Autorisé",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "Recommandé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le travail non déclaré est interdit par la loi.",
+    "helpNotes": [
+      "Travail dissimulé",
+      "Illégal"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :",
+    "choices": [
+      {
+        "text": "Il doit respecter la loi et les heures supplémentaires",
+        "isCorrect": true
+      },
+      {
+        "text": "Il peut l’imposer sans limite",
+        "isCorrect": false
+      },
+      {
+        "text": "Il n’y a aucune règle",
+        "isCorrect": false
+      },
+      {
+        "text": "C’est toujours interdit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les heures supplémentaires sont encadrées par la loi et doivent être rémunérées ou compensées.",
+    "helpNotes": [
+      "Heures supplémentaires",
+      "Contrat de travail",
+      "Loi"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans une entreprise, le droit syndical permet :",
+    "choices": [
+      {
+        "text": "De se regrouper pour défendre les intérêts des salariés",
+        "isCorrect": true
+      },
+      {
+        "text": "D’interdire toute contestation",
+        "isCorrect": false
+      },
+      {
+        "text": "De supprimer les contrats de travail",
+        "isCorrect": false
+      },
+      {
+        "text": "De remplacer la direction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le droit syndical permet aux salariés de se regrouper et de défendre collectivement leurs droits.",
+    "helpNotes": [
+      "Droit syndical",
+      "Salariés",
+      "Entreprise"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3010",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans une entreprise, le droit de grève autorise :",
+    "choices": [
+      {
+        "text": "Les salariés à cesser le travail pour défendre leurs revendications",
+        "isCorrect": true
+      },
+      {
+        "text": "L’employeur à licencier sans motif",
+        "isCorrect": false
+      },
+      {
+        "text": "La suppression des syndicats",
+        "isCorrect": false
+      },
+      {
+        "text": "Le travail forcé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le droit de grève est un droit fondamental permettant aux salariés de défendre leurs intérêts.",
+    "helpNotes": [
+      "Droit de grève",
+      "Salariés",
+      "Revendications"
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd37af",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la durée légale hebdomadaire du travail en France ?",
+    "choices": [
+      {
+        "text": "35 heures",
+        "isCorrect": true
+      },
+      {
+        "text": "37 heures",
+        "isCorrect": false
+      },
+      {
+        "text": "40 heures",
+        "isCorrect": false
+      },
+      {
+        "text": "45 heures",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La durée légale du travail est fixée à 35 heures par semaine pour un emploi à temps plein.",
+    "helpNotes": [
+      "Les heures supplémentaires sont encadrées par la loi.",
+      "Des aménagements existent selon les secteurs d’activité."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd37b8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de semaines de congés payés minimum un salarié a-t-il en France ?",
+    "choices": [
+      {
+        "text": "Cinq semaines",
+        "isCorrect": true
+      },
+      {
+        "text": "Quatre semaines",
+        "isCorrect": false
+      },
+      {
+        "text": "Six semaines",
+        "isCorrect": false
+      },
+      {
+        "text": "Deux semaines",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tout salarié bénéficie d’un minimum de cinq semaines de congés payés par an.",
+    "helpNotes": [
+      "Certains secteurs accordent des jours supplémentaires.",
+      "Le congé est calculé selon le temps de travail effectué."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd37c1",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document formalise la relation entre un employeur et un salarié ?",
+    "choices": [
+      {
+        "text": "Le contrat de travail",
+        "isCorrect": true
+      },
+      {
+        "text": "La fiche de paie",
+        "isCorrect": false
+      },
+      {
+        "text": "La déclaration d’embauche",
+        "isCorrect": false
+      },
+      {
+        "text": "Le règlement intérieur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le contrat de travail définit les droits et obligations de l’employeur et du salarié.",
+    "helpNotes": [
+      "Il mentionne la durée, la rémunération et les fonctions.",
+      "Peut être à durée déterminée (CDD) ou indéterminée (CDI)."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd37ca",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le nom du salaire minimum légal en France ?",
+    "choices": [
+      {
+        "text": "Le SMIC",
+        "isCorrect": true
+      },
+      {
+        "text": "Le RSA",
+        "isCorrect": false
+      },
+      {
+        "text": "Le SMI",
+        "isCorrect": false
+      },
+      {
+        "text": "Le SMAG",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le SMIC (salaire minimum interprofessionnel de croissance) garantit un revenu minimum à tout salarié.",
+    "helpNotes": [
+      "Il est revalorisé chaque année.",
+      "Applicable à tous les secteurs d’activité."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd37d3",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel organisme veille à la santé et à la sécurité des salariés sur le lieu de travail ?",
+    "choices": [
+      {
+        "text": "L’inspection du travail",
+        "isCorrect": true
+      },
+      {
+        "text": "Le conseil municipal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Pôle emploi",
+        "isCorrect": false
+      },
+      {
+        "text": "La CAF",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inspection du travail contrôle le respect du droit du travail et les conditions de sécurité des salariés.",
+    "helpNotes": [
+      "Peut intervenir sur plainte d’un salarié.",
+      "Assure la prévention des risques professionnels."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd3875",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est l’âge minimum légal pour travailler en France ?",
+    "choices": [
+      {
+        "text": "16 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "15 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "17 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "18 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le travail est autorisé à partir de 16 ans, sauf exception pour l’apprentissage.",
+    "helpNotes": [
+      "Les mineurs bénéficient de protections spécifiques.",
+      "Des dérogations existent dès 14 ans pour les stages et apprentissages encadrés."
+    ]
+  },
+  {
+    "id": "69304023e6636ffb70f9ef2a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Les fonctionnaires bénéficient-ils de la liberté syndicale ?",
+    "choices": [
+      {
+        "text": "Oui, comme tout citoyen, ils peuvent adhérer à un syndicat.",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, la neutralité leur interdit toute adhésion syndicale.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement s’ils exercent des responsabilités importantes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais seulement dans des cas très exceptionnels.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les fonctionnaires bénéficient de la liberté syndicale comme tout citoyen. Leur obligation de neutralité s’applique dans l’exercice de leurs fonctions, mais n'interdit pas l’adhésion à un syndicat.",
+    "helpNotes": [
+      "La neutralité concerne l'exercice des fonctions, pas l'appartenance syndicale."
+    ]
+  },
+  {
+    "id": "693041ade6636ffb70fa365c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un encadrement du droit de grève peut-il être mis en place dans certains services des collectivités territoriales ?",
+    "choices": [
+      {
+        "text": "Oui, pour garantir la continuité du service public.",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, le droit de grève est un droit absolu et sans aucune restriction.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais seulement pour les services de secours et de sécurité.",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, aucune limitation n’est possible dans les collectivités territoriales.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Oui. Certaines collectivités territoriales peuvent encadrer l’exercice du droit de grève **lorsque cela est nécessaire pour garantir la continuité du service public**.\r\nCe principe est prévu par le Code général de la fonction publique.",
+    "helpNotes": [
+      "Le droit de grève est un droit constitutionnel."
+    ]
+  },
+  {
+    "id": "6930744be6636ffb700291c7",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans une démocratie, à quoi servent les syndicats (**CGT**, **CFDT**...) ?",
+    "choices": [
+      {
+        "text": "Ils défendent les droits et les conditions de travail des salariés en organisant aussi des actions collectives.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ils défendent des idées et présentent des candidats à toutes les élections.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ils organisent uniquement des aides sociales et des projets culturels pour tous les citoyens.",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les syndicats représentent les travailleurs, défendent leurs droits et peuvent organiser des actions collectives pour améliorer leurs conditions de travail. \r\nIls ne présentent pas de candidats aux élections, ce rôle revient aux partis politiques.\r\n\r\n**CGT**: Confédération générale du travail\r\n**CFDT**: Confédération française démocratique du travail",
+    "helpNotes": [
+      "Les syndicats défendent les travailleurs."
+    ]
+  },
+  {
+    "id": "694efa5c610d4109b1f1278e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quels sont les textes qui définissent les règles au travail ?",
+    "choices": [
+      {
+        "text": "Les règlements municipaux",
+        "isCorrect": false
+      },
+      {
+        "text": "La Constitution uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Code du travail, les conventions collectives et le contrat de travail",
+        "isCorrect": true
+      },
+      {
+        "text": "Les décisions personnelles de l’employeur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les règles du travail sont définies par le Code du travail, complété par les conventions collectives et le contrat de travail, qui précisent les droits et obligations des salariés et des employeurs.",
+    "helpNotes": []
+  },
+  {
+    "id": "694efacc610d4109b1f1694d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui a le droit de se syndiquer ?",
+    "choices": [
+      {
+        "text": "Uniquement les fonctionnaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les salariés du secteur privé",
+        "isCorrect": false
+      },
+      {
+        "text": "Les travailleurs, dans le respect de la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les représentants du personnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, la liberté syndicale est garantie : les travailleurs (salariés du public et du privé) peuvent adhérer à un syndicat, dans le respect des règles légales.",
+    "helpNotes": []
+  },
+  {
+    "id": "694efb21610d4109b1f196a2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+    "choices": [
+      {
+        "text": "Oui, si l’employeur le souhaite",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, pendant le congé maternité",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, c’est interdit par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, si le contrat est à durée déterminée",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le licenciement en raison de la grossesse ou du congé maternité est interdit. La loi protège la salariée contre toute discrimination liée à la maternité.",
+    "helpNotes": []
+  },
+  {
+    "id": "6957d9de23226977b966b322",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un nouvel employé découvre que son supérieur hiérarchique est plus jeune que lui. Que doit-il faire ?",
+    "choices": [
+      {
+        "text": "Demander à changer de supérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Respecter la hiérarchie et obéir à son supérieur",
+        "isCorrect": true
+      },
+      {
+        "text": "Demander à faire grève",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuser d’obéir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’âge n’a aucun impact sur la relation hiérarchique dans le monde du travail.",
+    "helpNotes": [
+      "Hiérarchie",
+      "Respect au travail"
+    ]
+  }
+]

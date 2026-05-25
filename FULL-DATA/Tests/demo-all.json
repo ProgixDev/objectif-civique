@@ -1,0 +1,3242 @@
+[
+  {
+    "question": {
+      "id": "d50018a76b34e003924e95b9",
+      "shortId": "Q-4E95B9",
+      "category": "csp",
+      "statement": "<p>Quelle est la devise de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Liberté, Égalité, Fraternité",
+          "isCorrect": true
+        },
+        {
+          "text": "Unité, Force, Honneur",
+          "isCorrect": false
+        },
+        {
+          "text": "Paix, Justice, Liberté",
+          "isCorrect": false
+        },
+        {
+          "text": "Dieu, Patrie, Famille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4f99d4211e297b8692f6115c",
+      "shortId": "Q-F6115C",
+      "category": "csp",
+      "statement": "<p>À partir de quel âge a-t-on le droit de voter en France ?</p>\n",
+      "choices": [
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "20 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fde2917c5613b0ce4ba6a044",
+      "shortId": "Q-A6A044",
+      "category": "csp",
+      "statement": "<p>Quel est l'hymne national français ?</p>\n",
+      "choices": [
+        {
+          "text": "La Marseillaise",
+          "isCorrect": true
+        },
+        {
+          "text": "La Parisienne",
+          "isCorrect": false
+        },
+        {
+          "text": "La Royale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Chant du départ",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cf99043ec2a7b6ea57f1cf47",
+      "shortId": "Q-F1CF47",
+      "category": "csp",
+      "statement": "<p>Quelle est la couleur du drapeau français, de gauche à droite ?</p>\n",
+      "choices": [
+        {
+          "text": "Bleu, Blanc, Rouge",
+          "isCorrect": true
+        },
+        {
+          "text": "Rouge, Blanc, Bleu",
+          "isCorrect": false
+        },
+        {
+          "text": "Blanc, Bleu, Rouge",
+          "isCorrect": false
+        },
+        {
+          "text": "Bleu, Rouge, Blanc",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "df9153d6daba685325aa88ac",
+      "shortId": "Q-AA88AC",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que la laïcité en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La séparation de l'Église et de l'État",
+          "isCorrect": true
+        },
+        {
+          "text": "La religion d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "L'interdiction de toute religion",
+          "isCorrect": false
+        },
+        {
+          "text": "Le respect d'une seule religion",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e9d1d379173cd779185b264a",
+      "shortId": "Q-5B264A",
+      "category": "csp",
+      "statement": "<p>Quel est le nom du Président de la République française actuellement en fonction ?</p>\n",
+      "choices": [
+        {
+          "text": "Emmanuel Macron",
+          "isCorrect": true
+        },
+        {
+          "text": "François Hollande",
+          "isCorrect": false
+        },
+        {
+          "text": "Nicolas Sarkozy",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Luc Mélenchon",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1cc9144de9271cd2dc87d31b",
+      "shortId": "Q-87D31B",
+      "category": "csp",
+      "statement": "<p>Combien d'années dure le mandat présidentiel en France ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "de8267ffe6ef890664011f1d",
+      "shortId": "Q-011F1D",
+      "category": "csp",
+      "statement": "<p>Quelle est la capitale de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": false
+        },
+        {
+          "text": "Bordeaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0e0235cb2f519e8f2a8b721e",
+      "shortId": "Q-8B721E",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que le SMIC ?</p>\n",
+      "choices": [
+        {
+          "text": "Le salaire minimum légal",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide au logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une allocation chômage",
+          "isCorrect": false
+        },
+        {
+          "text": "Un impôt local",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d306876f6933828b5aaaaf14",
+      "shortId": "Q-AAAF14",
+      "category": "csp",
+      "statement": "<p>Quel est le numéro d'urgence du SAMU en France ?</p>\n",
+      "choices": [
+        {
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "text": "17",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "16d3599cc43902792a0f5bde",
+      "shortId": "Q-0F5BDE",
+      "category": "csp",
+      "statement": "<p>Quand a été adoptée la Déclaration des droits de l'homme et du citoyen ?</p>\n",
+      "choices": [
+        {
+          "text": "1789",
+          "isCorrect": true
+        },
+        {
+          "text": "1799",
+          "isCorrect": false
+        },
+        {
+          "text": "1804",
+          "isCorrect": false
+        },
+        {
+          "text": "1815",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1ddfa98ee7060337299048d6",
+      "shortId": "Q-9048D6",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que le Parlement français ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Assemblée nationale et le Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président et le gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour de cassation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "17c2f3d76e4f98c27235d86f",
+      "shortId": "Q-35D86F",
+      "category": "csp",
+      "statement": "<p>Combien de semaines de congés payés les salariés français ont-ils droit au minimum ?</p>\n",
+      "choices": [
+        {
+          "text": "5 semaines",
+          "isCorrect": true
+        },
+        {
+          "text": "4 semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "3 semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "6 semaines",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5c79a821cd81b32c0738f991",
+      "shortId": "Q-38F991",
+      "category": "csp",
+      "statement": "<p>Quel organisme gère l'assurance maladie en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La CPAM",
+          "isCorrect": true
+        },
+        {
+          "text": "La CAF",
+          "isCorrect": false
+        },
+        {
+          "text": "L'URSSAF",
+          "isCorrect": false
+        },
+        {
+          "text": "France Travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6f8e58f971451a14bc96a32e",
+      "shortId": "Q-96A32E",
+      "category": "csp",
+      "statement": "<p>Quelle est la durée légale du travail hebdomadaire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "35 heures",
+          "isCorrect": true
+        },
+        {
+          "text": "39 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "40 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "32 heures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "99ca711347936f12c470de84",
+      "shortId": "Q-70DE84",
+      "category": "csp",
+      "statement": "<p>Que signifie le mot 'laïque' dans la devise 'République laïque' ?</p>\n",
+      "choices": [
+        {
+          "text": "Indépendante de toute religion",
+          "isCorrect": true
+        },
+        {
+          "text": "Chrétienne",
+          "isCorrect": false
+        },
+        {
+          "text": "Athée",
+          "isCorrect": false
+        },
+        {
+          "text": "Multiculturelle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a595d10fa154a940a5baed3d",
+      "shortId": "Q-BAED3D",
+      "category": "csp",
+      "statement": "<p>Quel est le rôle principal du maire d'une commune ?</p>\n",
+      "choices": [
+        {
+          "text": "Administrer la commune et représenter l'État local",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois nationales",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les ministres",
+          "isCorrect": false
+        },
+        {
+          "text": "Présider le Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f1f4b1ad8fc1883a0f0651a3",
+      "shortId": "Q-0651A3",
+      "category": "csp",
+      "statement": "<p>À quelle âge la scolarité est-elle obligatoire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "De 3 à 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "De 6 à 16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "De 3 à 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "De 6 à 18 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4a27ce65b82a65233d291a04",
+      "shortId": "Q-291A04",
+      "category": "csp",
+      "statement": "<p>Quel est le nom de la loi qui reconnaît le droit au logement en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Loi DALO",
+          "isCorrect": true
+        },
+        {
+          "text": "Loi Macron",
+          "isCorrect": false
+        },
+        {
+          "text": "Loi Veil",
+          "isCorrect": false
+        },
+        {
+          "text": "Loi Ferry",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4f736b32eb36c587f4a04616",
+      "shortId": "Q-A04616",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que la CAF ?</p>\n",
+      "choices": [
+        {
+          "text": "La Caisse d'Allocations Familiales",
+          "isCorrect": true
+        },
+        {
+          "text": "La Chambre d'Agriculture Française",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Contrôle de l'Administration Fiscale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Centre d'Aide aux Familles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b17cff496dcb045a88c22a73",
+      "shortId": "Q-C22A73",
+      "category": "csp",
+      "statement": "<p>Quelle institution est chargée de contrôler la constitutionnalité des lois ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour de cassation",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1d0d9bce5f04f116f63b34f5",
+      "shortId": "Q-3B34F5",
+      "category": "csp",
+      "statement": "<p>Combien de jours de fête nationale la France célèbre-t-elle par an ?</p>\n",
+      "choices": [
+        {
+          "text": "11",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8e178757c09b7bd4feba6581",
+      "shortId": "Q-BA6581",
+      "category": "csp",
+      "statement": "<p>Quel est le premier article de la Constitution française de 1958 ?</p>\n",
+      "choices": [
+        {
+          "text": "La France est une République indivisible, laïque, démocratique et sociale",
+          "isCorrect": true
+        },
+        {
+          "text": "La souveraineté appartient au peuple",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les citoyens sont égaux devant la loi",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président est élu au suffrage universel direct",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2ea45f5829bda3f949b7af0a",
+      "shortId": "Q-B7AF0A",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que le RSA ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Revenu de Solidarité Active",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Régime Social des Artisans",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Réseau de Sécurité Alimentaire",
+          "isCorrect": false
+        },
+        {
+          "text": "La Retraite des Salariés Actifs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "06df739d27992806d73912f0",
+      "shortId": "Q-3912F0",
+      "category": "csp",
+      "statement": "<p>Quel est le numéro d'urgence de la police en France ?</p>\n",
+      "choices": [
+        {
+          "text": "17",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b2c139212839944dea691cea",
+      "shortId": "Q-691CEA",
+      "category": "csp",
+      "statement": "<p>Depuis quand les femmes ont-elles le droit de vote en France ?</p>\n",
+      "choices": [
+        {
+          "text": "1944",
+          "isCorrect": true
+        },
+        {
+          "text": "1936",
+          "isCorrect": false
+        },
+        {
+          "text": "1958",
+          "isCorrect": false
+        },
+        {
+          "text": "1920",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "35cfb3f4a8f2c6f53eb339c2",
+      "shortId": "Q-B339C2",
+      "category": "csp",
+      "statement": "<p>Quel texte garantit les droits fondamentaux des Français ?</p>\n",
+      "choices": [
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l'homme de 1789",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code pénal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "39f375e7a54be1e703c6764e",
+      "shortId": "Q-C6764E",
+      "category": "csp",
+      "statement": "<p>Combien de régions métropolitaines compte la France ?</p>\n",
+      "choices": [
+        {
+          "text": "13",
+          "isCorrect": true
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        },
+        {
+          "text": "26",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "54d90278afd04bb99f8c5baa",
+      "shortId": "Q-8C5BAA",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que France Travail (anciennement Pôle emploi) ?</p>\n",
+      "choices": [
+        {
+          "text": "L'organisme d'aide aux demandeurs d'emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "La caisse de retraite",
+          "isCorrect": false
+        },
+        {
+          "text": "L'organisme de formation professionnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère du Travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "80880963748e25c4f3cd835c",
+      "shortId": "Q-CD835C",
+      "category": "csp",
+      "statement": "<p>Quel est le numéro du SAMU social (aide aux sans-abri) ?</p>\n",
+      "choices": [
+        {
+          "text": "115",
+          "isCorrect": true
+        },
+        {
+          "text": "116",
+          "isCorrect": false
+        },
+        {
+          "text": "117",
+          "isCorrect": false
+        },
+        {
+          "text": "118",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6e1c883883fcd6eccc578fb4",
+      "shortId": "Q-578FB4",
+      "category": "csp",
+      "statement": "<p>Quelle est la monnaie officielle de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "L'euro",
+          "isCorrect": true
+        },
+        {
+          "text": "Le franc",
+          "isCorrect": false
+        },
+        {
+          "text": "Le franc suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "La livre sterling",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fbdc9df4803165f296d3439a",
+      "shortId": "Q-D3439A",
+      "category": "csp",
+      "statement": "<p>À quelle date la France célèbre-t-elle sa fête nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "14 juillet",
+          "isCorrect": true
+        },
+        {
+          "text": "1er mai",
+          "isCorrect": false
+        },
+        {
+          "text": "8 mai",
+          "isCorrect": false
+        },
+        {
+          "text": "11 novembre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1b260a7fd28c2c62cd570db6",
+      "shortId": "Q-570DB6",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que le Conseil d'État ?</p>\n",
+      "choices": [
+        {
+          "text": "La plus haute juridiction administrative",
+          "isCorrect": true
+        },
+        {
+          "text": "La chambre haute du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le conseil des ministres",
+          "isCorrect": false
+        },
+        {
+          "text": "L'organe de contrôle des comptes publics",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1e6328f8bff60fa20ed0fe2f",
+      "shortId": "Q-D0FE2F",
+      "category": "csp",
+      "statement": "<p>Combien d'États membres compte l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "27",
+          "isCorrect": true
+        },
+        {
+          "text": "28",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2985bda8c9f9b5c1e1579821",
+      "shortId": "Q-579821",
+      "category": "csp",
+      "statement": "<p>Quel est le rôle du Premier ministre en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Diriger le gouvernement et coordonner l'action ministérielle",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Présider l'Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les juges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "80d8188ad003a63a62e9c894",
+      "shortId": "Q-E9C894",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce que l'URSSAF ?</p>\n",
+      "choices": [
+        {
+          "text": "L'organisme qui collecte les cotisations sociales",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide au chômage",
+          "isCorrect": false
+        },
+        {
+          "text": "Un syndicat de salariés",
+          "isCorrect": false
+        },
+        {
+          "text": "La caisse de retraite complémentaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c79889f987b57c0c689c1493",
+      "shortId": "Q-9C1493",
+      "category": "csp",
+      "statement": "<p>Quel principe garantit que tous les citoyens sont traités de façon identique par la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "L'égalité",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté",
+          "isCorrect": false
+        },
+        {
+          "text": "La fraternité",
+          "isCorrect": false
+        },
+        {
+          "text": "La solidarité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "329d892b6845375d4eb4b7e5",
+      "shortId": "Q-B4B7E5",
+      "category": "csp",
+      "statement": "<p>Où siège le gouvernement français ?</p>\n",
+      "choices": [
+        {
+          "text": "À Matignon",
+          "isCorrect": true
+        },
+        {
+          "text": "À l'Élysée",
+          "isCorrect": false
+        },
+        {
+          "text": "Au Palais Bourbon",
+          "isCorrect": false
+        },
+        {
+          "text": "Au Luxembourg",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "80d36c5c3bed8a86fdc6efe9",
+      "shortId": "Q-C6EFE9",
+      "category": "csp",
+      "statement": "<p>Qu'est-ce qu'un titre de séjour ?</p>\n",
+      "choices": [
+        {
+          "text": "Un document autorisant un étranger à résider légalement en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Un visa de tourisme",
+          "isCorrect": false
+        },
+        {
+          "text": "Un passeport français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "80a52ab3897f7f3ff9d0986b",
+      "shortId": "Q-D0986B",
+      "category": "csp",
+      "statement": "<p>Quel est le principe fondamental de l'école publique française ?</p>\n",
+      "choices": [
+        {
+          "text": "Gratuite, laïque et obligatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Privée et payante",
+          "isCorrect": false
+        },
+        {
+          "text": "Religieuse et facultative",
+          "isCorrect": false
+        },
+        {
+          "text": "Payante et sélective",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e7a6c54fb18621a02fa74c8a",
+      "shortId": "Q-A74C8A",
+      "category": "cr",
+      "statement": "<p>Combien de députés siègent à l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "577",
+          "isCorrect": true
+        },
+        {
+          "text": "348",
+          "isCorrect": false
+        },
+        {
+          "text": "400",
+          "isCorrect": false
+        },
+        {
+          "text": "500",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "17e05c3078f18c3a2f7c4c85",
+      "shortId": "Q-7C4C85",
+      "category": "cr",
+      "statement": "<p>Qui nomme le Premier ministre en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Les citoyens par référendum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "020396458200cceb67179832",
+      "shortId": "Q-179832",
+      "category": "cr",
+      "statement": "<p>Quelle est la durée du mandat des sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "26b0c8e6f55759659fc236e3",
+      "shortId": "Q-C236E3",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le Conseil constitutionnel ?</p>\n",
+      "choices": [
+        {
+          "text": "L'organe qui vérifie la conformité des lois à la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Le gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour de justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement réuni en congrès",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "22c2f3b74cf2cbeb2d82b9f9",
+      "shortId": "Q-82B9F9",
+      "category": "cr",
+      "statement": "<p>En quelle année la Ve République a-t-elle été fondée ?</p>\n",
+      "choices": [
+        {
+          "text": "1958",
+          "isCorrect": true
+        },
+        {
+          "text": "1944",
+          "isCorrect": false
+        },
+        {
+          "text": "1946",
+          "isCorrect": false
+        },
+        {
+          "text": "1962",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "760af9985bc06487cc723e73",
+      "shortId": "Q-723E73",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le référendum ?</p>\n",
+      "choices": [
+        {
+          "text": "Un vote direct du peuple sur une question",
+          "isCorrect": true
+        },
+        {
+          "text": "Une élection présidentielle",
+          "isCorrect": false
+        },
+        {
+          "text": "Un vote au Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une consultation des élus locaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5810bb69bcb7a242d77848f8",
+      "shortId": "Q-7848F8",
+      "category": "cr",
+      "statement": "<p>Quel est le nom du Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Parlement européen",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Congrès européen",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Assemblée de l'Europe",
+          "isCorrect": false
+        },
+        {
+          "text": "La Chambre européenne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "61f8a51ed928e8aff2a61fbc",
+      "shortId": "Q-A61FBC",
+      "category": "cr",
+      "statement": "<p>Depuis quelle année l'euro est-il la monnaie officielle en France ?</p>\n",
+      "choices": [
+        {
+          "text": "2002",
+          "isCorrect": true
+        },
+        {
+          "text": "1999",
+          "isCorrect": false
+        },
+        {
+          "text": "2000",
+          "isCorrect": false
+        },
+        {
+          "text": "2001",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ae3174af5f6fd81512848fb6",
+      "shortId": "Q-848FB6",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le principe de séparation des pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "Les pouvoirs législatif, exécutif et judiciaire sont indépendants",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président concentre tous les pouvoirs",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement contrôle tout",
+          "isCorrect": false
+        },
+        {
+          "text": "L'armée est au-dessus des lois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "df5e52835689270756e53d8d",
+      "shortId": "Q-E53D8D",
+      "category": "cr",
+      "statement": "<p>Quel est le rôle du Sénat ?</p>\n",
+      "choices": [
+        {
+          "text": "Représenter les collectivités territoriales et voter les lois",
+          "isCorrect": true
+        },
+        {
+          "text": "Élire le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les ministres",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler l'armée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "14af076d81c06eb7b602c700",
+      "shortId": "Q-02C700",
+      "category": "cr",
+      "statement": "<p>Combien de mandats présidentiels consécutifs peut exercer un Président ?</p>\n",
+      "choices": [
+        {
+          "text": "2",
+          "isCorrect": true
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "text": "Illimité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "51c000c4c9016a4a9ce7b003",
+      "shortId": "Q-E7B003",
+      "category": "cr",
+      "statement": "<p>Où réside le Président de la République ?</p>\n",
+      "choices": [
+        {
+          "text": "Au Palais de l'Élysée",
+          "isCorrect": true
+        },
+        {
+          "text": "À Matignon",
+          "isCorrect": false
+        },
+        {
+          "text": "Au Palais Bourbon",
+          "isCorrect": false
+        },
+        {
+          "text": "Au Palais du Luxembourg",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3d1bb8d82957278e8834ea9e",
+      "shortId": "Q-34EA9E",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le Code civil ?</p>\n",
+      "choices": [
+        {
+          "text": "Le recueil des lois régissant les relations entre citoyens",
+          "isCorrect": true
+        },
+        {
+          "text": "Les règles de procédure judiciaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le code des impôts",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "27131122924465decd418544",
+      "shortId": "Q-418544",
+      "category": "cr",
+      "statement": "<p>En quelle année la loi de séparation de l'Église et de l'État a-t-elle été votée ?</p>\n",
+      "choices": [
+        {
+          "text": "1905",
+          "isCorrect": true
+        },
+        {
+          "text": "1789",
+          "isCorrect": false
+        },
+        {
+          "text": "1848",
+          "isCorrect": false
+        },
+        {
+          "text": "1958",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "af4fa353f0a9c4f90e0e03d5",
+      "shortId": "Q-0E03D5",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le suffrage universel ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de vote accordé à tous les citoyens majeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Le vote réservé aux propriétaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Le vote des hommes uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le vote des parlementaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6f2385883e3a01c277fcb828",
+      "shortId": "Q-FCB828",
+      "category": "cr",
+      "statement": "<p>Quel est le rôle de la Cour de cassation ?</p>\n",
+      "choices": [
+        {
+          "text": "Vérifier l'application correcte du droit par les tribunaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Juger en premier recours",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer le budget de l'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e8dd6aebca061e5fc37c686d",
+      "shortId": "Q-7C686D",
+      "category": "cr",
+      "statement": "<p>Combien de juges siègent au Conseil constitutionnel ?</p>\n",
+      "choices": [
+        {
+          "text": "9",
+          "isCorrect": true
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6f37bc5c08608b4b32855733",
+      "shortId": "Q-855733",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que la motion de censure ?</p>\n",
+      "choices": [
+        {
+          "text": "Un vote du Parlement pour renverser le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Une loi d'urgence",
+          "isCorrect": false
+        },
+        {
+          "text": "Un discours du Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Un traité international",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0bffa0d17e689ac6c0010eeb",
+      "shortId": "Q-010EEB",
+      "category": "cr",
+      "statement": "<p>Quelle est la principale fonction de l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois et contrôler le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Élire le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les collectivités locales",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les juges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2261cec37d343930a81c6f9e",
+      "shortId": "Q-1C6F9E",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le droit d'asile ?</p>\n",
+      "choices": [
+        {
+          "text": "La protection accordée aux personnes persécutées dans leur pays",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide au logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un visa de transit",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3bbd1cd20fa2d6b9ae69b893",
+      "shortId": "Q-69B893",
+      "category": "cr",
+      "statement": "<p>Quel organe contrôle les finances de l'État ?</p>\n",
+      "choices": [
+        {
+          "text": "La Cour des comptes",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "La Banque de France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3cd1051f1d1b3a2ff746244f",
+      "shortId": "Q-46244F",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que la décentralisation en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le transfert de pouvoirs de l'État vers les collectivités locales",
+          "isCorrect": true
+        },
+        {
+          "text": "La concentration des pouvoirs à Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "La suppression des régions",
+          "isCorrect": false
+        },
+        {
+          "text": "La privatisation des services publics",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "76d89d7bd71c6bdd2b9bed08",
+      "shortId": "Q-9BED08",
+      "category": "cr",
+      "statement": "<p>Quel est le texte fondateur des droits en France, intégré au bloc de constitutionnalité ?</p>\n",
+      "choices": [
+        {
+          "text": "La Déclaration des droits de l'homme de 1789",
+          "isCorrect": true
+        },
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Charte de l'environnement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bf74e1028b33fb69ba2b5e82",
+      "shortId": "Q-2B5E82",
+      "category": "cr",
+      "statement": "<p>Combien de collectivités territoriales compose la France (types principaux) ?</p>\n",
+      "choices": [
+        {
+          "text": "3 (communes, départements, régions)",
+          "isCorrect": true
+        },
+        {
+          "text": "2 (communes, régions)",
+          "isCorrect": false
+        },
+        {
+          "text": "4 (communes, cantons, départements, régions)",
+          "isCorrect": false
+        },
+        {
+          "text": "1 (les régions)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ad5b9be721405294e661158d",
+      "shortId": "Q-61158D",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le Conseil économique, social et environnemental ?</p>\n",
+      "choices": [
+        {
+          "text": "Une assemblée consultative représentant la société civile",
+          "isCorrect": true
+        },
+        {
+          "text": "Une chambre du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le conseil des ministres",
+          "isCorrect": false
+        },
+        {
+          "text": "Un organe judiciaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b5a9b7775636a6cc3f07ce8c",
+      "shortId": "Q-07CE8C",
+      "category": "cr",
+      "statement": "<p>Quel est le premier article de la Déclaration des droits de l'homme de 1789 ?</p>\n",
+      "choices": [
+        {
+          "text": "Les hommes naissent et demeurent libres et égaux en droits",
+          "isCorrect": true
+        },
+        {
+          "text": "La souveraineté réside dans la Nation",
+          "isCorrect": false
+        },
+        {
+          "text": "La loi est l'expression de la volonté générale",
+          "isCorrect": false
+        },
+        {
+          "text": "Tout citoyen peut parler, écrire, imprimer librement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5ae567db7335517c88d2e544",
+      "shortId": "Q-D2E544",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que l'état d'urgence ?</p>\n",
+      "choices": [
+        {
+          "text": "Un régime juridique exceptionnel qui renforce les pouvoirs de l'État",
+          "isCorrect": true
+        },
+        {
+          "text": "La fermeture des frontières",
+          "isCorrect": false
+        },
+        {
+          "text": "La suspension de la Constitution",
+          "isCorrect": false
+        },
+        {
+          "text": "Le couvre-feu permanent",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fe05963363893e2155ef804a",
+      "shortId": "Q-EF804A",
+      "category": "cr",
+      "statement": "<p>Quel est le rôle du Défenseur des droits ?</p>\n",
+      "choices": [
+        {
+          "text": "Protéger les citoyens contre les violations de leurs droits",
+          "isCorrect": true
+        },
+        {
+          "text": "Défendre l'État devant les tribunaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Présider la Cour de cassation",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les élections",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "205d735211abd9fbb0c202b6",
+      "shortId": "Q-C202B6",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le Traité de Maastricht (1992) ?</p>\n",
+      "choices": [
+        {
+          "text": "Le traité qui a créé l'Union européenne",
+          "isCorrect": true
+        },
+        {
+          "text": "Le traité de paix après la Seconde Guerre mondiale",
+          "isCorrect": false
+        },
+        {
+          "text": "L'accord sur le libre-échange",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité sur la défense commune",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ce64176bd9ee1113b5f9b136",
+      "shortId": "Q-F9B136",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que la proportionnelle (mode de scrutin) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un système où les sièges sont répartis selon les voix obtenues",
+          "isCorrect": true
+        },
+        {
+          "text": "Le vote à deux tours",
+          "isCorrect": false
+        },
+        {
+          "text": "Le vote par liste unique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le tirage au sort",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "936c2a8e507d9162a3a77431",
+      "shortId": "Q-A77431",
+      "category": "cr",
+      "statement": "<p>Quel droit l'article 16 de la Constitution accorde-t-il au Président ?</p>\n",
+      "choices": [
+        {
+          "text": "Des pouvoirs exceptionnels en cas de crise grave",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de dissoudre le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "La possibilité de gouverner sans le Parlement indéfiniment",
+          "isCorrect": false
+        },
+        {
+          "text": "La nomination des juges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8e634405ca06c302b6e0c8de",
+      "shortId": "Q-E0C8DE",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que la Charte de l'environnement (2004) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un texte constitutionnel reconnaissant le droit à l'environnement",
+          "isCorrect": true
+        },
+        {
+          "text": "Une loi sur la protection des parcs naturels",
+          "isCorrect": false
+        },
+        {
+          "text": "Un traité international sur le climat",
+          "isCorrect": false
+        },
+        {
+          "text": "Un règlement européen",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "38106f16dd56ed490af51339",
+      "shortId": "Q-F51339",
+      "category": "cr",
+      "statement": "<p>Quel est le rôle de la Banque de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Gérer la politique monétaire avec la BCE et superviser les banques",
+          "isCorrect": true
+        },
+        {
+          "text": "Financer le déficit de l'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Émettre des billets de la monnaie nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a2b1c0c33aab911f1c66e192",
+      "shortId": "Q-66E192",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le droit de grève en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un droit constitutionnel permettant aux salariés de cesser le travail",
+          "isCorrect": true
+        },
+        {
+          "text": "Une loi interdisant les mouvements sociaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Un accord entre syndicats et patronat",
+          "isCorrect": false
+        },
+        {
+          "text": "Un droit réservé aux fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "98786ffe8e8606f1409afeb5",
+      "shortId": "Q-9AFEB5",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que l'ordonnance en droit français ?</p>\n",
+      "choices": [
+        {
+          "text": "Un acte du gouvernement pris avec l'autorisation du Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Une décision du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Un décret présidentiel",
+          "isCorrect": false
+        },
+        {
+          "text": "Une loi votée en urgence",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9befbaa10913d5c1d280bd1c",
+      "shortId": "Q-80BD1C",
+      "category": "cr",
+      "statement": "<p>Quel est le principe d'égalité dans la fonction publique ?</p>\n",
+      "choices": [
+        {
+          "text": "L'accès aux emplois publics par concours, sans discrimination",
+          "isCorrect": true
+        },
+        {
+          "text": "La rémunération identique pour tous",
+          "isCorrect": false
+        },
+        {
+          "text": "La sélection par cooptation",
+          "isCorrect": false
+        },
+        {
+          "text": "Le recrutement par le gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0abfafb3efa9ed3b746e0e26",
+      "shortId": "Q-6E0E26",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le mandat impératif, interdit en France ?</p>\n",
+      "choices": [
+        {
+          "text": "L'obligation pour un élu de suivre les instructions de ses électeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Le cumul des mandats",
+          "isCorrect": false
+        },
+        {
+          "text": "La présidence à vie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le vote obligatoire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6c58648cdb5c33cd6d59133b",
+      "shortId": "Q-59133B",
+      "category": "cr",
+      "statement": "<p>Quelle est la juridiction suprême en matière administrative ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": true
+        },
+        {
+          "text": "La Cour de cassation",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour d'appel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "245f631103ae013c16df5d9f",
+      "shortId": "Q-DF5D9F",
+      "category": "cr",
+      "statement": "<p>Qu'est-ce que le principe de légalité ?</p>\n",
+      "choices": [
+        {
+          "text": "L'administration doit respecter la loi dans tous ses actes",
+          "isCorrect": true
+        },
+        {
+          "text": "Les lois peuvent être modifiées par décret",
+          "isCorrect": false
+        },
+        {
+          "text": "Les citoyens peuvent ignorer les lois injustes",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement est au-dessus des lois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "97ce3c46f99090b2ac8a9ed4",
+      "shortId": "Q-8A9ED4",
+      "category": "cr",
+      "statement": "<p>Quel article de la Constitution garantit l'égalité entre les femmes et les hommes ?</p>\n",
+      "choices": [
+        {
+          "text": "Article 1er",
+          "isCorrect": true
+        },
+        {
+          "text": "Article 16",
+          "isCorrect": false
+        },
+        {
+          "text": "Article 49",
+          "isCorrect": false
+        },
+        {
+          "text": "Article 89",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b36ce35f1ef8f8e491a44231",
+      "shortId": "Q-A44231",
+      "category": "nat",
+      "statement": "<p>En quelle année a été abolie la monarchie et proclamée la Ire République ?</p>\n",
+      "choices": [
+        {
+          "text": "1792",
+          "isCorrect": true
+        },
+        {
+          "text": "1789",
+          "isCorrect": false
+        },
+        {
+          "text": "1799",
+          "isCorrect": false
+        },
+        {
+          "text": "1804",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "64b5c8e77638af6d772edba4",
+      "shortId": "Q-2EDBA4",
+      "category": "nat",
+      "statement": "<p>Qui était Napoléon Bonaparte ?</p>\n",
+      "choices": [
+        {
+          "text": "Général et Empereur des Français, auteur du Code civil",
+          "isCorrect": true
+        },
+        {
+          "text": "Roi de France avant la Révolution",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef de la Résistance pendant la Seconde Guerre mondiale",
+          "isCorrect": false
+        },
+        {
+          "text": "Premier Président de la République",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2ef6e173e1ab4257ad54a9c7",
+      "shortId": "Q-54A9C7",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la Commune de Paris (1871) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un gouvernement révolutionnaire qui a gouverné Paris pendant 2 mois",
+          "isCorrect": true
+        },
+        {
+          "text": "La mairie de Paris au XIXe siècle",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mouvement artistique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une insurrection royaliste",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9d0dcf335f656fec3eda52b6",
+      "shortId": "Q-DA52B6",
+      "category": "nat",
+      "statement": "<p>En quelle année Jules Ferry a-t-il instauré l'école gratuite et laïque ?</p>\n",
+      "choices": [
+        {
+          "text": "1881-1882",
+          "isCorrect": true
+        },
+        {
+          "text": "1905",
+          "isCorrect": false
+        },
+        {
+          "text": "1789",
+          "isCorrect": false
+        },
+        {
+          "text": "1848",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "22754651c1b56df83e1cf4a9",
+      "shortId": "Q-1CF4A9",
+      "category": "nat",
+      "statement": "<p>Quel événement a marqué le début de la Première Guerre mondiale ?</p>\n",
+      "choices": [
+        {
+          "text": "L'assassinat de l'archiduc François-Ferdinand en 1914",
+          "isCorrect": true
+        },
+        {
+          "text": "L'invasion de la Pologne en 1939",
+          "isCorrect": false
+        },
+        {
+          "text": "La Révolution russe de 1917",
+          "isCorrect": false
+        },
+        {
+          "text": "La chute de l'Empire ottoman",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ef2b50d674d219dce6d2c300",
+      "shortId": "Q-D2C300",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que l'Appel du 18 juin 1940 ?</p>\n",
+      "choices": [
+        {
+          "text": "Le discours du général de Gaulle appelant à continuer la résistance",
+          "isCorrect": true
+        },
+        {
+          "text": "La capitulation de la France",
+          "isCorrect": false
+        },
+        {
+          "text": "La déclaration de guerre",
+          "isCorrect": false
+        },
+        {
+          "text": "L'armistice avec l'Allemagne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "42d33f56d71a803003365076",
+      "shortId": "Q-365076",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la Résistance pendant la Seconde Guerre mondiale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le mouvement de lutte contre l'occupation nazie",
+          "isCorrect": true
+        },
+        {
+          "text": "L'armée régulière française",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement de Vichy",
+          "isCorrect": false
+        },
+        {
+          "text": "La légion étrangère",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "090593ed4e04bbddcd6a8162",
+      "shortId": "Q-6A8162",
+      "category": "nat",
+      "statement": "<p>En quelle année a eu lieu le débarquement allié en Normandie ?</p>\n",
+      "choices": [
+        {
+          "text": "1944",
+          "isCorrect": true
+        },
+        {
+          "text": "1943",
+          "isCorrect": false
+        },
+        {
+          "text": "1942",
+          "isCorrect": false
+        },
+        {
+          "text": "1945",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cde75c92b9b90b40db3d0ad5",
+      "shortId": "Q-3D0AD5",
+      "category": "nat",
+      "statement": "<p>Qui était Simone Veil ?</p>\n",
+      "choices": [
+        {
+          "text": "Ministre de la Santé, auteure de la loi sur l'IVG, membre de l'Académie française",
+          "isCorrect": true
+        },
+        {
+          "text": "Présidente de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef de la Résistance",
+          "isCorrect": false
+        },
+        {
+          "text": "Première femme Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "99e147d852f9c863ce2e151d",
+      "shortId": "Q-2E151D",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la Francophonie ?</p>\n",
+      "choices": [
+        {
+          "text": "L'ensemble des pays et populations qui utilisent le français",
+          "isCorrect": true
+        },
+        {
+          "text": "La politique culturelle de la France",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Académie française",
+          "isCorrect": false
+        },
+        {
+          "text": "La France et ses colonies",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4b4675e0eae11a5fdf9dcc53",
+      "shortId": "Q-9DCC53",
+      "category": "nat",
+      "statement": "<p>Quel fleuve traverse Paris ?</p>\n",
+      "choices": [
+        {
+          "text": "La Seine",
+          "isCorrect": true
+        },
+        {
+          "text": "La Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4dd8148267dd9b05d1ed1bcb",
+      "shortId": "Q-ED1BCB",
+      "category": "nat",
+      "statement": "<p>Quelle est la plus haute montagne de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Mont-Blanc (4 808 m)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Vercors",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Mont-Ventoux",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Puy de Dôme",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a60182d1dd151bc79128ad1d",
+      "shortId": "Q-28AD1D",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le roman national français ?</p>\n",
+      "choices": [
+        {
+          "text": "Le récit qui fonde l'identité historique de la nation française",
+          "isCorrect": true
+        },
+        {
+          "text": "Un genre littéraire du XVIIIe siècle",
+          "isCorrect": false
+        },
+        {
+          "text": "Les œuvres de Victor Hugo",
+          "isCorrect": false
+        },
+        {
+          "text": "Les chroniques royales médiévales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1ab05f6b55069e18d6156ac9",
+      "shortId": "Q-156AC9",
+      "category": "nat",
+      "statement": "<p>Quel est le plus long fleuve de France ?</p>\n",
+      "choices": [
+        {
+          "text": "La Loire (1 013 km)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Seine",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fe6eacd19659fe3e556684f8",
+      "shortId": "Q-6684F8",
+      "category": "nat",
+      "statement": "<p>Quelles sont les principales DOM-TOM français ?</p>\n",
+      "choices": [
+        {
+          "text": "Guadeloupe, Martinique, Guyane, La Réunion, Mayotte",
+          "isCorrect": true
+        },
+        {
+          "text": "Nouvelle-Calédonie, Tahiti, Corse",
+          "isCorrect": false
+        },
+        {
+          "text": "Monaco, Andorre, Saint-Martin",
+          "isCorrect": false
+        },
+        {
+          "text": "Wallis-et-Futuna, Saint-Pierre-et-Miquelon",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "802b28d143bbe014e5fc294c",
+      "shortId": "Q-FC294C",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le mouvement des Lumières (XVIIIe siècle) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un courant philosophique prônant la raison, la liberté et l'égalité",
+          "isCorrect": true
+        },
+        {
+          "text": "Un mouvement artistique romantique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une réforme religieuse",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mouvement politique royaliste",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b4e5b0151a79c53d5d6a64e3",
+      "shortId": "Q-6A64E3",
+      "category": "nat",
+      "statement": "<p>Qui a écrit 'Les Misérables' ?</p>\n",
+      "choices": [
+        {
+          "text": "Victor Hugo",
+          "isCorrect": true
+        },
+        {
+          "text": "Émile Zola",
+          "isCorrect": false
+        },
+        {
+          "text": "Honoré de Balzac",
+          "isCorrect": false
+        },
+        {
+          "text": "Alexandre Dumas",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c519fbe0d75879bdbeab2dcb",
+      "shortId": "Q-AB2DCB",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le Panthéon à Paris ?</p>\n",
+      "choices": [
+        {
+          "text": "Un mausolée républicain où reposent des personnages illustres",
+          "isCorrect": true
+        },
+        {
+          "text": "Un temple romain",
+          "isCorrect": false
+        },
+        {
+          "text": "Le palais du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un musée d'art contemporain",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "11fe3faa275c829d5367be9a",
+      "shortId": "Q-67BE9A",
+      "category": "nat",
+      "statement": "<p>En quelle année la France a-t-elle aboli l'esclavage définitivement ?</p>\n",
+      "choices": [
+        {
+          "text": "1848",
+          "isCorrect": true
+        },
+        {
+          "text": "1794",
+          "isCorrect": false
+        },
+        {
+          "text": "1789",
+          "isCorrect": false
+        },
+        {
+          "text": "1815",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f4b37adc2ee5acdeb907339c",
+      "shortId": "Q-07339C",
+      "category": "nat",
+      "statement": "<p>Quel est le titre de l'œuvre picturale de Eugène Delacroix symbolisant la Révolution de 1830 ?</p>\n",
+      "choices": [
+        {
+          "text": "La Liberté guidant le peuple",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Sacre de Napoléon",
+          "isCorrect": false
+        },
+        {
+          "text": "La Victoire de Samothrace",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Serment du Jeu de Paume",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "41131b1a5aeda6fef69937a8",
+      "shortId": "Q-9937A8",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que l'Académie française ?</p>\n",
+      "choices": [
+        {
+          "text": "L'institution chargée de définir la langue française",
+          "isCorrect": true
+        },
+        {
+          "text": "La plus haute école de France",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère de l'Éducation",
+          "isCorrect": false
+        },
+        {
+          "text": "L'union des professeurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5b98df2ba921136070227c99",
+      "shortId": "Q-227C99",
+      "category": "nat",
+      "statement": "<p>Quel est le nom du traité qui a mis fin à la Première Guerre mondiale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le traité de Versailles (1919)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le traité de Paris (1815)",
+          "isCorrect": false
+        },
+        {
+          "text": "L'armistice de Rethondes (1940)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité de Francfort (1871)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1c589df1b75c8d42b0620031",
+      "shortId": "Q-620031",
+      "category": "nat",
+      "statement": "<p>Qui était Marie Curie ?</p>\n",
+      "choices": [
+        {
+          "text": "Physicienne et chimiste, première femme à obtenir un prix Nobel",
+          "isCorrect": true
+        },
+        {
+          "text": "Présidente de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Philosophe des Lumières",
+          "isCorrect": false
+        },
+        {
+          "text": "Résistante de la Seconde Guerre mondiale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c874a0477af563fecb10453e",
+      "shortId": "Q-10453E",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la francophonie en termes de locuteurs ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ 320 millions de personnes parlent français dans le monde",
+          "isCorrect": true
+        },
+        {
+          "text": "50 millions",
+          "isCorrect": false
+        },
+        {
+          "text": "100 millions",
+          "isCorrect": false
+        },
+        {
+          "text": "200 millions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "035ec0ad7b4f964e18df3b96",
+      "shortId": "Q-DF3B96",
+      "category": "nat",
+      "statement": "<p>Quel est le nom de la forteresse prise le 14 juillet 1789 ?</p>\n",
+      "choices": [
+        {
+          "text": "La Bastille",
+          "isCorrect": true
+        },
+        {
+          "text": "La Conciergerie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Louvre",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Invalides",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bdd1990156be01afbdba9015",
+      "shortId": "Q-BA9015",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le Traité de Rome (1957) ?</p>\n",
+      "choices": [
+        {
+          "text": "Le traité fondateur de la Communauté économique européenne",
+          "isCorrect": true
+        },
+        {
+          "text": "Un traité de paix entre la France et l'Allemagne",
+          "isCorrect": false
+        },
+        {
+          "text": "L'accord sur le libre-échange atlantique",
+          "isCorrect": false
+        },
+        {
+          "text": "La charte de l'ONU",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e3ebc3168ea7e388b64f0fc",
+      "shortId": "Q-64F0FC",
+      "category": "nat",
+      "statement": "<p>Qui était Louis Pasteur ?</p>\n",
+      "choices": [
+        {
+          "text": "Scientifique français, père de la microbiologie et créateur des vaccins",
+          "isCorrect": true
+        },
+        {
+          "text": "Général de la Révolution française",
+          "isCorrect": false
+        },
+        {
+          "text": "Peintre impressionniste",
+          "isCorrect": false
+        },
+        {
+          "text": "Philosophe du XIXe siècle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a0c98a24affbe21f9407a772",
+      "shortId": "Q-07A772",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la Déclaration universelle des droits de l'homme ?</p>\n",
+      "choices": [
+        {
+          "text": "Un texte adopté par l'ONU en 1948 proclamant les droits fondamentaux",
+          "isCorrect": true
+        },
+        {
+          "text": "La Constitution française",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration de 1789",
+          "isCorrect": false
+        },
+        {
+          "text": "Un traité international sur l'asile",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "dc40e575670c35f6f4793562",
+      "shortId": "Q-793562",
+      "category": "nat",
+      "statement": "<p>Quel roi a construit le château de Versailles ?</p>\n",
+      "choices": [
+        {
+          "text": "Louis XIV",
+          "isCorrect": true
+        },
+        {
+          "text": "Louis XVI",
+          "isCorrect": false
+        },
+        {
+          "text": "François Ier",
+          "isCorrect": false
+        },
+        {
+          "text": "Henri IV",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2130b592de1f88731ecafe88",
+      "shortId": "Q-CAFE88",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que l'Institut Pasteur ?</p>\n",
+      "choices": [
+        {
+          "text": "Un centre de recherche en biologie et maladies infectieuses",
+          "isCorrect": true
+        },
+        {
+          "text": "La bibliothèque nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "L'école nationale d'administration",
+          "isCorrect": false
+        },
+        {
+          "text": "Le musée des sciences",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7edda56c4512f549b9866d59",
+      "shortId": "Q-866D59",
+      "category": "nat",
+      "statement": "<p>Quel philosophe français du XVIIIe siècle a écrit 'De l'esprit des lois' ?</p>\n",
+      "choices": [
+        {
+          "text": "Montesquieu",
+          "isCorrect": true
+        },
+        {
+          "text": "Rousseau",
+          "isCorrect": false
+        },
+        {
+          "text": "Voltaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Diderot",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c00d626f76a9920ef6adc179",
+      "shortId": "Q-ADC179",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la décolonisation ?</p>\n",
+      "choices": [
+        {
+          "text": "Le processus par lequel les colonies ont accédé à l'indépendance",
+          "isCorrect": true
+        },
+        {
+          "text": "L'expansion coloniale française",
+          "isCorrect": false
+        },
+        {
+          "text": "La politique d'assimilation",
+          "isCorrect": false
+        },
+        {
+          "text": "La politique de coopération",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "26217daf3f811c3aa499c433",
+      "shortId": "Q-99C433",
+      "category": "nat",
+      "statement": "<p>En quelle année l'Algérie a-t-elle obtenu son indépendance ?</p>\n",
+      "choices": [
+        {
+          "text": "1962",
+          "isCorrect": true
+        },
+        {
+          "text": "1956",
+          "isCorrect": false
+        },
+        {
+          "text": "1954",
+          "isCorrect": false
+        },
+        {
+          "text": "1958",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e9e6564b2d2962c0e8914725",
+      "shortId": "Q-914725",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le mouvement impressionniste ?</p>\n",
+      "choices": [
+        {
+          "text": "Un courant pictural français du XIXe siècle (Monet, Renoir, Degas)",
+          "isCorrect": true
+        },
+        {
+          "text": "Un mouvement littéraire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un style architectural",
+          "isCorrect": false
+        },
+        {
+          "text": "Un courant musical",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c454d2ab0a87690ce4f23e3f",
+      "shortId": "Q-F23E3F",
+      "category": "nat",
+      "statement": "<p>Quel est le nom de l'hymne européen ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Ode à la joie (Beethoven)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Marseillaise",
+          "isCorrect": false
+        },
+        {
+          "text": "Europa",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Chant des nations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "524c2f1fb5fd9425fe7d5e0c",
+      "shortId": "Q-7D5E0C",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que la Cour pénale internationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Un tribunal international jugeant les crimes de guerre et contre l'humanité",
+          "isCorrect": true
+        },
+        {
+          "text": "La Cour de justice de l'UE",
+          "isCorrect": false
+        },
+        {
+          "text": "Le tribunal arbitral de l'ONU",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour internationale de justice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e06b929c5610f8fb4db3491",
+      "shortId": "Q-DB3491",
+      "category": "nat",
+      "statement": "<p>Qui était Édith Piaf ?</p>\n",
+      "choices": [
+        {
+          "text": "Chanteuse française emblématique, surnommée 'la Môme Piaf'",
+          "isCorrect": true
+        },
+        {
+          "text": "Résistante de la Seconde Guerre mondiale",
+          "isCorrect": false
+        },
+        {
+          "text": "Philosophe du XXe siècle",
+          "isCorrect": false
+        },
+        {
+          "text": "Première femme ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3f90c07f28b5b2861700bb02",
+      "shortId": "Q-00BB02",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le général de Gaulle a créé en fondant la Ve République ?</p>\n",
+      "choices": [
+        {
+          "text": "Un régime semi-présidentiel avec un Président fort",
+          "isCorrect": true
+        },
+        {
+          "text": "Une monarchie constitutionnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime parlementaire pur",
+          "isCorrect": false
+        },
+        {
+          "text": "Une dictature militaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "71ebb91f79f7d7623166c307",
+      "shortId": "Q-66C307",
+      "category": "nat",
+      "statement": "<p>Quelle est la signification du symbole Marianne ?</p>\n",
+      "choices": [
+        {
+          "text": "La personnification de la République française",
+          "isCorrect": true
+        },
+        {
+          "text": "La patronne des artistes",
+          "isCorrect": false
+        },
+        {
+          "text": "La déesse de la guerre",
+          "isCorrect": false
+        },
+        {
+          "text": "La figure de la royauté",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e5ed3790c4fb000024f9f3d6",
+      "shortId": "Q-F9F3D6",
+      "category": "nat",
+      "statement": "<p>Qu'est-ce que le principe de solidarité nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le devoir collectif d'aider les plus faibles, fondement de la protection sociale",
+          "isCorrect": true
+        },
+        {
+          "text": "La défense militaire commune",
+          "isCorrect": false
+        },
+        {
+          "text": "L'union des partis politiques",
+          "isCorrect": false
+        },
+        {
+          "text": "La coopération internationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  }
+]

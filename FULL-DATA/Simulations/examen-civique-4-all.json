@@ -1,0 +1,1115 @@
+[
+  {
+    "question": {
+      "id": "690cf26468a89b75e38fe910",
+      "shortId": "Q-8FE910",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Peut-on être de nationalité française sans pouvoir exercer ses droits civiques ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, c'est le cas des mineurs ou des personnes condamnées à une privation de ces droits.",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, car la nationalité française donne automatiquement accès au vote.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, mais seulement si la personne réside à l'étranger de façon permanente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, la privation des droits civiques entraîne la perte de la nationalité.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La nationalité française et l’exercice des droits civiques sont deux choses différentes.\nUne personne peut être française sans pouvoir exercer ses droits civiques, par exemple si elle est mineure ou si une décision de justice a suspendu ces droits.\nLa perte des droits civiques n’entraîne pas la perte de la nationalité française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b65c568a89b75e38f88f4",
+      "shortId": "Q-8F88F4",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>À l’hôpital public, que peut librement choisir un patient ?</p>\n",
+      "choices": [
+        {
+          "text": "Son établissement",
+          "isCorrect": true
+        },
+        {
+          "text": "Son médecin",
+          "isCorrect": true
+        },
+        {
+          "text": "Son service",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le patient peut choisir son établissement et son médecin tant que cela ne perturbe pas le service. Ce droit découle du principe de laïcité hospitalière.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e96",
+      "shortId": "Q-8F8E96",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse Lyon et se jette dans la Méditerranée ?</p>\n",
+      "choices": [
+        {
+          "text": "Rhône",
+          "isCorrect": true
+        },
+        {
+          "text": "Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Rhône prend sa source en Suisse, traverse Lyon et Arles avant d’atteindre la Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37c1",
+      "shortId": "Q-CD37C1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document formalise la relation entre un employeur et un salarié ?</p>\n",
+      "choices": [
+        {
+          "text": "Le contrat de travail",
+          "isCorrect": true
+        },
+        {
+          "text": "Le règlement intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "La déclaration d’embauche",
+          "isCorrect": false
+        },
+        {
+          "text": "La fiche de paie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le contrat de travail définit les droits et obligations de l’employeur et du salarié.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd32c3",
+      "shortId": "Q-CD32C3",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution européenne a son siège à Strasbourg et utilise le français comme langue officielle ?</p>\n",
+      "choices": [
+        {
+          "text": "La Commission européenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil de l’Europe",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement européen",
+          "isCorrect": true
+        },
+        {
+          "text": "La Banque centrale européenne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Parlement européen siège à Strasbourg et utilise le français parmi ses langues officielles.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd34a9",
+      "shortId": "Q-CD34A9",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du service national universel (SNU) ?</p>\n",
+      "choices": [
+        {
+          "text": "Préparer à un métier de la fonction publique",
+          "isCorrect": false
+        },
+        {
+          "text": "Favoriser l’engagement civique et la cohésion nationale",
+          "isCorrect": true
+        },
+        {
+          "text": "Former à la défense uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Remplacer le service militaire obligatoire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le SNU vise à renforcer les valeurs républicaines et l’engagement des jeunes citoyens.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e97",
+      "shortId": "Q-8F8E97",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve marque la frontière entre la France et l’Allemagne ?</p>\n",
+      "choices": [
+        {
+          "text": "Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhin",
+          "isCorrect": true
+        },
+        {
+          "text": "Meuse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Rhin sert de frontière naturelle entre la France et l’Allemagne, notamment près de Strasbourg.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd330b",
+      "shortId": "Q-CD330B",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle est la monnaie commune utilisée par la majorité des pays de l’Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "La livre",
+          "isCorrect": false
+        },
+        {
+          "text": "La couronne",
+          "isCorrect": false
+        },
+        {
+          "text": "Le franc",
+          "isCorrect": false
+        },
+        {
+          "text": "L’euro",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’euro est la monnaie unique adoptée par 20 pays membres de l’Union européenne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26468a89b75e38fe90e",
+      "shortId": "Q-8FE90E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qu'est-ce qu'être citoyen ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir uniquement la nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "Bénéficier de droits sans obligations",
+          "isCorrect": false
+        },
+        {
+          "text": "Participer à la vie de la société en exerçant ses droits et ses devoirs",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter seulement lors des élections",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Être citoyen signifie participer activement à la vie collective et exercer ses droits civiques, notamment le droit de vote.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26568a89b75e38fe912",
+      "shortId": "Q-8FE912",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Les fonctions de Maire, Conseiller municipal, départemental ou régional sont-elles rémunérées ?</p>\n",
+      "choices": [
+        {
+          "text": "Indemnisées selon un barème légal",
+          "isCorrect": true
+        },
+        {
+          "text": "Payées au SMIC",
+          "isCorrect": false
+        },
+        {
+          "text": "Bénévoles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les fonctions électives locales sont indemnisées selon la taille de la collectivité, mais ne constituent pas un salaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd375e",
+      "shortId": "Q-CD375E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle carte permet d’accéder aux soins en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La carte Vitale",
+          "isCorrect": true
+        },
+        {
+          "text": "La carte bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte d’identité",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte de séjour",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La carte Vitale atteste des droits à l’Assurance Maladie et simplifie le remboursement des soins.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd34fa",
+      "shortId": "Q-CD34FA",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qui est chargé de faire respecter l’ordre public au niveau local ?</p>\n",
+      "choices": [
+        {
+          "text": "Les députés",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire et le préfet",
+          "isCorrect": true
+        },
+        {
+          "text": "Les chefs d’entreprise",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du tribunal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le maire et le préfet disposent de pouvoirs de police pour assurer l’ordre public.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e93",
+      "shortId": "Q-8F8E93",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel océan borde l’ouest de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Océan Atlantique",
+          "isCorrect": true
+        },
+        {
+          "text": "Océan Pacifique",
+          "isCorrect": false
+        },
+        {
+          "text": "Manche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’océan Atlantique borde la façade ouest de la France, de la Bretagne au Pays basque.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33bf",
+      "shortId": "Q-CD33BF",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel âge minimum faut-il avoir pour voter en France ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "25 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit de vote est accordé à tout citoyen français âgé de 18 ans ou plus.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c4bf88e35210cd358a",
+      "shortId": "Q-CD358A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle grande décision a été prise en 1848 en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La proclamation de l’Empire",
+          "isCorrect": false
+        },
+        {
+          "text": "L’adoption du Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "L’abolition de l’esclavage",
+          "isCorrect": true
+        },
+        {
+          "text": "La construction de la Tour Eiffel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En 1848, la IIe République a aboli définitivement l’esclavage dans les colonies françaises.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fea",
+      "shortId": "Q-CD2FEA",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Pourquoi est-il essentiel de respecter la loi en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour bénéficier de réductions ou d’avantages fiscaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour permettre à chacun d'exercer ses libertés en sécurité",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour obtenir des postes politiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour améliorer sa réputation sociale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le respect des lois garantit l’exercice des droits de chacun dans un cadre sécurisé.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd374c",
+      "shortId": "Q-CD374C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document prouve la propriété ou la location d’un logement ?</p>\n",
+      "choices": [
+        {
+          "text": "Une facture d’électricité",
+          "isCorrect": false
+        },
+        {
+          "text": "Une quittance de loyer ou un titre de propriété",
+          "isCorrect": true
+        },
+        {
+          "text": "Un certificat médical",
+          "isCorrect": false
+        },
+        {
+          "text": "Une attestation bancaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Ces documents servent de justificatif de domicile pour les démarches administratives.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e94",
+      "shortId": "Q-8F8E94",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel fleuve traverse Paris ?</p>\n",
+      "choices": [
+        {
+          "text": "La Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "La Seine",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Paris est traversée par la Seine.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b65c568a89b75e38f88ed",
+      "shortId": "Q-8F88ED",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Dans la loi de 1905, « La République ne reconnaît, ne salarie ni ne subventionne aucun culte » : que signifie « ne reconnaît » ?</p>\n",
+      "choices": [
+        {
+          "text": "La République n’exprime aucune gratitude envers les cultes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les cultes doivent être pratiqués uniquement en famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Les cultes n’ont plus de statut de droit public, ils relèvent du droit privé",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les cultes deviennent des associations de droit privé. L’État cesse de leur accorder un statut officiel ou un financement public.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f09",
+      "shortId": "Q-CD2F09",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est l’emblème national de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Un aigle",
+          "isCorrect": false
+        },
+        {
+          "text": "Le drapeau tricolore bleu, blanc, rouge",
+          "isCorrect": true
+        },
+        {
+          "text": "Une couronne",
+          "isCorrect": false
+        },
+        {
+          "text": "Un lion",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’article 2 de la Constitution précise que l’emblème national de la République française est le drapeau tricolore</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd367d",
+      "shortId": "Q-CD367D",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle ville française est surnommée la « cité phocéenne » ?</p>\n",
+      "choices": [
+        {
+          "text": "Montpellier",
+          "isCorrect": false
+        },
+        {
+          "text": "Toulon",
+          "isCorrect": false
+        },
+        {
+          "text": "Nice",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Marseille, fondée par des Grecs de Phocée, est surnommée la cité phocéenne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c4bf88e35210cd3578",
+      "shortId": "Q-CD3578",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel événement historique a conduit à la fin du Second Empire ?</p>\n",
+      "choices": [
+        {
+          "text": "La Révolution de 1848",
+          "isCorrect": false
+        },
+        {
+          "text": "La Commune de Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "L’affaire Dreyfus",
+          "isCorrect": false
+        },
+        {
+          "text": "La défaite de Napoléon III en 1870",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La défaite française face à la Prusse en 1870 provoque la chute de Napoléon III et la naissance de la IIIe République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b65c568a89b75e38f88f1",
+      "shortId": "Q-8F88F1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de signatures la pétition laïque contre la loi Debré de 1959 a-t-elle recueilli ?</p>\n",
+      "choices": [
+        {
+          "text": "11 millions",
+          "isCorrect": true
+        },
+        {
+          "text": "110.000",
+          "isCorrect": false
+        },
+        {
+          "text": "11.000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La pétition lancée en 1960 contre la loi Debré a recueilli plus de 10,8 millions de signatures pour défendre l’école publique laïque.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b65c568a89b75e38f88ee",
+      "shortId": "Q-8F88EE",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que signifie « la République ne subventionne aucun culte » ?</p>\n",
+      "choices": [
+        {
+          "text": "L’État finance les lieux de culte selon leur fréquentation",
+          "isCorrect": false
+        },
+        {
+          "text": "L’État ne finance aucune religion",
+          "isCorrect": true
+        },
+        {
+          "text": "L’État aide financièrement les associations caritatives religieuses",
+          "isCorrect": false
+        },
+        {
+          "text": "L’État choisit une religion officielle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Cette expression rappelle le principe de laïcité : l’État ne finance aucune religion et reste neutre à l’égard des cultes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26468a89b75e38fe911",
+      "shortId": "Q-8FE911",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>En France, voter est…</p>\n",
+      "choices": [
+        {
+          "text": "Une formalité administrative obligatoire chaque année",
+          "isCorrect": false
+        },
+        {
+          "text": "Une obligation légale sanctionnée par une amende",
+          "isCorrect": false
+        },
+        {
+          "text": "Un droit garanti par la Constitution",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Voter est un droit garanti par la Constitution. Ce n’est pas une obligation, mais un devoir civique important.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd32a8",
+      "shortId": "Q-CD32A8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle grande ville canadienne est majoritairement francophone ?</p>\n",
+      "choices": [
+        {
+          "text": "Ottawa",
+          "isCorrect": false
+        },
+        {
+          "text": "Montréal",
+          "isCorrect": true
+        },
+        {
+          "text": "Toronto",
+          "isCorrect": false
+        },
+        {
+          "text": "Vancouver",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Montréal, au Québec, est la plus grande ville francophone d’Amérique du Nord.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b65c568a89b75e38f88f0",
+      "shortId": "Q-8F88F0",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>À qui s’applique la loi du 15 mars 2004 interdisant le port de signes religieux à l’école ?</p>\n",
+      "choices": [
+        {
+          "text": "Aux parents",
+          "isCorrect": false
+        },
+        {
+          "text": "Aux élèves",
+          "isCorrect": true
+        },
+        {
+          "text": "Aux enseignants",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La loi de 2004 s’applique uniquement aux élèves des écoles, collèges et lycées publics. Les enseignants sont déjà soumis à la neutralité depuis 1886.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd32f0",
+      "shortId": "Q-CD32F0",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Nommer les chefs d’État des pays membres",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les traités internationaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger la politique étrangère",
+          "isCorrect": false
+        },
+        {
+          "text": "Voter les lois et le budget de l’Union européenne",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Parlement européen vote les lois, contrôle la Commission et approuve le budget de l’Union.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26568a89b75e38fe913",
+      "shortId": "Q-8FE913",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel type de démocratie existe en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Les deux",
+          "isCorrect": false
+        },
+        {
+          "text": "Directe",
+          "isCorrect": false
+        },
+        {
+          "text": "Représentative",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La France est une démocratie représentative : les citoyens élisent des représentants chargés de voter les lois.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2fa2",
+      "shortId": "Q-CD2FA2",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution européenne adopte les lois avec le Conseil de l’Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "La Cour de justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil de l’Europe",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement européen",
+          "isCorrect": true
+        },
+        {
+          "text": "La Commission européenne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Parlement européen vote les lois européennes avec le Conseil de l’Union européenne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c4bf88e35210cd35a5",
+      "shortId": "Q-CD35A5",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle date marque la fin de la Première Guerre mondiale ?</p>\n",
+      "choices": [
+        {
+          "text": "18 juin 1940",
+          "isCorrect": false
+        },
+        {
+          "text": "8 mai 1945",
+          "isCorrect": false
+        },
+        {
+          "text": "11 novembre 1918",
+          "isCorrect": true
+        },
+        {
+          "text": "14 juillet 1914",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’armistice du 11 novembre 1918 met fin aux combats entre la France et l’Allemagne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3809",
+      "shortId": "Q-CD3809",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que signifie exercer l’autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "Décider seul de la religion de l’enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "Assurer la santé, la sécurité et l’éducation de l’enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "Fixer les sanctions scolaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler uniquement ses loisirs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’autorité parentale regroupe les droits et devoirs des parents pour protéger et éduquer leur enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e95",
+      "shortId": "Q-8F8E95",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse Toulouse avant d’atteindre l’Atlantique ?</p>\n",
+      "choices": [
+        {
+          "text": "Rhin",
+          "isCorrect": false
+        },
+        {
+          "text": "Garonne",
+          "isCorrect": true
+        },
+        {
+          "text": "Rhône",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Garonne traverse Toulouse et Bordeaux avant de se jeter dans l’Atlantique par l’estuaire de la Gironde.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd3770",
+      "shortId": "Q-CD3770",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que faut-il faire en cas d’urgence médicale grave en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Appeler le 18",
+          "isCorrect": false
+        },
+        {
+          "text": "Appeler le 17",
+          "isCorrect": false
+        },
+        {
+          "text": "Envoyer un SMS au médecin",
+          "isCorrect": false
+        },
+        {
+          "text": "Appeler le 15",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le 15 est le numéro du SAMU, le service d’aide médicale urgente en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26568a89b75e38fe914",
+      "shortId": "Q-8FE914",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel pouvoir vote les lois en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Au pouvoir exécutif",
+          "isCorrect": false
+        },
+        {
+          "text": "Au pouvoir législatif",
+          "isCorrect": true
+        },
+        {
+          "text": "Au pouvoir judiciaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le pouvoir législatif appartient au Parlement, composé de l’Assemblée nationale et du Sénat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37b8",
+      "shortId": "Q-CD37B8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de semaines de congés payés minimum un salarié a-t-il en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Deux semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Quatre semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Six semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinq semaines",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Tout salarié bénéficie d’un minimum de cinq semaines de congés payés par an.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd347c",
+      "shortId": "Q-CD347C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel texte fondateur proclame que « les hommes naissent et demeurent libres et égaux en droits » ?</p>\n",
+      "choices": [
+        {
+          "text": "La Charte de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen de 1789",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration de 1789 énonce les principes universels de liberté, d’égalité et de fraternité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd34e8",
+      "shortId": "Q-CD34E8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est l’objectif principal de l’ordre public en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Assurer la sécurité, la tranquillité et la salubrité publiques",
+          "isCorrect": true
+        },
+        {
+          "text": "Promouvoir une religion officielle",
+          "isCorrect": false
+        },
+        {
+          "text": "Encadrer les activités économiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Organiser les élections nationales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’ordre public vise à maintenir la sécurité et la paix sociale dans l’espace public.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd38c6",
+      "shortId": "Q-CD38C6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que représente Marianne pour la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Une reine de France",
+          "isCorrect": false
+        },
+        {
+          "text": "Une déesse de la guerre",
+          "isCorrect": false
+        },
+        {
+          "text": "Un symbole de la liberté et de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Une figure religieuse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Marianne incarne la République et la liberté. Son image est présente dans toutes les mairies.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd373a",
+      "shortId": "Q-CD373A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Où déclare-t-on une naissance en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Au consulat",
+          "isCorrect": false
+        },
+        {
+          "text": "À la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "À l’hôpital central",
+          "isCorrect": false
+        },
+        {
+          "text": "À la mairie du lieu de naissance",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Toute naissance doit être déclarée à la mairie du lieu où elle a eu lieu, dans les cinq jours.</p>\n"
+    }
+  }
+]

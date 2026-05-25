@@ -1,0 +1,1373 @@
+[
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f6e",
+      "shortId": "Q-3B2F6E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, si la classe est trop nombreuse",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si l’enfant le demande",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, c’est toujours possible sans justification",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, l’école applique les règles communes et les enseignements sont obligatoires",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les enseignements scolaires font partie du programme. Des aménagements existent surtout pour raisons médicales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c356d32a2815c0b7f3c6b",
+      "shortId": "Q-7F3C6B",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Des parents refusent que leur enfant participe aux cours d’éducation morale et civique pour des raisons religieuses. Quelle est la règle ?</p>\n",
+      "choices": [
+        {
+          "text": "Les parents peuvent choisir les cours à suivre",
+          "isCorrect": false
+        },
+        {
+          "text": "L’école peut adapter le programme à chaque religion",
+          "isCorrect": false
+        },
+        {
+          "text": "Les cours sont obligatoires pour tous les élèves",
+          "isCorrect": true
+        },
+        {
+          "text": "Les parents peuvent retirer l’enfant de la classe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’éducation morale et civique fait partie du programme obligatoire et vise à transmettre les valeurs républicaines.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367be68a89b75e3912be5",
+      "shortId": "Q-912BE5",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un parent séparé refuse de payer la pension alimentaire fixée par le juge. Quelle est la conséquence ?</p>\n",
+      "choices": [
+        {
+          "text": "Le juge doit renégocier le montant chaque mois",
+          "isCorrect": false
+        },
+        {
+          "text": "Le parent peut décider de payer uniquement s’il le souhaite",
+          "isCorrect": false
+        },
+        {
+          "text": "Il commet une infraction appelée abandon de famille",
+          "isCorrect": true
+        },
+        {
+          "text": "Aucune, car la pension est une aide facultative",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Ne pas verser la pension alimentaire décidée par le juge est un délit d’abandon de famille.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912bed",
+      "shortId": "Q-912BED",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un parent refuse de laisser son enfant participer aux cours de natation à l’école. Quelle est la règle ?</p>\n",
+      "choices": [
+        {
+          "text": "La natation fait partie des enseignements obligatoires",
+          "isCorrect": true
+        },
+        {
+          "text": "Le refus est autorisé pour motifs religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "L’école doit remplacer le cours par une autre activité",
+          "isCorrect": false
+        },
+        {
+          "text": "Les parents peuvent refuser sans justification",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les cours de sport, y compris la natation, sont obligatoires. Seul un motif médical justifie une dispense.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c868a89b75e3912bf2",
+      "shortId": "Q-912BF2",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une enseignante remarque qu’un élève arrive souvent avec des marques suspectes. Quelle est sa responsabilité légale ?</p>\n",
+      "choices": [
+        {
+          "text": "Signaler immédiatement la situation à sa hiérarchie ou au procureur",
+          "isCorrect": true
+        },
+        {
+          "text": "En parler aux autres enseignants uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Demander à l’enfant de se taire pour éviter les problèmes",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre que les parents s’expliquent",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Tout agent public doit signaler les situations de maltraitance ou de danger pour un mineur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b2fff",
+      "shortId": "Q-3B2FFF",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?</p>\n",
+      "choices": [
+        {
+          "text": "Le tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "La banque",
+          "isCorrect": false
+        },
+        {
+          "text": "La mairie",
+          "isCorrect": true
+        },
+        {
+          "text": "La préfecture uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’inscription administrative à l’école publique se fait généralement en mairie, qui indique ensuite l’école de secteur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b3000",
+      "shortId": "Q-3B3000",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>En cas de divorce, qui exerce l'autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement le père",
+          "isCorrect": false
+        },
+        {
+          "text": "Les deux parents, sauf décision contraire du juge",
+          "isCorrect": true
+        },
+        {
+          "text": "Toujours les grands-parents",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement la mère",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En principe, l’autorité parentale reste exercée par les deux parents, même en cas de séparation, sauf décision du juge.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b30a8",
+      "shortId": "Q-3B30A8",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Jusqu'à quel âge l'école est-elle obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "Elle n’est pas obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Jusqu’à 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Jusqu’à 12 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Jusqu’à 18 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, l’instruction est obligatoire jusqu’à 16 ans.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30a9",
+      "shortId": "Q-3B30A9",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>L'autorité parentale prévoit l'obligation :</p>\n",
+      "choices": [
+        {
+          "text": "De laisser l’enfant décider seul de tout",
+          "isCorrect": false
+        },
+        {
+          "text": "De protéger, éduquer et veiller au bien-être de l’enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "De choisir la religion de l’enseignant",
+          "isCorrect": false
+        },
+        {
+          "text": "D’interdire à l’enfant d’aller à l’école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’autorité parentale implique des devoirs : protection, éducation, santé et sécurité de l’enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30aa",
+      "shortId": "Q-3B30AA",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour qui l'école est-elle obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement pour les garçons",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement pour les Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement à partir de 12 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour tous les enfants résidant en France",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’instruction est obligatoire pour tous les enfants résidant en France, quels que soient leur nationalité ou leur situation.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30ab",
+      "shortId": "Q-3B30AB",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel diplôme obtient-on à la fin du lycée ?</p>\n",
+      "choices": [
+        {
+          "text": "Le CAP petite enfance (automatiquement)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le doctorat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le brevet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>À la fin du lycée, on peut obtenir le baccalauréat (selon la filière et la réussite à l’examen).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30ac",
+      "shortId": "Q-3B30AC",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Dans quels établissements scolaires vont les élèves après l'école élémentaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Au collège",
+          "isCorrect": true
+        },
+        {
+          "text": "À la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "À l’université",
+          "isCorrect": false
+        },
+        {
+          "text": "Au tribunal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Après l’école élémentaire, les élèves entrent au collège.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30ad",
+      "shortId": "Q-3B30AD",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour qui l'école est elle obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "Seulement pour les enfants nés en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement pour les enfants dont les parents travaillent",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement pour les enfants de moins de 10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour tous les enfants résidant en France",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’obligation d’instruction concerne tous les enfants résidant en France, sans condition de nationalité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30ae",
+      "shortId": "Q-3B30AE",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Un enfant inscrit à l'école :</p>\n",
+      "choices": [
+        {
+          "text": "Doit la fréquenter régulièrement",
+          "isCorrect": true
+        },
+        {
+          "text": "Peut refuser d’apprendre à lire",
+          "isCorrect": false
+        },
+        {
+          "text": "N’a jamais de devoirs",
+          "isCorrect": false
+        },
+        {
+          "text": "Peut y aller seulement quand il veut",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Lorsqu’un enfant est inscrit, il doit suivre la scolarité et respecter les règles de l’établissement (assiduité, ponctualité, etc.).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30af",
+      "shortId": "Q-3B30AF",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Les enfants qui ne parlent pas français :</p>\n",
+      "choices": [
+        {
+          "text": "Sont automatiquement exclus",
+          "isCorrect": false
+        },
+        {
+          "text": "Doivent attendre d’être adultes",
+          "isCorrect": false
+        },
+        {
+          "text": "Peuvent être scolarisés et bénéficier d’un accompagnement",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne peuvent pas aller à l’école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les enfants allophones peuvent être scolarisés en France et bénéficier de dispositifs d’accompagnement pour apprendre le français.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3012",
+      "shortId": "Q-3B3012",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'école maternelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Une université",
+          "isCorrect": false
+        },
+        {
+          "text": "Une école réservée aux adolescents",
+          "isCorrect": false
+        },
+        {
+          "text": "La première étape de la scolarité des enfants",
+          "isCorrect": true
+        },
+        {
+          "text": "Une formation professionnelle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’école maternelle accueille les jeunes enfants avant l’école élémentaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3013",
+      "shortId": "Q-3B3013",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Comment s'appelle le diplôme passé par les élèves à la fin du collège ?</p>\n",
+      "choices": [
+        {
+          "text": "Le diplôme national du brevet",
+          "isCorrect": true
+        },
+        {
+          "text": "La licence",
+          "isCorrect": false
+        },
+        {
+          "text": "Le CAP",
+          "isCorrect": false
+        },
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le diplôme national du brevet est passé à la fin du collège.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3014",
+      "shortId": "Q-3B3014",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Les parents d'élève ont le droit de :</p>\n",
+      "choices": [
+        {
+          "text": "Remplacer les enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Intervenir dans les cours",
+          "isCorrect": false
+        },
+        {
+          "text": "Décider seuls des programmes",
+          "isCorrect": false
+        },
+        {
+          "text": "Participer à la vie scolaire",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les parents peuvent s’impliquer dans la vie scolaire, dans le respect du cadre fixé.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3015",
+      "shortId": "Q-3B3015",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui peut manger à la cantine scolaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement les élèves internes",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les élèves étrangers",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement les élèves boursiers",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les élèves inscrits",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La cantine est accessible à tous les élèves inscrits, selon l’organisation locale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3016",
+      "shortId": "Q-3B3016",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>À quel âge commence l'instruction obligatoire des enfants ?</p>\n",
+      "choices": [
+        {
+          "text": "À 3 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "À 6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "À la naissance",
+          "isCorrect": false
+        },
+        {
+          "text": "À 10 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, l’instruction est obligatoire à partir de 3 ans.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3018",
+      "shortId": "Q-3B3018",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À l'école, il est interdit aux parents de :</p>\n",
+      "choices": [
+        {
+          "text": "Rencontrer les enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Participer aux réunions",
+          "isCorrect": false
+        },
+        {
+          "text": "S’informer sur la scolarité",
+          "isCorrect": false
+        },
+        {
+          "text": "Contester les règles de l’établissement par la violence",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les parents doivent respecter les règles et l’autorité de l’établissement scolaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3019",
+      "shortId": "Q-3B3019",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel motif d'absence est accepté par l'école ?</p>\n",
+      "choices": [
+        {
+          "text": "Un voyage non autorisé",
+          "isCorrect": false
+        },
+        {
+          "text": "La maladie de l’enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "Un simple oubli sans justification",
+          "isCorrect": false
+        },
+        {
+          "text": "Le refus d’aller à l’école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les absences doivent être justifiées, par exemple en cas de maladie.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b301a",
+      "shortId": "Q-3B301A",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?</p>\n",
+      "choices": [
+        {
+          "text": "Aucune sanction",
+          "isCorrect": false
+        },
+        {
+          "text": "Une amende et une peine de prison",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement un avertissement oral",
+          "isCorrect": false
+        },
+        {
+          "text": "La perte automatique de l’autorité parentale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le non-respect de l’obligation d’instruction peut entraîner des sanctions pénales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b301b",
+      "shortId": "Q-3B301B",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quand ont lieu les vacances scolaires de Noël ?</p>\n",
+      "choices": [
+        {
+          "text": "Au mois de février",
+          "isCorrect": false
+        },
+        {
+          "text": "Fin décembre et début janvier",
+          "isCorrect": true
+        },
+        {
+          "text": "Au printemps",
+          "isCorrect": false
+        },
+        {
+          "text": "En été",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les vacances de Noël ont lieu fin décembre et début janvier.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6548ffb722a33b301c",
+      "shortId": "Q-3B301C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À l'école, un enfant en situation de handicap :</p>\n",
+      "choices": [
+        {
+          "text": "Doit obligatoirement rester à domicile",
+          "isCorrect": false
+        },
+        {
+          "text": "A droit à une scolarisation adaptée",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne peut pas être scolarisé",
+          "isCorrect": false
+        },
+        {
+          "text": "Est exclu des activités",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’école inclusive garantit une scolarisation adaptée aux enfants en situation de handicap.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3809",
+      "shortId": "Q-CD3809",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que signifie exercer l’autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "Décider seul de la religion de l’enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "Assurer la santé, la sécurité et l’éducation de l’enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "Contrôler uniquement ses loisirs",
+          "isCorrect": false
+        },
+        {
+          "text": "Fixer les sanctions scolaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’autorité parentale regroupe les droits et devoirs des parents pour protéger et éduquer leur enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3812",
+      "shortId": "Q-CD3812",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qui protège les enfants en danger ou maltraités ?</p>\n",
+      "choices": [
+        {
+          "text": "Le rectorat",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Aide sociale à l’enfance (ASE)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le conseil municipal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Trésor public",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’Aide sociale à l’enfance prend en charge les enfants en danger pour garantir leur sécurité et leur bien-être.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd381b",
+      "shortId": "Q-CD381B",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel numéro d’urgence est dédié à la protection de l’enfance ?</p>\n",
+      "choices": [
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "119",
+          "isCorrect": true
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le 119 est un numéro gratuit pour signaler toute situation d’enfant en danger ou de maltraitance.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3824",
+      "shortId": "Q-CD3824",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du juge des enfants ?</p>\n",
+      "choices": [
+        {
+          "text": "Sanctionner les parents systématiquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Attribuer des bourses scolaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Donner des cours à l’école",
+          "isCorrect": false
+        },
+        {
+          "text": "Protéger les mineurs en danger et encadrer leur prise en charge",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le juge des enfants intervient pour assurer la protection ou l’éducation des mineurs en danger.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd382d",
+      "shortId": "Q-CD382D",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Jusqu’à quel âge l’école est-elle obligatoire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "De 6 à 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "De 3 à 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "De 5 à 14 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "De 7 à 17 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’instruction est obligatoire pour tous les enfants de 3 à 16 ans, qu’elle soit publique, privée ou à domicile.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3836",
+      "shortId": "Q-CD3836",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quels sont les principaux niveaux du système éducatif français ?</p>\n",
+      "choices": [
+        {
+          "text": "Collège et lycée uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Primaire et université uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "École, armée, université",
+          "isCorrect": false
+        },
+        {
+          "text": "Maternelle, primaire, collège, lycée, supérieur",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le système éducatif comprend plusieurs étapes progressives de la maternelle au supérieur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd383f",
+      "shortId": "Q-CD383F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qui définit les programmes scolaires en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Les mairies",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère de l’Éducation nationale",
+          "isCorrect": true
+        },
+        {
+          "text": "Les parents d’élèves",
+          "isCorrect": false
+        },
+        {
+          "text": "Les enseignants individuellement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les programmes et les examens sont fixés au niveau national par le ministère de l’Éducation.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3848",
+      "shortId": "Q-CD3848",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle des parents dans la scolarité de leur enfant ?</p>\n",
+      "choices": [
+        {
+          "text": "Évaluer les examens",
+          "isCorrect": false
+        },
+        {
+          "text": "Soutenir et suivre la progression scolaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Décider des notes",
+          "isCorrect": false
+        },
+        {
+          "text": "Remplacer l’enseignant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les parents accompagnent la scolarité de leur enfant et collaborent avec l’équipe éducative.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3851",
+      "shortId": "Q-CD3851",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle valeur fondamentale l’école publique française transmet-elle ?</p>\n",
+      "choices": [
+        {
+          "text": "La neutralité politique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le service militaire",
+          "isCorrect": false
+        },
+        {
+          "text": "La tradition religieuse",
+          "isCorrect": false
+        },
+        {
+          "text": "La laïcité",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’école publique est laïque : elle transmet des savoirs communs sans référence religieuse.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd385a",
+      "shortId": "Q-CD385A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel diplôme valide la fin du collège en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le certificat d’études primaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Le CAP",
+          "isCorrect": false
+        },
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le diplôme national du brevet",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le diplôme national du brevet évalue les connaissances acquises à la fin du collège.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd387e",
+      "shortId": "Q-CD387E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution contrôle les écoles publiques et privées sous contrat ?</p>\n",
+      "choices": [
+        {
+          "text": "Le rectorat et l’inspection académique",
+          "isCorrect": true
+        },
+        {
+          "text": "Les associations de parents d’élèves",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère du Travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Les mairies uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les rectorats veillent au respect des programmes et de la réglementation éducative.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd38b4",
+      "shortId": "Q-CD38B4",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle instance représente les parents d’élèves dans les établissements scolaires ?</p>\n",
+      "choices": [
+        {
+          "text": "Le syndicat des enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Le conseil municipal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le rectorat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le conseil d’école ou le conseil d’administration",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les représentants des parents siègent dans les conseils pour participer à la vie de l’établissement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69357fb28daa86dd2c05e6c6",
+      "shortId": "Q-05E6C6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qu’est-ce que l’<strong>autorité parentale</strong> après la séparation des parents ?</p>\n",
+      "choices": [
+        {
+          "text": "Un droit exclusif du parent chez qui réside l’enfant.",
+          "isCorrect": false
+        },
+        {
+          "text": "Un ensemble de règles qui concerne uniquement les enfants majeurs.",
+          "isCorrect": false
+        },
+        {
+          "text": "Une autorité qui peut être exercée sans respecter la vie privée de l’enfant.",
+          "isCorrect": false
+        },
+        {
+          "text": "L’ensemble des droits et devoirs permettant d’assurer la protection et l’éducation de l’enfant mineur.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’autorité parentale regroupe les droits et devoirs des parents pour protéger, éduquer et accompagner leur enfant mineur, même en cas de séparation.\nElle doit être exercée dans le respect de la santé, de la sécurité, de la moralité et de la vie privée de l’enfant.\nEn France, elle reste en principe conjointe, sauf décision contraire du juge</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693580878daa86dd2c05f483",
+      "shortId": "Q-05F483",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qu’appelle-t-on une double filiation établie simultanément ?</p>\n",
+      "choices": [
+        {
+          "text": "La filiation reconnue par les deux parents au moment de la déclaration de naissance.",
+          "isCorrect": true
+        },
+        {
+          "text": "La filiation établie d’abord par un parent, puis par l’autre un an plus tard.",
+          "isCorrect": false
+        },
+        {
+          "text": "Une filiation qui nécessite obligatoirement une décision de justice.",
+          "isCorrect": false
+        },
+        {
+          "text": "Une filiation qui ne peut être établie que par le père.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La double filiation simultanée désigne la situation où les deux parents reconnaissent l’enfant au moment de la déclaration de naissance.\nDans ce cas, la filiation maternelle et paternelle (ou comaternelle) est établie en même temps, sans procédure judiciaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693581518daa86dd2c060067",
+      "shortId": "Q-060067",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le principe de la filiation unilinéaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Elle ne tient compte que d’un seul géniteur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elle est exclusivement maternelle.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle reconnaît les deux géniteurs en même temps.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle repose uniquement sur la filiation adoptive.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La filiation unilinéaire désigne une filiation établie à partir d’un seul parent, qu’il s’agisse du père ou de la mère.\nElle ne retient donc qu’une seule ligne de parenté, contrairement à la filiation bilinéaire qui reconnaît les deux géniteurs.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6935852f8daa86dd2c068cd8",
+      "shortId": "Q-068CD8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que se passe-t-il en cas de décès d’un parent exerçant l’autorité parentale conjointe ?</p>\n",
+      "choices": [
+        {
+          "text": "L’autorité parentale est transférée au parent survivant.",
+          "isCorrect": true
+        },
+        {
+          "text": "L’autorité parentale est annulée.",
+          "isCorrect": false
+        },
+        {
+          "text": "L’autorité parentale est partagée avec les grands-parents.",
+          "isCorrect": false
+        },
+        {
+          "text": "Les enfants sont automatiquement placés en famille d’accueil.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En cas de décès d’un parent, l’autorité parentale est automatiquement transférée au parent survivant, qui l’exerce seul.\nUne autre solution (tuteur, délégation, tiers de confiance…) n’est envisagée qu’en cas de décision judiciaire spécifique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efb8a610d4109b1f1db2b",
+      "shortId": "Q-F1DB2B",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>L'instruction des enfants est obligatoire de :</p>\n",
+      "choices": [
+        {
+          "text": "3 à 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "La naissance à 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "3 à 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 à 16 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, l’instruction est obligatoire de 3 à 16 ans. Elle peut être assurée à l’école (publique ou privée) ou à domicile, dans le respect de la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efbf6610d4109b1f22b7a",
+      "shortId": "Q-F22B7A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la définition de l'autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "L’ensemble des droits et devoirs des parents dans l’intérêt de l’enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "Une obligation réservée à un seul parent",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir de l’État sur les familles",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit des parents de décider seuls sans tenir compte de l’enfant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’autorité parentale regroupe les droits et devoirs des parents visant à protéger, éduquer et assurer le bien-être de l’enfant, dans son intérêt supérieur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efd05610d4109b1f30e1d",
+      "shortId": "Q-F30E1D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>En tant que parent d'élève, il est possible de :</p>\n",
+      "choices": [
+        {
+          "text": "Décider seul du programme scolaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Participer aux instances de l’école et dialoguer avec les enseignants",
+          "isCorrect": true
+        },
+        {
+          "text": "Intervenir dans les décisions pédagogiques des enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser les règles de l’établissement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les parents d’élèves peuvent participer à la vie scolaire (réunions, conseils) et échanger avec les enseignants, dans le respect du fonctionnement de l’établissement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efd71610d4109b1f360ab",
+      "shortId": "Q-F360AB",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?</p>\n",
+      "choices": [
+        {
+          "text": "Ils ne peuvent être accueillis que dans les écoles privées",
+          "isCorrect": false
+        },
+        {
+          "text": "Leur scolarisation dépend uniquement de la décision de l’établissement",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils ont le droit d’être scolarisés dans une école ordinaire avec des aménagements adaptés",
+          "isCorrect": true
+        },
+        {
+          "text": "Ils doivent obligatoirement être scolarisés dans des établissements spécialisés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, les enfants en situation de handicap ont droit à la scolarisation en milieu ordinaire, avec des aménagements et accompagnements adaptés (ex. AESH), afin de garantir l’égalité des chances.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efe17610d4109b1f3e216",
+      "shortId": "Q-F3E216",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?</p>\n",
+      "choices": [
+        {
+          "text": "11 jours",
+          "isCorrect": false
+        },
+        {
+          "text": "25 jours",
+          "isCorrect": true
+        },
+        {
+          "text": "30 jours",
+          "isCorrect": false
+        },
+        {
+          "text": "14 jours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Depuis le 1er juillet 2021, le congé de paternité est de 25 jours (ou 32 jours en cas de naissances multiples), afin de favoriser l’implication du père auprès de l’enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efe63610d4109b1f41e6f",
+      "shortId": "Q-F41E6F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Est-ce possible de punir physiquement ses enfants ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, si la punition est légère",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, dans le cadre de l’éducation",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, jusqu’à un certain âge",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, les violences éducatives sont interdites",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, toute violence physique ou psychologique envers les enfants est interdite, même à des fins éducatives. La loi protège l’intégrité et la dignité de l’enfant.</p>\n"
+    }
+  }
+]

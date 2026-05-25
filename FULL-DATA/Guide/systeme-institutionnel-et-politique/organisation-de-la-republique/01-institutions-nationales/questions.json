@@ -1,0 +1,1231 @@
+[
+  {
+    "id": "690745bbbf88e35210cd2f6c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Président de la République française ?",
+    "choices": [
+      {
+        "text": "Représenter l’État et garantir la Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Diriger le Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer les maires",
+        "isCorrect": false
+      },
+      {
+        "text": "Rédiger les lois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Président représente la France, nomme le Premier ministre et garantit la Constitution.",
+    "helpNotes": [
+      "Élu pour cinq ans au suffrage universel.",
+      "Chef des armées et garant des institutions."
+    ]
+  },
+  {
+    "id": "690745bbbf88e35210cd2f75",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Premier ministre en France ?",
+    "choices": [
+      {
+        "text": "Diriger l’action du Gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Présider le Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Contrôler la justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Rédiger la Constitution",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Premier ministre conduit la politique du Gouvernement et est responsable devant le Parlement.",
+    "helpNotes": [
+      "Nommé par le Président de la République.",
+      "Coordonne le travail des ministres."
+    ]
+  },
+  {
+    "id": "69416a4b48ffb722a33b2f55",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de députés composent l'Assemblée nationale ?",
+    "choices": [
+      {
+        "text": "577",
+        "isCorrect": true
+      },
+      {
+        "text": "348",
+        "isCorrect": false
+      },
+      {
+        "text": "925",
+        "isCorrect": false
+      },
+      {
+        "text": "101",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’Assemblée nationale est composée de 577 députés.",
+    "helpNotes": [
+      "Assemblée nationale = 577 députés"
+    ]
+  },
+  {
+    "id": "690745bbbf88e35210cd2f7e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle de l’Assemblée nationale ?",
+    "choices": [
+      {
+        "text": "Voter les lois et contrôler le Gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Appliquer les lois",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre la justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer le Premier ministre",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’Assemblée nationale vote les lois et contrôle l’action du Gouvernement.",
+    "helpNotes": [
+      "Composée de 577 députés.",
+      "Peut renverser le Gouvernement par une motion de censure."
+    ]
+  },
+  {
+    "id": "690745bbbf88e35210cd2f87",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Sénat en France ?",
+    "choices": [
+      {
+        "text": "Assurer la continuité de l’État et représenter les collectivités",
+        "isCorrect": true
+      },
+      {
+        "text": "Diriger la justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer le Président",
+        "isCorrect": false
+      },
+      {
+        "text": "Voter le budget",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Sénat représente les collectivités locales et participe au vote des lois.",
+    "helpNotes": [
+      "Siège au Palais du Luxembourg.",
+      "Les sénateurs sont élus pour six ans."
+    ]
+  },
+  {
+    "id": "690745bbbf88e35210cd2f90",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle institution garantit l’indépendance du pouvoir judiciaire ?",
+    "choices": [
+      {
+        "text": "Le Conseil supérieur de la magistrature",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Gouvernement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil supérieur de la magistrature veille à l’indépendance de la justice.",
+    "helpNotes": [
+      "Présidé par le Président de la République.",
+      "Protège les juges contre les pressions politiques."
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f8f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui nomme le Premier ministre ?",
+    "choices": [
+      {
+        "text": "Le Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Les maires",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le Premier ministre est nommé par le président de la République.",
+    "helpNotes": [
+      "Le président nomme le Premier ministre",
+      "Institutions de la Ve République"
+    ]
+  },
+  {
+    "id": "69416a4b48ffb722a33b2f57",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le Parlement est composé :",
+    "choices": [
+      {
+        "text": "Du président et du gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "De l’Assemblée nationale et du Sénat",
+        "isCorrect": true
+      },
+      {
+        "text": "Du Conseil constitutionnel et du Conseil d’État",
+        "isCorrect": false
+      },
+      {
+        "text": "Des maires et des préfets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Parlement français est bicaméral : il comprend l’Assemblée nationale et le Sénat.",
+    "helpNotes": [
+      "Parlement = 2 chambres",
+      "Assemblée nationale + Sénat"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b3031",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+    "choices": [
+      {
+        "text": "De faire les lois",
+        "isCorrect": false
+      },
+      {
+        "text": "D’appliquer les lois et diriger l’action du gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "De juger les infractions",
+        "isCorrect": false
+      },
+      {
+        "text": "D’élire les députés",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le pouvoir exécutif met en œuvre les lois et conduit la politique de la Nation (président + gouvernement).",
+    "helpNotes": [
+      "Exécutif = appliquer/diriger",
+      "Président + Gouvernement"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f95",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "choices": [
+      {
+        "text": "Rien, il est au-dessus des lois",
+        "isCorrect": false
+      },
+      {
+        "text": "Il peut être sanctionné comme tout citoyen",
+        "isCorrect": true
+      },
+      {
+        "text": "Il est automatiquement réélu",
+        "isCorrect": false
+      },
+      {
+        "text": "Il décide lui-même de sa sanction",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, personne n’est au-dessus des lois : un ministre peut être poursuivi et sanctionné.",
+    "helpNotes": [
+      "Égalité devant la loi",
+      "Responsabilité des gouvernants"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f8e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui dirige l'action du Gouvernement ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le préfet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Premier ministre dirige l’action du Gouvernement.",
+    "helpNotes": [
+      "Premier ministre",
+      "Direction de l’action du Gouvernement"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f94",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du gouvernement ?",
+    "choices": [
+      {
+        "text": "Déterminer et conduire la politique de la Nation",
+        "isCorrect": true
+      },
+      {
+        "text": "Voter les lois à la place du Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre la justice",
+        "isCorrect": false
+      },
+      {
+        "text": "Organiser les élections municipales uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Gouvernement met en œuvre les politiques publiques et conduit l’action de l’État.",
+    "helpNotes": [
+      "Conduire la politique",
+      "Mettre en œuvre les décisions publiques"
+    ]
+  },
+  {
+    "id": "691367be68a89b75e3912be4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le gouvernement veut faire adopter une loi urgente. Quelle procédure spéciale peut-il utiliser ?",
+    "choices": [
+      {
+        "text": "Engager la responsabilité du gouvernement avec l’article 49.3",
+        "isCorrect": true
+      },
+      {
+        "text": "Faire voter la loi uniquement au Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander au président de la République de la signer directement",
+        "isCorrect": false
+      },
+      {
+        "text": "Soumettre la loi à un référendum local",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’article 49.3 permet au gouvernement d’adopter un texte sans vote, sauf si une motion de censure est votée.",
+    "helpNotes": [
+      "Constitution de la Ve République",
+      "Procédure du 49.3"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b303e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui possède le pouvoir exécutif ?",
+    "choices": [
+      {
+        "text": "Le Parlement uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de la République et le gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Les tribunaux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le pouvoir exécutif est exercé par le président de la République et le gouvernement.",
+    "helpNotes": [
+      "Exécutif = président + gouvernement",
+      "Séparation des pouvoirs"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3041",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle des députés ?",
+    "choices": [
+      {
+        "text": "Appliquer les lois",
+        "isCorrect": false
+      },
+      {
+        "text": "Voter les lois et contrôler l’action du gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Juger les crimes",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer les préfets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les députés siègent à l’Assemblée nationale : ils votent la loi et contrôlent l’action du gouvernement.",
+    "helpNotes": [
+      "Députés = Assemblée nationale",
+      "Loi + contrôle du gouvernement"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3042",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui possède le pouvoir législatif ?",
+    "choices": [
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Parlement",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Conseil d’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le pouvoir législatif appartient au Parlement (Assemblée nationale + Sénat) : il vote les lois.",
+    "helpNotes": [
+      "Législatif = Parlement",
+      "Vote de la loi"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu'est-ce que l'Hôtel de Matignon ?",
+    "choices": [
+      {
+        "text": "La résidence officielle et les services du Premier ministre",
+        "isCorrect": true
+      },
+      {
+        "text": "Le siège de l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le palais du président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le siège du Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’Hôtel de Matignon est le lieu où travaille le Premier ministre et sa résidence officielle.",
+    "helpNotes": [
+      "Matignon = Premier ministre",
+      "Lieu de travail / résidence"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3044",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui vote les lois ?",
+    "choices": [
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Parlement",
+        "isCorrect": true
+      },
+      {
+        "text": "Les tribunaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Le préfet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les lois sont votées par le Parlement (Assemblée nationale et Sénat).",
+    "helpNotes": [
+      "Vote de la loi = Parlement",
+      "Bicamérisme"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du président de la République ?",
+    "choices": [
+      {
+        "text": "Être le chef de l’État et garantir le fonctionnement des institutions",
+        "isCorrect": true
+      },
+      {
+        "text": "Voter les lois à la place du Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Diriger la commune",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre la justice au tribunal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le président est le chef de l’État. Il a un rôle institutionnel majeur et veille au respect de la Constitution.",
+    "helpNotes": [
+      "Chef de l’État",
+      "Garant des institutions"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3045",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui réside au palais de l'Élysée ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire de Paris",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le palais de l’Élysée est la résidence officielle du président de la République.",
+    "helpNotes": [
+      "Élysée = président",
+      "Institutions nationales"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Premier ministre ?",
+    "choices": [
+      {
+        "text": "Diriger l’action du Gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Être le chef de l’État",
+        "isCorrect": false
+      },
+      {
+        "text": "Présider l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Être le chef de la justice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Premier ministre dirige l’action du Gouvernement et coordonne le travail des ministres.",
+    "helpNotes": [
+      "Dirige le Gouvernement",
+      "Coordonne les ministres"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est le chef du Gouvernement ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de l’Assemblée nationale",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le chef du Gouvernement est le Premier ministre.",
+    "helpNotes": [
+      "Chef du Gouvernement = Premier ministre"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2fa0",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Défenseur des droits ?",
+    "choices": [
+      {
+        "text": "Défendre les droits des personnes et lutter contre les discriminations",
+        "isCorrect": true
+      },
+      {
+        "text": "Voter les lois",
+        "isCorrect": false
+      },
+      {
+        "text": "Diriger le Gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Commander l’armée",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Défenseur des droits est une autorité indépendante qui aide à faire respecter les droits et lutte contre les discriminations.",
+    "helpNotes": [
+      "Autorité indépendante",
+      "Droits + discriminations"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3048",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Parlement ?",
+    "choices": [
+      {
+        "text": "Diriger les tribunaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Voter les lois et contrôler l’action du gouvernement",
+        "isCorrect": true
+      },
+      {
+        "text": "Nommer les préfets",
+        "isCorrect": false
+      },
+      {
+        "text": "Gérer les mairies",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Parlement vote la loi et contrôle l’action du gouvernement.",
+    "helpNotes": [
+      "Parlement : vote + contrôle",
+      "Assemblée nationale + Sénat"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le régime politique de la France aujourd'hui ?",
+    "choices": [
+      {
+        "text": "Une monarchie",
+        "isCorrect": false
+      },
+      {
+        "text": "Une république démocratique",
+        "isCorrect": true
+      },
+      {
+        "text": "Un empire",
+        "isCorrect": false
+      },
+      {
+        "text": "Une théocratie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France est une République (Ve République) et son régime est démocratique.",
+    "helpNotes": [
+      "France = République",
+      "Régime démocratique"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c5a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une nouvelle loi sur l’environnement est promulguée par le président de la République. Que signifie cette action ?",
+    "choices": [
+      {
+        "text": "Le président rend la loi applicable après son adoption par le Parlement",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président crée la loi sans vote du Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président peut modifier la loi à tout moment",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président applique une décision du Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La promulgation est l’acte par lequel le président rend une loi exécutoire après son adoption par le Parlement.",
+    "helpNotes": [
+      "Article 10 de la Constitution",
+      "Processus législatif français"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c60",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le gouvernement présente un projet de loi au Parlement. Quelle est la première étape du processus législatif ?",
+    "choices": [
+      {
+        "text": "L’examen du texte en commission à l’Assemblée nationale ou au Sénat",
+        "isCorrect": true
+      },
+      {
+        "text": "La promulgation immédiate par le président",
+        "isCorrect": false
+      },
+      {
+        "text": "Le vote des citoyens par référendum",
+        "isCorrect": false
+      },
+      {
+        "text": "L’approbation préalable du Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un projet de loi est d’abord examiné en commission parlementaire avant d’être débattu et voté en séance publique.",
+    "helpNotes": [
+      "Procédure législative",
+      "Rôle des commissions parlementaires"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c63",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le Conseil constitutionnel annule une partie d’une loi récemment adoptée. Pourquoi ?",
+    "choices": [
+      {
+        "text": "Parce qu’elle est contraire à la Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Parce qu’elle est impopulaire",
+        "isCorrect": false
+      },
+      {
+        "text": "Parce que le président en a décidé ainsi",
+        "isCorrect": false
+      },
+      {
+        "text": "Parce qu’elle a été votée trop vite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil constitutionnel veille à ce que les lois respectent la Constitution. Il peut en annuler tout ou partie si elles la contredisent.",
+    "helpNotes": [
+      "Rôle du Conseil constitutionnel",
+      "Contrôle de constitutionnalité"
+    ]
+  },
+  {
+    "id": "690745c0bf88e35210cd3326",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle principal du Président de la République française ?",
+    "choices": [
+      {
+        "text": "Garantir le respect de la Constitution et représenter la France",
+        "isCorrect": true
+      },
+      {
+        "text": "Rédiger les lois",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer les députés",
+        "isCorrect": false
+      },
+      {
+        "text": "Contrôler les médias",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Président de la République veille au respect de la Constitution et représente la France à l’étranger.",
+    "helpNotes": [
+      "Élu au suffrage universel direct pour 5 ans.",
+      "Peut dissoudre l’Assemblée nationale."
+    ]
+  },
+  {
+    "id": "690745c0bf88e35210cd332f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui nomme le Premier ministre en France ?",
+    "choices": [
+      {
+        "text": "Le Président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "L’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Président de la République choisit et nomme le Premier ministre, chef du gouvernement.",
+    "helpNotes": [
+      "Le Premier ministre dirige l’action du gouvernement.",
+      "Il est responsable devant l’Assemblée nationale."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3338",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de chambres composent le Parlement français ?",
+    "choices": [
+      {
+        "text": "Deux",
+        "isCorrect": true
+      },
+      {
+        "text": "Une seule",
+        "isCorrect": false
+      },
+      {
+        "text": "Trois",
+        "isCorrect": false
+      },
+      {
+        "text": "Quatre",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Parlement français est bicaméral, composé de l’Assemblée nationale et du Sénat.",
+    "helpNotes": [
+      "L’Assemblée nationale siège au Palais Bourbon.",
+      "Le Sénat siège au Palais du Luxembourg."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd334a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle institution veille au respect de la Constitution en France ?",
+    "choices": [
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Conseil d’État",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Parlement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil constitutionnel s’assure que les lois respectent la Constitution.",
+    "helpNotes": [
+      "Composé de neuf membres nommés pour neuf ans.",
+      "Peut être saisi par le Président ou les parlementaires."
+    ]
+  },
+  {
+    "id": "6939e7d87b82429c96052b16",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment la Constitution française peut-elle être révisée ?",
+    "choices": [
+      {
+        "text": "Par le Parlement réuni en Congrès ou par référendum",
+        "isCorrect": true
+      },
+      {
+        "text": "Par le président seul",
+        "isCorrect": false
+      },
+      {
+        "text": "Par les juges",
+        "isCorrect": false
+      },
+      {
+        "text": "Directement par les citoyens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La Constitution peut être révisée selon l’article 89 : soit par référendum, soit par le Parlement réuni en Congrès (à la majorité des 3/5e).\r\nLe président ne peut pas réviser seul la Constitution, et les citoyens n’ont pas d’initiative constitutionnelle directe.",
+    "helpNotes": [
+      "Article 89 de la Constitution"
+    ]
+  },
+  {
+    "id": "693c12b46ba49367a5b6a5d2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "De combien de membres se compose le Conseil constitutionnel ?",
+    "choices": [
+      {
+        "text": "9 membres",
+        "isCorrect": true
+      },
+      {
+        "text": "10 membres",
+        "isCorrect": false
+      },
+      {
+        "text": "15 membres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil constitutionnel est composé de 9 membres nommés pour 9 ans.\r\nLes anciens Présidents de la République peuvent siéger de droit, mais ils ne sont pas comptés parmi ces 9 membres.",
+    "helpNotes": [
+      "Article 56 de la Constitution"
+    ]
+  },
+  {
+    "id": "693c139d6ba49367a5b6d6a2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le Conseil des ministres est présidé par :",
+    "choices": [
+      {
+        "text": "Le Président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Le ministre de l’Intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du Sénat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil des ministres est présidé par le Président de la République.\r\nEn cas d’absence exceptionnelle, le Premier ministre peut le présider par délégation, mais la règle générale est la présidence présidentielle.",
+    "helpNotes": [
+      "Article 9 de la Constitution"
+    ]
+  },
+  {
+    "id": "693c16d96ba49367a5b80231",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le Défenseur des droits est :",
+    "choices": [
+      {
+        "text": "Une autorité indépendante chargée de protéger les droits et libertés",
+        "isCorrect": true
+      },
+      {
+        "text": "Un membre du Gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Un représentant élu du Parlement",
+        "isCorrect": false
+      },
+      {
+        "text": "Un magistrat chargé de rendre la justice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Défenseur des droits est une autorité administrative indépendante.\r\nIl veille au respect des droits et libertés par les administrations et lutte notamment contre les discriminations.",
+    "helpNotes": [
+      "Article 71-1 de la Constitution"
+    ]
+  },
+  {
+    "id": "694bb532b0ac0df97075d7e9",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment est désigné le Premier ministre ?",
+    "choices": [
+      {
+        "text": "Par élection directe des citoyens",
+        "isCorrect": false
+      },
+      {
+        "text": "Par l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Par le Président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Par le Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le Premier ministre est nommé par le Président de la République. Il dirige l’action du gouvernement sous son autorité.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bb5f0b0ac0df9707618f6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut se présenter aux élections présidentielles ?",
+    "choices": [
+      {
+        "text": "Toute personne résidant en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Tout citoyen européen majeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Tout citoyen français remplissant les conditions légales",
+        "isCorrect": true
+      },
+      {
+        "text": "Tout élu local sans condition",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour être candidat à l’élection présidentielle, il faut être citoyen français, majeur, jouir de ses droits civiques et remplir les conditions prévues par la loi (parrainages, etc.).",
+    "helpNotes": []
+  },
+  {
+    "id": "694bc530b0ac0df9707949c9",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment sont désignés les députés ?",
+    "choices": [
+      {
+        "text": "Par nomination des préfets",
+        "isCorrect": false
+      },
+      {
+        "text": "Par décision du gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Par élection au suffrage universel direct",
+        "isCorrect": true
+      },
+      {
+        "text": "Par nomination du Président de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les députés sont élus par les citoyens au suffrage universel direct lors des élections législatives.",
+    "helpNotes": []
+  }
+]

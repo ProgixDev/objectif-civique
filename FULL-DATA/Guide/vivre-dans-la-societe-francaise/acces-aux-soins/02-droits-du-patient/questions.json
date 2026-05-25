@@ -1,0 +1,414 @@
+[
+  {
+    "id": "690e001168a89b75e3902293",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un patient arrive à l'hôpital sans avoir de carte Vitale. Quelle est la procédure à suivre ?",
+    "choices": [
+      {
+        "text": "Il doit payer immédiatement pour tous les soins",
+        "isCorrect": false
+      },
+      {
+        "text": "Il peut recevoir des soins, mais il devra fournir la carte Vitale plus tard",
+        "isCorrect": true
+      },
+      {
+        "text": "Il doit prendre rendez-vous et revenir plus tard avec la carte",
+        "isCorrect": false
+      },
+      {
+        "text": "Il est refusé d'accès à tout soin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas d'urgence ou de soins essentiels, le patient peut être soigné sans carte Vitale et régulariser la situation ensuite.",
+    "helpNotes": [
+      "Accès aux soins",
+      "Droits des patients",
+      "Carte Vitale"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bea",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un patient souhaite consulter le compte rendu d’une opération réalisée à l’hôpital. Quelle est la démarche à suivre ?",
+    "choices": [
+      {
+        "text": "Faire une demande écrite au service médical de l’hôpital",
+        "isCorrect": true
+      },
+      {
+        "text": "Passer par son médecin traitant uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Faire une demande au ministère de la Santé",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander oralement à l’infirmier de garde",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chaque patient a le droit d’accéder à son dossier médical en adressant une demande écrite à l’établissement de santé.",
+    "helpNotes": [
+      "Droit d’accès au dossier médical",
+      "Loi du 4 mars 2002"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a7",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quoi sert une mutuelle santé ?",
+    "choices": [
+      {
+        "text": "À compléter les remboursements de l’Assurance maladie",
+        "isCorrect": true
+      },
+      {
+        "text": "À remplacer la carte Vitale",
+        "isCorrect": false
+      },
+      {
+        "text": "À payer le loyer",
+        "isCorrect": false
+      },
+      {
+        "text": "À obtenir automatiquement la nationalité",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La mutuelle (complémentaire santé) complète tout ou partie des frais non remboursés par l’Assurance maladie.",
+    "helpNotes": [
+      "Mutuelle = complémentaire",
+      "Reste à charge réduit"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3007",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À qui est accessible la contraception ?",
+    "choices": [
+      {
+        "text": "À toutes les personnes",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement aux personnes mariées",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement aux hommes",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement aux personnes âgées",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La contraception est accessible à toutes les personnes, selon les conditions prévues par la loi.",
+    "helpNotes": [
+      "Contraception",
+      "Droits",
+      "Santé"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3008",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?",
+    "choices": [
+      {
+        "text": "Le respect du secret médical",
+        "isCorrect": true
+      },
+      {
+        "text": "La publication des dossiers médicaux",
+        "isCorrect": false
+      },
+      {
+        "text": "Le partage libre des informations",
+        "isCorrect": false
+      },
+      {
+        "text": "L’absence de règles",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La confidentialité garantit que les informations médicales restent protégées par le secret médical.",
+    "helpNotes": [
+      "Confidentialité",
+      "Secret médical"
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3782",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel droit fondamental protège la vie privée du patient ?",
+    "choices": [
+      {
+        "text": "Le secret médical",
+        "isCorrect": true
+      },
+      {
+        "text": "Le droit du travail",
+        "isCorrect": false
+      },
+      {
+        "text": "La confidentialité bancaire",
+        "isCorrect": false
+      },
+      {
+        "text": "La liberté syndicale",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le secret médical interdit aux professionnels de divulguer des informations de santé sans autorisation.",
+    "helpNotes": [
+      "Protégé par le Code de la santé publique.",
+      "S’applique à tous les personnels soignants."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd378b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel droit permet au patient de choisir librement son médecin ?",
+    "choices": [
+      {
+        "text": "Le libre choix du praticien",
+        "isCorrect": true
+      },
+      {
+        "text": "Le droit d’accès à l’information",
+        "isCorrect": false
+      },
+      {
+        "text": "Le droit au recours",
+        "isCorrect": false
+      },
+      {
+        "text": "Le droit à la retraite",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le patient peut choisir son médecin généraliste ou spécialiste, sauf en cas d’urgence.",
+    "helpNotes": [
+      "Valable dans les hôpitaux et les cabinets médicaux.",
+      "Garantit la liberté individuelle du patient."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3794",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du consentement dans les soins médicaux ?",
+    "choices": [
+      {
+        "text": "Aucun soin ne peut être pratiqué sans accord du patient",
+        "isCorrect": true
+      },
+      {
+        "text": "Le médecin décide seul des traitements",
+        "isCorrect": false
+      },
+      {
+        "text": "Le consentement est facultatif",
+        "isCorrect": false
+      },
+      {
+        "text": "Seuls les proches peuvent consentir",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le patient doit donner son accord avant tout acte médical, sauf urgence vitale.",
+    "helpNotes": [
+      "Principe du respect de l’autonomie du patient.",
+      "Prévu par le Code de la santé publique."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd379d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel numéro d’urgence faut-il composer en cas d’incendie ?",
+    "choices": [
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "114",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le 18 correspond au numéro des sapeurs-pompiers pour signaler un incendie ou un accident domestique.",
+    "helpNotes": [
+      "Le 112 fonctionne dans toute l’Union européenne.",
+      "Le 114 est réservé aux personnes sourdes ou malentendantes."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd37a6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle obligation vaccinale concerne les enfants en France ?",
+    "choices": [
+      {
+        "text": "11 vaccins obligatoires avant l’âge de deux ans",
+        "isCorrect": true
+      },
+      {
+        "text": "Aucun vaccin n’est obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement le vaccin contre la grippe",
+        "isCorrect": false
+      },
+      {
+        "text": "Un seul vaccin à l’école primaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Depuis 2018, 11 vaccins sont obligatoires pour les enfants afin de protéger la santé publique.",
+    "helpNotes": [
+      "Les vaccins incluent diphtérie, tétanos, polio et rougeole.",
+      "Contrôlés par le carnet de santé de l’enfant."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd38a2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu’est-ce qu’un médecin conventionné ?",
+    "choices": [
+      {
+        "text": "Un médecin qui applique les tarifs de la Sécurité sociale",
+        "isCorrect": true
+      },
+      {
+        "text": "Un médecin salarié de l’État",
+        "isCorrect": false
+      },
+      {
+        "text": "Un médecin sans diplôme",
+        "isCorrect": false
+      },
+      {
+        "text": "Un médecin travaillant à l’étranger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un médecin conventionné respecte les tarifs de base fixés par la Sécurité sociale pour le remboursement.",
+    "helpNotes": [
+      "Les médecins de secteur 1 pratiquent sans dépassement d’honoraires.",
+      "Les patients sont mieux remboursés avec un médecin conventionné."
+    ]
+  },
+  {
+    "id": "694ef891610d4109b1efe52b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "La contraception :",
+    "choices": [
+      {
+        "text": "Est autorisée uniquement pour les adultes",
+        "isCorrect": false
+      },
+      {
+        "text": "Est réservée aux personnes mariées",
+        "isCorrect": false
+      },
+      {
+        "text": "Permet d’éviter une grossesse non désirée",
+        "isCorrect": true
+      },
+      {
+        "text": "Est interdite aux mineurs",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La contraception permet de prévenir une grossesse non souhaitée. En France, elle est autorisée et accessible, dans le respect de la loi et de la liberté individuelle.",
+    "helpNotes": []
+  },
+  {
+    "id": "694ef940610d4109b1f05264",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu'est-ce que le tiers payant ?",
+    "choices": [
+      {
+        "text": "Un paiement différé réservé aux urgences",
+        "isCorrect": false
+      },
+      {
+        "text": "Un remboursement effectué uniquement par l’employeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Un dispositif permettant de ne pas avancer les frais de santé",
+        "isCorrect": true
+      },
+      {
+        "text": "Un paiement en plusieurs fois chez le médecin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le tiers payant permet au patient de ne pas avancer tout ou partie des frais médicaux : l’Assurance maladie et/ou la complémentaire paient directement le professionnel de santé.",
+    "helpNotes": []
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "692c356d32a2815c0b7f3c68",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne souhaite créer son entreprise mais ne sait pas à quelle administration s’adresser. Quelle est la première étape ?",
+    "choices": [
+      {
+        "text": "Contacter le guichet unique des formalités d’entreprises",
+        "isCorrect": true
+      },
+      {
+        "text": "Faire une déclaration directement au Trésor public",
+        "isCorrect": false
+      },
+      {
+        "text": "S’inscrire au registre de commerce sans formalités",
+        "isCorrect": false
+      },
+      {
+        "text": "Aller déposer ses papiers à la mairie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Depuis 2023, toutes les créations d’entreprises se font via le guichet unique en ligne géré par l’INPI.",
+    "helpNotes": [
+      "Guichet unique des formalités",
+      "INPI",
+      "Création d’entreprise"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bec",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un demandeur d’emploi inscrit à France Travail ne se présente pas à un entretien de suivi. Quelle peut être la conséquence ?",
+    "choices": [
+      {
+        "text": "Une suspension temporaire de son allocation chômage",
+        "isCorrect": true
+      },
+      {
+        "text": "Une amende administrative de 100 euros",
+        "isCorrect": false
+      },
+      {
+        "text": "Une radiation automatique sans recours possible",
+        "isCorrect": false
+      },
+      {
+        "text": "Aucune conséquence s’il a une excuse personnelle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’absence non justifiée à un rendez-vous France Travail peut entraîner une suspension temporaire du versement des allocations.",
+    "helpNotes": [
+      "France Travail",
+      "Obligations du demandeur d’emploi"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "choices": [
+      {
+        "text": "Préparer son CV et ses candidatures",
+        "isCorrect": true
+      },
+      {
+        "text": "Acheter une voiture",
+        "isCorrect": false
+      },
+      {
+        "text": "Changer de nationalité",
+        "isCorrect": false
+      },
+      {
+        "text": "Créer une entreprise immédiatement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour chercher un emploi, on commence généralement par préparer un CV et des candidatures (et se renseigner sur les offres).",
+    "helpNotes": [
+      "CV = base pour postuler",
+      "Candidatures et offres"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est aidé par France Travail ?",
+    "choices": [
+      {
+        "text": "Les personnes en recherche d’emploi",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les mineurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les retraités",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les touristes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "France Travail accompagne principalement les demandeurs d’emploi (informations, accompagnement, offres, démarches).",
+    "helpNotes": [
+      "France Travail = accompagnement vers l’emploi",
+      "Demandeurs d’emploi"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne étrangère en situation régulière peut créer son entreprise :",
+    "choices": [
+      {
+        "text": "Oui, selon les règles et autorisations nécessaires",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c’est interdit dans tous les cas",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement si elle est mineure",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement si elle est fonctionnaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Une personne étrangère en situation régulière peut créer une entreprise, sous réserve de respecter les démarches et conditions applicables.",
+    "helpNotes": [
+      "Situation régulière",
+      "Démarches administratives"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b309e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une femme peut-elle créer son entreprise ?",
+    "choices": [
+      {
+        "text": "Oui, comme un homme",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c’est interdit",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement avec l’accord de son employeur",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement après 50 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, les femmes ont les mêmes droits que les hommes pour créer une entreprise.",
+    "helpNotes": [
+      "Égalité femmes-hommes",
+      "Liberté d’entreprendre"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b300e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la mission de France Travail ?",
+    "choices": [
+      {
+        "text": "Aider les personnes à trouver un emploi et accompagner les demandeurs d’emploi",
+        "isCorrect": true
+      },
+      {
+        "text": "Contrôler uniquement les entreprises",
+        "isCorrect": false
+      },
+      {
+        "text": "Gérer les élections",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre la justice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "France Travail accompagne les demandeurs d’emploi et les entreprises, notamment pour l’insertion professionnelle.",
+    "helpNotes": [
+      "France Travail",
+      "Emploi",
+      "Accompagnement"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3011",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelles sont les conditions pour toucher les allocations chômage ?",
+    "choices": [
+      {
+        "text": "Avoir travaillé et remplir les conditions prévues par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Être étudiant",
+        "isCorrect": false
+      },
+      {
+        "text": "Être retraité",
+        "isCorrect": false
+      },
+      {
+        "text": "Ne jamais avoir travaillé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les allocations chômage sont versées sous conditions, notamment après une période de travail.",
+    "helpNotes": [
+      "Chômage",
+      "Conditions",
+      "Travail"
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd37dc",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel organisme public aide à la recherche d’emploi en France ?",
+    "choices": [
+      {
+        "text": "France Travail",
+        "isCorrect": true
+      },
+      {
+        "text": "L’URSSAF",
+        "isCorrect": false
+      },
+      {
+        "text": "La CAF",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Trésor public",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pôle emploi accompagne les demandeurs d’emploi et verse les allocations chômage.",
+    "helpNotes": [
+      "Inscription obligatoire pour percevoir des indemnités.",
+      "Propose des offres et formations professionnelles."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd37e5",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document est essentiel pour postuler à un emploi ?",
+    "choices": [
+      {
+        "text": "Le curriculum vitae (CV)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le passeport",
+        "isCorrect": false
+      },
+      {
+        "text": "Le livret de famille",
+        "isCorrect": false
+      },
+      {
+        "text": "Le relevé bancaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le CV présente le parcours, les compétences et les expériences du candidat.",
+    "helpNotes": [
+      "Souvent accompagné d’une lettre de motivation.",
+      "Doit être clair, à jour et adapté à l’offre visée."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd37ee",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel dispositif favorise la formation des salariés en entreprise ?",
+    "choices": [
+      {
+        "text": "Le compte personnel de formation (CPF)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le compte épargne-temps",
+        "isCorrect": false
+      },
+      {
+        "text": "Le plan d’épargne logement",
+        "isCorrect": false
+      },
+      {
+        "text": "La mutuelle santé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le CPF permet à chaque actif d’accumuler des droits à la formation tout au long de sa carrière.",
+    "helpNotes": [
+      "Les heures de formation sont converties en euros.",
+      "Accessible via le site moncompteformation.gouv.fr."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd37f7",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel statut permet de créer facilement une petite entreprise individuelle ?",
+    "choices": [
+      {
+        "text": "Le statut d’auto-entrepreneur",
+        "isCorrect": true
+      },
+      {
+        "text": "La société anonyme (SA)",
+        "isCorrect": false
+      },
+      {
+        "text": "La société en commandite",
+        "isCorrect": false
+      },
+      {
+        "text": "L’association loi 1901",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le statut d’auto-entrepreneur (micro-entrepreneur) facilite la création d’une activité indépendante.",
+    "helpNotes": [
+      "Procédure simplifiée et fiscalité allégée.",
+      "Immatriculation possible en ligne sur autoentrepreneur.urssaf.fr."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd3800",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document officiel doit être remis au salarié lors de la fin du contrat de travail ?",
+    "choices": [
+      {
+        "text": "Le certificat de travail",
+        "isCorrect": true
+      },
+      {
+        "text": "La déclaration fiscale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le permis de travail",
+        "isCorrect": false
+      },
+      {
+        "text": "Le contrat de location",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le certificat de travail atteste de la durée d’emploi et du poste occupé dans l’entreprise.",
+    "helpNotes": [
+      "Remis avec le solde de tout compte et l’attestation Pôle emploi.",
+      "Nécessaire pour justifier son expérience professionnelle."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd3887",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document prouve l’inscription d’une entreprise en France ?",
+    "choices": [
+      {
+        "text": "L’extrait Kbis",
+        "isCorrect": true
+      },
+      {
+        "text": "Le contrat de bail",
+        "isCorrect": false
+      },
+      {
+        "text": "Le relevé d’identité bancaire",
+        "isCorrect": false
+      },
+      {
+        "text": "La fiche de paie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’extrait Kbis est le document officiel attestant de l’existence légale d’une entreprise.",
+    "helpNotes": [
+      "Il est délivré par le greffe du tribunal de commerce.",
+      "Contient le numéro SIREN et la raison sociale."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd38ab",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel organisme collecte les cotisations sociales des indépendants ?",
+    "choices": [
+      {
+        "text": "L’URSSAF",
+        "isCorrect": true
+      },
+      {
+        "text": "Pôle emploi",
+        "isCorrect": false
+      },
+      {
+        "text": "La CAF",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Trésor public",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’URSSAF gère la collecte des cotisations sociales des entreprises et travailleurs indépendants.",
+    "helpNotes": [
+      "Elle finance la Sécurité sociale et les allocations familiales.",
+      "Les déclarations sont réalisées en ligne chaque trimestre ou mois."
+    ]
+  }
+]

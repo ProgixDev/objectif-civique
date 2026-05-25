@@ -1,0 +1,568 @@
+[
+  {
+    "id": "69416a5c48ffb722a33b2f67",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quoi sert un titre de séjour ?",
+    "choices": [
+      {
+        "text": "À prouver qu’on peut résider légalement en France (selon le type de titre)",
+        "isCorrect": true
+      },
+      {
+        "text": "À remplacer un passeport",
+        "isCorrect": false
+      },
+      {
+        "text": "À donner automatiquement la nationalité française",
+        "isCorrect": false
+      },
+      {
+        "text": "À faciliter certaines démarches selon le type de titre",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un titre de séjour atteste du droit de résider en France.",
+    "helpNotes": [
+      "Titre de séjour = séjour légal",
+      "Droits variables selon le titre"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912be9",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne étrangère obtient son premier titre de séjour et souhaite s’inscrire à la Sécurité sociale. Quelle condition doit-elle remplir ?",
+    "choices": [
+      {
+        "text": "Résider de manière stable et régulière en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoir un emploi à temps plein",
+        "isCorrect": false
+      },
+      {
+        "text": "Détenir un passeport européen",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir un revenu supérieur au SMIC",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour être affiliée à la Sécurité sociale, une personne doit résider de façon stable (au moins 3 mois) et régulière en France.",
+    "helpNotes": [
+      "Affiliation à l’assurance maladie",
+      "Résidence stable et régulière"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3092",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "choices": [
+      {
+        "text": "15",
+        "isCorrect": true
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "112",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le SAMU (urgence médicale) se contacte au 15. Le 112 est le numéro d’urgence européen.",
+    "helpNotes": [
+      "15 = SAMU",
+      "18 = pompiers"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3093",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+    "choices": [
+      {
+        "text": "18",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": false
+      },
+      {
+        "text": "114",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les pompiers se contactent au 18. Le 114 est un numéro d’urgence par SMS (notamment pour les personnes sourdes ou malentendantes).",
+    "helpNotes": [
+      "18 = pompiers",
+      "15 = SAMU",
+      "17 = police"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b3096",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quand faut-il déclarer son enfant au service d'état civil de la mairie ?",
+    "choices": [
+      {
+        "text": "Dans les jours qui suivent la naissance",
+        "isCorrect": true
+      },
+      {
+        "text": "À 18 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement lors de l’entrée à l’école",
+        "isCorrect": false
+      },
+      {
+        "text": "Ce n’est pas obligatoire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La naissance doit être déclarée à l’état civil de la mairie dans un délai légal après l’accouchement (rapidement après la naissance).",
+    "helpNotes": [
+      "Déclaration de naissance = obligatoire",
+      "À faire rapidement après la naissance"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a1",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu’est-ce qu’un numéro d’urgence ?",
+    "choices": [
+      {
+        "text": "Un numéro à composer en cas de danger ou d’urgence",
+        "isCorrect": true
+      },
+      {
+        "text": "Un numéro pour commander un repas",
+        "isCorrect": false
+      },
+      {
+        "text": "Un numéro pour payer ses impôts",
+        "isCorrect": false
+      },
+      {
+        "text": "Un numéro pour réserver un train",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un numéro d’urgence permet de joindre rapidement les services de secours en cas de danger, accident ou urgence.",
+    "helpNotes": [
+      "Exemples : 15, 17, 18, 112",
+      "À utiliser en cas d’urgence réelle"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b3001",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+    "choices": [
+      {
+        "text": "L’aide juridictionnelle",
+        "isCorrect": true
+      },
+      {
+        "text": "Le RSA",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte Vitale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le permis de conduire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’aide juridictionnelle permet, sous conditions de ressources, de prendre en charge tout ou partie des frais d’avocat.",
+    "helpNotes": [
+      "Aide juridictionnelle",
+      "Avocat"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b3002",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Où faut-il déclarer la naissance d'un enfant ?",
+    "choices": [
+      {
+        "text": "À la mairie (service état civil)",
+        "isCorrect": true
+      },
+      {
+        "text": "Au commissariat",
+        "isCorrect": false
+      },
+      {
+        "text": "À l’école",
+        "isCorrect": false
+      },
+      {
+        "text": "À la poste",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La naissance doit être déclarée à la mairie du lieu de naissance, dans les délais prévus.",
+    "helpNotes": [
+      "Déclaration de naissance",
+      "Mairie"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b3003",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+    "choices": [
+      {
+        "text": "Avoir l’âge requis",
+        "isCorrect": true
+      },
+      {
+        "text": "Être propriétaire d’une voiture",
+        "isCorrect": false
+      },
+      {
+        "text": "Être marié",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir déjà un permis étranger obligatoire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour passer le permis, il faut notamment respecter des conditions comme l’âge minimum requis.",
+    "helpNotes": [
+      "Permis de conduire",
+      "Âge minimum",
+      "Examen"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3005",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Où peut-on déposer un lave-vaisselle cassé ?",
+    "choices": [
+      {
+        "text": "À la déchèterie",
+        "isCorrect": true
+      },
+      {
+        "text": "Dans la rue",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans une rivière",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans une poubelle classique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les appareils électroménagers usagés doivent être déposés en déchèterie ou repris par un distributeur.",
+    "helpNotes": [
+      "Déchets",
+      "Déchèterie",
+      "Électroménager"
+    ]
+  },
+  {
+    "id": "690745c6bf88e35210cd36fb",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle démarche est obligatoire pour toute personne qui emménage en France ?",
+    "choices": [
+      {
+        "text": "Déclarer son changement d’adresse",
+        "isCorrect": true
+      },
+      {
+        "text": "Changer de passeport",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtenir un permis de conduire",
+        "isCorrect": false
+      },
+      {
+        "text": "Souscrire une carte bancaire française",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tout résident doit signaler son changement d’adresse à l’administration pour rester en règle.",
+    "helpNotes": [
+      "La déclaration peut se faire en ligne sur service-public.fr.",
+      "Cela permet la bonne réception du courrier administratif."
+    ]
+  },
+  {
+    "id": "690745c6bf88e35210cd3704",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle assurance est obligatoire pour un locataire en France ?",
+    "choices": [
+      {
+        "text": "L’assurance responsabilité civile",
+        "isCorrect": true
+      },
+      {
+        "text": "L’assurance automobile",
+        "isCorrect": false
+      },
+      {
+        "text": "L’assurance vie",
+        "isCorrect": false
+      },
+      {
+        "text": "L’assurance santé privée",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tout locataire doit souscrire une assurance responsabilité civile couvrant les dommages au logement.",
+    "helpNotes": [
+      "Une attestation est souvent demandée par le propriétaire.",
+      "Elle protège contre les sinistres et accidents domestiques."
+    ]
+  },
+  {
+    "id": "690745c6bf88e35210cd370d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Où peut-on déclarer ses revenus en France ?",
+    "choices": [
+      {
+        "text": "Sur le site impots.gouv.fr",
+        "isCorrect": true
+      },
+      {
+        "text": "À la mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Au consulat",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La déclaration des revenus se fait chaque année en ligne sur le portail officiel des impôts.",
+    "helpNotes": [
+      "Obligatoire pour toute personne résidant fiscalement en France.",
+      "Permet le calcul de l’impôt sur le revenu."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3716",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document permet de prouver l'identité d'un citoyen français ?",
+    "choices": [
+      {
+        "text": "La carte nationale d’identité",
+        "isCorrect": true
+      },
+      {
+        "text": "Le permis de conduire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le passeport étranger",
+        "isCorrect": false
+      },
+      {
+        "text": "Le livret de famille",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La carte nationale d’identité prouve l’identité et la nationalité françaises.",
+    "helpNotes": [
+      "Gratuite et valable 10 à 15 ans selon l’âge du titulaire.",
+      "Permet de voyager dans l’Union européenne."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd3863",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pourquoi est-il important de déclarer son changement d’adresse aux administrations ?",
+    "choices": [
+      {
+        "text": "Pour recevoir le courrier officiel et mettre à jour ses droits",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour payer moins d’impôts",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour obtenir un nouveau passeport",
+        "isCorrect": false
+      },
+      {
+        "text": "Ce n’est pas obligatoire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La déclaration de changement d’adresse garantit la continuité des démarches administratives et fiscales.",
+    "helpNotes": [
+      "Peut être effectuée en ligne sur service-public.fr.",
+      "Permet d’éviter les pertes de documents importants."
+    ]
+  },
+  {
+    "id": "691ca46c1de1da18eed4dd90",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un titulaire de titre de séjour change d’adresse. Que doit-il faire ?",
+    "choices": [
+      {
+        "text": "Déclarer son changement d’adresse selon la procédure prévue",
+        "isCorrect": true
+      },
+      {
+        "text": "Le changement est automatique",
+        "isCorrect": false
+      },
+      {
+        "text": "La déclaration est facultative",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un changement d’adresse doit être déclaré pour garder son titre de séjour conforme.",
+    "helpNotes": []
+  },
+  {
+    "id": "694ef47b610d4109b1ed174b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le stationnement sur une place réservée aux personnes handicapées :",
+    "choices": [
+      {
+        "text": "Est autorisé pour quelques minutes",
+        "isCorrect": false
+      },
+      {
+        "text": "Est toléré en l’absence de contrôle",
+        "isCorrect": false
+      },
+      {
+        "text": "Est interdit et sanctionné par la loi",
+        "isCorrect": true
+      },
+      {
+        "text": "Est autorisé le soir et le week-end",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les places réservées aux personnes handicapées sont strictement protégées. Y stationner sans autorisation est interdit et entraîne une amende, voire une mise en fourrière.",
+    "helpNotes": []
+  },
+  {
+    "id": "694ef5a4610d4109b1eda90e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+    "choices": [
+      {
+        "text": "Lorsqu’il change d’école",
+        "isCorrect": false
+      },
+      {
+        "text": "Lorsqu’il reçoit ses premiers vaccins",
+        "isCorrect": false
+      },
+      {
+        "text": "Lorsqu’un enfant vient de naître",
+        "isCorrect": true
+      },
+      {
+        "text": "Lorsqu’il entre à l’école maternelle",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La déclaration de naissance doit être faite au service d’état civil dans les jours suivant la naissance. Elle est obligatoire pour établir l’acte de naissance et l’identité de l’enfant.",
+    "helpNotes": []
+  }
+]

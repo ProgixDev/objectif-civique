@@ -1,0 +1,807 @@
+[
+  {
+    "id": "69416a5c48ffb722a33b2f6e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+    "choices": [
+      {
+        "text": "Non, l’école applique les règles communes et les enseignements sont obligatoires",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, c’est toujours possible sans justification",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si l’enfant le demande",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si la classe est trop nombreuse",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les enseignements scolaires font partie du programme. Des aménagements existent surtout pour raisons médicales.",
+    "helpNotes": [
+      "École = règles communes",
+      "Dispense surtout médicale"
+    ]
+  },
+  {
+    "id": "692c356d32a2815c0b7f3c6b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Des parents refusent que leur enfant participe aux cours d’éducation morale et civique pour des raisons religieuses. Quelle est la règle ?",
+    "choices": [
+      {
+        "text": "Les cours sont obligatoires pour tous les élèves",
+        "isCorrect": true
+      },
+      {
+        "text": "Les parents peuvent choisir les cours à suivre",
+        "isCorrect": false
+      },
+      {
+        "text": "L’école peut adapter le programme à chaque religion",
+        "isCorrect": false
+      },
+      {
+        "text": "Les parents peuvent retirer l’enfant de la classe",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’éducation morale et civique fait partie du programme obligatoire et vise à transmettre les valeurs républicaines.",
+    "helpNotes": [
+      "Code de l’éducation",
+      "Principe de laïcité à l’école"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bed",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un parent refuse de laisser son enfant participer aux cours de natation à l’école. Quelle est la règle ?",
+    "choices": [
+      {
+        "text": "La natation fait partie des enseignements obligatoires",
+        "isCorrect": true
+      },
+      {
+        "text": "Les parents peuvent refuser sans justification",
+        "isCorrect": false
+      },
+      {
+        "text": "Le refus est autorisé pour motifs religieux",
+        "isCorrect": false
+      },
+      {
+        "text": "L’école doit remplacer le cours par une autre activité",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les cours de sport, y compris la natation, sont obligatoires. Seul un motif médical justifie une dispense.",
+    "helpNotes": [
+      "Instruction obligatoire",
+      "Éducation physique et sportive (EPS)"
+    ]
+  },
+  {
+    "id": "69416a6348ffb722a33b2fff",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+    "choices": [
+      {
+        "text": "La mairie",
+        "isCorrect": true
+      },
+      {
+        "text": "Le tribunal",
+        "isCorrect": false
+      },
+      {
+        "text": "La banque",
+        "isCorrect": false
+      },
+      {
+        "text": "La préfecture uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inscription administrative à l’école publique se fait généralement en mairie, qui indique ensuite l’école de secteur.",
+    "helpNotes": [
+      "Inscription école",
+      "Mairie"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "choices": [
+      {
+        "text": "Jusqu’à 16 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "Jusqu’à 12 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Jusqu’à 18 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle n’est pas obligatoire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, l’instruction est obligatoire jusqu’à 16 ans.",
+    "helpNotes": [
+      "Obligation jusqu’à 16 ans",
+      "Instruction obligatoire"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30aa",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pour qui l'école est-elle obligatoire ?",
+    "choices": [
+      {
+        "text": "Pour tous les enfants résidant en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement pour les garçons",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement pour les Français",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement à partir de 12 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’instruction est obligatoire pour tous les enfants résidant en France, quels que soient leur nationalité ou leur situation.",
+    "helpNotes": [
+      "Obligation = tous les enfants",
+      "Résidant en France"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30ab",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel diplôme obtient-on à la fin du lycée ?",
+    "choices": [
+      {
+        "text": "Le baccalauréat",
+        "isCorrect": true
+      },
+      {
+        "text": "Le brevet",
+        "isCorrect": false
+      },
+      {
+        "text": "Le CAP petite enfance (automatiquement)",
+        "isCorrect": false
+      },
+      {
+        "text": "Le doctorat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "À la fin du lycée, on peut obtenir le baccalauréat (selon la filière et la réussite à l’examen).",
+    "helpNotes": [
+      "Fin du lycée = bac",
+      "Brevet = fin collège"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30ac",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+    "choices": [
+      {
+        "text": "Au collège",
+        "isCorrect": true
+      },
+      {
+        "text": "À l’université",
+        "isCorrect": false
+      },
+      {
+        "text": "À la mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Au tribunal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Après l’école élémentaire, les élèves entrent au collège.",
+    "helpNotes": [
+      "École élémentaire → collège",
+      "Collège → lycée"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30ad",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pour qui l'école est elle obligatoire ?",
+    "choices": [
+      {
+        "text": "Pour tous les enfants résidant en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Seulement pour les enfants nés en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement pour les enfants de moins de 10 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement pour les enfants dont les parents travaillent",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’obligation d’instruction concerne tous les enfants résidant en France, sans condition de nationalité.",
+    "helpNotes": [
+      "Tous les enfants",
+      "Résidence en France"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30ae",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un enfant inscrit à l'école :",
+    "choices": [
+      {
+        "text": "Doit la fréquenter régulièrement",
+        "isCorrect": true
+      },
+      {
+        "text": "Peut y aller seulement quand il veut",
+        "isCorrect": false
+      },
+      {
+        "text": "N’a jamais de devoirs",
+        "isCorrect": false
+      },
+      {
+        "text": "Peut refuser d’apprendre à lire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lorsqu’un enfant est inscrit, il doit suivre la scolarité et respecter les règles de l’établissement (assiduité, ponctualité, etc.).",
+    "helpNotes": [
+      "Assiduité scolaire",
+      "Règles de l’établissement"
+    ]
+  },
+  {
+    "id": "69416a8748ffb722a33b30af",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Les enfants qui ne parlent pas français :",
+    "choices": [
+      {
+        "text": "Peuvent être scolarisés et bénéficier d’un accompagnement",
+        "isCorrect": true
+      },
+      {
+        "text": "Ne peuvent pas aller à l’école",
+        "isCorrect": false
+      },
+      {
+        "text": "Doivent attendre d’être adultes",
+        "isCorrect": false
+      },
+      {
+        "text": "Sont automatiquement exclus",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les enfants allophones peuvent être scolarisés en France et bénéficier de dispositifs d’accompagnement pour apprendre le français.",
+    "helpNotes": [
+      "Scolarisation possible",
+      "Accompagnement pour apprendre le français"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3012",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu'est-ce que l'école maternelle ?",
+    "choices": [
+      {
+        "text": "La première étape de la scolarité des enfants",
+        "isCorrect": true
+      },
+      {
+        "text": "Une école réservée aux adolescents",
+        "isCorrect": false
+      },
+      {
+        "text": "Une formation professionnelle",
+        "isCorrect": false
+      },
+      {
+        "text": "Une université",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’école maternelle accueille les jeunes enfants avant l’école élémentaire.",
+    "helpNotes": [
+      "École maternelle",
+      "Scolarité",
+      "Enfants"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3013",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+    "choices": [
+      {
+        "text": "Le diplôme national du brevet",
+        "isCorrect": true
+      },
+      {
+        "text": "Le baccalauréat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le CAP",
+        "isCorrect": false
+      },
+      {
+        "text": "La licence",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le diplôme national du brevet est passé à la fin du collège.",
+    "helpNotes": [
+      "Brevet",
+      "Collège",
+      "Diplôme"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3015",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut manger à la cantine scolaire ?",
+    "choices": [
+      {
+        "text": "Tous les élèves inscrits",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les élèves étrangers",
+        "isCorrect": false
+      },
+      {
+        "text": "Seulement les élèves boursiers",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les élèves internes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La cantine est accessible à tous les élèves inscrits, selon l’organisation locale.",
+    "helpNotes": [
+      "Cantine",
+      "École",
+      "Élèves"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3016",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quel âge commence l'instruction obligatoire des enfants ?",
+    "choices": [
+      {
+        "text": "À 3 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "À 6 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "À 10 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "À la naissance",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, l’instruction est obligatoire à partir de 3 ans.",
+    "helpNotes": [
+      "Instruction obligatoire",
+      "3 ans"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3018",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À l'école, il est interdit aux parents de :",
+    "choices": [
+      {
+        "text": "Contester les règles de l’établissement par la violence",
+        "isCorrect": true
+      },
+      {
+        "text": "Rencontrer les enseignants",
+        "isCorrect": false
+      },
+      {
+        "text": "S’informer sur la scolarité",
+        "isCorrect": false
+      },
+      {
+        "text": "Participer aux réunions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les parents doivent respecter les règles et l’autorité de l’établissement scolaire.",
+    "helpNotes": [
+      "École",
+      "Règles",
+      "Parents"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3019",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel motif d'absence est accepté par l'école ?",
+    "choices": [
+      {
+        "text": "La maladie de l’enfant",
+        "isCorrect": true
+      },
+      {
+        "text": "Un simple oubli sans justification",
+        "isCorrect": false
+      },
+      {
+        "text": "Un voyage non autorisé",
+        "isCorrect": false
+      },
+      {
+        "text": "Le refus d’aller à l’école",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les absences doivent être justifiées, par exemple en cas de maladie.",
+    "helpNotes": [
+      "Absence scolaire",
+      "Justification"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b301b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quand ont lieu les vacances scolaires de Noël ?",
+    "choices": [
+      {
+        "text": "Fin décembre et début janvier",
+        "isCorrect": true
+      },
+      {
+        "text": "Au mois de février",
+        "isCorrect": false
+      },
+      {
+        "text": "En été",
+        "isCorrect": false
+      },
+      {
+        "text": "Au printemps",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les vacances de Noël ont lieu fin décembre et début janvier.",
+    "helpNotes": [
+      "Vacances scolaires",
+      "Noël",
+      "Calendrier"
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd3836",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quels sont les principaux niveaux du système éducatif français ?",
+    "choices": [
+      {
+        "text": "Maternelle, primaire, collège, lycée, supérieur",
+        "isCorrect": true
+      },
+      {
+        "text": "École, armée, université",
+        "isCorrect": false
+      },
+      {
+        "text": "Primaire et université uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Collège et lycée uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le système éducatif comprend plusieurs étapes progressives de la maternelle au supérieur.",
+    "helpNotes": [
+      "La maternelle débute dès 3 ans.",
+      "L’enseignement supérieur comprend universités et grandes écoles."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd383f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui définit les programmes scolaires en France ?",
+    "choices": [
+      {
+        "text": "Le ministère de l’Éducation nationale",
+        "isCorrect": true
+      },
+      {
+        "text": "Les mairies",
+        "isCorrect": false
+      },
+      {
+        "text": "Les parents d’élèves",
+        "isCorrect": false
+      },
+      {
+        "text": "Les enseignants individuellement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les programmes et les examens sont fixés au niveau national par le ministère de l’Éducation.",
+    "helpNotes": [
+      "Cela garantit l’égalité entre les élèves.",
+      "Les enseignants doivent les appliquer dans leurs classes."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd3848",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle des parents dans la scolarité de leur enfant ?",
+    "choices": [
+      {
+        "text": "Soutenir et suivre la progression scolaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Remplacer l’enseignant",
+        "isCorrect": false
+      },
+      {
+        "text": "Évaluer les examens",
+        "isCorrect": false
+      },
+      {
+        "text": "Décider des notes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les parents accompagnent la scolarité de leur enfant et collaborent avec l’équipe éducative.",
+    "helpNotes": [
+      "Ils participent aux réunions et au suivi via les outils numériques.",
+      "Le dialogue école-famille favorise la réussite scolaire."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd3851",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle valeur fondamentale l’école publique française transmet-elle ?",
+    "choices": [
+      {
+        "text": "La laïcité",
+        "isCorrect": true
+      },
+      {
+        "text": "La neutralité politique",
+        "isCorrect": false
+      },
+      {
+        "text": "La tradition religieuse",
+        "isCorrect": false
+      },
+      {
+        "text": "Le service militaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’école publique est laïque : elle transmet des savoirs communs sans référence religieuse.",
+    "helpNotes": [
+      "Principe inscrit dans la loi de 1905 et le Code de l’éducation.",
+      "Les élèves doivent respecter la neutralité religieuse à l’école."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd385a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel diplôme valide la fin du collège en France ?",
+    "choices": [
+      {
+        "text": "Le diplôme national du brevet",
+        "isCorrect": true
+      },
+      {
+        "text": "Le baccalauréat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le certificat d’études primaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Le CAP",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le diplôme national du brevet évalue les connaissances acquises à la fin du collège.",
+    "helpNotes": [
+      "Il comprend des épreuves écrites et le contrôle continu.",
+      "Il n’est pas obligatoire pour poursuivre au lycée."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd387e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle institution contrôle les écoles publiques et privées sous contrat ?",
+    "choices": [
+      {
+        "text": "Le rectorat et l’inspection académique",
+        "isCorrect": true
+      },
+      {
+        "text": "Les mairies uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Le ministère du Travail",
+        "isCorrect": false
+      },
+      {
+        "text": "Les associations de parents d’élèves",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les rectorats veillent au respect des programmes et de la réglementation éducative.",
+    "helpNotes": [
+      "Les inspecteurs vérifient la qualité de l’enseignement.",
+      "Les écoles privées hors contrat ne sont pas sous la tutelle directe du rectorat."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd38b4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle instance représente les parents d’élèves dans les établissements scolaires ?",
+    "choices": [
+      {
+        "text": "Le conseil d’école ou le conseil d’administration",
+        "isCorrect": true
+      },
+      {
+        "text": "Le rectorat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le conseil municipal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le syndicat des enseignants",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les représentants des parents siègent dans les conseils pour participer à la vie de l’établissement.",
+    "helpNotes": [
+      "Ils peuvent voter sur certaines décisions scolaires.",
+      "Leur participation favorise le lien entre familles et école."
+    ]
+  }
+]

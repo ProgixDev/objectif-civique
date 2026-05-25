@@ -1,0 +1,6199 @@
+[
+  {
+    "question": {
+      "id": "b267fee8488e0cfad84e2f17",
+      "shortId": "Q-4E2F17",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quel numéro d'urgence permet d'appeler le SAMU ?</p>\n",
+      "choices": [
+        {
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "text": "17",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4cec762da6c07e3febdbc766",
+      "shortId": "Q-DBC766",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel numéro d'urgence permet d'appeler les pompiers ?</p>\n",
+      "choices": [
+        {
+          "text": "18",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "17",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8bcb82322fc16ac241570118",
+      "shortId": "Q-570118",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À quelles conditions un mariage est-il reconnu juridiquement en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Célébration civile en mairie obligatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement le mariage religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Cérémonie à l'étranger sans formalité",
+          "isCorrect": false
+        },
+        {
+          "text": "Accord oral entre les deux personnes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e5d71bd70ccc04d9424159b6",
+      "shortId": "Q-4159B6",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quand faut-il déclarer son enfant au service d'état civil de la mairie ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans les 5 jours suivant la naissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans le mois suivant",
+          "isCorrect": false
+        },
+        {
+          "text": "À 1 an",
+          "isCorrect": false
+        },
+        {
+          "text": "Avant l'entrée à l'école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e9d1c9aa5c138c05c326d32b",
+      "shortId": "Q-26D32B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Le travail non déclaré est :</p>\n",
+      "choices": [
+        {
+          "text": "Illégal pour l'employeur et le salarié",
+          "isCorrect": true
+        },
+        {
+          "text": "Autorisé pour les petits travaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Toléré dans le secteur agricole",
+          "isCorrect": false
+        },
+        {
+          "text": "Légal si le montant est faible",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d91b9803f72b4723ff3ecda2",
+      "shortId": "Q-3ECDA2",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le SMIC ?</p>\n",
+      "choices": [
+        {
+          "text": "Le salaire minimum légal en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Le salaire maximum dans la fonction publique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide sociale pour les chômeurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Un impôt sur les bas salaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a378a3e7db15395428571dd7",
+      "shortId": "Q-571DD7",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la première démarche à réaliser pour chercher un emploi ?</p>\n",
+      "choices": [
+        {
+          "text": "S'inscrire à France Travail",
+          "isCorrect": true
+        },
+        {
+          "text": "Contacter directement toutes les entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Passer un concours",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre une offre d'emploi",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "20604d6b0bd98ac3f6cd4eee",
+      "shortId": "Q-CD4EEE",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée légale du temps de travail par semaine ?</p>\n",
+      "choices": [
+        {
+          "text": "35 heures",
+          "isCorrect": true
+        },
+        {
+          "text": "40 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "39 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "45 heures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8be013098dd5511d3903b43d",
+      "shortId": "Q-03B43D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est aidé par France Travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Les personnes à la recherche d'un emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Les retraités",
+          "isCorrect": false
+        },
+        {
+          "text": "Les étudiants",
+          "isCorrect": false
+        },
+        {
+          "text": "Les fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "325c30246824da97864c8127",
+      "shortId": "Q-4C8127",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Une personne étrangère en situation régulière peut créer son entreprise :</p>\n",
+      "choices": [
+        {
+          "text": "Oui, dans les mêmes conditions qu'un Français",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, réservé aux Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, après 5 ans de résidence",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf secteurs autorisés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "53e1330a4fba0c3974997f9e",
+      "shortId": "Q-997F9E",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Une femme peut-elle créer son entreprise ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, les mêmes droits s'appliquent aux hommes et aux femmes",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, elle doit avoir l'autorisation de son mari",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, seulement en micro-entreprise",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf dans certains secteurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d0982386f94f52a717e5fd7d",
+      "shortId": "Q-E5FD7D",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Auprès de quel organisme faut-il demander le remboursement des frais de santé ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Assurance maladie (CPAM)",
+          "isCorrect": true
+        },
+        {
+          "text": "La mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le médecin directement",
+          "isCorrect": false
+        },
+        {
+          "text": "L'hôpital",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7fdd15a5b9ec0843e1fe8f64",
+      "shortId": "Q-FE8F64",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'un numéro d'urgence ?</p>\n",
+      "choices": [
+        {
+          "text": "Un numéro gratuit disponible 24h/24 pour les situations d'urgence",
+          "isCorrect": true
+        },
+        {
+          "text": "Un numéro payant pour les services médicaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro réservé aux fonctionnaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro disponible uniquement en journée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ff4751ce19249aaddd33abef",
+      "shortId": "Q-33ABEF",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?</p>\n",
+      "choices": [
+        {
+          "text": "À son médecin traitant",
+          "isCorrect": true
+        },
+        {
+          "text": "Aux urgences hospitalières",
+          "isCorrect": false
+        },
+        {
+          "text": "Au SAMU",
+          "isCorrect": false
+        },
+        {
+          "text": "À la pharmacie directement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d64209998d025b578469c511",
+      "shortId": "Q-69C511",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle du médecin traitant ?</p>\n",
+      "choices": [
+        {
+          "text": "Assurer le suivi médical et coordonner les spécialistes",
+          "isCorrect": true
+        },
+        {
+          "text": "Réaliser toutes les opérations chirurgicales",
+          "isCorrect": false
+        },
+        {
+          "text": "Décider des hospitalisations d'urgence",
+          "isCorrect": false
+        },
+        {
+          "text": "Prescrire uniquement des médicaments",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f03bbaf1d537c63a73fd03dc",
+      "shortId": "Q-FD03DC",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?</p>\n",
+      "choices": [
+        {
+          "text": "En cas de problème de santé grave et urgent",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour tout problème de santé",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour obtenir des médicaments sans ordonnance",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour un bilan de santé annuel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5358cf8b948723bb2d50a284",
+      "shortId": "Q-50A284",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est l'objectif des vaccinations obligatoires ?</p>\n",
+      "choices": [
+        {
+          "text": "Protéger la santé individuelle et collective",
+          "isCorrect": true
+        },
+        {
+          "text": "Générer des revenus pour les laboratoires",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler la population",
+          "isCorrect": false
+        },
+        {
+          "text": "Tester de nouveaux médicaments",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ba5b08e5f373512b71d1814f",
+      "shortId": "Q-D1814F",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>À quoi sert la carte Vitale ?</p>\n",
+      "choices": [
+        {
+          "text": "À accéder aux remboursements de l'Assurance maladie",
+          "isCorrect": true
+        },
+        {
+          "text": "À voter aux élections",
+          "isCorrect": false
+        },
+        {
+          "text": "À entrer dans les administrations",
+          "isCorrect": false
+        },
+        {
+          "text": "À prouver son identité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5534735628135613a59596a5",
+      "shortId": "Q-9596A5",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>À quoi sert une mutuelle santé ?</p>\n",
+      "choices": [
+        {
+          "text": "À compléter les remboursements de l'Assurance maladie",
+          "isCorrect": true
+        },
+        {
+          "text": "À remplacer l'Assurance maladie",
+          "isCorrect": false
+        },
+        {
+          "text": "À payer ses impôts",
+          "isCorrect": false
+        },
+        {
+          "text": "À financer sa retraite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e99b9db65084743ead37c6ae",
+      "shortId": "Q-37C6AE",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Jusqu'à quel âge l'école est-elle obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "14 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "15 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c55fd778a4ffb235541626ee",
+      "shortId": "Q-1626EE",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>L'autorité parentale prévoit l'obligation :</p>\n",
+      "choices": [
+        {
+          "text": "De protéger, éduquer et entretenir ses enfants mineurs",
+          "isCorrect": true
+        },
+        {
+          "text": "De choisir la religion de ses enfants",
+          "isCorrect": false
+        },
+        {
+          "text": "De décider du métier de ses enfants",
+          "isCorrect": false
+        },
+        {
+          "text": "De gérer les finances de ses enfants à vie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "91e949edb3a7ee032f91ebb3",
+      "shortId": "Q-91EBB3",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour qui l'école est-elle obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les enfants de 3 à 16 ans résidant en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les enfants français",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les enfants en bonne santé",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les enfants de plus de 6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ce6be7276042e7d14514aa35",
+      "shortId": "Q-14AA35",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel diplôme obtient-on à la fin du lycée ?</p>\n",
+      "choices": [
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": true
+        },
+        {
+          "text": "Le brevet des collèges",
+          "isCorrect": false
+        },
+        {
+          "text": "La licence",
+          "isCorrect": false
+        },
+        {
+          "text": "Le CAP",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6371832e9aaf06490304ba2f",
+      "shortId": "Q-04BA2F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Dans quels établissements scolaires vont les élèves après l'école élémentaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Au collège",
+          "isCorrect": true
+        },
+        {
+          "text": "Au lycée",
+          "isCorrect": false
+        },
+        {
+          "text": "À l'université",
+          "isCorrect": false
+        },
+        {
+          "text": "Au lycée professionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ba0bb2659e08f569ae3ac085",
+      "shortId": "Q-3AC085",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Un enfant inscrit à l'école :</p>\n",
+      "choices": [
+        {
+          "text": "Doit respecter le règlement intérieur et fréquenter régulièrement",
+          "isCorrect": true
+        },
+        {
+          "text": "Peut partir quand il le souhaite",
+          "isCorrect": false
+        },
+        {
+          "text": "N'est pas obligé de suivre tous les cours",
+          "isCorrect": false
+        },
+        {
+          "text": "Peut refuser certains enseignements",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "de5b2b462f7216d9b773e695",
+      "shortId": "Q-73E695",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Les enfants qui ne parlent pas français :</p>\n",
+      "choices": [
+        {
+          "text": "Ont droit à un accompagnement linguistique spécifique à l'école",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne peuvent pas être scolarisés",
+          "isCorrect": false
+        },
+        {
+          "text": "Doivent apprendre seuls",
+          "isCorrect": false
+        },
+        {
+          "text": "Sont placés dans des classes séparées définitivement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "650feec618ff7aa73ffa091c",
+      "shortId": "Q-FA091C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle est la durée légale du travail par semaine en France ?</p>\n",
+      "choices": [
+        {
+          "text": "35 heures",
+          "isCorrect": true
+        },
+        {
+          "text": "38 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "40 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "45 heures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6d44e5e3c3ab33554937a938",
+      "shortId": "Q-37A938",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Jusqu'à quel âge l'école est-elle obligatoire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "14 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1a2c99f7a98166c50d609e46",
+      "shortId": "Q-609E46",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour qui l'école est-elle obligatoire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour les enfants de 6 à 16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour tous les enfants de 3 à 18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour les enfants de nationalité française uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour les enfants entre 6 et 14 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9ed52063bdd07324835cd974",
+      "shortId": "Q-5CD974",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le numéro d'urgence de la police ?</p>\n",
+      "choices": [
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "17",
+          "isCorrect": true
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c2a2d9296ec7882f3713dde0",
+      "shortId": "Q-13DDE0",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le numéro d'urgence européen ?</p>\n",
+      "choices": [
+        {
+          "text": "110",
+          "isCorrect": false
+        },
+        {
+          "text": "114",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": true
+        },
+        {
+          "text": "119",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "37faf09fc2d969e5ae49b1c4",
+      "shortId": "Q-49B1C4",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que France Travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Un syndicat de travailleurs",
+          "isCorrect": false
+        },
+        {
+          "text": "L'organisme public d'accompagnement des demandeurs d'emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Une agence d'intérim",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service de l'impôt sur le revenu",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "301a0d66aa2efce51e0129ee",
+      "shortId": "Q-0129EE",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Un enfant qui ne parle pas français peut-il être refusé à l'école ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, jusqu'à ce qu'il apprenne le français",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, l'école accueille tous les enfants",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement s'il vient d'un pays non européen",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, dans les écoles privées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "46b4d08eaac41e7bcc86b99d",
+      "shortId": "Q-86B99D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À quel âge peut-on commencer à travailler en France ?</p>\n",
+      "choices": [
+        {
+          "text": "14 ans avec autorisation parentale pour certains emplois",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "12 ans pour les petits boulots",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "04295c0ca93ff9652dbd3a7b",
+      "shortId": "Q-BD3A7B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Où s'inscrit-on pour voter aux élections en France ?</p>\n",
+      "choices": [
+        {
+          "text": "À la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "À la mairie",
+          "isCorrect": true
+        },
+        {
+          "text": "Au tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "En ligne uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1f288656be7838d52c83b942",
+      "shortId": "Q-83B942",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le Baccalauréat ?</p>\n",
+      "choices": [
+        {
+          "text": "Un diplôme de fin de collège",
+          "isCorrect": false
+        },
+        {
+          "text": "Un diplôme universitaire de licence",
+          "isCorrect": false
+        },
+        {
+          "text": "Le diplôme national de fin de lycée",
+          "isCorrect": true
+        },
+        {
+          "text": "Un certificat d'aptitude professionnelle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "17efbd10d0b9275068d5d9bd",
+      "shortId": "Q-D5D9BD",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Comment déclarer ses impôts en France ?</p>\n",
+      "choices": [
+        {
+          "text": "À la mairie uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Auprès des impôts (DGFiP) chaque année",
+          "isCorrect": true
+        },
+        {
+          "text": "Automatiquement sans rien faire",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement si on le souhaite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d7e39a787435447a85ef2252",
+      "shortId": "Q-EF2252",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel diplôme obtient-on à la fin du collège ?</p>\n",
+      "choices": [
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le BEP",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Diplôme National du Brevet (DNB)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le CAP",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d070317ca7d085d4389e6f4c",
+      "shortId": "Q-9E6F4C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que l'autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de punir ses enfants",
+          "isCorrect": false
+        },
+        {
+          "text": "L'ensemble des droits et devoirs des parents envers leurs enfants mineurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de choisir la nationalité de son enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "L'autorisation d'inscrire un enfant à l'école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "52524d424e21b4e5ace43fb9",
+      "shortId": "Q-E43FB9",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'une mutuelle santé ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Assurance maladie publique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une assurance complémentaire qui complète les remboursements de la Sécu",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service d'aide sociale",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service hospitalier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "de3dc490ff65d22532190a74",
+      "shortId": "Q-190A74",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quand faut-il déclarer une naissance en mairie ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans les 24 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les 5 jours suivant la naissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans le mois",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans l'année",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e12fceeaf58b95b5b462724b",
+      "shortId": "Q-62724B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que les 'prestations familiales' en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Des aides aux entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Des aides financières versées par la CAF pour soutenir les familles (allocations familiales, APL, etc.)",
+          "isCorrect": true
+        },
+        {
+          "text": "Des réductions d'impôts uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Des allocations chômage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "958a122618809788686a6ca6",
+      "shortId": "Q-6A6CA6",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que l'assurance responsabilité civile ?</p>\n",
+      "choices": [
+        {
+          "text": "Une assurance maladie",
+          "isCorrect": false
+        },
+        {
+          "text": "Une assurance qui couvre les dommages que vous pourriez causer à autrui",
+          "isCorrect": true
+        },
+        {
+          "text": "Une assurance chômage",
+          "isCorrect": false
+        },
+        {
+          "text": "Une assurance vie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "149728558663deb54cffbf86",
+      "shortId": "Q-FFBF86",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le permis de conduire 'à points' ?</p>\n",
+      "choices": [
+        {
+          "text": "Un permis qui s'achète",
+          "isCorrect": false
+        },
+        {
+          "text": "Un permis dont le titulaire commence avec 12 points pouvant être retirés en cas d'infractions",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis valable seulement 10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Un permis uniquement pour les jeunes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "25bfa0748a9ca1d0a0fb382c",
+      "shortId": "Q-FB382C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Dans quelles situations doit-on appeler les urgences ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour toute question médicale",
+          "isCorrect": false
+        },
+        {
+          "text": "En cas de danger immédiat pour la vie, d'accident grave ou de catastrophe",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour avoir des informations sur un médicament",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour prendre rendez-vous chez un médecin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d9e415d32002ce3b344ab1f5",
+      "shortId": "Q-4AB1F5",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'une carte nationale d'identité (CNI) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un document réservé aux étrangers",
+          "isCorrect": false
+        },
+        {
+          "text": "Un document officiel prouvant l'identité et la nationalité française",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis de conduire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un passeport simplifié",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e6fd4341151f42b9d2c39bd",
+      "shortId": "Q-2C39BD",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que l'école maternelle en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Une école payante pour les tout-petits",
+          "isCorrect": false
+        },
+        {
+          "text": "L'école publique gratuite accueillant les enfants de 3 à 6 ans, obligatoire depuis 2019",
+          "isCorrect": true
+        },
+        {
+          "text": "Une crèche",
+          "isCorrect": false
+        },
+        {
+          "text": "Une école primaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "08526b8617e76c3305009c93",
+      "shortId": "Q-009C93",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le numéro de Sécurité sociale ?</p>\n",
+      "choices": [
+        {
+          "text": "Un numéro de carte d'identité",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro personnel à 15 chiffres identifiant chaque assuré social en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Un numéro de compte bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro d'électeur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1d03425e3f19eedd25c1c779",
+      "shortId": "Q-C1C779",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'une APL (Aide Personnalisée au Logement) ?</p>\n",
+      "choices": [
+        {
+          "text": "Une aide pour acheter un logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide mensuelle de la CAF pour réduire le montant du loyer ou du remboursement de prêt immobilier",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide aux propriétaires bailleurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide uniquement pour les sans-abri",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3f14b9dd3c72c4331a57a7dd",
+      "shortId": "Q-57A7DD",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que la carte Vitale verte ?</p>\n",
+      "choices": [
+        {
+          "text": "Une carte de fidélité",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte de l'assuré social qui permet le remboursement automatique des soins médicaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis de conduire",
+          "isCorrect": false
+        },
+        {
+          "text": "Une carte de transport",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cf730afe05c5b4d99d182113",
+      "shortId": "Q-182113",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est l'âge minimum pour conduire seul en France ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "17 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b2a1704afb848d7949b093b2",
+      "shortId": "Q-B093B2",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que les aides au logement (APL) ?</p>\n",
+      "choices": [
+        {
+          "text": "Des prêts immobiliers",
+          "isCorrect": false
+        },
+        {
+          "text": "Des aides mensuelles de la CAF réduisant le montant du loyer ou du prêt immobilier",
+          "isCorrect": true
+        },
+        {
+          "text": "Des exonérations de taxe d'habitation",
+          "isCorrect": false
+        },
+        {
+          "text": "Des subventions pour construire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "aeedcf4d358a9170c012f859",
+      "shortId": "Q-12F859",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'un contrat de travail CDI ?</p>\n",
+      "choices": [
+        {
+          "text": "Un contrat à durée déterminée",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat à durée indéterminée, sans fin prévue, la forme normale d'emploi en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Un contrat intérimaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat d'apprentissage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9fd3cbe5f30cd71578faff44",
+      "shortId": "Q-FAFF44",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le bulletin de salaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Une autorisation d'embauche",
+          "isCorrect": false
+        },
+        {
+          "text": "Le document remis mensuellement par l'employeur récapitulant le salaire brut, les cotisations et le salaire net",
+          "isCorrect": true
+        },
+        {
+          "text": "Un relevé bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un certificat de travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5474c3b3b9a86a81794ab73b",
+      "shortId": "Q-4AB73B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que la retraite en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Une allocation chômage",
+          "isCorrect": false
+        },
+        {
+          "text": "Un système de pension versée aux personnes ayant arrêté leur activité professionnelle, financée par les cotisations des actifs",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide sociale",
+          "isCorrect": false
+        },
+        {
+          "text": "Un capital épargne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4e66a706561068dab5f118c2",
+      "shortId": "Q-F118C2",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que faire si on est victime d'un vol ?</p>\n",
+      "choices": [
+        {
+          "text": "Ignorer l'incident",
+          "isCorrect": false
+        },
+        {
+          "text": "Porter plainte auprès de la police ou de la gendarmerie",
+          "isCorrect": true
+        },
+        {
+          "text": "Poster sur les réseaux sociaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Régler à l'amiable directement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "179e7b35be9c1b69114fcf0a",
+      "shortId": "Q-4FCF0A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que l'état civil français ?</p>\n",
+      "choices": [
+        {
+          "text": "La situation militaire d'un citoyen",
+          "isCorrect": false
+        },
+        {
+          "text": "L'enregistrement officiel des événements familiaux (naissances, mariages, décès) tenu par les mairies",
+          "isCorrect": true
+        },
+        {
+          "text": "Un registre de propriété",
+          "isCorrect": false
+        },
+        {
+          "text": "Un recensement de population",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f8e3909868517010b0e24005",
+      "shortId": "Q-E24005",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que l'instruction en famille (IEF) en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Une obligation pour tous",
+          "isCorrect": false
+        },
+        {
+          "text": "Une possibilité légale d'instruire ses enfants à domicile, soumise à déclaration et contrôle de l'État",
+          "isCorrect": true
+        },
+        {
+          "text": "Une pratique interdite",
+          "isCorrect": false
+        },
+        {
+          "text": "Un droit réservé aux ménages aisés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c28fcb3fe3b620b3661abeac",
+      "shortId": "Q-1ABEAC",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que signifie 'cotisations sociales' ?</p>\n",
+      "choices": [
+        {
+          "text": "Des dons volontaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Des prélèvements obligatoires sur les salaires finançant la protection sociale (maladie, retraite, chômage)",
+          "isCorrect": true
+        },
+        {
+          "text": "Des impôts locaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Des taxes sur la consommation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0eefcd5c9623e184fc86df43",
+      "shortId": "Q-86DF43",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quand célèbre-t-on Noël en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le 24 décembre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 25 décembre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le 31 décembre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 6 janvier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e0efd32389e68683d9fd2281",
+      "shortId": "Q-FD2281",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le SAMU ?</p>\n",
+      "choices": [
+        {
+          "text": "La Société d'Aide aux Malades Urgents",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Service d'Aide Médicale Urgente, joignable au 15",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service de police médicale",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service hospitalier privé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4be152261aa46d076e56fb66",
+      "shortId": "Q-56FB66",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que les urgences d'un hôpital ?</p>\n",
+      "choices": [
+        {
+          "text": "Un service pour les consultations ordinaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Le service hospitalier prenant en charge 24h/24 les patients dont l'état nécessite des soins immédiats",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service de radiologie",
+          "isCorrect": false
+        },
+        {
+          "text": "Un centre de rééducation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "09a1c9666f090f4e1cabe16b",
+      "shortId": "Q-ABE16B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que la Sécurité sociale ?</p>\n",
+      "choices": [
+        {
+          "text": "Un système d'assurance privée",
+          "isCorrect": false
+        },
+        {
+          "text": "Le système public de protection sociale finançant santé, retraites et allocations",
+          "isCorrect": true
+        },
+        {
+          "text": "Un syndicat de travailleurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service de la police",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e39cc87a1b3fb50b9db7482",
+      "shortId": "Q-DB7482",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui peut accéder aux soins d'urgence en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement les citoyens français",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les personnes avec un titre de séjour",
+          "isCorrect": false
+        },
+        {
+          "text": "Toute personne en situation d'urgence médicale",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les assurés sociaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6b80812576e46d86d6232213",
+      "shortId": "Q-232213",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À quel âge un enfant peut-il commencer à travailler en France ?</p>\n",
+      "choices": [
+        {
+          "text": "12 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "14 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "16cc90f1e80de0b080e37f40",
+      "shortId": "Q-E37F40",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel mariage est reconnu par l'État ?</p>\n",
+      "choices": [
+        {
+          "text": "Le mariage civil célébré en mairie",
+          "isCorrect": true
+        },
+        {
+          "text": "Le mariage religieux uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mariage coutumier",
+          "isCorrect": false
+        },
+        {
+          "text": "Un accord oral",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "894ad726ca28ffa3622d0b48",
+      "shortId": "Q-2D0B48",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?</p>\n",
+      "choices": [
+        {
+          "text": "La mairie de leur commune de résidence",
+          "isCorrect": true
+        },
+        {
+          "text": "La préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "L'académie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le rectorat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7c367f1ec4af2103f9375a75",
+      "shortId": "Q-375A75",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>En cas de divorce, qui exerce l'autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "Les deux parents en général, sauf décision contraire du juge",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement le parent gardien",
+          "isCorrect": false
+        },
+        {
+          "text": "Automatiquement la mère",
+          "isCorrect": false
+        },
+        {
+          "text": "Automatiquement le père",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7a30bb01b161860233e957bd",
+      "shortId": "Q-E957BD",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle aide permet aux personnes ayant des difficultés financières d'avoir un avocat ?</p>\n",
+      "choices": [
+        {
+          "text": "L'aide juridictionnelle",
+          "isCorrect": true
+        },
+        {
+          "text": "L'aide sociale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le RSA",
+          "isCorrect": false
+        },
+        {
+          "text": "La CMU",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "758dcdb07bbf87f4df287c80",
+      "shortId": "Q-287C80",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Où faut-il déclarer la naissance d'un enfant ?</p>\n",
+      "choices": [
+        {
+          "text": "À la mairie du lieu de naissance, dans les 5 jours",
+          "isCorrect": true
+        },
+        {
+          "text": "À la préfecture dans le mois",
+          "isCorrect": false
+        },
+        {
+          "text": "Au tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "À l'hôpital directement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ab74f6871247ac7c6a3de75b",
+      "shortId": "Q-3DE75B",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Un bail locatif est valide s'il est :</p>\n",
+      "choices": [
+        {
+          "text": "Signé par le locataire et le propriétaire avec les mentions légales obligatoires",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement verbal",
+          "isCorrect": false
+        },
+        {
+          "text": "Validé par la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Enregistré à la préfecture",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "04f19ffadea9264b8137f0d9",
+      "shortId": "Q-37F0D9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Où peut-on déposer un lave-vaisselle cassé ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans une déchèterie ou lors d'une collecte d'encombrants",
+          "isCorrect": true
+        },
+        {
+          "text": "Sur le trottoir devant chez soi",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans une poubelle ordinaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans un bac de tri sélectif",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6dfdab824cce5a0f36d030b0",
+      "shortId": "Q-D030B0",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel numéro d'urgence permet d'appeler la police ?</p>\n",
+      "choices": [
+        {
+          "text": "17",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cb4535003664e6d98293c081",
+      "shortId": "Q-93C081",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Concernant l'accès aux soins, quelle proposition est correcte ?</p>\n",
+      "choices": [
+        {
+          "text": "Toute personne peut accéder aux soins d'urgence en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Seuls les citoyens français y ont accès",
+          "isCorrect": false
+        },
+        {
+          "text": "Les étrangers doivent payer entièrement",
+          "isCorrect": false
+        },
+        {
+          "text": "L'accès est payant pour tous",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e0e5bd9d97f3b8a95341035c",
+      "shortId": "Q-41035C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À qui est accessible la contraception ?</p>\n",
+      "choices": [
+        {
+          "text": "À toutes les personnes concernées, remboursée pour les moins de 25 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement aux femmes mariées",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement sur prescription sans remboursement",
+          "isCorrect": false
+        },
+        {
+          "text": "Gratuitement à tous sans prescription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f3bdf32955dc0f2de396643d",
+      "shortId": "Q-96643D",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?</p>\n",
+      "choices": [
+        {
+          "text": "Le médecin ne peut pas divulguer les informations médicales sans le consentement du patient",
+          "isCorrect": true
+        },
+        {
+          "text": "Le médecin informe toujours la famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Les informations médicales sont accessibles à tous les médecins",
+          "isCorrect": false
+        },
+        {
+          "text": "Le dossier médical est public",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c35cab8b413e1635a983bfbb",
+      "shortId": "Q-83BFBB",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>L'inscription à l'Assurance maladie est :</p>\n",
+      "choices": [
+        {
+          "text": "Obligatoire pour toute personne résidant de façon stable et régulière en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Facultative",
+          "isCorrect": false
+        },
+        {
+          "text": "Réservée aux citoyens français",
+          "isCorrect": false
+        },
+        {
+          "text": "Payante pour les étrangers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b018597e4dbc22495918aa82",
+      "shortId": "Q-18AA82",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qui peut demander un congé parental d'éducation ?</p>\n",
+      "choices": [
+        {
+          "text": "Les deux parents (père ou mère), salariés depuis au moins 1 an",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement la mère",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les femmes mariées",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement le parent gardien",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b052996d17b72008808c5dcf",
+      "shortId": "Q-8C5DCF",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les affaires traitées par le conseil de prud'hommes ?</p>\n",
+      "choices": [
+        {
+          "text": "Les litiges entre employeurs et salariés (droit du travail)",
+          "isCorrect": true
+        },
+        {
+          "text": "Les litiges entre locataires et propriétaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Les affaires pénales liées au travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Les litiges commerciaux entre entreprises",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3f54813fdc8164ab0383a7ec",
+      "shortId": "Q-83A7EC",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Travailler sans être déclaré est :</p>\n",
+      "choices": [
+        {
+          "text": "Illégal pour l'employeur et le salarié, passible de sanctions",
+          "isCorrect": true
+        },
+        {
+          "text": "Autorisé pour les petits travaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Toléré dans le secteur agricole",
+          "isCorrect": false
+        },
+        {
+          "text": "Légal si les deux parties sont d'accord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "75359e0aef0e9558a4b2b1bb",
+      "shortId": "Q-B2B1BB",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que prévu au contrat :</p>\n",
+      "choices": [
+        {
+          "text": "Il doit respecter les règles sur les heures supplémentaires (accord et majoration de salaire)",
+          "isCorrect": true
+        },
+        {
+          "text": "Il peut l'imposer sans compensation",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut simplement demander oralement",
+          "isCorrect": false
+        },
+        {
+          "text": "Il n'a pas le droit dans tous les cas",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "de2170a5c233466baa6885f5",
+      "shortId": "Q-6885F5",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est la mission de France Travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Accompagner les demandeurs d'emploi et gérer les allocations chômage",
+          "isCorrect": true
+        },
+        {
+          "text": "Gérer les retraites",
+          "isCorrect": false
+        },
+        {
+          "text": "Former les fonctionnaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les entreprises",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "698297bc5b11464c43e06774",
+      "shortId": "Q-E06774",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Dans une entreprise, le droit syndical permet :</p>\n",
+      "choices": [
+        {
+          "text": "De défendre collectivement les intérêts des salariés et de négocier des accords",
+          "isCorrect": true
+        },
+        {
+          "text": "D'imposer des conditions à l'employeur sans négociation",
+          "isCorrect": false
+        },
+        {
+          "text": "D'accéder automatiquement à des avantages salariaux",
+          "isCorrect": false
+        },
+        {
+          "text": "De ne pas respecter le règlement intérieur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "65e411d647db6c286a692f14",
+      "shortId": "Q-692F14",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Dans une entreprise, le droit de grève autorise :</p>\n",
+      "choices": [
+        {
+          "text": "La cessation collective du travail pour défendre des revendications professionnelles",
+          "isCorrect": true
+        },
+        {
+          "text": "L'occupation des locaux sans limite",
+          "isCorrect": false
+        },
+        {
+          "text": "Le blocage des livraisons indéfiniment",
+          "isCorrect": false
+        },
+        {
+          "text": "Le refus d'exécuter toute décision de l'employeur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a8e88e0de4609e1c47a2feea",
+      "shortId": "Q-A2FEEA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelles sont les conditions pour toucher les allocations chômage ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir travaillé et cotisé suffisamment, être inscrit à France Travail et rechercher un emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir perdu son emploi quelle qu'en soit la raison",
+          "isCorrect": false
+        },
+        {
+          "text": "Être de nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir plus de 25 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a41cb047c699bb8d75a945c4",
+      "shortId": "Q-A945C4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'école maternelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Une école accueillant les enfants de 3 à 6 ans, obligatoire depuis 2019",
+          "isCorrect": true
+        },
+        {
+          "text": "Une école privée pour les moins de 3 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mode de garde facultatif",
+          "isCorrect": false
+        },
+        {
+          "text": "Une école pour les enfants en difficulté",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2c8318d42a4b8e731fa67a7d",
+      "shortId": "Q-A67A7D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Comment s'appelle le diplôme passé par les élèves à la fin du collège ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Diplôme National du Brevet (DNB)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le baccalauréat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le CAP",
+          "isCorrect": false
+        },
+        {
+          "text": "Le BEP",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cb64bc3510feefd4fed0f4aa",
+      "shortId": "Q-D0F4AA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Les parents d'élève ont le droit de :</p>\n",
+      "choices": [
+        {
+          "text": "Participer à la vie scolaire et aux instances représentatives de l'école",
+          "isCorrect": true
+        },
+        {
+          "text": "Choisir les enseignements de leur enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser que leur enfant suive certains cours",
+          "isCorrect": false
+        },
+        {
+          "text": "Imposer le programme scolaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1937777a6c3a675a4733bbe2",
+      "shortId": "Q-33BBE2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui peut manger à la cantine scolaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les élèves scolarisés dans l'établissement",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les enfants des familles en difficulté",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les enfants dont les deux parents travaillent",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les internes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7e163909eb6a690cb194479c",
+      "shortId": "Q-94479C",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>À quel âge commence l'instruction obligatoire des enfants ?</p>\n",
+      "choices": [
+        {
+          "text": "3 ans (depuis la loi de 2019)",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "2 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1e2839fd3085d3c9ff5b300a",
+      "shortId": "Q-5B300A",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est l'âge de la majorité ?</p>\n",
+      "choices": [
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "20 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e8695f9924128bdfbbdc32dd",
+      "shortId": "Q-DC32DD",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À l'école, il est interdit aux parents de :</p>\n",
+      "choices": [
+        {
+          "text": "S'imposer dans les classes ou perturber le fonctionnement de l'école",
+          "isCorrect": true
+        },
+        {
+          "text": "Venir chercher leur enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "Rencontrer les enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Participer aux réunions de parents",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3a2e3b1a8cd41c4bd92aeaef",
+      "shortId": "Q-2AEAEF",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel motif d'absence est accepté par l'école ?</p>\n",
+      "choices": [
+        {
+          "text": "La maladie de l'enfant justifiée par un certificat médical",
+          "isCorrect": true
+        },
+        {
+          "text": "Les vacances hors calendrier",
+          "isCorrect": false
+        },
+        {
+          "text": "Le refus d'un enseignement pour raisons religieuses",
+          "isCorrect": false
+        },
+        {
+          "text": "La fatigue de l'enfant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a4828731e46266e12889e9c2",
+      "shortId": "Q-89E9C2",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?</p>\n",
+      "choices": [
+        {
+          "text": "Amende et emprisonnement (jusqu'à 15 000 euros et 2 ans)",
+          "isCorrect": true
+        },
+        {
+          "text": "Un simple avertissement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une amende de 150 euros",
+          "isCorrect": false
+        },
+        {
+          "text": "La suppression des allocations familiales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "dc3b9ff22fc0a472b8faf324",
+      "shortId": "Q-FAF324",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quand ont lieu les vacances scolaires de Noël ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ deux semaines fin décembre et début janvier",
+          "isCorrect": true
+        },
+        {
+          "text": "En janvier uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Du 24 au 26 décembre",
+          "isCorrect": false
+        },
+        {
+          "text": "Du 20 décembre au 15 janvier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3a33ede435e2c593a6a4d4fb",
+      "shortId": "Q-A4D4FB",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À l'école, un enfant en situation de handicap :</p>\n",
+      "choices": [
+        {
+          "text": "A droit à une scolarisation adaptée en milieu ordinaire avec les aménagements nécessaires",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne peut pas aller à l'école ordinaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Doit être dans un établissement spécialisé",
+          "isCorrect": false
+        },
+        {
+          "text": "N'a pas droit aux mêmes enseignements",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "17cd48cec64e2cf82dfe47e2",
+      "shortId": "Q-FE47E2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel mariage est reconnu par l'État en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le mariage religieux uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mariage civil uniquement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le mariage civil et/ou religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les mariages quelle que soit la forme",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a7cfad753b7ae70444080971",
+      "shortId": "Q-080971",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue :</p>\n",
+      "choices": [
+        {
+          "text": "Le salarié est obligé d'accepter",
+          "isCorrect": false
+        },
+        {
+          "text": "L'employeur doit payer des heures supplémentaires majorées",
+          "isCorrect": true
+        },
+        {
+          "text": "L'employeur peut changer le contrat unilatéralement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le salarié perd des droits s'il refuse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a61687cf896fdc1d33e03f26",
+      "shortId": "Q-E03F26",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le conseil de prud'hommes ?</p>\n",
+      "choices": [
+        {
+          "text": "Un tribunal pour les affaires criminelles",
+          "isCorrect": false
+        },
+        {
+          "text": "Une juridiction spécialisée dans les litiges entre employeurs et salariés",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service de médiation familiale",
+          "isCorrect": false
+        },
+        {
+          "text": "Un tribunal administratif",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "65d2841af590d5eee163851c",
+      "shortId": "Q-63851C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'un bail locatif ?</p>\n",
+      "choices": [
+        {
+          "text": "Un acte d'achat immobilier",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat de location signé entre un propriétaire et un locataire",
+          "isCorrect": true
+        },
+        {
+          "text": "Un emprunt bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Une attestation d'hébergement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4320a9eb8c864e111020cbed",
+      "shortId": "Q-20CBED",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quand a lieu la période de rentrée scolaire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Janvier",
+          "isCorrect": false
+        },
+        {
+          "text": "Mars",
+          "isCorrect": false
+        },
+        {
+          "text": "Septembre",
+          "isCorrect": true
+        },
+        {
+          "text": "Novembre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4b923ac0f827afd1d267b535",
+      "shortId": "Q-67B535",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit de grève dans le secteur privé ?</p>\n",
+      "choices": [
+        {
+          "text": "Il n'existe pas dans le secteur privé",
+          "isCorrect": false
+        },
+        {
+          "text": "Il permet de cesser le travail collectivement pour des revendications professionnelles",
+          "isCorrect": true
+        },
+        {
+          "text": "Il est soumis à l'autorisation du patron",
+          "isCorrect": false
+        },
+        {
+          "text": "Il nécessite toujours un syndicat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a054fecf4c64cf09c1bca4d3",
+      "shortId": "Q-BCA4D3",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit à la formation professionnelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit d'être payé pour se former",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit à des congés de formation pour améliorer ses compétences pendant sa vie professionnelle",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de choisir son école",
+          "isCorrect": false
+        },
+        {
+          "text": "L'obligation d'avoir un diplôme avant de travailler",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b7ecf1c0a46c7440ee943e8c",
+      "shortId": "Q-943E8C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui peut créer une entreprise en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement les citoyens français",
+          "isCorrect": false
+        },
+        {
+          "text": "Tout résident en situation régulière, quelle que soit sa nationalité",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les diplômés",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les personnes de plus de 21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "39f0f036707620c74ab5f37d",
+      "shortId": "Q-B5F37D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la déclaration de revenus ?</p>\n",
+      "choices": [
+        {
+          "text": "Une liste de ses dépenses",
+          "isCorrect": false
+        },
+        {
+          "text": "L'obligation annuelle de déclarer ses revenus à l'administration fiscale",
+          "isCorrect": true
+        },
+        {
+          "text": "Un relevé bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un bilan d'entreprise",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3e17b1647669847bf00c00d6",
+      "shortId": "Q-0C00D6",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le congé maternité en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un congé facultatif",
+          "isCorrect": false
+        },
+        {
+          "text": "Un congé légal rémunéré permettant aux femmes d'arrêter de travailler avant et après l'accouchement",
+          "isCorrect": true
+        },
+        {
+          "text": "Un congé parental de 3 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Un congé pour adoption uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fddc0fc453e9ddb332d837ec",
+      "shortId": "Q-D837EC",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le congé paternité en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un congé uniquement pour les pères biologiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Un congé légal rémunéré permettant au père (ou second parent) de s'arrêter de travailler à la naissance de l'enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "Un congé non rémunéré",
+          "isCorrect": false
+        },
+        {
+          "text": "Un congé d'adoption uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1a7d85505d684716172ff7da",
+      "shortId": "Q-2FF7DA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la médiation familiale ?</p>\n",
+      "choices": [
+        {
+          "text": "Un tribunal de la famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mode de résolution amiable des conflits familiaux avec l'aide d'un médiateur professionnel",
+          "isCorrect": true
+        },
+        {
+          "text": "Une consultation juridique gratuite",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service d'aide à l'éducation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5dbd0d2a04547ebc54ab7eba",
+      "shortId": "Q-AB7EBA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le PACS (Pacte Civil de Solidarité) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un type de mariage religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat entre deux personnes majeures pour organiser leur vie commune, avec des droits et obligations légaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Une union libre sans droits légaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat uniquement pour les couples de même sexe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "78918b11c1b6b8d68a0e6d65",
+      "shortId": "Q-0E6D65",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le minimum vieillesse (ASPA) ?</p>\n",
+      "choices": [
+        {
+          "text": "La retraite minimale obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Allocation de Solidarité aux Personnes Âgées, garantissant un minimum de ressources aux personnes âgées",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide aux retraités aisés",
+          "isCorrect": false
+        },
+        {
+          "text": "Un complément de salaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "49376157e96e0c16d07a3320",
+      "shortId": "Q-7A3320",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le contrat à durée déterminée (CDD) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un contrat de travail permanent",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat de travail temporaire pour une durée et un motif précis, encadré strictement par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Un contrat sans obligations",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat uniquement pour les apprentis",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d096b7bce8723c4ceb56a8fb",
+      "shortId": "Q-56A8FB",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'apprentissage en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un travail non rémunéré",
+          "isCorrect": false
+        },
+        {
+          "text": "Une formation alternant travail en entreprise et cours en centre de formation, menant à un diplôme",
+          "isCorrect": true
+        },
+        {
+          "text": "Une période d'essai",
+          "isCorrect": false
+        },
+        {
+          "text": "Un stage non rémunéré",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5397da117702bc6deb60fa46",
+      "shortId": "Q-60FA46",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'une déclaration de naissance ?</p>\n",
+      "choices": [
+        {
+          "text": "L'enregistrement d'un mariage",
+          "isCorrect": false
+        },
+        {
+          "text": "La déclaration faite à la mairie dans les 5 jours suivant la naissance d'un enfant",
+          "isCorrect": true
+        },
+        {
+          "text": "L'inscription à l'état civil d'un adulte",
+          "isCorrect": false
+        },
+        {
+          "text": "L'enregistrement d'un décès",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "aa5b9b4ba77848d427632af4",
+      "shortId": "Q-632AF4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit de préemption ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de préférence accordé à l'État ou à une collectivité pour acquérir un bien mis en vente",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de ne pas payer un loyer",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d'entrée dans un logement occupé",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de modification d'un contrat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "45fe630b96b945b583a9346a",
+      "shortId": "Q-A9346A",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la protection maternelle et infantile (PMI) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un service d'assurance maladie",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service public de santé assurant le suivi médical des femmes enceintes et des jeunes enfants",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service uniquement pour les familles défavorisées",
+          "isCorrect": false
+        },
+        {
+          "text": "Une structure privée de pédiatrie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7dc5c9f732ad6ad2eb7b4c9d",
+      "shortId": "Q-7B4C9D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le service national universel (SNU) ?</p>\n",
+      "choices": [
+        {
+          "text": "Le service militaire obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un dispositif de cohésion nationale pour les jeunes de 15-17 ans, comportant une phase de séjour collectif",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service civique pour les retraités",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service militaire volontaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a61ab854ba37fb5ca7da5b02",
+      "shortId": "Q-DA5B02",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le service civique ?</p>\n",
+      "choices": [
+        {
+          "text": "Une obligation militaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un engagement volontaire au service de la collectivité, rémunéré, ouvert aux jeunes de 16 à 25 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Une peine alternative",
+          "isCorrect": false
+        },
+        {
+          "text": "Un stage en entreprise obligatoire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8623a8be6085c87f3c96fbcd",
+      "shortId": "Q-96FBCD",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le principe d'égalité d'accès à l'enseignement supérieur ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de s'inscrire dans n'importe quelle université sans sélection",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit pour tout bachelier d'accéder à l'enseignement supérieur, réformé par Parcoursup",
+          "isCorrect": true
+        },
+        {
+          "text": "L'obligation de l'État de financer toutes les études",
+          "isCorrect": false
+        },
+        {
+          "text": "L'égalité entre les filières publiques et privées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c10d5dd1bdb76507e97f7269",
+      "shortId": "Q-7F7269",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit au logement décent ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit d'occuper n'importe quel logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de toute personne à un logement répondant à des normes minimales de confort, salubrité et sécurité",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit à un logement gratuit",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de refuser un logement proposé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9468f0b8e75e9d9e98fe4284",
+      "shortId": "Q-FE4284",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la garde alternée (résidence alternée) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un type de placement en famille d'accueil",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mode de garde où l'enfant réside alternativement chez chacun de ses parents après une séparation",
+          "isCorrect": true
+        },
+        {
+          "text": "Un régime de garde uniquement par la mère",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime judiciaire d'urgence",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d1a86576a0530ae4929556b9",
+      "shortId": "Q-9556B9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le PACS ?</p>\n",
+      "choices": [
+        {
+          "text": "Un parti politique",
+          "isCorrect": false
+        },
+        {
+          "text": "Un Pacte Civil de Solidarité, contrat d'union entre deux personnes",
+          "isCorrect": true
+        },
+        {
+          "text": "Un permis d'aménagement de construction de surface",
+          "isCorrect": false
+        },
+        {
+          "text": "Un plan d'aide au chômage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2106a5a9fe53a8dbc76b1df3",
+      "shortId": "Q-6B1DF3",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la CAF ?</p>\n",
+      "choices": [
+        {
+          "text": "La Caisse d'Assurance de France",
+          "isCorrect": false
+        },
+        {
+          "text": "La Caisse d'Allocations Familiales, qui gère les aides sociales",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil d'Administration de la Fonction publique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Crédit Agricole de France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b170c4ff2f7160ec44856bb2",
+      "shortId": "Q-856BB2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'un contrat à durée indéterminée (CDI) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un contrat de 3 ans renouvelable",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat de travail sans terme fixé à l'avance, la forme normale de l'emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Un contrat d'apprentissage",
+          "isCorrect": false
+        },
+        {
+          "text": "Un contrat de mission temporaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "28187f3d93b5ee35f377b329",
+      "shortId": "Q-77B329",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Accrocher des tableaux et faire de petits aménagements réversibles",
+          "isCorrect": true
+        },
+        {
+          "text": "Faire des travaux importants",
+          "isCorrect": false
+        },
+        {
+          "text": "Sous-louer l'appartement",
+          "isCorrect": false
+        },
+        {
+          "text": "Changer les serrures sans en informer le propriétaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e6e16e92d3772fe563c6ad1",
+      "shortId": "Q-3C6AD1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel mariage est reconnu légalement en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le mariage civil célébré en mairie par un officier d'état civil",
+          "isCorrect": true
+        },
+        {
+          "text": "Le mariage religieux uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mariage coutumier",
+          "isCorrect": false
+        },
+        {
+          "text": "Un accord oral",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2f2f6144b33c80e1f422c17a",
+      "shortId": "Q-22C17A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Le stationnement sur une place réservée aux personnes handicapées :</p>\n",
+      "choices": [
+        {
+          "text": "Est interdit et sanctionné par une amende et l'enlèvement du véhicule",
+          "isCorrect": true
+        },
+        {
+          "text": "Est toléré si c'est pour quelques minutes",
+          "isCorrect": false
+        },
+        {
+          "text": "Est autorisé si on est pressé",
+          "isCorrect": false
+        },
+        {
+          "text": "N'est interdit que la nuit",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d511afc08b7bdd6cc381bb5e",
+      "shortId": "Q-81BB5E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Si une machine à laver est cassée, il est possible de :</p>\n",
+      "choices": [
+        {
+          "text": "La déposer en déchèterie ou la faire collecter gratuitement",
+          "isCorrect": true
+        },
+        {
+          "text": "La laisser sur le trottoir",
+          "isCorrect": false
+        },
+        {
+          "text": "La brûler dans son jardin",
+          "isCorrect": false
+        },
+        {
+          "text": "La jeter dans une poubelle ordinaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0364cd78f02120282d57f4a1",
+      "shortId": "Q-57F4A1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Dans quel cas faut-il déclarer son enfant au service d'état civil ?</p>\n",
+      "choices": [
+        {
+          "text": "À chaque naissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement pour les jumeaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement si on veut lui donner un prénom rare",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement pour les enfants nés à l'étranger",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "be979b5bb5b1ad6c007db8f4",
+      "shortId": "Q-7DB8F4",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quand faut-il déclarer son enfant au service d'état civil ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans les 5 jours suivant la naissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans le mois suivant",
+          "isCorrect": false
+        },
+        {
+          "text": "À 1 an",
+          "isCorrect": false
+        },
+        {
+          "text": "Avant l'entrée à l'école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8c9e9314193e2080ff1221e5",
+      "shortId": "Q-1221E5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Auprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?</p>\n",
+      "choices": [
+        {
+          "text": "La mairie de leur commune de résidence",
+          "isCorrect": true
+        },
+        {
+          "text": "La préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "L'académie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le rectorat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2cadd2c121d0f2027019bd55",
+      "shortId": "Q-19BD55",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?</p>\n",
+      "choices": [
+        {
+          "text": "L'aide juridictionnelle",
+          "isCorrect": true
+        },
+        {
+          "text": "L'aide sociale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le RSA",
+          "isCorrect": false
+        },
+        {
+          "text": "La CMU",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7dd81fb7d2ff81fad3d1d5e6",
+      "shortId": "Q-D1D5E6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui peut demander le divorce de personnes mariées ?</p>\n",
+      "choices": [
+        {
+          "text": "L'un ou l'autre des époux, ou les deux conjointement",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement la femme",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement l'homme",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement si les deux sont d'accord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2577035f029c44179def4d9a",
+      "shortId": "Q-EF4D9A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>La contraception :</p>\n",
+      "choices": [
+        {
+          "text": "Est accessible à tous et remboursée par l'Assurance maladie pour les moins de 25 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Est réservée aux femmes mariées",
+          "isCorrect": false
+        },
+        {
+          "text": "N'est pas remboursée",
+          "isCorrect": false
+        },
+        {
+          "text": "Est gratuite pour tous sans prescription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a92e99fbb80e3538246ab0ce",
+      "shortId": "Q-6AB0CE",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le tiers payant ?</p>\n",
+      "choices": [
+        {
+          "text": "Un dispositif permettant au patient de ne pas avancer les frais médicaux couverts",
+          "isCorrect": true
+        },
+        {
+          "text": "Un médecin supplémentaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide pour les soins dentaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Un remboursement différé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "135a4dd9fbf33d6529684496",
+      "shortId": "Q-684496",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>L'avortement est-il possible en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, c'est un droit légal depuis 1975 (loi Veil), désormais inscrit dans la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, c'est totalement interdit",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, seulement jusqu'à 6 semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, uniquement pour raison médicale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "45fa951d088dafdebcf28113",
+      "shortId": "Q-F28113",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Une personne étrangère, en situation régulière, peut créer son entreprise :</p>\n",
+      "choices": [
+        {
+          "text": "Oui, dans les mêmes conditions qu'un Français",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, réservé aux Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, après 5 ans de résidence",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf secteurs autorisés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f6428a525dfcf2c9fd02f86b",
+      "shortId": "Q-02F86B",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quels sont les textes qui définissent les règles au travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Code du travail, la convention collective et le règlement intérieur de l'entreprise",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement le contrat de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les décisions du gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5a59ec2d12934887ab6ce383",
+      "shortId": "Q-6CE383",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui a le droit de se syndiquer ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les salariés, y compris les fonctionnaires et les travailleurs à temps partiel",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les salariés du secteur privé",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les travailleurs à temps plein",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les travailleurs de nationalité française",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7d8906eeb6667ff40e82c19d",
+      "shortId": "Q-82C19D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, c'est strictement interdit par le Code du travail",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si elle est trop souvent absente",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, pendant la période d'essai",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, jamais dans aucun cas y compris faute grave",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7d86c215be0c620c13e52c33",
+      "shortId": "Q-E52C33",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>L'instruction des enfants est obligatoire de :</p>\n",
+      "choices": [
+        {
+          "text": "3 ans à 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ans à 14 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "3 ans à 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans à 16 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cec864e670e2e84ffb7ea3d2",
+      "shortId": "Q-7EA3D2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la définition de l'autorité parentale ?</p>\n",
+      "choices": [
+        {
+          "text": "L'ensemble des droits et devoirs des parents pour protéger, éduquer et entretenir leurs enfants mineurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit d'imposer la religion à ses enfants",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de choisir le métier de ses enfants majeurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de contrôler les relations de ses enfants adultes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bcb41f8f363977f3e9bc7529",
+      "shortId": "Q-BC7529",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment s'appellent les établissements scolaires que les élèves intègrent après l'école élémentaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Le collège",
+          "isCorrect": true
+        },
+        {
+          "text": "Le lycée",
+          "isCorrect": false
+        },
+        {
+          "text": "L'université",
+          "isCorrect": false
+        },
+        {
+          "text": "Le lycée professionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d2dfaf15014c414abefe4e96",
+      "shortId": "Q-FE4E96",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>En tant que parent d'élève, il est possible de :</p>\n",
+      "choices": [
+        {
+          "text": "Participer aux instances représentatives et rencontrer les enseignants",
+          "isCorrect": true
+        },
+        {
+          "text": "Choisir les enseignements de son enfant",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser que son enfant suive certains cours",
+          "isCorrect": false
+        },
+        {
+          "text": "Imposer le programme scolaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5eaebfaba4e38528a501f8a5",
+      "shortId": "Q-01F8A5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle instruction est prévue pour les enfants qui ne parlent pas français ?</p>\n",
+      "choices": [
+        {
+          "text": "Un accompagnement linguistique spécifique (EANA, UPE2A)",
+          "isCorrect": true
+        },
+        {
+          "text": "Aucune instruction spécifique",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils ne peuvent pas être scolarisés",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils sont dans des classes séparées définitivement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9ebc2158515059152e0f2e2c",
+      "shortId": "Q-0F2E2C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?</p>\n",
+      "choices": [
+        {
+          "text": "Tout enfant handicapé a droit à une scolarisation en milieu ordinaire avec les aménagements nécessaires",
+          "isCorrect": true
+        },
+        {
+          "text": "Un enfant handicapé ne peut pas aller à l'école ordinaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Il doit obligatoirement être dans un établissement spécialisé",
+          "isCorrect": false
+        },
+        {
+          "text": "Il n'a pas droit aux mêmes enseignements",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1fc5bda693f31fdf7d58747a",
+      "shortId": "Q-58747A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?</p>\n",
+      "choices": [
+        {
+          "text": "28 jours calendaires (dont 7 obligatoires)",
+          "isCorrect": true
+        },
+        {
+          "text": "14 jours",
+          "isCorrect": false
+        },
+        {
+          "text": "7 jours",
+          "isCorrect": false
+        },
+        {
+          "text": "60 jours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6d9f8d994a2d1680daab4ead",
+      "shortId": "Q-AB4EAD",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Est-ce possible de punir physiquement ses enfants ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, c'est interdit par la loi depuis 2019 (loi contre les violences éducatives ordinaires)",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si c'est modéré et éducatif",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, dans certaines limites",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, uniquement pour les enfants de moins de 3 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "730395480f99b2e2a0b7782f",
+      "shortId": "Q-B7782F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est l'objectif des vaccinations obligatoires en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Augmenter les revenus des pharmaciens",
+          "isCorrect": false
+        },
+        {
+          "text": "Protéger la santé individuelle et collective (immunité collective)",
+          "isCorrect": true
+        },
+        {
+          "text": "Contrôler la population",
+          "isCorrect": false
+        },
+        {
+          "text": "Financer la Sécurité sociale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "773239f484bbe56e63b8059d",
+      "shortId": "Q-B8059D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est l'âge de la majorité en France ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "17 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2558b0913c742acc0bc3fbd2",
+      "shortId": "Q-C3FBD2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les conditions pour passer l'examen du permis de conduire ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir 18 ans et la nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "Être âgé d'au moins 17 ans (18 ans pour conduire seul) et réussir les épreuves",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir un titre de séjour valide uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Être inscrit à l'école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6916306bb375926d0a3f5536",
+      "shortId": "Q-3F5536",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est l'une des conditions pour passer l'examen du permis de conduire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Être de nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir réussi le code de la route (épreuve théorique générale)",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir un titre de séjour de 5 ans minimum",
+          "isCorrect": false
+        },
+        {
+          "text": "Être né en France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cace088662546a5c2089e1ce",
+      "shortId": "Q-89E1CE",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que l'aide juridictionnelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Une aide pour les avocats",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide financière permettant aux personnes à faibles revenus d'accéder à la justice",
+          "isCorrect": true
+        },
+        {
+          "text": "Une assurance judiciaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service de conseil gratuit",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0a0c8b9f7d5492db12804dc0",
+      "shortId": "Q-804DC0",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la CAF (Caisse d'Allocations Familiales) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un syndicat",
+          "isCorrect": false
+        },
+        {
+          "text": "Un organisme versant des aides sociales et familiales",
+          "isCorrect": true
+        },
+        {
+          "text": "Une banque publique",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service de garde d'enfants",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "775d5542195cf76f0471fbd3",
+      "shortId": "Q-71FBD3",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le RSA (Revenu de Solidarité Active) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un salaire minimum",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide sociale garantissant un revenu minimum aux personnes sans ressources ou à faibles revenus",
+          "isCorrect": true
+        },
+        {
+          "text": "Un régime de retraite",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide aux entreprises",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "856bae299a683b540a617d21",
+      "shortId": "Q-617D21",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la sécurité sociale ?</p>\n",
+      "choices": [
+        {
+          "text": "Une police privée",
+          "isCorrect": false
+        },
+        {
+          "text": "Un système de protection sociale finançant l'assurance maladie, les retraites et les allocations familiales",
+          "isCorrect": true
+        },
+        {
+          "text": "Un syndicat d'employés",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime fiscal particulier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b17ab75ebc3f3a9c4a673939",
+      "shortId": "Q-673939",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que l'OFPRA ?</p>\n",
+      "choices": [
+        {
+          "text": "L'office des personnes âgées",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Office Français de Protection des Réfugiés et Apatrides",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service d'aide à l'intégration",
+          "isCorrect": false
+        },
+        {
+          "text": "Un service consulaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d8af27919ce2cb97383381b6",
+      "shortId": "Q-3381B6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le contrat d'intégration républicaine (CIR) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un contrat de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Le contrat signé par l'étranger lors de son premier titre de séjour, comprenant des cours de langue et civiques",
+          "isCorrect": true
+        },
+        {
+          "text": "Un contrat de naturalisation",
+          "isCorrect": false
+        },
+        {
+          "text": "Un bail locatif",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c8f1bb5d5094eda6086d2506",
+      "shortId": "Q-6D2506",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel niveau de français est exigé pour la naturalisation depuis 2026 ?</p>\n",
+      "choices": [
+        {
+          "text": "Niveau A2",
+          "isCorrect": false
+        },
+        {
+          "text": "Niveau B1",
+          "isCorrect": false
+        },
+        {
+          "text": "Niveau B2",
+          "isCorrect": true
+        },
+        {
+          "text": "Niveau C1",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d84107e0c5a6a0e46ad6ef86",
+      "shortId": "Q-D6EF86",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le principe d'assimilation pour la naturalisation ?</p>\n",
+      "choices": [
+        {
+          "text": "L'obligation d'abandonner sa culture d'origine",
+          "isCorrect": false
+        },
+        {
+          "text": "La maîtrise du français (B2), la connaissance de la société française, et l'adhésion sincère aux valeurs de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "L'obligation de se marier avec un Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir 10 ans de résidence en France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d36b0174bdcd4a403e26ce38",
+      "shortId": "Q-26CE38",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le titre de séjour 'carte de résident' ?</p>\n",
+      "choices": [
+        {
+          "text": "Un titre de séjour annuel renouvelable",
+          "isCorrect": false
+        },
+        {
+          "text": "Une carte de séjour d'une durée de 10 ans autorisant le travail et le séjour",
+          "isCorrect": true
+        },
+        {
+          "text": "Un titre accordé à tous les étrangers",
+          "isCorrect": false
+        },
+        {
+          "text": "Un document permettant les voyages en Europe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4e39fc5ad33098d2ed0f6c6a",
+      "shortId": "Q-0F6C6A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la médiation administrative ?</p>\n",
+      "choices": [
+        {
+          "text": "Un tribunal spécialisé",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mode de résolution amiable des litiges entre les citoyens et l'administration",
+          "isCorrect": true
+        },
+        {
+          "text": "Un service de renseignements",
+          "isCorrect": false
+        },
+        {
+          "text": "Une procédure d'appel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d09853325918317f7f5cd2f1",
+      "shortId": "Q-5CD2F1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le principe de non-rétroactivité de la loi pénale ?</p>\n",
+      "choices": [
+        {
+          "text": "Les nouvelles lois s'appliquent rétroactivement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une loi pénale nouvelle ne peut s'appliquer aux faits commis avant son entrée en vigueur (sauf si plus favorable)",
+          "isCorrect": true
+        },
+        {
+          "text": "Les lois civiles ne s'appliquent qu'aux futurs contrats",
+          "isCorrect": false
+        },
+        {
+          "text": "Le principe selon lequel la loi ne change jamais",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d14557d3c58577eb920789ea",
+      "shortId": "Q-0789EA",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la procédure de naturalisation par décret ?</p>\n",
+      "choices": [
+        {
+          "text": "Une procédure rapide sans conditions",
+          "isCorrect": false
+        },
+        {
+          "text": "La procédure normale nécessitant 5 ans de résidence régulière, l'assimilation, le niveau B2 et l'examen civique",
+          "isCorrect": true
+        },
+        {
+          "text": "Une procédure réservée aux personnes exceptionnelles",
+          "isCorrect": false
+        },
+        {
+          "text": "Une naturalisation par mariage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2632e56b3becb669efd3d300",
+      "shortId": "Q-D3D300",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la double nationalité en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Elle est interdite",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle est acceptée : la France reconnaît la double nationalité sans que l'acquisition de la nationalité française implique de renoncer à l'autre",
+          "isCorrect": true
+        },
+        {
+          "text": "Elle est tolérée uniquement avec les pays de l'UE",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle est réservée aux enfants nés de parents binationaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2035f5dba0e8ad75e25fced1",
+      "shortId": "Q-5FCED1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les conditions de fond pour la naturalisation ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans de résidence uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans de résidence régulière, assimilation, niveau B2, examen civique, bonne moralité, autonomie financière",
+          "isCorrect": true
+        },
+        {
+          "text": "10 ans de résidence et mariage avec un Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Un diplôme français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "33c3ee35506cb3ef6a0528e5",
+      "shortId": "Q-0528E5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la réintégration dans la nationalité française ?</p>\n",
+      "choices": [
+        {
+          "text": "La récupération de sa nationalité par une personne ayant été française et qui l'a perdue",
+          "isCorrect": true
+        },
+        {
+          "text": "Une naturalisation accélérée",
+          "isCorrect": false
+        },
+        {
+          "text": "Le retour en France après une expatriation",
+          "isCorrect": false
+        },
+        {
+          "text": "La demande de nationalité d'un descendant de Français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "aa1e82e5f2838df8d96f91e9",
+      "shortId": "Q-6F91E9",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le 'principe d'assimilation' dans la naturalisation ?</p>\n",
+      "choices": [
+        {
+          "text": "L'obligation d'abandonner ses racines culturelles",
+          "isCorrect": false
+        },
+        {
+          "text": "La nécessité de maîtriser la langue française, de connaître la société française et d'adhérer sincèrement à ses valeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "L'obligation de se marier avec un Français",
+          "isCorrect": false
+        },
+        {
+          "text": "L'obligation d'avoir fait ses études en France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e178dd3fe024b96d95346f4",
+      "shortId": "Q-5346F4",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le regroupement familial en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un droit familial de rassemblement local",
+          "isCorrect": false
+        },
+        {
+          "text": "La procédure permettant à un étranger résidant légalement en France de faire venir son conjoint et ses enfants mineurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit au logement en famille",
+          "isCorrect": false
+        },
+        {
+          "text": "La fusion de deux familles par mariage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "42d62a2092263090dcfa35dc",
+      "shortId": "Q-FA35DC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le titre de séjour mention 'vie privée et familiale' (VPF) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un titre pour les touristes",
+          "isCorrect": false
+        },
+        {
+          "text": "Un titre de séjour accordé aux personnes ayant des liens personnels ou familiaux forts avec la France",
+          "isCorrect": true
+        },
+        {
+          "text": "Un titre pour les salariés",
+          "isCorrect": false
+        },
+        {
+          "text": "Un titre réservé aux ressortissants de l'UE",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "69db9bcc090a45fc05f2939e",
+      "shortId": "Q-F2939E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le droit au séjour des ressortissants européens en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un droit illimité et inconditionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit pour tout citoyen de l'UE de résider en France, sous conditions de ressources au-delà de 3 mois",
+          "isCorrect": true
+        },
+        {
+          "text": "Un droit soumis à visa",
+          "isCorrect": false
+        },
+        {
+          "text": "Un droit uniquement pour les travailleurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "279fa3adf06d725675fdf6eb",
+      "shortId": "Q-FDF6EB",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le principe de loyauté envers la République ?</p>\n",
+      "choices": [
+        {
+          "text": "L'obligation de soutenir le gouvernement en place",
+          "isCorrect": false
+        },
+        {
+          "text": "L'obligation pour tout citoyen et résident de respecter les lois et les institutions républicaines",
+          "isCorrect": true
+        },
+        {
+          "text": "L'obligation de voter à toutes les élections",
+          "isCorrect": false
+        },
+        {
+          "text": "L'obligation de servir dans l'armée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "382c198887e4436a2fe1310c",
+      "shortId": "Q-E1310C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la 'prime d'activité' ?</p>\n",
+      "choices": [
+        {
+          "text": "Une aide aux retraités actifs",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide complémentaire aux revenus d'activité pour les travailleurs à faibles revenus",
+          "isCorrect": true
+        },
+        {
+          "text": "Une prime de fin d'année",
+          "isCorrect": false
+        },
+        {
+          "text": "Un bonus pour les fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e0205f9eb52deaf438ab10cd",
+      "shortId": "Q-AB10CD",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le casier judiciaire national ?</p>\n",
+      "choices": [
+        {
+          "text": "Un registre de tous les habitants",
+          "isCorrect": false
+        },
+        {
+          "text": "Un fichier officiel recensant les condamnations pénales d'une personne",
+          "isCorrect": true
+        },
+        {
+          "text": "Un registre des entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Un fichier de police",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7b37b058ff5ab0af0e92498c",
+      "shortId": "Q-92498C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant de 8 ans est absent de l'école depuis une semaine sans raison valable. Que risquez-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Des sanctions administratives et pénales",
+          "isCorrect": true
+        },
+        {
+          "text": "Rien, c'est votre droit",
+          "isCorrect": false
+        },
+        {
+          "text": "Une simple mise en garde orale",
+          "isCorrect": false
+        },
+        {
+          "text": "Une amende symbolique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3a0cec6970f11b5a97e507ba",
+      "shortId": "Q-E507BA",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre propriétaire refuse de réparer les radiateurs en hiver. Quelle est la bonne démarche ?</p>\n",
+      "choices": [
+        {
+          "text": "Envoyer une mise en demeure écrite puis saisir le tribunal si nécessaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Arrêter de payer le loyer immédiatement",
+          "isCorrect": false
+        },
+        {
+          "text": "Réparer soi-même et partir",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne rien faire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6a45a1b6cafd920b018ce49f",
+      "shortId": "Q-8CE49F",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous demande de travailler le dimanche sans compensation. C'est :</p>\n",
+      "choices": [
+        {
+          "text": "Contraire au droit du travail sauf exceptions légales",
+          "isCorrect": true
+        },
+        {
+          "text": "Normal et obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Votre choix entièrement",
+          "isCorrect": false
+        },
+        {
+          "text": "Autorisé si accord oral",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "82991d6530fd9b4262a5c4d9",
+      "shortId": "Q-A5C4D9",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant est victime de harcèlement scolaire. Quelle est la bonne démarche ?</p>\n",
+      "choices": [
+        {
+          "text": "Contacter l'établissement scolaire puis si nécessaire les autorités",
+          "isCorrect": true
+        },
+        {
+          "text": "Régler le problème directement avec les parents de l'agresseur",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne rien faire pour ne pas aggraver",
+          "isCorrect": false
+        },
+        {
+          "text": "Retirer votre enfant de l'école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "051f7ff15259af5956b9977c",
+      "shortId": "Q-B9977C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes hospitalisé et souhaitez connaître votre diagnostic. Le médecin doit :</p>\n",
+      "choices": [
+        {
+          "text": "Vous informer complètement sur votre état de santé (droit du patient)",
+          "isCorrect": true
+        },
+        {
+          "text": "Informer uniquement votre famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Garder le secret même vis-à-vis de vous",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous informer uniquement si vous payez",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1a259a2008c15984058e12a3",
+      "shortId": "Q-8E12A3",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre bail de location se termine et le propriétaire veut vous expulser sans préavis légal. C'est :</p>\n",
+      "choices": [
+        {
+          "text": "Illégal : des délais légaux de préavis existent et l'expulsion requiert une décision judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Légal si le propriétaire en a besoin",
+          "isCorrect": false
+        },
+        {
+          "text": "Légal en fin de bail",
+          "isCorrect": false
+        },
+        {
+          "text": "Votre faute",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "892d38c53853caa273ad16e4",
+      "shortId": "Q-AD16E4",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous propose un contrat uniquement verbal. Vous devez :</p>\n",
+      "choices": [
+        {
+          "text": "Demander un contrat écrit pour être protégé légalement",
+          "isCorrect": true
+        },
+        {
+          "text": "Accepter, la parole suffit",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser de travailler tant qu'il n'y a pas de CDI",
+          "isCorrect": false
+        },
+        {
+          "text": "Accepter uniquement pour les CDD",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b42deb9d4014e4fb7da71c7c",
+      "shortId": "Q-A71C7C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant de 15 ans veut arrêter l'école définitivement. Quelle est votre obligation légale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le maintenir en situation d'instruction jusqu'à ses 16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Respecter sa décision s'il est déterminé",
+          "isCorrect": false
+        },
+        {
+          "text": "L'inscrire en apprentissage immédiatement",
+          "isCorrect": false
+        },
+        {
+          "text": "Lui permettre de travailler à mi-temps",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "43471e3d4a07027d6e689341",
+      "shortId": "Q-689341",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre propriétaire souhaite augmenter votre loyer de 50% brutalement. C'est :</p>\n",
+      "choices": [
+        {
+          "text": "Illégal : les augmentations de loyer sont strictement encadrées par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Légal si indiqué dans le bail initial",
+          "isCorrect": false
+        },
+        {
+          "text": "Légal après 3 ans d'occupation",
+          "isCorrect": false
+        },
+        {
+          "text": "Légal si le propriétaire a des travaux à financer",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e3c71240611d28e6800f7057",
+      "shortId": "Q-0F7057",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous demande de travailler pendant vos congés payés. Vous pouvez :</p>\n",
+      "choices": [
+        {
+          "text": "Refuser : les congés payés sont un droit légalement protégé",
+          "isCorrect": true
+        },
+        {
+          "text": "Accepter s'il vous paie double",
+          "isCorrect": false
+        },
+        {
+          "text": "Accepter uniquement la première fois",
+          "isCorrect": false
+        },
+        {
+          "text": "Accepter si c'est dans votre contrat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "37db1ae76928901a6f5ef90a",
+      "shortId": "Q-5EF90A",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant est victime de bizutage à l'école. Quelle est la bonne attitude ?</p>\n",
+      "choices": [
+        {
+          "text": "Contacter la direction de l'établissement et si nécessaire déposer une plainte",
+          "isCorrect": true
+        },
+        {
+          "text": "Lui dire de se défendre seul",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre que ça passe",
+          "isCorrect": false
+        },
+        {
+          "text": "Lui changer d'école sans démarche supplémentaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "525299b1a176d8d43f902971",
+      "shortId": "Q-902971",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous demande de travailler sans vous déclarer. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez car cela vous rapporte plus",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez, le travail non déclaré est illégal",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous acceptez provisoirement en attendant un CDI",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous négociez un accord à l'amiable",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "817aaf8142f732d37e9839be",
+      "shortId": "Q-9839BE",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant refuse d'aller à l'école en invoquant des raisons religieuses. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous respectez son choix religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous l'obligez à aller à l'école, l'instruction est obligatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous demandez une dérogation à la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous optez pour l'instruction à domicile sans autre démarche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a5cefdcd0b4892a4af1112f2",
+      "shortId": "Q-1112F2",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous demande de travailler le dimanche sans compensation. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez pour ne pas perdre votre emploi",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous vérifiez si une dérogation légale existe et exigez les compensations prévues par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous refusez sans discuter",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous signalez immédiatement à la police",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "239dee6c9cb12e813b067e3f",
+      "shortId": "Q-067E3F",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant refuse d'aller à l'école en invoquant sa religion. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous respectez son choix religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous l'obligez à aller à l'école, l'instruction est obligatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous demandez une dérogation à la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous l'inscrivez dans une école religieuse privée sans autre démarche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2d144f87e9f4d98967939ec4",
+      "shortId": "Q-939EC4",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes victime d'une discrimination au travail. Que pouvez-vous faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Accepter la situation",
+          "isCorrect": false
+        },
+        {
+          "text": "Porter plainte, contacter le Défenseur des droits ou saisir le conseil de prud'hommes",
+          "isCorrect": true
+        },
+        {
+          "text": "Quitter votre emploi sans autre recours",
+          "isCorrect": false
+        },
+        {
+          "text": "Poster sur les réseaux sociaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "577e6631cb0decfc247a1283",
+      "shortId": "Q-7A1283",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant vous demande si un enseignant peut imposer ses croyances religieuses en classe. Que lui répondez-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, si la majorité des élèves est d'accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, les enseignants sont soumis au principe de neutralité à l'école publique",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, c'est la liberté d'expression",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement si c'est une heure de religion",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ebe1240008033d1b2c981c46",
+      "shortId": "Q-981C46",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>On vous propose un emploi avec un salaire inférieur au SMIC. Que répondez-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez si vous avez besoin de travailler",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez : aucun salaire ne peut être inférieur au SMIC en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous négociez sans savoir vos droits",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous signez sans vérifier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "651c2aba1d0313362c9b90b9",
+      "shortId": "Q-9B90B9",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant rentre de l'école en disant qu'un camarade l'a frappé. Que faites-vous en premier ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous allez frapper l'enfant qui a frappé le vôtre",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous contactez le directeur de l'école pour signaler l'incident",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous dites à votre enfant de se venger",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous ne faites rien, c'est normal entre enfants",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "335f9694b0d19a667e37b74f",
+      "shortId": "Q-37B74F",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes convoqué pour un entretien d'embauche. L'employeur vous demande si vous avez l'intention d'avoir des enfants. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous répondez honnêtement",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez de répondre : cette question est illégale et discriminatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous inventez une réponse",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous abandonnez l'entretien",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e7d5460a739124191f29a798",
+      "shortId": "Q-29A798",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous découvrez que votre employeur vous paie moins que vos collègues hommes pour le même travail. Que pouvez-vous faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Rien, l'employeur décide librement des salaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Saisir le conseil de prud'hommes : l'égalité salariale est un droit",
+          "isCorrect": true
+        },
+        {
+          "text": "Démissionner immédiatement",
+          "isCorrect": false
+        },
+        {
+          "text": "Accepter car les femmes gagnent toujours moins",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "110bf7091e1f94534b141326",
+      "shortId": "Q-141326",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant de 14 ans refuse d'aller à l'école car ses camarades l'embêtent. Quelle est la bonne démarche ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous le laissez rester à la maison sans rien faire",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous contactez l'école pour signaler le problème et demander une rencontre avec le directeur",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous le déscolarisez définitivement",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous lui dites de résoudre le problème seul",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "90470c214c81679c36349202",
+      "shortId": "Q-349202",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur vous demande de travailler le dimanche sans compensation. Quelle est la bonne réaction ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez pour ne pas perdre votre emploi",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez et rappelez à votre employeur que le travail dominical doit faire l'objet d'une majoration de salaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous travaillez et ne dites rien",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous démissionnez immédiatement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a1a84bdd5bf3332d66e9c02e",
+      "shortId": "Q-E9C02E",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre employeur ne vous a pas versé votre salaire depuis 2 mois. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous attendez patiemment",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous mettez l'employeur en demeure par lettre recommandée et saisissez le conseil de prud'hommes",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous arrêtez de travailler immédiatement sans prévenir",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous acceptez un bon d'achat à la place",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "055a83ac737e504aa2cadb20",
+      "shortId": "Q-CADB20",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant est malade et le médecin lui prescrit un médicament. Que faites-vous pour être remboursé ?</p>\n",
+      "choices": [
+        {
+          "text": "Rien, les médicaments sont gratuits",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous présentez votre carte Vitale à la pharmacie et le remboursement se fait automatiquement",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous payez tout et attendez",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous allez directement aux urgences",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a42bf10087f51b6ad53c9568",
+      "shortId": "Q-3C9568",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous venez d'avoir un enfant. Quelles sont vos obligations légales dans les jours qui suivent la naissance ?</p>\n",
+      "choices": [
+        {
+          "text": "Aucune obligation immédiate",
+          "isCorrect": false
+        },
+        {
+          "text": "Déclarer la naissance à la mairie dans les 5 jours suivants",
+          "isCorrect": true
+        },
+        {
+          "text": "Inscrire l'enfant à l'école dès le premier jour",
+          "isCorrect": false
+        },
+        {
+          "text": "Déclarer la naissance dans les 30 jours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "468180f6c2b6de912f7ed71f",
+      "shortId": "Q-7ED71F",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Un élève refuse de participer au cours de sciences car les théories enseignées contredisent ses croyances religieuses. Quelle est la position de l'école ?</p>\n",
+      "choices": [
+        {
+          "text": "L'école doit adapter le programme aux croyances de l'élève",
+          "isCorrect": false
+        },
+        {
+          "text": "L'école maintient le programme : personne ne peut refuser un enseignement pour raisons religieuses",
+          "isCorrect": true
+        },
+        {
+          "text": "L'école propose un cours alternatif",
+          "isCorrect": false
+        },
+        {
+          "text": "L'élève peut être dispensé sur présentation d'un certificat religieux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "151d298f9e6ab299074e26f6",
+      "shortId": "Q-4E26F6",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Un enseignant porte un symbole religieux visible pendant ses cours dans une école publique. Est-ce autorisé ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, la liberté religieuse s'applique aux enseignants",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, les agents du service public sont soumis au principe de neutralité religieuse dans l'exercice de leurs fonctions",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si les élèves sont d'accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Non seulement si le symbole est très grand",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1d680be87ac37cde04361664",
+      "shortId": "Q-361664",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Un parent demande à ce que son enfant soit dispensé de la cantine scolaire car le menu n'est pas conforme à ses prescriptions religieuses. Que peut faire l'école ?</p>\n",
+      "choices": [
+        {
+          "text": "L'école doit proposer un menu adapté obligatoirement",
+          "isCorrect": false
+        },
+        {
+          "text": "L'école peut proposer des menus adaptés si elle le souhaite, mais n'y est pas obligée. L'enfant peut apporter son repas ou manger chez lui",
+          "isCorrect": true
+        },
+        {
+          "text": "L'école doit refuser cette demande",
+          "isCorrect": false
+        },
+        {
+          "text": "L'école doit fermer la cantine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "50d6edfe79b3723f29348f38",
+      "shortId": "Q-348F38",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre commune prend une décision que vous contestez (fermeture d'une école). Quels sont vos recours ?</p>\n",
+      "choices": [
+        {
+          "text": "Aucun, la mairie décide souverainement",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous pouvez contacter votre conseiller municipal, pétitionner, saisir le préfet ou le tribunal administratif si la décision est illégale",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous pouvez fermer l'école de force",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous attendez les prochaines élections sans rien faire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b091739eaa3d7a8158742005",
+      "shortId": "Q-742005",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant vous pose une question sur la Révolution française. Quelle est la date correcte à lui donner ?</p>\n",
+      "choices": [
+        {
+          "text": "1789",
+          "isCorrect": true
+        },
+        {
+          "text": "1815",
+          "isCorrect": false
+        },
+        {
+          "text": "1848",
+          "isCorrect": false
+        },
+        {
+          "text": "1905",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d9148f574f08ba823bf3db71",
+      "shortId": "Q-F3DB71",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous cherchez un emploi. Votre employeur potentiel vous demande de travailler 'à l'essai' sans contrat ni salaire pendant un mois. Est-ce légal ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, c'est une pratique courante",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, toute période de travail effectif doit être rémunérée et faire l'objet d'un contrat",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si vous êtes d'accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui pour les moins de 26 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3a76163488fec23ea8516aab",
+      "shortId": "Q-516AAB",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous avez un enfant de 6 ans. Quand doit-il commencer l'école primaire ?</p>\n",
+      "choices": [
+        {
+          "text": "À 3 ans (maternelle obligatoire depuis 2019)",
+          "isCorrect": true
+        },
+        {
+          "text": "À 6 ans (école élémentaire)",
+          "isCorrect": false
+        },
+        {
+          "text": "À 5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "À 7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ab7bbaec6269b02111d0e44d",
+      "shortId": "Q-D0E44D",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre médecin vous prescrit un arrêt maladie de 8 jours. Quelles sont vos obligations vis-à-vis de votre employeur ?</p>\n",
+      "choices": [
+        {
+          "text": "Aucune obligation",
+          "isCorrect": false
+        },
+        {
+          "text": "Envoyer le volet 3 du certificat médical à votre employeur dans les 48h et les volets 1 et 2 à la CPAM",
+          "isCorrect": true
+        },
+        {
+          "text": "Prévenir verbalement et c'est tout",
+          "isCorrect": false
+        },
+        {
+          "text": "Envoyer uniquement à la Sécu, l'employeur n'a pas à être informé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0060b4cc6b35f9762b059e5c",
+      "shortId": "Q-059E5C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre bailleur veut augmenter votre loyer de 20% lors du renouvellement de votre bail. Est-ce légal ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, le propriétaire fixe librement le loyer",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, en zone tendue l'augmentation est plafonnée par l'indice de référence des loyers (IRL). Une hausse de 20% serait illégale",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si vous avez signé le bail",
+          "isCorrect": false
+        },
+        {
+          "text": "Cela dépend du type de contrat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0aabef36f168367c8b9e65c2",
+      "shortId": "Q-9E65C2",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous avez travaillé 5 ans en France avec un contrat légal. Vous perdez votre emploi. Avez-vous droit aux allocations chômage ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, les étrangers n'ont pas droit au chômage",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui si vous avez cotisé suffisamment (au moins 6 mois sur 24) et êtes en situation régulière sur le territoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, uniquement les citoyens français y ont droit",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui automatiquement dès la fin du contrat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "dcd11d85055f301ecd324f4c",
+      "shortId": "Q-324F4C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant est blessé à l'école. L'enseignant doit-il vous prévenir immédiatement ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, l'école gère seule",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, les parents ou tuteurs légaux doivent être prévenus immédiatement en cas d'accident scolaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement si c'est grave",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, vous le verrez en venant chercher l'enfant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5d41af4dde5c0073b413e964",
+      "shortId": "Q-13E964",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous souhaitez adopter un enfant en France. Quelle est la première étape obligatoire ?</p>\n",
+      "choices": [
+        {
+          "text": "Contacter directement un orphelinat",
+          "isCorrect": false
+        },
+        {
+          "text": "Obtenir un agrément du conseil départemental après une évaluation de votre aptitude à l'adoption",
+          "isCorrect": true
+        },
+        {
+          "text": "Contacter l'Agence Française de l'Adoption",
+          "isCorrect": false
+        },
+        {
+          "text": "S'inscrire sur une liste d'attente à la mairie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "92a395b668c7da270c9c3394",
+      "shortId": "Q-9C3394",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Votre enfant de 16 ans veut travailler pendant les vacances scolaires. Est-ce possible et sous quelles conditions ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, le travail est interdit avant 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, avec l'autorisation écrite des parents et sous respect des règles protectrices des mineurs (durée, horaires, types de travaux)",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui sans aucune condition",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, il faut attendre 17 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3d84e28365a41f83dbf9f00c",
+      "shortId": "Q-F9F00C",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous suspectez votre voisin de maltraiter ses enfants. Que devez-vous faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Ne pas intervenir dans la vie privée des autres",
+          "isCorrect": false
+        },
+        {
+          "text": "Signaler vos soupçons au 119 (Allô Enfance en Danger) ou aux services sociaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Confronter directement le voisin",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre d'avoir des preuves formelles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  }
+]

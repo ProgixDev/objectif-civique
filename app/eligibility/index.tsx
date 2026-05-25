@@ -22,12 +22,14 @@ export default function EligibilityFlow() {
 
   if (verdictVisible) {
     const verdict = computeEligibility(answers);
+    // Orange (warning) pour les cas qui demandent une action de l'utilisateur :
+    //   - "required" : doit passer l'examen
+    //   - "needs_cert" : besoin d'un certificat médical
+    // Vert (success) pour les dispenses / réussites déjà acquises.
     const accent =
-      verdict.status === "required"
-        ? Colors.primary
-        : verdict.status === "needs_cert"
-          ? Colors.warning
-          : Colors.success;
+      verdict.status === "required" || verdict.status === "needs_cert"
+        ? Colors.warning
+        : Colors.success;
 
     return (
       <View style={{ flex: 1, backgroundColor: Colors.surface }}>

@@ -25,6 +25,7 @@ import { ProgressBar } from "@/components/ui/ProgressBar";
 import { EmptyState } from "@/components/EmptyState";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
+import { TARGETED_TESTS } from "@/data/extraContent";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
@@ -32,7 +33,12 @@ import { getPresentation } from "@/lib/goalPresentation";
 import { Category } from "@/types";
 
 type FilterKey = "Tous" | Category;
-type SubTab = "officielles" | "themes" | "flashcards" | "assimilation";
+type SubTab =
+  | "officielles"
+  | "themes"
+  | "flashcards"
+  | "tests"
+  | "assimilation";
 
 const FILTERS: { key: FilterKey; label: string }[] = [
   { key: "NAT", label: "Naturalisation" },
@@ -98,6 +104,7 @@ export default function Revise() {
   const subTabs: { key: SubTab; label: string }[] = [
     { key: "officielles", label: "Officielles" },
     { key: "themes", label: "Thèmes" },
+    { key: "tests", label: "Tests ciblés" },
     { key: "flashcards", label: "Flashcards" },
     ...(userGoal === "NAT"
       ? [{ key: "assimilation" as SubTab, label: "Assimilation" }]
@@ -221,6 +228,8 @@ export default function Revise() {
             totalQuestions={totalQuestions}
           />
         ) : null}
+
+        {subTab === "tests" ? <TargetedTestsSection /> : null}
 
         {subTab === "flashcards" ? <FlashcardsSection /> : null}
 
@@ -427,6 +436,48 @@ function ThemesSection({
               });
             }}
           />
+        ))}
+      </View>
+    </View>
+  );
+}
+
+/* ───── Tests ciblés par sous-thème ───── */
+
+function TargetedTestsSection() {
+  return (
+    <View>
+      <Text style={styles.testsIntro}>
+        Tests rapides par sous-thème (10–20 questions ciblées).
+      </Text>
+      <View style={styles.testsList}>
+        {TARGETED_TESTS.filter((t) => t.questions.length > 0).map((t) => (
+          <Pressable
+            key={t.id}
+            onPress={() =>
+              router.push({
+                pathname: "/practice/[category]",
+                params: { category: "test", subTheme: t.id },
+              })
+            }
+            style={({ pressed }) => [
+              styles.testCard,
+              pressed && { opacity: 0.92 },
+            ]}
+          >
+            <View style={styles.testIconWrap}>
+              <Text style={styles.testIconText}>{t.questions.length}</Text>
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.testTitle} numberOfLines={1}>
+                {t.title}
+              </Text>
+              <Text style={styles.testSub}>
+                {t.questions.length} questions ciblées
+              </Text>
+            </View>
+            <ChevronRight size={16} color={Colors.textTertiary} />
+          </Pressable>
         ))}
       </View>
     </View>
@@ -965,6 +1016,49 @@ const styles = StyleSheet.create({
     fontSize: 13,
     color: Colors.white,
     letterSpacing: 0.2,
+  },
+
+  /* Tests ciblés */
+  testsIntro: {
+    fontFamily: "Inter_500Medium",
+    fontSize: 12.5,
+    color: Colors.textSecondary,
+    marginBottom: 12,
+  },
+  testsList: { gap: 8 },
+  testCard: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 16,
+    backgroundColor: Colors.white,
+    ...cardShadow,
+  },
+  testIconWrap: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    backgroundColor: "rgba(0,85,164,0.10)",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  testIconText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 15,
+    color: Colors.primary,
+  },
+  testTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  testSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    color: Colors.textSecondary,
+    marginTop: 2,
   },
 
   /* Assimilation section */

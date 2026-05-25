@@ -1,0 +1,691 @@
+[
+  {
+    "id": "690cf26568a89b75e38fe912",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Les fonctions de Maire, Conseiller municipal, départemental ou régional sont-elles rémunérées ?",
+    "choices": [
+      {
+        "text": "Bénévoles",
+        "isCorrect": false
+      },
+      {
+        "text": "Indemnisées selon un barème légal",
+        "isCorrect": true
+      },
+      {
+        "text": "Payées au SMIC",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les fonctions électives locales sont indemnisées selon la taille de la collectivité, mais ne constituent pas un salaire.",
+    "helpNotes": [
+      "Indemnité ≠ salaire",
+      "Principe de gratuité du mandat électif"
+    ]
+  },
+  {
+    "id": "690745bcbf88e35210cd2fbd",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle principal des communes en France ?",
+    "choices": [
+      {
+        "text": "Gérer les services de proximité",
+        "isCorrect": true
+      },
+      {
+        "text": "Fixer les lois nationales",
+        "isCorrect": false
+      },
+      {
+        "text": "Diriger les départements",
+        "isCorrect": false
+      },
+      {
+        "text": "Organiser les élections européennes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les communes s’occupent des écoles primaires, de l’état civil et des services locaux.",
+    "helpNotes": [
+      "Le maire représente l’État localement.",
+      "La commune est la plus petite collectivité territoriale."
+    ]
+  },
+  {
+    "id": "690745bcbf88e35210cd2fc6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "De quoi le département est-il responsable ?",
+    "choices": [
+      {
+        "text": "Des collèges et de l’action sociale",
+        "isCorrect": true
+      },
+      {
+        "text": "Des universités",
+        "isCorrect": false
+      },
+      {
+        "text": "Des hôpitaux militaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Des routes nationales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le département gère les collèges, l’aide sociale et certaines infrastructures locales.",
+    "helpNotes": [
+      "Présidé par un conseil départemental.",
+      "Situé entre la commune et la région."
+    ]
+  },
+  {
+    "id": "690745bcbf88e35210cd2fcf",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+    "choices": [
+      {
+        "text": "Les régions",
+        "isCorrect": true
+      },
+      {
+        "text": "Les communes",
+        "isCorrect": false
+      },
+      {
+        "text": "Les départements",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, les régions sont responsables de l’organisation des transports régionaux (TER, transports interurbains).",
+    "helpNotes": [
+      "Elle soutient aussi le développement économique.",
+      "Son président est élu par les conseillers régionaux."
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f89",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+    "choices": [
+      {
+        "text": "6 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "2 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "10 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le conseil municipal est élu pour 6 ans et le maire est élu par le conseil municipal pour la même durée.",
+    "helpNotes": [
+      "Mandat municipal = 6 ans",
+      "Maire élu par le conseil municipal"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f90",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est l'organisation administrative de la France ?",
+    "choices": [
+      {
+        "text": "Communes, départements, régions (et l’État)",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement des communes",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement des provinces",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement des cantons",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France est organisée notamment en communes, départements et régions.",
+    "helpNotes": [
+      "Commune / département / région",
+      "Organisation territoriale"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3046",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien y a-t-il de départements en France ?",
+    "choices": [
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "27",
+        "isCorrect": false
+      },
+      {
+        "text": "101",
+        "isCorrect": true
+      },
+      {
+        "text": "200",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France compte 101 départements (métropole + outre-mer).",
+    "helpNotes": [
+      "101 départements",
+      "Collectivités territoriales"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3047",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui représente l'État dans un département ?",
+    "choices": [
+      {
+        "text": "Le maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le préfet",
+        "isCorrect": true
+      },
+      {
+        "text": "Le député",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du tribunal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dans un département, le préfet représente l’État et coordonne l’action des services de l’État.",
+    "helpNotes": [
+      "Préfet = représentant de l’État",
+      "Administration territoriale"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f99",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui dirige la commune ?",
+    "choices": [
+      {
+        "text": "Le préfet",
+        "isCorrect": false
+      },
+      {
+        "text": "Le maire",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le procureur",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La commune est dirigée par le maire, élu par le conseil municipal.",
+    "helpNotes": [
+      "Commune = maire",
+      "Conseil municipal"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f9f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien y a-t-il de régions en France ?",
+    "choices": [
+      {
+        "text": "18 (dont 5 outre-mer)",
+        "isCorrect": true
+      },
+      {
+        "text": "13",
+        "isCorrect": false
+      },
+      {
+        "text": "22",
+        "isCorrect": false
+      },
+      {
+        "text": "101",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France compte 18 régions : 13 en métropole et 5 en outre-mer.",
+    "helpNotes": [
+      "18 régions",
+      "13 métropole + 5 outre-mer"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f97",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est le préfet ?",
+    "choices": [
+      {
+        "text": "Le chef d’un tribunal",
+        "isCorrect": false
+      },
+      {
+        "text": "Le représentant de l’État dans un département ou une région",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président du Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le chef d’un parti politique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le préfet représente l’État dans le département (et, pour le préfet de région, à l’échelle régionale).",
+    "helpNotes": [
+      "Préfet = représentant de l’État",
+      "Rôle administratif"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2fa2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle principal du département ?",
+    "choices": [
+      {
+        "text": "Gérer des actions de solidarité et des services de proximité (ex : aide sociale)",
+        "isCorrect": true
+      },
+      {
+        "text": "Voter les lois nationales",
+        "isCorrect": false
+      },
+      {
+        "text": "Nommer le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre la justice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le département joue un rôle important dans la solidarité et les services de proximité, notamment l’action sociale.",
+    "helpNotes": [
+      "Département = solidarité",
+      "Action sociale"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2fa3",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle principal des communes ?",
+    "choices": [
+      {
+        "text": "Gérer les services locaux du quotidien (état civil, écoles, etc.)",
+        "isCorrect": true
+      },
+      {
+        "text": "Voter les lois nationales",
+        "isCorrect": false
+      },
+      {
+        "text": "Diriger l'Union européenne",
+        "isCorrect": false
+      },
+      {
+        "text": "Rendre les décisions de justice",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La commune, dirigée par le maire et le conseil municipal, gère de nombreux services de proximité.",
+    "helpNotes": [
+      "Commune = services de proximité",
+      "État civil / vie locale"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2fa4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de communes environ existe-t-il en France ?",
+    "choices": [
+      {
+        "text": "Environ 35 000",
+        "isCorrect": true
+      },
+      {
+        "text": "Environ 1 000",
+        "isCorrect": false
+      },
+      {
+        "text": "Environ 5 000",
+        "isCorrect": false
+      },
+      {
+        "text": "Environ 100 000",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France compte un grand nombre de communes, autour de 35 000, ce qui en fait un échelon territorial très présent.",
+    "helpNotes": [
+      "France ≈ 35 000 communes",
+      "Échelon local"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c5d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un habitant souhaite signaler un problème de voirie (trou dans la chaussée). À qui doit-il s’adresser ?",
+    "choices": [
+      {
+        "text": "À la mairie de sa commune",
+        "isCorrect": true
+      },
+      {
+        "text": "Au ministère de l’Intérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture de région",
+        "isCorrect": false
+      },
+      {
+        "text": "Au président de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La voirie communale relève de la compétence du maire. Les citoyens peuvent signaler les problèmes à la mairie.",
+    "helpNotes": [
+      "Compétences des communes",
+      "Rôle du maire"
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3353",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui gère les écoles primaires et maternelles publiques ?",
+    "choices": [
+      {
+        "text": "Les communes",
+        "isCorrect": true
+      },
+      {
+        "text": "Les départements",
+        "isCorrect": false
+      },
+      {
+        "text": "Les régions",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les communes sont responsables des écoles maternelles et primaires publiques (bâtiments, matériel, cantine). L’État s’occupe des programmes scolaires et des enseignants.",
+    "helpNotes": [
+      "Le maire est responsable de l’entretien des écoles.",
+      "Les enseignants sont employés par l’État."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd335c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel niveau de collectivité s’occupe des collèges et de l’aide sociale ?",
+    "choices": [
+      {
+        "text": "Le département",
+        "isCorrect": true
+      },
+      {
+        "text": "La région",
+        "isCorrect": false
+      },
+      {
+        "text": "La commune",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les départements gèrent les collèges, l’aide sociale et les routes départementales.",
+    "helpNotes": [
+      "Le président du conseil départemental en est le chef.",
+      "Le budget est voté par les conseillers départementaux."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3365",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle collectivité gère les lycées et les transports régionaux ?",
+    "choices": [
+      {
+        "text": "La région",
+        "isCorrect": true
+      },
+      {
+        "text": "Le département",
+        "isCorrect": false
+      },
+      {
+        "text": "La commune",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les régions sont responsables des lycées, des transports et du développement économique.",
+    "helpNotes": [
+      "Le président du conseil régional dirige l’exécutif.",
+      "Les régions ont été réduites à 13 en 2016 en métropole."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd336e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le représentant de l’État dans un département ?",
+    "choices": [
+      {
+        "text": "Le préfet",
+        "isCorrect": true
+      },
+      {
+        "text": "Le maire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du conseil départemental",
+        "isCorrect": false
+      },
+      {
+        "text": "Le député",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le préfet représente l’État dans le département et veille à l’application des lois.",
+    "helpNotes": [
+      "Nommé par le gouvernement.",
+      "Il coordonne les services de l’État localement."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3377",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document fixe la répartition des compétences entre l’État et les collectivités territoriales ?",
+    "choices": [
+      {
+        "text": "La Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Code civil",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Code des collectivités",
+        "isCorrect": false
+      },
+      {
+        "text": "La Charte de l’environnement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La Constitution de 1958 organise la décentralisation et définit le rôle des collectivités locales.",
+    "helpNotes": [
+      "La France reste un État unitaire.",
+      "Les collectivités disposent d’une autonomie de gestion."
+    ]
+  },
+  {
+    "id": "6919eb56c962b75170825125",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelles sont les principales missions du Conseil général (aujourd’hui appelé **Conseil départemental**) ?",
+    "choices": [
+      {
+        "text": "Soutenir l’économie, gérer la formation professionnelle et administrer les lycées",
+        "isCorrect": false
+      },
+      {
+        "text": "Assurer l’action sociale, protéger l’enfance et gérer les collèges",
+        "isCorrect": true
+      },
+      {
+        "text": "S’occuper de la voirie communale et des écoles primaires",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "**Le Conseil général, devenu Conseil départemental**, est surtout responsable de l’action sociale (RSA, personnes âgées, handicap), de la protection de l’enfance et de la gestion des collèges dans le département.",
+    "helpNotes": [
+      "C’est la collectivité qui finance le plus l’action sociale.",
+      "Elle s’occupe des collèges, pas des lycées ni des écoles primaires."
+    ]
+  },
+  {
+    "id": "694bca21b0ac0df9707b6331",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui gère les collèges publics ?",
+    "choices": [
+      {
+        "text": "Les communes",
+        "isCorrect": false
+      },
+      {
+        "text": "Les départements",
+        "isCorrect": true
+      },
+      {
+        "text": "Les régions",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "",
+    "helpNotes": []
+  }
+]

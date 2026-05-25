@@ -1,0 +1,1164 @@
+[
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f67",
+      "shortId": "Q-3B2F67",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À quoi sert un titre de séjour ?</p>\n",
+      "choices": [
+        {
+          "text": "À remplacer un passeport",
+          "isCorrect": false
+        },
+        {
+          "text": "À faciliter certaines démarches selon le type de titre",
+          "isCorrect": false
+        },
+        {
+          "text": "À donner automatiquement la nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "À prouver qu’on peut résider légalement en France (selon le type de titre)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Un titre de séjour atteste du droit de résider en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26468a89b75e38fe90f",
+      "shortId": "Q-8FE90F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Peut-on être citoyen sans être français ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, je dois être français pour être citoyen",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, car je peux voter à certaines élections locales",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si je participe activement à la vie sociale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La citoyenneté française est liée à la nationalité. Les citoyens étrangers peuvent participer à la vie locale, mais ne sont pas citoyens français.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4c48ffb722a33b2f5d",
+      "shortId": "Q-3B2F5D",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Est-il toujours possible de divorcer ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, selon des procédures prévues par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, uniquement avec l’accord de l’employeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, le divorce est interdit en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf après un délai obligatoire de vingt ans de mariage",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le divorce est possible, mais il est encadré par des procédures légales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912be9",
+      "shortId": "Q-912BE9",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une personne étrangère obtient son premier titre de séjour et souhaite s’inscrire à la Sécurité sociale. Quelle condition doit-elle remplir ?</p>\n",
+      "choices": [
+        {
+          "text": "Résider de manière stable et régulière en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Détenir un passeport européen",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir un emploi à temps plein",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir un revenu supérieur au SMIC",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Pour être affiliée à la Sécurité sociale, une personne doit résider de façon stable (au moins 3 mois) et régulière en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912beb",
+      "shortId": "Q-912BEB",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une famille reçoit un avis d’expulsion pour loyers impayés. Quelle institution peut les aider en premier ?</p>\n",
+      "choices": [
+        {
+          "text": "Le ministère de l’Intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le propriétaire lui-même",
+          "isCorrect": false
+        },
+        {
+          "text": "La mairie ou le service social du département",
+          "isCorrect": true
+        },
+        {
+          "text": "Le centre des impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les familles en difficulté peuvent contacter la mairie ou les services sociaux du département pour une aide ou une médiation.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912bf0",
+      "shortId": "Q-912BF0",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un résident étranger doit renouveler son titre de séjour. Quand doit-il faire la demande ?</p>\n",
+      "choices": [
+        {
+          "text": "Une fois la carte expirée, dans les 15 jours",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement le jour où la carte expire",
+          "isCorrect": false
+        },
+        {
+          "text": "Entre 2 et 4 mois avant la date d’expiration",
+          "isCorrect": true
+        },
+        {
+          "text": "Quand la préfecture le contacte",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La demande de renouvellement doit être faite avant l’expiration du titre, généralement entre 2 et 4 mois à l’avance.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c868a89b75e3912bf1",
+      "shortId": "Q-912BF1",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une personne âgée ne peut plus préparer ses repas seule. Quelle aide publique peut-elle demander ?</p>\n",
+      "choices": [
+        {
+          "text": "Une réduction d’impôt automatique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une allocation chômage temporaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Une aide spéciale de la mairie pour le logement",
+          "isCorrect": false
+        },
+        {
+          "text": "L’aide à domicile via l’Allocation personnalisée d’autonomie (APA)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’APA permet aux personnes âgées dépendantes de bénéficier d’aides à domicile financées par le département.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3092",
+      "shortId": "Q-3B3092",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quel numéro d'urgence permet d'appeler le SAMU ?</p>\n",
+      "choices": [
+        {
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "112",
+          "isCorrect": false
+        },
+        {
+          "text": "17",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le SAMU (urgence médicale) se contacte au 15. Le 112 est le numéro d’urgence européen.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3093",
+      "shortId": "Q-3B3093",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel numéro d'urgence permet d'appeler les pompiers ?</p>\n",
+      "choices": [
+        {
+          "text": "17",
+          "isCorrect": false
+        },
+        {
+          "text": "114",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les pompiers se contactent au 18. Le 114 est un numéro d’urgence par SMS (notamment pour les personnes sourdes ou malentendantes).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3094",
+      "shortId": "Q-3B3094",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?</p>\n",
+      "choices": [
+        {
+          "text": "S’inscrire à la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Assurer le véhicule",
+          "isCorrect": true
+        },
+        {
+          "text": "Demander une carte Vitale",
+          "isCorrect": false
+        },
+        {
+          "text": "Obtenir un passeport",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, il est obligatoire d’assurer un véhicule pour pouvoir circuler.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3095",
+      "shortId": "Q-3B3095",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À quelles conditions un mariage est-il reconnu juridiquement ?</p>\n",
+      "choices": [
+        {
+          "text": "S’il est célébré à la mairie (mariage civil)",
+          "isCorrect": true
+        },
+        {
+          "text": "S’il est célébré uniquement à l’église",
+          "isCorrect": false
+        },
+        {
+          "text": "S’il est célébré uniquement à la mosquée",
+          "isCorrect": false
+        },
+        {
+          "text": "S’il est célébré uniquement en famille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, seul le mariage civil célébré par un officier d’état civil (mairie) a une valeur juridique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3096",
+      "shortId": "Q-3B3096",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quand faut-il déclarer son enfant au service d'état civil de la mairie ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement lors de l’entrée à l’école",
+          "isCorrect": false
+        },
+        {
+          "text": "À 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Ce n’est pas obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les jours qui suivent la naissance",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La naissance doit être déclarée à l’état civil de la mairie dans un délai légal après l’accouchement (rapidement après la naissance).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b30a1",
+      "shortId": "Q-3B30A1",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu’est-ce qu’un numéro d’urgence ?</p>\n",
+      "choices": [
+        {
+          "text": "Un numéro pour réserver un train",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro pour commander un repas",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro pour payer ses impôts",
+          "isCorrect": false
+        },
+        {
+          "text": "Un numéro à composer en cas de danger ou d’urgence",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Un numéro d’urgence permet de joindre rapidement les services de secours en cas de danger, accident ou urgence.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b2ffe",
+      "shortId": "Q-3B2FFE",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel mariage est reconnu par l'État ?</p>\n",
+      "choices": [
+        {
+          "text": "Un mariage uniquement célébré entre amis",
+          "isCorrect": false
+        },
+        {
+          "text": "Un mariage sans déclaration à l’état civil",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mariage civil (à la mairie)",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement le mariage religieux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, seul le mariage civil, célébré par un officier d’état civil en mairie, est reconnu par l’État.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b3001",
+      "shortId": "Q-3B3001",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?</p>\n",
+      "choices": [
+        {
+          "text": "La carte Vitale",
+          "isCorrect": false
+        },
+        {
+          "text": "L’aide juridictionnelle",
+          "isCorrect": true
+        },
+        {
+          "text": "Le permis de conduire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le RSA",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’aide juridictionnelle permet, sous conditions de ressources, de prendre en charge tout ou partie des frais d’avocat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b3002",
+      "shortId": "Q-3B3002",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Où faut-il déclarer la naissance d'un enfant ?</p>\n",
+      "choices": [
+        {
+          "text": "À la poste",
+          "isCorrect": false
+        },
+        {
+          "text": "À la mairie (service état civil)",
+          "isCorrect": true
+        },
+        {
+          "text": "Au commissariat",
+          "isCorrect": false
+        },
+        {
+          "text": "À l’école",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La naissance doit être déclarée à la mairie du lieu de naissance, dans les délais prévus.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b3003",
+      "shortId": "Q-3B3003",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est l'une des conditions pour passer l'examen du permis de conduire ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir déjà un permis étranger obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Être marié",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir l’âge requis",
+          "isCorrect": true
+        },
+        {
+          "text": "Être propriétaire d’une voiture",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Pour passer le permis, il faut notamment respecter des conditions comme l’âge minimum requis.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b3004",
+      "shortId": "Q-3B3004",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Un bail locatif est valide s'il est :</p>\n",
+      "choices": [
+        {
+          "text": "Valide seulement s’il est notarié",
+          "isCorrect": false
+        },
+        {
+          "text": "Valide sans aucune signature",
+          "isCorrect": false
+        },
+        {
+          "text": "Écrit et signé par le propriétaire et le locataire",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement oral",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Un bail est généralement un contrat écrit, signé par les parties, précisant droits et obligations.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3005",
+      "shortId": "Q-3B3005",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Où peut-on déposer un lave-vaisselle cassé ?</p>\n",
+      "choices": [
+        {
+          "text": "À la déchèterie",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans une poubelle classique",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans la rue",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans une rivière",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les appareils électroménagers usagés doivent être déposés en déchèterie ou repris par un distributeur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3017",
+      "shortId": "Q-3B3017",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est l'âge de la majorité ?</p>\n",
+      "choices": [
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "15 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La majorité légale est fixée à 18 ans en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd36fb",
+      "shortId": "Q-CD36FB",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle démarche est obligatoire pour toute personne qui emménage en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Déclarer son changement d’adresse",
+          "isCorrect": true
+        },
+        {
+          "text": "Souscrire une carte bancaire française",
+          "isCorrect": false
+        },
+        {
+          "text": "Changer de passeport",
+          "isCorrect": false
+        },
+        {
+          "text": "Obtenir un permis de conduire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Tout résident doit signaler son changement d’adresse à l’administration pour rester en règle.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd3704",
+      "shortId": "Q-CD3704",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle assurance est obligatoire pour un locataire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "L’assurance responsabilité civile",
+          "isCorrect": true
+        },
+        {
+          "text": "L’assurance santé privée",
+          "isCorrect": false
+        },
+        {
+          "text": "L’assurance automobile",
+          "isCorrect": false
+        },
+        {
+          "text": "L’assurance vie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Tout locataire doit souscrire une assurance responsabilité civile couvrant les dommages au logement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd370d",
+      "shortId": "Q-CD370D",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Où peut-on déclarer ses revenus en France ?</p>\n",
+      "choices": [
+        {
+          "text": "À la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Sur le site impots.gouv.fr",
+          "isCorrect": true
+        },
+        {
+          "text": "À la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "Au consulat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La déclaration des revenus se fait chaque année en ligne sur le portail officiel des impôts.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd3716",
+      "shortId": "Q-CD3716",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document permet de prouver l'identité d'un citoyen français ?</p>\n",
+      "choices": [
+        {
+          "text": "Le permis de conduire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le passeport étranger",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte nationale d’identité",
+          "isCorrect": true
+        },
+        {
+          "text": "Le livret de famille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La carte nationale d’identité prouve l’identité et la nationalité françaises.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd371f",
+      "shortId": "Q-CD371F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document est nécessaire pour un ressortissant étranger résidant en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Une attestation d’hébergement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un titre de séjour",
+          "isCorrect": true
+        },
+        {
+          "text": "Un visa touristique",
+          "isCorrect": false
+        },
+        {
+          "text": "Un permis de travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le titre de séjour autorise un étranger à vivre et à travailler en France de manière légale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd3728",
+      "shortId": "Q-CD3728",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle est la condition principale pour demander la nationalité française ?</p>\n",
+      "choices": [
+        {
+          "text": "Parler plusieurs langues étrangères",
+          "isCorrect": false
+        },
+        {
+          "text": "Résider durablement et connaître les valeurs de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir un emploi à temps plein",
+          "isCorrect": false
+        },
+        {
+          "text": "Être propriétaire d’un logement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La naturalisation exige une résidence stable et l’adhésion aux valeurs de la République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd3731",
+      "shortId": "Q-CD3731",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution traite les demandes de naturalisation ?</p>\n",
+      "choices": [
+        {
+          "text": "Le consulat",
+          "isCorrect": false
+        },
+        {
+          "text": "La mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "La préfecture",
+          "isCorrect": true
+        },
+        {
+          "text": "Le tribunal administratif",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les demandes de naturalisation se déposent en préfecture, qui instruit le dossier avant décision du ministère de l’Intérieur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd373a",
+      "shortId": "Q-CD373A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Où déclare-t-on une naissance en France ?</p>\n",
+      "choices": [
+        {
+          "text": "À l’hôpital central",
+          "isCorrect": false
+        },
+        {
+          "text": "Au consulat",
+          "isCorrect": false
+        },
+        {
+          "text": "À la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "À la mairie du lieu de naissance",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Toute naissance doit être déclarée à la mairie du lieu où elle a eu lieu, dans les cinq jours.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd3743",
+      "shortId": "Q-CD3743",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle aide peut soutenir une famille pour payer le loyer ?</p>\n",
+      "choices": [
+        {
+          "text": "La prime d’activité",
+          "isCorrect": false
+        },
+        {
+          "text": "L’allocation familiale",
+          "isCorrect": false
+        },
+        {
+          "text": "La pension alimentaire",
+          "isCorrect": false
+        },
+        {
+          "text": "L’aide personnalisée au logement (APL)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’APL aide les familles et les personnes à revenus modestes à payer leur loyer.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd374c",
+      "shortId": "Q-CD374C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document prouve la propriété ou la location d’un logement ?</p>\n",
+      "choices": [
+        {
+          "text": "Une facture d’électricité",
+          "isCorrect": false
+        },
+        {
+          "text": "Une attestation bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Une quittance de loyer ou un titre de propriété",
+          "isCorrect": true
+        },
+        {
+          "text": "Un certificat médical",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Ces documents servent de justificatif de domicile pour les démarches administratives.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3863",
+      "shortId": "Q-CD3863",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Pourquoi est-il important de déclarer son changement d’adresse aux administrations ?</p>\n",
+      "choices": [
+        {
+          "text": "Ce n’est pas obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour payer moins d’impôts",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour obtenir un nouveau passeport",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour recevoir le courrier officiel et mettre à jour ses droits",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La déclaration de changement d’adresse garantit la continuité des démarches administratives et fiscales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd3890",
+      "shortId": "Q-CD3890",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qu’est-ce que le principe d’assimilation dans une demande de naturalisation ?</p>\n",
+      "choices": [
+        {
+          "text": "L’obtention automatique d’un logement",
+          "isCorrect": false
+        },
+        {
+          "text": "La reconnaissance religieuse",
+          "isCorrect": false
+        },
+        {
+          "text": "La participation à des élections locales",
+          "isCorrect": false
+        },
+        {
+          "text": "La connaissance des droits, devoirs et de la culture française",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’assimilation signifie comprendre et respecter les valeurs et institutions de la République française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd3899",
+      "shortId": "Q-CD3899",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document prouve une naissance en France ?</p>\n",
+      "choices": [
+        {
+          "text": "L’acte de naissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Le livret de famille",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte d’identité",
+          "isCorrect": false
+        },
+        {
+          "text": "Le passeport",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’acte de naissance est un document d’état civil délivré par la mairie du lieu de naissance.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691ca46c1de1da18eed4dd90",
+      "shortId": "Q-D4DD90",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Un titulaire de titre de séjour change d’adresse. Que doit-il faire ?</p>\n",
+      "choices": [
+        {
+          "text": "La déclaration est facultative",
+          "isCorrect": false
+        },
+        {
+          "text": "Le changement est automatique",
+          "isCorrect": false
+        },
+        {
+          "text": "Déclarer son changement d’adresse selon la procédure prévue",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Un changement d’adresse doit être déclaré pour garder son titre de séjour conforme.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ef3cd610d4109b1eca7ec",
+      "shortId": "Q-ECA7EC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Effectuer des aménagements légers et réversibles (peinture, décoration)",
+          "isCorrect": true
+        },
+        {
+          "text": "Changer la destination du logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Percer des murs porteurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Modifier la structure du logement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le locataire peut réaliser des aménagements légers et réversibles (peindre un mur, poser des étagères), à condition de remettre le logement en état lors du départ. Les travaux lourds nécessitent l’accord du propriétaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ef47b610d4109b1ed174b",
+      "shortId": "Q-ED174B",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Le stationnement sur une place réservée aux personnes handicapées :</p>\n",
+      "choices": [
+        {
+          "text": "Est toléré en l’absence de contrôle",
+          "isCorrect": false
+        },
+        {
+          "text": "Est autorisé pour quelques minutes",
+          "isCorrect": false
+        },
+        {
+          "text": "Est interdit et sanctionné par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Est autorisé le soir et le week-end",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les places réservées aux personnes handicapées sont strictement protégées. Y stationner sans autorisation est interdit et entraîne une amende, voire une mise en fourrière.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ef4df610d4109b1ed44f8",
+      "shortId": "Q-ED44F8",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Si une machine à laver est cassée, il est possible de :</p>\n",
+      "choices": [
+        {
+          "text": "La déposer en déchèterie ou faire appel à un service de collecte",
+          "isCorrect": true
+        },
+        {
+          "text": "La jeter dans la rue",
+          "isCorrect": false
+        },
+        {
+          "text": "La laisser dans les parties communes de l’immeuble",
+          "isCorrect": false
+        },
+        {
+          "text": "La réparer soi-même sans aucune règle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les appareils électroménagers usagés doivent être déposés en déchèterie ou repris par un service de collecte spécialisé, afin de respecter les règles de gestion des déchets et de protection de l’environnement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ef5a4610d4109b1eda90e",
+      "shortId": "Q-EDA90E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Dans quel cas faut-il déclarer son enfant au service d'état civil ?</p>\n",
+      "choices": [
+        {
+          "text": "Lorsqu’il entre à l’école maternelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Lorsqu’il reçoit ses premiers vaccins",
+          "isCorrect": false
+        },
+        {
+          "text": "Lorsqu’il change d’école",
+          "isCorrect": false
+        },
+        {
+          "text": "Lorsqu’un enfant vient de naître",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La déclaration de naissance doit être faite au service d’état civil dans les jours suivant la naissance. Elle est obligatoire pour établir l’acte de naissance et l’identité de l’enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ef7c8610d4109b1ef54c1",
+      "shortId": "Q-EF54C1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui peut demander le divorce de personnes mariées ?</p>\n",
+      "choices": [
+        {
+          "text": "Les parents des époux",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le procureur de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "L’un ou l’autre des époux",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, le divorce peut être demandé par l’un ou l’autre des époux, avec ou sans l’accord de l’autre, selon la procédure prévue par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "696928d458a8a578f25a9b84",
+      "shortId": "Q-5A9B84",
+      "category": [
+        "cr",
+        "csp",
+        "nat",
+        "ltc-situation"
+      ],
+      "statement": "<p>Une personne possède un terrain en France. Peut-elle construire une maison sans demander d’autorisation ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, la construction est interdite dans tous les cas",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, une autorisation d’urbanisme est nécessaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si le terrain lui appartient",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, uniquement en zone rurale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Même propriétaire d’un terrain, il est obligatoire de respecter les règles d’urbanisme et d’obtenir une autorisation avant toute construction.</p>\n"
+    }
+  }
+]

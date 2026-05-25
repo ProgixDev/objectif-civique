@@ -1,0 +1,234 @@
+[
+  {
+    "question": {
+      "id": "2c82d1306ffd9dd371a81328",
+      "shortId": "Q-A81328",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous souhaitez voter aux prochaines élections. Que devez-vous avoir fait au préalable ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous inscrire sur les listes électorales de votre mairie",
+          "isCorrect": true
+        },
+        {
+          "text": "Passer un test de culture civique",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir un casier judiciaire vierge",
+          "isCorrect": false
+        },
+        {
+          "text": "Résider en France depuis 10 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b02f33e829ff25f537e3996a",
+      "shortId": "Q-E3996A",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes naturalisé français et souhaitez voter pour la première fois. Que devez-vous faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous inscrire sur les listes électorales de votre commune",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous présenter directement au bureau de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous êtes automatiquement inscrit",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre la mise à jour automatique des listes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "333cbb667b6d653f10c79d80",
+      "shortId": "Q-C79D80",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>On vous propose de voter à la place d'un ami en échange d'un service. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez si c'est pour une bonne cause",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez, le vote est personnel et secret",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous acceptez si l'ami vous rembourse",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous demandez l'avis du responsable du bureau de vote",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7c3a15532637d362bf97ef6b",
+      "shortId": "Q-97EF6B",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>En tant qu'agent de la mairie, une administrée vous demande d'être reçue uniquement par une femme pour des raisons religieuses. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous accédez à sa demande pour lui faire plaisir",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous lui expliquez que le service public ne peut pas organiser son fonctionnement selon les croyances des usagers",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous refusez de la recevoir",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous transférez immédiatement le dossier à une collègue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "94d74f4a3052847bd85189c7",
+      "shortId": "Q-5189C7",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous souhaitez voter à l'élection présidentielle mais vous n'êtes pas inscrit sur les listes électorales. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous vous présentez quand même au bureau de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous vous inscrivez sur les listes électorales avant la date limite (souvent 6 semaines avant le scrutin)",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous ne pouvez plus voter, c'est trop tard",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous pouvez voter dans n'importe quelle mairie sans inscription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1b6f4d98bc0776fbc5525f62",
+      "shortId": "Q-525F62",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous avez été condamné pour un délit à une peine d'emprisonnement avec sursis. Pouvez-vous encore voter ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, toute condamnation pénale entraîne la perte du droit de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Cela dépend : seule une décision judiciaire spécifique privant des droits civiques entraîne la perte du droit de vote",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, le sursis signifie que vous gardez tous vos droits",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, vous devez attendre 5 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2ec9a109bb24e8d7bf62dedc",
+      "shortId": "Q-62DEDC",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes sélectionné comme juré dans un procès d'assises. Pouvez-vous refuser ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, librement",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf motif légitime reconnu par le tribunal (maladie, déplacement professionnel indispensable…)",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si vous avez peur",
+          "isCorrect": false
+        },
+        {
+          "text": "Non jamais, c'est une obligation absolue sans exception",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d341698d9d345824d163f2b6",
+      "shortId": "Q-63F2B6",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes naturalisé français depuis 3 ans. Vous apprenez que votre naturalisation pourrait être retirée. Dans quels cas est-ce possible ?</p>\n",
+      "choices": [
+        {
+          "text": "Jamais, la naturalisation est définitive",
+          "isCorrect": false
+        },
+        {
+          "text": "En cas d'indignité (condamnation pour crimes ou délits contre la nation, terrorisme) dans les 10 ans suivant la naturalisation, ou si elle a été obtenue par fraude",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement si vous retournez dans votre pays d'origine",
+          "isCorrect": false
+        },
+        {
+          "text": "Jamais si vous avez un enfant français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "69416a8748ffb722a33b30b0",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pour combien de temps sont élus les députés ?",
+    "choices": [
+      {
+        "text": "3 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "5 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les députés de l’Assemblée nationale sont élus pour un mandat de cinq ans, sauf dissolution de l’Assemblée nationale.",
+    "helpNotes": []
+  },
+  {
+    "id": "690cf26568a89b75e38fe915",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment sont désignés les maires ?",
+    "choices": [
+      {
+        "text": "Par nomination du préfet",
+        "isCorrect": false
+      },
+      {
+        "text": "Par élection par le conseil municipal",
+        "isCorrect": true
+      },
+      {
+        "text": "Par élection directe des citoyens",
+        "isCorrect": false
+      },
+      {
+        "text": "Par le Président de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le maire est élu par les membres du conseil municipal, eux-mêmes élus par les citoyens lors des élections municipales.",
+    "helpNotes": [
+      "Scrutin de liste municipale",
+      "Élection du maire par le conseil municipal"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b3038",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est élu lors des élections législatives ?",
+    "choices": [
+      {
+        "text": "Les sénateurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Les députés",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Les préfets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les élections législatives servent à élire les députés de l’Assemblée nationale.",
+    "helpNotes": [
+      "Législatives = députés",
+      "Assemblée nationale"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b3039",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quand sont élus les sénateurs ?",
+    "choices": [
+      {
+        "text": "Tous les 5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Tous les 6 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "Tous les 4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Tous les 9 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, les sénateurs sont élus pour **un mandat de 6 ans.**",
+    "helpNotes": [
+      "Sénat = suffrage indirect",
+      "Grands électeurs"
+    ]
+  },
+  {
+    "id": "692c356d32a2815c0b7f3c6c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un député ne respecte pas le règlement de l’Assemblée nationale. Qui peut le sanctionner ?",
+    "choices": [
+      {
+        "text": "Le président de l’Assemblée nationale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le président de la République",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Les électeurs de sa circonscription",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Chaque assemblée parlementaire dispose de son propre règlement et d’un président chargé de faire respecter la discipline.",
+    "helpNotes": [
+      "Pouvoir législatif",
+      "Règlement intérieur de l’Assemblée nationale"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b303a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est élu lors des élections municipales ?",
+    "choices": [
+      {
+        "text": "Les conseillers municipaux",
+        "isCorrect": true
+      },
+      {
+        "text": "Les préfets",
+        "isCorrect": false
+      },
+      {
+        "text": "Les ministres",
+        "isCorrect": false
+      },
+      {
+        "text": "Les députés européens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Aux élections municipales, les citoyens élisent les conseillers municipaux (qui élisent ensuite le maire).",
+    "helpNotes": [
+      "Municipales = conseillers municipaux",
+      "Le maire est élu par le conseil municipal"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b303b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui est élu lors des élections présidentielles ?",
+    "choices": [
+      {
+        "text": "Le président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du Sénat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le préfet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les élections présidentielles permettent d’élire le président de la République.",
+    "helpNotes": [
+      "Présidentielle = président",
+      "Mandat national"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b303d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pour combien de temps est élu le président de la République française ?",
+    "choices": [
+      {
+        "text": "3 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "5 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "6 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le président de la République est élu pour un mandat de 5 ans.",
+    "helpNotes": [
+      "Mandat présidentiel = 5 ans",
+      "Quinquennat"
+    ]
+  },
+  {
+    "id": "69416a4b48ffb722a33b2f56",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Pour combien de temps sont élus les sénateurs ?",
+    "choices": [
+      {
+        "text": "3 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "6 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "10 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les sénateurs sont élus pour un mandat de 6 ans (renouvellement partiel).",
+    "helpNotes": [
+      "Mandat sénatorial = 6 ans",
+      "Renouvellement partiel"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3043",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui élit les députés ?",
+    "choices": [
+      {
+        "text": "Les sénateurs",
+        "isCorrect": false
+      },
+      {
+        "text": "Les citoyens (électeurs) au suffrage universel direct",
+        "isCorrect": true
+      },
+      {
+        "text": "Le gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Les préfets",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les députés sont élus directement par les citoyens lors des élections législatives.",
+    "helpNotes": [
+      "Députés = suffrage universel direct",
+      "Élections législatives"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c5e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un conseiller municipal démissionne avant la fin de son mandat. Que se passe-t-il ?",
+    "choices": [
+      {
+        "text": "Il est remplacé par le suivant sur la liste électorale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le maire choisit librement un remplaçant",
+        "isCorrect": false
+      },
+      {
+        "text": "Une nouvelle élection est immédiatement organisée",
+        "isCorrect": false
+      },
+      {
+        "text": "Le conseil municipal perd son quorum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas de démission, le siège vacant est attribué au suivant sur la liste, sans nouvelle élection sauf cas particulier.",
+    "helpNotes": [
+      "Code général des collectivités territoriales",
+      "Règles de remplacement des élus locaux"
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3380",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la durée du mandat du Président de la République française ?",
+    "choices": [
+      {
+        "text": "5 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "6 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Depuis 2002, le mandat présidentiel en France est de 5 ans, appelé quinquennat.",
+    "helpNotes": [
+      "Avant 2002, la durée était de 7 ans.",
+      "Le président peut être réélu une seule fois consécutivement."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3389",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de temps dure le mandat d’un député à l’Assemblée nationale ?",
+    "choices": [
+      {
+        "text": "5 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "6 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les députés sont élus pour un mandat de 5 ans au suffrage universel direct.",
+    "helpNotes": [
+      "Ils siègent au Palais Bourbon.",
+      "Ils votent les lois et peuvent renverser le gouvernement."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd3392",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la durée du mandat d’un sénateur en France ?",
+    "choices": [
+      {
+        "text": "6 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les sénateurs sont élus pour 6 ans au suffrage indirect par les grands électeurs.",
+    "helpNotes": [
+      "Le Sénat est renouvelé par moitié tous les trois ans.",
+      "Il siège au Palais du Luxembourg à Paris."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd339b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel type d’élection permet de choisir les députés ?",
+    "choices": [
+      {
+        "text": "Les élections législatives",
+        "isCorrect": true
+      },
+      {
+        "text": "Les élections présidentielles",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections municipales",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections européennes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les élections législatives servent à élire les députés qui siègent à l’Assemblée nationale.",
+    "helpNotes": [
+      "Elles ont lieu tous les 5 ans après l’élection présidentielle.",
+      "Les députés représentent la nation entière."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33a4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment le Président de la République est-il élu en France ?",
+    "choices": [
+      {
+        "text": "Au suffrage universel direct",
+        "isCorrect": true
+      },
+      {
+        "text": "Par les parlementaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Par les maires",
+        "isCorrect": false
+      },
+      {
+        "text": "Par le Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Depuis 1962, le Président de la République est élu au suffrage universel direct.",
+    "helpNotes": [
+      "Élection à deux tours si aucun candidat n’obtient la majorité absolue au premier tour.",
+      "Chaque citoyen français majeur peut voter."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33ad",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle élection permet d’élire les représentants au niveau des communes ?",
+    "choices": [
+      {
+        "text": "Les élections municipales",
+        "isCorrect": true
+      },
+      {
+        "text": "Les élections régionales",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections législatives",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections européennes",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les élections municipales servent à élire les conseillers municipaux et le maire.",
+    "helpNotes": [
+      "Les maires sont élus pour 6 ans.",
+      "Ils dirigent la commune et les services municipaux."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33b6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Combien de temps dure le mandat des conseillers régionaux ?",
+    "choices": [
+      {
+        "text": "6 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les conseillers régionaux sont élus pour 6 ans lors des élections régionales.",
+    "helpNotes": [
+      "Le président du conseil régional est élu par les conseillers.",
+      "Ils gèrent les transports, la formation et les lycées."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33bf",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel âge minimum faut-il avoir pour voter en France ?",
+    "choices": [
+      {
+        "text": "18 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "16 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "21 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "25 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le droit de vote est accordé à tout citoyen français âgé de 18 ans ou plus.",
+    "helpNotes": [
+      "L’inscription sur les listes électorales est obligatoire.",
+      "Le vote est un droit et un devoir civique."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33c8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle élection permet aux citoyens français d’élire leurs représentants au Parlement européen ?",
+    "choices": [
+      {
+        "text": "Les élections européennes",
+        "isCorrect": true
+      },
+      {
+        "text": "Les élections sénatoriales",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections législatives",
+        "isCorrect": false
+      },
+      {
+        "text": "Les élections régionales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les élections européennes permettent d’élire les députés européens tous les 5 ans.",
+    "helpNotes": [
+      "Les eurodéputés siègent à Strasbourg et Bruxelles.",
+      "La France compte 81 députés européens en 2025."
+    ]
+  },
+  {
+    "id": "690745c1bf88e35210cd33d1",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document officiel est obligatoire pour voter ?",
+    "choices": [
+      {
+        "text": "La carte d’identité ou le passeport",
+        "isCorrect": true
+      },
+      {
+        "text": "Le permis de conduire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le livret de famille",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte de transport",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour voter, il faut présenter une pièce d’identité valide et être inscrit sur les listes électorales.",
+    "helpNotes": [
+      "La carte d’électeur n’est pas obligatoire mais recommandée.",
+      "Certaines communes exigent une pièce officielle avec photo."
+    ]
+  },
+  {
+    "id": "6919e419c962b7517082275d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un événement grave survient : **le Président de la République décède en cours de mandat.** Selon la Constitution, qui assure alors l’intérim à la tête de l’État ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président de l’Assemblée nationale.",
+        "isCorrect": false
+      },
+      {
+        "text": "Le président du Sénat.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "En cas de décès, démission ou empêchement du Président de la République, **la Constitution prévoit que le président du Sénat assure l’intérim jusqu’à l’élection d’un nouveau président.**",
+    "helpNotes": [
+      "C’est la deuxième autorité de l’État.",
+      "Il dirige la chambre haute du Parlement."
+    ]
+  },
+  {
+    "id": "694bb937b0ac0df97076b7bf",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+    "choices": [
+      {
+        "text": "Être propriétaire d’un logement dans la commune",
+        "isCorrect": false
+      },
+      {
+        "text": "Être inscrit sur les listes électorales depuis 10 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Être citoyen de l’Union européenne ou français et majeur",
+        "isCorrect": true
+      },
+      {
+        "text": "Être né dans la commune",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour être candidat aux élections municipales, il faut être majeur et citoyen français ou citoyen de l’Union européenne. En revanche, seuls les citoyens français peuvent être maire ou adjoint.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bb9aeb0ac0df97076c45e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Parmi ces autorités, laquelle est élue ?",
+    "choices": [
+      {
+        "text": "Le préfet",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Président de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Le procureur de la République",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Président de la République est élu par les citoyens au suffrage universel direct. Les autres autorités sont nommées.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bbbacb0ac0df97076f9cb",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelles sont les fonctions du maire ?",
+    "choices": [
+      {
+        "text": "Gérer uniquement les écoles nationales",
+        "isCorrect": false
+      },
+      {
+        "text": "Représenter l’État à l’étranger",
+        "isCorrect": false
+      },
+      {
+        "text": "Gérer la commune et exécuter les décisions du conseil municipal",
+        "isCorrect": true
+      },
+      {
+        "text": "Diriger le Parlement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le maire gère la commune, exécute les décisions du conseil municipal et représente l’État pour certaines missions (état civil, police administrative).",
+    "helpNotes": []
+  },
+  {
+    "id": "694bd0a9b0ac0df9707d72f2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est l’une des voies possibles pour modifier la Constitution ?",
+    "choices": [
+      {
+        "text": "Par une décision du Gouvernement seul",
+        "isCorrect": false
+      },
+      {
+        "text": "Par un vote du Conseil constitutionnel",
+        "isCorrect": false
+      },
+      {
+        "text": "Par référendum ou par le Parlement réuni en Congrès",
+        "isCorrect": true
+      },
+      {
+        "text": "Par une pétition citoyenne",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La Constitution peut être modifiée soit par référendum, soit par un vote du Parlement réuni en Congrès à la majorité qualifiée.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bd11fb0ac0df9707d9ed3",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui assure l'intérim du président de la République en cas de décès ?",
+    "choices": [
+      {
+        "text": "Le Premier ministre",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Président de l’Assemblée nationale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Président du Sénat",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Conseil constitutionnel",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas de décès (ou de vacance du pouvoir), l’intérim de la présidence de la République est assuré par le Président du Sénat, conformément à la Constitution.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bd22ab0ac0df9707e046f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+    "choices": [
+      {
+        "text": "Être résident en France depuis au moins 10 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Être élu local",
+        "isCorrect": false
+      },
+      {
+        "text": "Être citoyen français et remplir les conditions légales",
+        "isCorrect": true
+      },
+      {
+        "text": "Être membre d’un parti politique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour être candidat à l’élection présidentielle, il faut être citoyen français, majeur, disposer de ses droits civiques et remplir les conditions prévues par la loi (notamment les parrainages).",
+    "helpNotes": []
+  },
+  {
+    "id": "694bd535b0ac0df9707eb5d8",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment est organisé le découpage administratif de la France ?",
+    "choices": [
+      {
+        "text": "En provinces et cantons",
+        "isCorrect": false
+      },
+      {
+        "text": "En régions et arrondissements uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "En communes, départements et régions",
+        "isCorrect": true
+      },
+      {
+        "text": "En districts et territoires fédéraux",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La France est organisée en communes, départements et régions, qui sont des collectivités territoriales dotées de compétences propres.",
+    "helpNotes": []
+  }
+]

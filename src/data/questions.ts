@@ -1,5 +1,6 @@
 import { Category, Question, QuestionType, ThemeId } from "@/types";
 import rawAllQuestions from "../../FULL-DATA/1-questions/_all.json";
+import { EXTRA_FLASHCARDS } from "./extraContent";
 
 /**
  * Pool de questions de l'app — chargé depuis FULL-DATA (data client).
@@ -92,11 +93,25 @@ export const QUESTIONS: Question[] = ALL_RAW_QUESTIONS.map(adaptQuestion)
   .filter((q) => q.choices.length >= 2 && q.correctIndex >= 0);
 
 /**
- * Flashcards uniquement (questions sans choix, format question/réponse).
+ * Flashcards = celles déjà présentes dans `1-questions/_all.json` (32 issues
+ * du livret officiel) + les nouvelles sources APPRENDRE / PREPA-INTENSE /
+ * REFERENTIEL / REFERENTIEL-OFFICIEL / SITUATION (~899 questions Q/A).
+ *
+ * Déduplication par `id` au cas où une même flashcard apparaîtrait dans les
+ * deux sources.
  */
-export const FLASHCARD_QUESTIONS: Question[] = ALL_RAW_QUESTIONS.map(adaptQuestion)
+const BASE_FLASHCARDS: Question[] = ALL_RAW_QUESTIONS.map(adaptQuestion)
   .filter((q): q is Question => q !== null)
   .filter((q) => q.type === "flashcard");
+
+const flashSeen = new Set<string>();
+const flashAll: Question[] = [];
+for (const q of [...BASE_FLASHCARDS, ...EXTRA_FLASHCARDS]) {
+  if (flashSeen.has(q.id)) continue;
+  flashSeen.add(q.id);
+  flashAll.push(q);
+}
+export const FLASHCARD_QUESTIONS: Question[] = flashAll;
 
 export const GOAL_LABELS = {
   NAT: "Naturalisation",

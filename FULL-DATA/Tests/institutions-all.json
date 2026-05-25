@@ -1,0 +1,5490 @@
+[
+  {
+    "question": {
+      "id": "e872f2a387c0d71e87618a52",
+      "shortId": "Q-618A52",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Qui nomme le Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le peuple",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "624551957f5f0bd869172bca",
+      "shortId": "Q-172BCA",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Le Parlement est composé :</p>\n",
+      "choices": [
+        {
+          "text": "De l'Assemblée nationale et du Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Du Sénat et du Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "De l'Assemblée nationale et du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Du Sénat et du Conseil économique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8b09244216570f03c976f26d",
+      "shortId": "Q-76F26D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le pouvoir exécutif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le pouvoir qui applique les lois, dirigé par le Président et le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le pouvoir qui vote les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir qui rend la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir qui contrôle les impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0679b8aa8f3b46b585a970f2",
+      "shortId": "Q-A970F2",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>A-t-on le droit de ne pas respecter une loi ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, la loi s'impose à tous sans exception",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si on n'est pas d'accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui pour les lois anciennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf pour les étrangers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "df941065faa685ea39b8910a",
+      "shortId": "Q-B8910A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui doit respecter la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "Toutes les personnes présentes sur le territoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les citoyens français",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les résidents légaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les majeurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2157abf0d17d2274af000dc6",
+      "shortId": "Q-000DC6",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle de l'autorité judiciaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Rendre la justice au nom du peuple français",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Appliquer les décrets",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6e55b0541258b016be25e079",
+      "shortId": "Q-25E079",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel pouvoir détient un juge ?</p>\n",
+      "choices": [
+        {
+          "text": "Le pouvoir judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Le pouvoir exécutif",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir législatif",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir réglementaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a0979d017d1c8d5c5826df81",
+      "shortId": "Q-26DF81",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>L'autorité judiciaire est exercée par :</p>\n",
+      "choices": [
+        {
+          "text": "Les juges des tribunaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ad68c2f919936f2d76f95778",
+      "shortId": "Q-F95778",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Que se passe-t-il si un ministre ne respecte pas la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "Il peut être poursuivi comme tout citoyen",
+          "isCorrect": true
+        },
+        {
+          "text": "Il bénéficie d'une immunité totale",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est simplement révoqué",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président le protège",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2a7d2a585564e87113ca172b",
+      "shortId": "Q-CA172B",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui est élu lors des élections législatives ?</p>\n",
+      "choices": [
+        {
+          "text": "Les députés à l'Assemblée nationale",
+          "isCorrect": true
+        },
+        {
+          "text": "Les sénateurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Les maires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "46f799c60be92cf7102717b6",
+      "shortId": "Q-2717B6",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Combien de députés composent l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "577",
+          "isCorrect": true
+        },
+        {
+          "text": "300",
+          "isCorrect": false
+        },
+        {
+          "text": "500",
+          "isCorrect": false
+        },
+        {
+          "text": "650",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1fa6c678c7ae5a9ee0bda5b5",
+      "shortId": "Q-BDA5B5",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quand sont élus les sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les 6 ans au suffrage universel indirect",
+          "isCorrect": true
+        },
+        {
+          "text": "Tous les 5 ans au suffrage direct",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "30467b268f6141f1144b1bb2",
+      "shortId": "Q-4B1BB2",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui est élu lors des élections municipales ?</p>\n",
+      "choices": [
+        {
+          "text": "Le maire et les conseillers municipaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Les députés",
+          "isCorrect": false
+        },
+        {
+          "text": "Les sénateurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d6ab6bce28d4c30198d9d809",
+      "shortId": "Q-D9D809",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est élu lors des élections présidentielles ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Les députés",
+          "isCorrect": false
+        },
+        {
+          "text": "Les sénateurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3eb94c4af46df6b6aff35f50",
+      "shortId": "Q-F35F50",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À partir de quel âge a-t-on le droit de voter ?</p>\n",
+      "choices": [
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "20 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "03f937ffd75b326117dbbb34",
+      "shortId": "Q-DBBB34",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour combien de temps est élu le Président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f46cff6c12259ee88e340b6a",
+      "shortId": "Q-340B6A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour combien de temps sont élus les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4aca48916c2aeb296fcf308c",
+      "shortId": "Q-CF308C",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Pour combien de temps sont élus les sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "049b5318604d3080f0594be5",
+      "shortId": "Q-594BE5",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui possède le pouvoir exécutif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République et le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Les juges",
+          "isCorrect": false
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cabafa3468c92a3ab7a234e7",
+      "shortId": "Q-A234E7",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quelle condition est nécessaire pour voter aux élections ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir la nationalité française, être majeur et inscrit sur les listes",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir un emploi stable",
+          "isCorrect": false
+        },
+        {
+          "text": "Être né en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Parler parfaitement français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "522422b819f167f0b8548ef3",
+      "shortId": "Q-548EF3",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Qui peut voter aux élections en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Les citoyens français majeurs non privés de leurs droits civiques",
+          "isCorrect": true
+        },
+        {
+          "text": "Tous les résidents",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les Européens en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Toute personne de plus de 16 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a6c1f52bb478bc2fe6cd3270",
+      "shortId": "Q-CD3270",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que signifie 'suffrage universel' ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les citoyens majeurs ont le droit de vote",
+          "isCorrect": true
+        },
+        {
+          "text": "Seuls les propriétaires votent",
+          "isCorrect": false
+        },
+        {
+          "text": "Seuls les hommes votent",
+          "isCorrect": false
+        },
+        {
+          "text": "Le vote est obligatoire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2e14ec5175903580fcad7c37",
+      "shortId": "Q-AD7C37",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Concernant les partis politiques, quelle proposition est correcte ?</p>\n",
+      "choices": [
+        {
+          "text": "Ils sont libres de se former et d'exercer leur activité",
+          "isCorrect": true
+        },
+        {
+          "text": "L'État choisit quels partis peuvent exister",
+          "isCorrect": false
+        },
+        {
+          "text": "Un seul parti est autorisé",
+          "isCorrect": false
+        },
+        {
+          "text": "Les partis doivent être approuvés par le Président",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0528572923f09cc43f394c2e",
+      "shortId": "Q-394C2E",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle des députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois et contrôler le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Appliquer les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les ministres",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2a5d89c5c0379e17464d7270",
+      "shortId": "Q-4D7270",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>La séparation des pouvoirs concerne quels trois pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "Législatif, exécutif et judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Militaire, civil et religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Local, régional et national",
+          "isCorrect": false
+        },
+        {
+          "text": "Politique, économique et social",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "80a5dd9bbb5d01ac826fd971",
+      "shortId": "Q-6FD971",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui possède le pouvoir législatif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9ec2234a41279a3622c1ca5d",
+      "shortId": "Q-C1CA5D",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui sanctionne l'auteur d'un vol ?</p>\n",
+      "choices": [
+        {
+          "text": "Un juge",
+          "isCorrect": true
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8fba11b162446a2b3a5c2e2a",
+      "shortId": "Q-5C2E2A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui élit les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Les citoyens français au suffrage universel direct",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Les maires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a1ef87f0a4a29cd8223b56cc",
+      "shortId": "Q-3B56CC",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui vote les lois ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "11fdf28b3289a543054ccfec",
+      "shortId": "Q-4CCFEC",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui réside au palais de l'Élysée ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le garde des Sceaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c7d34eab9fce5756a7e72001",
+      "shortId": "Q-E72001",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Combien y a-t-il de départements en France ?</p>\n",
+      "choices": [
+        {
+          "text": "101",
+          "isCorrect": true
+        },
+        {
+          "text": "95",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "96",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ac87b35ff6d170f08abb6f05",
+      "shortId": "Q-BB6F05",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui représente l'État dans un département ?</p>\n",
+      "choices": [
+        {
+          "text": "Le préfet",
+          "isCorrect": true
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du conseil départemental",
+          "isCorrect": false
+        },
+        {
+          "text": "Le sénateur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6e032f83459d6d5492d16ef0",
+      "shortId": "Q-D16EF0",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Qui dirige la commune ?</p>\n",
+      "choices": [
+        {
+          "text": "Le maire",
+          "isCorrect": true
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du département",
+          "isCorrect": false
+        },
+        {
+          "text": "Le sous-préfet",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a2343f887904949769fc6154",
+      "shortId": "Q-FC6154",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Est-ce que le Président de la République a tous les pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, les pouvoirs sont séparés entre plusieurs institutions",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, il est chef de l'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui pendant les crises",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf en guerre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1818d565a2edb88378cdb954",
+      "shortId": "Q-CDB954",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Qui est le préfet ?</p>\n",
+      "choices": [
+        {
+          "text": "Le représentant de l'État dans un département ou une région",
+          "isCorrect": true
+        },
+        {
+          "text": "Le chef de la police nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du conseil municipal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le responsable des impôts locaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0fe47af231800892726127a4",
+      "shortId": "Q-6127A4",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle du Parlement ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois et contrôler le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Appliquer les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les ambassadeurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e5784145e48c3d5078c44d93",
+      "shortId": "Q-C44D93",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quel est le régime politique de la France aujourd'hui ?</p>\n",
+      "choices": [
+        {
+          "text": "Une République (Ve République)",
+          "isCorrect": true
+        },
+        {
+          "text": "Une monarchie constitutionnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Une République parlementaire pure",
+          "isCorrect": false
+        },
+        {
+          "text": "Une confédération d'États",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "00140c2e881e5e2e0ad495ed",
+      "shortId": "Q-D495ED",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?</p>\n",
+      "choices": [
+        {
+          "text": "27",
+          "isCorrect": true
+        },
+        {
+          "text": "28",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b51793edb0e71bfb6da01a50",
+      "shortId": "Q-A01A50",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quel État n'est pas membre de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "La Suisse",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Autriche",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Portugal",
+          "isCorrect": false
+        },
+        {
+          "text": "La Finlande",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "23e06bbf1a66dd1e2061bf3b",
+      "shortId": "Q-61BF3B",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quelle condition est nécessaire pour voter aux élections européennes ?</p>\n",
+      "choices": [
+        {
+          "text": "Être citoyen de l'UE et inscrit sur les listes électorales",
+          "isCorrect": true
+        },
+        {
+          "text": "Être uniquement français",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir plus de 21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Résider en France depuis 10 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "35b903988fd3e56e4ec42fdf",
+      "shortId": "Q-C42FDF",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>À quelle fréquence les élections européennes sont-elles organisées ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les 5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Tous les 4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "71a28d1ad717bf472a6ff485",
+      "shortId": "Q-6FF485",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quel pays est un pays fondateur de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "La France",
+          "isCorrect": true
+        },
+        {
+          "text": "La Pologne",
+          "isCorrect": false
+        },
+        {
+          "text": "La Suède",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Espagne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "820aefaa378bc177d7a1bcd3",
+      "shortId": "Q-A1BCD3",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle est la monnaie utilisée en France ?</p>\n",
+      "choices": [
+        {
+          "text": "L'euro",
+          "isCorrect": true
+        },
+        {
+          "text": "Le franc",
+          "isCorrect": false
+        },
+        {
+          "text": "La livre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le dollar",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "df22567d670faea4240884d3",
+      "shortId": "Q-0884D3",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui élit les députés européens ?</p>\n",
+      "choices": [
+        {
+          "text": "Les citoyens de l'Union européenne",
+          "isCorrect": true
+        },
+        {
+          "text": "Les gouvernements des États membres",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement de chaque pays",
+          "isCorrect": false
+        },
+        {
+          "text": "Les ambassadeurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ded1ffd67e562c5d157b3451",
+      "shortId": "Q-7B3451",
+      "category": [
+        "cr",
+        "csp"
+      ],
+      "statement": "<p>Quand célèbre-t-on la journée de l'Europe ?</p>\n",
+      "choices": [
+        {
+          "text": "Le 9 mai",
+          "isCorrect": true
+        },
+        {
+          "text": "Le 14 juillet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 25 mars",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 1er janvier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "797b2ce1122f5e6affefbc0b",
+      "shortId": "Q-EFBC0B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À partir de quel âge a-t-on le droit de voter en France ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "17 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a3ba319d32a652615f5d94a3",
+      "shortId": "Q-5D94A3",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui dirige la commune en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le sous-préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le député",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": true
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "344cdcf86058e3a47bafaf44",
+      "shortId": "Q-AFAF44",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui vote les lois en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement (Assemblée nationale et Sénat)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bce1f129d6f45ffa696b66fe",
+      "shortId": "Q-6B66FE",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Le Parlement est composé de :</p>\n",
+      "choices": [
+        {
+          "text": "L'Assemblée nationale uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Sénat uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Assemblée nationale et le Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "La Cour de cassation et le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6700ddcea6f6113659f6a0c9",
+      "shortId": "Q-F6A0C9",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>La séparation des pouvoirs implique trois pouvoirs. Lesquels ?</p>\n",
+      "choices": [
+        {
+          "text": "Judiciaire, administratif, militaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Législatif, exécutif, judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiscal, social, culturel",
+          "isCorrect": false
+        },
+        {
+          "text": "National, régional, communal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c5cd8114bf76a020d6016741",
+      "shortId": "Q-016741",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui convoque les élections législatives en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4d242faab6e1f0af3de368f6",
+      "shortId": "Q-E368F6",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le suffrage universel direct ?</p>\n",
+      "choices": [
+        {
+          "text": "Seuls les hommes votent",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les citoyens majeurs votent directement",
+          "isCorrect": true
+        },
+        {
+          "text": "Seuls les propriétaires votent",
+          "isCorrect": false
+        },
+        {
+          "text": "Des représentants votent à la place des citoyens",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0c056673f2318d549295db51",
+      "shortId": "Q-95DB51",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est le chef du pouvoir exécutif en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de l'Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République et le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le doyen des juges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3de87e060bb041c0b4b1f9e6",
+      "shortId": "Q-B1F9E6",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle institution contrôle la conformité des lois à la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "La Cour de cassation",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Assemblée nationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3b93e2d9ae733bbdb438facc",
+      "shortId": "Q-38FACC",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Combien de sénateurs composent le Sénat français ?</p>\n",
+      "choices": [
+        {
+          "text": "300",
+          "isCorrect": false
+        },
+        {
+          "text": "348",
+          "isCorrect": true
+        },
+        {
+          "text": "400",
+          "isCorrect": false
+        },
+        {
+          "text": "577",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "832c5106f75b8a1452340846",
+      "shortId": "Q-340846",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le Défenseur des droits ?</p>\n",
+      "choices": [
+        {
+          "text": "Un avocat de l'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Une autorité indépendante défendant les droits des citoyens",
+          "isCorrect": true
+        },
+        {
+          "text": "Un juge spécialisé",
+          "isCorrect": false
+        },
+        {
+          "text": "Un ministre délégué",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bd5ef5d4a9a72beccae74337",
+      "shortId": "Q-E74337",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que la séparation des pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "L'organisation des régions",
+          "isCorrect": false
+        },
+        {
+          "text": "Le principe selon lequel les pouvoirs législatif, exécutif et judiciaire sont séparés",
+          "isCorrect": true
+        },
+        {
+          "text": "La division du territoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le fédéralisme",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8b0807a64bde7539816041dd",
+      "shortId": "Q-6041DD",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est responsable de la politique de la Nation en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président seul",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Gouvernement (Premier ministre + ministres)",
+          "isCorrect": true
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "eb580d1daa40ee7e49008717",
+      "shortId": "Q-008717",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle est la durée du mandat présidentiel en France ?</p>\n",
+      "choices": [
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cd332cc2424f0a5a6ba07e53",
+      "shortId": "Q-A07E53",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le Sénat ?</p>\n",
+      "choices": [
+        {
+          "text": "La chambre basse du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "La chambre haute du Parlement, représentant les collectivités territoriales",
+          "isCorrect": true
+        },
+        {
+          "text": "Le tribunal suprême",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "677a8a5d67b076d96259a2e8",
+      "shortId": "Q-59A2E8",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À quoi sert la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "À définir les règles du commerce",
+          "isCorrect": false
+        },
+        {
+          "text": "À organiser les pouvoirs de l'État et garantir les droits fondamentaux",
+          "isCorrect": true
+        },
+        {
+          "text": "À créer des lois de finances",
+          "isCorrect": false
+        },
+        {
+          "text": "À gérer les relations diplomatiques",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "4cc6cc171bb8d6e3e9a7f9ab",
+      "shortId": "Q-A7F9AB",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est le premier ministre actuel de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Emmanuel Macron",
+          "isCorrect": false
+        },
+        {
+          "text": "François Bayrou",
+          "isCorrect": false
+        },
+        {
+          "text": "Une personne nommée par le Président",
+          "isCorrect": true
+        },
+        {
+          "text": "Le leader du Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e4fef82e47cd15be4f0d4b78",
+      "shortId": "Q-0D4B78",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le palais Bourbon ?</p>\n",
+      "choices": [
+        {
+          "text": "La résidence du Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Le siège de l'Assemblée nationale",
+          "isCorrect": true
+        },
+        {
+          "text": "Le palais du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Hôtel de Matignon",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "3fb3618d7e07978f3cd9f991",
+      "shortId": "Q-D9F991",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le palais du Luxembourg ?</p>\n",
+      "choices": [
+        {
+          "text": "La résidence du Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le siège du Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Un musée",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "851198768d0e51ba8b9179e9",
+      "shortId": "Q-9179E9",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que fait le gouvernement entre deux élections législatives ?</p>\n",
+      "choices": [
+        {
+          "text": "Il est renversé automatiquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Il continue à gouverner jusqu'aux prochaines élections ou jusqu'à une motion de censure",
+          "isCorrect": true
+        },
+        {
+          "text": "Il est remplacé par le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Il suspend ses activités",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "24f5e8599f83acfffda253bc",
+      "shortId": "Q-A253BC",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce qu'un parti politique en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Un club sportif",
+          "isCorrect": false
+        },
+        {
+          "text": "Une organisation regroupant des personnes partageant des idées politiques communes pour participer aux élections",
+          "isCorrect": true
+        },
+        {
+          "text": "Une association caritative",
+          "isCorrect": false
+        },
+        {
+          "text": "Un syndicat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cbda0c9a7bd263731064596a",
+      "shortId": "Q-64596A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Où siège l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Au Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Au palais Bourbon, à Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "À l'Élysée",
+          "isCorrect": false
+        },
+        {
+          "text": "À Versailles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "aa8ca48a6d7d9b1b33f8d1b2",
+      "shortId": "Q-F8D1B2",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le droit de dissolution de l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit du Premier ministre de dissoudre le gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit du Président de la République de mettre fin au mandat des députés et convoquer de nouvelles élections",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit des électeurs de destituer les élus",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit du Sénat de bloquer une loi",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bd9d16aaa1aa5d14f90b0a4f",
+      "shortId": "Q-0B0A4F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que la cohabitation politique en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La coalition entre deux partis",
+          "isCorrect": false
+        },
+        {
+          "text": "La situation où le Président et le Premier ministre sont de partis politiques opposés",
+          "isCorrect": true
+        },
+        {
+          "text": "Un accord de gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime de transition",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a6c67e0b90ad4c1c76599b8d",
+      "shortId": "Q-599B8D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Combien y a-t-il de régions en France au total (métropole + outre-mer) ?</p>\n",
+      "choices": [
+        {
+          "text": "13",
+          "isCorrect": false
+        },
+        {
+          "text": "17",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": true
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a759040edb7fba59501656e8",
+      "shortId": "Q-1656E8",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que fait le Sénat ?</p>\n",
+      "choices": [
+        {
+          "text": "Il élit le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Il vote les lois avec l'Assemblée nationale et représente les collectivités territoriales",
+          "isCorrect": true
+        },
+        {
+          "text": "Il gère le budget de l'État seul",
+          "isCorrect": false
+        },
+        {
+          "text": "Il nomme les préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "78cf2cf3bdc8706efba966c9",
+      "shortId": "Q-A966C9",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que l'État de droit ?</p>\n",
+      "choices": [
+        {
+          "text": "Un système où la loi s'applique à tous, y compris aux gouvernants",
+          "isCorrect": true
+        },
+        {
+          "text": "Un État où le gouvernement est au-dessus des lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Un État où les lois changent selon les personnes",
+          "isCorrect": false
+        },
+        {
+          "text": "Un État qui peut ignorer les lois en cas de nécessité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e3f98444713e68a4bbddb43e",
+      "shortId": "Q-DDB43E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>La loi est l'expression de :</p>\n",
+      "choices": [
+        {
+          "text": "La volonté générale, votée par le Parlement au nom du peuple",
+          "isCorrect": true
+        },
+        {
+          "text": "La volonté du Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Les décisions du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Les recommandations de l'Union européenne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f3f2d969f315a041682b53e6",
+      "shortId": "Q-2B53E6",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est la durée du mandat du conseil municipal et du maire ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "738a55e0be553682de6e03ed",
+      "shortId": "Q-6E03ED",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que garantit l'État de droit ?</p>\n",
+      "choices": [
+        {
+          "text": "La protection des droits et libertés de chacun par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Le pouvoir absolu du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "L'absence de toute sanction",
+          "isCorrect": false
+        },
+        {
+          "text": "La primauté des intérêts économiques",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f399e7795dcfcbd8dd156082",
+      "shortId": "Q-156082",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Une personne peut-elle voter à la place d'une autre ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, le vote est personnel ; la procuration permet de mandater quelqu'un",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, librement avec la carte électorale de l'autre",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, pour un membre de sa famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sans aucune exception",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "037f1fa384cf5d3784c90df4",
+      "shortId": "Q-C90DF4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Est-ce que le vote est obligatoire en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, voter est un droit mais pas une obligation légale",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, sous peine d'amende",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, pour les élections présidentielles",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf pour les fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "092384d9009ed60f0100e7c9",
+      "shortId": "Q-00E7C9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À la fin de son mandat, le Président de la République peut-il décider de rester au pouvoir ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, il doit quitter ses fonctions à l'issue de son mandat",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si le Parlement l'approuve",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui en cas de crise nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf accord du Conseil constitutionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "653bebef7225659fddb225b2",
+      "shortId": "Q-B225B2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui dirige l'action du Gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de la République directement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "85acc65f863e0efc4e52dcaa",
+      "shortId": "Q-52DCAA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est l'organisation administrative de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Communes, départements, régions et collectivités d'outre-mer",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les régions",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les communes et les régions",
+          "isCorrect": false
+        },
+        {
+          "text": "Les États fédérés et le gouvernement central",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0c397492e7f036e856c07460",
+      "shortId": "Q-C07460",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le pouvoir législatif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le pouvoir de voter les lois, exercé par le Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le pouvoir d'appliquer les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir de rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Le pouvoir de gouverner",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "129ed222f40cfd90978b19a7",
+      "shortId": "Q-8B19A7",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Pourquoi séparer les trois pouvoirs dans une démocratie ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour éviter la concentration des pouvoirs et garantir les libertés",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour accélérer les décisions politiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour permettre au Président d'avoir plus de pouvoir",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour simplifier le fonctionnement de l'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "de2873f08e34a42db420e134",
+      "shortId": "Q-20E134",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle du gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Conduire la politique de la nation et appliquer les lois",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les élections",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5ebd26a5ab53c8e09f584576",
+      "shortId": "Q-584576",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "Législatif, exécutif et judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Militaire, civil et religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Local, régional et national",
+          "isCorrect": false
+        },
+        {
+          "text": "Politique, économique et social",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c9c1d592f123e4961e24b519",
+      "shortId": "Q-24B519",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'Hôtel de Matignon ?</p>\n",
+      "choices": [
+        {
+          "text": "La résidence officielle du Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le palais du Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le siège du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère de la Justice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ca6ad077b1a1f7d6a70966c4",
+      "shortId": "Q-0966C4",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Président de la République ?</p>\n",
+      "choices": [
+        {
+          "text": "Garantir le fonctionnement des institutions, représenter la France et nommer le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Percevoir les impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b65a2e1befe9a1fe85eb6d3a",
+      "shortId": "Q-EB6D3A",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Diriger l'action du gouvernement et coordonner les ministres",
+          "isCorrect": true
+        },
+        {
+          "text": "Représenter la France à l'étranger",
+          "isCorrect": false
+        },
+        {
+          "text": "Présider le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre les décisions de justice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e63e1c1f1cac3106bae07d22",
+      "shortId": "Q-E07D22",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui est le chef du Gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministre de l'Intérieur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "68fd6396cf8031de4cecd56d",
+      "shortId": "Q-ECD56D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Combien y a-t-il de régions en France (métropole + outre-mer) ?</p>\n",
+      "choices": [
+        {
+          "text": "18",
+          "isCorrect": true
+        },
+        {
+          "text": "13",
+          "isCorrect": false
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "40b6c80155b20ae7c3b8e4b3",
+      "shortId": "Q-B8E4B3",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Défenseur des droits ?</p>\n",
+      "choices": [
+        {
+          "text": "Défendre les citoyens face aux abus des administrations et institutions",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Appliquer les décisions de justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les juges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "ccc2eb920420db5f1039d3b8",
+      "shortId": "Q-39D3B8",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Depuis quand l'euro est-il la monnaie unique en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Depuis 2002 (pièces et billets)",
+          "isCorrect": true
+        },
+        {
+          "text": "Depuis 1999",
+          "isCorrect": false
+        },
+        {
+          "text": "Depuis 2000",
+          "isCorrect": false
+        },
+        {
+          "text": "Depuis 2001",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0bd81314a1c17c6a883ac293",
+      "shortId": "Q-3AC293",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle principal du département ?</p>\n",
+      "choices": [
+        {
+          "text": "Gérer les collèges, l'aide sociale et la solidarité territoriale",
+          "isCorrect": true
+        },
+        {
+          "text": "Gérer les lycées",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les écoles primaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les universités",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "84f87201d6d9441c7254ad48",
+      "shortId": "Q-54AD48",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle principal des communes ?</p>\n",
+      "choices": [
+        {
+          "text": "Gérer l'état civil, les écoles primaires, la voirie et les services de proximité",
+          "isCorrect": true
+        },
+        {
+          "text": "Gérer les lycées",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les impôts locaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "fcb069a56dc98e7e2adf3505",
+      "shortId": "Q-DF3505",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Combien de communes environ existe-t-il en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ 35 000",
+          "isCorrect": true
+        },
+        {
+          "text": "Environ 10 000",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 50 000",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 5 000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e1ee6f7de0d3f2f70114d0a3",
+      "shortId": "Q-14D0A3",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel traité concerne la construction de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "Le traité de Maastricht (1992)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le traité de Rome (1957)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité de Lisbonne (2007)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité d'Amsterdam (1997)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "573190ef34f6652567a371b1",
+      "shortId": "Q-A371B1",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel État a quitté l'Union européenne en 2020 ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Royaume-Uni (Brexit)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "La Norvège",
+          "isCorrect": false
+        },
+        {
+          "text": "La Turquie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "38d05f9c59243d003d9725a9",
+      "shortId": "Q-9725A9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est la devise de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "Unie dans la diversité",
+          "isCorrect": true
+        },
+        {
+          "text": "Liberté, Égalité, Fraternité",
+          "isCorrect": false
+        },
+        {
+          "text": "Par les peuples, pour les peuples",
+          "isCorrect": false
+        },
+        {
+          "text": "Force dans l'unité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e41a29e0a80bd78dd0c0f3b6",
+      "shortId": "Q-C0F3B6",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est l'hymne de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Ode à la joie (Beethoven)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Marseillaise",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Hymne à l'Europe",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Chant des Nations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a9431720d8f31f5e2f1f155c",
+      "shortId": "Q-1F155C",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>De quoi est composé le drapeau européen ?</p>\n",
+      "choices": [
+        {
+          "text": "D'un cercle de 12 étoiles dorées sur fond bleu",
+          "isCorrect": true
+        },
+        {
+          "text": "De 27 étoiles représentant chaque État",
+          "isCorrect": false
+        },
+        {
+          "text": "D'un fond vert avec des étoiles blanches",
+          "isCorrect": false
+        },
+        {
+          "text": "De rayures bleues et jaunes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "06415dfbd205206dedf590b9",
+      "shortId": "Q-F590B9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>De quelle couleur est le drapeau européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Fond bleu avec 12 étoiles dorées",
+          "isCorrect": true
+        },
+        {
+          "text": "Fond vert avec des étoiles blanches",
+          "isCorrect": false
+        },
+        {
+          "text": "Fond rouge avec des étoiles bleues",
+          "isCorrect": false
+        },
+        {
+          "text": "Fond blanc avec des étoiles dorées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8b09fe7af373870756474536",
+      "shortId": "Q-474536",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>En quelle année le traité de Maastricht a-t-il été signé ?</p>\n",
+      "choices": [
+        {
+          "text": "1992",
+          "isCorrect": true
+        },
+        {
+          "text": "1957",
+          "isCorrect": false
+        },
+        {
+          "text": "1999",
+          "isCorrect": false
+        },
+        {
+          "text": "1985",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2daf9b19b638f1fea6406d6c",
+      "shortId": "Q-406D6C",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Où est le siège du Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "À Strasbourg (séances plénières)",
+          "isCorrect": true
+        },
+        {
+          "text": "À Bruxelles uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "À Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "À Berlin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "021c9e270c3c3bee375c1ffc",
+      "shortId": "Q-5C1FFC",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Où est le siège de la Commission européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "À Bruxelles",
+          "isCorrect": true
+        },
+        {
+          "text": "À Strasbourg",
+          "isCorrect": false
+        },
+        {
+          "text": "À Luxembourg",
+          "isCorrect": false
+        },
+        {
+          "text": "À Paris",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "37e0cceb1f9c94f96245b763",
+      "shortId": "Q-45B763",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Est-ce que le président de la République a tous les pouvoirs ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, il concentre tous les pouvoirs",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, les pouvoirs sont séparés et équilibrés par la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui en temps de crise",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, seulement le Parlement a tous les pouvoirs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5605a70132f5e563527f601e",
+      "shortId": "Q-7F601E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le Conseil d'État ?</p>\n",
+      "choices": [
+        {
+          "text": "La juridiction administrative suprême et le conseiller juridique du gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil des ministres",
+          "isCorrect": false
+        },
+        {
+          "text": "Un conseil consultatif du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d4905cd0e9e6860140170a9a",
+      "shortId": "Q-170A9A",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est la Cour de cassation ?</p>\n",
+      "choices": [
+        {
+          "text": "La juridiction suprême de l'ordre judiciaire",
+          "isCorrect": true
+        },
+        {
+          "text": "La Cour criminelle internationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le tribunal correctionnel de Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "La Cour constitutionnelle",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "300078df5bbd1eaca8759d51",
+      "shortId": "Q-759D51",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'état d'urgence en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La démission du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime exceptionnel donnant des pouvoirs renforcés aux autorités en cas de crise grave",
+          "isCorrect": true
+        },
+        {
+          "text": "La dissolution de l'Assemblée",
+          "isCorrect": false
+        },
+        {
+          "text": "Un cessez-le-feu militaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "692e4433a3b161a735f2e5d5",
+      "shortId": "Q-F2E5D5",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quand est célébrée la Journée de l'Europe ?</p>\n",
+      "choices": [
+        {
+          "text": "1er janvier",
+          "isCorrect": false
+        },
+        {
+          "text": "9 mai",
+          "isCorrect": true
+        },
+        {
+          "text": "14 juillet",
+          "isCorrect": false
+        },
+        {
+          "text": "25 mars",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "02003652bf8c9363006709e7",
+      "shortId": "Q-6709E7",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la loi organique ?</p>\n",
+      "choices": [
+        {
+          "text": "Une loi sur l'agriculture biologique",
+          "isCorrect": false
+        },
+        {
+          "text": "Une loi complétant la Constitution sur le fonctionnement des pouvoirs publics",
+          "isCorrect": true
+        },
+        {
+          "text": "Une ordonnance présidentielle",
+          "isCorrect": false
+        },
+        {
+          "text": "Un décret du Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c3e18bfc02a89580e68b70f8",
+      "shortId": "Q-8B70F8",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'une ordonnance du gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Un décret du Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Un texte ayant force de loi pris par le gouvernement sur autorisation du Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Une directive européenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Une circulaire administrative",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "96260a0e121ab18533f5bef6",
+      "shortId": "Q-F5BEF6",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la Cour des comptes ?</p>\n",
+      "choices": [
+        {
+          "text": "Une juridiction pénale",
+          "isCorrect": false
+        },
+        {
+          "text": "La juridiction financière chargée de contrôler l'utilisation des fonds publics",
+          "isCorrect": true
+        },
+        {
+          "text": "Un tribunal administratif",
+          "isCorrect": false
+        },
+        {
+          "text": "Une cour d'appel spécialisée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "dc5bfc1f799443274f7668b8",
+      "shortId": "Q-7668B8",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le Haut Conseil pour le Climat ?</p>\n",
+      "choices": [
+        {
+          "text": "Un ministère de l'environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un organe consultatif indépendant évaluant les politiques climatiques de la France",
+          "isCorrect": true
+        },
+        {
+          "text": "Un tribunal pour les crimes environnementaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Un comité d'entreprises vertes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "36569c420c9aa75bbdc02309",
+      "shortId": "Q-C02309",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle de la Commission européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois européennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Proposer les lois européennes, gardienne des traités, exécutif de l'UE",
+          "isCorrect": true
+        },
+        {
+          "text": "Représenter les gouvernements nationaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les budgets nationaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "430dec8b9d7eb0ee34656714",
+      "shortId": "Q-656714",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle du Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Nommer la Commission",
+          "isCorrect": false
+        },
+        {
+          "text": "Codécider les lois européennes avec le Conseil de l'UE et contrôler la Commission",
+          "isCorrect": true
+        },
+        {
+          "text": "Représenter les États membres",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer la politique étrangère de l'UE",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b72c943fcde0826ffed27441",
+      "shortId": "Q-D27441",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que Schengen ?</p>\n",
+      "choices": [
+        {
+          "text": "Un pays européen",
+          "isCorrect": false
+        },
+        {
+          "text": "L'espace de libre circulation sans contrôle aux frontières intérieures entre 27 pays européens",
+          "isCorrect": true
+        },
+        {
+          "text": "L'accord de l'euro",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité fondateur de l'UE",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "51b0cedac94113ea843e7021",
+      "shortId": "Q-3E7021",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Combien d'États membres l'UE compte-t-elle au 1er janvier 2025 ?</p>\n",
+      "choices": [
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "27",
+          "isCorrect": true
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "32",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e4b21c8715b7370cebfc7f4c",
+      "shortId": "Q-FC7F4C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'une loi de finances ?</p>\n",
+      "choices": [
+        {
+          "text": "Une loi sur les banques",
+          "isCorrect": false
+        },
+        {
+          "text": "La loi annuelle votée par le Parlement qui détermine le budget de l'État",
+          "isCorrect": true
+        },
+        {
+          "text": "Une loi sur les impôts locaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Une loi sur les banques centrales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "24ac3500650abcf252bae68b",
+      "shortId": "Q-BAE68B",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'un décret présidentiel ?</p>\n",
+      "choices": [
+        {
+          "text": "Une loi du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un texte réglementaire signé par le Président de la République (souvent contresigné par le Premier ministre)",
+          "isCorrect": true
+        },
+        {
+          "text": "Une décision du Conseil d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Une ordonnance de justice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "138f40ce8e7eeac37c275983",
+      "shortId": "Q-275983",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce qu'une décision du Conseil constitutionnel qui déclare une loi inconstitutionnelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Elle n'a pas d'effet",
+          "isCorrect": false
+        },
+        {
+          "text": "La loi est annulée et ne peut pas entrer en vigueur",
+          "isCorrect": true
+        },
+        {
+          "text": "La loi peut quand même être appliquée provisoirement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement peut passer outre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "cf470ef31a8394a841378af2",
+      "shortId": "Q-378AF2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le Médiateur de la République (devenu Défenseur des droits) ?</p>\n",
+      "choices": [
+        {
+          "text": "Un négociateur diplomatique",
+          "isCorrect": false
+        },
+        {
+          "text": "L'institution permettant aux citoyens de contester les décisions abusives des administrations",
+          "isCorrect": true
+        },
+        {
+          "text": "Un tribunal arbitral",
+          "isCorrect": false
+        },
+        {
+          "text": "Un médiateur familial public",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "45441cae6d6c355629cf5c74",
+      "shortId": "Q-CF5C74",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit de pétition au Parlement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de voter des lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de soumettre une requête signée par des citoyens à l'Assemblée nationale ou au Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de manifester devant le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit au référendum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9a954f3c1017fabdff69f837",
+      "shortId": "Q-69F837",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>La France est-elle un État fédéral comme les États-Unis ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, avec des États fédérés autonomes",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, la France est un État unitaire centralisé, même si décentralisé",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, depuis la décentralisation de 1982",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, mais elle le deviendra",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7851b36cc0df43975224fa41",
+      "shortId": "Q-24FA41",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>L'État de droit garantit que :</p>\n",
+      "choices": [
+        {
+          "text": "Le gouvernement peut faire ce qu'il veut",
+          "isCorrect": false
+        },
+        {
+          "text": "La loi s'applique à tous, y compris aux autorités publiques, et que les droits fondamentaux sont protégés",
+          "isCorrect": true
+        },
+        {
+          "text": "Les juges sont élus",
+          "isCorrect": false
+        },
+        {
+          "text": "L'armée protège le gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "16deee8560f8328b7afde394",
+      "shortId": "Q-FDE394",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Pourquoi sépare-t-on les trois pouvoirs dans une démocratie ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour réduire les dépenses publiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour empêcher la concentration du pouvoir et garantir les libertés",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour accélérer les décisions",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour favoriser les experts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "34217f9e6fcc1fe26e8eb45e",
+      "shortId": "Q-8EB45E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui est le chef du Gouvernement en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de l'Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "5db5c7061b08e114650de74f",
+      "shortId": "Q-0DE74F",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la Cour de cassation ?</p>\n",
+      "choices": [
+        {
+          "text": "La juridiction qui juge les crimes les plus graves",
+          "isCorrect": false
+        },
+        {
+          "text": "La juridiction suprême de l'ordre judiciaire qui vérifie la bonne application du droit",
+          "isCorrect": true
+        },
+        {
+          "text": "La juridiction administrative suprême",
+          "isCorrect": false
+        },
+        {
+          "text": "Une cour d'appel ordinaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b9b6c42eb34b5d0c4f03e23d",
+      "shortId": "Q-03E23D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle du Conseil économique, social et environnemental (CESE) ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois économiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Conseiller le gouvernement en représentant la société civile",
+          "isCorrect": true
+        },
+        {
+          "text": "Gérer le budget de l'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler les entreprises publiques",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "084afb490a168ae4798b1f4f",
+      "shortId": "Q-8B1F4F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment est désigné le Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Il est nommé par le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Il est élu par le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est élu au suffrage universel direct",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est désigné par le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8addfbb5c8e1f5030b7dac0b",
+      "shortId": "Q-7DAC0B",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui peut se présenter aux élections présidentielles ?</p>\n",
+      "choices": [
+        {
+          "text": "Tout citoyen français majeur réunissant 500 parrainages d'élus",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les membres de partis politiques reconnus",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les anciens ministres ou députés",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les personnes nées en France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "449ac55ad559b4756e829d24",
+      "shortId": "Q-829D24",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>À qui appartient la souveraineté nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Au peuple français qui l'exerce par ses représentants et par référendum",
+          "isCorrect": true
+        },
+        {
+          "text": "Au Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Au Parlement uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "À l'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "746419cc4291462bf347604f",
+      "shortId": "Q-47604F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>L'inscription sur les listes électorales est :</p>\n",
+      "choices": [
+        {
+          "text": "Nécessaire pour voter, possible en mairie ou en ligne sur service-public.fr",
+          "isCorrect": true
+        },
+        {
+          "text": "Automatique pour tous les citoyens majeurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Obligatoire sous peine d'amende",
+          "isCorrect": false
+        },
+        {
+          "text": "Inutile car on peut voter sans inscription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bf534b3d766c49645fd10590",
+      "shortId": "Q-D10590",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle condition est nécessaire pour voter aux élections présidentielles ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir la nationalité française, être majeur et être inscrit sur les listes électorales",
+          "isCorrect": true
+        },
+        {
+          "text": "Avoir un emploi stable",
+          "isCorrect": false
+        },
+        {
+          "text": "Être né en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Parler parfaitement le français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "dc6b12635bb3e2f0c898b5d9",
+      "shortId": "Q-98B5D9",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle condition faut-il remplir pour être candidat aux élections municipales ?</p>\n",
+      "choices": [
+        {
+          "text": "Être Français ou citoyen de l'UE, majeur, et inscrit sur les listes de la commune",
+          "isCorrect": true
+        },
+        {
+          "text": "Être fonctionnaire depuis 5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir exercé un mandat précédent",
+          "isCorrect": false
+        },
+        {
+          "text": "Être né dans la commune",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "83768539d33b85c87b50bb6e",
+      "shortId": "Q-50BB6E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Parmi ces autorités, laquelle est élue par les citoyens ?</p>\n",
+      "choices": [
+        {
+          "text": "Le maire",
+          "isCorrect": true
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le sous-préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le directeur de l'ARS",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "90e05cacc8aecea6421b1f51",
+      "shortId": "Q-1B1F51",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les fonctions du maire ?</p>\n",
+      "choices": [
+        {
+          "text": "Diriger la commune, représenter l'État en local et officier d'état civil",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement voter les impôts locaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement gérer les écoles",
+          "isCorrect": false
+        },
+        {
+          "text": "Représenter l'État dans le département",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "efb5a5b01a7d95add8a0eab4",
+      "shortId": "Q-A0EAB4",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Une personne sans accès à internet veut s'inscrire sur les listes électorales. Où peut-elle s'inscrire ?</p>\n",
+      "choices": [
+        {
+          "text": "À la mairie de sa commune de résidence",
+          "isCorrect": true
+        },
+        {
+          "text": "À la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "Au bureau de poste",
+          "isCorrect": false
+        },
+        {
+          "text": "Au commissariat de police",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e17cb5a013728c87c35b2cf8",
+      "shortId": "Q-5B2CF8",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>À quel âge peut-on devenir électeur en France ?</p>\n",
+      "choices": [
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "20 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8e7f02692169f0eafb0a3f48",
+      "shortId": "Q-0A3F48",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>En France, est-ce obligatoire de voter ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, le vote est un droit mais pas une obligation légale",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, sous peine d'amende de 150 euros",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, pour les élections présidentielles",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf pour les fonctionnaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "57839246cc448e166ace18c2",
+      "shortId": "Q-CE18C2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment sont désignés les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Élus par les citoyens au suffrage universel direct",
+          "isCorrect": true
+        },
+        {
+          "text": "Nommés par le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Désignés par le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Élus par les maires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "534b092847e51e2cda23d2a5",
+      "shortId": "Q-23D2A5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les durées du mandat du conseil municipal et du maire ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d1e037f1ebfe6c1da1492c73",
+      "shortId": "Q-492C73",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée du mandat du Président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "36f0d5023d15a0522d9b1377",
+      "shortId": "Q-9B1377",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée du mandat des députés ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "bd342c667037c93ba55ba974",
+      "shortId": "Q-5BA974",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée du mandat des sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "130df293a0dbecb61d8b0935",
+      "shortId": "Q-8B0935",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui dirige l'action du gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de la République directement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0ceaf328ee4678eab19bbffe",
+      "shortId": "Q-9BBFFE",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>En France, est-ce possible d'adhérer à un parti politique ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, c'est un droit reconnu par la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, les partis sont interdits",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, mais seulement pour les Français",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, les partis doivent être approuvés par l'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "630f2f4da65e464cef32d648",
+      "shortId": "Q-32D648",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui gère les collèges publics ?</p>\n",
+      "choices": [
+        {
+          "text": "Le département",
+          "isCorrect": true
+        },
+        {
+          "text": "La région",
+          "isCorrect": false
+        },
+        {
+          "text": "La commune",
+          "isCorrect": false
+        },
+        {
+          "text": "L'État central",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "8be501799fdcb3523bb55c92",
+      "shortId": "Q-B55C92",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui gère les écoles primaires et maternelles publiques ?</p>\n",
+      "choices": [
+        {
+          "text": "La commune",
+          "isCorrect": true
+        },
+        {
+          "text": "Le département",
+          "isCorrect": false
+        },
+        {
+          "text": "La région",
+          "isCorrect": false
+        },
+        {
+          "text": "L'État central",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9a6b1767fcd8f8ab03959497",
+      "shortId": "Q-959497",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment sont désignés les maires ?</p>\n",
+      "choices": [
+        {
+          "text": "Élus par les conseillers municipaux lors du premier conseil municipal suivant les élections",
+          "isCorrect": true
+        },
+        {
+          "text": "Nommés par le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Désignés par le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Élus directement par les citoyens",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "71645e41c3652e70576ea733",
+      "shortId": "Q-6EA733",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle collectivité territoriale est responsable des transports régionaux ?</p>\n",
+      "choices": [
+        {
+          "text": "La région",
+          "isCorrect": true
+        },
+        {
+          "text": "Le département",
+          "isCorrect": false
+        },
+        {
+          "text": "La commune",
+          "isCorrect": false
+        },
+        {
+          "text": "L'État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "46a0437e83bfae08d419bfcc",
+      "shortId": "Q-19BFCC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est l'une des voies possibles pour modifier la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "Un référendum ou un vote du Congrès à la majorité des 3/5",
+          "isCorrect": true
+        },
+        {
+          "text": "Une simple loi du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Un décret du Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Un arrêté du Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "43e5321acbf2f31f1e7e97a1",
+      "shortId": "Q-7E97A1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui assure l'intérim du Président de la République en cas de décès ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de l'Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le doyen d'âge du gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "009bb09269895a21c2d476bc",
+      "shortId": "Q-D476BC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Conseil constitutionnel ?</p>\n",
+      "choices": [
+        {
+          "text": "Vérifier la conformité des lois à la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Gouverner le pays",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6aedbfadc0aac993f60fab06",
+      "shortId": "Q-0FAB06",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment est organisé le découpage administratif de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Communes, départements, régions et collectivités d'outre-mer",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les régions",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les communes",
+          "isCorrect": false
+        },
+        {
+          "text": "États fédérés et gouvernement central",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1234d99cbb3d46a1a5aed1d6",
+      "shortId": "Q-AED1D6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>En quelle année la citoyenneté européenne a-t-elle été créée ?</p>\n",
+      "choices": [
+        {
+          "text": "1992 (traité de Maastricht)",
+          "isCorrect": true
+        },
+        {
+          "text": "1957",
+          "isCorrect": false
+        },
+        {
+          "text": "1999",
+          "isCorrect": false
+        },
+        {
+          "text": "2002",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9903a9fb371c4627ff0a7a77",
+      "shortId": "Q-0A7A77",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui a composé l'hymne de l'Union européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "Ludwig van Beethoven (Ode à la joie)",
+          "isCorrect": true
+        },
+        {
+          "text": "Rouget de Lisle",
+          "isCorrect": false
+        },
+        {
+          "text": "Wolfgang Amadeus Mozart",
+          "isCorrect": false
+        },
+        {
+          "text": "Johann Sebastian Bach",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "933e5647b28295f75d8e156f",
+      "shortId": "Q-8E156F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quand est célébrée la journée de l'Europe ?</p>\n",
+      "choices": [
+        {
+          "text": "Le 9 mai",
+          "isCorrect": true
+        },
+        {
+          "text": "Le 14 juillet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 25 mars",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 1er janvier",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "84d8cd487f2f8c93038be90e",
+      "shortId": "Q-8BE90E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Où est le siège de la Banque centrale européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "À Francfort",
+          "isCorrect": true
+        },
+        {
+          "text": "À Bruxelles",
+          "isCorrect": false
+        },
+        {
+          "text": "À Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "À Luxembourg",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0ac39c1e84b462278058b3e7",
+      "shortId": "Q-58B3E7",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui siège au Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Les députés européens élus par les citoyens de l'UE",
+          "isCorrect": true
+        },
+        {
+          "text": "Les chefs d'État",
+          "isCorrect": false
+        },
+        {
+          "text": "Les ministres des finances",
+          "isCorrect": false
+        },
+        {
+          "text": "Les ambassadeurs",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7a78540a892bb0100e4f7bb0",
+      "shortId": "Q-4F7BB0",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel État a quitté l'Union Européenne en 2020 ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Royaume-Uni (Brexit)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "La Norvège",
+          "isCorrect": false
+        },
+        {
+          "text": "La Turquie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "9ce94fe77ac2247e073b3cdc",
+      "shortId": "Q-3B3CDC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est l'hymne de l'Union Européenne ?</p>\n",
+      "choices": [
+        {
+          "text": "L'Ode à la joie de Beethoven",
+          "isCorrect": true
+        },
+        {
+          "text": "La Marseillaise",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Hymne à l'Europe",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Chant des Nations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d43f51bbe038b00f4776520e",
+      "shortId": "Q-76520E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre État de l'Union ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, s'ils résident dans cet État et sont inscrits sur les listes",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, uniquement dans leur pays d'origine",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, dans tous les pays de l'UE à la fois",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, c'est réservé aux nationaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "6cf6914d8060c838510bef22",
+      "shortId": "Q-0BEF22",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>À la fin de son mandat, le Président peut-il décider de rester au pouvoir ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui si le Parlement l'accepte",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui en cas de crise nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, l'État de droit l'interdit",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui s'il remporte un référendum",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c7915691961c7a2edde0fcf0",
+      "shortId": "Q-E0FCF0",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Le président de la République a commis un crime. Quelle proposition est correcte ?</p>\n",
+      "choices": [
+        {
+          "text": "Il est irresponsable pénalement",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut être destitué par la Haute Cour puis jugé",
+          "isCorrect": true
+        },
+        {
+          "text": "Il ne peut être jugé qu'après son mandat sans procédure particulière",
+          "isCorrect": false
+        },
+        {
+          "text": "Il bénéficie d'une immunité totale à vie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "785bc1ff3e5c3e7e99b94590",
+      "shortId": "Q-B94590",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la motion de censure ?</p>\n",
+      "choices": [
+        {
+          "text": "Une décision du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Un vote de l'Assemblée nationale pouvant renverser le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Une procédure de dissolution du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Une sanction disciplinaire d'un ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "51eba487ea1b932edbca67e7",
+      "shortId": "Q-CA67E7",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le 49-3 ?</p>\n",
+      "choices": [
+        {
+          "text": "Une disposition constitutionnelle permettant au gouvernement d'engager sa responsabilité pour faire adopter un texte sans vote",
+          "isCorrect": true
+        },
+        {
+          "text": "Le numéro de la loi sur les retraites",
+          "isCorrect": false
+        },
+        {
+          "text": "Un article sur la dissolution",
+          "isCorrect": false
+        },
+        {
+          "text": "Le code du département de la Marne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2ecc9d17a673f6cbef05d33d",
+      "shortId": "Q-05D33D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la différence entre l'ordre judiciaire et l'ordre administratif ?</p>\n",
+      "choices": [
+        {
+          "text": "Il n'y a pas de différence",
+          "isCorrect": false
+        },
+        {
+          "text": "L'ordre judiciaire juge les litiges entre particuliers; l'ordre administratif juge les litiges impliquant l'État",
+          "isCorrect": true
+        },
+        {
+          "text": "L'ordre administratif est plus important",
+          "isCorrect": false
+        },
+        {
+          "text": "L'ordre judiciaire est réservé aux crimes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "e8d53b0550f301bb87334e00",
+      "shortId": "Q-334E00",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le Conseil de l'Europe ?</p>\n",
+      "choices": [
+        {
+          "text": "Un organe de l'Union européenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Une organisation internationale de 46 États européens défendant les droits de l'homme, distincte de l'UE",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil européen de l'UE",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement européen",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d6610a6982224d80547d3dc5",
+      "shortId": "Q-7D3DC5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la différence entre le Conseil européen et le Conseil de l'UE ?</p>\n",
+      "choices": [
+        {
+          "text": "Ce sont les mêmes institutions",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil européen réunit les chefs d'État; le Conseil de l'UE réunit les ministres sectoriels",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil européen vote les lois; l'autre les approuve",
+          "isCorrect": false
+        },
+        {
+          "text": "L'un est à Bruxelles, l'autre à Strasbourg",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "10dbeee0b26d12ca6458cee5",
+      "shortId": "Q-58CEE5",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la Question Prioritaire de Constitutionnalité (QPC) ?</p>\n",
+      "choices": [
+        {
+          "text": "Une question orale au gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit pour tout justiciable de contester la constitutionnalité d'une loi appliquée à son litige",
+          "isCorrect": true
+        },
+        {
+          "text": "Une procédure de révision constitutionnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Un recours administratif",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c69c603abd882d49fd3e0ce1",
+      "shortId": "Q-3E0CE1",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la démocratie représentative ?</p>\n",
+      "choices": [
+        {
+          "text": "Les citoyens votent directement sur chaque loi",
+          "isCorrect": false
+        },
+        {
+          "text": "Les citoyens élisent des représentants qui gouvernent en leur nom",
+          "isCorrect": true
+        },
+        {
+          "text": "Seuls les partis politiques gouvernent",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement est choisi par tirage au sort",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "152267cb7fb1b4150bbd45fa",
+      "shortId": "Q-BD45FA",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la décentralisation en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La privatisation des services publics",
+          "isCorrect": false
+        },
+        {
+          "text": "Le transfert de compétences de l'État central vers les collectivités territoriales (communes, départements, régions)",
+          "isCorrect": true
+        },
+        {
+          "text": "La suppression des préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "La fusion des régions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "c8886ff344da086fa0990ec7",
+      "shortId": "Q-990EC7",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est l'euro-scepticisme ?</p>\n",
+      "choices": [
+        {
+          "text": "La critique de la monnaie euro",
+          "isCorrect": false
+        },
+        {
+          "text": "Un courant politique remettant en cause le projet d'intégration européenne et les institutions de l'UE",
+          "isCorrect": true
+        },
+        {
+          "text": "Le refus de payer des impôts européens",
+          "isCorrect": false
+        },
+        {
+          "text": "L'opposition à l'élargissement de l'UE",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "31c999f784b206e13a48491c",
+      "shortId": "Q-48491C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le cumul des mandats en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit d'exercer plusieurs mandats politiques simultanément — désormais très limité",
+          "isCorrect": true
+        },
+        {
+          "text": "L'obligation de cumuler deux mandats",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime électoral particulier",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de vote multiple",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "43e33c3bb64f6f68b4f221de",
+      "shortId": "Q-F221DE",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la Ve République à régime semi-présidentiel ?</p>\n",
+      "choices": [
+        {
+          "text": "Un régime purement présidentiel comme aux États-Unis",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime où le Président est élu directement et détient de forts pouvoirs, mais partage l'exécutif avec un Premier ministre responsable devant le Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Un régime purement parlementaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Un régime mixte sans Parlement fort",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b863380209751644125c1726",
+      "shortId": "Q-5C1726",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le Conseil d'État peut faire par rapport aux actes administratifs ?</p>\n",
+      "choices": [
+        {
+          "text": "Il peut uniquement les approuver",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut annuler les actes administratifs illégaux (recours pour excès de pouvoir)",
+          "isCorrect": true
+        },
+        {
+          "text": "Il ne peut que conseiller le gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Il rend des avis obligatoires sur les lois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "0f64e190ecf8c8fa77d49401",
+      "shortId": "Q-D49401",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le principe de subsidiarité dans l'UE ?</p>\n",
+      "choices": [
+        {
+          "text": "La priorité donnée aux lois nationales sur les lois européennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Le principe selon lequel l'UE n'agit que quand une action au niveau des États membres ne serait pas suffisante",
+          "isCorrect": true
+        },
+        {
+          "text": "Le principe de solidarité financière entre États membres",
+          "isCorrect": false
+        },
+        {
+          "text": "Le principe de partage des pouvoirs entre Parlement et Commission",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "f38f1927265fc67577b35231",
+      "shortId": "Q-B35231",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le Conseil constitutionnel ?</p>\n",
+      "choices": [
+        {
+          "text": "La plus haute juridiction administrative",
+          "isCorrect": false
+        },
+        {
+          "text": "L'institution qui veille à la conformité des lois à la Constitution et contrôle les élections",
+          "isCorrect": true
+        },
+        {
+          "text": "Le conseil des ministres élargi",
+          "isCorrect": false
+        },
+        {
+          "text": "Le comité consultatif du Président",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1bb2284fa9df252238204dff",
+      "shortId": "Q-204DFF",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le gouvernement de la Ve République ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Président de la République seul",
+          "isCorrect": false
+        },
+        {
+          "text": "L'ensemble formé par le Premier ministre et les ministres, qui détermine et conduit la politique de la Nation",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement élargi au Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Les préfets et sous-préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "a7f9b7683c01a048d52d0eb6",
+      "shortId": "Q-2D0EB6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le suffrage universel indirect ?</p>\n",
+      "choices": [
+        {
+          "text": "Un vote réservé aux hommes",
+          "isCorrect": false
+        },
+        {
+          "text": "Un vote où les citoyens élisent des grands électeurs qui élisent eux-mêmes les représentants",
+          "isCorrect": true
+        },
+        {
+          "text": "Un vote par internet",
+          "isCorrect": false
+        },
+        {
+          "text": "Un vote organisé en deux tours",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "301ea1d8d8f5e18e503b47ff",
+      "shortId": "Q-3B47FF",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Médiateur de la République (Défenseur des droits) ?</p>\n",
+      "choices": [
+        {
+          "text": "Arbitrer les conflits entre entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Aider les personnes dont les droits n'ont pas été respectés dans leurs relations avec les services publics ou certains acteurs privés",
+          "isCorrect": true
+        },
+        {
+          "text": "Contrôler les élections",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les litiges familiaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2c82d1306ffd9dd371a81328",
+      "shortId": "Q-A81328",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous souhaitez voter aux prochaines élections. Que devez-vous avoir fait au préalable ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous inscrire sur les listes électorales de votre mairie",
+          "isCorrect": true
+        },
+        {
+          "text": "Passer un test de culture civique",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir un casier judiciaire vierge",
+          "isCorrect": false
+        },
+        {
+          "text": "Résider en France depuis 10 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "b02f33e829ff25f537e3996a",
+      "shortId": "Q-E3996A",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes naturalisé français et souhaitez voter pour la première fois. Que devez-vous faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous inscrire sur les listes électorales de votre commune",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous présenter directement au bureau de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous êtes automatiquement inscrit",
+          "isCorrect": false
+        },
+        {
+          "text": "Attendre la mise à jour automatique des listes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "333cbb667b6d653f10c79d80",
+      "shortId": "Q-C79D80",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>On vous propose de voter à la place d'un ami en échange d'un service. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous acceptez si c'est pour une bonne cause",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous refusez, le vote est personnel et secret",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous acceptez si l'ami vous rembourse",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous demandez l'avis du responsable du bureau de vote",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "7c3a15532637d362bf97ef6b",
+      "shortId": "Q-97EF6B",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>En tant qu'agent de la mairie, une administrée vous demande d'être reçue uniquement par une femme pour des raisons religieuses. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous accédez à sa demande pour lui faire plaisir",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous lui expliquez que le service public ne peut pas organiser son fonctionnement selon les croyances des usagers",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous refusez de la recevoir",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous transférez immédiatement le dossier à une collègue",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "94d74f4a3052847bd85189c7",
+      "shortId": "Q-5189C7",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous souhaitez voter à l'élection présidentielle mais vous n'êtes pas inscrit sur les listes électorales. Que faites-vous ?</p>\n",
+      "choices": [
+        {
+          "text": "Vous vous présentez quand même au bureau de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous vous inscrivez sur les listes électorales avant la date limite (souvent 6 semaines avant le scrutin)",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous ne pouvez plus voter, c'est trop tard",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous pouvez voter dans n'importe quelle mairie sans inscription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "1b6f4d98bc0776fbc5525f62",
+      "shortId": "Q-525F62",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous avez été condamné pour un délit à une peine d'emprisonnement avec sursis. Pouvez-vous encore voter ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, toute condamnation pénale entraîne la perte du droit de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Cela dépend : seule une décision judiciaire spécifique privant des droits civiques entraîne la perte du droit de vote",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, le sursis signifie que vous gardez tous vos droits",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, vous devez attendre 5 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "2ec9a109bb24e8d7bf62dedc",
+      "shortId": "Q-62DEDC",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes sélectionné comme juré dans un procès d'assises. Pouvez-vous refuser ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, librement",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf motif légitime reconnu par le tribunal (maladie, déplacement professionnel indispensable…)",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui si vous avez peur",
+          "isCorrect": false
+        },
+        {
+          "text": "Non jamais, c'est une obligation absolue sans exception",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "d341698d9d345824d163f2b6",
+      "shortId": "Q-63F2B6",
+      "category": [
+        "ec-situation"
+      ],
+      "statement": "<p>Vous êtes naturalisé français depuis 3 ans. Vous apprenez que votre naturalisation pourrait être retirée. Dans quels cas est-ce possible ?</p>\n",
+      "choices": [
+        {
+          "text": "Jamais, la naturalisation est définitive",
+          "isCorrect": false
+        },
+        {
+          "text": "En cas d'indignité (condamnation pour crimes ou délits contre la nation, terrorisme) dans les 10 ans suivant la naturalisation, ou si elle a été obtenue par fraude",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement si vous retournez dans votre pays d'origine",
+          "isCorrect": false
+        },
+        {
+          "text": "Jamais si vous avez un enfant français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  }
+]

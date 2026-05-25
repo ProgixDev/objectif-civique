@@ -33,18 +33,24 @@ import { useHaptics } from "@/hooks/useHaptics";
 import { QuitModal } from "@/components/QuitModal";
 import { THEME_LABELS } from "@/data/themes";
 import { GOAL_LABELS } from "@/data/questions";
+import { TARGETED_TESTS } from "@/data/extraContent";
 
 const LETTERS = ["A", "B", "C", "D"];
 const VALID: Category[] = ["NAT", "CSP", "CR"];
 
 export default function Practice() {
   const insets = useSafeAreaInsets();
-  const params = useLocalSearchParams<{ category?: string; themeId?: string }>();
+  const params = useLocalSearchParams<{
+    category?: string;
+    themeId?: string;
+    subTheme?: string;
+  }>();
   const user = useUserStore((s) => s.user);
 
   const session = useSessionStore((s) => s.current);
   const currentIndex = useSessionStore((s) => s.currentIndex);
   const startPractice = useSessionStore((s) => s.startPractice);
+  const startTargetedTest = useSessionStore((s) => s.startTargetedTest);
   const answerCurrent = useSessionStore((s) => s.answerCurrent);
   const goNext = useSessionStore((s) => s.goNext);
   const goPrev = useSessionStore((s) => s.goPrev);
@@ -61,6 +67,10 @@ export default function Practice() {
   const [revealed, setRevealed] = useState(false);
   const [showQuit, setShowQuit] = useState(false);
 
+  const subThemeId = params.subTheme?.toString();
+  const isTargetedTest =
+    params.category?.toString() === "test" && !!subThemeId;
+
   const initCategory: Category = useMemo(() => {
     const raw = params.category?.toString();
     if (raw && VALID.includes(raw as Category)) return raw as Category;
@@ -69,9 +79,23 @@ export default function Practice() {
 
   useEffect(() => {
     if (!session || session.type !== "practice") {
+      if (isTargetedTest && subThemeId) {
+        const test = TARGETED_TESTS.find((t) => t.id === subThemeId);
+        if (test && test.questions.length > 0) {
+          startTargetedTest(test.title, test.questions);
+          return;
+        }
+      }
       startPractice(initCategory, 20);
     }
-  }, [session, startPractice, initCategory]);
+  }, [
+    session,
+    startPractice,
+    startTargetedTest,
+    initCategory,
+    isTargetedTest,
+    subThemeId,
+  ]);
 
   useEffect(() => {
     if (!session) return;

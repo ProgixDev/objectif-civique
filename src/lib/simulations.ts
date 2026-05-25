@@ -199,14 +199,18 @@ export const SIM_TONES: Record<
  * un abonnement payant.
  */
 export const FREE_SIM_KEYS = new Set<string>([
+  // Sims dynamiques par cas
   "nat",
   "cr",
   "csp",
+  // Premières séries thématiques
   "principes-valeurs-republique-1",
   "droits-et-devoirs-1",
   "systeme-institutionnel-1",
   "histoire-geographie-culture-1",
   "vivre-en-societe-1",
+  // Pack pré-construit "gratuit" du client
+  "pack-examen-civique-gratuit",
 ]);
 
 /**

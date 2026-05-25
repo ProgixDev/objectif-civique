@@ -1,0 +1,682 @@
+[
+  {
+    "id": "690cf26468a89b75e38fe911",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "En France, voter est…",
+    "choices": [
+      {
+        "text": "Un droit garanti par la Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Une formalité administrative obligatoire chaque année",
+        "isCorrect": false
+      },
+      {
+        "text": "Une obligation légale sanctionnée par une amende",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Voter est un droit garanti par la Constitution. Ce n’est pas une obligation, mais un devoir civique important.",
+    "helpNotes": [
+      "Article 3 de la Constitution",
+      "Droit fondamental du citoyen"
+    ]
+  },
+  {
+    "id": "692c356d32a2815c0b7f3c66",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne française vivant à l’étranger veut voter à l’élection présidentielle. Quelle démarche doit-elle faire ?",
+    "choices": [
+      {
+        "text": "S’inscrire sur la liste électorale consulaire",
+        "isCorrect": true
+      },
+      {
+        "text": "Envoyer son vote directement par courrier au ministère",
+        "isCorrect": false
+      },
+      {
+        "text": "Demander à un proche en France de voter à sa place",
+        "isCorrect": false
+      },
+      {
+        "text": "Elle ne peut pas voter depuis l’étranger",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les Français de l’étranger votent dans les consulats ou ambassades s’ils sont inscrits sur la liste électorale consulaire.",
+    "helpNotes": [
+      "Vote des Français établis hors de France",
+      "Inscription consulaire"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f8b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne peut-elle voter à la place d'une autre ?",
+    "choices": [
+      {
+        "text": "Non, sauf si elle a une procuration",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, si elle est de la même famille",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si elle le fait discrètement",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si l’autre personne est d’accord oralement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Voter à la place d’une autre personne est interdit. La seule exception légale est le vote par procuration, selon les règles prévues.",
+    "helpNotes": [
+      "Vote personnel",
+      "Procuration = exception encadrée"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f8c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Est-ce que le vote est obligatoire ?",
+    "choices": [
+      {
+        "text": "Non, le vote est un droit (et un devoir civique), mais il n’est pas obligatoire",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, et l’abstention est un délit",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement aux élections présidentielles",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement pour les personnes naturalisées",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, voter n’est pas obligatoire : c’est un droit. Cependant, participer est fortement encouragé comme devoir civique.",
+    "helpNotes": [
+      "Vote = droit",
+      "Participation civique encouragée"
+    ]
+  },
+  {
+    "id": "69416a8148ffb722a33b303c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À partir de quel âge a-t-on le droit de voter ?",
+    "choices": [
+      {
+        "text": "16 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "17 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "18 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "21 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, on peut voter à partir de 18 ans.",
+    "helpNotes": [
+      "Majorité civile = 18 ans",
+      "Droit de vote"
+    ]
+  },
+  {
+    "id": "69416a5f48ffb722a33b2f98",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+    "choices": [
+      {
+        "text": "Avoir un emploi",
+        "isCorrect": false
+      },
+      {
+        "text": "Être majeur et inscrit sur les listes électorales",
+        "isCorrect": true
+      },
+      {
+        "text": "Être propriétaire d’un logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir un permis de conduire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour voter, il faut notamment avoir 18 ans et être inscrit sur les listes électorales (selon l’élection, d’autres conditions peuvent s’ajouter).",
+    "helpNotes": [
+      "18 ans + inscription listes électorales",
+      "Condition de base pour voter"
+    ]
+  },
+  {
+    "id": "69416a5e48ffb722a33b2f96",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut voter aux élections en France ?",
+    "choices": [
+      {
+        "text": "Toute personne vivant en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Les citoyens français majeurs inscrits sur les listes électorales",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les personnes nées en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les personnes mariées",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En règle générale, votent les citoyens français majeurs inscrits sur les listes électorales (certaines élections comme les municipales/ européennes peuvent aussi concerner des citoyens de l’UE sous conditions).",
+    "helpNotes": [
+      "Citoyens français majeurs",
+      "Inscription sur les listes"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b303f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Que signifie « suffrage universel » ?",
+    "choices": [
+      {
+        "text": "Le vote réservé aux propriétaires",
+        "isCorrect": false
+      },
+      {
+        "text": "Le vote réservé aux hommes",
+        "isCorrect": false
+      },
+      {
+        "text": "Le droit de vote pour tous les citoyens majeurs",
+        "isCorrect": true
+      },
+      {
+        "text": "Le vote uniquement par internet",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le suffrage universel signifie que tous les citoyens majeurs peuvent voter, sans distinction de richesse, de sexe, etc.",
+    "helpNotes": [
+      "Tous les citoyens majeurs",
+      "Principe démocratique"
+    ]
+  },
+  {
+    "id": "69416a8248ffb722a33b3040",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Concernant les partis politiques, quelle proposition est correcte ?",
+    "choices": [
+      {
+        "text": "Ils sont interdits en démocratie",
+        "isCorrect": false
+      },
+      {
+        "text": "Ils permettent d’exprimer des opinions et de proposer des projets",
+        "isCorrect": true
+      },
+      {
+        "text": "Ils remplacent les élections",
+        "isCorrect": false
+      },
+      {
+        "text": "Ils sont obligatoires pour tous les citoyens",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les partis politiques participent à la vie démocratique : ils portent des idées, proposent des programmes et présentent des candidats.",
+    "helpNotes": [
+      "Rôle des partis en démocratie",
+      "Pluralisme politique"
+    ]
+  },
+  {
+    "id": "692c355432a2815c0b7f3c5b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un électeur ne reçoit pas sa carte électorale avant les élections. Peut-il voter ?",
+    "choices": [
+      {
+        "text": "Oui, avec une pièce d’identité et une inscription valide sur les listes électorales",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, la carte électorale est obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement s’il présente une facture récente",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf autorisation du maire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inscription sur les listes électorales et une pièce d’identité suffisent pour voter, même sans carte électorale.",
+    "helpNotes": [
+      "Code électoral",
+      "Conditions pour voter"
+    ]
+  },
+  {
+    "id": "690745c2bf88e35210cd3407",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quel âge peut-on se présenter aux élections municipales ?",
+    "choices": [
+      {
+        "text": "18 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "21 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "25 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "30 ans",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Tout citoyen français majeur peut être candidat aux élections municipales.",
+    "helpNotes": [
+      "Il faut être inscrit sur les listes électorales.",
+      "Certaines conditions d’inéligibilité s’appliquent."
+    ]
+  },
+  {
+    "id": "690745c2bf88e35210cd3410",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui peut voter aux élections européennes en France ?",
+    "choices": [
+      {
+        "text": "Les citoyens français et les ressortissants européens résidant en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les citoyens français",
+        "isCorrect": false
+      },
+      {
+        "text": "Tous les résidents étrangers",
+        "isCorrect": false
+      },
+      {
+        "text": "Les Français vivant à l’étranger uniquement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les citoyens européens résidant en France peuvent voter aux élections européennes et municipales.",
+    "helpNotes": [
+      "Ils doivent être inscrits sur une liste électorale complémentaire.",
+      "Leur droit de vote est limité à ces deux scrutins."
+    ]
+  },
+  {
+    "id": "690745c2bf88e35210cd3419",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document garantit le droit de vote en France ?",
+    "choices": [
+      {
+        "text": "La Constitution",
+        "isCorrect": true
+      },
+      {
+        "text": "Le Code civil",
+        "isCorrect": false
+      },
+      {
+        "text": "Le Code électoral",
+        "isCorrect": false
+      },
+      {
+        "text": "La Charte de l’environnement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La Constitution de 1958 consacre le suffrage universel comme fondement de la démocratie française.",
+    "helpNotes": [
+      "Le vote est secret et personnel.",
+      "Les élections doivent être libres et régulières."
+    ]
+  },
+  {
+    "id": "690745c2bf88e35210cd3422",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du Conseil constitutionnel lors des élections ?",
+    "choices": [
+      {
+        "text": "Veiller à la régularité du scrutin et proclamer les résultats.",
+        "isCorrect": true
+      },
+      {
+        "text": "Organiser matériellement les élections dans les communes",
+        "isCorrect": false
+      },
+      {
+        "text": "Appliquer les lois dans les communes",
+        "isCorrect": false
+      },
+      {
+        "text": "Gérer l’inscription des électeurs sur les listes électorales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le Conseil constitutionnel veille au respect de la Constitution, contrôle la régularité des élections nationales et des référendums, et proclame les résultats officiels.",
+    "helpNotes": [
+      "Peut être saisi en cas de litige électoral.",
+      "Garant du bon fonctionnement démocratique."
+    ]
+  },
+  {
+    "id": "690745c2bf88e35210cd342b",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel principe garantit à tous les citoyens un égal accès au vote ?",
+    "choices": [
+      {
+        "text": "Le suffrage universel",
+        "isCorrect": true
+      },
+      {
+        "text": "Le vote obligatoire",
+        "isCorrect": false
+      },
+      {
+        "text": "Le tirage au sort",
+        "isCorrect": false
+      },
+      {
+        "text": "Le vote familial",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le suffrage universel permet à tous les citoyens majeurs de voter sans distinction.",
+    "helpNotes": [
+      "Principe instauré en 1848 pour les hommes et en 1944 pour les femmes.",
+      "Le vote est un droit fondamental de la démocratie."
+    ]
+  },
+  {
+    "id": "693c1ddd6ba49367a5bb85f5",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Le jour des élections présidentielles, vous êtes en voyage. Pouvez-vous quand même voter ?",
+    "choices": [
+      {
+        "text": "Oui, en établissant une procuration avant le départ",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c’est impossible de voter à distance",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, on peut voter en ligne",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, sauf si on revient le jour même",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Lors des élections en France, le vote en ligne n’existe pas pour l’élection présidentielle. En revanche, un électeur absent le jour du scrutin peut voter par procuration, à condition de l’avoir établie avant le départ.",
+    "helpNotes": [
+      "Le vote par procuration est autorisé en France"
+    ]
+  },
+  {
+    "id": "694bb80bb0ac0df97076a15c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "L'inscription sur les listes électorales est :",
+    "choices": [
+      {
+        "text": "Automatique pour tous les résidents en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Nécessaire pour pouvoir voter",
+        "isCorrect": true
+      },
+      {
+        "text": "Réservée uniquement aux fonctionnaires",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inscription sur les listes électorales est indispensable pour voter lors des élections en France.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bb8abb0ac0df97076a9f6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+    "choices": [
+      {
+        "text": "Être résident en France depuis 5 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "Être majeur et résider en France",
+        "isCorrect": false
+      },
+      {
+        "text": "Être citoyen français inscrit sur les listes électorales",
+        "isCorrect": true
+      },
+      {
+        "text": "Avoir un emploi en France",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Pour voter à l’élection présidentielle, il faut être citoyen français, majeur et inscrit sur les listes électorales.",
+    "helpNotes": []
+  },
+  {
+    "id": "6957d9de23226977b966b31d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un couple se rend dans un bureau de vote. Comment doivent-ils voter ?",
+    "choices": [
+      {
+        "text": "Ils doivent entrer ensemble dans le même isoloir",
+        "isCorrect": false
+      },
+      {
+        "text": "Chacun doit entrer seul dans un isoloir",
+        "isCorrect": true
+      },
+      {
+        "text": "L’homme décide du vote pour le couple",
+        "isCorrect": false
+      },
+      {
+        "text": "L’homme entre dans l’isoloir pendant que la femme attend",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le vote est personnel, libre et secret. Chaque électeur vote seul dans l’isoloir.",
+    "helpNotes": [
+      "Vote secret",
+      "Égalité femmes-hommes"
+    ]
+  },
+  {
+    "id": "694bc14db0ac0df970783dc5",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne n’ayant pas accès à Internet souhaite s’inscrire sur les listes électorales pour voter. Où peut-elle s’inscrire ?",
+    "choices": [
+      {
+        "text": "Uniquement sur le site du gouvernement",
+        "isCorrect": false
+      },
+      {
+        "text": "Dans un bureau de poste",
+        "isCorrect": false
+      },
+      {
+        "text": "À la mairie de son domicile",
+        "isCorrect": true
+      },
+      {
+        "text": "Au commissariat de police",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sans Internet, l’inscription sur les listes électorales peut se faire directement à la mairie du domicile, en présentant les documents nécessaires (pièce d’identité, justificatif de domicile).",
+    "helpNotes": []
+  },
+  {
+    "id": "694bc21db0ac0df97078705a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quel âge peut-on devenir électeur ?",
+    "choices": [
+      {
+        "text": "À 16 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "À 17 ans",
+        "isCorrect": false
+      },
+      {
+        "text": "À 18 ans",
+        "isCorrect": true
+      },
+      {
+        "text": "À 21 an",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, on devient électeur à 18 ans, à condition d’être citoyen français et inscrit sur les listes électorales.",
+    "helpNotes": []
+  },
+  {
+    "id": "694bc29ab0ac0df9707896d0",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "En France, est-ce obligatoire de voter ?",
+    "choices": [
+      {
+        "text": "Oui, le vote est obligatoire pour tous les citoyens",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, uniquement pour les élections présidentielles",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, le vote est un droit et non une obligation",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, sauf en cas de référendum",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, le vote est un droit fondamental, mais il n’est pas obligatoire. L’abstention n’est pas sanctionnée.",
+    "helpNotes": []
+  }
+]

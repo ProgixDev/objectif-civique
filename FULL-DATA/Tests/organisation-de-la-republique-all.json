@@ -1,0 +1,2606 @@
+[
+  {
+    "question": {
+      "id": "69416a8748ffb722a33b30b0",
+      "shortId": "Q-3B30B0",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Pour combien de temps sont élus les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "3 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les députés de l’Assemblée nationale sont élus pour un mandat de cinq ans, sauf dissolution de l’Assemblée nationale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26568a89b75e38fe912",
+      "shortId": "Q-8FE912",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Les fonctions de Maire, Conseiller municipal, départemental ou régional sont-elles rémunérées ?</p>\n",
+      "choices": [
+        {
+          "text": "Indemnisées selon un barème légal",
+          "isCorrect": true
+        },
+        {
+          "text": "Bénévoles",
+          "isCorrect": false
+        },
+        {
+          "text": "Payées au SMIC",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les fonctions électives locales sont indemnisées selon la taille de la collectivité, mais ne constituent pas un salaire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26568a89b75e38fe915",
+      "shortId": "Q-8FE915",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment sont désignés les maires ?</p>\n",
+      "choices": [
+        {
+          "text": "Par nomination du préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Par élection par le conseil municipal",
+          "isCorrect": true
+        },
+        {
+          "text": "Par le Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Par élection directe des citoyens",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le maire est élu par les membres du conseil municipal, eux-mêmes élus par les citoyens lors des élections municipales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f6c",
+      "shortId": "Q-CD2F6C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du Président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Nommer les maires",
+          "isCorrect": false
+        },
+        {
+          "text": "Représenter l’État et garantir la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Diriger le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Rédiger les lois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Président représente la France, nomme le Premier ministre et garantit la Constitution.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f75",
+      "shortId": "Q-CD2F75",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du Premier ministre en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Rédiger la Constitution",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrôler la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger l’action du Gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Présider le Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Premier ministre conduit la politique du Gouvernement et est responsable devant le Parlement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4b48ffb722a33b2f55",
+      "shortId": "Q-3B2F55",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Combien de députés composent l'Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "101",
+          "isCorrect": false
+        },
+        {
+          "text": "348",
+          "isCorrect": false
+        },
+        {
+          "text": "925",
+          "isCorrect": false
+        },
+        {
+          "text": "577",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’Assemblée nationale est composée de 577 députés.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f7e",
+      "shortId": "Q-CD2F7E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle de l’Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Appliquer les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Voter les lois et contrôler le Gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Nommer le Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’Assemblée nationale vote les lois et contrôle l’action du Gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f87",
+      "shortId": "Q-CD2F87",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle du Sénat en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Diriger la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer le Président",
+          "isCorrect": false
+        },
+        {
+          "text": "Assurer la continuité de l’État et représenter les collectivités",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter le budget",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Sénat représente les collectivités locales et participe au vote des lois.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bbbf88e35210cd2f90",
+      "shortId": "Q-CD2F90",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution garantit l’indépendance du pouvoir judiciaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil supérieur de la magistrature",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Conseil supérieur de la magistrature veille à l’indépendance de la justice.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fbd",
+      "shortId": "Q-CD2FBD",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle principal des communes en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Gérer les services de proximité",
+          "isCorrect": true
+        },
+        {
+          "text": "Diriger les départements",
+          "isCorrect": false
+        },
+        {
+          "text": "Organiser les élections européennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Fixer les lois nationales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les communes s’occupent des écoles primaires, de l’état civil et des services locaux.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fc6",
+      "shortId": "Q-CD2FC6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>De quoi le département est-il responsable ?</p>\n",
+      "choices": [
+        {
+          "text": "Des routes nationales",
+          "isCorrect": false
+        },
+        {
+          "text": "Des collèges et de l’action sociale",
+          "isCorrect": true
+        },
+        {
+          "text": "Des universités",
+          "isCorrect": false
+        },
+        {
+          "text": "Des hôpitaux militaires",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le département gère les collèges, l’aide sociale et certaines infrastructures locales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fcf",
+      "shortId": "Q-CD2FCF",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle collectivité territoriale est responsable des transports régionaux ?</p>\n",
+      "choices": [
+        {
+          "text": "L’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Les départements",
+          "isCorrect": false
+        },
+        {
+          "text": "Les communes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les régions",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, les régions sont responsables de l’organisation des transports régionaux (TER, transports interurbains).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f8f",
+      "shortId": "Q-3B2F8F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui nomme le Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Les maires",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, le Premier ministre est nommé par le président de la République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4b48ffb722a33b2f57",
+      "shortId": "Q-3B2F57",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Le Parlement est composé :</p>\n",
+      "choices": [
+        {
+          "text": "Du Conseil constitutionnel et du Conseil d’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Du président et du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Des maires et des préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "De l’Assemblée nationale et du Sénat",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Parlement français est bicaméral : il comprend l’Assemblée nationale et le Sénat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b3031",
+      "shortId": "Q-3B3031",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que le pouvoir exécutif ? Le pouvoir :</p>\n",
+      "choices": [
+        {
+          "text": "De juger les infractions",
+          "isCorrect": false
+        },
+        {
+          "text": "D’élire les députés",
+          "isCorrect": false
+        },
+        {
+          "text": "D’appliquer les lois et diriger l’action du gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "De faire les lois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le pouvoir exécutif met en œuvre les lois et conduit la politique de la Nation (président + gouvernement).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f89",
+      "shortId": "Q-3B2F89",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée du mandat du conseil municipal et du maire ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "2 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le conseil municipal est élu pour 6 ans et le maire est élu par le conseil municipal pour la même durée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f95",
+      "shortId": "Q-3B2F95",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que se passe-t-il si un ministre ne respecte pas la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "Rien, il est au-dessus des lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est automatiquement réélu",
+          "isCorrect": false
+        },
+        {
+          "text": "Il décide lui-même de sa sanction",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut être sanctionné comme tout citoyen",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, personne n’est au-dessus des lois : un ministre peut être poursuivi et sanctionné.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b3038",
+      "shortId": "Q-3B3038",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui est élu lors des élections législatives ?</p>\n",
+      "choices": [
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "Les sénateurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Les députés",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les élections législatives servent à élire les députés de l’Assemblée nationale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f8e",
+      "shortId": "Q-3B2F8E",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qui dirige l'action du Gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le président de l’Assemblée nationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Premier ministre dirige l’action du Gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c356d32a2815c0b7f3c6c",
+      "shortId": "Q-7F3C6C",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un député ne respecte pas le règlement de l’Assemblée nationale. Qui peut le sanctionner ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de l’Assemblée nationale",
+          "isCorrect": true
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Les électeurs de sa circonscription",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Chaque assemblée parlementaire dispose de son propre règlement et d’un président chargé de faire respecter la discipline.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b3039",
+      "shortId": "Q-3B3039",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quand sont élus les sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "Tous les 6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Tous les 5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 9 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les 4 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, les sénateurs sont élus pour <strong>un mandat de 6 ans.</strong></p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f90",
+      "shortId": "Q-3B2F90",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est l'organisation administrative de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement des cantons",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement des provinces",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement des communes",
+          "isCorrect": false
+        },
+        {
+          "text": "Communes, départements, régions (et l’État)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La France est organisée notamment en communes, départements et régions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b303a",
+      "shortId": "Q-3B303A",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui est élu lors des élections municipales ?</p>\n",
+      "choices": [
+        {
+          "text": "Les députés européens",
+          "isCorrect": false
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "Les conseillers municipaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Les ministres",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Aux élections municipales, les citoyens élisent les conseillers municipaux (qui élisent ensuite le maire).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b303b",
+      "shortId": "Q-3B303B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est élu lors des élections présidentielles ?</p>\n",
+      "choices": [
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les élections présidentielles permettent d’élire le président de la République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b303d",
+      "shortId": "Q-3B303D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Pour combien de temps est élu le président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "3 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le président de la République est élu pour un mandat de 5 ans.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5e48ffb722a33b2f94",
+      "shortId": "Q-3B2F94",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle du gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Organiser les élections municipales uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Déterminer et conduire la politique de la Nation",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois à la place du Parlement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Gouvernement met en œuvre les politiques publiques et conduit l’action de l’État.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367be68a89b75e3912be4",
+      "shortId": "Q-912BE4",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Le gouvernement veut faire adopter une loi urgente. Quelle procédure spéciale peut-il utiliser ?</p>\n",
+      "choices": [
+        {
+          "text": "Faire voter la loi uniquement au Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Soumettre la loi à un référendum local",
+          "isCorrect": false
+        },
+        {
+          "text": "Demander au président de la République de la signer directement",
+          "isCorrect": false
+        },
+        {
+          "text": "Engager la responsabilité du gouvernement avec l’article 49.3",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’article 49.3 permet au gouvernement d’adopter un texte sans vote, sauf si une motion de censure est votée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4b48ffb722a33b2f56",
+      "shortId": "Q-3B2F56",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Pour combien de temps sont élus les sénateurs ?</p>\n",
+      "choices": [
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "3 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les sénateurs sont élus pour un mandat de 6 ans (renouvellement partiel).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8148ffb722a33b303e",
+      "shortId": "Q-3B303E",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui possède le pouvoir exécutif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Les tribunaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République et le gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le pouvoir exécutif est exercé par le président de la République et le gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3041",
+      "shortId": "Q-3B3041",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle des députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Appliquer les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Juger les crimes",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer les préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "Voter les lois et contrôler l’action du gouvernement",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les députés siègent à l’Assemblée nationale : ils votent la loi et contrôlent l’action du gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3042",
+      "shortId": "Q-3B3042",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui possède le pouvoir législatif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le pouvoir législatif appartient au Parlement (Assemblée nationale + Sénat) : il vote les lois.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9b",
+      "shortId": "Q-3B2F9B",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que l'Hôtel de Matignon ?</p>\n",
+      "choices": [
+        {
+          "text": "La résidence officielle et les services du Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le siège du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le palais du président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le siège de l’Assemblée nationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’Hôtel de Matignon est le lieu où travaille le Premier ministre et sa résidence officielle.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3043",
+      "shortId": "Q-3B3043",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui élit les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Les citoyens (électeurs) au suffrage universel direct",
+          "isCorrect": true
+        },
+        {
+          "text": "Les préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "Les sénateurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Le gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les députés sont élus directement par les citoyens lors des élections législatives.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3044",
+      "shortId": "Q-3B3044",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui vote les lois ?</p>\n",
+      "choices": [
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": true
+        },
+        {
+          "text": "Les tribunaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les lois sont votées par le Parlement (Assemblée nationale et Sénat).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9c",
+      "shortId": "Q-3B2F9C",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du président de la République ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois à la place du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Être le chef de l’État et garantir le fonctionnement des institutions",
+          "isCorrect": true
+        },
+        {
+          "text": "Diriger la commune",
+          "isCorrect": false
+        },
+        {
+          "text": "Rendre la justice au tribunal",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le président est le chef de l’État. Il a un rôle institutionnel majeur et veille au respect de la Constitution.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3045",
+      "shortId": "Q-3B3045",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui réside au palais de l'Élysée ?</p>\n",
+      "choices": [
+        {
+          "text": "Le maire de Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le président de l’Assemblée nationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le palais de l’Élysée est la résidence officielle du président de la République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9d",
+      "shortId": "Q-3B2F9D",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Être le chef de la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Être le chef de l’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger l’action du Gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Présider l’Assemblée nationale",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Premier ministre dirige l’action du Gouvernement et coordonne le travail des ministres.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3046",
+      "shortId": "Q-3B3046",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Combien y a-t-il de départements en France ?</p>\n",
+      "choices": [
+        {
+          "text": "200",
+          "isCorrect": false
+        },
+        {
+          "text": "101",
+          "isCorrect": true
+        },
+        {
+          "text": "27",
+          "isCorrect": false
+        },
+        {
+          "text": "13",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France compte 101 départements (métropole + outre-mer).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9e",
+      "shortId": "Q-3B2F9E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui est le chef du Gouvernement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le président de l’Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": true
+        },
+        {
+          "text": "Le président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le chef du Gouvernement est le Premier ministre.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3047",
+      "shortId": "Q-3B3047",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qui représente l'État dans un département ?</p>\n",
+      "choices": [
+        {
+          "text": "Le député",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": true
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Dans un département, le préfet représente l’État et coordonne l’action des services de l’État.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f99",
+      "shortId": "Q-3B2F99",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui dirige la commune ?</p>\n",
+      "choices": [
+        {
+          "text": "Le procureur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": true
+        },
+        {
+          "text": "Le président de la République",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La commune est dirigée par le maire, élu par le conseil municipal.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9f",
+      "shortId": "Q-3B2F9F",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Combien y a-t-il de régions en France ?</p>\n",
+      "choices": [
+        {
+          "text": "13",
+          "isCorrect": false
+        },
+        {
+          "text": "18 (dont 5 outre-mer)",
+          "isCorrect": true
+        },
+        {
+          "text": "101",
+          "isCorrect": false
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France compte 18 régions : 13 en métropole et 5 en outre-mer.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2fa0",
+      "shortId": "Q-3B2FA0",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel est le rôle du Défenseur des droits ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger le Gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Commander l’armée",
+          "isCorrect": false
+        },
+        {
+          "text": "Défendre les droits des personnes et lutter contre les discriminations",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Défenseur des droits est une autorité indépendante qui aide à faire respecter les droits et lutte contre les discriminations.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f97",
+      "shortId": "Q-3B2F97",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est le préfet ?</p>\n",
+      "choices": [
+        {
+          "text": "Le chef d’un tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le représentant de l’État dans un département ou une région",
+          "isCorrect": true
+        },
+        {
+          "text": "Le chef d’un parti politique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du Sénat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le préfet représente l’État dans le département (et, pour le préfet de région, à l’échelle régionale).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2fa2",
+      "shortId": "Q-3B2FA2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle principal du département ?</p>\n",
+      "choices": [
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer des actions de solidarité et des services de proximité (ex : aide sociale)",
+          "isCorrect": true
+        },
+        {
+          "text": "Voter les lois nationales",
+          "isCorrect": false
+        },
+        {
+          "text": "Nommer le Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le département joue un rôle important dans la solidarité et les services de proximité, notamment l’action sociale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b3048",
+      "shortId": "Q-3B3048",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le rôle du Parlement ?</p>\n",
+      "choices": [
+        {
+          "text": "Voter les lois et contrôler l’action du gouvernement",
+          "isCorrect": true
+        },
+        {
+          "text": "Nommer les préfets",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les mairies",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger les tribunaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Parlement vote la loi et contrôle l’action du gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2f9a",
+      "shortId": "Q-3B2F9A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel est le régime politique de la France aujourd'hui ?</p>\n",
+      "choices": [
+        {
+          "text": "Une république démocratique",
+          "isCorrect": true
+        },
+        {
+          "text": "Une monarchie",
+          "isCorrect": false
+        },
+        {
+          "text": "Une théocratie",
+          "isCorrect": false
+        },
+        {
+          "text": "Un empire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France est une République (Ve République) et son régime est démocratique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2fa3",
+      "shortId": "Q-3B2FA3",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel est le rôle principal des communes ?</p>\n",
+      "choices": [
+        {
+          "text": "Diriger l'Union européenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les services locaux du quotidien (état civil, écoles, etc.)",
+          "isCorrect": true
+        },
+        {
+          "text": "Rendre les décisions de justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Voter les lois nationales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La commune, dirigée par le maire et le conseil municipal, gère de nombreux services de proximité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5f48ffb722a33b2fa4",
+      "shortId": "Q-3B2FA4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Combien de communes environ existe-t-il en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ 35 000",
+          "isCorrect": true
+        },
+        {
+          "text": "Environ 100 000",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 5 000",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 1 000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France compte un grand nombre de communes, autour de 35 000, ce qui en fait un échelon territorial très présent.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c355432a2815c0b7f3c5a",
+      "shortId": "Q-7F3C5A",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une nouvelle loi sur l’environnement est promulguée par le président de la République. Que signifie cette action ?</p>\n",
+      "choices": [
+        {
+          "text": "Le président peut modifier la loi à tout moment",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président applique une décision du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président crée la loi sans vote du Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président rend la loi applicable après son adoption par le Parlement",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La promulgation est l’acte par lequel le président rend une loi exécutoire après son adoption par le Parlement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c355432a2815c0b7f3c5d",
+      "shortId": "Q-7F3C5D",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un habitant souhaite signaler un problème de voirie (trou dans la chaussée). À qui doit-il s’adresser ?</p>\n",
+      "choices": [
+        {
+          "text": "À la préfecture de région",
+          "isCorrect": false
+        },
+        {
+          "text": "Au ministère de l’Intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Au président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "À la mairie de sa commune",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La voirie communale relève de la compétence du maire. Les citoyens peuvent signaler les problèmes à la mairie.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c355432a2815c0b7f3c5e",
+      "shortId": "Q-7F3C5E",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un conseiller municipal démissionne avant la fin de son mandat. Que se passe-t-il ?</p>\n",
+      "choices": [
+        {
+          "text": "Une nouvelle élection est immédiatement organisée",
+          "isCorrect": false
+        },
+        {
+          "text": "Le conseil municipal perd son quorum",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est remplacé par le suivant sur la liste électorale",
+          "isCorrect": true
+        },
+        {
+          "text": "Le maire choisit librement un remplaçant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En cas de démission, le siège vacant est attribué au suivant sur la liste, sans nouvelle élection sauf cas particulier.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c355432a2815c0b7f3c60",
+      "shortId": "Q-7F3C60",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Le gouvernement présente un projet de loi au Parlement. Quelle est la première étape du processus législatif ?</p>\n",
+      "choices": [
+        {
+          "text": "Le vote des citoyens par référendum",
+          "isCorrect": false
+        },
+        {
+          "text": "L’examen du texte en commission à l’Assemblée nationale ou au Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "L’approbation préalable du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "La promulgation immédiate par le président",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Un projet de loi est d’abord examiné en commission parlementaire avant d’être débattu et voté en séance publique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c355432a2815c0b7f3c63",
+      "shortId": "Q-7F3C63",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Le Conseil constitutionnel annule une partie d’une loi récemment adoptée. Pourquoi ?</p>\n",
+      "choices": [
+        {
+          "text": "Parce qu’elle est contraire à la Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Parce qu’elle est impopulaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Parce que le président en a décidé ainsi",
+          "isCorrect": false
+        },
+        {
+          "text": "Parce qu’elle a été votée trop vite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Conseil constitutionnel veille à ce que les lois respectent la Constitution. Il peut en annuler tout ou partie si elles la contredisent.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd3326",
+      "shortId": "Q-CD3326",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le rôle principal du Président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Contrôler les médias",
+          "isCorrect": false
+        },
+        {
+          "text": "Rédiger les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Garantir le respect de la Constitution et représenter la France",
+          "isCorrect": true
+        },
+        {
+          "text": "Nommer les députés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Président de la République veille au respect de la Constitution et représente la France à l’étranger.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c0bf88e35210cd332f",
+      "shortId": "Q-CD332F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Qui nomme le Premier ministre en France ?</p>\n",
+      "choices": [
+        {
+          "text": "L’Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Président de la République choisit et nomme le Premier ministre, chef du gouvernement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3338",
+      "shortId": "Q-CD3338",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de chambres composent le Parlement français ?</p>\n",
+      "choices": [
+        {
+          "text": "Trois",
+          "isCorrect": false
+        },
+        {
+          "text": "Deux",
+          "isCorrect": true
+        },
+        {
+          "text": "Une seule",
+          "isCorrect": false
+        },
+        {
+          "text": "Quatre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Parlement français est bicaméral, composé de l’Assemblée nationale et du Sénat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd334a",
+      "shortId": "Q-CD334A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution veille au respect de la Constitution en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Conseil d’État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Conseil constitutionnel s’assure que les lois respectent la Constitution.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3353",
+      "shortId": "Q-CD3353",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui gère les écoles primaires et maternelles publiques ?</p>\n",
+      "choices": [
+        {
+          "text": "L’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Les départements",
+          "isCorrect": false
+        },
+        {
+          "text": "Les communes",
+          "isCorrect": true
+        },
+        {
+          "text": "Les régions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les communes sont responsables des écoles maternelles et primaires publiques (bâtiments, matériel, cantine). L’État s’occupe des programmes scolaires et des enseignants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd335c",
+      "shortId": "Q-CD335C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel niveau de collectivité s’occupe des collèges et de l’aide sociale ?</p>\n",
+      "choices": [
+        {
+          "text": "La région",
+          "isCorrect": false
+        },
+        {
+          "text": "La commune",
+          "isCorrect": false
+        },
+        {
+          "text": "L’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Le département",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les départements gèrent les collèges, l’aide sociale et les routes départementales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3365",
+      "shortId": "Q-CD3365",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle collectivité gère les lycées et les transports régionaux ?</p>\n",
+      "choices": [
+        {
+          "text": "L’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Le département",
+          "isCorrect": false
+        },
+        {
+          "text": "La région",
+          "isCorrect": true
+        },
+        {
+          "text": "La commune",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les régions sont responsables des lycées, des transports et du développement économique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd336e",
+      "shortId": "Q-CD336E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le représentant de l’État dans un département ?</p>\n",
+      "choices": [
+        {
+          "text": "Le président du conseil départemental",
+          "isCorrect": false
+        },
+        {
+          "text": "Le député",
+          "isCorrect": false
+        },
+        {
+          "text": "Le maire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le préfet représente l’État dans le département et veille à l’application des lois.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3377",
+      "shortId": "Q-CD3377",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document fixe la répartition des compétences entre l’État et les collectivités territoriales ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "La Charte de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code des collectivités",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution de 1958 organise la décentralisation et définit le rôle des collectivités locales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3380",
+      "shortId": "Q-CD3380",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée du mandat du Président de la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Depuis 2002, le mandat présidentiel en France est de 5 ans, appelé quinquennat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3389",
+      "shortId": "Q-CD3389",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de temps dure le mandat d’un député à l’Assemblée nationale ?</p>\n",
+      "choices": [
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les députés sont élus pour un mandat de 5 ans au suffrage universel direct.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd3392",
+      "shortId": "Q-CD3392",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle est la durée du mandat d’un sénateur en France ?</p>\n",
+      "choices": [
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les sénateurs sont élus pour 6 ans au suffrage indirect par les grands électeurs.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd339b",
+      "shortId": "Q-CD339B",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel type d’élection permet de choisir les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Les élections présidentielles",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections européennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections municipales",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections législatives",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les élections législatives servent à élire les députés qui siègent à l’Assemblée nationale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33a4",
+      "shortId": "Q-CD33A4",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Comment le Président de la République est-il élu en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Par les maires",
+          "isCorrect": false
+        },
+        {
+          "text": "Par les parlementaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Par le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Au suffrage universel direct",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Depuis 1962, le Président de la République est élu au suffrage universel direct.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33ad",
+      "shortId": "Q-CD33AD",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle élection permet d’élire les représentants au niveau des communes ?</p>\n",
+      "choices": [
+        {
+          "text": "Les élections législatives",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections européennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections régionales",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections municipales",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les élections municipales servent à élire les conseillers municipaux et le maire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33b6",
+      "shortId": "Q-CD33B6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de temps dure le mandat des conseillers régionaux ?</p>\n",
+      "choices": [
+        {
+          "text": "4 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "6 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "5 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "7 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les conseillers régionaux sont élus pour 6 ans lors des élections régionales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33bf",
+      "shortId": "Q-CD33BF",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel âge minimum faut-il avoir pour voter en France ?</p>\n",
+      "choices": [
+        {
+          "text": "18 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "25 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit de vote est accordé à tout citoyen français âgé de 18 ans ou plus.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33c8",
+      "shortId": "Q-CD33C8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle élection permet aux citoyens français d’élire leurs représentants au Parlement européen ?</p>\n",
+      "choices": [
+        {
+          "text": "Les élections législatives",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections européennes",
+          "isCorrect": true
+        },
+        {
+          "text": "Les élections sénatoriales",
+          "isCorrect": false
+        },
+        {
+          "text": "Les élections régionales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les élections européennes permettent d’élire les députés européens tous les 5 ans.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c1bf88e35210cd33d1",
+      "shortId": "Q-CD33D1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document officiel est obligatoire pour voter ?</p>\n",
+      "choices": [
+        {
+          "text": "La carte de transport",
+          "isCorrect": false
+        },
+        {
+          "text": "La carte d’identité ou le passeport",
+          "isCorrect": true
+        },
+        {
+          "text": "Le permis de conduire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le livret de famille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Pour voter, il faut présenter une pièce d’identité valide et être inscrit sur les listes électorales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6919e419c962b7517082275d",
+      "shortId": "Q-82275D",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un événement grave survient : <strong>le Président de la République décède en cours de mandat.</strong> Selon la Constitution, qui assure alors l’intérim à la tête de l’État ?</p>\n",
+      "choices": [
+        {
+          "text": "Le président de l’Assemblée nationale.",
+          "isCorrect": false
+        },
+        {
+          "text": "Le président du Sénat.",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Premier ministre.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En cas de décès, démission ou empêchement du Président de la République, <strong>la Constitution prévoit que le président du Sénat assure l’intérim jusqu’à l’élection d’un nouveau président.</strong></p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6919eb56c962b75170825125",
+      "shortId": "Q-825125",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelles sont les principales missions du Conseil général (aujourd’hui appelé <strong>Conseil départemental</strong>) ?</p>\n",
+      "choices": [
+        {
+          "text": "S’occuper de la voirie communale et des écoles primaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Soutenir l’économie, gérer la formation professionnelle et administrer les lycées",
+          "isCorrect": false
+        },
+        {
+          "text": "Assurer l’action sociale, protéger l’enfance et gérer les collèges",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p><strong>Le Conseil général, devenu Conseil départemental</strong>, est surtout responsable de l’action sociale (RSA, personnes âgées, handicap), de la protection de l’enfance et de la gestion des collèges dans le département.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6939e7d87b82429c96052b16",
+      "shortId": "Q-052B16",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Comment la Constitution française peut-elle être révisée ?</p>\n",
+      "choices": [
+        {
+          "text": "Par les juges",
+          "isCorrect": false
+        },
+        {
+          "text": "Par le Parlement réuni en Congrès ou par référendum",
+          "isCorrect": true
+        },
+        {
+          "text": "Par le président seul",
+          "isCorrect": false
+        },
+        {
+          "text": "Directement par les citoyens",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution peut être révisée selon l’article 89 : soit par référendum, soit par le Parlement réuni en Congrès (à la majorité des 3/5e).\nLe président ne peut pas réviser seul la Constitution, et les citoyens n’ont pas d’initiative constitutionnelle directe.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693c12b46ba49367a5b6a5d2",
+      "shortId": "Q-B6A5D2",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>De combien de membres se compose le Conseil constitutionnel ?</p>\n",
+      "choices": [
+        {
+          "text": "15 membres",
+          "isCorrect": false
+        },
+        {
+          "text": "10 membres",
+          "isCorrect": false
+        },
+        {
+          "text": "9 membres",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Conseil constitutionnel est composé de 9 membres nommés pour 9 ans.\nLes anciens Présidents de la République peuvent siéger de droit, mais ils ne sont pas comptés parmi ces 9 membres.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693c139d6ba49367a5b6d6a2",
+      "shortId": "Q-B6D6A2",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Le Conseil des ministres est présidé par :</p>\n",
+      "choices": [
+        {
+          "text": "Le président du Sénat",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministre de l’Intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Conseil des ministres est présidé par le Président de la République.\nEn cas d’absence exceptionnelle, le Premier ministre peut le présider par délégation, mais la règle générale est la présidence présidentielle.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693c16d96ba49367a5b80231",
+      "shortId": "Q-B80231",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Le Défenseur des droits est :</p>\n",
+      "choices": [
+        {
+          "text": "Un magistrat chargé de rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Un membre du Gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Une autorité indépendante chargée de protéger les droits et libertés",
+          "isCorrect": true
+        },
+        {
+          "text": "Un représentant élu du Parlement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Défenseur des droits est une autorité administrative indépendante.\nIl veille au respect des droits et libertés par les administrations et lutte notamment contre les discriminations.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bb532b0ac0df97075d7e9",
+      "shortId": "Q-75D7E9",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment est désigné le Premier ministre ?</p>\n",
+      "choices": [
+        {
+          "text": "Par le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Par l’Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Par élection directe des citoyens",
+          "isCorrect": false
+        },
+        {
+          "text": "Par le Président de la République",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, le Premier ministre est nommé par le Président de la République. Il dirige l’action du gouvernement sous son autorité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bb5f0b0ac0df9707618f6",
+      "shortId": "Q-7618F6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui peut se présenter aux élections présidentielles ?</p>\n",
+      "choices": [
+        {
+          "text": "Tout élu local sans condition",
+          "isCorrect": false
+        },
+        {
+          "text": "Tout citoyen européen majeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Toute personne résidant en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Tout citoyen français remplissant les conditions légales",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Pour être candidat à l’élection présidentielle, il faut être citoyen français, majeur, jouir de ses droits civiques et remplir les conditions prévues par la loi (parrainages, etc.).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bb937b0ac0df97076b7bf",
+      "shortId": "Q-76B7BF",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle condition faut-il remplir pour être candidat aux élections municipales ?</p>\n",
+      "choices": [
+        {
+          "text": "Être propriétaire d’un logement dans la commune",
+          "isCorrect": false
+        },
+        {
+          "text": "Être citoyen de l’Union européenne ou français et majeur",
+          "isCorrect": true
+        },
+        {
+          "text": "Être né dans la commune",
+          "isCorrect": false
+        },
+        {
+          "text": "Être inscrit sur les listes électorales depuis 10 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Pour être candidat aux élections municipales, il faut être majeur et citoyen français ou citoyen de l’Union européenne. En revanche, seuls les citoyens français peuvent être maire ou adjoint.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bb9aeb0ac0df97076c45e",
+      "shortId": "Q-76C45E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Parmi ces autorités, laquelle est élue ?</p>\n",
+      "choices": [
+        {
+          "text": "Le procureur de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président de la République",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Président de la République est élu par les citoyens au suffrage universel direct. Les autres autorités sont nommées.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bbbacb0ac0df97076f9cb",
+      "shortId": "Q-76F9CB",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les fonctions du maire ?</p>\n",
+      "choices": [
+        {
+          "text": "Gérer la commune et exécuter les décisions du conseil municipal",
+          "isCorrect": true
+        },
+        {
+          "text": "Représenter l’État à l’étranger",
+          "isCorrect": false
+        },
+        {
+          "text": "Diriger le Parlement",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer uniquement les écoles nationales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le maire gère la commune, exécute les décisions du conseil municipal et représente l’État pour certaines missions (état civil, police administrative).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bc530b0ac0df9707949c9",
+      "shortId": "Q-7949C9",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment sont désignés les députés ?</p>\n",
+      "choices": [
+        {
+          "text": "Par élection au suffrage universel direct",
+          "isCorrect": true
+        },
+        {
+          "text": "Par nomination du Président de la République",
+          "isCorrect": false
+        },
+        {
+          "text": "Par décision du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Par nomination des préfets",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les députés sont élus par les citoyens au suffrage universel direct lors des élections législatives.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bca21b0ac0df9707b6331",
+      "shortId": "Q-7B6331",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui gère les collèges publics ?</p>\n",
+      "choices": [
+        {
+          "text": "Les communes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les départements",
+          "isCorrect": true
+        },
+        {
+          "text": "Les régions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  },
+  {
+    "question": {
+      "id": "694bd0a9b0ac0df9707d72f2",
+      "shortId": "Q-7D72F2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est l’une des voies possibles pour modifier la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "Par une décision du Gouvernement seul",
+          "isCorrect": false
+        },
+        {
+          "text": "Par un vote du Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Par une pétition citoyenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Par référendum ou par le Parlement réuni en Congrès",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Constitution peut être modifiée soit par référendum, soit par un vote du Parlement réuni en Congrès à la majorité qualifiée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bd11fb0ac0df9707d9ed3",
+      "shortId": "Q-7D9ED3",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui assure l'intérim du président de la République en cas de décès ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Conseil constitutionnel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Président du Sénat",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Président de l’Assemblée nationale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Premier ministre",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En cas de décès (ou de vacance du pouvoir), l’intérim de la présidence de la République est assuré par le Président du Sénat, conformément à la Constitution.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bd22ab0ac0df9707e046f",
+      "shortId": "Q-7E046F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?</p>\n",
+      "choices": [
+        {
+          "text": "Être élu local",
+          "isCorrect": false
+        },
+        {
+          "text": "Être résident en France depuis au moins 10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Être membre d’un parti politique",
+          "isCorrect": false
+        },
+        {
+          "text": "Être citoyen français et remplir les conditions légales",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Pour être candidat à l’élection présidentielle, il faut être citoyen français, majeur, disposer de ses droits civiques et remplir les conditions prévues par la loi (notamment les parrainages).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bd535b0ac0df9707eb5d8",
+      "shortId": "Q-7EB5D8",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Comment est organisé le découpage administratif de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "En régions et arrondissements uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "En provinces et cantons",
+          "isCorrect": false
+        },
+        {
+          "text": "En districts et territoires fédéraux",
+          "isCorrect": false
+        },
+        {
+          "text": "En communes, départements et régions",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La France est organisée en communes, départements et régions, qui sont des collectivités territoriales dotées de compétences propres.</p>\n"
+    }
+  }
+]

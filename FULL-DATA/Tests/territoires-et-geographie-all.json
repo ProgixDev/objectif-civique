@@ -1,0 +1,2286 @@
+[
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e8c",
+      "shortId": "Q-8F8E8C",
+      "category": [
+        "cr",
+        "nat",
+        "ltc"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes se situe dans le nord-est de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Alpes",
+          "isCorrect": false
+        },
+        {
+          "text": "Vosges",
+          "isCorrect": true
+        },
+        {
+          "text": "Jura",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les Vosges s’étendent entre la Lorraine et l’Alsace. C’est un massif ancien de moyenne altitude au nord-est de la France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e8e",
+      "shortId": "Q-8F8E8E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel massif se situe au centre de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Ardennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Massif central",
+          "isCorrect": true
+        },
+        {
+          "text": "Vosges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Massif central est un vaste ensemble montagneux au cœur de la France, composé de volcans anciens comme le Puy de Dôme.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e8f",
+      "shortId": "Q-8F8E8F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes culmine au Mont Blanc ?</p>\n",
+      "choices": [
+        {
+          "text": "Alpes",
+          "isCorrect": true
+        },
+        {
+          "text": "Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Jura",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les Alpes culminent au Mont Blanc (4 808 m), le plus haut sommet d’Europe occidentale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e90",
+      "shortId": "Q-8F8E90",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle chaîne montagneuse borde la frontière franco-suisse ?</p>\n",
+      "choices": [
+        {
+          "text": "Comté",
+          "isCorrect": false
+        },
+        {
+          "text": "Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Jura",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Jura sépare la France et la Suisse. C’est un massif verdoyant de moyenne altitude.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e91",
+      "shortId": "Q-8F8E91",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle mer borde le nord de la France près de Dunkerque ?</p>\n",
+      "choices": [
+        {
+          "text": "Mer du Nord",
+          "isCorrect": true
+        },
+        {
+          "text": "Mer Noire",
+          "isCorrect": false
+        },
+        {
+          "text": "Manche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La mer du Nord borde la côte française au nord de Dunkerque et relie la France à la Belgique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e92",
+      "shortId": "Q-8F8E92",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle mer sépare la France de l’Angleterre ?</p>\n",
+      "choices": [
+        {
+          "text": "Mer du Nord",
+          "isCorrect": false
+        },
+        {
+          "text": "Mer Noire",
+          "isCorrect": false
+        },
+        {
+          "text": "Manche",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Manche sépare la France et l’Angleterre et relie l’océan Atlantique à la mer du Nord.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e93",
+      "shortId": "Q-8F8E93",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel océan borde l’ouest de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Océan Atlantique",
+          "isCorrect": true
+        },
+        {
+          "text": "Océan Pacifique",
+          "isCorrect": false
+        },
+        {
+          "text": "Manche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’océan Atlantique borde la façade ouest de la France, de la Bretagne au Pays basque.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd3083",
+      "shortId": "Q-CD3083",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle mer borde le sud de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Mer Caspienne",
+          "isCorrect": false
+        },
+        {
+          "text": "Mer Noire",
+          "isCorrect": false
+        },
+        {
+          "text": "Mer Méditerranée",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La mer Méditerranée borde le sud de la France, de la frontière espagnole à l’Italie.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd35f6",
+      "shortId": "Q-CD35F6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le plus long fleuve de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Loire",
+          "isCorrect": true
+        },
+        {
+          "text": "Garonne",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhône",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Loire est le plus long fleuve de France avec plus de 1 000 km. Elle traverse Orléans, Tours et Nantes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e95",
+      "shortId": "Q-8F8E95",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse Toulouse avant d’atteindre l’Atlantique ?</p>\n",
+      "choices": [
+        {
+          "text": "Garonne",
+          "isCorrect": true
+        },
+        {
+          "text": "Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Garonne traverse Toulouse et Bordeaux avant de se jeter dans l’Atlantique par l’estuaire de la Gironde.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e96",
+      "shortId": "Q-8F8E96",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse Lyon et se jette dans la Méditerranée ?</p>\n",
+      "choices": [
+        {
+          "text": "Rhône",
+          "isCorrect": true
+        },
+        {
+          "text": "Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhin",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le Rhône prend sa source en Suisse, traverse Lyon et Arles avant d’atteindre la Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e97",
+      "shortId": "Q-8F8E97",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve marque la frontière entre la France et l’Allemagne ?</p>\n",
+      "choices": [
+        {
+          "text": "Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "Meuse",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhin",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Rhin sert de frontière naturelle entre la France et l’Allemagne, notamment près de Strasbourg.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd307a",
+      "shortId": "Q-CD307A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le plus haut sommet de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le pic du Midi",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mont Aigoual",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mont Ventoux",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mont Blanc",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le mont Blanc, situé dans les Alpes, est le point culminant de la France avec 4 808 mètres.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd3095",
+      "shortId": "Q-CD3095",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de départements compte la France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "98 départements",
+          "isCorrect": false
+        },
+        {
+          "text": "96 départements",
+          "isCorrect": true
+        },
+        {
+          "text": "94 départements",
+          "isCorrect": false
+        },
+        {
+          "text": "100 départements",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France métropolitaine est divisée en 96 départements administratifs.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd309e",
+      "shortId": "Q-CD309E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle ville française est traversée par la Garonne ?</p>\n",
+      "choices": [
+        {
+          "text": "Marseille",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "Bordeaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Garonne traverse Bordeaux avant de se jeter dans l’océan Atlantique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30a7",
+      "shortId": "Q-CD30A7",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle grande ville se situe au confluent du Rhône et de la Saône ?</p>\n",
+      "choices": [
+        {
+          "text": "Toulouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": true
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": false
+        },
+        {
+          "text": "Nice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Lyon, au confluent du Rhône et de la Saône, est un centre historique et économique majeur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30b0",
+      "shortId": "Q-CD30B0",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle grande ville est située sur la Méditerranée et possède le plus grand port de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Montpellier",
+          "isCorrect": false
+        },
+        {
+          "text": "Toulon",
+          "isCorrect": false
+        },
+        {
+          "text": "Nice",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Marseille est le principal port de commerce français sur la Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30b9",
+      "shortId": "Q-CD30B9",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes sépare la France de l’Espagne ?</p>\n",
+      "choices": [
+        {
+          "text": "Les Alpes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Pyrénées",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Jura",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Massif central",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les Pyrénées forment la frontière naturelle entre la France et l’Espagne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30c2",
+      "shortId": "Q-CD30C2",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes se trouve à la frontière italienne ?</p>\n",
+      "choices": [
+        {
+          "text": "Les Pyrénées",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Alpes",
+          "isCorrect": true
+        },
+        {
+          "text": "Les Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Jura",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les Alpes séparent la France de l’Italie et abritent le mont Blanc.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30cb",
+      "shortId": "Q-CD30CB",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse la capitale française ?</p>\n",
+      "choices": [
+        {
+          "text": "La Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": false
+        },
+        {
+          "text": "La Seine",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Seine traverse Paris avant de se jeter dans la Manche au Havre.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30d4",
+      "shortId": "Q-CD30D4",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle île française se situe en Méditerranée ?</p>\n",
+      "choices": [
+        {
+          "text": "La Martinique",
+          "isCorrect": false
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "La Corse",
+          "isCorrect": true
+        },
+        {
+          "text": "La Guadeloupe",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Corse est une île française en Méditerranée surnommée « l’île de Beauté ».</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30dd",
+      "shortId": "Q-CD30DD",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Dans quel type de zone vit la majorité de la population française ?</p>\n",
+      "choices": [
+        {
+          "text": "Sur le littoral",
+          "isCorrect": false
+        },
+        {
+          "text": "En zone rurale",
+          "isCorrect": false
+        },
+        {
+          "text": "En zone urbaine",
+          "isCorrect": true
+        },
+        {
+          "text": "En montagne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La majorité des Français vivent dans les villes et leurs périphéries.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd30e6",
+      "shortId": "Q-CD30E6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle activité économique est fortement liée au patrimoine et aux paysages français ?</p>\n",
+      "choices": [
+        {
+          "text": "L’agriculture",
+          "isCorrect": false
+        },
+        {
+          "text": "Le tourisme",
+          "isCorrect": true
+        },
+        {
+          "text": "La pêche",
+          "isCorrect": false
+        },
+        {
+          "text": "L’industrie lourde",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le tourisme valorise le patrimoine culturel, naturel et gastronomique français.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c356032a2815c0b7f3c64",
+      "shortId": "Q-7F3C64",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Quelle région française est la plus peuplée du pays ?</p>\n",
+      "choices": [
+        {
+          "text": "La Bretagne",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Occitanie",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Île-de-France",
+          "isCorrect": true
+        },
+        {
+          "text": "La Nouvelle-Aquitaine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’Île-de-France, qui comprend Paris et sa banlieue, est la région la plus peuplée avec environ 12 millions d’habitants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8448ffb722a33b3078",
+      "shortId": "Q-3B3078",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel fleuve coule en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Nil",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Gange",
+          "isCorrect": false
+        },
+        {
+          "text": "La Loire",
+          "isCorrect": true
+        },
+        {
+          "text": "L’Amazone",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Loire est un fleuve français (comme la Seine, le Rhône, la Garonne).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8448ffb722a33b3079",
+      "shortId": "Q-3B3079",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle ville est française ?</p>\n",
+      "choices": [
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        },
+        {
+          "text": "Berlin",
+          "isCorrect": false
+        },
+        {
+          "text": "Rome",
+          "isCorrect": false
+        },
+        {
+          "text": "Madrid",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Marseille est une grande ville française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8448ffb722a33b307a",
+      "shortId": "Q-3B307A",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel océan borde la côte ouest française ?</p>\n",
+      "choices": [
+        {
+          "text": "L’océan Indien",
+          "isCorrect": false
+        },
+        {
+          "text": "L’océan Pacifique",
+          "isCorrect": false
+        },
+        {
+          "text": "L’océan Atlantique",
+          "isCorrect": true
+        },
+        {
+          "text": "L’océan Arctique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La côte ouest de la France métropolitaine est bordée par l’océan Atlantique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b307b",
+      "shortId": "Q-3B307B",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu'est-ce que Paris ?</p>\n",
+      "choices": [
+        {
+          "text": "Une région française",
+          "isCorrect": false
+        },
+        {
+          "text": "Un département d’outre-mer",
+          "isCorrect": false
+        },
+        {
+          "text": "La capitale de la France",
+          "isCorrect": true
+        },
+        {
+          "text": "Une île de la Méditerranée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Paris est la capitale de la France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bdbf88e35210cd308c",
+      "shortId": "Q-CD308C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle est la capitale de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Lyon",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "Lille",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La capitale de la France est Paris, siège des principales institutions nationales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b307c",
+      "shortId": "Q-3B307C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Sur quel continent se situe la France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "En Asie",
+          "isCorrect": false
+        },
+        {
+          "text": "En Afrique",
+          "isCorrect": false
+        },
+        {
+          "text": "En Europe",
+          "isCorrect": true
+        },
+        {
+          "text": "En Amérique du Sud",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France métropolitaine se situe en Europe (à l’ouest du continent européen).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b307d",
+      "shortId": "Q-3B307D",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quelle île est un département d'outre-mer français ?</p>\n",
+      "choices": [
+        {
+          "text": "La Sicile",
+          "isCorrect": false
+        },
+        {
+          "text": "La Sardaigne",
+          "isCorrect": false
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": true
+        },
+        {
+          "text": "La Corse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Réunion est un département et une région d’outre-mer (DOM). La Corse est une collectivité territoriale en métropole.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b307e",
+      "shortId": "Q-3B307E",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Combien y a-t-il de régions en France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "13",
+          "isCorrect": true
+        },
+        {
+          "text": "27",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Depuis la réforme territoriale (2016), la France métropolitaine compte 13 régions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b307f",
+      "shortId": "Q-3B307F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle ville est un grand port maritime ?</p>\n",
+      "choices": [
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        },
+        {
+          "text": "Dijon",
+          "isCorrect": false
+        },
+        {
+          "text": "Limoges",
+          "isCorrect": false
+        },
+        {
+          "text": "Clermont-Ferrand",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Marseille est un grand port maritime, notamment sur la Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b3080",
+      "shortId": "Q-3B3080",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle est la mer au sud de la France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "La mer Noire",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer Baltique",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer du Nord",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer Méditerranée",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Au sud de la France métropolitaine se trouve la mer Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b3081",
+      "shortId": "Q-3B3081",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle ville est située au bord de la mer Méditerranée ?</p>\n",
+      "choices": [
+        {
+          "text": "Rennes",
+          "isCorrect": false
+        },
+        {
+          "text": "Reims",
+          "isCorrect": false
+        },
+        {
+          "text": "Strasbourg",
+          "isCorrect": false
+        },
+        {
+          "text": "Nice",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Nice se situe sur la Côte d’Azur, au bord de la mer Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b3082",
+      "shortId": "Q-3B3082",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Où se situe la Corse ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans l’océan Pacifique",
+          "isCorrect": false
+        },
+        {
+          "text": "En mer Méditerranée",
+          "isCorrect": true
+        },
+        {
+          "text": "En mer Baltique",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans l’océan Atlantique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Corse est une île française située en mer Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8548ffb722a33b3083",
+      "shortId": "Q-3B3083",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes est située entre la France et l'Italie ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Massif central",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Alpes",
+          "isCorrect": true
+        },
+        {
+          "text": "Les Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Pyrénées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les Alpes forment une barrière montagneuse entre la France et l’Italie.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe2",
+      "shortId": "Q-3B2FE2",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle mer ou océan borde la France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "La mer Noire",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer Rouge",
+          "isCorrect": false
+        },
+        {
+          "text": "L’océan Indien (uniquement)",
+          "isCorrect": false
+        },
+        {
+          "text": "L’océan Atlantique",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La France métropolitaine est bordée notamment par l’océan Atlantique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe3",
+      "shortId": "Q-3B2FE3",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel pays a une frontière terrestre avec la France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Maroc",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Espagne",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Brésil",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Canada",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France métropolitaine a des frontières terrestres avec plusieurs pays, dont l’Espagne, la Belgique, l’Allemagne, l’Italie, etc.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe4",
+      "shortId": "Q-3B2FE4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle ville française est un port maritime ?</p>\n",
+      "choices": [
+        {
+          "text": "Limoges",
+          "isCorrect": false
+        },
+        {
+          "text": "Clermont-Ferrand",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        },
+        {
+          "text": "Dijon",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Marseille est un grand port maritime français situé sur la Méditerranée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe5",
+      "shortId": "Q-3B2FE5",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle mer se situe entre la France et l'Angleterre ?</p>\n",
+      "choices": [
+        {
+          "text": "La mer Baltique",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer Adriatique",
+          "isCorrect": false
+        },
+        {
+          "text": "La Manche",
+          "isCorrect": true
+        },
+        {
+          "text": "La mer Caspienne",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La mer entre la France et l’Angleterre est la Manche.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe6",
+      "shortId": "Q-3B2FE6",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qu'est ce que la France d'outre-mer ?</p>\n",
+      "choices": [
+        {
+          "text": "Des territoires français situés hors d’Europe",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement des bases militaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Des pays indépendants appartenant à l’ONU",
+          "isCorrect": false
+        },
+        {
+          "text": "Un ancien nom de la France métropolitaine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France d’outre-mer regroupe des territoires français situés hors de la métropole.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe7",
+      "shortId": "Q-3B2FE7",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle chaîne de montagnes est située entre la France et l’Espagne ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Jura",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Alpes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Pyrénées",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les Pyrénées forment une frontière naturelle entre la France et l’Espagne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe8",
+      "shortId": "Q-3B2FE8",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle île française se trouve dans l'océan Indien ?</p>\n",
+      "choices": [
+        {
+          "text": "La Corse",
+          "isCorrect": false
+        },
+        {
+          "text": "Noirmoutier",
+          "isCorrect": false
+        },
+        {
+          "text": "Ouessant",
+          "isCorrect": false
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Réunion est une île française située dans l’océan Indien.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fe9",
+      "shortId": "Q-3B2FE9",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la population approximative de la France en 2025 ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ 35 millions d’habitants",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 120 millions d’habitants",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 68,6 millions d’habitants",
+          "isCorrect": true
+        },
+        {
+          "text": "Environ 10 millions d’habitants",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En 2025, la France compte environ 68,6 millions d’habitants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690b7c7868a89b75e38f8e94",
+      "shortId": "Q-8F8E94",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quel fleuve traverse Paris ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "La Seine",
+          "isCorrect": true
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": false
+        },
+        {
+          "text": "La Loire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Paris est traversée par la Seine.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fea",
+      "shortId": "Q-3B2FEA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Lequel de ces pays partage des frontières terrestres avec la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Maroc",
+          "isCorrect": false
+        },
+        {
+          "text": "La Belgique",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Royaume-Uni",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Brésil (avec la France métropolitaine)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France métropolitaine partage des frontières terrestres avec des pays comme la Belgique, l’Allemagne, l’Italie, l’Espagne, la Suisse, le Luxembourg, etc.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2feb",
+      "shortId": "Q-3B2FEB",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel pays a une frontière avec la France métropolitaine au nord-est ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Portugal",
+          "isCorrect": false
+        },
+        {
+          "text": "La Grèce",
+          "isCorrect": false
+        },
+        {
+          "text": "La Norvège",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Allemagne",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Au nord-est, la France métropolitaine a notamment une frontière avec l’Allemagne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fec",
+      "shortId": "Q-3B2FEC",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Où se trouvent les principales activités économiques en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Exclusivement dans les montagnes",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement dans les zones désertiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Surtout dans les grandes villes et les principales régions urbaines",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement dans les petits villages isolés",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les principales activités économiques sont concentrées dans les grandes aires urbaines.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fed",
+      "shortId": "Q-3B2FED",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Parmi ces pays, lequel attire le plus de visiteurs chaque année ?</p>\n",
+      "choices": [
+        {
+          "text": "L’Islande",
+          "isCorrect": false
+        },
+        {
+          "text": "La France",
+          "isCorrect": true
+        },
+        {
+          "text": "La Bolivie",
+          "isCorrect": false
+        },
+        {
+          "text": "La Mongolie",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La France est l’une des destinations touristiques les plus visitées au monde.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6248ffb722a33b2fee",
+      "shortId": "Q-3B2FEE",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Où habite la majorité des Français ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement en montagne",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement sur le littoral",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans des zones urbaines (villes et agglomérations)",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement dans les campagnes isolées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La population française vit majoritairement en ville ou dans de grandes agglomérations.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b2fef",
+      "shortId": "Q-3B2FEF",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle région est la plus peuplée ?</p>\n",
+      "choices": [
+        {
+          "text": "La Guyane",
+          "isCorrect": false
+        },
+        {
+          "text": "La Corse",
+          "isCorrect": false
+        },
+        {
+          "text": "L’Île-de-France",
+          "isCorrect": true
+        },
+        {
+          "text": "La Martinique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’Île-de-France est la région la plus peuplée de France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b2ff0",
+      "shortId": "Q-3B2FF0",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelle ville française fait partie des 10 plus grandes métropoles du pays ?</p>\n",
+      "choices": [
+        {
+          "text": "Lyon",
+          "isCorrect": true
+        },
+        {
+          "text": "Carcassonne",
+          "isCorrect": false
+        },
+        {
+          "text": "Colmar",
+          "isCorrect": false
+        },
+        {
+          "text": "Annecy",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Lyon est l’une des plus grandes métropoles françaises.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6348ffb722a33b2ff1",
+      "shortId": "Q-3B2FF1",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Lequel de ces départements de France est le plus touristique ?</p>\n",
+      "choices": [
+        {
+          "text": "La Creuse (23)",
+          "isCorrect": false
+        },
+        {
+          "text": "La Lozère (48)",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris (75)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Haute-Marne (52)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le département de Paris est l’un des plus touristiques de France, avec une fréquentation très élevée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd35ff",
+      "shortId": "Q-CD35FF",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Dans quelle ville la Seine se jette-t-elle dans la mer ?</p>\n",
+      "choices": [
+        {
+          "text": "Au Havre",
+          "isCorrect": true
+        },
+        {
+          "text": "À Rouen",
+          "isCorrect": false
+        },
+        {
+          "text": "À Marseille",
+          "isCorrect": false
+        },
+        {
+          "text": "À Bordeaux",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Seine se jette dans la Manche au Havre, après avoir traversé Paris et Rouen.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd3608",
+      "shortId": "Q-CD3608",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quels sont les deux principaux massifs montagneux en France métropolitaine ?</p>\n",
+      "choices": [
+        {
+          "text": "Les Pyrénées et le Jura",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Jura et les Vosges",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Alpes et le Massif central",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Alpes et les Pyrénées",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les Alpes et les Pyrénées forment les principales chaînes montagneuses françaises.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd3611",
+      "shortId": "Q-CD3611",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle est la plus grande ville de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Toulouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Paris est la capitale et la plus grande ville de France, avec plus de 2 millions d’habitants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd361a",
+      "shortId": "Q-CD361A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle ville est la capitale de la région Auvergne-Rhône-Alpes ?</p>\n",
+      "choices": [
+        {
+          "text": "Annecy",
+          "isCorrect": false
+        },
+        {
+          "text": "Clermont-Ferrand",
+          "isCorrect": false
+        },
+        {
+          "text": "Grenoble",
+          "isCorrect": false
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Lyon est la capitale régionale d’Auvergne-Rhône-Alpes, et la deuxième aire urbaine de France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd3623",
+      "shortId": "Q-CD3623",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel territoire français est situé dans l’océan Indien ?</p>\n",
+      "choices": [
+        {
+          "text": "La Réunion",
+          "isCorrect": true
+        },
+        {
+          "text": "La Guadeloupe",
+          "isCorrect": false
+        },
+        {
+          "text": "La Martinique",
+          "isCorrect": false
+        },
+        {
+          "text": "La Guyane",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Réunion est une île française de l’océan Indien, département et région d’outre-mer.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd362c",
+      "shortId": "Q-CD362C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel fleuve traverse la ville de Bordeaux ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Rhône",
+          "isCorrect": false
+        },
+        {
+          "text": "La Garonne",
+          "isCorrect": true
+        },
+        {
+          "text": "La Loire",
+          "isCorrect": false
+        },
+        {
+          "text": "La Seine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Garonne traverse Bordeaux avant de rejoindre l’estuaire de la Gironde.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd363e",
+      "shortId": "Q-CD363E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Où se concentre la majorité de la population française ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans les zones rurales",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les régions d’outre-mer",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les zones urbaines",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans les montagnes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Plus de 80 % des Français vivent dans des zones urbaines, notamment autour des grandes métropoles.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c5bf88e35210cd3647",
+      "shortId": "Q-CD3647",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel secteur économique est le plus développé en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le secteur primaire (agriculture)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le secteur énergétique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le secteur secondaire (industrie)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le secteur tertiaire (services)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les services, comme le commerce, le tourisme et la santé, représentent plus des deux tiers de l’économie française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd3650",
+      "shortId": "Q-CD3650",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de départements d’outre-mer (DOM) compte la France ?</p>\n",
+      "choices": [
+        {
+          "text": "Huit",
+          "isCorrect": false
+        },
+        {
+          "text": "Quatre",
+          "isCorrect": false
+        },
+        {
+          "text": "Six",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinq",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La France compte cinq départements d’outre-mer : Guadeloupe, Martinique, Guyane, La Réunion et Mayotte.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd3659",
+      "shortId": "Q-CD3659",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Où se trouve la Guyane française ?</p>\n",
+      "choices": [
+        {
+          "text": "En Afrique",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les Caraïbes",
+          "isCorrect": false
+        },
+        {
+          "text": "En Asie",
+          "isCorrect": false
+        },
+        {
+          "text": "En Amérique du Sud",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Guyane se situe sur le continent sud-américain, entre le Brésil et le Suriname.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd3662",
+      "shortId": "Q-CD3662",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle mer borde la Guadeloupe et la Martinique ?</p>\n",
+      "choices": [
+        {
+          "text": "La mer Méditerranée",
+          "isCorrect": false
+        },
+        {
+          "text": "La mer des Caraïbes",
+          "isCorrect": true
+        },
+        {
+          "text": "L’océan Pacifique",
+          "isCorrect": false
+        },
+        {
+          "text": "L’océan Indien",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Ces deux îles sont situées dans la mer des Caraïbes, au large de l’Amérique centrale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd366b",
+      "shortId": "Q-CD366B",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel territoire français est situé dans le Pacifique Sud ?</p>\n",
+      "choices": [
+        {
+          "text": "Mayotte",
+          "isCorrect": false
+        },
+        {
+          "text": "La Nouvelle-Calédonie",
+          "isCorrect": true
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "La Guyane",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Nouvelle-Calédonie est un territoire français d’outre-mer situé dans le Pacifique Sud.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c6bf88e35210cd3674",
+      "shortId": "Q-CD3674",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le seul département français situé dans l’hémisphère sud, dans le sud de l’océan Indien, entre Madagascar et l’île Maurice, à l’est de l’Afrique ?</p>\n",
+      "choices": [
+        {
+          "text": "La Réunion",
+          "isCorrect": true
+        },
+        {
+          "text": "Mayotte",
+          "isCorrect": false
+        },
+        {
+          "text": "La Guadeloupe",
+          "isCorrect": false
+        },
+        {
+          "text": "La Martinique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p><a href=\"https://www.outre-mer.gouv.fr/territoires/la-reunion\"><strong>La Réunion</strong></a> est le seul département français situé dans l’hémisphère sud, dans l’océan Indien, à l’est de l’Afrique. 🌍🇫🇷</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692ea9fd4fe789a7cb38b553",
+      "shortId": "Q-38B553",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>La France compte environ combien d’habitants ?</p>\n",
+      "choices": [
+        {
+          "text": "Environ 50 millions",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 100 millions",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 80 millions",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 67 millions d’habitants",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La population de la France métropolitaine et d’outre-mer est d’environ <strong>67 millions d’habitants</strong>, selon les données publiées par l’INSEE.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694edf01610d4109b1dee4a0",
+      "shortId": "Q-DEE4A0",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle île fait partie des Antilles françaises ?</p>\n",
+      "choices": [
+        {
+          "text": "Guadeloupe",
+          "isCorrect": true
+        },
+        {
+          "text": "Jamaïque",
+          "isCorrect": false
+        },
+        {
+          "text": "Haïti",
+          "isCorrect": false
+        },
+        {
+          "text": "Cuba",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Guadeloupe fait partie des Antilles françaises et est un département et région d’outre-mer de la France</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694edf61610d4109b1df141f",
+      "shortId": "Q-DF141F",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle île est française ?</p>\n",
+      "choices": [
+        {
+          "text": "Guadeloupe",
+          "isCorrect": true
+        },
+        {
+          "text": "Sardaigne",
+          "isCorrect": false
+        },
+        {
+          "text": "Crète",
+          "isCorrect": false
+        },
+        {
+          "text": "Sicile",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Guadeloupe est une île française, située dans les Caraïbes, et fait partie des territoires d’outre-mer de la France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee16e610d4109b1e07d8c",
+      "shortId": "Q-E07D8C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle est la plus haute montagne de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Puy de Dôme",
+          "isCorrect": false
+        },
+        {
+          "text": "Pic du Midi",
+          "isCorrect": false
+        },
+        {
+          "text": "Barre des Écrins",
+          "isCorrect": false
+        },
+        {
+          "text": "Mont Blanc",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le Mont Blanc, situé dans les Alpes, est la plus haute montagne de France, culminant à environ 4 810 mètres.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee295610d4109b1e12800",
+      "shortId": "Q-E12800",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel département français a une frontière avec le Brésil ?</p>\n",
+      "choices": [
+        {
+          "text": "Guyane",
+          "isCorrect": true
+        },
+        {
+          "text": "Mayotte",
+          "isCorrect": false
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "Martinique",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Guyane, département français d’Amérique du Sud, partage une frontière terrestre avec le Brésil (et le Suriname).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee410610d4109b1e1cf4d",
+      "shortId": "Q-E1CF4D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>De quelle ville française décolle la fusée Ariane ?</p>\n",
+      "choices": [
+        {
+          "text": "Bordeaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "Toulouse",
+          "isCorrect": false
+        },
+        {
+          "text": "Kourou",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La fusée Ariane décolle depuis Kourou, en Guyane française, où se situe le Centre spatial guyanais, proche de l’équateur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee55a610d4109b1e2a3c6",
+      "shortId": "Q-E2A3C6",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le principal port maritime de France ?</p>\n",
+      "choices": [
+        {
+          "text": "Nantes",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Havre",
+          "isCorrect": false
+        },
+        {
+          "text": "Brest",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Marseille abrite le principal port maritime français (Grand Port Maritime de Marseille), premier par le volume de marchandises et essentiel pour le commerce international.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee6df610d4109b1e3d71a",
+      "shortId": "Q-E3D71A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle île française se trouve au sud-est du continent africain ?</p>\n",
+      "choices": [
+        {
+          "text": "Martinique",
+          "isCorrect": false
+        },
+        {
+          "text": "Saint-Pierre-et-Miquelon",
+          "isCorrect": false
+        },
+        {
+          "text": "Guadeloupe",
+          "isCorrect": false
+        },
+        {
+          "text": "La Réunion",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Réunion est une île française située dans l’océan Indien, au sud-est du continent africain, à l’est de Madagascar. \nElle correspond donc exactement à la localisation indiquée dans la question.</p>\n<p>Mayotte, bien qu’elle soit également une île française de l’océan Indien, se situe au nord-ouest de Madagascar, donc à l’est de l’Afrique, mais pas au sud-est.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee754610d4109b1e420bc",
+      "shortId": "Q-E420BC",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?</p>\n",
+      "choices": [
+        {
+          "text": "Annecy",
+          "isCorrect": false
+        },
+        {
+          "text": "Clermont-Ferrand",
+          "isCorrect": false
+        },
+        {
+          "text": "Grenoble",
+          "isCorrect": false
+        },
+        {
+          "text": "Lyon",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Lyon est le chef-lieu (capitale régionale) de la région Auvergne-Rhône-Alpes depuis la réforme territoriale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee7bb610d4109b1e45f2e",
+      "shortId": "Q-E45F2E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le chef-lieu de la région Bretagne ?</p>\n",
+      "choices": [
+        {
+          "text": "Brest",
+          "isCorrect": false
+        },
+        {
+          "text": "Rennes",
+          "isCorrect": true
+        },
+        {
+          "text": "Saint-Malo",
+          "isCorrect": false
+        },
+        {
+          "text": "Quimper",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Rennes est le chef-lieu (capitale régionale) de la Bretagne et le siège des principales institutions régionales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee81d610d4109b1e4ab98",
+      "shortId": "Q-E4AB98",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?</p>\n",
+      "choices": [
+        {
+          "text": "Toulon",
+          "isCorrect": false
+        },
+        {
+          "text": "Avignon",
+          "isCorrect": false
+        },
+        {
+          "text": "Marseille",
+          "isCorrect": true
+        },
+        {
+          "text": "Nice",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Marseille est le chef-lieu (capitale régionale) de la région Provence-Alpes-Côte d’Azur.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee87e610d4109b1e4f72a",
+      "shortId": "Q-E4F72A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel est le 101ème département français depuis 2011 ?</p>\n",
+      "choices": [
+        {
+          "text": "La Réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "Guyane",
+          "isCorrect": false
+        },
+        {
+          "text": "Martinique",
+          "isCorrect": false
+        },
+        {
+          "text": "Mayotte",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Mayotte est devenue le 101ᵉ département français en 2011, après un référendum et son accession au statut de département d’outre-mer.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694ee8dd610d4109b1e53f40",
+      "shortId": "Q-E53F40",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle région française est réputée pour ses stations de ski ?</p>\n",
+      "choices": [
+        {
+          "text": "Nouvelle-Aquitaine",
+          "isCorrect": false
+        },
+        {
+          "text": "Auvergne-Rhône-Alpes",
+          "isCorrect": true
+        },
+        {
+          "text": "Bretagne",
+          "isCorrect": false
+        },
+        {
+          "text": "Île-de-France",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La région Auvergne-Rhône-Alpes abrite les Alpes françaises, avec de nombreuses stations de ski renommées (Chamonix, Courchevel, Val d’Isère), ce qui la rend particulièrement réputée pour les sports</p>\n"
+    }
+  }
+]

@@ -8,11 +8,21 @@ type SessionState = {
   currentIndex: number;
   startPractice: (category: Category, count?: number) => void;
   startTheme: (themeId: ThemeId, count?: number) => void;
+  /**
+   * Démarre une session "test ciblé" avec un set de questions explicite
+   * (sous-thèmes du dossier `Tests/` du client).
+   */
+  startTargetedTest: (label: string, questions: Question[]) => void;
   startSimulation: (opts?: {
     category?: Category;
     themes?: ThemeId[];
     label?: string;
     simKey?: string;
+    /**
+     * Pour démarrer un pack pré-construit avec ses propres questions
+     * (pas de tirage aléatoire depuis le pool).
+     */
+    questions?: Question[];
   }) => void;
   startAssessment: (questions: Question[]) => void;
   answerCurrent: (selectedIndex: number | null) => void;
@@ -58,12 +68,30 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     });
   },
 
-  startSimulation: (opts) => {
-    const questions = pickQuestions({
-      count: 40,
-      category: opts?.category,
-      themes: opts?.themes,
+  startTargetedTest: (label, questions) => {
+    set({
+      current: {
+        id: createId("test"),
+        type: "practice",
+        questions,
+        answers: [],
+        startedAt: new Date().toISOString(),
+      },
+      currentIndex: 0,
     });
+  },
+
+  startSimulation: (opts) => {
+    // Si des questions sont passées explicitement (pack pré-construit),
+    // on les utilise telles quelles. Sinon tirage aléatoire dans le pool.
+    const questions =
+      opts?.questions && opts.questions.length > 0
+        ? opts.questions.slice(0, 40)
+        : pickQuestions({
+            count: 40,
+            category: opts?.category,
+            themes: opts?.themes,
+          });
     const timerInitialSeconds = 45 * 60;
     set({
       current: {

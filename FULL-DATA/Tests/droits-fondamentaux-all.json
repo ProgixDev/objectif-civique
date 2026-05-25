@@ -1,0 +1,2420 @@
+[
+  {
+    "question": {
+      "id": "69416a4b48ffb722a33b2f4a",
+      "shortId": "Q-3B2F4A",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, c’est interdit et peut être sanctionné",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si cela se passe sur un réseau social",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si la personne insultée ne porte pas plainte",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si c’est dit sur le ton de l’humour",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les insultes publiques et les propos discriminatoires sont interdits et peuvent entraîner des sanctions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f68",
+      "shortId": "Q-3B2F68",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>La liberté de circulation permet à toute personne de :</p>\n",
+      "choices": [
+        {
+          "text": "Voyager librement sans aucune limite légale",
+          "isCorrect": false
+        },
+        {
+          "text": "Se déplacer uniquement à l’intérieur de sa commune",
+          "isCorrect": false
+        },
+        {
+          "text": "Circuler librement, dans le respect des lois et règlements",
+          "isCorrect": true
+        },
+        {
+          "text": "Se déplacer uniquement avec une autorisation préalable de l’État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de circulation permet de se déplacer librement, mais elle s’exerce dans le cadre de la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690cf26468a89b75e38fe910",
+      "shortId": "Q-8FE910",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Peut-on être de nationalité française sans pouvoir exercer ses droits civiques ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, c'est le cas des mineurs ou des personnes condamnées à une privation de ces droits.",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, la privation des droits civiques entraîne la perte de la nationalité.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, mais seulement si la personne réside à l'étranger de façon permanente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, car la nationalité française donne automatiquement accès au vote.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La nationalité française et l’exercice des droits civiques sont deux choses différentes.\nUne personne peut être française sans pouvoir exercer ses droits civiques, par exemple si elle est mineure ou si une décision de justice a suspendu ces droits.\nLa perte des droits civiques n’entraîne pas la perte de la nationalité française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690e001168a89b75e3902299",
+      "shortId": "Q-902299",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un citoyen se plaint de ne pas avoir accès à des soins médicaux. Quelles sont ses options légales en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Il doit payer en entier ou risquer de ne pas être soigné",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut être refoulé si la personne n'a pas une carte vitale",
+          "isCorrect": false
+        },
+        {
+          "text": "Il ne peut pas recevoir de soins avant d'avoir des papiers légaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Il peut demander une aide juridique et une prise en charge médicale même sans papiers",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L'accès aux soins est garanti à tous, même aux personnes en situation irrégulière, sous certaines conditions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f6c",
+      "shortId": "Q-3B2F6C",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :</p>\n",
+      "choices": [
+        {
+          "text": "Choisir sa religion ou ne pas en avoir",
+          "isCorrect": true
+        },
+        {
+          "text": "Imposer sa religion aux autres",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser toutes les lois",
+          "isCorrect": false
+        },
+        {
+          "text": "Empêcher les autres de s’exprimer",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté individuelle protège les choix personnels, dans le respect de la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f6f",
+      "shortId": "Q-3B2F6F",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>La répudiation de sa femme est :</p>\n",
+      "choices": [
+        {
+          "text": "Autorisée uniquement à la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdite en France",
+          "isCorrect": true
+        },
+        {
+          "text": "Obligatoire en cas de séparation",
+          "isCorrect": false
+        },
+        {
+          "text": "Autorisée si le couple est d’accord",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, la rupture du mariage se fait selon des procédures légales, pas par répudiation.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5c48ffb722a33b2f72",
+      "shortId": "Q-3B2F72",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que fait l’État pour lutter contre les discriminations ?</p>\n",
+      "choices": [
+        {
+          "text": "Il interdit de signaler une discrimination",
+          "isCorrect": false
+        },
+        {
+          "text": "Il autorise les discriminations au travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Il met en place des lois et des sanctions contre les discriminations",
+          "isCorrect": true
+        },
+        {
+          "text": "Il laisse chaque entreprise décider",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La lutte contre les discriminations repose sur des lois, des contrôles et des sanctions, ainsi que des institutions de protection.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690e001268a89b75e390229b",
+      "shortId": "Q-90229B",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un citoyen vous demande si une association de défense des droits des femmes peut légalement organiser une manifestation publique. Comment devez-vous répondre ?</p>\n",
+      "choices": [
+        {
+          "text": "L'association peut organiser la manifestation sans restriction",
+          "isCorrect": false
+        },
+        {
+          "text": "L'association peut organiser la manifestation uniquement dans un espace privé",
+          "isCorrect": false
+        },
+        {
+          "text": "L'association doit obtenir une autorisation préalable auprès de la préfecture",
+          "isCorrect": true
+        },
+        {
+          "text": "Il est illégal d'organiser une manifestation publique sans l'accord du gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, toute manifestation publique doit faire l'objet d'une déclaration en préfecture.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a5d48ffb722a33b2f77",
+      "shortId": "Q-3B2F77",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "C’est autorisé si l’employeur le souhaite",
+          "isCorrect": false
+        },
+        {
+          "text": "C’est interdit : c’est une discrimination",
+          "isCorrect": true
+        },
+        {
+          "text": "C’est autorisé uniquement dans le privé",
+          "isCorrect": false
+        },
+        {
+          "text": "C’est autorisé si l’employeur l’écrit dans le contrat",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Refuser d’embaucher une personne en raison de son sexe est interdit : c’est une discrimination sanctionnée par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4c48ffb722a33b2f5e",
+      "shortId": "Q-3B2F5E",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>La peine de mort est :</p>\n",
+      "choices": [
+        {
+          "text": "Applicable sur décision du préfet",
+          "isCorrect": false
+        },
+        {
+          "text": "Décidée par un vote local",
+          "isCorrect": false
+        },
+        {
+          "text": "Toujours appliquée en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Abolie en France",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La peine de mort est abolie en France depuis 1981.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fd8",
+      "shortId": "Q-CD2FD8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelles libertés fondamentales sont garanties en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Droit divin",
+          "isCorrect": false
+        },
+        {
+          "text": "Port d’armes libre",
+          "isCorrect": false
+        },
+        {
+          "text": "Accumulation des richesses",
+          "isCorrect": false
+        },
+        {
+          "text": "Opinion, expression, conscience et circulation",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La République garantit les libertés d’opinion, d’expression, de conscience et de circulation.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4c48ffb722a33b2f60",
+      "shortId": "Q-3B2F60",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Une personne a-t-elle le droit de ne pas croire en une religion ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, mais uniquement après 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, la liberté de conscience le garantit",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, une religion est obligatoire en France",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, sauf autorisation d’une autorité religieuse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de conscience protège le droit de croire, de ne pas croire ou de changer de religion.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd2fe1",
+      "shortId": "Q-CD2FE1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que visent les droits sociaux en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Garantir des conditions de vie dignes",
+          "isCorrect": true
+        },
+        {
+          "text": "Limiter l’accès aux soins",
+          "isCorrect": false
+        },
+        {
+          "text": "Restreindre l’éducation",
+          "isCorrect": false
+        },
+        {
+          "text": "Favoriser les privilèges",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les droits sociaux assurent l’accès à la santé, à l’éducation et à la protection sociale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a4c48ffb722a33b2f61",
+      "shortId": "Q-3B2F61",
+      "category": [
+        "cr",
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Une personne peut-elle changer librement de religion ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, c’est interdit par la loi",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement avec une autorisation administrative",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement avant 18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, c’est un droit fondamental",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La liberté de conscience inclut le droit de changer de religion.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd3005",
+      "shortId": "Q-CD3005",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel texte fonde la Ve République française ?</p>\n",
+      "choices": [
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Charte de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration de 1789",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution de 1958 définit l’organisation des pouvoirs sous la Ve République.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd300e",
+      "shortId": "Q-CD300E",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle déclaration proclame les droits naturels et imprescriptibles de l’homme ?</p>\n",
+      "choices": [
+        {
+          "text": "La Constitution de 1946",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen de 1789",
+          "isCorrect": true
+        },
+        {
+          "text": "Le traité de Rome",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration universelle de 1948",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration de 1789 énonce les principes universels de liberté, d’égalité et de propriété.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745bcbf88e35210cd3017",
+      "shortId": "Q-CD3017",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel texte constitutionnel protège l’environnement en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La Charte de l’environnement de 2004",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code rural",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration de 1789",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution de 1875",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Charte de l’environnement de 2004 reconnaît le droit de vivre dans un environnement équilibré.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "692c356d32a2815c0b7f3c67",
+      "shortId": "Q-7F3C67",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un journaliste publie un article critiquant le gouvernement. Quelle est la situation légale ?</p>\n",
+      "choices": [
+        {
+          "text": "Il enfreint le devoir de réserve",
+          "isCorrect": false
+        },
+        {
+          "text": "Il risque une sanction pour avoir critiqué l’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Il exerce sa liberté d’expression, sauf s’il diffame",
+          "isCorrect": true
+        },
+        {
+          "text": "Il doit obtenir l’autorisation du ministère de la Culture",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de la presse est garantie, mais les propos diffamatoires ou incitant à la haine sont punis.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367be68a89b75e3912be3",
+      "shortId": "Q-912BE3",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un salarié découvre une inégalité de salaire entre hommes et femmes dans son entreprise. Quelle action est possible ?</p>\n",
+      "choices": [
+        {
+          "text": "Quitter l’emploi sans préavis",
+          "isCorrect": false
+        },
+        {
+          "text": "Régler le problème directement avec ses collègues",
+          "isCorrect": false
+        },
+        {
+          "text": "Saisir l’inspection du travail ou le Défenseur des droits",
+          "isCorrect": true
+        },
+        {
+          "text": "Dénoncer publiquement l’entreprise sur internet",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les inégalités salariales sont interdites. L’inspection du travail et le Défenseur des droits peuvent être saisis.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367d368a89b75e3912bf4",
+      "shortId": "Q-912BF4",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un locataire reçoit un courrier contenant des propos insultants en raison de son origine. Quelle démarche peut-il entreprendre ?</p>\n",
+      "choices": [
+        {
+          "text": "Porter plainte pour injure à caractère discriminatoire",
+          "isCorrect": true
+        },
+        {
+          "text": "Ignorer le courrier sans le signaler",
+          "isCorrect": false
+        },
+        {
+          "text": "Publier le message sur les réseaux sociaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Répondre par un message insultant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les injures à caractère raciste, religieux ou discriminatoire sont punies par la loi. La victime peut déposer plainte au commissariat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367d368a89b75e3912bf6",
+      "shortId": "Q-912BF6",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un salarié n’est pas payé depuis deux mois malgré ses relances. Quelle est la première démarche à suivre ?</p>\n",
+      "choices": [
+        {
+          "text": "Saisir le conseil de prud’hommes pour non-paiement du salaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Attendre que l’entreprise soit en meilleure situation financière",
+          "isCorrect": false
+        },
+        {
+          "text": "Signaler la situation à ses collègues",
+          "isCorrect": false
+        },
+        {
+          "text": "Arrêter immédiatement de venir travailler",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le non-paiement du salaire constitue une faute grave de l’employeur. Le salarié peut saisir le conseil de prud’hommes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367d368a89b75e3912bfa",
+      "shortId": "Q-912BFA",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un internaute publie sur un réseau social des propos diffamatoires envers une personne publique. Que risque-t-il ?</p>\n",
+      "choices": [
+        {
+          "text": "Un rappel à la loi sans suite",
+          "isCorrect": false
+        },
+        {
+          "text": "Rien, car la liberté d’expression est absolue",
+          "isCorrect": false
+        },
+        {
+          "text": "Une simple suppression du message par le site",
+          "isCorrect": false
+        },
+        {
+          "text": "Des poursuites pour diffamation publique",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La liberté d’expression est encadrée. La diffamation ou l’injure publique est punie par la loi sur la presse de 1881.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b304c",
+      "shortId": "Q-3B304C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Comment s’appelle la Constitution actuelle de la France ?</p>\n",
+      "choices": [
+        {
+          "text": "La Constitution de 1958 (Ve République)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Constitution de 1946 (IVe République)",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration de 1789",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution actuelle est celle de la Ve République, adoptée en 1958.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b304d",
+      "shortId": "Q-3B304D",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le règlement intérieur d’une mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "La Charte des droits et devoirs du citoyen français",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code de la route",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Livret du citoyen",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Charte des droits et devoirs du citoyen français, annexée au Code civil, rappelle les principes, droits et devoirs attendus en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8248ffb722a33b304e",
+      "shortId": "Q-3B304E",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Concernant les droits individuels, quelle proposition est correcte ?</p>\n",
+      "choices": [
+        {
+          "text": "Ils peuvent être supprimés librement",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils ne concernent que les fonctionnaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils dépendent de la richesse de la personne",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils s’appliquent à tous et sont protégés par la loi",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les droits individuels (libertés) s’appliquent à tous et sont encadrés et protégés par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b304f",
+      "shortId": "Q-3B304F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>De quelle année date la Déclaration des droits de l’homme et du citoyen ?</p>\n",
+      "choices": [
+        {
+          "text": "1515",
+          "isCorrect": false
+        },
+        {
+          "text": "1789",
+          "isCorrect": true
+        },
+        {
+          "text": "1958",
+          "isCorrect": false
+        },
+        {
+          "text": "1905",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration des droits de l’homme et du citoyen date de 1789, pendant la Révolution française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3050",
+      "shortId": "Q-3B3050",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Lequel de ces droits est un droit fondamental ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de conduire sans permis",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté d’expression",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit d’insulter les autres",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de frauder les impôts",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’expression fait partie des droits et libertés fondamentaux, dans les limites fixées par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3051",
+      "shortId": "Q-3B3051",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Parmi ces textes, lequel garantit les droits et libertés en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le règlement d’un magasin",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution",
+          "isCorrect": true
+        },
+        {
+          "text": "Une publicité",
+          "isCorrect": false
+        },
+        {
+          "text": "Le menu de la cantine",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution (et les textes auxquels elle renvoie) garantit les droits et libertés en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3052",
+      "shortId": "Q-3B3052",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qu’est-ce que la liberté d’expression ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit d’interdire les avis des autres",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d’exprimer ses opinions dans le respect de la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de dire ce qu’on veut, sans aucune limite",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de publier de fausses informations sans risque",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’expression permet d’exprimer des idées et opinions, mais elle est encadrée par la loi (diffamation, haine, injures, etc.).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fad",
+      "shortId": "Q-3B2FAD",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>À quelle liberté la PMA fait-elle référence ?</p>\n",
+      "choices": [
+        {
+          "text": "À la liberté d’association",
+          "isCorrect": false
+        },
+        {
+          "text": "À la liberté de fonder une famille et d’accéder à la procréation médicalement assistée",
+          "isCorrect": true
+        },
+        {
+          "text": "À la liberté de circulation",
+          "isCorrect": false
+        },
+        {
+          "text": "À la liberté de presse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La PMA concerne l’accès à des techniques médicales permettant d’aider à concevoir un enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3053",
+      "shortId": "Q-3B3053",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel droit permet à une personne de se défendre devant la justice ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit à la défense",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de censurer la presse",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de grève",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Toute personne a le droit de se défendre : être assistée, présenter des arguments et bénéficier d’un procès équitable.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fae",
+      "shortId": "Q-3B2FAE",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Au nom de quoi l'État justifie-t-il la restriction des droits ?</p>\n",
+      "choices": [
+        {
+          "text": "D’un choix de voisinage",
+          "isCorrect": false
+        },
+        {
+          "text": "De l’opinion personnelle du maire",
+          "isCorrect": false
+        },
+        {
+          "text": "De la religion majoritaire",
+          "isCorrect": false
+        },
+        {
+          "text": "De l’intérêt général et de l’ordre public",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’État peut limiter certaines libertés pour protéger l’intérêt général, la sécurité et l’ordre public, dans le respect de la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3054",
+      "shortId": "Q-3B3054",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Code de la route",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen (1789)",
+          "isCorrect": true
+        },
+        {
+          "text": "La Charte de l’ONU",
+          "isCorrect": false
+        },
+        {
+          "text": "Le règlement intérieur d’un établissement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration des droits de l’homme et du citoyen (1789) est un texte fondateur des libertés et principes en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2faf",
+      "shortId": "Q-3B2FAF",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Concernant le droit de se marier, quelle proposition est correcte ?</p>\n",
+      "choices": [
+        {
+          "text": "Deux personnes peuvent se marier si elles y consentent librement et respectent les conditions légales",
+          "isCorrect": true
+        },
+        {
+          "text": "Le mariage peut être imposé par la famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Une personne peut être mariée à plusieurs conjoints en même temps",
+          "isCorrect": false
+        },
+        {
+          "text": "Le mariage religieux suffit pour être reconnu par l’État",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le mariage repose sur le consentement libre, et seul le mariage civil a une valeur juridique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3055",
+      "shortId": "Q-3B3055",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quel texte a été adopté pendant la Révolution française ?</p>\n",
+      "choices": [
+        {
+          "text": "Le traité de Maastricht (1992)",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen (1789)",
+          "isCorrect": true
+        },
+        {
+          "text": "La loi de séparation des Églises et de l’État (1905)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration des droits de l’homme et du citoyen a été adoptée en 1789, pendant la Révolution française.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3056",
+      "shortId": "Q-3B3056",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Quelle liberté permet à une personne de ne pas avoir de religion ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de grève",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de vote",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de conscience",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La liberté de conscience garantit le droit de croire, de changer de religion, ou de ne pas croire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3057",
+      "shortId": "Q-3B3057",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Une femme peut avorter :</p>\n",
+      "choices": [
+        {
+          "text": "Seulement avec l’accord de son employeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Jamais, c’est interdit",
+          "isCorrect": false
+        },
+        {
+          "text": "Selon les conditions prévues par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement si elle est mariée",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, l’IVG est autorisée : une femme peut y recourir dans le cadre fixé par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb0",
+      "shortId": "Q-3B2FB0",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?</p>\n",
+      "choices": [
+        {
+          "text": "« Travail, famille, patrie »",
+          "isCorrect": false
+        },
+        {
+          "text": "« Les hommes naissent et demeurent libres et égaux en droits »",
+          "isCorrect": true
+        },
+        {
+          "text": "« Aux armes, citoyens ! »",
+          "isCorrect": false
+        },
+        {
+          "text": "« L'État, c'est moi »",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration de 1789 affirme notamment l’égalité en droits : « Les hommes naissent et demeurent libres et égaux en droits ».</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb1",
+      "shortId": "Q-3B2FB1",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Le recours à l'avortement est-il autorisé ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, l’avortement est interdit",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, mais uniquement à l’étranger",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, l’IVG est autorisée en France dans le cadre prévu par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Non, sauf autorisation d’un employeur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, l’interruption volontaire de grossesse est autorisée et encadrée par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb2",
+      "shortId": "Q-3B2FB2",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que contient la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "Seulement le budget de l’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement des règles de circulation routière",
+          "isCorrect": false
+        },
+        {
+          "text": "Les programmes scolaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Les règles d’organisation des pouvoirs publics et les droits fondamentaux",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Constitution fixe les principes fondamentaux, l’organisation des institutions et garantit des droits et libertés.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb3",
+      "shortId": "Q-3B2FB3",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Que garantit la liberté de la presse ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de diffuser des fausses informations sans limite",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d’interdire toute critique",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d’informer et d’être informé, dans le respect de la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de censurer les médias concurrents",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de la presse permet l’information du public, mais elle s’exerce avec des limites légales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8348ffb722a33b3059",
+      "shortId": "Q-3B3059",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>En France, est-ce légal d'être marié à plusieurs personnes en même temps ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, la polygamie est interdite",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si on a un titre de séjour",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si tout le monde est d’accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, uniquement pour les étrangers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le mariage est monogame : être marié à plusieurs personnes en même temps est interdit.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb4",
+      "shortId": "Q-3B2FB4",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que prévoit la Charte de l'environnement ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de polluer sans limite",
+          "isCorrect": false
+        },
+        {
+          "text": "La suppression des lois environnementales",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement des règles sur le sport",
+          "isCorrect": false
+        },
+        {
+          "text": "Des droits et devoirs pour protéger l’environnement",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Charte de l’environnement reconnaît des droits et des devoirs de protection.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb5",
+      "shortId": "Q-3B2FB5",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que signifie la dignité humaine ?</p>\n",
+      "choices": [
+        {
+          "text": "La dignité dépend du niveau de richesse",
+          "isCorrect": false
+        },
+        {
+          "text": "Chaque personne doit être respectée, sans traitement humiliant",
+          "isCorrect": true
+        },
+        {
+          "text": "Seules certaines personnes méritent le respect",
+          "isCorrect": false
+        },
+        {
+          "text": "On peut humilier quelqu’un si on n’est pas d’accord avec lui",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La dignité humaine implique le respect de toute personne et l’interdiction des traitements dégradants ou humiliants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb6",
+      "shortId": "Q-3B2FB6",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que signifie le droit de manifester ?</p>\n",
+      "choices": [
+        {
+          "text": "Pouvoir dégrader des biens publics",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdire aux autres de circuler ou de travailler",
+          "isCorrect": false
+        },
+        {
+          "text": "Pouvoir bloquer la circulation sans aucune règle",
+          "isCorrect": false
+        },
+        {
+          "text": "Pouvoir exprimer une opinion dans l’espace public, dans le respect de la loi",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le droit de manifester existe, mais il s’exerce dans un cadre légal.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb7",
+      "shortId": "Q-3B2FB7",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Que signifie PMA ?</p>\n",
+      "choices": [
+        {
+          "text": "Protection militaire des agents",
+          "isCorrect": false
+        },
+        {
+          "text": "Programme municipal d’aide",
+          "isCorrect": false
+        },
+        {
+          "text": "Permis de mobilisation administrative",
+          "isCorrect": false
+        },
+        {
+          "text": "Procréation médicalement assistée",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La PMA signifie « procréation médicalement assistée » : des techniques médicales pour aider à concevoir un enfant.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb8",
+      "shortId": "Q-3B2FB8",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel texte est le plus difficile à modifier ?</p>\n",
+      "choices": [
+        {
+          "text": "Un arrêté municipal",
+          "isCorrect": false
+        },
+        {
+          "text": "Une brochure d’information",
+          "isCorrect": false
+        },
+        {
+          "text": "Un règlement intérieur d’entreprise",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Constitution est la norme suprême : sa révision suit une procédure stricte, plus difficile que pour les autres textes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fb9",
+      "shortId": "Q-3B2FB9",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle liberté permet à une personne de croire en la religion de son choix ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté de conscience",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de grève",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de propriété",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de conscience protège le droit de croire, de ne pas croire, et de changer de religion.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fba",
+      "shortId": "Q-3B2FBA",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que le droit de grève ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit de quitter son poste sans prévenir",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de ne plus respecter son contrat de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d’empêcher les autres de travailler par la violence",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit d’arrêter le travail collectivement pour défendre des revendications",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le droit de grève permet aux salariés de cesser le travail pour défendre des revendications, dans un cadre légal.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fbb",
+      "shortId": "Q-3B2FBB",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qu'est-ce que la Constitution ?</p>\n",
+      "choices": [
+        {
+          "text": "Une loi locale valable seulement dans une ville",
+          "isCorrect": false
+        },
+        {
+          "text": "Un simple règlement d’entreprise",
+          "isCorrect": false
+        },
+        {
+          "text": "Le texte qui fixe les règles fondamentales de l’État et l’organisation des pouvoirs",
+          "isCorrect": true
+        },
+        {
+          "text": "Un contrat entre voisins",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Constitution définit les principes essentiels et l’organisation des institutions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fbc",
+      "shortId": "Q-3B2FBC",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Qui peut demander à avorter ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement avec l’accord du conjoint",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les femmes de nationalité française",
+          "isCorrect": false
+        },
+        {
+          "text": "Toute femme enceinte qui le souhaite, dans les conditions prévues par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les femmes mariées",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’IVG est un droit : une femme enceinte peut demander une interruption volontaire de grossesse selon les conditions légales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6048ffb722a33b2fbd",
+      "shortId": "Q-3B2FBD",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, sauf pour les élections locales",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, seulement si elle est mariée",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, le vote est réservé aux hommes",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si elle est inscrite sur les listes électorales",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le droit de vote est le même pour les femmes et les hommes : il faut être majeur, français, et inscrit sur les listes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6148ffb722a33b2fc0",
+      "shortId": "Q-3B2FC0",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>L'État peut-il limiter les droits et libertés ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, dans certains cas, pour protéger l’intérêt général et l’ordre public",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, sans aucune justification",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, jamais, quelles que soient les circonstances",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, uniquement pour les étrangers",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les libertés existent, mais la loi peut prévoir des limites si c’est justifié et proportionné.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6148ffb722a33b2fc3",
+      "shortId": "Q-3B2FC3",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Pour quel motif peut-on limiter la liberté d'expression ?</p>\n",
+      "choices": [
+        {
+          "text": "Pour empêcher les débats entre citoyens",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour protéger l’ordre public et les droits des autres (ex. : diffamation, haine)",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour interdire toute critique dans les médias",
+          "isCorrect": false
+        },
+        {
+          "text": "Parce qu’une opinion déplaît au gouvernement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’expression a des limites : interdiction des injures, de la diffamation, des appels à la haine ou à la violence, etc.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6148ffb722a33b2fc7",
+      "shortId": "Q-3B2FC7",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?</p>\n",
+      "choices": [
+        {
+          "text": "Interdire toute critique du gouvernement",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdire aux citoyens de se déplacer sans raison",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdire à une personne de pratiquer sa religion",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdire de fumer dans certains lieux publics",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Certaines règles limitent une liberté pour protéger la santé publique et l’intérêt général.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd3434",
+      "shortId": "Q-CD3434",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelles sont les principales libertés garanties par la République française ?</p>\n",
+      "choices": [
+        {
+          "text": "Liberté politique sans limites",
+          "isCorrect": false
+        },
+        {
+          "text": "Liberté commerciale uniquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Liberté militaire et religieuse obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Liberté d’expression, de conscience et de circulation",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La République protège les libertés d’expression, de conscience, d’association et de déplacement.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd343d",
+      "shortId": "Q-CD343D",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle liberté protège la possibilité de croire ou de ne pas croire ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté d’opinion politique",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté d’association",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de conscience",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté d’expression",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de conscience permet à chacun de choisir sa religion ou de ne pas en avoir.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd3446",
+      "shortId": "Q-CD3446",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle liberté permet aux citoyens de s’exprimer publiquement ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté d’association",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté d’expression",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté de réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’expression permet de communiquer ses idées dans le respect de la loi et d’autrui.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd344f",
+      "shortId": "Q-CD344F",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle liberté permet aux citoyens de créer une organisation pour défendre des idées ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de conscience",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté d’association",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté de presse",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’association autorise les citoyens à se regrouper pour des activités ou causes communes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd3458",
+      "shortId": "Q-CD3458",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle liberté garantit le droit de se déplacer librement sur le territoire français ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté d’association",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté économique",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté d’expression",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté de circulation permet à toute personne de se déplacer librement en France et dans l’Union européenne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd3461",
+      "shortId": "Q-CD3461",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quels domaines sont couverts par les droits sociaux en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Culture et environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiscalité et justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Commerce et transport",
+          "isCorrect": false
+        },
+        {
+          "text": "Santé, éducation et protection sociale",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les droits sociaux garantissent à chacun l’accès à la santé, à l’éducation et à la sécurité sociale.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c2bf88e35210cd346a",
+      "shortId": "Q-CD346A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel texte fondateur affirme le droit à la santé et au travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "Le préambule de la Constitution de 1946",
+          "isCorrect": true
+        },
+        {
+          "text": "La Charte de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration de 1789",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le préambule de la Constitution de 1946 établit les droits économiques et sociaux fondamentaux.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd3473",
+      "shortId": "Q-CD3473",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle institution gère l’assurance maladie en France ?</p>\n",
+      "choices": [
+        {
+          "text": "La Sécurité sociale",
+          "isCorrect": true
+        },
+        {
+          "text": "Les communes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les hôpitaux publics",
+          "isCorrect": false
+        },
+        {
+          "text": "Le ministère de la Santé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Sécurité sociale finance et administre les remboursements de soins et les prestations de santé.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd347c",
+      "shortId": "Q-CD347C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel texte fondateur proclame que « les hommes naissent et demeurent libres et égaux en droits » ?</p>\n",
+      "choices": [
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": false
+        },
+        {
+          "text": "La Charte de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen de 1789",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La Déclaration de 1789 énonce les principes universels de liberté, d’égalité et de fraternité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd3485",
+      "shortId": "Q-CD3485",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle charte introduit la protection de l’environnement dans le droit français ?</p>\n",
+      "choices": [
+        {
+          "text": "La Charte de l’environnement de 2004",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Code de l’environnement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le traité de Maastricht",
+          "isCorrect": false
+        },
+        {
+          "text": "La Constitution de 1958",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Charte de l’environnement de 2004 affirme le droit de chacun à vivre dans un environnement sain.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd34c4",
+      "shortId": "Q-CD34C4",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que signifie l’égalité devant la loi ?</p>\n",
+      "choices": [
+        {
+          "text": "Que seuls les citoyens riches sont protégés",
+          "isCorrect": false
+        },
+        {
+          "text": "Que la loi s’applique de la même manière à tous",
+          "isCorrect": true
+        },
+        {
+          "text": "Que les responsables politiques sont exemptés",
+          "isCorrect": false
+        },
+        {
+          "text": "Que la loi varie selon les régions",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’égalité devant la loi signifie que nul n’est au-dessus des règles établies.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c3bf88e35210cd34d6",
+      "shortId": "Q-CD34D6",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Que garantit la présomption d’innocence ?</p>\n",
+      "choices": [
+        {
+          "text": "Que tout accusé est coupable d’avance",
+          "isCorrect": false
+        },
+        {
+          "text": "Que les médias peuvent condamner publiquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Que le juge choisit sans preuve",
+          "isCorrect": false
+        },
+        {
+          "text": "Qu’une personne est innocente tant que sa culpabilité n’est pas prouvée",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La présomption d’innocence protège les citoyens contre toute condamnation sans jugement équitable.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd38e1",
+      "shortId": "Q-CD38E1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel texte garantit les libertés fondamentales en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Code pénal",
+          "isCorrect": false
+        },
+        {
+          "text": "La Déclaration des droits de l’homme et du citoyen de 1789",
+          "isCorrect": true
+        },
+        {
+          "text": "Le traité de Maastricht",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code civil",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La Déclaration de 1789 est le texte fondateur des droits et libertés en France.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691ca1ea1de1da18eed4c7c0",
+      "shortId": "Q-D4C7C0",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un citoyen souhaite enregistrer en vidéo un policier pendant une intervention réalisée dans un espace public. La loi l’y autorise-t-elle ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, il est strictement interdit de filmer un policier en action",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, mais uniquement avec une autorisation préalable de la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, seulement si la vidéo est prise sans le son",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, c’est possible tant que l’enregistrement ne gêne pas l’intervention et respecte la vie privée",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, filmer la police dans l’espace public est autorisé si cela n’entrave pas l’action et respecte la vie privée.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691ca3b31de1da18eed4d590",
+      "shortId": "Q-D4D590",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>À partir de quelle année les femmes ont-elles été autorisées à voter en France lors des élections ?</p>\n",
+      "choices": [
+        {
+          "text": "1981",
+          "isCorrect": false
+        },
+        {
+          "text": "1944",
+          "isCorrect": true
+        },
+        {
+          "text": "1968",
+          "isCorrect": false
+        },
+        {
+          "text": "1936",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit de vote des femmes a été instauré en <strong>1944</strong>, après l’ordonnance du Gouvernement provisoire.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69283ee4e2a08e055c999050",
+      "shortId": "Q-999050",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quels sont les deux types de liberté ?</p>\n",
+      "choices": [
+        {
+          "text": "les libertés individuelles et les libertés collectives",
+          "isCorrect": true
+        },
+        {
+          "text": "les libertés individuelles et les libertés universelles",
+          "isCorrect": false
+        },
+        {
+          "text": "les libertés obligatoires et les libertés optionnelles",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les libertés individuelles s'exercent personnellement, par chaque individu.\nLes libertés collectives s'exercent en groupe, dans le cadre de la vie sociale (réunion, association, manifestation...).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bdd73b0ac0df970806e2d",
+      "shortId": "Q-806E2D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>À quoi sert le droit de grève ?</p>\n",
+      "choices": [
+        {
+          "text": "À bloquer les institutions publiques",
+          "isCorrect": false
+        },
+        {
+          "text": "À défendre les intérêts professionnels des travailleurs",
+          "isCorrect": true
+        },
+        {
+          "text": "À interrompre définitivement le travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit de grève permet aux travailleurs de défendre leurs intérêts professionnels (salaires, conditions de travail, droits), dans le cadre de la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bde2ab0ac0df97080acd7",
+      "shortId": "Q-80ACD7",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?</p>\n",
+      "choices": [
+        {
+          "text": "La liberté s’exerce dans le respect des droits des autres",
+          "isCorrect": true
+        },
+        {
+          "text": "La liberté est réservée à certains citoyens",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté dépend uniquement de la morale personnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté permet d’agir sans aucune limite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté est un droit, mais elle a des limites : chacun est libre tant qu’il ne porte pas atteinte aux droits et à la liberté d’autrui.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694be506b0ac0df970827edd",
+      "shortId": "Q-827EDD",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Que signifie être citoyen d’un État ?</p>\n",
+      "choices": [
+        {
+          "text": "Être né obligatoirement dans cet État",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir des droits et des devoirs reconnus par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Résider sur le territoire de cet État",
+          "isCorrect": false
+        },
+        {
+          "text": "Avoir uniquement des obligations",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Être citoyen, c’est bénéficier de droits (vote, libertés, protection) et assumer des devoirs (respect des lois, participation à la vie civique) définis par l’État.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694be5f0b0ac0df97082b02d",
+      "shortId": "Q-82B02D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Que sont les droits fondamentaux ?</p>\n",
+      "choices": [
+        {
+          "text": "Des règles propres à chaque commune",
+          "isCorrect": false
+        },
+        {
+          "text": "Des privilèges accordés par l’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Des droits essentiels garantis à toute personne",
+          "isCorrect": true
+        },
+        {
+          "text": "Des avantages réservés aux citoyens français",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les droits fondamentaux sont des droits essentiels reconnus à toute personne, quels que soient sa nationalité ou son statut, et protégés par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694be66cb0ac0df97082db61",
+      "shortId": "Q-82DB61",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quel droit protège une personne contre une arrestation arbitraire ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit à la liberté et à la sûreté",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit à l'expression",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de réunion",
+          "isCorrect": false
+        },
+        {
+          "text": "La liberté de circulation",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit à la liberté et à la sûreté garantit qu’aucune personne ne peut être arrêtée ou détenue sans base légale et sans contrôle de la justice.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bee68b0ac0df97085abbf",
+      "shortId": "Q-85ABBF",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quelle situation est une atteinte à la dignité humaine ?</p>\n",
+      "choices": [
+        {
+          "text": "Être critiqué dans un débat public",
+          "isCorrect": false
+        },
+        {
+          "text": "Refuser un service pour manque de documents",
+          "isCorrect": false
+        },
+        {
+          "text": "Soumettre une personne à des traitements humiliants ou dégradants",
+          "isCorrect": true
+        },
+        {
+          "text": "Imposer des règles communes dans un lieu public",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La dignité humaine interdit tout traitement humiliant, dégradant ou inhumain. Chaque personne doit être respectée, quelles que soient sa situation ou ses différences.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694beed4b0ac0df97085cae2",
+      "shortId": "Q-85CAE2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que la liberté d'expression ?</p>\n",
+      "choices": [
+        {
+          "text": "Le droit d’exprimer ses idées et opinions dans le respect de la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Le droit de critiquer uniquement l’État",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit de dire tout sans aucune limite",
+          "isCorrect": false
+        },
+        {
+          "text": "Le droit réservé aux journalistes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La liberté d’expression permet à chacun d’exprimer ses idées et opinions, dans le respect des lois et des droits d’autrui (pas de propos haineux, diffamatoires ou violents).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bef40b0ac0df97085f803",
+      "shortId": "Q-85F803",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Suite à une interpellation par la police, il est possible de :</p>\n",
+      "choices": [
+        {
+          "text": "Être interrogé sans aucun droit",
+          "isCorrect": false
+        },
+        {
+          "text": "Être informé de ses droits et des raisons de l’interpellation",
+          "isCorrect": true
+        },
+        {
+          "text": "Être détenu sans motif ni durée",
+          "isCorrect": false
+        },
+        {
+          "text": "Être sanctionné immédiatement sans juge",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Lors d’une interpellation, la personne doit être informée des raisons de la mesure et de ses droits (avocat, médecin, prévenir un proche), conformément à la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694befccb0ac0df970862e5c",
+      "shortId": "Q-862E5C",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Tous les citoyens français ont-ils une religion ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, sauf les agents publics",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, obligatoirement",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, car la France est un pays religieux",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, chacun est libre de croire ou de ne pas croire",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>En France, la liberté de conscience est garantie : chacun est libre d’avoir une religion, plusieurs, ou aucune. L’État respecte cette liberté.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bf1c5b0ac0df97086bf51",
+      "shortId": "Q-86BF51",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>À quel âge est la majorité numérique en France ?</p>\n",
+      "choices": [
+        {
+          "text": "13 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "16 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "15 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, la majorité numérique <strong>est fixée à 15 ans</strong> : à partir de cet âge, un mineur peut consentir seul au traitement de ses données personnelles sur les services en ligne.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694bf22eb0ac0df97086e94a",
+      "shortId": "Q-86E94A",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Dans lequel de ces endroits est-on autorisé à fumer ?</p>\n",
+      "choices": [
+        {
+          "text": "Dans un bureau fermé partagé",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans les transports en commun",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans une école",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans un espace extérieur public",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Il est interdit de fumer dans les lieux publics fermés (écoles, bureaux, transports). En revanche, fumer est autorisé dans les espaces extérieurs, sauf arrêtés locaux spécifiques.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6969298358a8a578f25b1a81",
+      "shortId": "Q-5B1A81",
+      "category": [
+        "cr",
+        "csp",
+        "nat",
+        "ltc-situation"
+      ],
+      "statement": "<p>Une association refuse l’adhésion à une personne en raison de son orientation sexuelle. Ce refus est-il légal ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, la discrimination est interdite par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, car une association est libre de ses choix",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si cela est mentionné dans le règlement intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, uniquement si l’association reçoit des aides publiques",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La loi interdit toute discrimination fondée notamment sur l’orientation sexuelle, y compris dans le cadre associatif.</p>\n"
+    }
+  }
+]

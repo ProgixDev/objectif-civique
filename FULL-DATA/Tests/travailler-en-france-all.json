@@ -1,0 +1,1198 @@
+[
+  {
+    "question": {
+      "id": "692c356d32a2815c0b7f3c68",
+      "shortId": "Q-7F3C68",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Une personne souhaite créer son entreprise mais ne sait pas à quelle administration s’adresser. Quelle est la première étape ?</p>\n",
+      "choices": [
+        {
+          "text": "Aller déposer ses papiers à la mairie",
+          "isCorrect": false
+        },
+        {
+          "text": "Faire une déclaration directement au Trésor public",
+          "isCorrect": false
+        },
+        {
+          "text": "S’inscrire au registre de commerce sans formalités",
+          "isCorrect": false
+        },
+        {
+          "text": "Contacter le guichet unique des formalités d’entreprises",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Depuis 2023, toutes les créations d’entreprises se font via le guichet unique en ligne géré par l’INPI.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367be68a89b75e3912be8",
+      "shortId": "Q-912BE8",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un employeur demande à un salarié de travailler 12 heures par jour sans repos. Quelle est la règle ?</p>\n",
+      "choices": [
+        {
+          "text": "La durée maximale de travail est encadrée par la loi, l’employeur est en infraction",
+          "isCorrect": true
+        },
+        {
+          "text": "Le salarié doit d’abord prévenir l’inspection du travail",
+          "isCorrect": false
+        },
+        {
+          "text": "La loi ne s’applique pas dans les petites entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Le salarié peut accepter librement s’il le souhaite",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La durée quotidienne maximale de travail est de 10 heures, sauf dérogation exceptionnelle.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912bec",
+      "shortId": "Q-912BEC",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un demandeur d’emploi inscrit à France Travail ne se présente pas à un entretien de suivi. Quelle peut être la conséquence ?</p>\n",
+      "choices": [
+        {
+          "text": "Une radiation automatique sans recours possible",
+          "isCorrect": false
+        },
+        {
+          "text": "Une suspension temporaire de son allocation chômage",
+          "isCorrect": true
+        },
+        {
+          "text": "Aucune conséquence s’il a une excuse personnelle",
+          "isCorrect": false
+        },
+        {
+          "text": "Une amende administrative de 100 euros",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’absence non justifiée à un rendez-vous France Travail peut entraîner une suspension temporaire du versement des allocations.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "691367c768a89b75e3912bef",
+      "shortId": "Q-912BEF",
+      "category": [
+        "ltc-situation"
+      ],
+      "statement": "<p>Un salarié remarque une erreur sur sa fiche de paie. Que doit-il faire en premier ?</p>\n",
+      "choices": [
+        {
+          "text": "Déposer une plainte immédiate au tribunal",
+          "isCorrect": false
+        },
+        {
+          "text": "Prévenir son employeur ou le service de paie pour vérification",
+          "isCorrect": true
+        },
+        {
+          "text": "Ignorer l’erreur, elle sera corrigée automatiquement",
+          "isCorrect": false
+        },
+        {
+          "text": "Avertir directement l’inspection du travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En cas d’erreur, le salarié doit d’abord en parler à son employeur. En cas de litige persistant, il peut saisir les prud’hommes.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3097",
+      "shortId": "Q-3B3097",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Le travail non déclaré est :</p>\n",
+      "choices": [
+        {
+          "text": "Autorisé si les deux personnes sont d’accord",
+          "isCorrect": false
+        },
+        {
+          "text": "Recommandé pour éviter les impôts",
+          "isCorrect": false
+        },
+        {
+          "text": "Interdit par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Obligatoire pour les petits emplois",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le travail non déclaré (« au noir ») est illégal et expose l’employeur et le salarié à des sanctions.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3098",
+      "shortId": "Q-3B3098",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Que doit faire un employeur pour fixer un salaire ?</p>\n",
+      "choices": [
+        {
+          "text": "Respecter au minimum le SMIC et les règles applicables",
+          "isCorrect": true
+        },
+        {
+          "text": "Demander l’autorisation à la préfecture",
+          "isCorrect": false
+        },
+        {
+          "text": "S’aligner obligatoirement sur le salaire des cadres",
+          "isCorrect": false
+        },
+        {
+          "text": "Fixer librement n’importe quel montant",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Un employeur doit respecter les règles légales (au moins le SMIC) et, le cas échéant, la convention collective.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b3099",
+      "shortId": "Q-3B3099",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Qu'est-ce que le SMIC ?</p>\n",
+      "choices": [
+        {
+          "text": "Un contrat de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Un impôt payé par les salariés",
+          "isCorrect": false
+        },
+        {
+          "text": "Le salaire minimum légal",
+          "isCorrect": true
+        },
+        {
+          "text": "Une aide au logement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le SMIC est le Salaire Minimum Interprofessionnel de Croissance : c’est le salaire horaire minimum légal.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309a",
+      "shortId": "Q-3B309A",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la première démarche à réaliser pour chercher un emploi ?</p>\n",
+      "choices": [
+        {
+          "text": "Créer une entreprise immédiatement",
+          "isCorrect": false
+        },
+        {
+          "text": "Changer de nationalité",
+          "isCorrect": false
+        },
+        {
+          "text": "Acheter une voiture",
+          "isCorrect": false
+        },
+        {
+          "text": "Préparer son CV et ses candidatures",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Pour chercher un emploi, on commence généralement par préparer un CV et des candidatures (et se renseigner sur les offres).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309b",
+      "shortId": "Q-3B309B",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Quelle est la durée légale du temps de travail par semaine ?</p>\n",
+      "choices": [
+        {
+          "text": "35 heures",
+          "isCorrect": true
+        },
+        {
+          "text": "40 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "48 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "24 heures",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>La durée légale du travail en France est fixée à 35 heures par semaine (pour un temps plein).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309c",
+      "shortId": "Q-3B309C",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>Qui est aidé par France Travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Uniquement les mineurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les retraités",
+          "isCorrect": false
+        },
+        {
+          "text": "Les personnes en recherche d’emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les touristes",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>France Travail accompagne principalement les demandeurs d’emploi (informations, accompagnement, offres, démarches).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309d",
+      "shortId": "Q-3B309D",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Une personne étrangère en situation régulière peut créer son entreprise :</p>\n",
+      "choices": [
+        {
+          "text": "Non, c’est interdit dans tous les cas",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, selon les règles et autorisations nécessaires",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement si elle est mineure",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement si elle est fonctionnaire",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Une personne étrangère en situation régulière peut créer une entreprise, sous réserve de respecter les démarches et conditions applicables.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309e",
+      "shortId": "Q-3B309E",
+      "category": [
+        "csp",
+        "nat"
+      ],
+      "statement": "<p>Une femme peut-elle créer son entreprise ?</p>\n",
+      "choices": [
+        {
+          "text": "Seulement après 50 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, c’est interdit",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, comme un homme",
+          "isCorrect": true
+        },
+        {
+          "text": "Seulement avec l’accord de son employeur",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, les femmes ont les mêmes droits que les hommes pour créer une entreprise.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a8648ffb722a33b309f",
+      "shortId": "Q-3B309F",
+      "category": [
+        "csp"
+      ],
+      "statement": "<p>À partir de quel âge un mineur peut-il travailler ?</p>\n",
+      "choices": [
+        {
+          "text": "12 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "10 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "16 ans (en règle générale)",
+          "isCorrect": true
+        },
+        {
+          "text": "21 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En règle générale, on peut travailler à partir de 16 ans (avec des exceptions encadrées, notamment pour des emplois légers plus tôt).</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300a",
+      "shortId": "Q-3B300A",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Qui peut demander un congé parental d'éducation ?</p>\n",
+      "choices": [
+        {
+          "text": "Le père ou la mère",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement le père",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement la mère",
+          "isCorrect": false
+        },
+        {
+          "text": "Seulement les grands-parents",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le congé parental peut être demandé par l’un ou l’autre des parents.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300b",
+      "shortId": "Q-3B300B",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Quelles sont les affaires traitées par le conseil de prud'hommes ?</p>\n",
+      "choices": [
+        {
+          "text": "Les affaires fiscales",
+          "isCorrect": false
+        },
+        {
+          "text": "Les conflits entre salariés et employeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Les divorces",
+          "isCorrect": false
+        },
+        {
+          "text": "Les affaires pénales",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le conseil de prud’hommes règle les litiges liés au travail.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300c",
+      "shortId": "Q-3B300C",
+      "category": [
+        "cr",
+        "nat"
+      ],
+      "statement": "<p>Travailler sans être déclaré est :</p>\n",
+      "choices": [
+        {
+          "text": "Recommandé",
+          "isCorrect": false
+        },
+        {
+          "text": "Obligatoire",
+          "isCorrect": false
+        },
+        {
+          "text": "Illégal",
+          "isCorrect": true
+        },
+        {
+          "text": "Autorisé",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le travail non déclaré est interdit par la loi.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300d",
+      "shortId": "Q-3B300D",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :</p>\n",
+      "choices": [
+        {
+          "text": "Il peut l’imposer sans limite",
+          "isCorrect": false
+        },
+        {
+          "text": "Il n’y a aucune règle",
+          "isCorrect": false
+        },
+        {
+          "text": "Il doit respecter la loi et les heures supplémentaires",
+          "isCorrect": true
+        },
+        {
+          "text": "C’est toujours interdit",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les heures supplémentaires sont encadrées par la loi et doivent être rémunérées ou compensées.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300e",
+      "shortId": "Q-3B300E",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelle est la mission de France Travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Contrôler uniquement les entreprises",
+          "isCorrect": false
+        },
+        {
+          "text": "Aider les personnes à trouver un emploi et accompagner les demandeurs d’emploi",
+          "isCorrect": true
+        },
+        {
+          "text": "Rendre la justice",
+          "isCorrect": false
+        },
+        {
+          "text": "Gérer les élections",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>France Travail accompagne les demandeurs d’emploi et les entreprises, notamment pour l’insertion professionnelle.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b300f",
+      "shortId": "Q-3B300F",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Dans une entreprise, le droit syndical permet :</p>\n",
+      "choices": [
+        {
+          "text": "D’interdire toute contestation",
+          "isCorrect": false
+        },
+        {
+          "text": "De remplacer la direction",
+          "isCorrect": false
+        },
+        {
+          "text": "De se regrouper pour défendre les intérêts des salariés",
+          "isCorrect": true
+        },
+        {
+          "text": "De supprimer les contrats de travail",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le droit syndical permet aux salariés de se regrouper et de défendre collectivement leurs droits.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3010",
+      "shortId": "Q-3B3010",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Dans une entreprise, le droit de grève autorise :</p>\n",
+      "choices": [
+        {
+          "text": "L’employeur à licencier sans motif",
+          "isCorrect": false
+        },
+        {
+          "text": "Le travail forcé",
+          "isCorrect": false
+        },
+        {
+          "text": "La suppression des syndicats",
+          "isCorrect": false
+        },
+        {
+          "text": "Les salariés à cesser le travail pour défendre leurs revendications",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le droit de grève est un droit fondamental permettant aux salariés de défendre leurs intérêts.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69416a6448ffb722a33b3011",
+      "shortId": "Q-3B3011",
+      "category": [
+        "cr"
+      ],
+      "statement": "<p>Quelles sont les conditions pour toucher les allocations chômage ?</p>\n",
+      "choices": [
+        {
+          "text": "Avoir travaillé et remplir les conditions prévues par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Être étudiant",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne jamais avoir travaillé",
+          "isCorrect": false
+        },
+        {
+          "text": "Être retraité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les allocations chômage sont versées sous conditions, notamment après une période de travail.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37af",
+      "shortId": "Q-CD37AF",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quelle est la durée légale hebdomadaire du travail en France ?</p>\n",
+      "choices": [
+        {
+          "text": "37 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "45 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "40 heures",
+          "isCorrect": false
+        },
+        {
+          "text": "35 heures",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>La durée légale du travail est fixée à 35 heures par semaine pour un emploi à temps plein.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37b8",
+      "shortId": "Q-CD37B8",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Combien de semaines de congés payés minimum un salarié a-t-il en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Cinq semaines",
+          "isCorrect": true
+        },
+        {
+          "text": "Deux semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Six semaines",
+          "isCorrect": false
+        },
+        {
+          "text": "Quatre semaines",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Tout salarié bénéficie d’un minimum de cinq semaines de congés payés par an.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37c1",
+      "shortId": "Q-CD37C1",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document formalise la relation entre un employeur et un salarié ?</p>\n",
+      "choices": [
+        {
+          "text": "La fiche de paie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le règlement intérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le contrat de travail",
+          "isCorrect": true
+        },
+        {
+          "text": "La déclaration d’embauche",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le contrat de travail définit les droits et obligations de l’employeur et du salarié.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c7bf88e35210cd37ca",
+      "shortId": "Q-CD37CA",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est le nom du salaire minimum légal en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le RSA",
+          "isCorrect": false
+        },
+        {
+          "text": "Le SMAG",
+          "isCorrect": false
+        },
+        {
+          "text": "Le SMI",
+          "isCorrect": false
+        },
+        {
+          "text": "Le SMIC",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le SMIC (salaire minimum interprofessionnel de croissance) garantit un revenu minimum à tout salarié.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd37d3",
+      "shortId": "Q-CD37D3",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel organisme veille à la santé et à la sécurité des salariés sur le lieu de travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Le conseil municipal",
+          "isCorrect": false
+        },
+        {
+          "text": "L’inspection du travail",
+          "isCorrect": true
+        },
+        {
+          "text": "La CAF",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Pôle emploi",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’inspection du travail contrôle le respect du droit du travail et les conditions de sécurité des salariés.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd37dc",
+      "shortId": "Q-CD37DC",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel organisme public aide à la recherche d’emploi en France ?</p>\n",
+      "choices": [
+        {
+          "text": "France Travail",
+          "isCorrect": true
+        },
+        {
+          "text": "La CAF",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Trésor public",
+          "isCorrect": false
+        },
+        {
+          "text": "L’URSSAF",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Pôle emploi accompagne les demandeurs d’emploi et verse les allocations chômage.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd37e5",
+      "shortId": "Q-CD37E5",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document est essentiel pour postuler à un emploi ?</p>\n",
+      "choices": [
+        {
+          "text": "Le curriculum vitae (CV)",
+          "isCorrect": true
+        },
+        {
+          "text": "Le relevé bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Le livret de famille",
+          "isCorrect": false
+        },
+        {
+          "text": "Le passeport",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le CV présente le parcours, les compétences et les expériences du candidat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd37ee",
+      "shortId": "Q-CD37EE",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel dispositif favorise la formation des salariés en entreprise ?</p>\n",
+      "choices": [
+        {
+          "text": "Le plan d’épargne logement",
+          "isCorrect": false
+        },
+        {
+          "text": "Le compte épargne-temps",
+          "isCorrect": false
+        },
+        {
+          "text": "La mutuelle santé",
+          "isCorrect": false
+        },
+        {
+          "text": "Le compte personnel de formation (CPF)",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Le CPF permet à chaque actif d’accumuler des droits à la formation tout au long de sa carrière.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd37f7",
+      "shortId": "Q-CD37F7",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel statut permet de créer facilement une petite entreprise individuelle ?</p>\n",
+      "choices": [
+        {
+          "text": "Le statut d’auto-entrepreneur",
+          "isCorrect": true
+        },
+        {
+          "text": "La société en commandite",
+          "isCorrect": false
+        },
+        {
+          "text": "L’association loi 1901",
+          "isCorrect": false
+        },
+        {
+          "text": "La société anonyme (SA)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le statut d’auto-entrepreneur (micro-entrepreneur) facilite la création d’une activité indépendante.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c8bf88e35210cd3800",
+      "shortId": "Q-CD3800",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document officiel doit être remis au salarié lors de la fin du contrat de travail ?</p>\n",
+      "choices": [
+        {
+          "text": "La déclaration fiscale",
+          "isCorrect": false
+        },
+        {
+          "text": "Le permis de travail",
+          "isCorrect": false
+        },
+        {
+          "text": "Le certificat de travail",
+          "isCorrect": true
+        },
+        {
+          "text": "Le contrat de location",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Le certificat de travail atteste de la durée d’emploi et du poste occupé dans l’entreprise.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd3875",
+      "shortId": "Q-CD3875",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel est l’âge minimum légal pour travailler en France ?</p>\n",
+      "choices": [
+        {
+          "text": "16 ans",
+          "isCorrect": true
+        },
+        {
+          "text": "18 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "17 ans",
+          "isCorrect": false
+        },
+        {
+          "text": "15 ans",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le travail est autorisé à partir de 16 ans, sauf exception pour l’apprentissage.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd3887",
+      "shortId": "Q-CD3887",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel document prouve l’inscription d’une entreprise en France ?</p>\n",
+      "choices": [
+        {
+          "text": "Le contrat de bail",
+          "isCorrect": false
+        },
+        {
+          "text": "La fiche de paie",
+          "isCorrect": false
+        },
+        {
+          "text": "Le relevé d’identité bancaire",
+          "isCorrect": false
+        },
+        {
+          "text": "L’extrait Kbis",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’extrait Kbis est le document officiel attestant de l’existence légale d’une entreprise.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "690745c9bf88e35210cd38ab",
+      "shortId": "Q-CD38AB",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Quel organisme collecte les cotisations sociales des indépendants ?</p>\n",
+      "choices": [
+        {
+          "text": "Le Trésor public",
+          "isCorrect": false
+        },
+        {
+          "text": "La CAF",
+          "isCorrect": false
+        },
+        {
+          "text": "Pôle emploi",
+          "isCorrect": false
+        },
+        {
+          "text": "L’URSSAF",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>L’URSSAF gère la collecte des cotisations sociales des entreprises et travailleurs indépendants.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "69304023e6636ffb70f9ef2a",
+      "shortId": "Q-F9EF2A",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Les fonctionnaires bénéficient-ils de la liberté syndicale ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, mais uniquement s’ils exercent des responsabilités importantes.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, comme tout citoyen, ils peuvent adhérer à un syndicat.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, mais seulement dans des cas très exceptionnels.",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, la neutralité leur interdit toute adhésion syndicale.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les fonctionnaires bénéficient de la liberté syndicale comme tout citoyen. Leur obligation de neutralité s’applique dans l’exercice de leurs fonctions, mais n'interdit pas l’adhésion à un syndicat.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "693041ade6636ffb70fa365c",
+      "shortId": "Q-FA365C",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Un encadrement du droit de grève peut-il être mis en place dans certains services des collectivités territoriales ?</p>\n",
+      "choices": [
+        {
+          "text": "Oui, pour garantir la continuité du service public.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, mais seulement pour les services de secours et de sécurité.",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, le droit de grève est un droit absolu et sans aucune restriction.",
+          "isCorrect": false
+        },
+        {
+          "text": "Non, aucune limitation n’est possible dans les collectivités territoriales.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Oui. Certaines collectivités territoriales peuvent encadrer l’exercice du droit de grève <strong>lorsque cela est nécessaire pour garantir la continuité du service public</strong>.\nCe principe est prévu par le Code général de la fonction publique.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6930744be6636ffb700291c7",
+      "shortId": "Q-0291C7",
+      "category": [
+        "ltc"
+      ],
+      "statement": "<p>Dans une démocratie, à quoi servent les syndicats (<strong>CGT</strong>, <strong>CFDT</strong>...) ?</p>\n",
+      "choices": [
+        {
+          "text": "Ils organisent uniquement des aides sociales et des projets culturels pour tous les citoyens.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils défendent des idées et présentent des candidats à toutes les élections.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils défendent les droits et les conditions de travail des salariés en organisant aussi des actions collectives.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "<p>Les syndicats représentent les travailleurs, défendent leurs droits et peuvent organiser des actions collectives pour améliorer leurs conditions de travail. \nIls ne présentent pas de candidats aux élections, ce rôle revient aux partis politiques.</p>\n<p><strong>CGT</strong>: Confédération générale du travail\n<strong>CFDT</strong>: Confédération française démocratique du travail</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efa5c610d4109b1f1278e",
+      "shortId": "Q-F1278E",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Quels sont les textes qui définissent les règles au travail ?</p>\n",
+      "choices": [
+        {
+          "text": "Les règlements municipaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Les décisions personnelles de l’employeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Code du travail, les conventions collectives et le contrat de travail",
+          "isCorrect": true
+        },
+        {
+          "text": "La Constitution uniquement",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>Les règles du travail sont définies par le Code du travail, complété par les conventions collectives et le contrat de travail, qui précisent les droits et obligations des salariés et des employeurs.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efacc610d4109b1f1694d",
+      "shortId": "Q-F1694D",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Qui a le droit de se syndiquer ?</p>\n",
+      "choices": [
+        {
+          "text": "Les travailleurs, dans le respect de la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniquement les salariés du secteur privé",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les fonctionnaires",
+          "isCorrect": false
+        },
+        {
+          "text": "Uniquement les représentants du personnel",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, la liberté syndicale est garantie : les travailleurs (salariés du public et du privé) peuvent adhérer à un syndicat, dans le respect des règles légales.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "694efb21610d4109b1f196a2",
+      "shortId": "Q-F196A2",
+      "category": [
+        "nat"
+      ],
+      "statement": "<p>Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?</p>\n",
+      "choices": [
+        {
+          "text": "Non, c’est interdit par la loi",
+          "isCorrect": true
+        },
+        {
+          "text": "Oui, si l’employeur le souhaite",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, si le contrat est à durée déterminée",
+          "isCorrect": false
+        },
+        {
+          "text": "Oui, pendant le congé maternité",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>En France, le licenciement en raison de la grossesse ou du congé maternité est interdit. La loi protège la salariée contre toute discrimination liée à la maternité.</p>\n"
+    }
+  },
+  {
+    "question": {
+      "id": "6957d9de23226977b966b322",
+      "shortId": "Q-66B322",
+      "category": [
+        "csp",
+        "cr",
+        "nat",
+        "ltc-situation"
+      ],
+      "statement": "<p>Un nouvel employé découvre que son supérieur hiérarchique est plus jeune que lui. Que doit-il faire ?</p>\n",
+      "choices": [
+        {
+          "text": "Refuser d’obéir",
+          "isCorrect": false
+        },
+        {
+          "text": "Demander à changer de supérieur",
+          "isCorrect": false
+        },
+        {
+          "text": "Respecter la hiérarchie et obéir à son supérieur",
+          "isCorrect": true
+        },
+        {
+          "text": "Demander à faire grève",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "<p>L’âge n’a aucun impact sur la relation hiérarchique dans le monde du travail.</p>\n"
+    }
+  }
+]

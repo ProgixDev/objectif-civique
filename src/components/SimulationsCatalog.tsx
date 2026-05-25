@@ -29,6 +29,7 @@ import {
   FREE_SIM_KEYS,
   SimConfig,
 } from "@/lib/simulations";
+import { SIMULATION_PACKS, SimulationPack } from "@/data/extraContent";
 
 const TONE: Record<
   SimConfig["tone"],
@@ -71,6 +72,23 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
       themes: cfg.themes,
       label: cfg.title,
       simKey: cfg.key,
+    });
+    router.push("/simulation/run");
+  };
+
+  /** Lance un pack pré-construit avec ses questions explicites. */
+  const onStartPack = (pack: SimulationPack) => {
+    haptics.medium();
+    const packKey = `pack-${pack.slug}`;
+    const isLocked = isLockedForUser && !FREE_SIM_KEYS.has(packKey);
+    if (isLocked) {
+      router.push("/subscription");
+      return;
+    }
+    startSimulation({
+      label: pack.title,
+      simKey: packKey,
+      questions: pack.questions,
     });
     router.push("/simulation/run");
   };
@@ -137,12 +155,139 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
           </View>
         </View>
 
-        <View style={styles.sectionHeader}>
+        {/* Packs pré-construits — Examens blancs officiels */}
+        {SIMULATION_PACKS.length > 0 ? (
+          <>
+            <View style={styles.sectionHeader}>
+              <Text style={styles.sectionLabel}>Examens blancs officiels</Text>
+              <Text style={styles.sectionSub}>
+                {SIMULATION_PACKS.length} packs sélectionnés — questions
+                soigneusement choisies
+              </Text>
+            </View>
+
+            <View style={styles.simList}>
+              {SIMULATION_PACKS.map((pack) => {
+                const packKey = `pack-${pack.slug}`;
+                const locked =
+                  isLockedForUser && !FREE_SIM_KEYS.has(packKey);
+                const tone = TONE.deep;
+                return (
+                  <Pressable
+                    key={pack.id}
+                    onPress={() => onStartPack(pack)}
+                    style={({ pressed }) => [
+                      styles.simCard,
+                      locked && styles.simCardLocked,
+                      pressed && {
+                        transform: [{ scale: 0.99 }],
+                        opacity: 0.96,
+                      },
+                    ]}
+                    accessibilityLabel={
+                      locked
+                        ? `${pack.title} — verrouillée, débloquer avec un abonnement`
+                        : pack.title
+                    }
+                  >
+                    <View
+                      style={[
+                        styles.simNumber,
+                        {
+                          backgroundColor: locked
+                            ? Colors.outlineVariant
+                            : tone.bg,
+                          shadowColor: locked ? "transparent" : tone.shadow,
+                        },
+                      ]}
+                    >
+                      {locked ? (
+                        <Lock size={20} color={Colors.white} />
+                      ) : (
+                        <Award size={20} color={Colors.white} />
+                      )}
+                    </View>
+
+                    <View style={{ flex: 1 }}>
+                      <View style={styles.simTopRow}>
+                        <Text
+                          style={[
+                            styles.simTitle,
+                            locked && styles.simTitleLocked,
+                          ]}
+                          numberOfLines={1}
+                        >
+                          {pack.title}
+                        </Text>
+                        {locked ? (
+                          <View style={styles.lockedTag}>
+                            <Lock size={9} color={Colors.white} />
+                            <Text style={styles.lockedTagText}>PREMIUM</Text>
+                          </View>
+                        ) : (
+                          <View
+                            style={[
+                              styles.simTag,
+                              { backgroundColor: `${tone.bg}1A` },
+                            ]}
+                          >
+                            <Text
+                              style={[styles.simTagText, { color: tone.bg }]}
+                            >
+                              PACK
+                            </Text>
+                          </View>
+                        )}
+                      </View>
+                      <Text style={styles.simSub} numberOfLines={2}>
+                        {locked
+                          ? "Débloquez avec un abonnement pour accéder à ce pack."
+                          : `${pack.questions.length} questions — pack officiel curé`}
+                      </Text>
+                      <View style={styles.simMeta}>
+                        <Clock size={11} color={Colors.textTertiary} />
+                        <Text style={styles.simMetaText}>45 min</Text>
+                        <Text style={styles.simMetaDot}>·</Text>
+                        <ListChecks size={11} color={Colors.textTertiary} />
+                        <Text style={styles.simMetaText}>
+                          {pack.questions.length} questions
+                        </Text>
+                      </View>
+                    </View>
+
+                    <View
+                      style={[
+                        styles.playBtn,
+                        {
+                          backgroundColor: locked
+                            ? Colors.outlineVariant
+                            : tone.bg,
+                        },
+                      ]}
+                    >
+                      {locked ? (
+                        <Lock size={14} color={Colors.white} />
+                      ) : (
+                        <Play
+                          size={14}
+                          color={Colors.white}
+                          fill={Colors.white}
+                        />
+                      )}
+                    </View>
+                  </Pressable>
+                );
+              })}
+            </View>
+          </>
+        ) : null}
+
+        <View style={[styles.sectionHeader, { marginTop: 24 }]}>
           <Text style={styles.sectionLabel}>
-            {simulations.length} simulations disponibles
+            {simulations.length} simulations dynamiques
           </Text>
           <Text style={styles.sectionSub}>
-            5 séries par thème — tirées aléatoirement à chaque lancement
+            Tirage aléatoire — adapté à votre cas + séries par thème
           </Text>
         </View>
 

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "690e001168a89b75e3902296",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Lors d’un débat public, un participant tient des propos racistes. Quel est le comportement attendu d’un citoyen ?",
+    "choices": [
+      {
+        "text": "L’ignorer, chacun est libre d’exprimer toutes ses opinions",
+        "isCorrect": false
+      },
+      {
+        "text": "Lui demander de quitter la salle immédiatement",
+        "isCorrect": false
+      },
+      {
+        "text": "Exprimer un désaccord et défendre les valeurs républicaines dans le respect des autres",
+        "isCorrect": true
+      },
+      {
+        "text": "Interrompre le débat pour faire censurer son intervention",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La liberté d’expression est un principe fondamental en France, mais elle ne protège pas les propos racistes, qui sont contraires aux valeurs de la République.\r\nDans un débat public, le comportement attendu d’un citoyen est de défendre ces valeurs par le dialogue et le respect, sans recourir à la violence ni à la censure.",
+    "helpNotes": [
+      "Liberté d'expression, mais pas d'incitation à la haine",
+      "Répondre dans le respect des autres"
+    ]
+  },
+  {
+    "id": "690b65c568a89b75e38f88f3",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans un centre de vacances laïque, faut-il proposer des menus casher ou hallal ?",
+    "choices": [
+      {
+        "text": "Oui, pour respecter toutes les croyances",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, il faut proposer des alternatives neutres",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, mais uniquement casher",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais uniquement hallal",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un organisme laïque ne peut pas financer des pratiques religieuses. Il peut en revanche proposer des repas neutres comme des menus sans viande.",
+    "helpNotes": [
+      "Principe de laïcité : neutralité alimentaire",
+      "Menus alternatifs sans référence religieuse"
+    ]
+  },
+  {
+    "id": "690b65c568a89b75e38f88f4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À l’hôpital public, que peut librement choisir un patient ?",
+    "choices": [
+      {
+        "text": "Son établissement",
+        "isCorrect": true
+      },
+      {
+        "text": "Son médecin",
+        "isCorrect": true
+      },
+      {
+        "text": "Son service",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le patient peut choisir son établissement et son médecin tant que cela ne perturbe pas le service. Ce droit découle du principe de laïcité hospitalière.",
+    "helpNotes": [
+      "Charte du patient hospitalisé (2005)",
+      "Respect de la liberté de conscience"
+    ]
+  },
+  {
+    "id": "690b65c568a89b75e38f88f5",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "L’existence de carrés religieux dans les cimetières est-elle conforme à la laïcité ?",
+    "choices": [
+      {
+        "text": "Oui, si la neutralité des espaces communs est respectée",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, c’est strictement interdit",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les carrés confessionnels sont autorisés par circulaire, à condition que les espaces publics restent neutres et sans emblème religieux.",
+    "helpNotes": [
+      "Circulaire du 19 février 2008",
+      "Neutralité des cimetières municipaux"
+    ]
+  },
+  {
+    "id": "69416a5d48ffb722a33b2f7d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+    "choices": [
+      {
+        "text": "L’État ne favorise aucune religion et traite chacun de façon égale",
+        "isCorrect": true
+      },
+      {
+        "text": "L’État impose une religion officielle",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État interdit toute religion en France",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État ne fait plus aucune loi",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La neutralité de l’État signifie qu’il ne privilégie aucune religion et garantit l’égalité de traitement des usagers.",
+    "helpNotes": [
+      "Neutralité de l’État",
+      "Aucune religion favorisée"
+    ]
+  },
+  {
+    "id": "69416a5d48ffb722a33b2f7e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Que peut faire un usager du service public dans une mairie ?",
+    "choices": [
+      {
+        "text": "Être accueilli sans discrimination et accéder aux services selon les règles",
+        "isCorrect": true
+      },
+      {
+        "text": "Exiger d’être servi uniquement par un agent de sa religion",
+        "isCorrect": false
+      },
+      {
+        "text": "Refuser de respecter toute règle de la mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Imposer ses convictions religieuses aux agents",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Un usager a droit à un service public accessible à tous, sans discrimination, selon les règles communes.",
+    "helpNotes": [
+      "Service public = égalité d’accès",
+      "Règles communes"
+    ]
+  },
+  {
+    "id": "69416a5d48ffb722a33b2f7f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+    "choices": [
+      {
+        "text": "Les agents publics",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement les usagers",
+        "isCorrect": false
+      },
+      {
+        "text": "Uniquement les élus",
+        "isCorrect": false
+      },
+      {
+        "text": "Personne : la neutralité n’existe pas",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dans les services publics, les agents publics doivent respecter la neutralité religieuse.",
+    "helpNotes": [
+      "Agents publics = neutralité",
+      "Préfecture = service public"
+    ]
+  },
+  {
+    "id": "69416a5d48ffb722a33b2f80",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+    "choices": [
+      {
+        "text": "Oui, les agents publics doivent être neutres",
+        "isCorrect": true
+      },
+      {
+        "text": "Non, les agents peuvent favoriser une religion",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, mais seulement certains jours",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, seulement les usagers doivent être neutres",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La laïcité implique la neutralité des agents publics : ils ne doivent pas manifester ou imposer des convictions religieuses dans leur fonction.",
+    "helpNotes": [
+      "Neutralité des agents",
+      "Laïcité et service public"
+    ]
+  },
+  {
+    "id": "692c356d32a2815c0b7f3c65",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une agente d’accueil dans une mairie porte un signe religieux discret. Un usager s’en plaint. Quelle est la bonne démarche du maire ?",
+    "choices": [
+      {
+        "text": "Demander à l’agente de retirer le signe pendant le service",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignorer la remarque de l’usager",
+        "isCorrect": false
+      },
+      {
+        "text": "Autoriser le signe car il ne dérange personne",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanctionner l’usager pour discrimination",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les agents publics doivent respecter la neutralité religieuse pendant leur service, même pour un signe discret.",
+    "helpNotes": [
+      "Principe de neutralité",
+      "Loi du 9 décembre 1905"
+    ]
+  },
+  {
+    "id": "692c354732a2815c0b7f3c54",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un usager refuse d’être servi par une agente d’un service public à cause de sa religion. Quelle est la règle ?",
+    "choices": [
+      {
+        "text": "Le service public doit traiter tous les usagers de manière égale, sans discrimination",
+        "isCorrect": true
+      },
+      {
+        "text": "L’usager peut choisir l’agent qu’il souhaite",
+        "isCorrect": false
+      },
+      {
+        "text": "Le service doit respecter les croyances de chacun même au détriment de la neutralité",
+        "isCorrect": false
+      },
+      {
+        "text": "La mairie peut accepter ce refus exceptionnellement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Dans un service public, les usagers sont égaux et ne peuvent exiger un traitement fondé sur la religion ou les convictions.",
+    "helpNotes": [
+      "Principe d’égalité des usagers",
+      "Neutralité des services publics"
+    ]
+  },
+  {
+    "id": "692c354732a2815c0b7f3c59",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un hôpital public installe un sapin de Noël dans le hall d’accueil. Est-ce contraire au principe de laïcité ?",
+    "choices": [
+      {
+        "text": "Non, car il s’agit d’une tradition culturelle et non religieuse",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, car tout symbole lié à une fête doit être interdit",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, sauf si un prêtre bénit le lieu",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, à condition que cela reste dans une église",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les décorations comme les sapins de Noël sont considérées comme des symboles culturels et non religieux, donc compatibles avec la laïcité.",
+    "helpNotes": [
+      "Neutralité religieuse",
+      "Distinction entre tradition et religion"
+    ]
+  },
+  {
+    "id": "691c990a1de1da18eed49f68",
+    "shortId": null,
+    "isFree": true,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une commune souhaite subventionner une activité organisée uniquement pour pratiquer un culte. **Est-ce autorisé ?**",
+    "choices": [
+      {
+        "text": "Oui, si l’association est déclarée en préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Oui, si le maire donne son accord",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, c’est interdit : les fonds publics ne peuvent pas financer une activité religieuse",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, si l’activité est ouverte gratuitement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La laïcité impose la neutralité financière : une collectivité ne peut pas financer une activité religieuse.",
+    "helpNotes": []
+  },
+  {
+    "id": "693c23566ba49367a5be9018",
+    "shortId": null,
+    "isFree": true,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Vous travaillez dans un service public et un usager vous demande d’être servi par quelqu’un de sa religion. Comment devez-vous réagir ?",
+    "choices": [
+      {
+        "text": "Refuser la demande en expliquant que le service public est neutre et traite tous les usagers de la même manière",
+        "isCorrect": true
+      },
+      {
+        "text": "Accepter si un collègue de la religion demandée est disponible",
+        "isCorrect": false
+      },
+      {
+        "text": "Expliquer que ce n’est pas possible mais proposer un rendez-vous ultérieur",
+        "isCorrect": false
+      },
+      {
+        "text": "Transmettre la demande au responsable pour qu’il décide",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les agents du service public sont soumis au principe de neutralité et doivent garantir l’égalité de traitement des usagers. Il n’est donc pas possible de répondre favorablement à une demande fondée sur la religion.",
+    "helpNotes": [
+      "Principe de neutralité du service public"
+    ]
+  },
+  {
+    "id": "6957d9de23226977b966b31f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un usager d’une préfecture distribue des citations religieuses à l’intérieur du bâtiment. Que risque-t-il ?",
+    "choices": [
+      {
+        "text": "Rien, car il est un simple usager",
+        "isCorrect": false
+      },
+      {
+        "text": "Rien, car il a obtenu l’accord des agents publics",
+        "isCorrect": false
+      },
+      {
+        "text": "Se faire arrêter automatiquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Cela peut être interdit car la préfecture est un service public soumis au principe de neutralité",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Les services publics sont soumis au principe de neutralité religieuse.",
+    "helpNotes": [
+      "Laïcité",
+      "Service public"
+    ]
+  },
+  {
+    "id": "694b2635cbdc5d76deb8dca9",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle institution française doit rester neutre en matière de religion ?",
+    "choices": [
+      {
+        "text": "Une entreprise privée",
+        "isCorrect": false
+      },
+      {
+        "text": "Une association religieuse",
+        "isCorrect": false
+      },
+      {
+        "text": "L’État",
+        "isCorrect": true
+      },
+      {
+        "text": "Une organisation non gouvernementale (ONG)",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, l’État doit rester neutre vis-à-vis des religions, conformément au principe de laïcité.",
+    "helpNotes": []
+  },
+  {
+    "id": "694b270bcbdc5d76deb924ac",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+    "choices": [
+      {
+        "text": "Les usagers uniquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Les responsables religieux",
+        "isCorrect": false
+      },
+      {
+        "text": "Les agents publics",
+        "isCorrect": true
+      },
+      {
+        "text": "Les associations privées",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les agents publics (fonctionnaires, agents des services publics) ont l’obligation de respecter et de garantir la neutralité religieuse dans l’exercice de leurs fonctions, conformément au principe de laïcité.",
+    "helpNotes": []
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id": "690e001268a89b75e390229c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un patient vient d'un autre pays et ne parle pas français. Comment le personnel de santé doit-il réagir ?",
+    "choices": [
+      {
+        "text": "Le personnel refuse de fournir des soins sans interprète",
+        "isCorrect": false
+      },
+      {
+        "text": "Le personnel doit faire appel à un interprète ou utiliser un service de traduction",
+        "isCorrect": true
+      },
+      {
+        "text": "Le personnel fournit les soins sans essayer de comprendre le patient",
+        "isCorrect": false
+      },
+      {
+        "text": "Le personnel conseille au patient de revenir avec un proche qui parle français",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le personnel de santé a l'obligation de fournir une assistance à tous, y compris ceux qui ne parlent pas la langue.",
+    "helpNotes": [
+      "Droits des patients",
+      "Accès aux soins",
+      "Interprètes médicaux"
+    ]
+  },
+  {
+    "id": "69416a4c48ffb722a33b2f64",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+    "choices": [
+      {
+        "text": "Toute personne peut accéder aux soins en France",
+        "isCorrect": true
+      },
+      {
+        "text": "Seuls les citoyens français peuvent se soigner",
+        "isCorrect": false
+      },
+      {
+        "text": "Les soins sont réservés aux personnes qui travaillent",
+        "isCorrect": false
+      },
+      {
+        "text": "L’accès aux soins est limité aux personnes âgées",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En France, l’accès aux soins est possible pour toute personne, selon des dispositifs prévus par la loi.",
+    "helpNotes": [
+      "Accès aux soins",
+      "Protection santé"
+    ]
+  },
+  {
+    "id": "691367be68a89b75e3912be2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Une personne change de médecin traitant. Quelle est la démarche correcte ?",
+    "choices": [
+      {
+        "text": "Déclarer le nouveau médecin à la caisse d’assurance maladie",
+        "isCorrect": true
+      },
+      {
+        "text": "Prévenir uniquement l’ancien médecin",
+        "isCorrect": false
+      },
+      {
+        "text": "Attendre que la Sécurité sociale le découvre",
+        "isCorrect": false
+      },
+      {
+        "text": "Changer librement sans aucune formalité",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le changement de médecin traitant doit être déclaré pour garantir un bon remboursement des soins.",
+    "helpNotes": [
+      "Médecin traitant",
+      "Déclaration à la CPAM"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bee",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un patient n’a pas déclaré de médecin traitant et consulte un généraliste. Quelle conséquence sur le remboursement ?",
+    "choices": [
+      {
+        "text": "Le remboursement sera réduit par la Sécurité sociale",
+        "isCorrect": true
+      },
+      {
+        "text": "Le remboursement sera annulé entièrement",
+        "isCorrect": false
+      },
+      {
+        "text": "Il ne pourra plus consulter ce médecin",
+        "isCorrect": false
+      },
+      {
+        "text": "Il devra changer d’assurance maladie",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Sans médecin traitant déclaré, le patient reste remboursé mais à un taux moins élevé.",
+    "helpNotes": [
+      "Médecin traitant",
+      "Parcours de soins coordonnés"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a0",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "choices": [
+      {
+        "text": "L’Assurance maladie (CPAM)",
+        "isCorrect": true
+      },
+      {
+        "text": "La mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "La préfecture",
+        "isCorrect": false
+      },
+      {
+        "text": "Le commissariat",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les remboursements de soins passent par l’Assurance maladie (souvent via la CPAM).",
+    "helpNotes": [
+      "Remboursement = Assurance maladie",
+      "CPAM"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a2",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ?",
+    "choices": [
+      {
+        "text": "À son médecin traitant (ou un médecin généraliste)",
+        "isCorrect": true
+      },
+      {
+        "text": "Aux urgences de l’hôpital systématiquement",
+        "isCorrect": false
+      },
+      {
+        "text": "Au commissariat",
+        "isCorrect": false
+      },
+      {
+        "text": "À la préfecture",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "En cas de problème de santé non urgent, on contacte d’abord son médecin traitant (ou un généraliste). Les urgences sont réservées aux situations graves ou urgentes.",
+    "helpNotes": [
+      "Non urgent = médecin traitant/généraliste",
+      "Urgences = situations graves"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a3",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle du médecin traitant ?",
+    "choices": [
+      {
+        "text": "Assurer le suivi médical et orienter si besoin vers un spécialiste",
+        "isCorrect": true
+      },
+      {
+        "text": "Délivrer des cartes d’identité",
+        "isCorrect": false
+      },
+      {
+        "text": "Remplacer la pharmacie",
+        "isCorrect": false
+      },
+      {
+        "text": "Décider des lois",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le médecin traitant suit le patient dans la durée, coordonne les soins et peut orienter vers des spécialistes.",
+    "helpNotes": [
+      "Suivi médical",
+      "Coordination des soins",
+      "Orientation vers spécialistes"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a4",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+    "choices": [
+      {
+        "text": "En cas de situation grave ou de danger immédiat",
+        "isCorrect": true
+      },
+      {
+        "text": "Pour renouveler une ordonnance simple",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour une visite de routine",
+        "isCorrect": false
+      },
+      {
+        "text": "Pour obtenir une attestation de logement",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les urgences sont destinées aux situations graves (accident, malaise important, détresse respiratoire, douleur intense, etc.).",
+    "helpNotes": [
+      "Urgences = gravité/danger",
+      "Routine = médecin traitant"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a5",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est l’objectif des vaccinations obligatoires ?",
+    "choices": [
+      {
+        "text": "Protéger la population contre des maladies graves",
+        "isCorrect": true
+      },
+      {
+        "text": "Empêcher l’accès à l’école",
+        "isCorrect": false
+      },
+      {
+        "text": "Remplacer les consultations médicales",
+        "isCorrect": false
+      },
+      {
+        "text": "Soigner une maladie déjà déclarée",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les vaccinations obligatoires visent à prévenir certaines maladies et à protéger à la fois l’individu et la collectivité.",
+    "helpNotes": [
+      "Prévention",
+      "Protection collective (immunité)"
+    ]
+  },
+  {
+    "id": "69416a8648ffb722a33b30a6",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "À quoi sert la carte Vitale ?",
+    "choices": [
+      {
+        "text": "À faciliter la prise en charge et le remboursement des soins",
+        "isCorrect": true
+      },
+      {
+        "text": "À voter aux élections",
+        "isCorrect": false
+      },
+      {
+        "text": "À voyager à l’étranger",
+        "isCorrect": false
+      },
+      {
+        "text": "À remplacer un permis de conduire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La carte Vitale permet de transmettre les informations nécessaires à l’Assurance maladie pour la prise en charge et le remboursement.",
+    "helpNotes": [
+      "Carte Vitale = Assurance maladie",
+      "Remboursement des soins"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3006",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel numéro d'urgence permet d'appeler la police ?",
+    "choices": [
+      {
+        "text": "17",
+        "isCorrect": true
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "112",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le 17 permet de joindre la police.",
+    "helpNotes": [
+      "Urgences",
+      "Police"
+    ]
+  },
+  {
+    "id": "69416a6448ffb722a33b3009",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "L'inscription à l'Assurance maladie est :",
+    "choices": [
+      {
+        "text": "Obligatoire pour bénéficier des remboursements",
+        "isCorrect": true
+      },
+      {
+        "text": "Facultative",
+        "isCorrect": false
+      },
+      {
+        "text": "Interdite aux étrangers",
+        "isCorrect": false
+      },
+      {
+        "text": "Réservée aux retraités",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’inscription à l’Assurance maladie permet la prise en charge des soins.",
+    "helpNotes": [
+      "Assurance maladie",
+      "Protection sociale"
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3755",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel professionnel coordonne le suivi médical d’un patient en France ?",
+    "choices": [
+      {
+        "text": "Le médecin traitant",
+        "isCorrect": true
+      },
+      {
+        "text": "Le pharmacien",
+        "isCorrect": false
+      },
+      {
+        "text": "Le kinésithérapeute",
+        "isCorrect": false
+      },
+      {
+        "text": "Le spécialiste",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le médecin traitant suit la santé du patient, oriente vers les spécialistes et assure la prévention.",
+    "helpNotes": [
+      "Il doit être déclaré à l’Assurance Maladie.",
+      "Permet un meilleur remboursement des soins."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd375e",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle carte permet d’accéder aux soins en France ?",
+    "choices": [
+      {
+        "text": "La carte Vitale",
+        "isCorrect": true
+      },
+      {
+        "text": "La carte d’identité",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte de séjour",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte bancaire",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La carte Vitale atteste des droits à l’Assurance Maladie et simplifie le remboursement des soins.",
+    "helpNotes": [
+      "Distribuée par la Sécurité sociale.",
+      "Contient les informations de santé administratives."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3767",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Comment appelle-t-on la couverture complémentaire qui rembourse les soins non pris en charge par la Sécurité sociale ?",
+    "choices": [
+      {
+        "text": "La mutuelle",
+        "isCorrect": true
+      },
+      {
+        "text": "La pension",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte Vitale",
+        "isCorrect": false
+      },
+      {
+        "text": "Le dossier médical partagé",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La mutuelle complète les remboursements de la Sécurité sociale pour les soins médicaux et dentaires.",
+    "helpNotes": [
+      "Souvent proposée par l’employeur.",
+      "Peut être souscrite individuellement."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3770",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Que faut-il faire en cas d’urgence médicale grave en France ?",
+    "choices": [
+      {
+        "text": "Appeler le 15",
+        "isCorrect": true
+      },
+      {
+        "text": "Appeler le 18",
+        "isCorrect": false
+      },
+      {
+        "text": "Appeler le 17",
+        "isCorrect": false
+      },
+      {
+        "text": "Envoyer un SMS au médecin",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le 15 est le numéro du SAMU, le service d’aide médicale urgente en France.",
+    "helpNotes": [
+      "Le 18 correspond aux pompiers.",
+      "Le 112 fonctionne partout dans l’Union européenne."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3779",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document numérique regroupe les informations de santé d’un patient ?",
+    "choices": [
+      {
+        "text": "Le dossier médical partagé (DMP)",
+        "isCorrect": true
+      },
+      {
+        "text": "Le carnet de santé",
+        "isCorrect": false
+      },
+      {
+        "text": "La carte Vitale",
+        "isCorrect": false
+      },
+      {
+        "text": "La feuille de soins",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le DMP centralise les données de santé et facilite le suivi entre les professionnels médicaux.",
+    "helpNotes": [
+      "Accessible en ligne par le patient et le médecin.",
+      "Renforce la continuité des soins."
+    ]
+  },
+  {
+    "id": "690745c8bf88e35210cd386c",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel est le rôle principal de l’Assurance Maladie ?",
+    "choices": [
+      {
+        "text": "Rembourser une partie des dépenses de santé",
+        "isCorrect": true
+      },
+      {
+        "text": "Financer les écoles publiques",
+        "isCorrect": false
+      },
+      {
+        "text": "Fixer le salaire minimum",
+        "isCorrect": false
+      },
+      {
+        "text": "Attribuer les allocations familiales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’Assurance Maladie prend en charge une part des frais médicaux et hospitaliers pour tous les assurés.",
+    "helpNotes": [
+      "Elle garantit l’accès aux soins pour tous.",
+      "Les remboursements varient selon les actes médicaux."
+    ]
+  },
+  {
+    "id": "6932d120e559fb0a2c80f97f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la principale source de financement du régime général de la Sécurité sociale ?",
+    "choices": [
+      {
+        "text": "Les cotisations sociales versées par les salariés et les employeurs",
+        "isCorrect": true
+      },
+      {
+        "text": "La contribution sociale généralisée (CSG)",
+        "isCorrect": false
+      },
+      {
+        "text": "Les autres impôts et taxes affectés (ITAF)",
+        "isCorrect": false
+      },
+      {
+        "text": "Les excédents budgétaires de l’État",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les cotisations sociales — **payées à la fois par les salariés et les employeurs** — restent la **première source de financement** de la Sécurité sociale.\r\nElles représentent plus de la moitié des ressources du système (environ 54 % en 2022).",
+    "helpNotes": []
+  },
+  {
+    "id": "6932d254e559fb0a2c811e2a",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Les prestations de l’assurance maladie sont attribuées par :",
+    "choices": [
+      {
+        "text": "La CNAV",
+        "isCorrect": false
+      },
+      {
+        "text": "La CPAM",
+        "isCorrect": true
+      },
+      {
+        "text": "La CAF",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les prestations de l'assurance maladie (mais également maternité et paternité) sont attribuées par les caisses primaires d'assurance maladie (**CPAM**) en métropole et par les caisses générales de sécurité sociale (CGSS) dans les départements d'outre-mer.\r\n\r\nCes caisses se distinguent de la caisse nationale d'assurance vieillesse (CNAV) et de la caisse d'allocations familiales (CAF).",
+    "helpNotes": []
+  },
+  {
+    "id": "6932d3a6e559fb0a2c812d8d",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu’est-ce qui distingue un médecin en secteur 2 d’un médecin en secteur 1 ?",
+    "choices": [
+      {
+        "text": "adhère à la convention et respecte les tarifs négociés avec l'assurance maladie.",
+        "isCorrect": false
+      },
+      {
+        "text": "propose des consultations remboursées à hauteur de 70%.",
+        "isCorrect": false
+      },
+      {
+        "text": "fixe librement ses honoraires.",
+        "isCorrect": true
+      }
+    ],
+    "explanation": "Le médecin en secteur 1 adhère entièrement à la convention et respecte les tarifs négociés avec l'assurance maladie. Dans le cadre du parcours de soins, le taux de remboursement est de 70% du tarif conventionnel. À l'inverse, **le médecin en secteur 2 fixe librement ses honoraires**. \r\n\r\nLe montant dépassant le tarif conventionnel n'est pas remboursé.",
+    "helpNotes": []
+  }
+]

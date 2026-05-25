@@ -1,0 +1,190 @@
+[
+  {
+    "id": "690cf26468a89b75e38fe90f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Peut-on être citoyen sans être français ?",
+    "choices": [
+      {
+        "text": "Oui, si je participe activement à la vie sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "Non, je dois être français pour être citoyen",
+        "isCorrect": true
+      },
+      {
+        "text": "Oui, car je peux voter à certaines élections locales",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La citoyenneté française est liée à la nationalité. Les citoyens étrangers peuvent participer à la vie locale, mais ne sont pas citoyens français.",
+    "helpNotes": [
+      "Citoyenneté = appartenance nationale",
+      "Seuls les Français votent à toutes les élections"
+    ]
+  },
+  {
+    "id": "691367c768a89b75e3912bf0",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": true,
+    "source": null,
+    "examContexts": [],
+    "statement": "Un résident étranger doit renouveler son titre de séjour. Quand doit-il faire la demande ?",
+    "choices": [
+      {
+        "text": "Entre 2 et 4 mois avant la date d’expiration",
+        "isCorrect": true
+      },
+      {
+        "text": "Uniquement le jour où la carte expire",
+        "isCorrect": false
+      },
+      {
+        "text": "Une fois la carte expirée, dans les 15 jours",
+        "isCorrect": false
+      },
+      {
+        "text": "Quand la préfecture le contacte",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La demande de renouvellement doit être faite avant l’expiration du titre, généralement entre 2 et 4 mois à l’avance.",
+    "helpNotes": [
+      "Renouvellement de titre de séjour",
+      "Préfecture et démarches en ligne"
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd371f",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quel document est nécessaire pour un ressortissant étranger résidant en France ?",
+    "choices": [
+      {
+        "text": "Un titre de séjour",
+        "isCorrect": true
+      },
+      {
+        "text": "Une attestation d’hébergement",
+        "isCorrect": false
+      },
+      {
+        "text": "Un permis de travail",
+        "isCorrect": false
+      },
+      {
+        "text": "Un visa touristique",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Le titre de séjour autorise un étranger à vivre et à travailler en France de manière légale.",
+    "helpNotes": [
+      "Délivré par la préfecture du lieu de résidence.",
+      "Renouvelable à l’expiration de sa validité."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3728",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle est la condition principale pour demander la nationalité française ?",
+    "choices": [
+      {
+        "text": "Résider durablement et connaître les valeurs de la République",
+        "isCorrect": true
+      },
+      {
+        "text": "Être propriétaire d’un logement",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoir un emploi à temps plein",
+        "isCorrect": false
+      },
+      {
+        "text": "Parler plusieurs langues étrangères",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "La naturalisation exige une résidence stable et l’adhésion aux valeurs de la République.",
+    "helpNotes": [
+      "La durée minimale de résidence est souvent de cinq ans.",
+      "Une évaluation de langue et de civisme est obligatoire."
+    ]
+  },
+  {
+    "id": "690745c7bf88e35210cd3731",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Quelle institution traite les demandes de naturalisation ?",
+    "choices": [
+      {
+        "text": "La préfecture",
+        "isCorrect": true
+      },
+      {
+        "text": "La mairie",
+        "isCorrect": false
+      },
+      {
+        "text": "Le consulat",
+        "isCorrect": false
+      },
+      {
+        "text": "Le tribunal administratif",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "Les demandes de naturalisation se déposent en préfecture, qui instruit le dossier avant décision du ministère de l’Intérieur.",
+    "helpNotes": [
+      "Un entretien d’assimilation est réalisé en préfecture.",
+      "Des justificatifs de séjour et de revenus sont exigés."
+    ]
+  },
+  {
+    "id": "690745c9bf88e35210cd3890",
+    "shortId": null,
+    "isFree": false,
+    "isSituation": false,
+    "source": null,
+    "examContexts": [],
+    "statement": "Qu’est-ce que le principe d’assimilation dans une demande de naturalisation ?",
+    "choices": [
+      {
+        "text": "La connaissance des droits, devoirs et de la culture française",
+        "isCorrect": true
+      },
+      {
+        "text": "La participation à des élections locales",
+        "isCorrect": false
+      },
+      {
+        "text": "L’obtention automatique d’un logement",
+        "isCorrect": false
+      },
+      {
+        "text": "La reconnaissance religieuse",
+        "isCorrect": false
+      }
+    ],
+    "explanation": "L’assimilation signifie comprendre et respecter les valeurs et institutions de la République française.",
+    "helpNotes": [
+      "Évaluée lors de l’entretien de naturalisation.",
+      "Inclut la maîtrise suffisante de la langue française."
+    ]
+  }
+]
