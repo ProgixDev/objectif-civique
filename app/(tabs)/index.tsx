@@ -19,6 +19,7 @@ import {
   Crown,
   FileText,
   Flame,
+  Handshake,
   Layers,
   MapPin,
   MessageCircle,
@@ -453,6 +454,11 @@ export default function HomeTab() {
             icon={<Target size={18} color={Colors.primary} />}
             label="Accompagnement"
             onPress={go(() => router.push("/coaching"))}
+          />
+          <ToolChip
+            icon={<Handshake size={18} color={Colors.primary} />}
+            label="Partenaire"
+            onPress={go(() => router.push("/partnership" as any))}
           />
         </View>
       </ScrollView>

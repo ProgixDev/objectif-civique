@@ -8,6 +8,7 @@ import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
 import { GOAL_LABELS } from "@/data/questions";
 import { THEMES } from "@/data/themes";
+import { FLASHCARD_BANKS, bankCount } from "@/data/banks";
 import { Category } from "@/types";
 
 const CATEGORIES: { key: Category; desc: string }[] = [
@@ -52,7 +53,35 @@ export default function FlashcardsHome() {
           </Text>
         </View>
 
-        <Text style={styles.sectionTitle}>Par catégorie</Text>
+        <Text style={styles.sectionTitle}>Par banque</Text>
+        {FLASHCARD_BANKS.map((bank) => {
+          const count = bankCount(bank);
+          if (count === 0) return null;
+          return (
+            <Pressable
+              key={bank.id}
+              onPress={() =>
+                router.push({
+                  pathname: "/flashcards/[slug]",
+                  params: { slug: `bank-${bank.id}` },
+                })
+              }
+              style={styles.row}
+            >
+              <View style={{ flex: 1 }}>
+                <Text style={styles.rowTitle}>{bank.label}</Text>
+                <Text style={styles.rowSub}>
+                  {bank.description} · {count} cartes
+                </Text>
+              </View>
+              <ArrowRight size={16} color={Colors.textTertiary} />
+            </Pressable>
+          );
+        })}
+
+        <Text style={[styles.sectionTitle, { marginTop: 20 }]}>
+          Par catégorie
+        </Text>
         {CATEGORIES.map((c) => (
           <Pressable
             key={c.key}

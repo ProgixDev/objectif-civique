@@ -31,6 +31,7 @@ import {
   getAssimilationByTopic,
 } from "@/data/questions.assimilation";
 import { AssimilationQuestion, AssimilationTopic } from "@/types";
+import { getExplanation } from "@/lib/quizEngine";
 
 const VALID_TOPICS: AssimilationTopic[] = [
   "motivation",
@@ -371,7 +372,7 @@ export default function AssimilationRun() {
                 { color: Colors.onSurface, lineHeight: 22 },
               ]}
             >
-              {question.explanation}
+              {getExplanation(question)}
             </Text>
           </MotiView>
         ) : null}

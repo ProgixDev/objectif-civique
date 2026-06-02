@@ -57,6 +57,12 @@ export type Question = {
   type?: QuestionType;
   /** True si la question est extraite des banques officielles du gouvernement. */
   isOfficial?: boolean;
+  /**
+   * Banque de provenance FULL-DATA — utilisée pour organiser et filtrer les
+   * questions par source (ex: "officielles", "entrainement", "mise-en-situation",
+   * "PREPA-INTENSE", "SITUATION", "APPRENDRE", "REFERENTIEL").
+   */
+  source?: string;
 };
 
 export type Theme = {

@@ -1,6 +1,6 @@
 import { Category, Question, QuestionType, ThemeId } from "@/types";
 import rawAllQuestions from "../../FULL-DATA/1-questions/_all.json";
-import { EXTRA_FLASHCARDS } from "./extraContent";
+import { EXTRA_FLASHCARDS, EXTRA_QCM } from "./extraContent";
 
 /**
  * Pool de questions de l'app — chargé depuis FULL-DATA (data client).
@@ -58,6 +58,19 @@ function isQuestionType(value: string | null | undefined): value is QuestionType
  * Convertit une question du format FULL-DATA vers le format attendu par l'app.
  * Retourne `null` si la question n'est pas exploitable (thème inconnu, etc.).
  */
+/**
+ * Banque de provenance dérivée pour les questions de `_all.json` (qui n'ont pas
+ * de champ `source`) :
+ *   - "officielles"       → questions officielles du gouvernement
+ *   - "mise-en-situation" → scénarios d'entretien
+ *   - "entrainement"      → QCM d'entraînement non officiels
+ */
+function deriveSource(type: QuestionType, isOfficial: boolean): string {
+  if (type === "mise-en-situation") return "mise-en-situation";
+  if (isOfficial) return "officielles";
+  return "entrainement";
+}
+
 function adaptQuestion(raw: RawQuestion): Question | null {
   if (!isThemeId(raw.theme)) return null;
 
@@ -68,6 +81,9 @@ function adaptQuestion(raw: RawQuestion): Question | null {
     .map((l) => LEVEL_TO_CATEGORY[l])
     .filter((c): c is Category => Boolean(c));
 
+  const type: QuestionType = isQuestionType(raw.type) ? raw.type : "qcm";
+  const isOfficial = Boolean(raw.isOfficial);
+
   return {
     id: raw.id,
     shortId: raw.shortId,
@@ -77,8 +93,9 @@ function adaptQuestion(raw: RawQuestion): Question | null {
     choices: choices.map((c) => c.text),
     correctIndex,
     explanation: raw.explanation ?? "",
-    type: isQuestionType(raw.type) ? raw.type : "qcm",
-    isOfficial: Boolean(raw.isOfficial),
+    type,
+    isOfficial,
+    source: deriveSource(type, isOfficial),
   };
 }
 
@@ -87,10 +104,23 @@ const ALL_RAW_QUESTIONS = rawAllQuestions as RawQuestion[];
 /**
  * Questions complètes (QCM + mise-en-situation) avec choix exploitables.
  * Les flashcards sans choix sont exclues de ce pool — voir `FLASHCARD_QUESTIONS`.
+ *
+ * On y ajoute `EXTRA_QCM` : les mises en situation de la source SITUATION qui
+ * ont de vrais choix et étaient auparavant bloquées en flashcards (donc jamais
+ * jouables). Déduplication par `id` par sécurité.
  */
-export const QUESTIONS: Question[] = ALL_RAW_QUESTIONS.map(adaptQuestion)
+const BASE_QUESTIONS: Question[] = ALL_RAW_QUESTIONS.map(adaptQuestion)
   .filter((q): q is Question => q !== null)
   .filter((q) => q.choices.length >= 2 && q.correctIndex >= 0);
+
+const questionSeen = new Set<string>();
+const questionAll: Question[] = [];
+for (const q of [...BASE_QUESTIONS, ...EXTRA_QCM]) {
+  if (questionSeen.has(q.id)) continue;
+  questionSeen.add(q.id);
+  questionAll.push(q);
+}
+export const QUESTIONS: Question[] = questionAll;
 
 /**
  * Flashcards = celles déjà présentes dans `1-questions/_all.json` (32 issues

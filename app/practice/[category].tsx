@@ -34,6 +34,8 @@ import { QuitModal } from "@/components/QuitModal";
 import { THEME_LABELS } from "@/data/themes";
 import { GOAL_LABELS } from "@/data/questions";
 import { TARGETED_TESTS } from "@/data/extraContent";
+import { getBank } from "@/data/banks";
+import { getExplanation } from "@/lib/quizEngine";
 
 const LETTERS = ["A", "B", "C", "D"];
 const VALID: Category[] = ["NAT", "CSP", "CR"];
@@ -44,6 +46,7 @@ export default function Practice() {
     category?: string;
     themeId?: string;
     subTheme?: string;
+    bank?: string;
   }>();
   const user = useUserStore((s) => s.user);
 
@@ -70,6 +73,7 @@ export default function Practice() {
   const subThemeId = params.subTheme?.toString();
   const isTargetedTest =
     params.category?.toString() === "test" && !!subThemeId;
+  const bank = params.bank ? getBank(params.bank.toString()) : undefined;
 
   const initCategory: Category = useMemo(() => {
     const raw = params.category?.toString();
@@ -86,7 +90,7 @@ export default function Practice() {
           return;
         }
       }
-      startPractice(initCategory, 20);
+      startPractice(initCategory, 20, bank?.sources);
     }
   }, [
     session,
@@ -95,6 +99,7 @@ export default function Practice() {
     initCategory,
     isTargetedTest,
     subThemeId,
+    bank,
   ]);
 
   useEffect(() => {
@@ -176,7 +181,7 @@ export default function Practice() {
         </Pressable>
         <View style={styles.categoryChip}>
           <Text style={styles.categoryChipText} numberOfLines={1}>
-            Questions officielles · {GOAL_LABELS[initCategory]}
+            {bank?.label ?? "Questions officielles"} · {GOAL_LABELS[initCategory]}
           </Text>
         </View>
         <Pressable
@@ -278,7 +283,7 @@ export default function Practice() {
                 { color: Colors.onSurface, lineHeight: 22 },
               ]}
             >
-              {question.explanation}
+              {getExplanation(question)}
             </Text>
           </MotiView>
         ) : null}

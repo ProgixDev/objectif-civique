@@ -2,7 +2,7 @@ import { create } from "zustand";
 import { persist, createJSONStorage } from "zustand/middleware";
 import { zustandStorage } from "@/lib/storage";
 import { DailyStat, ThemeId } from "@/types";
-import { INITIAL_THEME_PROGRESS } from "@/data/mockUser";
+import { ProgressSnapshot } from "@/lib/mappers";
 import { todayKey } from "@/lib/formatters";
 import { evaluate } from "@/lib/achievementsEngine";
 
@@ -34,7 +34,12 @@ type ProgressState = {
   ) => string[];
   updateThemeProgress: (themeId: string, percent: number) => void;
   reset: () => void;
-  seedInitial: () => void;
+  /**
+   * Remplace l'état local par les données venues du backend (au login / à la
+   * restauration de session). N'applique que les champs de données, jamais les
+   * actions.
+   */
+  hydrateRemote: (snapshot: Partial<ProgressSnapshot>) => void;
 };
 
 const initial = {
@@ -171,13 +176,8 @@ export const useProgressStore = create<ProgressState>()(
           },
         })),
       reset: () => set({ ...initial }),
-      seedInitial: () =>
-        set((s) => ({
-          themeProgress: {
-            ...INITIAL_THEME_PROGRESS,
-            ...s.themeProgress,
-          },
-        })),
+      hydrateRemote: (snapshot) =>
+        set(() => ({ ...(snapshot as Partial<ProgressState>) })),
     }),
     {
       name: "objectif-civique-progress",

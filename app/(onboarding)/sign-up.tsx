@@ -27,8 +27,7 @@ import { Typography } from "@/constants/typography";
 import { Input } from "@/components/ui/Input";
 import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
-import { useUserStore } from "@/store/userStore";
-import { createId } from "@/lib/id";
+import { signUpWithEmail } from "@/lib/auth";
 import { useHaptics } from "@/hooks/useHaptics";
 import { toast } from "@/store/toastStore";
 
@@ -45,7 +44,6 @@ type FormData = z.infer<typeof schema>;
 
 export default function SignUp() {
   const insets = useSafeAreaInsets();
-  const setUser = useUserStore((s) => s.setUser);
   const haptics = useHaptics();
   const [showPwd, setShowPwd] = useState(false);
   const [submitting, setSubmitting] = useState(false);
@@ -65,35 +63,25 @@ export default function SignUp() {
   const onSubmit = async (data: FormData) => {
     setSubmitting(true);
     try {
-      await new Promise((r) => setTimeout(r, 600));
-
-      // 1) Crée et sauvegarde l'utilisateur d'abord — bloquant.
-      setUser({
-        id: createId("user"),
-        firstName: data.firstName.trim(),
-        email: data.email.trim().toLowerCase(),
-        goal: null,
-        deadline: null,
-        level: null,
-        channel: null,
-        companion: null,
-        createdAt: new Date().toISOString(),
-        subscriptionPlan: "free",
-        civicTestPassed: null,
-        languageTestStatus: null,
-        languageCertLevel: null,
+      // 1) Crée le compte côté backend (auth + profil + progression) — bloquant.
+      await signUpWithEmail({
+        firstName: data.firstName,
+        email: data.email,
+        password: data.password,
       });
 
       // 2) Haptique en fire-and-forget — ne doit jamais bloquer la navigation.
-      //    .catch() pour ne pas générer d'unhandled rejection si le module
-      //    haptique n'est pas dispo sur le device.
       Promise.resolve(haptics.success()).catch(() => {});
 
-      // 3) Navigation immédiate vers le 1er écran de perso.
+      // 3) Navigation vers le 1er écran de perso.
       router.replace("/(onboarding)/perso/step-1");
     } catch (err) {
-      // Affiche une erreur compréhensible plutôt que de crasher silencieusement.
-      toast.error("Une erreur est survenue. Veuillez réessayer.");
+      // Message d'erreur traduit renvoyé par lib/auth.
+      const msg =
+        err instanceof Error
+          ? err.message
+          : "Une erreur est survenue. Veuillez réessayer.";
+      toast.error(msg);
       console.warn("[sign-up] onSubmit failed", err);
     } finally {
       setSubmitting(false);

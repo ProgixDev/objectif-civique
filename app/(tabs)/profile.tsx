@@ -21,6 +21,7 @@ import {
   Shield,
   Sparkles,
   Star,
+  Trash2,
   User,
 } from "lucide-react-native";
 import { LinearGradient } from "expo-linear-gradient";
@@ -35,14 +36,33 @@ import { PLAN_LABELS } from "@/data/plans";
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
+import { signOut, deleteAccount } from "@/lib/auth";
 
 export default function Profile() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
   const user = useUserStore((s) => s.user);
-  const clearUser = useUserStore((s) => s.clearUser);
   const progress = useProgressStore();
   const [showLogout, setShowLogout] = useState(false);
+  const [showDelete, setShowDelete] = useState(false);
+  const [deleting, setDeleting] = useState(false);
+
+  const onDeleteAccount = async () => {
+    if (deleting) return;
+    setDeleting(true);
+    try {
+      await deleteAccount();
+      setShowDelete(false);
+      router.replace("/(onboarding)/welcome");
+    } catch (err) {
+      setShowDelete(false);
+      toast.error(
+        err instanceof Error ? err.message : "Échec de la suppression."
+      );
+    } finally {
+      setDeleting(false);
+    }
+  };
 
   const goalLabel = user?.goal ? GOAL_LABELS[user.goal] : "—";
   const presentation = getPresentation(user?.goal ?? null);
@@ -269,6 +289,20 @@ export default function Profile() {
           <ChevronRight size={16} color={Colors.error} />
         </Pressable>
 
+        {/* Suppression de compte (RGPD) */}
+        <Pressable
+          onPress={() => setShowDelete(true)}
+          style={({ pressed }) => [
+            styles.deleteRow,
+            pressed && { opacity: 0.7 },
+          ]}
+          accessibilityRole="button"
+          accessibilityLabel="Supprimer mon compte"
+        >
+          <Trash2 size={14} color={Colors.textTertiary} />
+          <Text style={styles.deleteLabel}>Supprimer mon compte</Text>
+        </Pressable>
+
         <Text style={styles.versionText}>Objectif Civique · v1.0.0</Text>
 
         <QuitModal
@@ -278,10 +312,19 @@ export default function Profile() {
           onCancel={() => setShowLogout(false)}
           onConfirm={() => {
             setShowLogout(false);
-            clearUser();
+            void signOut();
             router.replace("/(onboarding)/welcome");
           }}
           confirmLabel="Se déconnecter"
+        />
+
+        <QuitModal
+          visible={showDelete}
+          title="Supprimer le compte ?"
+          message="Cette action est définitive : votre compte, votre profil et toute votre progression seront effacés. Impossible d'annuler."
+          onCancel={() => setShowDelete(false)}
+          onConfirm={onDeleteAccount}
+          confirmLabel={deleting ? "Suppression…" : "Supprimer définitivement"}
         />
       </ScrollView>
     </View>
@@ -658,6 +701,21 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: Colors.error,
     letterSpacing: -0.1,
+  },
+
+  deleteRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 6,
+    paddingVertical: 14,
+    marginTop: 6,
+  },
+  deleteLabel: {
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 12.5,
+    color: Colors.textTertiary,
+    letterSpacing: 0.1,
   },
 
   versionText: {

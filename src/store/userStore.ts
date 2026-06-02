@@ -31,15 +31,18 @@ export const useUserStore = create<UserState>()(
       // Version du schéma persistant : bumpe ce nombre si la forme de `User`
       // change de manière incompatible. Zustand efface alors le state
       // persistant obsolète au prochain démarrage.
-      version: 2,
+      // v3 : passage au backend Supabase — `User.id` correspond désormais à
+      // l'uid d'auth.users. On purge les anciens users mock locaux.
+      version: 3,
       migrate: () => ({
         // Si on hydrate depuis une version antérieure, on remet à zéro.
         user: null,
         hydrated: false,
       }),
-      onRehydrateStorage: () => (state) => {
-        state?.setHydrated(true);
-      },
+      // NB : on NE pose PAS `hydrated` ici. C'est `restoreSession()` (lib/auth)
+      // qui devient l'autorité : il attend l'hydratation du persist, vérifie la
+      // session Supabase, puis pose `hydrated = true`. Évite de naviguer avant
+      // d'avoir réconcilié l'état local avec le backend.
     }
   )
 );

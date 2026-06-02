@@ -49,6 +49,7 @@ const raw = rawExtra as RawExtraContent;
 /** Adapte une question brute au format `Question` de l'app. */
 function adapt(q: RawQuestion): Question | null {
   if (!q.theme) return null;
+  const hasChoices = q.choices.length > 0;
   return {
     id: q.id,
     shortId: q.shortId,
@@ -58,25 +59,38 @@ function adapt(q: RawQuestion): Question | null {
     choices: q.choices.map((c) => c.text),
     correctIndex: q.correctIndex,
     explanation: q.explanation,
-    type:
-      q.choices.length === 0
-        ? "flashcard"
-        : q.choices.length > 0
-          ? "qcm"
-          : "qcm",
+    type: hasChoices ? "qcm" : "flashcard",
     isOfficial: false,
+    // Conserve la provenance FULL-DATA (PREPA-INTENSE, SITUATION, APPRENDRE, …)
+    // pour pouvoir organiser et filtrer par banque dans l'app.
+    source: q.source,
   };
 }
 
 /**
- * Flashcards additionnelles (APPRENDRE + PREPA-INTENSE + REFERENTIEL +
- * REFERENTIEL-OFFICIEL + SITUATION) déjà dédupliquées par id.
- *
- * Ces flashcards n'ont pas de choices QCM — c'est du Q/A pour réviser.
+ * Contenu additionnel adapté, dédupliqué par id (déjà fait au merge).
+ * On sépare ensuite selon la présence de choix QCM.
  */
-export const EXTRA_FLASHCARDS: Question[] = raw.flashcards
+const EXTRA_ALL: Question[] = raw.flashcards
   .map(adapt)
   .filter((q): q is Question => q !== null);
+
+/**
+ * Questions QCM additionnelles (mises en situation de la source SITUATION) —
+ * elles ont de vrais choix et doivent être jouables comme des QCM, pas
+ * seulement affichées en flashcards. Réinjectées dans le pool `QUESTIONS`.
+ */
+export const EXTRA_QCM: Question[] = EXTRA_ALL.filter(
+  (q) => q.choices.length >= 2 && q.correctIndex >= 0
+);
+
+/**
+ * Vraies flashcards Q/R additionnelles (APPRENDRE + PREPA-INTENSE +
+ * REFERENTIEL) — sans choix QCM, pour réviser en mode cartes.
+ */
+export const EXTRA_FLASHCARDS: Question[] = EXTRA_ALL.filter(
+  (q) => q.choices.length === 0
+);
 
 /**
  * Tests ciblés par sous-thème (acces-aux-soins, devise-symboles, etc.).

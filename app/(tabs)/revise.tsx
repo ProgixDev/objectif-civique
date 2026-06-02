@@ -26,6 +26,7 @@ import { EmptyState } from "@/components/EmptyState";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
 import { TARGETED_TESTS } from "@/data/extraContent";
+import { QCM_BANKS, FLASHCARD_BANKS, bankCount, Bank } from "@/data/banks";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
@@ -102,7 +103,7 @@ export default function Revise() {
 
   // Sous-onglets — "assimilation" affiché uniquement aux candidats NAT
   const subTabs: { key: SubTab; label: string }[] = [
-    { key: "officielles", label: "Officielles" },
+    { key: "officielles", label: "Banques" },
     { key: "themes", label: "Thèmes" },
     { key: "tests", label: "Tests ciblés" },
     { key: "flashcards", label: "Flashcards" },
@@ -204,18 +205,11 @@ export default function Revise() {
         </ScrollView>
 
         {subTab === "officielles" ? (
-          <OfficiellesSection
+          <BanksSection
             selected={selected}
             onSelectFilter={onSelectFilter}
-            totalQuestions={totalQuestions}
             activeCategory={activeCategory}
             bookmarkedQuestions={bookmarkedQuestions}
-            onStartPractice={() =>
-              router.push({
-                pathname: "/practice/[category]",
-                params: { category: activeCategory },
-              })
-            }
           />
         ) : null}
 
@@ -241,21 +235,94 @@ export default function Revise() {
 
 /* ---------- Sections ---------- */
 
-function OfficiellesSection({
+function BanksSection({
   selected,
   onSelectFilter,
-  totalQuestions,
   activeCategory,
   bookmarkedQuestions,
-  onStartPractice,
 }: {
   selected: FilterKey;
   onSelectFilter: (k: FilterKey) => void;
-  totalQuestions: number;
   activeCategory: Category;
   bookmarkedQuestions: typeof QUESTIONS;
-  onStartPractice: () => void;
 }) {
+  // QCM → entraînement à choix multiples ; flashcards → mode cartes Q/R.
+  const onOpenBank = (bank: Bank) => {
+    if (bank.kind === "flashcard") {
+      router.push({
+        pathname: "/flashcards/[slug]",
+        params: { slug: `bank-${bank.id}` },
+      });
+    } else {
+      router.push({
+        pathname: "/practice/[category]",
+        params: { category: activeCategory, bank: bank.id },
+      });
+    }
+  };
+
+  const renderBank = (bank: Bank) => {
+    const count = bankCount(bank, selected);
+    const Icon =
+      (LucideIcons as any)[bank.icon] ?? (LucideIcons as any).BookOpen;
+    const disabled = count === 0;
+    const unit = bank.kind === "flashcard" ? "cartes" : "questions";
+    return (
+      <Pressable
+        key={bank.id}
+        onPress={() => (disabled ? undefined : onOpenBank(bank))}
+        disabled={disabled}
+        style={({ pressed }) => [
+          styles.bankCard,
+          disabled && { opacity: 0.45 },
+          pressed && !disabled && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+        ]}
+        accessibilityRole="button"
+        accessibilityLabel={`${bank.label}, ${count} ${unit}`}
+      >
+        <View
+          style={[
+            styles.bankIcon,
+            bank.kind === "flashcard" && { backgroundColor: "#7a4ae0", shadowColor: "#7a4ae0" },
+          ]}
+        >
+          <Icon size={20} color={Colors.white} strokeWidth={2.2} />
+        </View>
+        <View style={{ flex: 1 }}>
+          <View style={styles.bankTitleRow}>
+            <Text style={styles.bankTitle} numberOfLines={1}>
+              {bank.label}
+            </Text>
+            <View
+              style={[
+                styles.bankKindBadge,
+                bank.kind === "flashcard"
+                  ? { backgroundColor: "rgba(122,74,224,0.12)" }
+                  : { backgroundColor: "rgba(0,85,164,0.10)" },
+              ]}
+            >
+              <Text
+                style={[
+                  styles.bankKindText,
+                  { color: bank.kind === "flashcard" ? "#7a4ae0" : Colors.primary },
+                ]}
+              >
+                {bank.kind === "flashcard" ? "CARTES" : "QCM"}
+              </Text>
+            </View>
+          </View>
+          <Text style={styles.bankSub} numberOfLines={1}>
+            {bank.description}
+          </Text>
+          <Text style={styles.bankCount}>
+            {count} {unit}
+          </Text>
+        </View>
+        <ChevronRight size={18} color={Colors.textTertiary} />
+      </Pressable>
+    );
+  };
+
   return (
     <View>
       {/* Filtres cas */}
@@ -289,36 +356,23 @@ function OfficiellesSection({
         })}
       </ScrollView>
 
-      {/* Programme officiel banner — affiche le cas sélectionné */}
-      <View style={styles.programmeBanner}>
-        <View style={styles.programmeBadge}>
-          <Text style={styles.programmeBadgeText}>
-            QUESTIONS OFFICIELLES ·{" "}
-            {selected === "Tous"
-              ? "TOUS LES CAS"
-              : GOAL_LABELS[selected].toUpperCase()}
-          </Text>
-        </View>
-        <Text style={styles.programmeTitle}>
-          {totalQuestions} questions disponibles
-        </Text>
-        <Text style={styles.programmeSub}>
-          Programme rédigé par l'équipe Objectif Civique, adapté à chaque
-          parcours (NAT, CSP, CR).
-        </Text>
-        <Pressable
-          onPress={onStartPractice}
-          style={({ pressed }) => [
-            styles.programmeCta,
-            pressed && { opacity: 0.92 },
-          ]}
-        >
-          <Text style={styles.programmeCtaText}>
-            Commencer l'entraînement
-          </Text>
-          <ChevronRight size={14} color={Colors.primary} />
-        </Pressable>
+      {/* Toutes les banques sources FULL-DATA — rien n'est laissé de côté. */}
+      <Text style={styles.banksIntro}>
+        Chaque banque correspond à une source du programme. Toutes les questions
+        sont exploitées.
+      </Text>
+
+      {/* QCM (à choix multiples) */}
+      <View style={[styles.sectionHeader, { marginTop: 4 }]}>
+        <Text style={styles.sectionLabel}>À choix multiples</Text>
       </View>
+      <View style={styles.banksList}>{QCM_BANKS.map(renderBank)}</View>
+
+      {/* Flashcards (question / réponse, sans choix) */}
+      <View style={[styles.sectionHeader, { marginTop: 22 }]}>
+        <Text style={styles.sectionLabel}>Cartes de révision</Text>
+      </View>
+      <View style={styles.banksList}>{FLASHCARD_BANKS.map(renderBank)}</View>
 
       {/* Marqués pour révision */}
       <View style={[styles.sectionHeader, { marginTop: 22 }]}>
@@ -338,7 +392,7 @@ function OfficiellesSection({
             title="Aucune question marquée"
             subtitle="Touchez l'icône signet pendant un entraînement pour les retrouver ici."
             cta="Commencer un entraînement"
-            onCta={onStartPractice}
+            onCta={() => onOpenBank(QCM_BANKS[0])}
           />
         </View>
       ) : (
@@ -836,6 +890,72 @@ const styles = StyleSheet.create({
     fontSize: 13,
     color: Colors.primary,
     letterSpacing: 0.2,
+  },
+
+  /* Banques */
+  banksIntro: {
+    fontFamily: "Inter_500Medium",
+    fontSize: 12.5,
+    lineHeight: 17,
+    color: Colors.textSecondary,
+    marginBottom: 12,
+  },
+  banksList: { gap: 10 },
+  bankCard: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 14,
+    padding: 14,
+    borderRadius: 18,
+    backgroundColor: Colors.white,
+    ...cardShadow,
+  },
+  bankIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: Colors.primary,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.28,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 4,
+  },
+  bankTitleRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+  },
+  bankTitle: {
+    flexShrink: 1,
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  bankKindBadge: {
+    paddingHorizontal: 7,
+    paddingVertical: 2,
+    borderRadius: 999,
+  },
+  bankKindText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 9,
+    letterSpacing: 0.6,
+  },
+  bankSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 11.5,
+    color: Colors.textSecondary,
+    marginTop: 2,
+  },
+  bankCount: {
+    fontFamily: "Satoshi_600SemiBold",
+    fontSize: 11.5,
+    color: Colors.primary,
+    marginTop: 4,
   },
 
   /* Section header générique */

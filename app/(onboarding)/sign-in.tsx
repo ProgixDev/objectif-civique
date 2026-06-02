@@ -19,8 +19,8 @@ import { Typography } from "@/constants/typography";
 import { Input } from "@/components/ui/Input";
 import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
-import { useUserStore } from "@/store/userStore";
-import { createId } from "@/lib/id";
+import { signInWithEmail, resetPassword } from "@/lib/auth";
+import { isPersoComplete } from "@/store/userStore";
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
 
@@ -32,47 +32,52 @@ type FormData = z.infer<typeof schema>;
 
 export default function SignIn() {
   const insets = useSafeAreaInsets();
-  const user = useUserStore((s) => s.user);
-  const setUser = useUserStore((s) => s.setUser);
   const haptics = useHaptics();
   const [showPwd, setShowPwd] = useState(false);
   const [submitting, setSubmitting] = useState(false);
 
-  const { control, handleSubmit, formState: { errors } } = useForm<FormData>({
-    resolver: zodResolver(schema),
-    defaultValues: { email: "", password: "" },
-  });
+  const { control, handleSubmit, getValues, formState: { errors } } =
+    useForm<FormData>({
+      resolver: zodResolver(schema),
+      defaultValues: { email: "", password: "" },
+    });
 
   const onSubmit = async (data: FormData) => {
     setSubmitting(true);
     try {
-      await new Promise((r) => setTimeout(r, 500));
-
-      let signed = user;
-      if (!signed || signed.email !== data.email.trim().toLowerCase()) {
-        signed = {
-          id: createId("user"),
-          firstName: "Étudiant",
-          email: data.email.trim().toLowerCase(),
-          goal: null,
-          deadline: null,
-          level: null,
-          channel: null,
-          companion: null,
-          createdAt: new Date().toISOString(),
-          subscriptionPlan: "free",
-          civicTestPassed: null,
-          languageTestStatus: null,
-          languageCertLevel: null,
-        };
-        setUser(signed);
-      }
+      const user = await signInWithEmail({
+        email: data.email,
+        password: data.password,
+      });
       Promise.resolve(haptics.success()).catch(() => {});
-      router.replace("/(tabs)");
+      // Profil incomplet → reprend l'onboarding ; sinon → app.
+      router.replace(
+        isPersoComplete(user) ? "/(tabs)" : "/(onboarding)/perso/step-1"
+      );
     } catch (err) {
+      const msg =
+        err instanceof Error
+          ? err.message
+          : "E-mail ou mot de passe incorrect.";
+      toast.error(msg);
       console.warn("[sign-in] onSubmit failed", err);
     } finally {
       setSubmitting(false);
+    }
+  };
+
+  const onForgotPassword = async () => {
+    const email = getValues("email").trim();
+    if (!email || !email.includes("@")) {
+      toast.info("Saisissez d'abord votre e-mail, puis touchez à nouveau.");
+      return;
+    }
+    try {
+      await resetPassword(email);
+      toast.success("E-mail de réinitialisation envoyé. Vérifiez votre boîte.");
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : "Échec de l'envoi.";
+      toast.error(msg);
     }
   };
 
@@ -154,9 +159,7 @@ export default function SignIn() {
         </View>
 
         <Pressable
-          onPress={() =>
-            toast.info("Cette fonctionnalité sera bientôt disponible.")
-          }
+          onPress={onForgotPassword}
           style={{ alignSelf: "flex-end", marginTop: 10, padding: 6 }}
         >
           <Text style={[Typography.button, { color: Colors.tertiary }]}>

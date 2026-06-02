@@ -29,7 +29,7 @@ import { GhostButton } from "@/components/ui/GhostButton";
 import { BottomSheet } from "@/components/ui/BottomSheet";
 import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
-import { scoreSession, isPass } from "@/lib/quizEngine";
+import { scoreSession, isPass, getExplanation } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
 import { getNextSimulation, isSimLocked } from "@/lib/simulations";
 import { toast } from "@/store/toastStore";
@@ -483,7 +483,7 @@ export default function Results() {
                   { color: Colors.onSurface, marginTop: 6 },
                 ]}
               >
-                {session.questions[openDetail].explanation}
+                {getExplanation(session.questions[openDetail])}
               </Text>
             </View>
             <PillButton

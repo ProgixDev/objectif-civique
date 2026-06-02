@@ -19,7 +19,9 @@ import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
 import { PillButton } from "@/components/ui/PillButton";
-import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
+import { FLASHCARD_QUESTIONS, GOAL_LABELS } from "@/data/questions";
+import { getBank } from "@/data/banks";
+import { getExplanation } from "@/lib/quizEngine";
 import { THEMES } from "@/data/themes";
 import { useProgressStore } from "@/store/progressStore";
 import { useHaptics } from "@/hooks/useHaptics";
@@ -34,17 +36,29 @@ export default function FlashcardDeck() {
   const toggleBookmark = useProgressStore((s) => s.toggleBookmark);
 
   const { deck, title } = useMemo(() => {
+    // Deck par banque (Prépa intense, Référentiel, Apprendre, Livret officiel)
+    if (slug?.startsWith("bank-")) {
+      const bank = getBank(slug.replace("bank-", ""));
+      if (bank) {
+        return {
+          deck: FLASHCARD_QUESTIONS.filter(
+            (q) => q.source != null && bank.sources.includes(q.source)
+          ),
+          title: bank.label,
+        };
+      }
+    }
     if (slug?.startsWith("theme-")) {
       const themeId = slug.replace("theme-", "") as ThemeId;
       const theme = THEMES.find((t) => t.id === themeId);
       return {
-        deck: QUESTIONS.filter((q) => q.theme === themeId),
+        deck: FLASHCARD_QUESTIONS.filter((q) => q.theme === themeId),
         title: theme?.name ?? "Thème",
       };
     }
     const cat = slug as Category;
     return {
-      deck: QUESTIONS.filter((q) => q.categories.includes(cat)),
+      deck: FLASHCARD_QUESTIONS.filter((q) => q.categories.includes(cat)),
       title: GOAL_LABELS[cat] ?? "Flashcards",
     };
   }, [slug]);
@@ -180,10 +194,12 @@ export default function FlashcardDeck() {
             <Text style={[styles.faceLabel, { color: Colors.white }]}>
               Réponse
             </Text>
-            <Text style={[styles.faceText, { color: Colors.white }]}>
-              {current.choices[current.correctIndex]}
-            </Text>
-            <Text style={styles.explanation}>{current.explanation}</Text>
+            {current.correctIndex >= 0 && current.choices[current.correctIndex] ? (
+              <Text style={[styles.faceText, { color: Colors.white }]}>
+                {current.choices[current.correctIndex]}
+              </Text>
+            ) : null}
+            <Text style={styles.explanation}>{getExplanation(current)}</Text>
           </Animated.View>
         </Pressable>
       </View>
