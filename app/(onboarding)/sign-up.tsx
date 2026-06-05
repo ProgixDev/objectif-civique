@@ -27,7 +27,8 @@ import { Typography } from "@/constants/typography";
 import { Input } from "@/components/ui/Input";
 import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
-import { signUpWithEmail } from "@/lib/auth";
+import { signUpWithEmail, signInWithGoogle } from "@/lib/auth";
+import { isPersoComplete } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { toast } from "@/store/toastStore";
 
@@ -236,9 +237,23 @@ export default function SignUp() {
 
         <View style={{ gap: 12 }}>
           <Pressable
-            onPress={() => {
+            onPress={async () => {
               haptics.light();
-              // TODO: wire Google OAuth
+              try {
+                const user = await signInWithGoogle();
+                if (!user) return;
+                router.replace(
+                  isPersoComplete(user)
+                    ? "/(tabs)"
+                    : "/(onboarding)/perso/step-1"
+                );
+              } catch (err) {
+                toast.error(
+                  err instanceof Error
+                    ? err.message
+                    : "Échec de la connexion Google."
+                );
+              }
             }}
             accessibilityRole="button"
             accessibilityLabel="Continuer avec Google"

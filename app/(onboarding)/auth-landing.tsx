@@ -16,15 +16,28 @@ import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
 import { IconTilePattern } from "@/components/IconTilePattern";
 import { useHaptics } from "@/hooks/useHaptics";
+import { signInWithGoogle } from "@/lib/auth";
+import { isPersoComplete } from "@/store/userStore";
+import { toast } from "@/store/toastStore";
 
 export default function AuthLanding() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
   const { height: screenHeight } = useWindowDimensions();
 
-  const onGoogle = () => {
+  const onGoogle = async () => {
     haptics.light();
-    // TODO: wire Google OAuth
+    try {
+      const user = await signInWithGoogle();
+      if (!user) return;
+      router.replace(
+        isPersoComplete(user) ? "/(tabs)" : "/(onboarding)/perso/step-1"
+      );
+    } catch (err) {
+      toast.error(
+        err instanceof Error ? err.message : "Échec de la connexion Google."
+      );
+    }
   };
   const onApple = () => {
     haptics.light();

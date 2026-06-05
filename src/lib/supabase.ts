@@ -38,6 +38,9 @@ export const supabase = createClient(
       persistSession: true,
       // Pas de redirection web/URL en natif.
       detectSessionInUrl: false,
+      // PKCE = flux OAuth recommandé en mobile (échange d'un code, pas de
+      // token dans l'URL). Requis par signInWithGoogle (lib/auth).
+      flowType: "pkce",
     },
   }
 );

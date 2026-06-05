@@ -22,6 +22,8 @@ import { GhostButton } from "@/components/ui/GhostButton";
 import { QuitModal } from "@/components/QuitModal";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
+import { usePrefsStore } from "@/store/prefsStore";
+import { scheduleDailyReminder, cancelDailyReminder } from "@/lib/notifications";
 import { toast } from "@/store/toastStore";
 
 const emailSchema = z.string().email();
@@ -34,9 +36,28 @@ export default function Settings() {
 
   const [firstName, setFirstName] = useState(user?.firstName ?? "");
   const [email, setEmail] = useState(user?.email ?? "");
-  const [notifDaily, setNotifDaily] = useState(true);
+  const remindersEnabled = usePrefsStore((s) => s.remindersEnabled);
+  const reminderHour = usePrefsStore((s) => s.reminderHour);
+  const setRemindersEnabled = usePrefsStore((s) => s.setRemindersEnabled);
   const [notifStreak, setNotifStreak] = useState(true);
   const [soundHaptic, setSoundHaptic] = useState(true);
+
+  const onToggleReminders = async (v: boolean) => {
+    if (v) {
+      const ok = await scheduleDailyReminder(reminderHour);
+      if (!ok) {
+        toast.error(
+          "Autorise les notifications dans les réglages du téléphone pour activer les rappels."
+        );
+        return;
+      }
+      setRemindersEnabled(true);
+      toast.success(`Rappel quotidien activé à ${reminderHour}h`);
+    } else {
+      await cancelDailyReminder();
+      setRemindersEnabled(false);
+    }
+  };
   const [modal, setModal] = useState<"faq" | "cgu" | "privacy" | "legal" | null>(null);
   const [showReset, setShowReset] = useState(false);
 
@@ -96,9 +117,9 @@ export default function Settings() {
 
         <Section title="Préférences">
           <ToggleRow
-            label="Notifications quotidiennes"
-            value={notifDaily}
-            onChange={setNotifDaily}
+            label="Rappel quotidien de révision"
+            value={remindersEnabled}
+            onChange={onToggleReminders}
           />
           <ToggleRow
             label="Rappel de série"

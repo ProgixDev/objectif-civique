@@ -1,3 +1,5 @@
+import * as WebBrowser from "expo-web-browser";
+import * as Linking from "expo-linking";
 import { supabase, isSupabaseConfigured } from "@/lib/supabase";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
@@ -93,6 +95,59 @@ export async function signInWithEmail(input: {
   // Restaure profil + progression depuis le backend.
   const pulled = await pullAll(data.user.id);
   const user = pulled ?? defaultUser(data.user.id, "", email);
+  if (!pulled) useUserStore.getState().setUser(user);
+  startSync(user.id);
+  return user;
+}
+
+/**
+ * Connexion via Google (OAuth, flux web PKCE).
+ * Ouvre le navigateur système, l'utilisateur choisit son compte Google, puis on
+ * échange le code contre une session Supabase. Le trigger SQL crée profil +
+ * progression au premier login. Retourne null si l'utilisateur annule.
+ *
+ * Prérequis Supabase : provider Google activé (Client ID + Secret) et l'URL
+ * `objectifcivique://auth-callback` ajoutée aux Redirect URLs autorisées.
+ */
+export async function signInWithGoogle(): Promise<User | null> {
+  ensureConfigured();
+  const redirectTo = Linking.createURL("auth-callback");
+
+  const { data, error } = await supabase.auth.signInWithOAuth({
+    provider: "google",
+    options: { redirectTo, skipBrowserRedirect: true },
+  });
+  if (error) throw new Error(frError(error.message));
+  if (!data?.url) throw new Error(frError(undefined));
+
+  const result = await WebBrowser.openAuthSessionAsync(data.url, redirectTo);
+  if (result.type !== "success" || !result.url) return null; // annulé
+
+  // Flux PKCE : la redirection contient `?code=...` à échanger.
+  const code = result.url.match(/[?&]code=([^&#]+)/)?.[1];
+  if (!code) throw new Error("Réponse Google invalide.");
+
+  const { error: exErr } = await supabase.auth.exchangeCodeForSession(
+    decodeURIComponent(code)
+  );
+  if (exErr) throw new Error(frError(exErr.message));
+
+  const {
+    data: { session },
+  } = await supabase.auth.getSession();
+  const authUser = session?.user;
+  if (!authUser) throw new Error(frError(undefined));
+
+  const pulled = await pullAll(authUser.id);
+  const user =
+    pulled ??
+    defaultUser(
+      authUser.id,
+      (authUser.user_metadata?.full_name as string) ??
+        (authUser.user_metadata?.name as string) ??
+        "",
+      authUser.email ?? ""
+    );
   if (!pulled) useUserStore.getState().setUser(user);
   startSync(user.id);
   return user;

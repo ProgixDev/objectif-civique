@@ -4,6 +4,8 @@ import { restoreSession } from "@/lib/auth";
 import { stopSync } from "@/lib/sync";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
+import { usePrefsStore } from "@/store/prefsStore";
+import { scheduleDailyReminder } from "@/lib/notifications";
 
 /**
  * Restaure la session au démarrage et réagit aux changements d'auth globaux
@@ -13,6 +15,11 @@ import { useProgressStore } from "@/store/progressStore";
 export function AuthSyncProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     restoreSession();
+
+    // Réinstaure le rappel quotidien si l'utilisateur l'avait activé
+    // (les notifications planifiées sont perdues après réinstallation/reboot).
+    const { remindersEnabled, reminderHour } = usePrefsStore.getState();
+    if (remindersEnabled) scheduleDailyReminder(reminderHour).catch(() => {});
 
     if (!isSupabaseConfigured) return;
 

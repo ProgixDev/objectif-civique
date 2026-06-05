@@ -19,7 +19,7 @@ import { Typography } from "@/constants/typography";
 import { Input } from "@/components/ui/Input";
 import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
-import { signInWithEmail, resetPassword } from "@/lib/auth";
+import { signInWithEmail, signInWithGoogle, resetPassword } from "@/lib/auth";
 import { isPersoComplete } from "@/store/userStore";
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
@@ -63,6 +63,21 @@ export default function SignIn() {
       console.warn("[sign-in] onSubmit failed", err);
     } finally {
       setSubmitting(false);
+    }
+  };
+
+  const onGoogle = async () => {
+    haptics.light();
+    try {
+      const user = await signInWithGoogle();
+      if (!user) return; // annulé par l'utilisateur
+      router.replace(
+        isPersoComplete(user) ? "/(tabs)" : "/(onboarding)/perso/step-1"
+      );
+    } catch (err) {
+      toast.error(
+        err instanceof Error ? err.message : "Échec de la connexion Google."
+      );
     }
   };
 
@@ -187,10 +202,7 @@ export default function SignIn() {
 
         <View style={{ gap: 12 }}>
           <Pressable
-            onPress={() => {
-              haptics.light();
-              // TODO: wire Google OAuth
-            }}
+            onPress={onGoogle}
             accessibilityRole="button"
             accessibilityLabel="Continuer avec Google"
             style={({ pressed }) => [

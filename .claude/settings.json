@@ -4,7 +4,8 @@
       "Bash(node -e ' *)",
       "Bash(npx expo-doctor *)",
       "Bash(npx eas-cli *)",
-      "Bash(echo \"TSC EXIT: $?\")"
+      "Bash(echo \"TSC EXIT: $?\")",
+      "Bash(node -e \"console.log\\('expo-notifications:', require\\('./node_modules/expo-notifications/package.json'\\).version\\)\")"
     ]
   }
 }

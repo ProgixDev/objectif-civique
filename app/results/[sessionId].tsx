@@ -49,6 +49,7 @@ export default function Results() {
 
   const session = useSessionStore((s) => s.current);
   const startPractice = useSessionStore((s) => s.startPractice);
+  const startTheme = useSessionStore((s) => s.startTheme);
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
   const subscriptionPlan =
@@ -324,19 +325,19 @@ export default function Results() {
         ) : null}
 
         <View style={{ gap: 10, marginTop: 24 }}>
-          <PillButton
-            label={recap.wrong > 0 ? "Revoir mes erreurs" : "Voir mes statistiques"}
-            size="md"
-            variant="primary"
-            fullWidth
-            onPress={() =>
-              recap.wrong > 0
-                ? router.replace("/(tabs)/revise")
-                : router.replace("/(tabs)/progress")
-            }
-          />
           {mode === "simulation" ? (
             <>
+              <PillButton
+                label={recap.wrong > 0 ? "Revoir mes erreurs" : "Voir mes statistiques"}
+                size="md"
+                variant="primary"
+                fullWidth
+                onPress={() =>
+                  recap.wrong > 0
+                    ? router.replace("/(tabs)/revise")
+                    : router.replace("/(tabs)/progress")
+                }
+              />
               {nextSim ? (
                 nextSimLocked ? (
                   <PillButton
@@ -386,19 +387,39 @@ export default function Results() {
               />
             </>
           ) : (
-            <GhostButton
-              label="Recommencer"
-              size="md"
-              fullWidth
-              onPress={() => {
-                const cat = (params.category as Category) ?? "NAT";
-                startPractice(cat, 20);
-                router.replace({
-                  pathname: "/practice/[category]",
-                  params: { category: cat },
-                });
-              }}
-            />
+            <>
+              <PillButton
+                label="Questions suivantes"
+                size="md"
+                variant="primary"
+                fullWidth
+                rightIcon={<ChevronRight size={16} color={Colors.white} />}
+                onPress={() => {
+                  const cat = (params.category as Category) ?? "NAT";
+                  if (params.themeId) {
+                    startTheme(params.themeId as ThemeId, 20);
+                  } else {
+                    startPractice(cat, 20);
+                  }
+                  router.replace({
+                    pathname: "/practice/[category]",
+                    params: params.themeId
+                      ? { category: cat, themeId: params.themeId }
+                      : { category: cat },
+                  });
+                }}
+              />
+              <GhostButton
+                label={recap.wrong > 0 ? "Revoir mes erreurs" : "Voir mes statistiques"}
+                size="md"
+                fullWidth
+                onPress={() =>
+                  recap.wrong > 0
+                    ? router.replace("/(tabs)/revise")
+                    : router.replace("/(tabs)/progress")
+                }
+              />
+            </>
           )}
           <GhostButton
             label="Retour à l'accueil"

@@ -11,7 +11,7 @@ import * as LucideIcons from "lucide-react-native";
 import {
   BookOpen,
   ChevronLeft,
-  CircleDashed,
+  ChevronRight,
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
@@ -21,7 +21,6 @@ import { GlassCard } from "@/components/ui/GlassCard";
 import { Badge } from "@/components/ui/Badge";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { PillButton } from "@/components/ui/PillButton";
-import { GhostButton } from "@/components/ui/GhostButton";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS } from "@/data/questions";
 import { LESSONS } from "@/data/lessons";
@@ -66,6 +65,18 @@ export default function ThemeDetail() {
     : 0;
 
   const lesson = LESSONS[themeId];
+
+  const startThemePractice = () => {
+    if (filtered.length === 0) {
+      toast.info("Aucune question dans ce thème pour ce filtre.");
+      return;
+    }
+    startTheme(themeId, Math.min(20, filtered.length));
+    router.push({
+      pathname: "/practice/[category]",
+      params: { category: cat === "Tous" ? "NAT" : cat, themeId },
+    });
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -117,17 +128,7 @@ export default function ThemeDetail() {
             size="md"
             variant="primary"
             fullWidth
-            onPress={() => {
-              if (filtered.length === 0) {
-                toast.info("Aucune question dans ce thème pour ce filtre.");
-                return;
-              }
-              startTheme(themeId, Math.min(20, filtered.length));
-              router.push({
-                pathname: "/practice/[category]",
-                params: { category: cat === "Tous" ? "NAT" : cat, themeId },
-              });
-            }}
+            onPress={startThemePractice}
             style={{ marginTop: 12 }}
           />
         </GlassCard>
@@ -179,12 +180,25 @@ export default function ThemeDetail() {
           </View>
         ) : null}
 
-        <Text style={styles.sectionTitle}>Questions</Text>
-        <Text style={styles.sectionSub}>Aperçu</Text>
+        <View style={styles.questionsHeader}>
+          <Text style={styles.sectionTitle}>Questions</Text>
+          <Text style={styles.sectionCount}>{filtered.length}</Text>
+        </View>
+        <Text style={styles.sectionSub}>
+          Touchez une question pour démarrer la révision de ce thème.
+        </Text>
 
         <View style={{ gap: 8 }}>
-          {filtered.slice(0, 5).map((q, i) => (
-            <View key={q.id} style={styles.qRow}>
+          {filtered.map((q, i) => (
+            <Pressable
+              key={q.id}
+              onPress={startThemePractice}
+              style={({ pressed }) => [
+                styles.qRow,
+                pressed && { opacity: 0.85, transform: [{ scale: 0.99 }] },
+              ]}
+              accessibilityRole="button"
+            >
               <View style={styles.numBadge}>
                 <Text
                   style={[
@@ -201,20 +215,10 @@ export default function ThemeDetail() {
               >
                 {q.text}
               </Text>
-              <CircleDashed size={18} color={Colors.textTertiary} />
-            </View>
+              <ChevronRight size={18} color={Colors.textTertiary} />
+            </Pressable>
           ))}
         </View>
-
-        {filtered.length > 5 ? (
-          <GhostButton
-            label={`Voir toutes les questions (${filtered.length})`}
-            size="md"
-            fullWidth
-            onPress={() => toast.info("Aperçu complet bientôt disponible")}
-            style={{ marginTop: 12 }}
-          />
-        ) : null}
       </ScrollView>
     </View>
   );
@@ -258,12 +262,22 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: Colors.onSurface,
   },
+  questionsHeader: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+  },
   sectionTitle: {
     fontFamily: "Inter_700Bold",
     fontSize: 14,
     color: Colors.onSurface,
     letterSpacing: 0.3,
     textTransform: "uppercase",
+  },
+  sectionCount: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 13,
+    color: Colors.primary,
   },
   sectionSub: {
     fontFamily: "Inter_400Regular",
