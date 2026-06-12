@@ -1,7 +1,27 @@
 import { create } from "zustand";
 import { Answer, Category, Question, Session, ThemeId, Recap } from "@/types";
 import { pickQuestions, scoreSession, shuffleChoices } from "@/lib/quizEngine";
+import { QUESTIONS } from "@/data/questions";
 import { createId } from "@/lib/id";
+
+/** Filtre d'origine commun aux écrans Thème et Entraînement. */
+export type ThemeFilter = Category | "Tous";
+
+/**
+ * Questions d'un thème pour un cas donné, dans l'ordre naturel du pool.
+ * Partagé par l'écran de détail du thème et la session de révision, afin que
+ * l'index de la question touchée corresponde exactement à la session.
+ */
+export function themeQuestions(
+  themeId: ThemeId,
+  category: ThemeFilter
+): Question[] {
+  return QUESTIONS.filter(
+    (q) =>
+      q.theme === themeId &&
+      (category === "Tous" || q.categories.includes(category))
+  );
+}
 
 type SessionState = {
   current: Session | null;
@@ -9,14 +29,29 @@ type SessionState = {
   startPractice: (
     category: Category,
     count?: number,
-    source?: string | string[]
+    source?: string | string[],
+    originKey?: string
   ) => void;
   startTheme: (themeId: ThemeId, count?: number) => void;
+  /**
+   * Révision d'un thème : toutes les questions du thème (pour le cas donné),
+   * dans l'ordre du pool, positionnées sur la question touchée (`startIndex`).
+   * Type "practice" pour réutiliser l'écran d'entraînement.
+   */
+  startThemeReview: (
+    themeId: ThemeId,
+    category: ThemeFilter,
+    startIndex?: number
+  ) => void;
   /**
    * Démarre une session "test ciblé" avec un set de questions explicite
    * (sous-thèmes du dossier `Tests/` du client).
    */
-  startTargetedTest: (label: string, questions: Question[]) => void;
+  startTargetedTest: (
+    label: string,
+    questions: Question[],
+    originKey?: string
+  ) => void;
   startSimulation: (opts?: {
     category?: Category;
     themes?: ThemeId[];
@@ -42,7 +77,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
   current: null,
   currentIndex: 0,
 
-  startPractice: (category, count = 20, source) => {
+  startPractice: (category, count = 20, source, originKey) => {
     const questions = pickQuestions({ category, count, source });
     set({
       current: {
@@ -52,6 +87,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
         questions,
         answers: [],
         startedAt: new Date().toISOString(),
+        originKey,
       },
       currentIndex: 0,
     });
@@ -72,7 +108,30 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     });
   },
 
-  startTargetedTest: (label, questions) => {
+  startThemeReview: (themeId, category, startIndex = 0) => {
+    const questions = themeQuestions(themeId, category).map(shuffleChoices);
+    const safeIndex =
+      questions.length === 0
+        ? 0
+        : Math.max(0, Math.min(startIndex, questions.length - 1));
+    set({
+      current: {
+        id: createId("theme"),
+        type: "practice",
+        category: category === "Tous" ? undefined : category,
+        themeId,
+        questions,
+        answers: [],
+        startedAt: new Date().toISOString(),
+        // `startIndex` (et non `safeIndex`) pour coller à la clé calculée par
+        // l'écran d'entraînement et éviter une reconstruction au re-rendu.
+        originKey: `theme:${themeId}:${category}:${startIndex}`,
+      },
+      currentIndex: safeIndex,
+    });
+  },
+
+  startTargetedTest: (label, questions, originKey) => {
     set({
       current: {
         id: createId("test"),
@@ -80,6 +139,7 @@ export const useSessionStore = create<SessionState>((set, get) => ({
         questions: questions.map(shuffleChoices),
         answers: [],
         startedAt: new Date().toISOString(),
+        originKey,
       },
       currentIndex: 0,
     });

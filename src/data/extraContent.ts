@@ -1,5 +1,6 @@
 import { Category, Question, ThemeId } from "@/types";
 import rawExtra from "./extraContent.json";
+import { resolveExplanation } from "./explanationLookup";
 
 /**
  * Contenu additionnel compilé depuis les nouveaux dossiers FULL-DATA :
@@ -58,7 +59,14 @@ function adapt(q: RawQuestion): Question | null {
     text: q.statement,
     choices: q.choices.map((c) => c.text),
     correctIndex: q.correctIndex,
-    explanation: q.explanation,
+    // Les questions des dossiers Tests/ et Simulations/ ont des `id` distincts
+    // et un `explanation` vide : on récupère l'explication par énoncé depuis le
+    // pool officiel/IA. Voir `explanationLookup.ts`.
+    explanation: resolveExplanation({
+      id: q.id,
+      statement: q.statement,
+      explanation: q.explanation,
+    }),
     type: hasChoices ? "qcm" : "flashcard",
     isOfficial: false,
     // Conserve la provenance FULL-DATA (PREPA-INTENSE, SITUATION, APPRENDRE, …)

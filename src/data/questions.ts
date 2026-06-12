@@ -1,18 +1,7 @@
 import { Category, Question, QuestionType, ThemeId } from "@/types";
 import rawAllQuestions from "../../FULL-DATA/1-questions/_all.json";
 import { EXTRA_FLASHCARDS, EXTRA_QCM } from "./extraContent";
-import rawGeneratedExplanations from "./explanations.generated.json";
-
-/**
- * Explications générées par IA (Groq), ancrées sur la bonne réponse connue,
- * pour les questions officielles qui n'en avaient pas. Utilisées UNIQUEMENT en
- * complément, jamais en remplacement d'une explication source.
- * Voir `scripts/generate-explanations.mjs`.
- */
-const GENERATED_EXPLANATIONS = rawGeneratedExplanations as Record<
-  string,
-  string
->;
+import { resolveExplanation } from "./explanationLookup";
 
 /**
  * Pool de questions de l'app — chargé depuis FULL-DATA (data client).
@@ -104,12 +93,14 @@ function adaptQuestion(raw: RawQuestion): Question | null {
     text: raw.statement,
     choices: choices.map((c) => c.text),
     correctIndex,
-    // Explication source si présente, sinon explication IA générée (overlay),
-    // sinon vide → le runtime affichera le fallback « La bonne réponse est… ».
-    explanation:
-      (raw.explanation && raw.explanation.trim()) ||
-      GENERATED_EXPLANATIONS[raw.id] ||
-      "",
+    // Explication source si présente, sinon explication IA générée (par id ou
+    // par énoncé), sinon vide → le runtime affichera le repli « La bonne
+    // réponse est… ». Voir `explanationLookup.ts`.
+    explanation: resolveExplanation({
+      id: raw.id,
+      statement: raw.statement,
+      explanation: raw.explanation,
+    }),
     type,
     isOfficial,
     source: deriveSource(type, isOfficial),

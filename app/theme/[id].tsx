@@ -25,7 +25,6 @@ import { THEMES } from "@/data/themes";
 import { QUESTIONS } from "@/data/questions";
 import { LESSONS } from "@/data/lessons";
 import { useProgressStore } from "@/store/progressStore";
-import { useSessionStore } from "@/store/sessionStore";
 import { Category, ThemeId } from "@/types";
 import { toast } from "@/store/toastStore";
 
@@ -44,7 +43,6 @@ export default function ThemeDetail() {
 
   const themeProgress = useProgressStore((s) => s.themeProgress);
   const sessionsHistory = useProgressStore((s) => s.sessionsHistory);
-  const startTheme = useSessionStore((s) => s.startTheme);
 
   const filtered = useMemo(
     () =>
@@ -66,15 +64,25 @@ export default function ThemeDetail() {
 
   const lesson = LESSONS[themeId];
 
-  const startThemePractice = () => {
+  /**
+   * Ouvre la révision du thème, positionnée sur la question touchée. L'écran
+   * d'entraînement reconstruit une session contenant toutes les questions du
+   * thème (pour ce cas), dans le même ordre que la liste affichée ici — d'où
+   * la correspondance exacte de `startIndex`.
+   */
+  const openThemeAt = (index: number) => {
     if (filtered.length === 0) {
       toast.info("Aucune question dans ce thème pour ce filtre.");
       return;
     }
-    startTheme(themeId, Math.min(20, filtered.length));
     router.push({
       pathname: "/practice/[category]",
-      params: { category: cat === "Tous" ? "NAT" : cat, themeId },
+      params: {
+        category: cat === "Tous" ? "NAT" : cat,
+        themeId,
+        themeCat: cat,
+        startIndex: String(index),
+      },
     });
   };
 
@@ -128,7 +136,7 @@ export default function ThemeDetail() {
             size="md"
             variant="primary"
             fullWidth
-            onPress={startThemePractice}
+            onPress={() => openThemeAt(0)}
             style={{ marginTop: 12 }}
           />
         </GlassCard>
@@ -185,14 +193,14 @@ export default function ThemeDetail() {
           <Text style={styles.sectionCount}>{filtered.length}</Text>
         </View>
         <Text style={styles.sectionSub}>
-          Touchez une question pour démarrer la révision de ce thème.
+          Touchez une question pour la réviser dans ce thème.
         </Text>
 
         <View style={{ gap: 8 }}>
           {filtered.map((q, i) => (
             <Pressable
               key={q.id}
-              onPress={startThemePractice}
+              onPress={() => openThemeAt(i)}
               style={({ pressed }) => [
                 styles.qRow,
                 pressed && { opacity: 0.85, transform: [{ scale: 0.99 }] },

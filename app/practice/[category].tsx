@@ -19,8 +19,8 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { Category } from "@/types";
-import { useSessionStore } from "@/store/sessionStore";
+import { Category, ThemeId } from "@/types";
+import { useSessionStore, ThemeFilter } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
 import { GlassCard } from "@/components/ui/GlassCard";
@@ -33,7 +33,7 @@ import { useHaptics } from "@/hooks/useHaptics";
 import { QuitModal } from "@/components/QuitModal";
 import { THEME_LABELS } from "@/data/themes";
 import { GOAL_LABELS } from "@/data/questions";
-import { TARGETED_TESTS } from "@/data/extraContent";
+import { findCivicTest, CivicTestKind } from "@/data/civicTests";
 import { getBank } from "@/data/banks";
 import { getExplanation } from "@/lib/quizEngine";
 
@@ -45,7 +45,10 @@ export default function Practice() {
   const params = useLocalSearchParams<{
     category?: string;
     themeId?: string;
+    themeCat?: string;
+    startIndex?: string;
     subTheme?: string;
+    testKind?: string;
     bank?: string;
   }>();
   const user = useUserStore((s) => s.user);
@@ -53,6 +56,7 @@ export default function Practice() {
   const session = useSessionStore((s) => s.current);
   const currentIndex = useSessionStore((s) => s.currentIndex);
   const startPractice = useSessionStore((s) => s.startPractice);
+  const startThemeReview = useSessionStore((s) => s.startThemeReview);
   const startTargetedTest = useSessionStore((s) => s.startTargetedTest);
   const answerCurrent = useSessionStore((s) => s.answerCurrent);
   const goNext = useSessionStore((s) => s.goNext);
@@ -71,9 +75,15 @@ export default function Practice() {
   const [showQuit, setShowQuit] = useState(false);
 
   const subThemeId = params.subTheme?.toString();
+  const testKind = (params.testKind?.toString() as CivicTestKind) ?? "chapter";
   const isTargetedTest =
     params.category?.toString() === "test" && !!subThemeId;
   const bank = params.bank ? getBank(params.bank.toString()) : undefined;
+
+  // Contexte « révision par thème » : themeId + cas filtré + question touchée.
+  const themeId = params.themeId?.toString() as ThemeId | undefined;
+  const themeCat = (params.themeCat?.toString() as ThemeFilter) ?? "Tous";
+  const startIndex = params.startIndex ? Number(params.startIndex) : 0;
 
   const initCategory: Category = useMemo(() => {
     const raw = params.category?.toString();
@@ -81,26 +91,36 @@ export default function Practice() {
     return (user?.goal as Category) ?? "NAT";
   }, [params.category, user?.goal]);
 
+  /**
+   * Clé du contexte d'origine. L'écran reconstruit la session quand elle change
+   * (nouveau thème, nouvelle banque, autre question touchée) et la conserve
+   * sinon (navigation entre questions, retour arrière) pour ne pas tout perdre.
+   */
+  const originKey = isTargetedTest
+    ? `test:${testKind}:${subThemeId}`
+    : themeId
+    ? `theme:${themeId}:${themeCat}:${startIndex}`
+    : bank
+    ? `bank:${bank.id}:${initCategory}`
+    : `practice:${initCategory}`;
+
   useEffect(() => {
-    if (!session || session.type !== "practice") {
-      if (isTargetedTest && subThemeId) {
-        const test = TARGETED_TESTS.find((t) => t.id === subThemeId);
-        if (test && test.questions.length > 0) {
-          startTargetedTest(test.title, test.questions);
-          return;
-        }
+    // Conserver la session en cours uniquement si même contexte ET non terminée.
+    if (session && session.originKey === originKey && !session.endedAt) return;
+    if (isTargetedTest && subThemeId) {
+      const test = findCivicTest(testKind, subThemeId);
+      if (test && test.questions.length > 0) {
+        startTargetedTest(test.title, test.questions, originKey);
+        return;
       }
-      startPractice(initCategory, 20, bank?.sources);
     }
-  }, [
-    session,
-    startPractice,
-    startTargetedTest,
-    initCategory,
-    isTargetedTest,
-    subThemeId,
-    bank,
-  ]);
+    if (themeId) {
+      startThemeReview(themeId, themeCat, startIndex);
+      return;
+    }
+    startPractice(initCategory, 20, bank?.sources, originKey);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [originKey]);
 
   useEffect(() => {
     if (!session) return;
@@ -181,7 +201,12 @@ export default function Practice() {
         </Pressable>
         <View style={styles.categoryChip}>
           <Text style={styles.categoryChipText} numberOfLines={1}>
-            {bank?.label ?? "Questions officielles"} · {GOAL_LABELS[initCategory]}
+            {isTargetedTest && subThemeId
+              ? findCivicTest(testKind, subThemeId)?.title ?? "Test"
+              : themeId
+              ? THEME_LABELS[themeId] ?? "Thème"
+              : bank?.label ?? "Questions officielles"}{" "}
+            · {GOAL_LABELS[initCategory]}
           </Text>
         </View>
         <Pressable

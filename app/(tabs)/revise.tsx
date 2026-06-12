@@ -25,7 +25,7 @@ import { ProgressBar } from "@/components/ui/ProgressBar";
 import { EmptyState } from "@/components/EmptyState";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
-import { TARGETED_TESTS } from "@/data/extraContent";
+import { CHAPTER_TESTS, CATEGORY_TESTS, CivicTest } from "@/data/civicTests";
 import { QCM_BANKS, FLASHCARD_BANKS, bankCount, Bank } from "@/data/banks";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
@@ -105,7 +105,7 @@ export default function Revise() {
   const subTabs: { key: SubTab; label: string }[] = [
     { key: "officielles", label: "Banques" },
     { key: "themes", label: "Thèmes" },
-    { key: "tests", label: "Tests ciblés" },
+    { key: "tests", label: "Tests" },
     { key: "flashcards", label: "Flashcards" },
     ...(userGoal === "NAT"
       ? [{ key: "assimilation" as SubTab, label: "Assimilation" }]
@@ -496,43 +496,62 @@ function ThemesSection({
   );
 }
 
-/* ───── Tests ciblés par sous-thème ───── */
+/* ───── Tests — par chapitre & par catégories (dossiers FULL-DATA) ───── */
 
 function TargetedTestsSection() {
+  const openTest = (kind: "chapter" | "category", test: CivicTest) => {
+    router.push({
+      pathname: "/practice/[category]",
+      params: { category: "test", testKind: kind, subTheme: test.id },
+    });
+  };
+
+  const renderTest = (kind: "chapter" | "category", test: CivicTest) => (
+    <Pressable
+      key={`${kind}-${test.id}`}
+      onPress={() => openTest(kind, test)}
+      style={({ pressed }) => [styles.testCard, pressed && { opacity: 0.92 }]}
+    >
+      <View style={styles.testIconWrap}>
+        <Text style={styles.testIconText}>{test.questions.length}</Text>
+      </View>
+      <View style={{ flex: 1 }}>
+        <Text style={styles.testTitle} numberOfLines={1}>
+          {test.title}
+        </Text>
+        <Text style={styles.testSub}>{test.questions.length} questions</Text>
+      </View>
+      <ChevronRight size={16} color={Colors.textTertiary} />
+    </Pressable>
+  );
+
   return (
     <View>
+      {/* Test par chapitre */}
+      <View style={styles.sectionHeader}>
+        <Text style={styles.sectionLabel}>Test par chapitre</Text>
+        <Text style={styles.sectionCount}>{CHAPTER_TESTS.length} chapitres</Text>
+      </View>
       <Text style={styles.testsIntro}>
-        Tests rapides par sous-thème (10–20 questions ciblées).
+        Révisez un chapitre précis du programme (laïcité, droits fondamentaux,
+        institutions…).
       </Text>
       <View style={styles.testsList}>
-        {TARGETED_TESTS.filter((t) => t.questions.length > 0).map((t) => (
-          <Pressable
-            key={t.id}
-            onPress={() =>
-              router.push({
-                pathname: "/practice/[category]",
-                params: { category: "test", subTheme: t.id },
-              })
-            }
-            style={({ pressed }) => [
-              styles.testCard,
-              pressed && { opacity: 0.92 },
-            ]}
-          >
-            <View style={styles.testIconWrap}>
-              <Text style={styles.testIconText}>{t.questions.length}</Text>
-            </View>
-            <View style={{ flex: 1 }}>
-              <Text style={styles.testTitle} numberOfLines={1}>
-                {t.title}
-              </Text>
-              <Text style={styles.testSub}>
-                {t.questions.length} questions ciblées
-              </Text>
-            </View>
-            <ChevronRight size={16} color={Colors.textTertiary} />
-          </Pressable>
-        ))}
+        {CHAPTER_TESTS.map((t) => renderTest("chapter", t))}
+      </View>
+
+      {/* Test par catégories */}
+      <View style={[styles.sectionHeader, { marginTop: 24 }]}>
+        <Text style={styles.sectionLabel}>Test par catégories</Text>
+        <Text style={styles.sectionCount}>
+          {CATEGORY_TESTS.length} catégories
+        </Text>
+      </View>
+      <Text style={styles.testsIntro}>
+        Tests de l'examen civique regroupés par grande catégorie.
+      </Text>
+      <View style={styles.testsList}>
+        {CATEGORY_TESTS.map((t) => renderTest("category", t))}
       </View>
     </View>
   );

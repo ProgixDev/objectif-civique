@@ -121,6 +121,14 @@ export type Session = {
    * Utilisée par l'écran de résultats pour proposer la simu suivante.
    */
   simKey?: string;
+  /**
+   * Clé décrivant le contexte d'origine de la session d'entraînement
+   * (ex: `theme:histoire-geographie-culture:NAT`, `bank:officielles:NAT`,
+   * `practice:NAT`, `test:histoire`). L'écran d'entraînement s'en sert pour
+   * savoir s'il doit reconstruire la session (contexte différent) ou conserver
+   * celle en cours (retour arrière / navigation entre questions).
+   */
+  originKey?: string;
 };
 
 export type Plan = {

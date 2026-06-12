@@ -5,7 +5,16 @@
       "Bash(npx expo-doctor *)",
       "Bash(npx eas-cli *)",
       "Bash(echo \"TSC EXIT: $?\")",
-      "Bash(node -e \"console.log\\('expo-notifications:', require\\('./node_modules/expo-notifications/package.json'\\).version\\)\")"
+      "Bash(node -e \"console.log\\('expo-notifications:', require\\('./node_modules/expo-notifications/package.json'\\).version\\)\")",
+      "Bash(node -e 'const f=require\\(\"./FULL-DATA/Tests/histoire-all.json\"\\); console.log\\(\"type:\",Array.isArray\\(f\\)?\"array len \"+f.length:typeof f\\); console.log\\(JSON.stringify\\(Array.isArray\\(f\\)?f[0]:Object.keys\\(f\\),null,1\\).slice\\(0,800\\)\\);')",
+      "Bash(echo \"===Session type===\" && grep -n \"Session\" src/types/index.ts | head && sed -n '/export type Session/,/};/p' src/types/index.ts)",
+      "Bash(node -e 'const f=require\\(\"./FULL-DATA/Tests_test_civique/histoire-all.json\"\\); console.log\\(Array.isArray\\(f\\)?\"array len \"+f.length:typeof f+\" keys \"+Object.keys\\(f\\)\\); const s=Array.isArray\\(f\\)?f[0]:f; console.log\\(JSON.stringify\\(s,null,1\\).slice\\(0,700\\)\\);')",
+      "Bash(node -e 'const fs=require\\(\"fs\"\\); try{const e=fs.readFileSync\\(\".env\",\"utf-8\"\\); const m=e.match\\(/^GROQ_API_KEY\\\\s*=\\\\s*\\(.+\\)$/m\\); console.log\\(\"GROQ_API_KEY présent:\", !!\\(m && m[1].trim\\(\\)\\), m?\\(\"\\(longueur \"+m[1].trim\\(\\).length+\"\\)\"\\):\"\" \\);}catch\\(e\\){console.log\\(\"pas de .env:\",e.message\\);}')",
+      "Bash(node scripts/add-test-explanations.mjs)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Hp\\objectif-civique\\src\\types",
+      "c:\\Users\\Hp\\.claude\\projects\\c--Users-Hp-objectif-civique\\memory"
     ]
   }
 }
