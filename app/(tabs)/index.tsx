@@ -40,6 +40,7 @@ import { GOAL_LABELS } from "@/data/questions";
 import { THEMES } from "@/data/themes";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
+import { isPaid } from "@/lib/entitlements";
 
 const TOTAL_QUESTION_BANK = 2500;
 const FLASHCARD_TARGET = 50;
@@ -212,7 +213,7 @@ export default function HomeTab() {
           </View>
         </View>
         {/* Forfait CTA — shown only while on free plan */}
-        {(user?.subscriptionPlan ?? "free") === "free" ? (
+        {!isPaid(user) ? (
           <Pressable
             onPress={go(() => router.push("/subscription"))}
             style={({ pressed }) => [

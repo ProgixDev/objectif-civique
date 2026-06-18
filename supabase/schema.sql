@@ -17,13 +17,32 @@ create table if not exists public.profiles (
   level               text,             -- 'debutant' | 'intermediaire' | 'avance' | 'inconnu'
   channel             text,
   companion           text,
-  subscription_plan   text not null default 'free',  -- 'free' | 'monthly' | 'quarterly' | 'lifetime'
+  subscription_plan   text not null default 'free',  -- 'free' | 'discovery' | 'premium' | 'silver' | 'gold' | 'diamond' | 'vip'
+  subscription_status text,             -- 'active' | 'trialing' | 'past_due' | 'canceled' | 'incomplete' | 'expired'
+  subscription_expires_at timestamptz,  -- fin d'accès (null = à vie / gratuit)
+  stripe_customer_id  text unique,      -- id client Stripe (cus_…)
   civic_test_passed   boolean,
   language_test_status text,            -- 'passed' | 'not_yet' | 'planned'
   language_cert_level text,             -- 'A1'..'C2'
   created_at          timestamptz not null default now(),
   updated_at          timestamptz not null default now()
 );
+
+-- Migration douce si la table profiles existe déjà (idempotent).
+alter table public.profiles
+  add column if not exists subscription_status     text,
+  add column if not exists subscription_expires_at timestamptz,
+  add column if not exists stripe_customer_id       text;
+
+-- Unicité du client Stripe (ignore l'erreur si la contrainte existe déjà).
+do $$
+begin
+  alter table public.profiles
+    add constraint profiles_stripe_customer_id_key unique (stripe_customer_id);
+exception
+  when duplicate_table then null;
+  when duplicate_object then null;
+end $$;
 
 -- ────────────────────────────────────────────────────────────────────────
 -- Table progress : miroir du `progressStore`. 1 ligne par utilisateur.
@@ -139,3 +158,47 @@ $$;
 
 revoke all on function public.delete_current_user() from public, anon;
 grant execute on function public.delete_current_user() to authenticated;
+
+-- ────────────────────────────────────────────────────────────────────────
+-- SÉCURITÉ ABONNEMENTS : seul le webhook Stripe (service role) peut écrire
+-- les colonnes d'abonnement. Un utilisateur authentifié (auth.uid() non nul)
+-- qui tente de modifier son forfait voit ses valeurs réécrites par les
+-- anciennes → impossible de s'offrir un forfait en bidouillant le client.
+-- Le service role a auth.uid() = null → il garde la main.
+-- ────────────────────────────────────────────────────────────────────────
+create or replace function public.protect_subscription_columns()
+returns trigger
+language plpgsql
+security definer
+set search_path = public
+as $$
+begin
+  if auth.uid() is not null then
+    new.subscription_plan       := old.subscription_plan;
+    new.subscription_status     := old.subscription_status;
+    new.subscription_expires_at := old.subscription_expires_at;
+    new.stripe_customer_id      := old.stripe_customer_id;
+  end if;
+  return new;
+end;
+$$;
+
+drop trigger if exists profiles_protect_subscription on public.profiles;
+create trigger profiles_protect_subscription
+  before update on public.profiles
+  for each row execute function public.protect_subscription_columns();
+
+-- ────────────────────────────────────────────────────────────────────────
+-- Idempotence des webhooks Stripe : on enregistre chaque event.id traité pour
+-- ne pas l'appliquer deux fois (Stripe peut renvoyer le même événement).
+-- Pas de RLS exposée : seule la service role (webhook) y accède.
+-- ────────────────────────────────────────────────────────────────────────
+create table if not exists public.stripe_events (
+  id           text primary key,        -- evt_… de Stripe
+  type         text not null,
+  processed_at timestamptz not null default now()
+);
+
+alter table public.stripe_events enable row level security;
+-- Aucune policy → inaccessible aux clients (anon/authenticated). La service
+-- role bypass la RLS.

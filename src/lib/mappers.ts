@@ -5,6 +5,7 @@ import {
   LanguageTestStatus,
   Level,
   SubscriptionPlan,
+  SubscriptionStatus,
   User,
 } from "@/types";
 
@@ -25,6 +26,8 @@ export type ProfileRow = {
   channel: string | null;
   companion: string | null;
   subscription_plan: string | null;
+  subscription_status: string | null;
+  subscription_expires_at: string | null;
   civic_test_passed: boolean | null;
   language_test_status: string | null;
   language_cert_level: string | null;
@@ -43,6 +46,9 @@ export function rowToUser(row: ProfileRow): User {
     companion: row.companion ?? null,
     createdAt: row.created_at,
     subscriptionPlan: (row.subscription_plan as SubscriptionPlan) ?? "free",
+    subscriptionStatus:
+      (row.subscription_status as SubscriptionStatus) ?? null,
+    subscriptionExpiresAt: row.subscription_expires_at ?? null,
     civicTestPassed: row.civic_test_passed ?? null,
     languageTestStatus:
       (row.language_test_status as LanguageTestStatus | null) ?? null,
@@ -51,7 +57,15 @@ export function rowToUser(row: ProfileRow): User {
   };
 }
 
-/** Champs profil modifiables (l'id et created_at ne se mettent pas à jour). */
+/**
+ * Champs profil modifiables (l'id et created_at ne se mettent pas à jour).
+ *
+ * IMPORTANT : on NE pousse PAS `subscription_plan` / `subscription_status` /
+ * `subscription_expires_at` depuis le client. Ces colonnes sont la propriété
+ * exclusive du webhook Stripe (service role) — sinon n'importe quel utilisateur
+ * pourrait s'attribuer un forfait payant en modifiant son state local. Un
+ * trigger Postgres (cf. schema.sql) verrouille aussi ces colonnes côté DB.
+ */
 export function userToProfilePatch(user: User) {
   return {
     id: user.id,
@@ -62,7 +76,6 @@ export function userToProfilePatch(user: User) {
     level: user.level,
     channel: user.channel,
     companion: user.companion,
-    subscription_plan: user.subscriptionPlan,
     civic_test_passed: user.civicTestPassed,
     language_test_status: user.languageTestStatus,
     language_cert_level: user.languageCertLevel,

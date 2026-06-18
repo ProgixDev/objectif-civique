@@ -36,6 +36,7 @@ import { PLAN_LABELS } from "@/data/plans";
 import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
+import { effectivePlan } from "@/lib/entitlements";
 import { signOut, deleteAccount } from "@/lib/auth";
 
 export default function Profile() {
@@ -70,13 +71,16 @@ export default function Profile() {
     questionsAnswered: progress.questionsAnswered,
     correctCount: progress.correctCount,
   });
-  const planLabel = user ? PLAN_LABELS[user.subscriptionPlan] : "Gratuit";
+  const activePlan = effectivePlan(user);
+  const planLabel = PLAN_LABELS[activePlan];
   const planSub =
-    user?.subscriptionPlan === "lifetime"
-      ? "Sans expiration"
-      : user?.subscriptionPlan === "free"
+    activePlan === "vip"
+      ? "Accès à vie"
+      : activePlan === "free"
         ? "Aucun abonnement actif"
-        : "Renouvellement automatique";
+        : activePlan === "discovery"
+          ? "Accès Découverte (7 jours)"
+          : "Renouvellement automatique";
 
   const initials = (user?.firstName?.[0] ?? "?").toUpperCase();
 

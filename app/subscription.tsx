@@ -20,8 +20,12 @@ import { PaywallPlanCard } from "@/components/PaywallPlanCard";
 import { QuitModal } from "@/components/QuitModal";
 import { useUserStore } from "@/store/userStore";
 import { PLANS, PLAN_LABELS } from "@/data/plans";
+import { usePurchase } from "@/hooks/usePurchase";
+import { effectivePlan } from "@/lib/entitlements";
+import { pullAll } from "@/lib/sync";
+import { supabase } from "@/lib/supabase";
 import { toast } from "@/store/toastStore";
-import { SubscriptionPlan } from "@/types";
+import { PaidPlanId, SubscriptionPlan } from "@/types";
 
 const FAQ = [
   {
@@ -41,12 +45,15 @@ const FAQ = [
 export default function Subscription() {
   const insets = useSafeAreaInsets();
   const user = useUserStore((s) => s.user);
-  const updateUser = useUserStore((s) => s.updateUser);
-  const currentPlan: SubscriptionPlan = user?.subscriptionPlan ?? "free";
+  const { purchase, loading } = usePurchase();
+  const currentPlan: SubscriptionPlan = effectivePlan(user);
 
-  const [selected, setSelected] = useState<SubscriptionPlan>(currentPlan);
+  const [selected, setSelected] = useState<PaidPlanId>(
+    currentPlan === "free" ? "gold" : currentPlan
+  );
   const [expanded, setExpanded] = useState<number | null>(null);
   const [showCancel, setShowCancel] = useState(false);
+  const [busy, setBusy] = useState(false);
 
   const planLabel = PLAN_LABELS[currentPlan];
   const features = PLANS.find((p) => p.id === currentPlan)?.features ?? [
@@ -89,11 +96,13 @@ export default function Subscription() {
             {planLabel}
           </Text>
           <Text style={[Typography.caption, { color: "rgba(255,255,255,0.7)" }]}>
-            {currentPlan === "lifetime"
-              ? "Sans expiration"
+            {currentPlan === "vip"
+              ? "Accès à vie, sans expiration"
               : currentPlan === "free"
                 ? "Version gratuite limitée"
-                : "Renouvellement automatique"}
+                : currentPlan === "discovery"
+                  ? "Accès Découverte (7 jours)"
+                  : "Renouvellement automatique"}
           </Text>
           <View style={{ marginTop: 16, gap: 6 }}>
             {features.map((f) => (
@@ -136,14 +145,25 @@ export default function Subscription() {
         </View>
 
         <PillButton
-          label="Confirmer le changement"
+          label={
+            loading
+              ? "Paiement en cours…"
+              : currentPlan === "free"
+                ? "Souscrire"
+                : "Changer de formule"
+          }
           size="md"
           variant="primary"
           fullWidth
-          disabled={selected === currentPlan}
-          onPress={() => {
-            updateUser({ subscriptionPlan: selected });
-            toast.success("Plan mis à jour (mode démo)");
+          disabled={selected === currentPlan || loading || busy}
+          onPress={async () => {
+            if (selected === currentPlan || loading) return;
+            const result = await purchase(selected);
+            if (result.status === "success") {
+              toast.success("Forfait mis à jour.");
+            } else if (result.status === "error") {
+              toast.error(result.message ?? "Le paiement a échoué.");
+            }
           }}
           style={{ marginTop: 16 }}
         />
@@ -152,9 +172,22 @@ export default function Subscription() {
           <GhostButton
             label="Restaurer mes achats"
             fullWidth
-            onPress={() => toast.info("Bientôt disponible")}
+            onPress={async () => {
+              if (!user) return;
+              setBusy(true);
+              const refreshed = await pullAll(user.id);
+              setBusy(false);
+              if (refreshed && refreshed.subscriptionPlan !== "free") {
+                toast.success("Achats restaurés.");
+              } else {
+                toast.info("Aucun achat actif trouvé pour ce compte.");
+              }
+            }}
           />
-          <Pressable onPress={() => setShowCancel(true)}>
+          <Pressable
+            disabled={currentPlan === "free" || busy}
+            onPress={() => setShowCancel(true)}
+          >
             <Text
               style={[
                 Typography.button,
@@ -205,12 +238,24 @@ export default function Subscription() {
       <QuitModal
         visible={showCancel}
         title="Annuler l'abonnement ?"
-        message="Vous repasserez sur la version gratuite. Vos données restent conservées."
+        message="L'abonnement ne sera pas renouvelé. Votre accès reste actif jusqu'à la fin de la période déjà payée."
         onCancel={() => setShowCancel(false)}
-        onConfirm={() => {
+        onConfirm={async () => {
           setShowCancel(false);
-          updateUser({ subscriptionPlan: "free" });
-          toast.success("Abonnement annulé (mode démo)");
+          if (!user) return;
+          setBusy(true);
+          try {
+            const { error } = await supabase.functions.invoke(
+              "cancel-subscription"
+            );
+            if (error) throw error;
+            await pullAll(user.id);
+            toast.success("Abonnement annulé. Accès maintenu jusqu'à échéance.");
+          } catch {
+            toast.error("Annulation impossible. Réessayez plus tard.");
+          } finally {
+            setBusy(false);
+          }
         }}
       />
     </View>

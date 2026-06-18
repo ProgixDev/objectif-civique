@@ -32,6 +32,7 @@ import { useUserStore } from "@/store/userStore";
 import { scoreSession, isPass, getExplanation } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
 import { getNextSimulation, isSimLocked } from "@/lib/simulations";
+import { effectivePlan } from "@/lib/entitlements";
 import { toast } from "@/store/toastStore";
 import { Category, ThemeId } from "@/types";
 import { THEMES } from "@/data/themes";
@@ -52,8 +53,8 @@ export default function Results() {
   const startTheme = useSessionStore((s) => s.startTheme);
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
-  const subscriptionPlan =
-    useUserStore((s) => s.user?.subscriptionPlan) ?? "free";
+  const user = useUserStore((s) => s.user);
+  const subscriptionPlan = effectivePlan(user);
 
   // Pour les simulations thématiques, calcule la simulation suivante
   // (ex: histoire-1 → histoire-2). Null si pas de suite logique.

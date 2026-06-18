@@ -13,7 +13,34 @@ export type Level = "debutant" | "intermediaire" | "avance" | "inconnu";
 
 export type Deadline = "lt1m" | "1to3m" | "3to6m" | "undecided";
 
-export type SubscriptionPlan = "free" | "monthly" | "quarterly" | "lifetime";
+/**
+ * Forfaits proposés. `free` = version gratuite limitée.
+ * Les autres correspondent aux 6 paliers commerciaux :
+ *   discovery → Découverte 5,99 € / 7 jours (paiement unique, accès 7 jours)
+ *   premium   → Premium    9,99 € / mois    (abonnement)
+ *   silver    → Argent     15,99 € / 3 mois (abonnement)
+ *   gold      → Or         19,99 € / 6 mois (abonnement)
+ *   diamond   → Diamant    29,99 € / an     (abonnement)
+ *   vip       → Accès VIP  39,99 € / à vie  (paiement unique, sans expiration)
+ */
+export type SubscriptionPlan =
+  | "free"
+  | "discovery"
+  | "premium"
+  | "silver"
+  | "gold"
+  | "diamond"
+  | "vip";
+
+/** Statut de l'abonnement côté Stripe (miroir partiel des statuts Stripe). */
+export type SubscriptionStatus =
+  | "active"
+  | "trialing"
+  | "past_due"
+  | "canceled"
+  | "incomplete"
+  | "expired"
+  | null;
 
 export type LanguageTestStatus = "passed" | "not_yet" | "planned";
 
@@ -30,6 +57,13 @@ export type User = {
   companion: string | null;
   createdAt: string;
   subscriptionPlan: SubscriptionPlan;
+  /** Statut Stripe de l'abonnement (null si jamais payé). */
+  subscriptionStatus?: SubscriptionStatus;
+  /**
+   * Date ISO d'expiration de l'accès payant (fin de période ou +7j pour
+   * Découverte). `null` = pas d'expiration (gratuit ou VIP à vie).
+   */
+  subscriptionExpiresAt?: string | null;
   /** Naturalisation only: has the candidate already passed the test civique? */
   civicTestPassed: boolean | null;
   /** All cases: has the candidate already passed an official French language test? */
@@ -131,11 +165,30 @@ export type Session = {
   originKey?: string;
 };
 
+/** Tous les forfaits payants (exclut `free`). */
+export type PaidPlanId = Exclude<SubscriptionPlan, "free">;
+
+/**
+ * Mode de facturation Stripe :
+ *   subscription → abonnement récurrent (Premium / Argent / Or / Diamant)
+ *   payment      → paiement unique (Découverte 7 jours, VIP à vie)
+ */
+export type PlanBillingMode = "subscription" | "payment";
+
 export type Plan = {
-  id: "monthly" | "quarterly" | "lifetime";
+  id: PaidPlanId;
   title: string;
   price: string;
   period: string;
+  /** Prix en centimes (pour Stripe / affichage cohérent). */
+  amountCents: number;
+  mode: PlanBillingMode;
+  /**
+   * Durée d'accès en jours pour les paiements uniques à durée limitée
+   * (Découverte = 7). `null` = pas d'expiration (VIP) ou géré par Stripe
+   * (abonnements récurrents).
+   */
+  accessDays: number | null;
   highlight: boolean;
   badge?: string;
   features: string[];

@@ -23,6 +23,7 @@ import { Colors } from "@/constants/colors";
 import { GrainyBackground } from "@/components/ui/GrainyBackground";
 import { useSessionStore } from "@/store/sessionStore";
 import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
 import { useHaptics } from "@/hooks/useHaptics";
 import {
   buildSimulations,
@@ -51,9 +52,8 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
   const haptics = useHaptics();
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
-  const subscriptionPlan =
-    useUserStore((s) => s.user?.subscriptionPlan) ?? "free";
-  const isLockedForUser = subscriptionPlan === "free";
+  const user = useUserStore((s) => s.user);
+  const isLockedForUser = !isPaid(user);
 
   const simulations = useMemo(
     () => buildSimulations(userGoal),

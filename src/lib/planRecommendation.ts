@@ -8,7 +8,7 @@ export type FocusArea =
   | "urgent";
 
 export type PlanRecommendation = {
-  /** Plan ID parmi monthly/quarterly/lifetime */
+  /** Plan ID recommandé (discovery/premium/silver/gold/diamond/vip) */
   planId: Exclude<SubscriptionPlan, "free">;
   /** Pourquoi ce plan est recommandé (2 à 4 raisons personnalisées) */
   reasons: string[];
@@ -30,8 +30,9 @@ export type PlanRecommendation = {
  *  - Sinon → focus "general"
  *  - Si échéance < 1 mois → bascule en focus "urgent" (peu importe le reste)
  *
- *  - Plan : urgence courte → quarterly (intensif), urgence inconnue ou >3 mois →
- *    lifetime (rentable), sinon quarterly (recommandé par défaut).
+ *  - Plan : on cale la durée du forfait sur l'échéance — < 1 mois → Premium
+ *    (1 mois), 1-3 mois → Argent (3 mois), 3-6 mois → Or (6 mois), échéance
+ *    indéterminée → Diamant (1 an, le plus rentable). Défaut → Or (recommandé).
  */
 export function recommendPlan(
   user: User | null,
@@ -78,11 +79,15 @@ export function recommendPlan(
   // --- Plan ---
   let planId: PlanRecommendation["planId"];
   if (urgent) {
-    planId = "quarterly";
-  } else if (deadline === "3to6m" || deadline === "undecided") {
-    planId = "lifetime";
+    planId = "premium";
+  } else if (deadline === "1to3m") {
+    planId = "silver";
+  } else if (deadline === "3to6m") {
+    planId = "gold";
+  } else if (deadline === "undecided") {
+    planId = "diamond";
   } else {
-    planId = "quarterly";
+    planId = "gold";
   }
 
   // --- Raisons personnalisées ---
@@ -103,14 +108,14 @@ export function recommendPlan(
       "Échéance dans moins d'1 mois : il vous faut un accès complet immédiat."
     );
   } else if (deadline === "1to3m") {
-    reasons.push("Échéance dans 1 à 3 mois — le forfait 3 mois suffit.");
+    reasons.push("Échéance dans 1 à 3 mois — le forfait Argent (3 mois) suffit.");
   } else if (deadline === "3to6m") {
     reasons.push(
-      "Échéance dans 3 à 6 mois — l'accès à vie est plus rentable sur la durée."
+      "Échéance dans 3 à 6 mois — le forfait Or (6 mois) couvre toute la préparation."
     );
   } else if (deadline === "undecided") {
     reasons.push(
-      "Pas d'échéance fixée : l'accès à vie vous laisse le temps de bien préparer."
+      "Pas d'échéance fixée : le forfait Diamant (1 an) vous laisse le temps de bien préparer."
     );
   }
 

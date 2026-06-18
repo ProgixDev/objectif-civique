@@ -9,14 +9,14 @@ import { PaywallPlanCard } from "@/components/PaywallPlanCard";
 import { PillButton } from "@/components/ui/PillButton";
 import { Badge } from "@/components/ui/Badge";
 import { PLANS } from "@/data/plans";
-import { useUserStore } from "@/store/userStore";
+import { usePurchase } from "@/hooks/usePurchase";
 import { toast } from "@/store/toastStore";
-import { SubscriptionPlan } from "@/types";
+import { PaidPlanId } from "@/types";
 
 export default function Paywall() {
   const insets = useSafeAreaInsets();
-  const updateUser = useUserStore((s) => s.updateUser);
-  const [selected, setSelected] = useState<SubscriptionPlan | null>("quarterly");
+  const { purchase, loading } = usePurchase();
+  const [selected, setSelected] = useState<PaidPlanId | null>("gold");
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -70,16 +70,21 @@ export default function Paywall() {
 
       <View style={[styles.bottom, { paddingBottom: insets.bottom + 16 }]}>
         <PillButton
-          label="Continuer"
+          label={loading ? "Paiement en cours…" : "Continuer"}
           size="md"
           variant="primary"
           fullWidth
-          disabled={!selected}
-          onPress={() => {
-            if (!selected) return;
-            updateUser({ subscriptionPlan: selected });
-            toast.success("Plan activé (mode démo)");
-            router.replace("/(tabs)");
+          disabled={!selected || loading}
+          onPress={async () => {
+            if (!selected || loading) return;
+            const result = await purchase(selected);
+            if (result.status === "success") {
+              toast.success("Forfait activé. Bienvenue !");
+              router.replace("/(tabs)");
+            } else if (result.status === "error") {
+              toast.error(result.message ?? "Le paiement a échoué.");
+            }
+            // "canceled" : l'utilisateur a fermé la feuille, on ne fait rien.
           }}
         />
         <Pressable
