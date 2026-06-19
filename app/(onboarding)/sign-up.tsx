@@ -80,16 +80,25 @@ export default function SignUp() {
     setSubmitting(true);
     try {
       // 1) Crée le compte côté backend (auth + profil + progression) — bloquant.
-      await signUpWithEmail({
+      const user = await signUpWithEmail({
         firstName: data.firstName,
         email: data.email,
         password: data.password,
       });
 
-      // 2) Haptique en fire-and-forget — ne doit jamais bloquer la navigation.
-      Promise.resolve(haptics.success()).catch(() => {});
+      // 2) Confirmation d'e-mail requise : pas de session. On informe et on
+      //    renvoie vers la connexion (pas d'entrée dans l'app).
+      if (!user) {
+        Promise.resolve(haptics.success()).catch(() => {});
+        toast.success(
+          "Compte créé ! Vérifiez votre e-mail pour le confirmer, puis connectez-vous."
+        );
+        router.replace("/(onboarding)/sign-in");
+        return;
+      }
 
-      // 3) Navigation vers le 1er écran de perso.
+      // 3) Session active → haptique (fire-and-forget) + navigation perso.
+      Promise.resolve(haptics.success()).catch(() => {});
       router.replace("/(onboarding)/perso/step-1");
     } catch (err) {
       // Message d'erreur traduit renvoyé par lib/auth.

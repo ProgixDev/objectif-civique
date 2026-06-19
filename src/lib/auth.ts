@@ -50,11 +50,22 @@ function defaultUser(id: string, firstName: string, email: string): User {
   };
 }
 
+/**
+ * Crée un compte.
+ *
+ * Retour :
+ *   - `User`  → session active, on peut entrer dans l'app (perso).
+ *   - `null`  → la confirmation d'e-mail est exigée par Supabase : aucune
+ *               session n'est créée. Le compte existe, mais l'utilisateur doit
+ *               cliquer le lien reçu par e-mail puis se connecter. NE PAS le
+ *               faire entrer dans l'app (sinon état "fantôme" + éjection au
+ *               rechargement).
+ */
 export async function signUpWithEmail(input: {
   firstName: string;
   email: string;
   password: string;
-}): Promise<User> {
+}): Promise<User | null> {
   ensureConfigured();
   const email = input.email.trim().toLowerCase();
   const firstName = input.firstName.trim();
@@ -62,22 +73,17 @@ export async function signUpWithEmail(input: {
   const { data, error } = await supabase.auth.signUp({
     email,
     password: input.password,
-    options: { data: { first_name: firstName } },
+    options: {
+      data: { first_name: firstName },
+      // Lien de confirmation : tente de rouvrir l'app après validation.
+      emailRedirectTo: Linking.createURL("auth-callback"),
+    },
   });
   if (error) throw new Error(frError(error.message));
   if (!data.user) throw new Error(frError(undefined));
 
-  // Si Supabase exige la confirmation d'e-mail, `signUp` réussit MAIS ne crée
-  // pas de session. Dans ce cas on NE doit PAS faire entrer l'utilisateur dans
-  // l'app : il serait dans un état "fantôme" (sans JWT) et se ferait éjecter au
-  // prochain rechargement. On remonte un message clair à la place.
-  // → Pour un parcours sans friction, désactiver "Confirm email" dans Supabase
-  //   (Authentication → Providers → Email → Confirm email = OFF).
-  if (!data.session) {
-    throw new Error(
-      "Compte créé ! Vérifiez votre e-mail pour confirmer votre adresse, puis connectez-vous."
-    );
-  }
+  // Confirmation d'e-mail activée → pas de session : on signale au caller.
+  if (!data.session) return null;
 
   // Le trigger SQL a créé profiles + progress. On pose l'utilisateur local
   // (defaults) tout de suite pour ne pas bloquer l'onboarding, puis on lance la
