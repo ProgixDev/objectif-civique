@@ -67,6 +67,18 @@ export async function signUpWithEmail(input: {
   if (error) throw new Error(frError(error.message));
   if (!data.user) throw new Error(frError(undefined));
 
+  // Si Supabase exige la confirmation d'e-mail, `signUp` réussit MAIS ne crée
+  // pas de session. Dans ce cas on NE doit PAS faire entrer l'utilisateur dans
+  // l'app : il serait dans un état "fantôme" (sans JWT) et se ferait éjecter au
+  // prochain rechargement. On remonte un message clair à la place.
+  // → Pour un parcours sans friction, désactiver "Confirm email" dans Supabase
+  //   (Authentication → Providers → Email → Confirm email = OFF).
+  if (!data.session) {
+    throw new Error(
+      "Compte créé ! Vérifiez votre e-mail pour confirmer votre adresse, puis connectez-vous."
+    );
+  }
+
   // Le trigger SQL a créé profiles + progress. On pose l'utilisateur local
   // (defaults) tout de suite pour ne pas bloquer l'onboarding, puis on lance la
   // sync continue.

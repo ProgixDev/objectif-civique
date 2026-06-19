@@ -35,13 +35,26 @@ import { toast } from "@/store/toastStore";
 const schema = z.object({
   firstName: z.string().min(2, "Prénom trop court"),
   email: z.string().email("Email invalide"),
-  password: z.string().min(6, "6 caractères minimum"),
+  password: z
+    .string()
+    .min(8, "8 caractères minimum")
+    .regex(/[A-Za-z]/, "Doit contenir une lettre")
+    .regex(/[0-9]/, "Doit contenir un chiffre"),
   acceptCgu: z.literal(true, {
     errorMap: () => ({ message: "Vous devez accepter les CGU" }),
   }),
 });
 
 type FormData = z.infer<typeof schema>;
+
+/** Règles de mot de passe affichées en direct sous le champ. */
+function passwordRules(pwd: string) {
+  return [
+    { label: "Au moins 8 caractères", ok: pwd.length >= 8 },
+    { label: "Une lettre", ok: /[A-Za-z]/.test(pwd) },
+    { label: "Un chiffre", ok: /[0-9]/.test(pwd) },
+  ];
+}
 
 export default function SignUp() {
   const insets = useSafeAreaInsets();
@@ -60,6 +73,8 @@ export default function SignUp() {
       },
     });
   const acceptCgu = watch("acceptCgu");
+  const password = watch("password");
+  const rules = passwordRules(password ?? "");
 
   const onSubmit = async (data: FormData) => {
     setSubmitting(true);
@@ -161,7 +176,7 @@ export default function SignUp() {
             render={({ field: { value, onChange, onBlur } }) => (
               <Input
                 label="Mot de passe"
-                placeholder="Au moins 6 caractères"
+                placeholder="8 caractères, lettre + chiffre"
                 value={value}
                 onChangeText={onChange}
                 onBlur={onBlur}
@@ -184,6 +199,28 @@ export default function SignUp() {
               />
             )}
           />
+
+          {password && password.length > 0 ? (
+            <View style={styles.rulesBox}>
+              {rules.map((r) => (
+                <View key={r.label} style={styles.ruleRow}>
+                  {r.ok ? (
+                    <Check size={14} color={Colors.success} />
+                  ) : (
+                    <View style={styles.ruleDot} />
+                  )}
+                  <Text
+                    style={[
+                      Typography.caption,
+                      { color: r.ok ? Colors.success : Colors.textSecondary },
+                    ]}
+                  >
+                    {r.label}
+                  </Text>
+                </View>
+              ))}
+            </View>
+          ) : null}
         </View>
 
         <Pressable
@@ -324,6 +361,23 @@ const styles = StyleSheet.create({
     borderColor: Colors.outlineVariant,
     backgroundColor: Colors.white,
     marginBottom: 24,
+  },
+  rulesBox: {
+    gap: 6,
+    paddingHorizontal: 4,
+    marginTop: 2,
+  },
+  ruleRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+  },
+  ruleDot: {
+    width: 14,
+    height: 14,
+    borderRadius: 999,
+    borderWidth: 1.5,
+    borderColor: Colors.outlineVariant,
   },
   cguRow: {
     flexDirection: "row",
