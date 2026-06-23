@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-12",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-028",
+        "shortId": "Q-799F37",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un citoyen qui estime être victime d'une erreur administrative ou d'un déni de droit peut saisir :",
+        "choices": [
+          {
+            "text": "Le Procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de sa région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Académie française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits est une autorité constitutionnelle indépendante chargée de protéger les droits et libertés des individus face aux administrations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-003",
+        "shortId": "Q-D0581E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous possédez un terrain à la campagne. Pouvez-vous y chasser librement ?",
+        "choices": [
+          {
+            "text": "Oui, le droit de propriété inclut le droit de chasse inconditionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement le petit gibier",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut obligatoirement un permis de chasser valide et respecter les périodes d'ouverture",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le terrain est clôturé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Même sur une propriété privée, la chasse est une activité réglementée. Il faut détenir un permis, payer la redevance et respecter les dates fixées par la préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-037",
+        "shortId": "Q-1C324D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la Constitution définit la France comme une République « Sociale ». Qu'est-ce que cela implique ?",
+        "choices": [
+          {
+            "text": "L'obligation de voter pour un parti socialiste",
+            "isCorrect": false
+          },
+          {
+            "text": "La mise en commun de tous les biens privés",
+            "isCorrect": false
+          },
+          {
+            "text": "L'organisation de la solidarité nationale et de la protection sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "La nationalisation de toutes les banques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le caractère social signifie que l'État a le devoir de protéger les citoyens contre les risques de la vie (chômage, maladie, vieillesse)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-057",
+        "shortId": "Q-2CCF2B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, constituer un fichier mentionnant l'origine ethnique ou les opinions politiques des personnes est :",
+        "choices": [
+          {
+            "text": "Une pratique administrative standard et obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un droit réservé exclusivement aux employeurs du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni de peines de prison et de fortes amendes (sauf exceptions légales)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une recommandation de la CNIL pour favoriser la diversité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi « Informatique et Libertés » et le RGPD interdisent de collecter ou de traiter des données dites « sensibles » (race, opinions, religion, santé) afin de prévenir les discriminations et le fichage abusif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-013",
+        "shortId": "Q-E1DC6E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la position du Conseil d'État (avis de 2013) sur la neutralité religieuse des parents accompagnateurs de sorties scolaires ?",
+        "choices": [
+          {
+            "text": "Ils sont considérés comme des collaborateurs occasionnels du service public mais ne sont pas soumis, par défaut, à la neutralité religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils sont assimilés à des fonctionnaires stagiaires et la neutralité est absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils ne peuvent participer à une sortie que s'ils sont athées ou agnostiques",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de 2004 s'applique strictement aux parents au même titre qu'aux élèves du second degré",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les parents ne sont pas des agents du service public. Ils peuvent porter des signes religieux lors des sorties, sauf si leur comportement trouble l'ordre public ou constitue un prosélytisme actif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-005",
+        "shortId": "Q-498707",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous découvrez le jour de l'élection que vous avez été radié des listes électorales par erreur. Quel est votre recours ?",
+        "choices": [
+          {
+            "text": "Saisir le Tribunal judiciaire le jour même pour demander une réinscription immédiate",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter dans votre ancienne commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire une réclamation pour l'année suivante",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander au maire une dérogation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote est fondamental. En cas d'erreur purement matérielle de l'administration, le juge judiciaire peut ordonner la réinscription immédiate de l'électeur pour lui permettre de voter."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-002",
+        "shortId": "Q-EF7332",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En vertu de la loi du 1er juillet 1901, quelle condition de nationalité est requise pour fonder une association en France ?",
+        "choices": [
+          {
+            "text": "Il faut être de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune condition de nationalité n'est requise",
+            "isCorrect": true
+          },
+          {
+            "text": "Il faut être ressortissant de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut résider en France depuis plus de 5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'association est un principe fondamental reconnu par les lois de la République (PFRLR). La loi de 1901 n'impose aucune condition de nationalité pour les fondateurs ou les dirigeants d'une association de droit français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-006",
+        "shortId": "Q-3CF795",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 12 ans casse la vitre d'un voisin en jouant au ballon. Qui paie ?",
+        "choices": [
+          {
+            "text": "L'enfant est seul responsable pénalement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Vos parents (assurance Responsabilité Civile)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le voisin (assurance bris de glace)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les parents sont civilement responsables des dommages causés par leurs enfants mineurs résidant avec eux. C'est la garantie « Responsabilité Civile » de votre assurance habitation qui interviendra."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-067",
+        "shortId": "Q-4BC205",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville portuaire de la Méditerranée est la préfecture de la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille est le premier port français et un carrefour culturel et économique majeur vers l'Afrique et l'Orient."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-030",
+        "shortId": "Q-D012AC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « délit d'entrave à l'IVG » ?",
+        "choices": [
+          {
+            "text": "Le fait pour une femme de refuser une intervention médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait d'empêcher, par des pressions ou des menaces, l'accès à l'avortement",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation pour un médecin de pratiquer l'intervention",
+            "isCorrect": false
+          },
+          {
+            "text": "Une taxe imposée sur les cliniques spécialisées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi protège la liberté des femmes en punissant ceux qui tentent de les empêcher d'accéder à l'interruption volontaire de grossesse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-084",
+        "shortId": "Q-9A40FB",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas exceptionnel la déchéance de la nationalité française peut-elle être prononcée à l'encontre d'un individu ?",
+        "choices": [
+          {
+            "text": "S'il n'a pas voté à trois élections nationales consécutives",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il a été condamné pour un crime ou délit constituant un acte de terrorisme",
+            "isCorrect": true
+          },
+          {
+            "text": "S'il s'établit à l'étranger pour une durée supérieure à dix ans",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il refuse de payer ses impôts sur le revenu pendant cinq ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déchéance ne peut viser qu'une personne ayant acquis la nationalité française (pas les Français de naissance) et ne doit pas la rendre apatride. Elle est limitée à des faits d'une extrême gravité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-085",
+        "shortId": "Q-5FDF66",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel sculpteur du XIXe siècle est l'auteur du 'Penseur' et du 'Baiser', révolutionnant la représentation du corps humain ?",
+        "choices": [
+          {
+            "text": "Jean-Baptiste Carpeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Frédéric Auguste Bartholdi",
+            "isCorrect": false
+          },
+          {
+            "text": "Aristide Maillol",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Rodin a rompu avec l'académisme par l'expressivité et le réalisme psychologique de ses sculptures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-040",
+        "shortId": "Q-B48B7C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « déni de justice » en droit français ?",
+        "choices": [
+          {
+            "text": "Le droit de refuser de témoigner à un procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus d'un juge de rendre une décision pour une affaire dont il est saisi",
+            "isCorrect": true
+          },
+          {
+            "text": "La critique d'un jugement par les journalistes",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression des tribunaux par le Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un juge a l'obligation de rendre une décision. S'il refuse de juger, il commet une faute grave appelée déni de justice."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-006",
+        "shortId": "Q-DC0913",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'aide juridictionnelle ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour permettre à chacun d'être défendu",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide pour payer ses amendes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une formation en droit gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour devenir juge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'aide juridictionnelle est une prise en charge par l'État des frais de justice (avocat, huissier) pour les personnes aux revenus modestes. Elle garantit l'accès de tous au droit et à la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-067",
+        "shortId": "Q-677A4D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on les infractions les moins graves, qui ne sont jamais sanctionnées par une peine de prison ?",
+        "choices": [
+          {
+            "text": "Les délits mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Les incivilités administratives",
+            "isCorrect": false
+          },
+          {
+            "text": "Les contraventions",
+            "isCorrect": true
+          },
+          {
+            "text": "Les fautes de comportement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La classification tripartie des infractions est : contraventions (tribunal de police), délits (tribunal correctionnel), crimes (cour d'assises). Seuls les délits et crimes peuvent entraîner l'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-044",
+        "shortId": "Q-085D99",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve côtier français traverse la ville de Nantes avant de se jeter dans l'estuaire de Saint-Nazaire ?",
+        "choices": [
+          {
+            "text": "La Vilaine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sèvre Nantaise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Erdre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Loire est le plus long fleuve de France, connu pour ses paysages inscrits au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-062",
+        "shortId": "Q-AB7F14",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une cérémonie officielle, une personne refuse de se lever pendant La Marseillaise pour des raisons personnelles. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Elle peut être verbalisée pour outrage au drapeau national",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle doit obligatoirement quitter la salle avant le début de l'hymne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de se lever n'est pas une infraction en soi, la liberté de conscience est respectée",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle doit présenter un certificat médical justifiant son incapacité à se lever",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bien que le respect des symboles nationaux soit attendu, la liberté de conscience permet de ne pas participer activement, tant qu'il n'y a pas de trouble à l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-055",
+        "shortId": "Q-B82031",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui succède au Président de la République en cas de décès ou démission ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat (par intérim)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "La femme du Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En cas de vacance de la Présidence (décès, démission), c'est le Président du Sénat qui assure l'intérim jusqu'à l'élection du nouveau Président."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-026",
+        "shortId": "Q-7912AB",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'un contrôle routier standard, un policier veut fouiller votre coffre. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Non, le contrôle routier autorise automatiquement la fouille du véhicule",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le refus constitue un délit d'obstruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en l'absence de réquisition du procureur ou de flagrant délit, vous pouvez vous opposer à la fouille visuelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si vous êtes propriétaire du véhicule",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La police ne peut fouiller un véhicule que dans des cadres juridiques précis. Si vous refusez, ils peuvent cependant immobiliser le véhicule en attendant les instructions du Parquet."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-064",
+        "shortId": "Q-4CCF4B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le massif montagneux le plus ancien de France, formé durant l'ère primaire et fortement érodé ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif Armoricain",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Situé à l'ouest, il se caractérise par des paysages de landes et de falaises littorales en Bretagne et Normandie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-028",
+        "shortId": "Q-D61CFA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Selon l'article 13 de la Déclaration des Droits de l'Homme de 1789, la contribution commune (impôt) est :",
+        "choices": [
+          {
+            "text": "Facultative pour les citoyens n'utilisant pas les services publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Proportionnelle aux services utilisés par chaque citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Répartie entre tous les citoyens en raison de leurs facultés",
+            "isCorrect": false
+          },
+          {
+            "text": "Indispensable pour l'entretien de la force publique et les dépenses d'administration",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'impôt est le fondement du financement des services publics et de la solidarité nationale. Il doit être réparti entre les citoyens en raison de leurs capacités contributives."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-085",
+        "shortId": "Q-E0C582",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui choisit les ministres siégeant au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements nationaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les membres du Conseil de l'Union européenne sont les ministres des gouvernements nationaux de chaque pays membre, en fonction du sujet traité (Agriculture, Finances...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-007",
+        "shortId": "Q-859C83",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière d'Interruption Volontaire de Grossesse (IVG) pour une mineure non émancipée, quelle est la règle concernant le secret ?",
+        "choices": [
+          {
+            "text": "L'accord écrit d'au moins un parent est juridiquement indispensable",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret peut être gardé vis-à-vis des parents si la mineure est accompagnée d'un majeur de son choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin est obligé de signaler l'acte au procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "L'acte doit obligatoirement être validé par un juge des contentieux de la protection",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi permet à une mineure de demander le secret sur son IVG. Si elle souhaite que ses parents ne soient pas informés, elle doit être accompagnée dans sa démarche par une personne majeure de son choix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-007",
+        "shortId": "Q-00F440",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle bataille de 1914, impliquant la réquisition de taxis parisiens, a permis d'arrêter l'offensive allemande sur la Marne ?",
+        "choices": [
+          {
+            "text": "La bataille de la Marne",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille de Verdun",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de la Somme",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille du Chemin des Dames",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 'miracle de la Marne' a stoppé l'avance allemande vers Paris. La réquisition de 600 taxis pour transporter des troupes est restée un symbole fort de l'union nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-029",
+        "shortId": "Q-DEDD5F",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'arrêt maladie, quel est le délai standard de 'carence' avant que l'Assurance Maladie ne verse des indemnités ?",
+        "choices": [
+          {
+            "text": "3 jours",
+            "isCorrect": true
+          },
+          {
+            "text": "7 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun délai",
+            "isCorrect": false
+          },
+          {
+            "text": "10 jours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sauf exceptions (ALD ou dispositions d'entreprise), les trois premiers jours d'arrêt ne sont pas indemnisés par la Sécurité sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-023",
+        "shortId": "Q-22EF1F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes interdit à un employeur de refuser un candidat en raison de son âge ou de son sexe ?",
+        "choices": [
+          {
+            "text": "La liberté contractuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La lutte contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code du travail interdit toute distinction entre les candidats basée sur des critères subjectifs (sexe, âge, origine, handicap, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-066",
+        "shortId": "Q-5FD1B6",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien la France a-t-elle de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "81",
+            "isCorrect": true
+          },
+          {
+            "text": "74",
+            "isCorrect": false
+          },
+          {
+            "text": "79",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis les élections de 2024, la France élit 81 députés européens."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-028",
+        "shortId": "Q-3528B0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pour accélérer votre dossier de permis de construire, vous offrez un cadeau de valeur à l'agent municipal. C'est :",
+        "choices": [
+          {
+            "text": "De la corruption active",
+            "isCorrect": true
+          },
+          {
+            "text": "Un geste de gratitude accepté par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contribution volontaire aux services municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique habituelle pour accélérer les démarches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La corruption active (proposer un don) est un délit puni de 10 ans d'emprisonnement et 1 million d'euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-034",
+        "shortId": "Q-70AD62",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe médiéval, auteur de la 'Somme théologique', a cherché à concilier la foi chrétienne et la raison aristotélicienne ?",
+        "choices": [
+          {
+            "text": "Pierre Abélard",
+            "isCorrect": false
+          },
+          {
+            "text": "Thomas d'Aquin",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint Augustin",
+            "isCorrect": false
+          },
+          {
+            "text": "Bernard de Clairvaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Son œuvre a profondément influencé la pensée chrétienne et l'enseignement universitaire en France au Moyen Âge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-061",
+        "shortId": "Q-B0F986",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est responsable de la gestion des écoles maternelles et primaires ?",
+        "choices": [
+          {
+            "text": "La mairie (la commune)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "L'université",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de la Défense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La commune est propriétaire des locaux et gère les personnels non enseignants (ATSEM, cantine)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-061",
+        "shortId": "Q-E108BC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent d'accueil de la mairie porte un pendentif religieux discret. Un administré se plaint. Quelle règle s'applique ?",
+        "choices": [
+          {
+            "text": "L'agent peut le porter car il est discret et n'affecte pas son travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'agent doit le retirer car tout signe religieux est interdit pour les fonctionnaires dans l'exercice de leurs fonctions",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administré peut demander à être reçu par un autre agent",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie doit organiser un vote parmi les employés pour décider",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de neutralité du service public impose aux agents de ne manifester aucune conviction religieuse, même de manière discrète, dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-032",
+        "shortId": "Q-03FFFB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de « libre administration » des collectivités ?",
+        "choices": [
+          {
+            "text": "Les collectivités peuvent refuser d'appliquer les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités s'administrent librement par des conseils élus",
+            "isCorrect": true
+          },
+          {
+            "text": "Les collectivités déterminent elles-mêmes leurs compétences sans la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités peuvent créer leurs propres impôts sans limites",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe constitutionnel de libre administration signifie que les collectivités s'autogèrent via des conseils élus, sans tutelle directe de l'État sur leurs décisions (sauf contrôle de légalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-058",
+        "shortId": "Q-532B44",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la loi du 9 octobre 1981, quelle est la règle pour les étrangers souhaitant créer une association en France ?",
+        "choices": [
+          {
+            "text": "Ils doivent obtenir l'autorisation préalable du ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent compter au moins un citoyen français parmi les dirigeants",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils jouissent de la même liberté d'association que les citoyens français",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils sont interdits de diriger une association à but non lucratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi de 1981 a supprimé le régime d'autorisation préalable qui pesait sur les « associations étrangères ». Désormais, tout étranger peut librement fonder ou diriger une association sous le régime de la loi de 1901."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-071",
+        "shortId": "Q-563AEC",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, quelle loi a instauré la séparation des Églises et de l'État, fondant la laïcité française ?",
+        "choices": [
+          {
+            "text": "La loi de la liberté de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur les cultes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le régime du Concordat",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 9 décembre 1905",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Cette loi garantit la liberté de culte mais impose la neutralité de l'État en cessant de financer les religions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-015",
+        "shortId": "Q-6D2827",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le 'droit au logement opposable' (DALO) permet à une personne mal logée d'exercer un recours contre :",
+        "choices": [
+          {
+            "text": "Son agence immobilière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le syndic de copropriété",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La banque prêteuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le DALO permet aux personnes prioritaires de faire reconnaître leur droit à un logement par l'État si elles n'ont pas reçu de proposition adaptée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-070",
+        "shortId": "Q-6A63EA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent accompagnateur d'une sortie scolaire porte un signe religieux visible. L'école peut-elle refuser sa participation ?",
+        "choices": [
+          {
+            "text": "Oui, car il représente l'école pendant la sortie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les parents ne sont pas soumis au même devoir de neutralité que les agents publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car la loi de 2004 s'applique aussi aux parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il doit cacher son signe pendant la sortie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'avis du Conseil d'État de 2013, les parents accompagnateurs ne sont pas des agents publics et ne sont donc pas soumis à l'obligation de neutralité religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-099",
+        "shortId": "Q-7B3FA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Constitutionnel ?",
+        "choices": [
+          {
+            "text": "Faire les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier que les lois sont conformes à la Constitution et contrôler la régularité des élections",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les criminels",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger l'armée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel est le gardien de la Constitution. Il peut censurer une loi votée par le Parlement si elle ne respecte pas les principes fondamentaux de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-007",
+        "shortId": "Q-E70C12",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous installez une caméra de sécurité chez vous. Avez-vous le droit de filmer la rue devant votre portail ?",
+        "choices": [
+          {
+            "text": "Oui, si vous mettez un panneau d'avertissement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour protéger votre véhicule stationné devant chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les images sont effacées sous 24h",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le filmage de la voie publique est réservé aux autorités (respect de la vie privée)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un particulier ne peut filmer que l'intérieur de sa propriété privée. Filmer le trottoir ou la rue est illégal et porte atteinte à la vie privée des passants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-058",
+        "shortId": "Q-7FBEF3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a instauré la fête nationale du 14 juillet en 1880 pour célébrer l'unité de la nation ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Adolphe Thiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement de la IIIe République",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Gambetta",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La date commémore à la fois la prise de la Bastille (1789) et la fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-041",
+        "shortId": "Q-516DEF",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle le diplôme qui valide les compétences en langue française pour les étrangers ?",
+        "choices": [
+          {
+            "text": "Le DELF ou le TCF",
+            "isCorrect": true
+          },
+          {
+            "text": "Le BAC Pro",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brevet des Collèges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le CAP Petite Enfance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le DELF (Diplôme d'Études en Langue Française) et le TCF (Test de Connaissance du Français) sont couramment utilisés pour les démarches administratives."
+      }
+    }
+  ]
+}

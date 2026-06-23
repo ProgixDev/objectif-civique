@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-6",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-003",
+        "shortId": "Q-274423",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous vous rendez à la mairie pour refaire votre passeport. L'agent au guichet porte un signe religieux visible. Est-ce conforme au principe de laïcité ?",
+        "choices": [
+          {
+            "text": "Oui, si cela ne gêne pas le fonctionnement du service",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté religieuse s'applique aussi aux fonctionnaires sur leur lieu de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de la discrétion du signe",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les agents du service public sont soumis à une stricte obligation de neutralité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité impose une neutralité absolue aux agents du service public (État, hôpitaux, mairies). Ils ne doivent manifester aucune opinion religieuse, politique ou philosophique dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-005",
+        "shortId": "Q-AF3131",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans le cadre d'une 'enquête préliminaire' (hors flagrant délit), la police souhaite perquisitionner votre domicile. Quelle est la condition impérative ?",
+        "choices": [
+          {
+            "text": "La police peut entrer de force si le procureur l'autorise",
+            "isCorrect": false
+          },
+          {
+            "text": "Votre assentiment manuscrit est obligatoire pour que la perquisition soit légale",
+            "isCorrect": true
+          },
+          {
+            "text": "La présence de deux témoins suffit pour valider l'entrée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'état d'urgence autorise toutes les perquisitions sans condition",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En enquête préliminaire, une perquisition ne peut être effectuée qu'avec l'assentiment exprès de la personne (écrit de sa main). Sans cet accord, il faut une décision du Juge des libertés et de la détention (JLD)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-002",
+        "shortId": "Q-104907",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie concrètement le caractère « social » de la République ?",
+        "choices": [
+          {
+            "text": "Que l'État doit garantir à tous la sécurité matérielle, la protection de la santé et le repos",
+            "isCorrect": true
+          },
+          {
+            "text": "Que les citoyens sont obligés de faire du bénévolat",
+            "isCorrect": false
+          },
+          {
+            "text": "Que les entreprises appartiennent à l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Que la France est un pays socialiste",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République sociale implique la solidarité nationale : l'État met en œuvre des protections (Sécurité sociale, école gratuite, aides) pour assurer des moyens convenables d'existence à tous."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-030",
+        "shortId": "Q-179F47",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez un litige avec un artisan pour des travaux mal réalisés. Avant de saisir le juge, que devez-vous obligatoirement tenter ?",
+        "choices": [
+          {
+            "text": "Une expertise judiciaire avant tout recours",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tentative de résolution amiable (médiation, conciliation ou procédure participative)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dépôt de plainte auprès de la DGCCRF",
+            "isCorrect": false
+          },
+          {
+            "text": "Une mise en demeure par exploit d'huissier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour les litiges inférieurs à un certain montant, une tentative de résolution amiable est obligatoire avant de saisir le tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-016",
+        "shortId": "Q-6AC4CE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Conseil Constitutionnel a pour mission principale de :",
+        "choices": [
+          {
+            "text": "Conseiller le Président sur la politique étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les conflits entre voisins",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier la régularité des élections et la conformité des lois à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger le budget de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est le garant suprême de la Constitution. Il valide les élections nationales et peut censurer une loi si elle porte atteinte aux droits fondamentaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-027",
+        "shortId": "Q-F00A17",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'acquisition de la nationalité française par mariage est-elle automatique ?",
+        "choices": [
+          {
+            "text": "Oui, dès le jour du mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut une déclaration après 4 ans de mariage et une communauté de vie ininterrompue",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, après 1 an de vie commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le mariage ne permet jamais d'obtenir la nationalité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mariage avec un(e) Français(e) permet d'acquérir la nationalité après un délai de 4 ans (ou 5 ans si résidence à l'étranger), à condition que la communauté de vie n'ait pas cessé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-003",
+        "shortId": "Q-A03AB9",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe d'égalité devant la loi signifie que :",
+        "choices": [
+          {
+            "text": "Les citoyens les plus riches paient moins d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi est la même pour tous, qu'elle protège ou qu'elle punisse, sans distinction de naissance ou de religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout le monde doit avoir le même salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élus ne sont pas soumis aux mêmes lois que les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Issu de la Déclaration de 1789, ce principe interdit les privilèges. Tous les citoyens sont également admissibles à toutes dignités, places et emplois publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-060",
+        "shortId": "Q-2FD974",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre propriétaire vous réclame le paiement de travaux d'amélioration. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, le locataire doit participer aux travaux d'amélioration",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à hauteur de 50% du coût",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si les travaux augmentent la surface habitable",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les travaux d'amélioration sont à la charge exclusive du propriétaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les travaux d'amélioration (double vitrage, isolation, etc.) sont à la charge du propriétaire. Seules les réparations locatives incombent au locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-046",
+        "shortId": "Q-9D10E6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle victoire de Philippe Auguste en 1214 a renforcé l'unité du Royaume de France ?",
+        "choices": [
+          {
+            "text": "La bataille de Marignan",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Bouvines",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille d'Azincourt",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Poitiers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À Bouvines, le roi de France a vaincu une coalition européenne. C'est souvent considéré comme l'un des premiers événements éveillant un « sentiment national »."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-044",
+        "shortId": "Q-21424B",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un étranger non-européen demande à la préfecture de recevoir ses documents administratifs traduits dans sa langue. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "La préfecture doit fournir une traduction dans toutes les langues demandées",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture peut refuser car le français est la langue officielle de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La traduction est obligatoire pour les ressortissants de pays francophones",
+            "isCorrect": false
+          },
+          {
+            "text": "Seules les langues de l'Union européenne doivent être proposées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution dispose que 'la langue de la République est le français'. Les documents administratifs officiels sont rédigés en français uniquement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-041",
+        "shortId": "Q-1C0EA1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un cambriolage en cours dans l'appartement de votre voisin absent. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Intervenir physiquement pour interpeller les cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Filmer la scène comme preuve puis appeler la police après le départ des cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler immédiatement le 17 (police secours) et ne pas intervenir directement",
+            "isCorrect": true
+          },
+          {
+            "text": "Prévenir le gardien de l'immeuble qui contactera les forces de l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de flagrant délit, le réflexe citoyen est d'alerter immédiatement les forces de l'ordre (17) sans se mettre en danger en intervenant soi-même."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-044",
+        "shortId": "Q-FEE28D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "« Je pense, donc je suis » est une célèbre citation du philosophe :",
+        "choices": [
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          },
+          {
+            "text": "René Descartes",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Michel de Montaigne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Descartes (XVIIe siècle) est le fondateur du rationalisme moderne. Sa méthode repose sur le doute et la raison."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-058",
+        "shortId": "Q-BBA579",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime qu'une loi porte atteinte à ses droits fondamentaux. Peut-il contester cette loi même après sa promulgation ?",
+        "choices": [
+          {
+            "text": "Non, une loi promulguée est intouchable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il peut soulever une Question Prioritaire de Constitutionnalité (QPC) à l'occasion d'un procès",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement avec une pétition de 100 000 signatures",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Président peut contester une loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, la QPC permet à tout justiciable de contester la conformité d'une loi aux droits et libertés garantis par la Constitution, devant le Conseil constitutionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-095",
+        "shortId": "Q-F36708",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À qui appartient le drapeau bleu, blanc, rouge ?",
+        "choices": [
+          {
+            "text": "À l'armée française exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Nation française tout entière",
+            "isCorrect": true
+          },
+          {
+            "text": "À la ville de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Gouvernement en place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'emblème national qui unit tous les citoyens, sans distinction."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-021",
+        "shortId": "Q-CC070B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai pour saisir le Conseil de Prud'hommes afin de contester un licenciement ?",
+        "choices": [
+          {
+            "text": "12 mois (1 an)",
+            "isCorrect": true
+          },
+          {
+            "text": "2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis les ordonnances de 2017, le délai de prescription pour contester la rupture du contrat de travail est fixé à 12 mois à compter de la notification du licenciement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-042",
+        "shortId": "Q-218564",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est mondialement réputée pour ses vins rouges prestigieux et ses châteaux viticoles ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "La région de Bordeaux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Auvergne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le vignoble bordelais produit des vins parmi les plus chers et réputés du monde (Saint-Émilion, Médoc, Pomerol)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-030",
+        "shortId": "Q-DE4D80",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une cérémonie de naturalisation, pourquoi chante-t-on La Marseillaise ?",
+        "choices": [
+          {
+            "text": "Pour prouver que vous maîtrisez la langue française sans accent",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour vérifier si vous connaissez les paroles",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une formalité administrative sans importance",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est l'hymne national, symbole de l'unité et de l'histoire de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Marseillaise est l'hymne national (art. 2 de la Constitution). La chanter lors de la naturalisation marque solennellement l'entrée dans la communauté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-032",
+        "shortId": "Q-CAF501",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un député siégeant à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés sont élus pour une durée de 5 ans, sauf en cas de dissolution de l'Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-017",
+        "shortId": "Q-076979",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière d'égalité salariale, quelle obligation ont les entreprises de plus de 50 salariés ?",
+        "choices": [
+          {
+            "text": "Aucune obligation, le salaire est libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Verser une prime aux femmes uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Publier chaque année leur Index de l'égalité professionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Embaucher autant d'hommes que de femmes strictement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Index de l'égalité professionnelle (sur 100 points) mesure les écarts de rémunération. En dessous de 75 points, l'entreprise doit prendre des mesures correctives sous peine de sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-040",
+        "shortId": "Q-143BDC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Corse est surnommée :",
+        "choices": [
+          {
+            "text": "L'Île aux Fleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Île de Beauté",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Rocher",
+            "isCorrect": false
+          },
+          {
+            "text": "La Perle des Antilles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Île de Beauté surnom (« Kallisté » en grec) reflète la diversité et la splendeur de ses paysages, entre mer et montagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-007",
+        "shortId": "Q-63CBC5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté d'expression en France est-elle absolue ?",
+        "choices": [
+          {
+            "text": "Non, elle est encadrée par la loi (interdiction de l'incitation à la haine, diffamation, apologie du terrorisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, on peut tout dire sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf si on critique le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle est soumise à la censure préalable de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression est un droit fondamental, mais elle ne couvre pas les abus punis par la loi comme le racisme, l'antisémitisme, l'injure ou la diffamation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-028",
+        "shortId": "Q-138F9E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution est chargée de vérifier qu'une loi est conforme à la Constitution ?",
+        "choices": [
+          {
+            "text": "La Haute Cour de Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel veille au respect des principes fondamentaux de la Constitution lors de l'adoption des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-010",
+        "shortId": "Q-A9D5F0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité administrative indépendante (AAI) veille au respect de la vie privée numérique ?",
+        "choices": [
+          {
+            "text": "Le CSA (Arcom)",
+            "isCorrect": false
+          },
+          {
+            "text": "La DGCCRF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CNIL (Commission Nationale de l'Informatique et des Libertés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CNIL a pour mission d'informer, de protéger et de sanctionner les abus liés aux données personnelles et au respect de la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-037",
+        "shortId": "Q-69D541",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est le plus grand port de commerce de France et la deuxième plus grande ville du pays ?",
+        "choices": [
+          {
+            "text": "Le Havre",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fondée par les Grecs (Massalia), Marseille est une métropole méditerranéenne majeure et la plus ancienne ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-020",
+        "shortId": "Q-9B0500",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le timbre fiscal nécessaire pour un passeport ou un renouvellement de titre de séjour s'achète désormais :",
+        "choices": [
+          {
+            "text": "Uniquement en espèces à la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur papier à la Poste",
+            "isCorrect": false
+          },
+          {
+            "text": "En ligne (timbres.impots.gouv.fr) ou chez un buraliste agréé (format dématérialisé)",
+            "isCorrect": true
+          },
+          {
+            "text": "Au commissariat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le timbre fiscal est désormais dématérialisé. On l'achète en ligne ou en bureau de tabac, et on reçoit un code (QR code ou numéro) à fournir à l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-027",
+        "shortId": "Q-756938",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous recevez une amende majorée que vous contestez. Si vous ne payez pas et ne répondez pas, que risque-t-il d'arriver ?",
+        "choices": [
+          {
+            "text": "L'amende s'annule au bout d'un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peine de prison ferme",
+            "isCorrect": false
+          },
+          {
+            "text": "Une saisie sur salaire ou sur compte bancaire (Avis à Tiers Détenteur)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de conduire immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État dispose de moyens de recouvrement forcé. Sans réaction de votre part, le Trésor public peut saisir directement la somme due sur votre compte bancaire ou votre salaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-079",
+        "shortId": "Q-600258",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom du programme européen qui favorise la mobilité des étudiants et des apprentis ?",
+        "choices": [
+          {
+            "text": "Copernicus",
+            "isCorrect": false
+          },
+          {
+            "text": "Erasmus+",
+            "isCorrect": true
+          },
+          {
+            "text": "Galileo",
+            "isCorrect": false
+          },
+          {
+            "text": "Horizon Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Erasmus+ permet aux étudiants, apprentis et enseignants de se former ou de travailler dans un autre pays européen."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-039",
+        "shortId": "Q-BCE0CF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Un pour tous, tous pour un",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La devise « Liberté, Égalité, Fraternité » est inscrite dans l'article 2 de la Constitution de 1958 et figure sur les édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-012",
+        "shortId": "Q-D5F4BE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1957 a fondé la Communauté Économique Européenne (ancêtre de l'UE) ?",
+        "choices": [
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est l'un des six pays fondateurs (avec l'Allemagne, l'Italie et le Benelux) de la construction européenne via le Traité de Rome."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-009",
+        "shortId": "Q-7382D9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'employeur peut-il renouveler la période d'essai d'un salarié librement ?",
+        "choices": [
+          {
+            "text": "Oui, autant de fois qu'il le souhaite",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le renouvellement n'est possible que s'il est prévu par la convention collective ET accepté par écrit par le salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, en informant le salarié à l'oral la veille",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le renouvellement est interdit en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le renouvellement n'est pas automatique. Il nécessite l'accord clair et écrit du salarié (mention « Lu et approuvé ») avant la fin de la période initiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-001",
+        "shortId": "Q-7E3C11",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la Constitution de 1958 définit la France comme une République :",
+        "choices": [
+          {
+            "text": "Indivisible, religieuse, démocratique et libérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Fédérale, laïque, sociale et libérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Indivisible, laïque, démocratique et sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Une et indivisible, monarchique et sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est la définition fondamentale de la France. Ces quatre adjectifs (Indivisible, Laïque, Démocratique, Sociale) résument les piliers de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-124",
+        "shortId": "Q-6F7551",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être sanctionné pour avoir critiqué le Gouvernement dans la presse ?",
+        "choices": [
+          {
+            "text": "Oui, c'est interdit par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'on est un étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, au nom de la liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement durant les périodes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'expression et de la presse est un droit fondamental en démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-048",
+        "shortId": "Q-3FBA9F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été licencié pour faute grave. Avez-vous droit à un préavis et à une indemnité de licenciement ?",
+        "choices": [
+          {
+            "text": "Non, la faute grave prive le salarié de préavis et d'indemnité de licenciement",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la faute grave ne supprime que l'indemnité de licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais réduits de moitié",
+            "isCorrect": false
+          },
+          {
+            "text": "Non pour le préavis, mais l'indemnité de licenciement reste due",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le licenciement pour faute grave entraîne la perte du droit au préavis et à l'indemnité de licenciement. Seule l'indemnité compensatrice de congés payés reste due."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-031",
+        "shortId": "Q-B4DC40",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le prix littéraire le plus prestigieux en France, décerné chaque année en novembre ?",
+        "choices": [
+          {
+            "text": "Le Prix Goncourt",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Prix Renaudot",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Nobel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Femina",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Goncourt assure à son lauréat des ventes considérables, bien que le chèque remis au vainqueur ne soit symboliquement que de 10 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-018",
+        "shortId": "Q-D3F964",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'Aide Juridictionnelle permet :",
+        "choices": [
+          {
+            "text": "D'être exempté de toute procédure judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise en charge par l'État (totale ou partielle) des frais de justice pour les personnes à faibles ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir un avocat commis d'office qui travaille gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir automatiquement un non-lieu dans une affaire pénale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État paie l'avocat et les frais de procédure (huissier, expertise) selon un barème, si le justiciable remplit les conditions de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-008",
+        "shortId": "Q-6BD397",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une manifestation déclarée dégénère et des casses ont lieu. La police ordonne la dispersion. Que devez-vous faire légalement ?",
+        "choices": [
+          {
+            "text": "Rester sur place car le droit de manifester est constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtempérer et quitter les lieux après les sommations d'usage",
+            "isCorrect": true
+          },
+          {
+            "text": "Négocier avec les forces de l'ordre pour continuer",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous cacher en attendant que le calme revienne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le maintien de l'ordre public permet de disperser un attroupement violent. Refuser de se disperser après les sommations constitue un délit (attroupement)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-075",
+        "shortId": "Q-DDA8A6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la Constitution actuelle de la France ?",
+        "choices": [
+          {
+            "text": "La Constitution de la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Constitution du 4 octobre 1958 a fondé la Ve République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-011",
+        "shortId": "Q-57CC09",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre enfant mineur cause un dommage à autrui. Sur quel fondement votre responsabilité est-elle engagée ?",
+        "choices": [
+          {
+            "text": "La responsabilité pour faute prouvée des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité pénale par substitution",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité de l'État pour défaut d'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité de plein droit du fait des mineurs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 1242 alinéa 4 du Code civil, les parents sont responsables de plein droit (sans qu'il soit nécessaire de prouver une faute de leur part) des dommages causés par leurs enfants mineurs habitant avec eux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-001",
+        "shortId": "Q-746E23",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pendant la Seconde Guerre mondiale, qu'appelait-on la « Résistance » ?",
+        "choices": [
+          {
+            "text": "L'armée régulière française qui n'avait pas été vaincue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement installé à Vichy",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des mouvements clandestins luttant contre l'occupation nazie et la collaboration",
+            "isCorrect": true
+          },
+          {
+            "text": "Une ligne de défense fortifiée dans l'Est de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Résistance regroupait les Français qui, clandestinement (maquis, réseaux), ont continué à se battre contre l'occupant allemand et le régime de Vichy, répondant à l'appel du Général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-019",
+        "shortId": "Q-C1DD5D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La « Rupture Conventionnelle » du contrat de travail est :",
+        "choices": [
+          {
+            "text": "Une démission forcée",
+            "isCorrect": false
+          },
+          {
+            "text": "Un licenciement économique déguisé",
+            "isCorrect": false
+          },
+          {
+            "text": "La seule procédure permettant de rompre un CDI d'un commun accord en ouvrant droit au chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une rupture automatique après 3 absences",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement à la démission (pas de chômage) ou au licenciement (conflit/motif), la rupture conventionnelle est une séparation amiable négociée qui garantit l'indemnité chômage."
+      }
+    }
+  ]
+}

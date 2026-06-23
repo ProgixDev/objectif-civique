@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-droits-et-devoirs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-situational-021",
+        "shortId": "Q-C233D2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous entendez une sirène sonore le premier mercredi du mois à midi. Qu'est-ce que c'est ?",
+        "choices": [
+          {
+            "text": "Un test mensuel du Système d'Alerte (SAIP)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une alerte d'attaque nucléaire imminente",
+            "isCorrect": false
+          },
+          {
+            "text": "Une alerte météorologique importante",
+            "isCorrect": false
+          },
+          {
+            "text": "Une panne du système électrique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Chaque premier mercredi du mois, les sirènes sont testées en France pour vérifier le bon fonctionnement de l'alerte nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-022",
+        "shortId": "Q-B47503",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez inscrire votre enfant à l'école publique. Combien coûte l'inscription ?",
+        "choices": [
+          {
+            "text": "Les frais de scolarité dépendent des revenus de la famille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école publique est gratuite",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription est gratuite mais les fournitures scolaires sont à la charge de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Des frais d'inscription symboliques sont demandés chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La gratuité de l'enseignement public est un principe fondamental de la République, inscrit dans la Constitution. Les familles n'ont aucun frais de scolarité à payer dans les écoles publiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-023",
+        "shortId": "Q-335325",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise refuse de vous embaucher uniquement car vous avez 58 ans. C'est :",
+        "choices": [
+          {
+            "text": "Normal, les entreprises préfèrent les jeunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si l'entreprise est petite",
+            "isCorrect": false
+          },
+          {
+            "text": "De la discrimination liée à l'âge, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Obligatoire selon le code du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'âge ne peut pas être un motif de refus d'embauche. C'est une discrimination illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-024",
+        "shortId": "Q-A1C077",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un chéquier par terre. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous essayez de l'utiliser pour faire des courses",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous le conservez chez vous en attendant que quelqu'un le réclame dans le quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous le détruisez pour protéger les données bancaires de la personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous le rapportez à la banque ou à la police",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Utiliser un chèque qui ne vous appartient pas est un délit grave (faux et usage de faux). Le chéquier doit être remis à la banque émettrice ou à la police pour être restitué à son propriétaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-025",
+        "shortId": "Q-C55A7C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler 65 heures en une semaine. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, il y a des durées maximales pour protéger la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous êtes d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il doit vous payer le double",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous travaillez la nuit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit du travail limite le temps de travail hebdomadaire (maximum 48h) pour protéger le salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-026",
+        "shortId": "Q-89F426",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un enfant de 11 ans travailler dans une usine. C'est :",
+        "choices": [
+          {
+            "text": "Autorisé si l'enfant travaille dans l'entreprise familiale de ses parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Totalement interdit, car l'école est obligatoire jusqu'à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisé pendant les vacances scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible s'il s'agit d'un contrat d'apprentissage validé par l'Éducation nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le travail des enfants de moins de 16 ans est interdit en France sauf exceptions très encadrées (spectacle, mannequinat avec autorisation). L'instruction est obligatoire de 3 à 16 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-027",
+        "shortId": "Q-EA06F7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un commerçant refuse de vous vendre du pain à cause de votre religion. C'est :",
+        "choices": [
+          {
+            "text": "Un refus de vente licite lié à la liberté commerciale",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique tolérée dès lors que le commerce est privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une infraction seulement en cas de récidive",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Refuser l'accès à un bien ou un service en raison de la religion est une discrimination interdite. En France, ce comportement peut engager la responsabilité pénale de son auteur."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-028",
+        "shortId": "Q-BF188A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez voter mais vous ne pouvez pas vous déplacer le jour J. Que faire ?",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas voter, c'est perdu",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous votez par téléphone ou par internet",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous votez le lendemain matin à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous faites une procuration à une autre personne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le vote par procuration permet d'exercer son droit de vote même en cas d'absence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-029",
+        "shortId": "Q-07E12B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un vol de téléphone. Où devez-vous aller ?",
+        "choices": [
+          {
+            "text": "Au commissariat ou à la gendarmerie pour porter plainte",
+            "isCorrect": true
+          },
+          {
+            "text": "À la mairie de votre quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'ambassade la plus proche",
+            "isCorrect": false
+          },
+          {
+            "text": "Chez l'opérateur téléphonique uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La police et la gendarmerie reçoivent les plaintes pour enquêter sur les infractions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-030",
+        "shortId": "Q-60578E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous changez d'adresse. Devez-vous prévenir l'administration ?",
+        "choices": [
+          {
+            "text": "Non, ce n'est pas important",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut déclarer son changement d'adresse",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si vous changez de pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est à l'État de vous trouver",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Déclarer son adresse est nécessaire pour recevoir ses courriers officiels et actualiser ses droits sociaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-031",
+        "shortId": "Q-A17092",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un passager du bus insulte violemment le chauffeur. C'est :",
+        "choices": [
+          {
+            "text": "Un différend privé entre le passager et le chauffeur, sans conséquence pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal dans les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Un outrage à une personne chargée de service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Une incivilité sanctionnée par une exclusion du réseau de transport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage contre un agent chargé d'une mission de service public est un délit spécifique prévu par le Code pénal, passible d'une amende et d'une peine d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-032",
+        "shortId": "Q-6FA1DA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez vous marier avec une personne du même sexe. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement à Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais sans cérémonie officielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi autorise le mariage pour tous",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France reconnaît l'égalité devant le mariage pour tous les couples depuis 2013."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-033",
+        "shortId": "Q-C7217E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous jetez un mégot de cigarette sur le trottoir. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende forfaitaire pour dépôt de déchet sur la voie publique",
+            "isCorrect": true
+          },
+          {
+            "text": "Un simple rappel à l'ordre sans sanction",
+            "isCorrect": false
+          },
+          {
+            "text": "Une retenue sur salaire appliquée par la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Une suspension automatique du permis de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un mégot jeté au sol constitue un dépôt irrégulier de déchet sur l'espace public. Cette infraction est sanctionnée par une amende, car elle relève de la protection de la propreté et de l'environnement urbain."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-034",
+        "shortId": "Q-1CB214",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez organiser une fête bruyante. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Ne rien dire et monter le son au maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Prévenir vos voisins et baisser le son à partir de 22h pour éviter le tapage",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander une autorisation écrite à la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Organiser la fête uniquement en journée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le tapage nocturne est interdit. La courtoisie est essentielle pour le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-035",
+        "shortId": "Q-D54F6E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous propose un sac de marque pour 10 euros dans la rue. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "C'est légal si le produit est d'occasion et non une copie",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour un usage personnel, pas pour la revente",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est de la contrefaçon ou du recel, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est légal si vous payez en espèces",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Acheter des produits contrefaits ou des objets volés est une infraction pénale (recel ou détention de contrefaçon). L'acheteur risque jusqu'à 300 000 € d'amende et 3 ans d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-036",
+        "shortId": "Q-E62AFC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne handicapée veut entrer au magasin avec son chien d'assistance. Le gérant refuse. C'est :",
+        "choices": [
+          {
+            "text": "Autorisé pour l'hygiène du magasin",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si le chien est gros",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si le gérant a peur des chiens",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit, le chien d'assistance a accès partout",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les chiens guides et d'assistance sont autorisés dans tous les lieux publics par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-037",
+        "shortId": "Q-DFFE93",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez vos impôts mais vous refusez de payer sans raison. Que risque-t-il d'arriver ?",
+        "choices": [
+          {
+            "text": "Des pénalités financières (majoration de 10%) et des poursuites",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, l'impôt est facultatif pour les particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous ne pourrez plus voter aux prochaines élections",
+            "isCorrect": false
+          },
+          {
+            "text": "Une interdiction de sortie du territoire immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Payer ses impôts est une obligation pour financer les services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-038",
+        "shortId": "Q-C795F4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez créer une association culturelle. Devez-vous demander l'autorisation au gouvernement ?",
+        "choices": [
+          {
+            "text": "Oui, il faut un vote au Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il suffit de la déclarer à la préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il faut être au moins 100 personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'association est politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'association est un droit fondamental. La déclaration est simple."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-039",
+        "shortId": "Q-FE145F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un enfant seul qui pleure au supermarché. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous l'accompagnez vous-même à l'extérieur pour chercher ses parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous attendez quelques minutes avant d'intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous prévenez un agent de sécurité ou allez à l'accueil du magasin",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous appelez directement la police pour signaler un enfant abandonné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Alerter le personnel du lieu est le geste le plus sûr et le plus approprié. Ils disposent des moyens pour retrouver les parents (annonce sonore) sans risque pour l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-040",
+        "shortId": "Q-85E081",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous pratiquez votre religion chez vous. Est-ce un droit ?",
+        "choices": [
+          {
+            "text": "Non, il faut aller dans un temple officiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vos voisins sont d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il faut une autorisation écrite",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est la liberté de conscience (laïcité)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité garantit la liberté de culte privé et public dans le respect de la loi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-principes-valeurs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-001",
+        "shortId": "Q-1F853C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent de la fonction publique souhaite exprimer ses convictions religieuses par un signe ostensible durant ses heures de service. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Le principe de neutralité s'applique à tous les agents publics, leur interdisant de manifester leurs croyances dans l'exercice de leurs fonctions.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'agent peut porter ce signe si cela ne gêne pas l'exécution technique de ses tâches quotidiennes.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à la liberté de conscience permet à tout salarié, public ou privé, de manifester sa foi sans restriction.",
+            "isCorrect": false
+          },
+          {
+            "text": "La manifestation des croyances est autorisée uniquement si l'agent n'est pas en contact direct avec les usagers.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La neutralité du service public garantit l'impartialité de l'État. Les agents ne doivent porter aucun signe religieux pour que chaque usager soit traité de la même manière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-002",
+        "shortId": "Q-90036D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association souhaite organiser une manifestation pacifique pour protester contre une décision locale. Le maire souhaite l'interdire par désaccord politique. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Le maire a le pouvoir discrétionnaire d'interdire toute réunion publique sur le territoire de sa commune.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction n'est légale que s'il existe un risque réel et avéré de trouble à l'ordre public que la police ne peut contenir.",
+            "isCorrect": true
+          },
+          {
+            "text": "Les manifestations politiques sont réservées exclusivement aux périodes de campagnes électorales officielles.",
+            "isCorrect": false
+          },
+          {
+            "text": "Une manifestation doit être autorisée par un vote majoritaire du conseil municipal pour avoir lieu.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de manifestation est un droit fondamental. L'autorité administrative ne peut l'interdire que pour des raisons de sécurité publique, et non pour des motifs politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-003",
+        "shortId": "Q-2AEFE5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande comment est assurée la 'solidarité nationale' envers les personnes âgées ou malades en France. Quel système en est le pilier ?",
+        "choices": [
+          {
+            "text": "Le système de bienfaisance privée fondé sur les dons volontaires des grandes entreprises.",
+            "isCorrect": false
+          },
+          {
+            "text": "La charité communale gérée directement par les préfectures de région.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sécurité sociale, financée par les cotisations et l'impôt pour protéger chacun contre les aléas de la vie.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'épargne individuelle obligatoire placée sur des comptes bloqués par l'État.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Sécurité sociale concrétise la valeur de fraternité en assurant une protection sociale universelle, indépendamment des revenus de l'individu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-004",
+        "shortId": "Q-BBE5CA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un décret est signé par le Premier ministre. Pour qu'il soit opposable aux citoyens, quelle formalité doit être impérativement accomplie ?",
+        "choices": [
+          {
+            "text": "Il doit être approuvé par le Conseil constitutionnel avant sa publication.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être approuvé par un référendum populaire dans les six mois.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être notifié directement aux préfets de région par voie électronique sécurisée.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être publié au Journal officiel de la République française pour être porté à la connaissance de tous.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La publicité des actes administratifs est une garantie de l'État de droit. Nul n'est censé ignorer la loi, mais l'État a l'obligation de la rendre accessible."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-005",
+        "shortId": "Q-BB5AAE",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un tribunal, un prévenu refuse de répondre aux questions. Comment est considérée sa situation avant le verdict du juge ?",
+        "choices": [
+          {
+            "text": "Il bénéficie de la présomption d'innocence : il est considéré comme non coupable tant que sa culpabilité n'est pas prouvée.",
+            "isCorrect": true
+          },
+          {
+            "text": "Son silence est légalement interprété comme un aveu de culpabilité par les magistrats.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il perd automatiquement ses droits civiques et son droit à la défense jusqu'à la fin de l'audience.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est placé sous un régime de culpabilité provisoire en attendant les preuves de sa défense.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence est un principe constitutionnel qui protège l'individu contre l'arbitraire judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-006",
+        "shortId": "Q-7E0B7E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent d'élève dans un lycée public demande que son enfant soit dispensé des cours d'éducation physique pour des motifs religieux. Quelle est la réponse de l'administration ?",
+        "choices": [
+          {
+            "text": "La demande est acceptée car les convictions religieuses priment sur le programme scolaire national.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école étant laïque et obligatoire, aucun élève ne peut être dispensé d'une partie du programme pour des motifs religieux.",
+            "isCorrect": true
+          },
+          {
+            "text": "La dispense est possible uniquement si le parent accepte de payer une taxe de compensation à l'établissement.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut être dispensé si le maire de la commune signe une dérogation exceptionnelle.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité à l'école garantit un enseignement commun à tous. Les programmes scolaires s'imposent à tous les élèves sans distinction de croyance."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-007",
+        "shortId": "Q-78C77C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une élection législative, un citoyen souhaite savoir qui possède la souveraineté en France. Quelle est la définition constitutionnelle ?",
+        "choices": [
+          {
+            "text": "La souveraineté appartient aux députés élus pour la durée de leur mandat.",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté est détenue par le Président de la République en sa qualité de Chef de l'État.",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.",
+            "isCorrect": true
+          },
+          {
+            "text": "La souveraineté est partagée entre les préfets et les maires des grandes agglomérations.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, la source du pouvoir est le peuple. C'est le principe de la démocratie ('gouvernement du peuple, par le peuple et pour le peuple')."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-008",
+        "shortId": "Q-CC030E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise refuse d'accorder une promotion à un salarié en raison de ses activités syndicales. Quel principe protège le salarié ?",
+        "choices": [
+          {
+            "text": "Le droit au secret des affaires au sein des entreprises privées.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'entreprendre qui permet à l'employeur de choisir ses cadres librement.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de hiérarchie administrative au sein des structures de travail.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté syndicale et l'interdiction des discriminations liées à l'engagement social.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Nul ne peut être sanctionné ou discriminé dans son travail en raison de son appartenance à un syndicat ou de ses activités de représentation des salariés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-009",
+        "shortId": "Q-34A48D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen étranger résidant en France souhaite savoir s'il doit respecter la loi française même si elle diffère de celle de son pays d'origine. Que prévoit le droit ?",
+        "choices": [
+          {
+            "text": "Les lois de la République s'appliquent à tous ceux qui résident sur le territoire national, sans exception de nationalité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Les étrangers bénéficient d'une immunité juridique pour les actes conformes aux coutumes de leur pays.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le Code pénal est obligatoire pour les étrangers, les autres lois sont facultatives.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le respect des lois françaises est soumis à la signature d'un contrat privé avec la préfecture.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'indivisibilité de la République implique que la loi est la même pour tous sur le sol français. C'est une garantie d'égalité et d'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-010",
+        "shortId": "Q-C57EC3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la signification du buste de 'Marianne' présent dans les mairies. Que représente-t-elle ?",
+        "choices": [
+          {
+            "text": "Elle est la représentation artistique de la première femme élue députée en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est une figure allégorique de la République, symbolisant la liberté et la démocratie.",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle représente la sainte patronne protectrice des communes de France.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est le portrait officiel de l'épouse du premier Président de la Ve République.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne incarne les valeurs républicaines. Son bonnet phrygien symbolise la liberté conquise face à l'oppression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-011",
+        "shortId": "Q-9FF50F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un projet de loi est jugé contraire à la Constitution par certains députés. Quelle institution doit trancher avant que la loi ne soit appliquée ?",
+        "choices": [
+          {
+            "text": "La Cour de justice de l'Union européenne.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État dans sa fonction de conseiller du gouvernement.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel, garant du respect de la Loi fondamentale.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Haut Commissariat aux droits de l'homme.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel vérifie la conformité des lois à la Constitution pour protéger les citoyens contre des lois arbitraires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-012",
+        "shortId": "Q-AF8D35",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans le cadre de la laïcité, l'État français finance-t-il la construction de nouveaux édifices cultuels (mosquées, églises, synagogues) ?",
+        "choices": [
+          {
+            "text": "Oui, l'État a l'obligation de construire des lieux de culte pour chaque religion recensée.",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si la commune possède plus de 50 000 habitants.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État finance 50% des coûts pour garantir l'égalité entre les croyants.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi de 1905 prévoit que la République ne salarie ni ne subventionne aucun culte.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation des Églises et de l'État implique que le financement des lieux de culte relève des associations cultuelles et non des fonds publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-013",
+        "shortId": "Q-5AACB2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employeur souhaite interdire la discussion de sujets politiques dans sa salle de pause. Est-ce conforme aux valeurs républicaines ?",
+        "choices": [
+          {
+            "text": "Non, la liberté d'opinion est un droit fondamental qui s'exerce aussi sur le lieu de travail, tant qu'elle ne perturbe pas la production.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le chef d'entreprise a tout pouvoir pour limiter la liberté de parole de ses salariés dans les locaux privés.",
+            "isCorrect": false
+          },
+          {
+            "text": "La discussion politique est interdite par le Code du travail pour éviter les conflits entre collègues.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seuls les syndicats ont le droit d'aborder des sujets politiques ou sociaux dans l'entreprise.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'opinion est garantie. L'employeur ne peut restreindre l'expression des salariés que pour des motifs de sécurité ou de bon fonctionnement du service."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-014",
+        "shortId": "Q-43729C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous interroge sur le rôle du Premier ministre. Quelle est sa principale mission constitutionnelle ?",
+        "choices": [
+          {
+            "text": "Il représente la France auprès des instances internationales en lieu et place du Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige l'action du Gouvernement et assure l'exécution des lois.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il préside le Conseil constitutionnel et nomme les magistrats de la Cour de cassation.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a le pouvoir exclusif de dissoudre l'Assemblée nationale en cas de crise.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre est le chef de l'administration et du gouvernement. Il met en œuvre la politique de la Nation votée par le Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-015",
+        "shortId": "Q-A82168",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir pourquoi le français est la seule langue utilisée dans les tribunaux et l'administration. Que dit la Constitution ?",
+        "choices": [
+          {
+            "text": "L'usage du français est une tradition orale sans fondement juridique écrit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les langues régionales sont interdites par la loi dans toute la sphère privée.",
+            "isCorrect": false
+          },
+          {
+            "text": "La langue de la République est le français, garantissant l'unité de la Nation et l'égalité d'accès au droit.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administration choisit la langue la plus utilisée par la population locale.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution établit le français comme langue officielle pour assurer une compréhension mutuelle et une égalité devant les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-016",
+        "shortId": "Q-43E96C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne souhaite quitter le territoire français pour s'installer à l'étranger. L'État peut-il s'y opposer pour des raisons administratives simples ?",
+        "choices": [
+          {
+            "text": "Oui, tout citoyen doit obtenir un visa de sortie délivré par le ministère de l'Économie.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le départ définitif est interdit pour les personnes ayant reçu une éducation gratuite en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire le départ uniquement si la personne est sous le coup d'une décision judiciaire spécifique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'aller et venir est un principe constitutionnel qui inclut le droit de quitter le pays librement.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de mouvement est fondamentale. Elle ne peut être restreinte que par la justice (contrôle judiciaire) ou pour des impératifs de sécurité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-017",
+        "shortId": "Q-0B52C0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un fonctionnaire de police refuse d'enregistrer une plainte pour une raison discriminatoire. Quel recours possède le citoyen ?",
+        "choices": [
+          {
+            "text": "Saisir le Défenseur des droits pour faire respecter ses droits et dénoncer la discrimination.",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander un arbitrage direct au Président de la République par courrier simple.",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter l'affaire devant le conseil municipal de sa ville de résidence.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'existe aucun recours contre les décisions des forces de l'ordre.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une autorité indépendante chargée de protéger les citoyens contre les abus des services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-018",
+        "shortId": "Q-F18000",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une fête nationale, pourquoi les drapeaux sont-ils mis en berne ou les cérémonies organisées ? Quel est l'objectif républicain ?",
+        "choices": [
+          {
+            "text": "Il s'agit uniquement de respecter un protocole militaire obligatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un outil de cohésion nationale pour honorer la mémoire collective et les valeurs communes.",
+            "isCorrect": true
+          },
+          {
+            "text": "Ces cérémonies sont une obligation diplomatique imposée par les traités internationaux.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles visent à rappeler les dates clés du calendrier judiciaire français.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les commémorations nationales renforcent le sentiment d'appartenance à la République et le respect des sacrifices passés pour la liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-019",
+        "shortId": "Q-78E698",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si le droit de propriété est absolu en France. Quelle est la limite prévue par la loi ?",
+        "choices": [
+          {
+            "text": "Le droit de propriété peut être limité pour cause d'utilité publique, moyennant une juste et préalable indemnité.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État peut confisquer n'importe quel bien privé sans justification si le budget national est déficitaire.",
+            "isCorrect": false
+          },
+          {
+            "text": "La propriété privée n'existe pas en France, tous les biens appartiennent à la Nation.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le Président peut décider de retirer une propriété à un citoyen par décret secret.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inscrit dans la Déclaration de 1789, le droit de propriété est inviolable, sauf si l'intérêt général l'exige (ex: construction d'une route)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-020",
+        "shortId": "Q-E8B279",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un journal publie un article critiquant sévèrement la politique du gouvernement. Quelle valeur républicaine est exercée ?",
+        "choices": [
+          {
+            "text": "Le principe de souveraineté administrative.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte et d'opinion philosophique.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de réserve des médias d'information.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse et d'expression, piliers du contrôle démocratique.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La presse libre est indispensable pour informer les citoyens et permettre le débat contradictoire nécessaire à la démocratie."
+      }
+    }
+  ]
+}

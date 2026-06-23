@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-13",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-004",
+        "shortId": "Q-BBE5CA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un décret est signé par le Premier ministre. Pour qu'il soit opposable aux citoyens, quelle formalité doit être impérativement accomplie ?",
+        "choices": [
+          {
+            "text": "Il doit être approuvé par le Conseil constitutionnel avant sa publication.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être approuvé par un référendum populaire dans les six mois.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être notifié directement aux préfets de région par voie électronique sécurisée.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit être publié au Journal officiel de la République française pour être porté à la connaissance de tous.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La publicité des actes administratifs est une garantie de l'État de droit. Nul n'est censé ignorer la loi, mais l'État a l'obligation de la rendre accessible."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-040",
+        "shortId": "Q-48D469",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un enfant né à l'étranger de parents français, quelle démarche est nécessaire ?",
+        "choices": [
+          {
+            "text": "Un test de langue française immédiat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de naturalisation simplifiée",
+            "isCorrect": false
+          },
+          {
+            "text": "La transcription de l'acte de naissance à l'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription obligatoire à l'armée française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La transcription permet d'enregistrer la naissance dans les registres français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-046",
+        "shortId": "Q-BDB926",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle valeur complète 'Liberté' et 'Égalité' dans la devise française ?",
+        "choices": [
+          {
+            "text": "Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Fraternité invite à la solidarité entre tous les membres de la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-055",
+        "shortId": "Q-3DE7D0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une école publique refuse d'inscrire votre enfant car il n'est pas baptisé. C'est :",
+        "choices": [
+          {
+            "text": "Légal, chaque école a ses règles",
+            "isCorrect": false
+          },
+          {
+            "text": "Contraire au principe de laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "Normal si c'est une vieille école",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si les classes sont pleines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'école publique est laïque et ouverte à tous sans distinction religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-031",
+        "shortId": "Q-F00A61",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le racisme est-il protégé par la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Oui, car en France on peut tout dire sur tout le monde",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement si on le dit très discrètement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si cela concerne des personnes célèbres",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le racisme est un délit puni par la justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'expression s'arrête là où commence l'incitation à la haine, à la discrimination ou à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-021",
+        "shortId": "Q-381DAE",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi célèbre de 1905 définit la laïcité française ?",
+        "choices": [
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur le droit de vote des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'instruction obligatoire à 3 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi créant la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi établit que la République ne reconnaît ni ne subventionne aucun culte, tout en garantissant la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-064",
+        "shortId": "Q-D124FA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelles sont les couleurs du drapeau français. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Bleu, blanc et vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Rouge, blanc et bleu (dans cet ordre)",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, blanc et rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Blanc et bleu seulement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore bleu-blanc-rouge est né pendant la Révolution française. C'est un symbole de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-043",
+        "shortId": "Q-3358BB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous perdez votre titre de séjour. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Rien, vous attendez l'année prochaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous utilisez une photocopie périmée",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous déclarez la perte et demandez un duplicata",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous demandez les papiers d'un ami",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il faut signaler la perte immédiatement pour rester en situation régulière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-016",
+        "shortId": "Q-CAE6AC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a instauré le Premier Empire en France et a fait rédiger le Code civil en 1804 ?",
+        "choices": [
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis-Philippe",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon Ier a réorganisé l'administration française (préfets, lycées, Code civil) après la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-038",
+        "shortId": "Q-550248",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi la liberté de la presse est-elle importante ?",
+        "choices": [
+          {
+            "text": "Pour que les journaux soient distribués gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour permettre uniquement la publicité des entreprises",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir l'information libre et le débat démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour interdire aux citoyens de s'exprimer eux-mêmes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une presse libre est une condition indispensable pour que les citoyens puissent surveiller l'action du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-047",
+        "shortId": "Q-B83E4B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un sac abandonné dans le métro. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous le déplacez hors de la rame pour libérer le passage",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous prévenez un agent ou appelez le 17",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous le déposez au service des objets trouvés",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous attendez pour vérifier si quelqu'un revient le chercher",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Face à un objet abandonné, il faut éviter toute manipulation et alerter immédiatement les agents ou la police. Cette conduite limite les risques pour les usagers et permet une intervention sécurisée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-028",
+        "shortId": "Q-280145",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays partage la plus longue frontière terrestre avec la France (via la Guyane) ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Belgique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brésil",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une particularité géographique : la France partage plus de 700 km de frontière avec le Brésil en Amérique du Sud."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-037",
+        "shortId": "Q-C1B841",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen souhaite consulter le registre des délibérations de sa mairie. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, car la transparence de la vie publique permet à chaque citoyen de contrôler l'action des élus.",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, ces documents sont classés 'secret défense' pour protéger le maire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le citoyen a voté pour le maire actuel lors des dernières élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accès est payant et nécessite une autorisation du préfet de département.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie locale repose sur la transparence. Les décisions prises par les élus concernant la commune sont publiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-048",
+        "shortId": "Q-4FC46B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes appartient à la devise de la France ?",
+        "choices": [
+          {
+            "text": "La discipline",
+            "isCorrect": false
+          },
+          {
+            "text": "L'honneur",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise est : Liberté, Égalité, Fraternité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-065",
+        "shortId": "Q-B752D3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de dignité humaine interdit formellement :",
+        "choices": [
+          {
+            "text": "De soumettre une personne à des conditions de travail indignes",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser l'accès aux soins médicaux d'urgence à quiconque",
+            "isCorrect": false
+          },
+          {
+            "text": "De discriminer une personne en raison de son origine ou de son handicap",
+            "isCorrect": false
+          },
+          {
+            "text": "De traiter un être humain comme un objet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La dignité est un principe absolu qui protège l'intégrité de chaque personne contre toute dégradation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-031",
+        "shortId": "Q-B6D4FC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces départements d'outre-mer est une île située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion est un département français célèbre pour son volcan, le Piton de la Fournaise."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-071",
+        "shortId": "Q-B6D66D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande pourquoi voter est important. Quelle est la meilleure raison ?",
+        "choices": [
+          {
+            "text": "Pour remplir une obligation légale sous peine d'amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour valider automatiquement son titre de séjour ou sa carte d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour avoir accès à plus de services que les autres",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour choisir les personnes qui vont décider des lois et de l'avenir du pays",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voter permet aux citoyens de participer à la démocratie en choisissant leurs représentants politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-038",
+        "shortId": "Q-106271",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de manifester pour défendre ses idées ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de manifestation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Manifester pacifiquement est une liberté garantie par la loi française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-030",
+        "shortId": "Q-B34307",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'égalité entre les femmes et les hommes s'applique à :",
+        "choices": [
+          {
+            "text": "Principalement dans le domaine de l'éducation et de la santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les domaines (travail, politique, famille)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement au montant du salaire minimum",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le secteur public mais pas dans le secteur privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi favorise l'égal accès aux mandats électoraux et aux responsabilités professionnelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-014",
+        "shortId": "Q-944DB6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chanteuse française est mondialement connue pour 'La Vie en rose' et 'L'Hymne à l'amour' ?",
+        "choices": [
+          {
+            "text": "Dalida",
+            "isCorrect": false
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": true
+          },
+          {
+            "text": "Barbara",
+            "isCorrect": false
+          },
+          {
+            "text": "Mylène Farmer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Édith Piaf, surnommée 'la Môme', reste l'une des artistes françaises les plus célèbres à l'international."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-040",
+        "shortId": "Q-1EA671",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir comment sont financées les écoles publiques françaises. Quelle est la source principale ?",
+        "choices": [
+          {
+            "text": "Par les dons obligatoires des parents d'élèves en fonction de leurs revenus.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par les entreprises privées qui choisissent les programmes scolaires.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par les frais d'inscription annuels payés par chaque élève.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'impôt payé par les citoyens, garantissant la gratuité et l'égalité d'accès à l'éducation.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La gratuité de l'école publique est un pilier de la République. Elle permet à chaque enfant, quelle que soit sa richesse, d'apprendre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-032",
+        "shortId": "Q-58A3DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunissent les sénateurs pour travailler ?",
+        "choices": [
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat siège au Palais du Luxembourg à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-032",
+        "shortId": "Q-6FA1DA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez vous marier avec une personne du même sexe. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement à Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais sans cérémonie officielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi autorise le mariage pour tous",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France reconnaît l'égalité devant le mariage pour tous les couples depuis 2013."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-046",
+        "shortId": "Q-160A6D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naît en Suisse et se jette dans la mer à Marseille ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Rhône est un fleuve puissant utilisé pour la production d'électricité et le transport."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-043",
+        "shortId": "Q-069314",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale du congé maternité en France pour un premier enfant ?",
+        "choices": [
+          {
+            "text": "2 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "16 semaines",
+            "isCorrect": true
+          },
+          {
+            "text": "4 semaines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le congé maternité pour un 1er ou 2ème enfant est de 16 semaines (6 avant l'accouchement, 10 après). Il est obligatoire d'en prendre au moins 8."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-033",
+        "shortId": "Q-8F17D7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens souhaite créer un nouveau parti politique. Doivent-ils demander l'accord du Président ?",
+        "choices": [
+          {
+            "text": "Non, les partis politiques se forment et exercent leur activité librement en respectant la loi.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, toute nouvelle formation politique doit être validée par le ministère de la Défense.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accord est nécessaire uniquement si le parti compte plus de 10 000 membres.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les partis politiques sont interdits en France en dehors des deux plus anciens.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pluralisme politique est une garantie de la démocratie. La liberté d'association permet la création libre de groupements politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-005",
+        "shortId": "Q-B9FB58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat présidentiel dure 5 ans, on l'appelle le quinquennat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-016",
+        "shortId": "Q-440A48",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez quelqu'un dégrader volontairement un monument historique. C'est :",
+        "choices": [
+          {
+            "text": "Une forme d'expression artistique tolérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction mineure sans conséquence judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé s'il s'agit d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une dégradation de bien culturel punie par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Dégrader le domaine public ou les monuments est une infraction. Le respect du patrimoine est un devoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-017",
+        "shortId": "Q-4DBD70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville française, située dans le Grand Est, est le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Strasbourg est un symbole de la réconciliation entre la France et l'Allemagne et une capitale de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-004",
+        "shortId": "Q-EDF6C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le 'Parcours de soins coordonnés' mis en place par l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "À obtenir des médicaments gratuitement sans ordonnance",
+            "isCorrect": false
+          },
+          {
+            "text": "À être hospitalisé dans n'importe quel pays d'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "À choisir un médecin spécialiste sans passer par un généraliste",
+            "isCorrect": false
+          },
+          {
+            "text": "À être mieux remboursé en consultant son médecin traitant avant un spécialiste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le parcours de soins coordonnés consiste à confier la gestion de son dossier médical à un médecin traitant. Si vous ne le respectez pas, les remboursements de la Sécurité sociale sont moins élevés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-051",
+        "shortId": "Q-9E1258",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le don d'organes ?",
+        "choices": [
+          {
+            "text": "De bénéficier d'une réduction d'impôts pour le donneur",
+            "isCorrect": false
+          },
+          {
+            "text": "De sauver des vies de manière gratuite et anonyme",
+            "isCorrect": true
+          },
+          {
+            "text": "De recevoir une compensation financière de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "De faciliter l'accès aux soins médicaux pour le donneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le don repose sur la solidarité humaine et l'absence de profit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-003",
+        "shortId": "Q-06D48F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Sécurité, Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Paix, Progrès, Solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise Liberté, Égalité, Fraternité est inscrite dans la Constitution et symbolise l'union des citoyens français autour de trois valeurs fondamentales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-053",
+        "shortId": "Q-4ADF01",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez divorcer officiellement. Comment faire ?",
+        "choices": [
+          {
+            "text": "Déposer seul un formulaire de rupture à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Notifier la séparation par lettre recommandée pour la rendre opposable",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander l'enregistrement du divorce en préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Engager une procédure légale avec un avocat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le divorce suit une procédure juridique encadrée et nécessite l'intervention d'un avocat. Même en divorce par consentement mutuel sans juge, chaque époux doit être assisté et la convention est déposée chez un notaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-010",
+        "shortId": "Q-473B61",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel musée parisien, le plus visité au monde, peut-on voir la Joconde ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Louvre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Centre Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Quai Branly",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ancien palais des rois, le Louvre abrite des milliers d'œuvres d'art, de l'Antiquité jusqu'au XIXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-042",
+        "shortId": "Q-2267E7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Service National Universel' (SNU) ?",
+        "choices": [
+          {
+            "text": "Un examen final pour devenir avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Un projet destiné aux jeunes de 15 à 17 ans pour promouvoir la citoyenneté",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe pour financer l'armée française",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abonnement gratuit à tous les journaux nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SNU comporte un séjour de cohésion et une mission d'intérêt général pour renforcer le lien social et l'engagement des jeunes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-023",
+        "shortId": "Q-5DD016",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le chef des armées en France ?",
+        "choices": [
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le chef d'état-major des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon la Constitution, le Président préside les conseils et comités supérieurs de la Défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-062",
+        "shortId": "Q-A6EAA1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du budget de l'État ?",
+        "choices": [
+          {
+            "text": "Il le vote et l'autorise chaque année",
+            "isCorrect": true
+          },
+          {
+            "text": "Il le propose mais le Président l'adopte seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Il en délègue le contrôle à la Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il le valide uniquement en cas de déficit public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement contrôle la manière dont l'argent public est utilisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-025",
+        "shortId": "Q-9A986B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits politiques spécifiques aux citoyens de nationalité française ?",
+        "choices": [
+          {
+            "text": "Le droit de travailler et de circuler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote et d'être élu aux élections nationales",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se marier et d'avoir des enfants",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'accéder aux soins hospitaliers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté liée à la nationalité permet de participer à l'exercice de la souveraineté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-013",
+        "shortId": "Q-155E4E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Espagne ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Pyrénées s'étendent de la Méditerranée à l'Océan Atlantique et séparent la France de la péninsule ibérique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-025",
+        "shortId": "Q-9140C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la 'Protection Universelle Maladie' (PUMA) ?",
+        "choices": [
+          {
+            "text": "À garantir la prise en charge des frais de santé à toute personne travaillant ou résidant en France de manière stable et régulière",
+            "isCorrect": true
+          },
+          {
+            "text": "À payer les frais d'obsèques en cas de décès accidentel",
+            "isCorrect": false
+          },
+          {
+            "text": "À assurer les touristes étrangers pendant leurs vacances en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À rembourser les dégâts causés par une catastrophe naturelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La PUMA simplifie l'accès à l'assurance maladie : toute personne qui réside en France de façon stable et régulière a droit à la prise en charge de ses frais de santé."
+      }
+    }
+  ]
+}

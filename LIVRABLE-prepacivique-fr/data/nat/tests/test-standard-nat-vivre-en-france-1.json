@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-vivre-en-france-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-vivre-standard-012",
+        "shortId": "Q-6F3381",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le DPE (Diagnostic de Performance Énergétique) et quelle est son importance pour la location ?",
+        "choices": [
+          {
+            "text": "Il est facultatif pour les locations saisonnières",
+            "isCorrect": false
+          },
+          {
+            "text": "Il classe le logement de A à G; les logements classés G+ sont interdits à la location (indécents)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il sert uniquement à calculer la taxe foncière",
+            "isCorrect": false
+          },
+          {
+            "text": "Il concerne uniquement la sécurité électrique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le DPE est obligatoire. Depuis 2023, les logements les plus énergivores (G+) sont interdits à la location. Cette interdiction s'étendra progressivement aux classes G, puis F."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-005",
+        "shortId": "Q-BEB3E9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le dispositif « 100% Santé » permet :",
+        "choices": [
+          {
+            "text": "D'être remboursé intégralement de toutes les consultations médicales",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir certaines lunettes, prothèses dentaires et aides auditives sans aucun reste à charge",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir une mutuelle gratuite pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "De ne pas payer l'hôpital en chambre particulière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce dispositif garantit un reste à charge zéro sur une sélection d'équipements (optique, dentaire, audio) si l'on possède une mutuelle responsable ou la Complémentaire Santé Solidaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-011",
+        "shortId": "Q-36FD81",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige financier inférieur à 5 000 euros, quelle démarche est obligatoire avant de saisir le juge ?",
+        "choices": [
+          {
+            "text": "Porter plainte à la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Tenter une conciliation ou une médiation de justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une mise en demeure par lettre recommandée au débiteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le tribunal d'instance sans démarche préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi impose désormais une tentative de résolution amiable (conciliateur de justice) avant de saisir le tribunal pour les petits litiges du quotidien."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-015",
+        "shortId": "Q-87B41F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai légal pour établir un constat amiable après un accident de voiture ?",
+        "choices": [
+          {
+            "text": "24 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "5 jours ouvrés",
+            "isCorrect": true
+          },
+          {
+            "text": "10 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Vous disposez de 5 jours ouvrés pour envoyer le constat amiable à votre assureur. En cas de vol du véhicule, le délai est réduit à 2 jours."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-008",
+        "shortId": "Q-2F4143",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le site « FranceConnect » ?",
+        "choices": [
+          {
+            "text": "À stocker ses documents administratifs de manière sécurisée",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder à la plupart des services publics en ligne avec un identifiant unique (Impôts, Ameli, ANTS)",
+            "isCorrect": true
+          },
+          {
+            "text": "À trouver un emploi en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À contacter l'ambassade de France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "FranceConnect simplifie les démarches en permettant d'utiliser un compte existant (Impôts, Ameli, La Poste) pour se connecter à des centaines de services administratifs sans recréer de mot de passe."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-002",
+        "shortId": "Q-1AD42E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La vignette « Crit'Air » est obligatoire pour circuler :",
+        "choices": [
+          {
+            "text": "Sur toutes les autoroutes de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement lors des pics de pollution",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Zones à Faibles Émissions (ZFE) mises en place dans les grandes agglomérations",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les véhicules diesel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La vignette Crit'Air (Certificat qualité de l'air) est obligatoire pour circuler et stationner dans les ZFE (Zones à Faibles Émissions) instaurées dans les métropoles pour réduire la pollution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-014",
+        "shortId": "Q-DC581C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Garantie Visale » ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'encadrement des loyers dans les zones tendues",
+            "isCorrect": false
+          },
+          {
+            "text": "Une caution gratuite accordée par Action Logement pour garantir le paiement du loyer",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide financière de la CAF pour couvrir les charges locatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Un fonds de garantie pour les travaux de rénovation énergétique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Visale est une caution solidaire gratuite qui rassure les propriétaires. Elle couvre les loyers impayés et les dégradations locatives, facilitant l'accès au logement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-003",
+        "shortId": "Q-F4C64E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Concernant le « Prélèvement à la source » de l'impôt sur le revenu :",
+        "choices": [
+          {
+            "text": "Il dispense totalement de faire une déclaration de revenus annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne s'applique qu'aux fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il supprime le quotient familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne dispense pas de la déclaration annuelle obligatoire pour régulariser la situation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Même si l'impôt est prélevé chaque mois sur le salaire, la déclaration de revenus annuelle reste obligatoire pour ajuster le taux et prendre en compte les crédits d'impôt ou changements de situation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-001",
+        "shortId": "Q-59DB61",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'« abandon de poste » (absence injustifiée prolongée), quelle est la nouvelle conséquence pour le salarié ?",
+        "choices": [
+          {
+            "text": "Il est licencié pour faute grave et touche le chômage",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est considéré comme démissionnaire et perd ses droits à l'assurance chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "L'employeur doit obligatoirement attendre 3 mois avant d'agir",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est mis en congé sans solde automatiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2023, le salarié qui abandonne son poste sans justification après une mise en demeure est présumé démissionnaire. Il ne bénéficie donc plus des allocations chômage, contrairement au licenciement pour faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-020",
+        "shortId": "Q-9B0500",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le timbre fiscal nécessaire pour un passeport ou un renouvellement de titre de séjour s'achète désormais :",
+        "choices": [
+          {
+            "text": "Uniquement en espèces à la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur papier à la Poste",
+            "isCorrect": false
+          },
+          {
+            "text": "En ligne (timbres.impots.gouv.fr) ou chez un buraliste agréé (format dématérialisé)",
+            "isCorrect": true
+          },
+          {
+            "text": "Au commissariat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le timbre fiscal est désormais dématérialisé. On l'achète en ligne ou en bureau de tabac, et on reçoit un code (QR code ou numéro) à fournir à l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-018",
+        "shortId": "Q-D3F964",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'Aide Juridictionnelle permet :",
+        "choices": [
+          {
+            "text": "D'être exempté de toute procédure judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise en charge par l'État (totale ou partielle) des frais de justice pour les personnes à faibles ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir un avocat commis d'office qui travaille gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir automatiquement un non-lieu dans une affaire pénale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État paie l'avocat et les frais de procédure (huissier, expertise) selon un barème, si le justiciable remplit les conditions de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-009",
+        "shortId": "Q-7382D9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'employeur peut-il renouveler la période d'essai d'un salarié librement ?",
+        "choices": [
+          {
+            "text": "Oui, autant de fois qu'il le souhaite",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le renouvellement n'est possible que s'il est prévu par la convention collective ET accepté par écrit par le salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, en informant le salarié à l'oral la veille",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le renouvellement est interdit en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le renouvellement n'est pas automatique. Il nécessite l'accord clair et écrit du salarié (mention « Lu et approuvé ») avant la fin de la période initiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-013",
+        "shortId": "Q-A21179",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'autorité parentale sur un enfant est-elle perdue en cas de divorce ?",
+        "choices": [
+          {
+            "text": "Oui, elle revient au parent qui a la garde",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle continue d'être exercée conjointement par les deux parents (sauf décision grave du juge)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le père perd systématiquement l'autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du revenu des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des parents est sans effet sur l'autorité parentale. Les décisions importantes (santé, scolarité, religion) doivent toujours être prises à deux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-017",
+        "shortId": "Q-048C8C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Si vous n'avez pas de médecin traitant déclaré, quelle est la conséquence financière ?",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas être soigné",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous êtes moins bien remboursé par la Sécurité sociale (30% au lieu de 70%)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez payer une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médecin peut refuser de vous voir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ne pas déclarer de médecin traitant vous place « hors parcours de soins coordonnés ». Le remboursement de la consultation tombe alors à 30% de la base tarifaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-004",
+        "shortId": "Q-71D546",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du préavis de départ pour un locataire situé en « Zone Tendue » (ex: Paris, Lyon) ?",
+        "choices": [
+          {
+            "text": "1 mois (au lieu de 3 mois), sans avoir à fournir de justificatif autre que l'adresse",
+            "isCorrect": true
+          },
+          {
+            "text": "3 mois incompressibles",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois, mais uniquement sur accord du propriétaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans les zones tendues (agglomérations où la demande de logement est forte), le préavis est réduit de droit à 1 mois pour le locataire, qu'il s'agisse d'un logement vide ou meublé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-006",
+        "shortId": "Q-50B0F5",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un logement vide (non meublé), quel est le montant maximum du dépôt de garantie ?",
+        "choices": [
+          {
+            "text": "1 mois de loyer hors charges",
+            "isCorrect": true
+          },
+          {
+            "text": "2 mois de loyer hors charges",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois de loyer charges comprises",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois de loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi limite le dépôt de garantie à 1 mois de loyer hors charges pour les locations nues. Pour les meublés, le plafond est de 2 mois hors charges."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-019",
+        "shortId": "Q-C1DD5D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La « Rupture Conventionnelle » du contrat de travail est :",
+        "choices": [
+          {
+            "text": "Une démission forcée",
+            "isCorrect": false
+          },
+          {
+            "text": "Un licenciement économique déguisé",
+            "isCorrect": false
+          },
+          {
+            "text": "La seule procédure permettant de rompre un CDI d'un commun accord en ouvrant droit au chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une rupture automatique après 3 absences",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement à la démission (pas de chômage) ou au licenciement (conflit/motif), la rupture conventionnelle est une séparation amiable négociée qui garantit l'indemnité chômage."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-010",
+        "shortId": "Q-F8BFC8",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le « Pass Culture » est un dispositif destiné aux jeunes pour :",
+        "choices": [
+          {
+            "text": "Voyager gratuitement en train",
+            "isCorrect": false
+          },
+          {
+            "text": "Financer des activités culturelles (livres, concerts, cinéma) via une application dédiée",
+            "isCorrect": true
+          },
+          {
+            "text": "Payer leur permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "S'inscrire à l'université sans frais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Attribué aux jeunes de 15 à 18 ans, ce crédit (jusqu'à 300€ à 18 ans) permet d'acheter des biens et services culturels sur une application géolocalisée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-016",
+        "shortId": "Q-86FAEF",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, l'instruction (école ou maison) est obligatoire pour les enfants âgés de :",
+        "choices": [
+          {
+            "text": "6 à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "3 à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 à 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire dès 3 ans. De 16 à 18 ans, il existe une « obligation de formation » (scolarité, apprentissage, emploi ou service civique)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-007",
+        "shortId": "Q-B86FA9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence majeure entre le PACS et le Mariage en cas de décès sans testament ?",
+        "choices": [
+          {
+            "text": "Aucune différence, le partenaire survivant hérite automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS n'est pas héritier légal (il n'hérite de rien sans testament)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le partenaire de PACS hérite de la moitié des biens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS hérite uniquement du logement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement aux époux, les partenaires de PACS ne sont pas héritiers l'un de l'autre. Pour protéger le survivant, il est impératif de rédiger un testament."
+      }
+    }
+  ]
+}

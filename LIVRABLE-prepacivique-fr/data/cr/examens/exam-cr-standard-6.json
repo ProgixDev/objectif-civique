@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-6",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-001",
+        "shortId": "Q-E08701",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans un établissement public du second degré, un élève se présente en classe avec un couvre-chef manifestant ostensiblement une appartenance religieuse. Quelle est la base légale de l'interdiction opposée par l'administration ?",
+        "choices": [
+          {
+            "text": "La loi du 15 mars 2004 encadrant le port de signes ou de tenues manifestant une appartenance religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Le règlement intérieur de l'établissement, souverain en matière de discipline",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe constitutionnel de la liberté de conscience des enseignants",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de la laïcité à l'école, qui a valeur de loi organique depuis 2013",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 15 mars 2004 interdit le port de signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse dans les écoles, collèges et lycées publics. Elle vise à protéger la sérénité du cadre pédagogique et la liberté de conscience des mineurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-044",
+        "shortId": "Q-E7678E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre vélo a été volé dans la rue, vous ne savez pas par qui. Vous portez plainte :",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas porter plainte sans connaître l'auteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Auprès de votre assurance uniquement, pas de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Contre X (inconnu)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous faites une main courante, pas une plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Lorsque l’auteur d’une infraction est inconnu, il est possible de déposer une plainte « contre X ». La plainte permet l’ouverture d’une enquête par les services de police ou de gendarmerie. Une main courante ne déclenche pas automatiquement d’enquête, et l’assurance peut exiger un dépôt de plainte pour indemniser le vol."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-060",
+        "shortId": "Q-B26885",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La protection des données personnelles (RGPD) se rattache à quelle valeur républicaine ?",
+        "choices": [
+          {
+            "text": "Le principe de solidarité entre générations",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité devant l'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de continuité du service public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Liberté individuelle et le respect de la vie privée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le contrôle de ses propres données est un prolongement de la liberté individuelle. La République assure que l'intimité numérique est protégée contre les surveillances illégitimes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-054",
+        "shortId": "Q-28C07B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent immobilier refuse de vous louer un appartement parce que vous êtes étranger. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, il choisit qui il veut",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le règlement de copropriété l'autorise explicitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une discrimination fondée sur l'origine ou la nationalité, punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous ne parlez pas français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La discrimination au logement fondée sur l'origine est un délit. Le propriétaire ou l'agent risque jusqu'à 3 ans de prison et 45 000 € d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-029",
+        "shortId": "Q-54715D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La liberté de culte en France est garantie par :",
+        "choices": [
+          {
+            "text": "La loi de 1905, sous réserve du respect impérieux de l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Le bon vouloir discrétionnaire du préfet de chaque département",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature obligatoire d'une charte de piété nationale par l'usager",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour les religions inscrites au registre des cultes reconnus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République garantit la liberté de conscience et le libre exercice des cultes. La seule limite légale est la préservation de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-061",
+        "shortId": "Q-FA8292",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre propriétaire veut entrer chez vous pour vérifier l'état de l'appartement en votre absence. A-t-il le droit ?",
+        "choices": [
+          {
+            "text": "Oui, s'il vous a prévenu 48h à l'avance par courrier",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une clause du bail l'y autorise généralement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une violation de domicile. Il doit avoir votre accord pour entrer",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour les visites d'entretien prévues par la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le locataire a la jouissance exclusive du logement. Le propriétaire n'a pas le droit d'y entrer sans autorisation, sous peine de poursuites pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-021",
+        "shortId": "Q-49AF82",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République française ?",
+        "choices": [
+          {
+            "text": "Quatre ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Cinq ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Six ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Sept ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis le référendum de l'an 2000, le Président est élu pour cinq ans (le quinquennat) au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-042",
+        "shortId": "Q-61A94B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez scolariser votre enfant à la maison pour convenance personnelle. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, c'est la liberté d'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'autorisation est désormais refusée pour simple convenance personnelle. Il faut un motif lié à l'enfant (santé, handicap, sport de haut niveau)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, jusqu'à 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous avez le bac",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi confortant les principes de la République (2021) a restreint l'instruction en famille. Elle n'est plus un droit mais une exception soumise à autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-002",
+        "shortId": "Q-EB2C38",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel ministre de Louis XIV est à l'origine de l'ordonnance de la Marine de 1681, texte précurseur du droit maritime moderne ?",
+        "choices": [
+          {
+            "text": "Jean-Baptiste Colbert",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Marquis de Louvois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Cardinal de Mazarin",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Duc de Sully",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Colbert a codifié les usages de la mer pour favoriser le commerce et la puissance navale française. Cette ordonnance est l'un des piliers de la législation maritime internationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-069",
+        "shortId": "Q-1123BF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employeur privé refuse d'embaucher une candidate parce qu'elle porte le voile. La candidate peut-elle contester cette décision ?",
+        "choices": [
+          {
+            "text": "Non, l'employeur privé a une liberté totale de recrutement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf si l'entreprise a inscrit une clause de neutralité justifiée dans son règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, la laïcité s'applique de la même manière dans le privé que dans le public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, dans tous les cas car c'est une discrimination absolue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le secteur privé, une clause de neutralité n'est légale que si elle est générale et justifiée par la nature des tâches (contact client notamment). Sinon, c'est une discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-102",
+        "shortId": "Q-4D1119",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le système de protection sociale français repose sur le principe de « solidarité nationale ». Cela signifie que les cotisations sociales sont :",
+        "choices": [
+          {
+            "text": "Optionnelles selon que l'on souhaite être soigné ou non",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoires pour tous les revenus d'activité et de remplacement",
+            "isCorrect": true
+          },
+          {
+            "text": "Remboursées intégralement si l'on n'a pas été malade dans l'année",
+            "isCorrect": false
+          },
+          {
+            "text": "Fixées librement par chaque citoyen lors de sa déclaration d'impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le système est contributif et obligatoire : on cotise selon ses ressources pour financer les risques de tous (vieillesse, maladie, famille). On ne peut pas s'en désengager au profit d'assurances privées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-089",
+        "shortId": "Q-3E9C46",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe du XXe siècle, auteur de 'La Condition humaine', fut ministre de la Culture sous De Gaulle ?",
+        "choices": [
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": false
+          },
+          {
+            "text": "Raymond Aron",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis Althusser",
+            "isCorrect": false
+          },
+          {
+            "text": "André Malraux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Malraux a créé les Maisons de la Culture et lancé une vaste politique de restauration du patrimoine historique français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-046",
+        "shortId": "Q-DA6D42",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La francisation du prénom lors de l'acquisition de la nationalité française est juridiquement :",
+        "choices": [
+          {
+            "text": "Une obligation légale absolue sous peine de nullité de la naturalisation obtenue",
+            "isCorrect": false
+          },
+          {
+            "text": "Une option offerte par la loi pour favoriser l'intégration, soumise à la demande de l'intéressé",
+            "isCorrect": true
+          },
+          {
+            "text": "Une pratique administrative devenue illégale et discriminatoire depuis l'année 2010",
+            "isCorrect": false
+          },
+          {
+            "text": "Une mesure réservée exclusivement aux demandeurs issus de l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi permet à ceux qui acquièrent la nationalité française de demander la francisation de leur nom ou de leurs prénoms afin de faciliter leur insertion dans la communauté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-088",
+        "shortId": "Q-2E8C67",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être à la fois député national (Assemblée nationale) et député européen ?",
+        "choices": [
+          {
+            "text": "Oui, c'est fréquent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le cumul est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les sénateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si on est maire aussi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Non, le cumul des mandats est interdit. On ne peut pas être député national (ou maire exécutif) et député européen en même temps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-081",
+        "shortId": "Q-9D91BC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Jusqu'à quelle réforme législative une femme mariée avait-elle besoin de l'autorisation de son mari pour ouvrir un compte bancaire en son nom propre ?",
+        "choices": [
+          {
+            "text": "La loi de 1901 sur les associations",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 13 juillet 1965",
+            "isCorrect": true
+          },
+          {
+            "text": "Le décret-loi de 1944 sur le vote des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Veil de 1975",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 1965 a profondément modifié les régimes matrimoniaux, permettant aux femmes de travailler sans l'accord de leur mari et de gérer librement leurs comptes et leurs biens propres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-054",
+        "shortId": "Q-A4DA6C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe est chargé de diriger les services d'un ministère sous l'autorité du ministre ?",
+        "choices": [
+          {
+            "text": "Le cabinet ministériel",
+            "isCorrect": false
+          },
+          {
+            "text": "La commission parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secrétariat général du ministère",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le secrétaire général assure la continuité de l'action administrative par-delà les changements de ministres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-015",
+        "shortId": "Q-8D2B4B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Sur les documents officiels, le sigle 'RF' accompagne souvent Marianne. Que symbolise Marianne dans la culture républicaine ?",
+        "choices": [
+          {
+            "text": "Une sainte patronne protectrice de la Nation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'épouse du premier Président de la République française",
+            "isCorrect": false
+          },
+          {
+            "text": "L'allégorie de la République et de ses valeurs de liberté et de raison",
+            "isCorrect": true
+          },
+          {
+            "text": "Le symbole de la puissance coloniale historique française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marianne est une figure allégorique représentant la République Française. Elle incarne la Liberté (souvent représentée avec un bonnet phrygien) et les valeurs démocratiques issues de la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-067",
+        "shortId": "Q-74C270",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les députés européens sont-ils regroupés par nationalité ?",
+        "choices": [
+          {
+            "text": "Oui, par langue",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par ordre alphabétique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par affinités politiques (groupes politiques)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, ils sont assis par pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés ne siègent pas par pays, mais par affinités politiques dans des groupes transnationaux (ex: PPE, S&D, Renew...), favorisant une vision européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-048",
+        "shortId": "Q-069E34",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous demandez à la mairie le budget de la commune. On vous refuse l'accès. Est-ce normal ?",
+        "choices": [
+          {
+            "text": "Oui, seuls les conseillers municipaux y ont accès",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut justifier d'un intérêt légitime pour le consulter",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le budget d'une commune est un document administratif public accessible à tout citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sauf pendant la période du vote budgétaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La transparence de la vie publique garantit l'accès aux documents budgétaires des collectivités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-043",
+        "shortId": "Q-BDF6D0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain du XIXe siècle est l'auteur des 'Misérables' et de 'Notre-Dame de Paris', œuvres emblématiques de la littérature mondiale ?",
+        "choices": [
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": false
+          },
+          {
+            "text": "Prosper Mérimée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Hugo est une figure centrale de la vie politique et littéraire, défenseur acharné de la démocratie et des exclus."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-007",
+        "shortId": "Q-D181D0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la définition exacte de la « souveraineté nationale » en droit français ?",
+        "choices": [
+          {
+            "text": "Le pouvoir appartient aux départements et régions de façon autonome",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir appartient à la Nation qui l'exerce par ses représentants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir appartient au Président qui le délègue au peuple",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est partagé équitablement avec l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 3 de la Constitution dispose que la souveraineté appartient au peuple, qui l'exerce par la voie de ses représentants élus ou par le référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-012",
+        "shortId": "Q-97DE5E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle élection se fait au suffrage universel indirect ?",
+        "choices": [
+          {
+            "text": "Les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections sénatoriales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les élections législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections municipales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les élections sénatoriales se déroulent au suffrage universel indirect. Les citoyens élisent des « grands électeurs » (maires, conseillers...) qui, à leur tour, élisent les sénateurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-051",
+        "shortId": "Q-E3BC0F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez savoir combien l'État dépense pour l'Éducation ou la Défense. Où trouver l'info ?",
+        "choices": [
+          {
+            "text": "Seuls les députés ont accès à ces informations",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur votre avis d'imposition ou le site du Ministère du Budget (Loi de Finances)",
+            "isCorrect": true
+          },
+          {
+            "text": "En faisant une demande CADA auprès du ministère concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "Ces données ne sont publiées qu'annuellement dans le rapport de la Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis quelques années, l'avis d'imposition présente une infographie expliquant la répartition de l'argent public pour informer le citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-033",
+        "shortId": "Q-0A8CFB",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1944, quel organe a été créé par Jean Moulin pour unifier les mouvements de Résistance intérieure ?",
+        "choices": [
+          {
+            "text": "Le Comité français de Libération nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil national de la Résistance",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Forces françaises libres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le réseau de l'Homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CNR a permis de coordonner l'action contre l'occupant et de préparer les réformes sociales de la Libération."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-014",
+        "shortId": "Q-A123D2",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge un enfant peut-il commencer un contrat d'apprentissage en France, sous certaines conditions ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'apprentissage est accessible dès 15 ans si l'enfant a terminé sa scolarité de collège."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-050",
+        "shortId": "Q-BC9D03",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, la torture et les peines inhumaines sont :",
+        "choices": [
+          {
+            "text": "Autorisées en cas de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Acceptées pour les criminels dangereux",
+            "isCorrect": false
+          },
+          {
+            "text": "Formellement interdites par la Constitution et les traités",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumises au choix des juges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le respect de la dignité humaine interdit tout traitement dégradant, sans exception aucune."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-017",
+        "shortId": "Q-FD3E41",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui possède l'initiative de la loi en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre (Gouvernement) et les parlementaires (Députés et Sénateurs)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'initiative de la loi est partagée : elle appartient au Premier ministre (projets de loi) et aux parlementaires (propositions de loi). C'est un équilibre entre exécutif et législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-015",
+        "shortId": "Q-4F26C2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels éléments constituent le « bloc de constitutionnalité » utilisé par le Conseil constitutionnel pour contrôler la conformité des lois ?",
+        "choices": [
+          {
+            "text": "La Constitution de 1958, la DDHC de 1789, le Préambule de 1946 et la Charte de l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil, le Code pénal et les traités internationaux ratifiés par la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règlement intérieur de l'Assemblée nationale et les circulaires ministérielles",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration universelle des droits de l'homme de 1948 exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le bloc de constitutionnalité est l'ensemble des normes de valeur suprême en France. Il inclut le texte de 1958 mais aussi les textes visés par son préambule (DDHC, Préambule de 1946) ainsi que la Charte de l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-090",
+        "shortId": "Q-A6993E",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution européenne, située à Luxembourg, veille au respect du droit de l'Union dans tous les États membres ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour européenne des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque centrale européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice de l'Union européenne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle garantit l'application uniforme des traités et règle les litiges entre les institutions et les États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-021",
+        "shortId": "Q-1A889B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle instance est chargée d'organiser les élections professionnelles au sein d'une entreprise de plus de 11 salariés ?",
+        "choices": [
+          {
+            "text": "Le syndicat majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Comité Social et Économique (CSE)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Inspection du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Direction des Ressources Humaines seule",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CSE est l'instance de représentation du personnel dans l'entreprise, remplaçant les anciens délégués du personnel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-034",
+        "shortId": "Q-648CFF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme le Premier ministre en France ?",
+        "choices": [
+          {
+            "text": "Les députés à la majorité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple français par un vote spécifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen des juges de la Cour de cassation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président nomme le Premier ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-060",
+        "shortId": "Q-6B2F7F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence entre le Conseil européen et le Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil européen est l'organe législatif, le Conseil de l'UE l'exécutif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'UE siège à Strasbourg uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la même chose",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen réunit les chefs d'État, le Conseil de l'UE réunit les ministres",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État pour définir les stratégies. Le Conseil de l'Union européenne (ou Conseil) réunit les ministres pour voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-101",
+        "shortId": "Q-5AA789",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le vote est-il obligatoire en France ?",
+        "choices": [
+          {
+            "text": "Oui, sous peine d'une amende de 150 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais c'est un devoir civique fortement encouragé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, uniquement pour les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, et il n'est même pas recommandé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le vote n'est pas obligatoire (contrairement à la Belgique). Cependant, il est considéré comme un devoir civique essentiel pour faire vivre la démocratie et exprimer la volonté du peuple."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-058",
+        "shortId": "Q-7FBEF3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a instauré la fête nationale du 14 juillet en 1880 pour célébrer l'unité de la nation ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Adolphe Thiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement de la IIIe République",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Gambetta",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La date commémore à la fois la prise de la Bastille (1789) et la fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-003",
+        "shortId": "Q-7BC635",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour bénéficier d'un remboursement optimal par l'Assurance Maladie, que doit faire un assuré de plus de 16 ans ?",
+        "choices": [
+          {
+            "text": "Consulter uniquement des spécialistes en secteur 2",
+            "isCorrect": false
+          },
+          {
+            "text": "Se rendre directement aux urgences pour tout soin",
+            "isCorrect": false
+          },
+          {
+            "text": "Déclarer un médecin traitant et respecter le parcours de soins",
+            "isCorrect": true
+          },
+          {
+            "text": "Changer de mutuelle tous les ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le parcours de soins coordonnés consiste à consulter son médecin traitant avant tout spécialiste pour garantir une meilleure prise en charge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-039",
+        "shortId": "Q-FB5D50",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, la « liberté contractuelle » permet à deux personnes de signer le contrat de leur choix, à condition :",
+        "choices": [
+          {
+            "text": "De ne pas utiliser de langue étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Que le contrat soit écrit par un avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "De respecter les lois d'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Que le contrat soit validé par la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté contractuelle est limitée par l'ordre public : on ne peut pas contracter pour faire quelque chose d'illégal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-059",
+        "shortId": "Q-9D2DEF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Conseil européen ?",
+        "choices": [
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil européen siège à Bruxelles dans le bâtiment Europa."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-071",
+        "shortId": "Q-EE3F63",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 10 juillet 2019, dite loi « anti-fessée », a pour objectif :",
+        "choices": [
+          {
+            "text": "De retirer systématiquement la garde des enfants aux parents sévères",
+            "isCorrect": false
+          },
+          {
+            "text": "D'interdire l'instruction en famille pour tous les mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "De prohiber les violences éducatives ordinaires (physiques ou verbales)",
+            "isCorrect": true
+          },
+          {
+            "text": "De rendre obligatoire un certificat de parentalité auprès du juge des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi inscrit dans le Code civil que l'autorité parentale s'exerce sans violences physiques ou psychologiques. Elle vise un changement pédagogique et culturel dans l'éducation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-044",
+        "shortId": "Q-085D99",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve côtier français traverse la ville de Nantes avant de se jeter dans l'estuaire de Saint-Nazaire ?",
+        "choices": [
+          {
+            "text": "La Vilaine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sèvre Nantaise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Erdre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Loire est le plus long fleuve de France, connu pour ses paysages inscrits au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-067",
+        "shortId": "Q-A7D74C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le prélèvement à la source ?",
+        "choices": [
+          {
+            "text": "Une taxe supplémentaire sur les placements financiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cotisation pour la retraite complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement de l'impôt sur le revenu directement sur le salaire ou la retraite",
+            "isCorrect": true
+          },
+          {
+            "text": "Un acompte sur la TVA",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il permet de payer l'impôt au moment où l'on perçoit ses revenus, évitant ainsi un décalage d'un an."
+      }
+    }
+  ]
+}

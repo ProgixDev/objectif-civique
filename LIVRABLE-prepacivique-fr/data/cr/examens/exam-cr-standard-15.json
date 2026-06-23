@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-15",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-056",
+        "shortId": "Q-5DE823",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut demander la démission du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale via la motion de censure",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat par un vote solennel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'expression du contrôle du Parlement sur l'exécutif : le Gouvernement est responsable devant l'Assemblée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-012",
+        "shortId": "Q-3933AE",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez couper un grand arbre dans votre jardin. Devez-vous demander une autorisation ?",
+        "choices": [
+          {
+            "text": "Oui, si l'arbre est situé dans un Espace Boisé Classé (EBC) selon le plan local d'urbanisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, vous êtes libre chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'arbre dépasse 20 mètres",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'arbre fait de l'ombre à votre piscine ou celle du voisin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de propriété est limité par les règles d'urbanisme. Il faut vérifier en mairie si votre terrain est soumis à une protection particulière des arbres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-034",
+        "shortId": "Q-648CFF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme le Premier ministre en France ?",
+        "choices": [
+          {
+            "text": "Les députés à la majorité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple français par un vote spécifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen des juges de la Cour de cassation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président nomme le Premier ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-016",
+        "shortId": "Q-8892A4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la procédure permettant à un justiciable de contester la constitutionnalité d'une loi déjà en vigueur lors d'un procès ?",
+        "choices": [
+          {
+            "text": "L'appel en cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recours pour excès de pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "La Question Prioritaire de Constitutionnalité (QPC)",
+            "isCorrect": true
+          },
+          {
+            "text": "La saisine pour avis du Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La QPC, instaurée en 2008, permet à toute personne partie à un procès de soutenir qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-055",
+        "shortId": "Q-0D4182",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de mutabilité du service public implique que :",
+        "choices": [
+          {
+            "text": "Les fonctionnaires titulaires peuvent changer de poste chaque semaine sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "L'administration peut devenir une entité privée lucrative du jour au lendemain sans information",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service public doit s'adapter aux évolutions de l'intérêt général et aux besoins des usagers",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administration républicaine fonctionne sans aucune règle fixe ou prévisible",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Également appelé 'principe d'adaptation', il signifie que le service public ne doit pas rester figé et doit évoluer technologiquement et socialement pour rester utile à la cité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-045",
+        "shortId": "Q-597E3A",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'élection des sénateurs en France se distingue de celle des députés car elle se fait :",
+        "choices": [
+          {
+            "text": "Au suffrage universel direct par tous les citoyens inscrits",
+            "isCorrect": false
+          },
+          {
+            "text": "Par un collège électoral composé uniquement de ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel indirect par des grands électeurs (élus locaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Par tirage au sort parmi les citoyens âgés de plus de 40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus par environ 160 000 grands électeurs (députés, conseillers régionaux, départementaux et surtout délégués des conseils municipaux), ce qui assure la représentation des territoires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-017",
+        "shortId": "Q-2CA3AA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient le pouvoir législatif en France ?",
+        "choices": [
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Gouvernement et ses ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État et les Préfets",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement vote la loi. Il est composé de deux chambres : l'Assemblée nationale, élue directement, et le Sénat, élu indirectement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-098",
+        "shortId": "Q-569E53",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quelle autorité indépendante est chargée de veiller à ce que l'informatique ne porte atteinte ni à l'identité humaine, ni à la vie privée ?",
+        "choices": [
+          {
+            "text": "La Haute Autorité pour la transparence de la vie publique (HATVP)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission Nationale de l'Informatique et des Libertés (CNIL)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Supérieur de l'Audiovisuel (devenu ARCOM)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Créée en 1978, la CNIL informe, accompagne et contrôle l'usage des données personnelles par les entreprises et les administrations, et peut prononcer des sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-021",
+        "shortId": "Q-047C00",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel préfet de la Seine a transformé Paris sous le Second Empire en perçant de larges boulevards et en créant de nombreux parcs ?",
+        "choices": [
+          {
+            "text": "Le Baron Haussmann",
+            "isCorrect": true
+          },
+          {
+            "text": "Eugène Belgrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Charles Alphand",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les travaux d'Haussmann ont modernisé Paris pour des raisons d'hygiène et de sécurité, donnant à la ville son visage actuel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-041",
+        "shortId": "Q-9E63B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le secret médical ?",
+        "choices": [
+          {
+            "text": "Il n'existe pas dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est absolu et protège les informations confiées par le patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Il ne s'applique qu'aux maladies contagieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut être levé sur simple demande de l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le secret médical garantit au patient que ses informations de santé ne seront pas divulguées, protégeant ainsi sa dignité et sa vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-080",
+        "shortId": "Q-14A3EF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez vous baigner dans un lac non surveillé où un panneau dit « Baignade interdite ». Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende, car la baignade est interdite et potentiellement dangereuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune sanction car la baignade est libre en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple remarque verbale des autorités",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contravention uniquement si un accident survient",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Braver une interdiction municipale de baignade (arrêté du maire) est passible d'une amende de 1ère classe (38€), mais le vrai risque est la sécurité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-041",
+        "shortId": "Q-6F9E49",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel compositeur de l'époque baroque a dirigé la musique à la cour de Louis XIV et inventé l'opéra à la française ?",
+        "choices": [
+          {
+            "text": "François Couperin",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Baptiste Lully",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Philippe Rameau",
+            "isCorrect": false
+          },
+          {
+            "text": "Marc-Antoine Charpentier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lully a dominé la vie musicale française du XVIIe siècle en créant la 'tragédie lyrique'."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-014",
+        "shortId": "Q-3422B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 4 de la Déclaration de 1789 dispose que la liberté consiste à :",
+        "choices": [
+          {
+            "text": "Faire tout ce que l'on veut sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Pouvoir faire tout ce qui ne nuit pas à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "N'obéir qu'à sa propre conscience personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter uniquement les lois religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cet article fonde les limites de la liberté : l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-046",
+        "shortId": "Q-28E3A8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence régalienne (restée à l'État) ?",
+        "choices": [
+          {
+            "text": "L'organisation des transports scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence liée à la souveraineté (armée, justice, diplomatie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le développement économique local",
+            "isCorrect": false
+          },
+          {
+            "text": "La gestion des équipements sportifs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les compétences régaliennes (Armée, Justice, Police, Diplomatie) sont celles qui touchent à la souveraineté. Elles restent le monopole de l'État et ne sont pas décentralisées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-068",
+        "shortId": "Q-794067",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant se fait harceler à l'école. L'établissement ne fait rien. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Déposer une main courante au commissariat et attendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer un courrier recommandé au directeur uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Alerter le référent harcèlement, l'Inspection Académique et appeler le 3020 (Numéro d'aide)",
+            "isCorrect": true
+          },
+          {
+            "text": "Saisir directement le tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le harcèlement scolaire est pris très au sérieux. Les parents doivent signaler les faits à la hiérarchie de l'Éducation Nationale et peuvent porter plainte."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-069",
+        "shortId": "Q-776A1D",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel poète symboliste du XIXe siècle est l'auteur des 'Fleurs du mal', recueil condamné à sa sortie pour outrage à la morale ?",
+        "choices": [
+          {
+            "text": "Arthur Rimbaud",
+            "isCorrect": false
+          },
+          {
+            "text": "Paul Verlaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Stéphane Mallarmé",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles Baudelaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Baudelaire a révolutionné la poésie en explorant la modernité, le spleen et l'esthétique du mal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-066",
+        "shortId": "Q-63808B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un étranger demande à la préfecture de recevoir ses documents officiels traduits dans sa langue maternelle. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "La préfecture doit fournir une traduction dans n'importe quelle langue demandée",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture peut refuser car le français est la seule langue officielle des actes administratifs",
+            "isCorrect": true
+          },
+          {
+            "text": "Seules les langues de l'Union européenne sont acceptées",
+            "isCorrect": false
+          },
+          {
+            "text": "La traduction est obligatoire pour les ressortissants de pays francophones",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution fait du français la langue de la République. Les documents administratifs sont rédigés en français, garantissant l'égalité de traitement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-083",
+        "shortId": "Q-BB4DA7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Commission exécute-t-elle le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "Oui, elle gère et exécute le budget",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est chaque pays",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Commission exécute le budget voté par le Parlement et le Conseil. Elle gère les fonds structurels et les programmes (Erasmus, PAC...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-065",
+        "shortId": "Q-824B72",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur ne vous a pas payé votre salaire depuis 2 mois. Que faire ?",
+        "choices": [
+          {
+            "text": "Cesser le travail immédiatement sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer une mise en demeure par courrier simple",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Conseil de Prud'hommes (référé) pour obtenir le paiement",
+            "isCorrect": true
+          },
+          {
+            "text": "Déposer une plainte pénale au commissariat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le non-paiement du salaire est une faute grave de l'employeur. Le référé prud'homal permet d'obtenir une condamnation rapide au paiement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-089",
+        "shortId": "Q-3E9C46",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe du XXe siècle, auteur de 'La Condition humaine', fut ministre de la Culture sous De Gaulle ?",
+        "choices": [
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": false
+          },
+          {
+            "text": "Raymond Aron",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis Althusser",
+            "isCorrect": false
+          },
+          {
+            "text": "André Malraux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Malraux a créé les Maisons de la Culture et lancé une vaste politique de restauration du patrimoine historique français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-053",
+        "shortId": "Q-48F976",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la règle juridique en cas de conflit entre un traité international ratifié et une loi française ?",
+        "choices": [
+          {
+            "text": "Le traité international régulièrement ratifié a une autorité supérieure à celle de la loi nationale française",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi française prime systématiquement car elle est le fruit de la souveraineté nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "On applique la règle de droit la plus ancienne dans le temps pour garantir la stabilité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État tranche au cas par cas selon l'intérêt national",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 55 de la Constitution consacre la supériorité des traités. C'est le principe de primauté qui assure le respect des engagements internationaux de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-086",
+        "shortId": "Q-ED2DD2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont deux des trois piliers de la « méthode communautaire » ?",
+        "choices": [
+          {
+            "text": "Codécision Parlement/Conseil ; Initiative de la Commission",
+            "isCorrect": true
+          },
+          {
+            "text": "Vote à l'unanimité obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Décision par le seul Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Vote par acclamation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La méthode communautaire repose sur le monopole de l'initiative de la Commission, la codécision du Parlement et du Conseil, et le vote à la majorité qualifiée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-010",
+        "shortId": "Q-8E4DE1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la loi du 21 février 2022, quelles sont les conditions d'âge pour une adoption par une personne seule ou un couple ?",
+        "choices": [
+          {
+            "text": "Avoir au moins 35 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 26 ans ou justifier de 1 an de vie commune",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi a abaissé l'âge requis pour adopter de 28 à 26 ans. Pour les couples (mariés, pacsés ou concubins), la durée de vie commune exigée est passée de 2 ans à 1 an."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-042",
+        "shortId": "Q-C77384",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale source de revenus du département d'outre-mer de la Guyane, hors fonds publics ?",
+        "choices": [
+          {
+            "text": "L'exportation de bois précieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secteur spatial (Centre Spatial Guyanais)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'orpaillage légal",
+            "isCorrect": false
+          },
+          {
+            "text": "La pêche industrielle au thon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CSG à Kourou est un moteur économique vital qui génère de nombreux emplois indirects et stimule l'innovation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-056",
+        "shortId": "Q-F6CF62",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle de l'Inspection du Travail ?",
+        "choices": [
+          {
+            "text": "Trouver du travail aux chômeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Recruter les fonctionnaires de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler le respect du Code du travail dans les entreprises",
+            "isCorrect": true
+          },
+          {
+            "text": "Gérer le budget de la sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'inspecteur du travail vérifie que les règles de sécurité, de temps de travail et d'hygiène sont respectées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-042",
+        "shortId": "Q-AE14C4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Qu'est-ce qu'un 'État de droit' dans le système républicain français ?",
+        "choices": [
+          {
+            "text": "Un système où la police dispose de pleins pouvoirs discrétionnaires pour maintenir le calme",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système où chacun, y compris l'État et ses dirigeants, est soumis au respect des lois et des juges",
+            "isCorrect": true
+          },
+          {
+            "text": "Un régime politique où les lois sont gravées dans le marbre et ne peuvent jamais changer",
+            "isCorrect": false
+          },
+          {
+            "text": "Une organisation où seule la volonté de la majorité numérique fait office de règle de droit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit garantit que l'administration n'agit pas de manière arbitraire. Chaque citoyen peut contester une décision publique devant un juge indépendant (principe de légalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-080",
+        "shortId": "Q-3BE873",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôlait démocratiquement la Haute Autorité en 1951 ?",
+        "choices": [
+          {
+            "text": "Le Conseil des ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Assemblée commune, composée de délégués des parlements nationaux, exerçait un contrôle démocratique sur la Haute Autorité. Elle est l'ancêtre du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-003",
+        "shortId": "Q-C6AA9F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Parmi les libertés suivantes, laquelle est définie comme une liberté « physique » de première génération ?",
+        "choices": [
+          {
+            "text": "Le droit au repos et aux loisirs",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'aller et venir",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'obtenir un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection du patrimoine génétique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'aller et venir est une composante de la liberté individuelle de première génération. Elle protège l'individu contre les arrestations ou détentions arbitraires et garantit le droit de circuler librement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-056",
+        "shortId": "Q-056B1D",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1572, marqué par le massacre de milliers de protestants, a profondément divisé la France durant les guerres de religion ?",
+        "choices": [
+          {
+            "text": "L'assassinat de Henri III",
+            "isCorrect": false
+          },
+          {
+            "text": "La journée des barricades",
+            "isCorrect": false
+          },
+          {
+            "text": "La Saint-Barthélemy",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège de La Rochelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le massacre de la Saint-Barthélemy a débuté à Paris avant de s'étendre à la province, affaiblissant durablement l'autorité royale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-066",
+        "shortId": "Q-27D985",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'impôt qui s'applique sur presque tous les produits achetés en magasin ?",
+        "choices": [
+          {
+            "text": "La Taxe foncière",
+            "isCorrect": false
+          },
+          {
+            "text": "La TVA (Taxe sur la Valeur Ajoutée)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Impôt sur la fortune",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe d'habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La TVA est un impôt indirect collecté par les commerçants pour le compte de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-068",
+        "shortId": "Q-EB7DF6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un mouvement politique régionaliste demande que sa région puisse voter ses propres lois différentes des lois nationales. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, chaque région peut établir son propre code légal",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'indivisibilité de la République impose une législation uniforme sur tout le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si un référendum local obtient plus de 75% des voix",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les régions frontaliers avec l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est une République 'une et indivisible'. Aucune région ne peut adopter une législation contraire aux lois nationales, même avec un vote populaire local."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-062",
+        "shortId": "Q-424426",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Parlement européen pour ses sessions plénières ?",
+        "choices": [
+          {
+            "text": "À Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg (France)",
+            "isCorrect": true
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Berlin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement européen tient ses sessions plénières mensuelles à Strasbourg, qui est son siège officiel, symbole de la réconciliation franco-allemande."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-023",
+        "shortId": "Q-880F1B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un chèque signé dans la rue sans ordre. Vous mettez votre nom. C'est :",
+        "choices": [
+          {
+            "text": "Légal car « en fait de meubles, la possession vaut titre »",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit (vol, falsification de chèque et usage de faux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Légal si vous déposez le chèque dans les 8 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé si le montant est inférieur à 150 euros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Utiliser un moyen de paiement qui ne vous appartient pas est une fraude. Vous risquez des poursuites pénales et une interdiction bancaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-062",
+        "shortId": "Q-A29528",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel compositeur français, maître de l'orchestration, est l'auteur du célèbre 'Boléro' créé en 1928 ?",
+        "choices": [
+          {
+            "text": "Gabriel Fauré",
+            "isCorrect": false
+          },
+          {
+            "text": "Camille Saint-Saëns",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Francis Poulenc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Boléro est une œuvre singulière fondée sur un crescendo ininterrompu, mondialement célèbre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-022",
+        "shortId": "Q-B656D5",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle catégorie de diplôme appartient le 'Baccalauréat' dans le système français ?",
+        "choices": [
+          {
+            "text": "Un diplôme de fin d'études secondaires (niveau 4)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le premier grade de l'enseignement supérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Un brevet professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un certificat de maîtrise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Juridiquement, le Baccalauréat est le premier grade universitaire, bien qu'il clôture les études au lycée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-027",
+        "shortId": "Q-E1296F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans le cadre de la liberté d'expression au travail, un employeur peut-il interdire l'usage d'une langue étrangère entre collègues pendant la pause ?",
+        "choices": [
+          {
+            "text": "Oui, car le français est la seule langue autorisée par l'article 2 de la Constitution",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour éviter la formation de clans ou de secrets entre employés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'interdiction serait une discrimination fondée sur l'origine, sauf impératif de sécurité justifié",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'entreprise possède un effectif supérieur à 500 salariés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le salarié dispose d'une liberté d'expression dans l'entreprise. Interdire l'usage d'une langue maternelle durant les temps de pause est considéré comme discriminatoire, sauf raison de sécurité impérieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-078",
+        "shortId": "Q-75EA38",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a initié la CECA ?",
+        "choices": [
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Robert Schuman et Jean Monnet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Robert Schuman (Ministre français) et Jean Monnet (Commissaire au Plan) sont les pères fondateurs à l'origine de la CECA et de la méthode communautaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-002",
+        "shortId": "Q-B0131C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous déposez un canapé usagé sur le trottoir le soir, sans prévenir les encombrants. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende pouvant aller jusqu'à 1 500 € pour dépôt sauvage",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, si le dépôt est effectué après 20h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple obligation de le reprendre dans les 48h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende de 35 € (contravention de 1ère classe)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le dépôt sauvage est strictement interdit, même devant chez soi. Il faut impérativement prendre rendez-vous avec le service des encombrants de la mairie ou aller en déchetterie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-063",
+        "shortId": "Q-1D5E03",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe consultatif assiste le gouvernement dans la préparation des projets de loi et des décrets ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil d'État veille à la qualité juridique des textes avant leur adoption."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-032",
+        "shortId": "Q-39902A",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle la taxe que doivent payer les propriétaires de biens immobiliers chaque année ?",
+        "choices": [
+          {
+            "text": "La taxe d'apprentissage",
+            "isCorrect": false
+          },
+          {
+            "text": "La redevance audiovisuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe sur la valeur ajoutée (TVA)",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe foncière",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La taxe foncière est un impôt local dû par les propriétaires de terrains et de bâtiments."
+      }
+    }
+  ]
+}

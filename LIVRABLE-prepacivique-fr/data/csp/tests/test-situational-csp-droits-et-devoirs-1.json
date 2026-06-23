@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-droits-et-devoirs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-situational-001",
+        "shortId": "Q-7DD5AB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez une personne faire un malaise cardiaque dans la rue. Quelle est votre obligation légale ?",
+        "choices": [
+          {
+            "text": "Appeler immédiatement les secours (15 ou 18) et aider si possible",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre qu'une personne officielle arrive pour intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier d'abord si la personne a une assurance maladie avant d'appeler",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander aux passants s'il y a un médecin avant d'appeler les secours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi française punit la 'non-assistance à personne en danger' (article 223-6 du Code pénal). Toute personne témoin d'un péril doit appeler les secours (15, 17 ou 18) et porter assistance dans la mesure de ses moyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-002",
+        "shortId": "Q-C6A200",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un voisin fait beaucoup de bruit avec des travaux le dimanche après-midi. Que dit la règle générale ?",
+        "choices": [
+          {
+            "text": "Le bruit est interdit uniquement entre 22h et 7h du matin, quel que soit le jour",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut demander l'autorisation écrite de tous les voisins avant de commencer",
+            "isCorrect": false
+          },
+          {
+            "text": "Les travaux bruyants sont généralement interdits le dimanche par les arrêtés municipaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le propriétaire peut faire des travaux chez lui sans aucune restriction horaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le repos dominical est protégé par la loi. La plupart des communes prennent des arrêtés municipaux qui interdisent les travaux bruyants le dimanche et les jours fériés pour préserver la tranquillité du voisinage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-003",
+        "shortId": "Q-2672DB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un sac avec de l'argent et des papiers d'identité par terre. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Chercher le propriétaire vous-même grâce aux papiers d'identité et le contacter directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Laisser le sac sur place pour ne pas être accusé de vol",
+            "isCorrect": false
+          },
+          {
+            "text": "Rapporter le sac au commissariat ou au service des objets trouvés",
+            "isCorrect": true
+          },
+          {
+            "text": "Le laisser sur place en espérant que le propriétaire reviendra le chercher",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Garder un objet trouvé sans chercher le propriétaire est considéré comme un vol par le Code pénal. Le réflexe citoyen est de le remettre aux autorités compétentes (commissariat, gendarmerie ou mairie)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-004",
+        "shortId": "Q-B902A7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant est victime de harcèlement dans son collège. Quelle est la meilleure action ?",
+        "choices": [
+          {
+            "text": "Contacter directement les parents des harceleurs pour régler le problème entre familles",
+            "isCorrect": false
+          },
+          {
+            "text": "Changer immédiatement l'enfant d'école sans prévenir personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander à l'enfant de résoudre le problème lui-même pour le rendre plus autonome",
+            "isCorrect": false
+          },
+          {
+            "text": "Alerter la direction de l'établissement ou appeler le 3020",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le harcèlement scolaire est un délit puni par la loi. Il faut alerter la direction de l'établissement, le référent harcèlement de l'Éducation nationale, ou appeler le 3020 (numéro national contre le harcèlement)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-005",
+        "shortId": "Q-73EC63",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous travaillez mais votre employeur refuse de vous déclarer. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "Vous ne cotisez pas pour votre retraite et votre protection santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun risque, c'est l'employeur qui est responsable",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez quand même être remboursé de vos frais médicaux par la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur sera sanctionné mais vous ne perdez aucun droit social",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail dissimulé ('au noir') prive le salarié de toute protection sociale : pas de cotisations retraite, pas d'assurance chômage, pas d'indemnisation en cas d'accident du travail. C'est un risque majeur pour le salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-006",
+        "shortId": "Q-A2AA02",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À l'entrée d'un restaurant, on vous refuse l'accès à cause de votre origine. C'est :",
+        "choices": [
+          {
+            "text": "Légal, car le propriétaire est libre de choisir ses clients",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Normal si le restaurant est complet",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si vous n'avez pas réservé à l'avance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La discrimination basée sur l'origine, la religion ou le sexe est un délit pénal en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-007",
+        "shortId": "Q-1D7D22",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre voisin commet des violences sur son conjoint et vous entendez des cris. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous ne faites rien car c'est la vie privée de la famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous attendez le lendemain pour lui parler calmement",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous appelez la police (17) car la violence est interdite",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous signalez les bruits au gardien uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les violences conjugales ne sont pas privées. La protection des victimes est un devoir citoyen et légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-008",
+        "shortId": "Q-7B1908",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez quelqu'un jeter des gros déchets dans la forêt. Que risque cette personne ?",
+        "choices": [
+          {
+            "text": "Une simple demande de nettoyage par la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation de ramasser les déchets dans les 48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Un rappel à l'ordre du garde forestier sans conséquence judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende importante car c'est une atteinte à l'environnement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le dépôt sauvage de déchets est un délit environnemental. L'amende peut atteindre 1 500 € (contravention de 5e classe) et jusqu'à 75 000 € en cas de dépôt par un professionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-009",
+        "shortId": "Q-959976",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident de la route. Que devez-vous faire en premier ?",
+        "choices": [
+          {
+            "text": "Sécuriser la zone (triangle, gilet) et appeler les secours",
+            "isCorrect": true
+          },
+          {
+            "text": "Déplacer immédiatement les blessés pour dégager la chaussée",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler votre assurance pour signaler l'accident",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre l'arrivée d'un médecin avant toute action",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le protocole PAS (Protéger, Alerter, Secourir) impose de sécuriser la zone en premier pour éviter un suraccident, puis d'alerter les secours (15, 17 ou 18)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-010",
+        "shortId": "Q-5CAB29",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un fonctionnaire vous demande de l'argent personnel pour accélérer un dossier. C'est :",
+        "choices": [
+          {
+            "text": "Un paiement autorisé si le montant reste inférieur à 50 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "De la corruption, c'est totalement illégal",
+            "isCorrect": true
+          },
+          {
+            "text": "Possible si vous recevez un reçu officiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un geste courant pour les dossiers urgents, toléré par l'administration",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La corruption d'un agent public est un délit grave puni par le Code pénal. Les services publics sont financés par les impôts et les taxes officielles. Aucun paiement personnel ne peut être exigé par un fonctionnaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-011",
+        "shortId": "Q-242CE7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez manifester dans la rue pour une cause. Quelle est la règle ?",
+        "choices": [
+          {
+            "text": "On peut bloquer toutes les routes sans prévenir",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est interdit pour les étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut déclarer la manifestation à la mairie ou à la préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Il faut payer une taxe de manifestation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de manifester existe mais doit être déclarée pour garantir l'ordre public et la sécurité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-012",
+        "shortId": "Q-DA172D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous employez une personne pour faire le ménage chez vous. Devez-vous la déclarer ?",
+        "choices": [
+          {
+            "text": "Seulement si elle travaille plus de 20 heures par semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un arrangement privé entre particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si elle demande à être déclarée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour qu'elle ait une protection sociale et une assurance",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tout travail salarié doit être déclaré (ex: CESU). Cela protège l'employé (droits sociaux) et l'employeur (accident du travail)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-013",
+        "shortId": "Q-8CE7F9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un animal enfermé dans une voiture en plein soleil. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "On peut appeler la police et, en cas d'urgence, intervenir devant témoins",
+            "isCorrect": true
+          },
+          {
+            "text": "On ne peut rien faire, c'est la propriété du maître",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut attendre le retour du propriétaire pendant plusieurs heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut donner de l'eau à travers la vitre fermée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'état de nécessité permet d'agir pour sauver une vie (humaine ou animale) en danger imminent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-014",
+        "shortId": "Q-64256A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami veut conduire sa voiture après avoir trop bu d'alcool. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous le laissez partir s'il promet de rouler lentement",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous l'empêchez de prendre le volant pour sa sécurité",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous le suivez en voiture pour intervenir si besoin",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous l'aidez à choisir un trajet avec peu de circulation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Empêcher une conduite sous l'emprise de l'alcool est la conduite responsable, car le risque d'accident grave est fortement augmenté. La bonne réaction est d'empêcher le départ et d'organiser une alternative sûre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-015",
+        "shortId": "Q-6C1863",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant mineur a cassé la vitre du voisin avec son ballon. Qui doit payer ?",
+        "choices": [
+          {
+            "text": "Le voisin, car il n'avait pas de vitre solide",
+            "isCorrect": false
+          },
+          {
+            "text": "L'enfant avec son argent de poche uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les parents, car ils sont civilement responsables de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie, car c'est un accident dans la rue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les parents sont responsables des dommages causés par leurs enfants mineurs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-016",
+        "shortId": "Q-440A48",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez quelqu'un dégrader volontairement un monument historique. C'est :",
+        "choices": [
+          {
+            "text": "Une forme d'expression artistique tolérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction mineure sans conséquence judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé s'il s'agit d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une dégradation de bien culturel punie par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Dégrader le domaine public ou les monuments est une infraction. Le respect du patrimoine est un devoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-017",
+        "shortId": "Q-ED35DF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez des insultes répétées sur les réseaux sociaux. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Porter plainte, car le cyber-harcèlement est un délit",
+            "isCorrect": true
+          },
+          {
+            "text": "Insulter la personne en retour pour vous défendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Supprimer votre compte et ne rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander de l'argent à la personne pour arrêter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège contre le harcèlement en ligne. Il faut garder les preuves et signaler les faits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-018",
+        "shortId": "Q-009732",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une femme porte un voile intégral (qui cache le visage) dans une administration. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, c'est la liberté religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi interdit de cacher son visage dans l'espace public",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si elle a une autorisation médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement dans les zones rurales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 2010 interdit la dissimulation du visage dans l'espace public pour des raisons de sécurité et de vie sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-019",
+        "shortId": "Q-96DEDC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'une agression physique dans le métro. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous regardez sans bouger pour ne pas être impliqué",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous descendez à la prochaine station sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous utilisez la borne d'appel d'urgence ou appelez le 17",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous intervenez physiquement pour arrêter l'agresseur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Alerter les autorités est le premier geste obligatoire pour aider une victime d'agression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-020",
+        "shortId": "Q-244391",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un policier vous demande vos papiers d'identité dans la rue. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Refuser tant que l'agent ne remet pas une convocation écrite",
+            "isCorrect": false
+          },
+          {
+            "text": "Quitter les lieux en expliquant que le contrôle n'est pas obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Donner uniquement son prénom sans accepter de vérification",
+            "isCorrect": false
+          },
+          {
+            "text": "Présenter vos papiers, car le contrôle d'identité est autorisé par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le contrôle d'identité est prévu par le Code de procédure pénale et s'impose à la personne contrôlée. Si la régularité du contrôle est contestée, cela se fait ensuite par les voies de recours, pas par un refus immédiat."
+      }
+    }
+  ]
+}

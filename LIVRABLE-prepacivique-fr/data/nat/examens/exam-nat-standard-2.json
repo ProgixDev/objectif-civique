@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-2",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-069",
+        "shortId": "Q-0F9545",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un touriste demande pourquoi le drapeau français est tricolore. Quelle réponse lui donner ?",
+        "choices": [
+          {
+            "text": "Les trois couleurs viennent des armoiries de la monarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu et le rouge sont les couleurs de Paris, le blanc celui de la royauté, symbolisant l'union du peuple et du roi pendant la Révolution",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un hommage aux trois religions principales de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu pour la liberté, le blanc pour l'égalité, le rouge pour la fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le drapeau tricolore associe le blanc royal aux couleurs de Paris (bleu et rouge), symbolisant l'union du roi et du peuple pendant la Révolution française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-075",
+        "shortId": "Q-B9DD27",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez des revenus très faibles et ne pouvez pas payer d'impôt sur le revenu. Devez-vous quand même déclarer vos revenus ?",
+        "choices": [
+          {
+            "text": "Non, la déclaration n'est obligatoire que si vous êtes imposable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la déclaration de revenus est obligatoire même en l'absence d'impôt à payer",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, si vos revenus sont inférieurs au SMIC",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement tous les 3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout résident fiscal en France doit déclarer ses revenus, même si elle n'est pas imposable. La déclaration permet l'accès à certaines aides sociales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-060",
+        "shortId": "Q-37E501",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un fonctionnaire refuse de célébrer un mariage entre personnes de même sexe en invoquant sa conscience religieuse. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Rien, sa liberté de conscience est protégée",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sanction disciplinaire car il doit appliquer la loi sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Un simple avertissement verbal",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut demander un transfert sans conséquence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le fonctionnaire doit appliquer la loi de manière neutre et impartiale. Le refus de célébrer un mariage légal constitue une faute professionnelle passible de sanctions disciplinaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-038",
+        "shortId": "Q-EC5325",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un « Recours Gracieux » ?",
+        "choices": [
+          {
+            "text": "Une demande adressée au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande adressée à l'administration auteur de la décision pour qu'elle la revoie",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande de grâce pour une peine de prison",
+            "isCorrect": false
+          },
+          {
+            "text": "Une procédure devant le tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recours gracieux s'adresse directement à l'autorité qui a pris la décision (ex: maire, préfet, recteur) pour tenter de régler le litige à l'amiable avant d'aller au tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-006",
+        "shortId": "Q-0A0125",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du « Défenseur des droits » ?",
+        "choices": [
+          {
+            "text": "Défendre l'État contre les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Défendre la France en cas de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les avocats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Institution indépendante créée en 2011, le Défenseur des droits peut être saisi gratuitement par toute personne s'estimant lésée par une administration ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-085",
+        "shortId": "Q-AA2E9C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre logement présente des problèmes de salubrité (humidité, moisissures). Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Arrêter de payer le loyer immédiatement sans autre démarche",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler les désordres au propriétaire par courrier recommandé, puis saisir la mairie ou l'ARS si nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Quitter le logement sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser vous-même les travaux et déduire le coût du loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le propriétaire doit fournir un logement décent. En cas de désordres, il faut d'abord le mettre en demeure, puis saisir les autorités (mairie, ARS) qui peuvent prendre des arrêtés d'insalubrité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-057",
+        "shortId": "Q-9E7F4C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pendant une grève des transports, un usager estime que le droit de grève ne devrait pas exister car il gêne les citoyens. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Le droit de grève est absolu et illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève est un droit constitutionnel qui s'exerce dans le cadre des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de grève n'existe que dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire toute grève dans les services publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est reconnu dans le Préambule de 1946. Il s'exerce 'dans le cadre des lois qui le réglementent', notamment avec un service minimum dans certains secteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-060",
+        "shortId": "Q-2FD974",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre propriétaire vous réclame le paiement de travaux d'amélioration. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, le locataire doit participer aux travaux d'amélioration",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à hauteur de 50% du coût",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si les travaux augmentent la surface habitable",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les travaux d'amélioration sont à la charge exclusive du propriétaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les travaux d'amélioration (double vitrage, isolation, etc.) sont à la charge du propriétaire. Seules les réparations locatives incombent au locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-029",
+        "shortId": "Q-917C4B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution, fondée par Richelieu en 1635, est chargée de définir et protéger la langue française ?",
+        "choices": [
+          {
+            "text": "L'Université de la Sorbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bibliothèque nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les 40 membres de l'Académie française sont surnommés les « Immortels ». Ils rédigent le Dictionnaire de l'Académie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-010",
+        "shortId": "Q-59EA4F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de la Révolution française symbolise la fin de l'Ancien Régime et des privilèges ?",
+        "choices": [
+          {
+            "text": "Le serment du Jeu de Paume",
+            "isCorrect": false
+          },
+          {
+            "text": "La mort de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "La nuit du 4 août 1789",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lors de la nuit du 4 août 1789, l'Assemblée nationale constituante a voté l'abolition des privilèges féodaux et des droits seigneuriaux, instaurant l'égalité des citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-029",
+        "shortId": "Q-F21C49",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'employeur a une « obligation de sécurité » envers ses salariés. Cela signifie qu'il doit :",
+        "choices": [
+          {
+            "text": "Seulement afficher les consignes de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "Prendre toutes les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Fournir une trousse de secours uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer les soins médicaux des salariés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La sécurité au travail est une obligation de résultat pour l'employeur : il doit évaluer les risques (Document Unique) et mettre en place des actions de prévention et de formation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-036",
+        "shortId": "Q-8CC329",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Avec son article « J'accuse...! », quel écrivain a défendu le capitaine Dreyfus, injustement condamné ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Marcel Proust",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Publié en 1898, cet article a relancé l'Affaire Dreyfus, symbole de la lutte contre l'antisémitisme et pour la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-011",
+        "shortId": "Q-1894C7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle d'identité, un policier exige de connaître votre appartenance religieuse. Devez-vous répondre ?",
+        "choices": [
+          {
+            "text": "Oui, vous devez répondre à toutes les questions d'un policier",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous portez un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du contexte sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, cette question est illégale et porte atteinte à votre vie privée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les forces de l'ordre n'ont pas le droit de ficher ou d'interroger les citoyens sur leurs opinions religieuses, politiques ou syndicales lors d'un simple contrôle d'identité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-074",
+        "shortId": "Q-0FFC77",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la responsabilité de voter le budget de l'État (recettes et dépenses) chaque année ?",
+        "choices": [
+          {
+            "text": "Le Parlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Gouverneur de la Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le vote du budget est une prérogative essentielle du Parlement pour contrôler l'action publique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-023",
+        "shortId": "Q-3328C0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « proportionnalité des peines » signifie que :",
+        "choices": [
+          {
+            "text": "La peine doit être identique pour tous les crimes",
+            "isCorrect": false
+          },
+          {
+            "text": "La sévérité de la sanction doit être adaptée à la gravité de l'infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "La peine dépend de la richesse de l'accusé",
+            "isCorrect": false
+          },
+          {
+            "text": "Seule la prison est une peine valable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inscrit dans la Déclaration des Droits de l'Homme, ce principe impose que la loi ne doit établir que des peines strictement et évidemment nécessaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-011",
+        "shortId": "Q-008B44",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle bataille de 1916 a été la plus meurtrière et la plus symbolique de la Première Guerre mondiale pour la France ?",
+        "choices": [
+          {
+            "text": "La bataille de Verdun",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille d'Austerlitz",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Waterloo",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Verdun (« L'enfer de Verdun ») est le symbole de la ténacité des soldats français (les Poilus) face à l'armée allemande. Elle a fait plus de 300 000 morts."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-036",
+        "shortId": "Q-0984D8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la Question Prioritaire de Constitutionnalité (QPC) ?",
+        "choices": [
+          {
+            "text": "À saisir le Président de la République pour demander la grâce d'un condamné",
+            "isCorrect": false
+          },
+          {
+            "text": "À permettre à un citoyen, lors d'un procès, de contester une loi qu'il estime contraire à ses droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "À demander un référendum national sur une question de société",
+            "isCorrect": false
+          },
+          {
+            "text": "À obliger le Parlement à réexaminer une proposition de loi rejetée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Introduite en 2008, la QPC permet aux citoyens de saisir indirectement le Conseil constitutionnel pour faire abroger une loi contraire aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-035",
+        "shortId": "Q-2D16BA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À partir de quel âge un citoyen français obtient-il le droit de vote ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans depuis 1974."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-049",
+        "shortId": "Q-DB3BB9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez exprimer vos opinions politiques sur les réseaux sociaux. Quelles limites devez-vous respecter ?",
+        "choices": [
+          {
+            "text": "La liberté d'expression est totale sur Internet, sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'injure, la diffamation et l'incitation à la haine sont interdites, même en ligne",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les propos contre le gouvernement sont interdits",
+            "isCorrect": false
+          },
+          {
+            "text": "Les opinions politiques ne sont pas protégées sur Internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression s'applique en ligne, mais avec les mêmes limites que dans la vie réelle : l'injure, la diffamation, l'incitation à la haine raciale ou la provocation à la violence restent des délits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-004",
+        "shortId": "Q-3FC42E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi Charles de Gaulle est-il une figure historique majeure ?",
+        "choices": [
+          {
+            "text": "Il a créé la Sécurité sociale et réformé l'éducation nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a été le chef de la France Libre en 1940, puis le fondateur et premier Président de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a dirigé la France pendant la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a signé le traité de l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Appel du 18 juin 1940, la Libération, et la Constitution de 1958 font de lui l'homme d'État français le plus important du XXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-027",
+        "shortId": "Q-756938",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous recevez une amende majorée que vous contestez. Si vous ne payez pas et ne répondez pas, que risque-t-il d'arriver ?",
+        "choices": [
+          {
+            "text": "L'amende s'annule au bout d'un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peine de prison ferme",
+            "isCorrect": false
+          },
+          {
+            "text": "Une saisie sur salaire ou sur compte bancaire (Avis à Tiers Détenteur)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de conduire immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État dispose de moyens de recouvrement forcé. Sans réaction de votre part, le Trésor public peut saisir directement la somme due sur votre compte bancaire ou votre salaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-106",
+        "shortId": "Q-8F9DBD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui préside les conseils de défense et de sécurité nationale ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chef d'état-major",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Directeur de la Gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Chef de l'État définit les grandes orientations stratégiques de la défense française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-041",
+        "shortId": "Q-1C0EA1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un cambriolage en cours dans l'appartement de votre voisin absent. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Intervenir physiquement pour interpeller les cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Filmer la scène comme preuve puis appeler la police après le départ des cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler immédiatement le 17 (police secours) et ne pas intervenir directement",
+            "isCorrect": true
+          },
+          {
+            "text": "Prévenir le gardien de l'immeuble qui contactera les forces de l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de flagrant délit, le réflexe citoyen est d'alerter immédiatement les forces de l'ordre (17) sans se mettre en danger en intervenant soi-même."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-026",
+        "shortId": "Q-0DA8E5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel café parisien fondé en 1686 a été le lieu de rencontre des philosophes des Lumières ?",
+        "choices": [
+          {
+            "text": "Le Fouquet's",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Café de la Paix",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procope",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Deux Magots",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Procope est considéré comme le plus vieux café de Paris. Voltaire, Rousseau, Diderot et plus tard les Révolutionnaires s'y réunissaient."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-007",
+        "shortId": "Q-B86FA9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence majeure entre le PACS et le Mariage en cas de décès sans testament ?",
+        "choices": [
+          {
+            "text": "Aucune différence, le partenaire survivant hérite automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS n'est pas héritier légal (il n'hérite de rien sans testament)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le partenaire de PACS hérite de la moitié des biens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS hérite uniquement du logement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement aux époux, les partenaires de PACS ne sont pas héritiers l'un de l'autre. Pour protéger le survivant, il est impératif de rédiger un testament."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-034",
+        "shortId": "Q-3D2A3E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans votre quartier, une épicerie emploie un enfant de 12 ans tous les soirs après l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est autorisé si les parents sont d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour une entreprise familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal s'il est payé",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est interdit, le travail est interdit avant 16 ans (sauf dérogations strictes et encadrées)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'instruction est obligatoire jusqu'à 16 ans. Le travail des mineurs de moins de 16 ans est interdit, sauf exceptions très limitées (stages, spectacles, vacances scolaires) et très encadrées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-064",
+        "shortId": "Q-4244F2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel bâtiment parisien siège le Sénat ?",
+        "choices": [
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sorbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Sénat, chambre haute du Parlement, siège au Palais du Luxembourg depuis 1879."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-026",
+        "shortId": "Q-ADAD83",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes propriétaire et votre locataire ne paie plus son loyer depuis 3 mois. Pouvez-vous changer les serrures pour l'expulser ?",
+        "choices": [
+          {
+            "text": "Oui, après mise en demeure restée sans effet pendant 15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le bail contient une clause résolutoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de squat avéré du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un huissier mandaté par le juge peut procéder à l'expulsion",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'expulsion doit suivre une procédure judiciaire stricte. Changer les serrures soi-même constitue une voie de fait pénalement sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-021",
+        "shortId": "Q-B58408",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel Parc National est situé dans les Alpes ?",
+        "choices": [
+          {
+            "text": "Le Parc des Calanques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de la Vanoise (ou des Écrins)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parc des Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de Port-Cros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Vanoise (Savoie) fut le premier parc national créé en France (1963) pour protéger la faune et la flore alpines."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-008",
+        "shortId": "Q-2F4143",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le site « FranceConnect » ?",
+        "choices": [
+          {
+            "text": "À stocker ses documents administratifs de manière sécurisée",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder à la plupart des services publics en ligne avec un identifiant unique (Impôts, Ameli, ANTS)",
+            "isCorrect": true
+          },
+          {
+            "text": "À trouver un emploi en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À contacter l'ambassade de France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "FranceConnect simplifie les démarches en permettant d'utiliser un compte existant (Impôts, Ameli, La Poste) pour se connecter à des centaines de services administratifs sans recréer de mot de passe."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-011",
+        "shortId": "Q-0AAD97",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, à qui appartient la souveraineté nationale ?",
+        "choices": [
+          {
+            "text": "Au Peuple, qui l'exerce par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux juges constitutionnels",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple. Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-047",
+        "shortId": "Q-90DC58",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité a la charge des écoles primaires (maternelles et élémentaires) ?",
+        "choices": [
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune (la Mairie)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministère de l'Enseignement supérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commune est responsable de la construction, de l'équipement et de l'entretien des écoles publiques de son territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-009",
+        "shortId": "Q-35B6EB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel règlement européen protège les données personnelles des citoyens ?",
+        "choices": [
+          {
+            "text": "Le Traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le RGPD (Règlement Général sur la Protection des Données)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention de Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "Les accords de Schengen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RGPD est le texte de référence en matière de protection des données au niveau européen. Il renforce les droits des personnes (accès, oubli, portabilité)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-039",
+        "shortId": "Q-94E523",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Edgar Degas est un peintre célèbre pour ses représentations de :",
+        "choices": [
+          {
+            "text": "Paysages de Provence",
+            "isCorrect": false
+          },
+          {
+            "text": "Danseuses de l'Opéra (ballet)",
+            "isCorrect": true
+          },
+          {
+            "text": "Guerres napoléoniennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Nénuphars",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Degas a consacré une grande partie de son œuvre à l'univers de la danse et aux coulisses de l'Opéra de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-012",
+        "shortId": "Q-6F3381",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le DPE (Diagnostic de Performance Énergétique) et quelle est son importance pour la location ?",
+        "choices": [
+          {
+            "text": "Il est facultatif pour les locations saisonnières",
+            "isCorrect": false
+          },
+          {
+            "text": "Il classe le logement de A à G; les logements classés G+ sont interdits à la location (indécents)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il sert uniquement à calculer la taxe foncière",
+            "isCorrect": false
+          },
+          {
+            "text": "Il concerne uniquement la sécurité électrique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le DPE est obligatoire. Depuis 2023, les logements les plus énergivores (G+) sont interdits à la location. Cette interdiction s'étendra progressivement aux classes G, puis F."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-023",
+        "shortId": "Q-99DFF5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Concernant la langue française, que dit l'article 2 de la Constitution ?",
+        "choices": [
+          {
+            "text": "« Le français est la langue du peuple »",
+            "isCorrect": false
+          },
+          {
+            "text": "« Il est interdit de parler anglais »",
+            "isCorrect": false
+          },
+          {
+            "text": "« La langue de la République est le français »",
+            "isCorrect": true
+          },
+          {
+            "text": "« La France reconnaît les dialectes comme langues officielles »",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le français est la seule langue officielle de l'administration, de la justice et de l'enseignement public, garantissant l'unité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-016",
+        "shortId": "Q-32C9E5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de désaccord durable entre l'Assemblée et le Sénat sur une loi, qui peut convoquer une Commission Mixte Paritaire (CMP) ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen des députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Premier ministre (ou les présidents des assemblées pour les propositions de loi) peut convoquer une CMP (7 députés, 7 sénateurs) pour trouver un texte de compromis."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-031",
+        "shortId": "Q-F7439D",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de « rectification » prévu par le RGPD permet :",
+        "choices": [
+          {
+            "text": "De modifier ses notes d'examen",
+            "isCorrect": false
+          },
+          {
+            "text": "De corriger des données personnelles inexactes ou incomplètes détenues par un organisme",
+            "isCorrect": true
+          },
+          {
+            "text": "De changer son nom de famille librement",
+            "isCorrect": false
+          },
+          {
+            "text": "D'effacer son casier judiciaire soi-même",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Toute personne peut exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations la concernant qui sont inexactes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-027",
+        "shortId": "Q-C4F75F",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement pictural, né en France vers 1870, privilégie la lumière et l'impression visuelle ?",
+        "choices": [
+          {
+            "text": "Le Cubisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Romantisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Impressionnisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Surréalisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Claude Monet, Auguste Renoir, Camille Pissarro sont des maîtres de l'Impressionnisme, qui a révolutionné la peinture moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-006",
+        "shortId": "Q-50B0F5",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un logement vide (non meublé), quel est le montant maximum du dépôt de garantie ?",
+        "choices": [
+          {
+            "text": "1 mois de loyer hors charges",
+            "isCorrect": true
+          },
+          {
+            "text": "2 mois de loyer hors charges",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois de loyer charges comprises",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois de loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi limite le dépôt de garantie à 1 mois de loyer hors charges pour les locations nues. Pour les meublés, le plafond est de 2 mois hors charges."
+      }
+    }
+  ]
+}

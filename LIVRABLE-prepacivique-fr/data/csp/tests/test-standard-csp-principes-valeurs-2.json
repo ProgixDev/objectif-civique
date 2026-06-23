@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-principes-valeurs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-006",
+        "shortId": "Q-F0A2A9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le port de signes religieux pour les agents des services publics ?",
+        "choices": [
+          {
+            "text": "Ils peuvent porter des signes religieux s'ils sont discrets",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent porter un uniforme religieux durant les fêtes",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont soumis à une stricte obligation de neutralité",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils choisissent librement d'afficher leur foi devant les usagers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour garantir l'égalité de traitement, les fonctionnaires ne doivent manifester aucune appartenance religieuse dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-029",
+        "shortId": "Q-E70B26",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit l'Assurance Maladie à travers la carte Vitale ?",
+        "choices": [
+          {
+            "text": "La prise en charge intégrale de tous les frais de logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le remboursement d'une partie des soins médicaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le versement d'un revenu mensuel à chaque résident",
+            "isCorrect": false
+          },
+          {
+            "text": "La gratuité des transports en commun pour les assurés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La solidarité nationale permet de mutualiser les frais de santé pour que chacun puisse se soigner."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-045",
+        "shortId": "Q-7A8668",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le système de la Sécurité sociale garantit ?",
+        "choices": [
+          {
+            "text": "L'accès gratuit à l'enseignement supérieur pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement des associations sportives locales",
+            "isCorrect": false
+          },
+          {
+            "text": "La régulation des prix alimentaires sur le marché",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de la santé et une sécurité matérielle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins et le versement de pensions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-014",
+        "shortId": "Q-6C48E3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où la justice est-elle rendue en France ?",
+        "choices": [
+          {
+            "text": "Dans les mairies de quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les préfectures de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les tribunaux, au nom du peuple français",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les locaux des partis politiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice est une fonction de l'État exercée de manière indépendante par des magistrats."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-001",
+        "shortId": "Q-18BB87",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité a pour mission de garantir les libertés individuelles face à l'arbitraire en France ?",
+        "choices": [
+          {
+            "text": "Les banques commerciales et les institutions financières privées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État, par l'intermédiaire des lois et de l'autorité judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le conseil d'administration des grandes entreprises locales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les associations de quartier sans but lucratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État est le garant des libertés fondamentales. Il assure la sécurité et le respect des droits de chaque citoyen grâce au cadre légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-057",
+        "shortId": "Q-731C7C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le drapeau européen comporte :",
+        "choices": [
+          {
+            "text": "Cinq étoiles rouges sur fond blanc",
+            "isCorrect": false
+          },
+          {
+            "text": "Une seule étoile blanche sur fond bleu",
+            "isCorrect": false
+          },
+          {
+            "text": "Trois bandes de couleurs différentes",
+            "isCorrect": false
+          },
+          {
+            "text": "Douze étoiles jaunes sur fond bleu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il symbolise l'union des peuples d'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-049",
+        "shortId": "Q-4635B0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le retrait de la nationalité française pour crime grave ?",
+        "choices": [
+          {
+            "text": "L'exclusion administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La résiliation civique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "La déchéance de nationalité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déchéance de nationalité est une mesure exceptionnelle, encadrée par le Code civil, qui ne peut concerner que les personnes ayant acquis la nationalité française et possédant une autre nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-008",
+        "shortId": "Q-233940",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1789 protège le droit de posséder des biens ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le règlement intérieur de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code de la consommation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Déclaration de 1789 considère la propriété comme un droit 'inviolable et sacré'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-028",
+        "shortId": "Q-14AB00",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document contient les règles de vie de la Nation française ?",
+        "choices": [
+          {
+            "text": "La Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil de 1804",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Maastricht de 1992",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Constitution est le texte suprême qui organise les pouvoirs et garantit les droits fondamentaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-054",
+        "shortId": "Q-7BA5A5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le droit à l'éducation ?",
+        "choices": [
+          {
+            "text": "L'école publique est laïque, gratuite et obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "L'éducation est financée uniquement par les régions",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque commune fixe librement le programme scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'instruction est obligatoire à partir de 8 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école de la République assure l'égalité d'accès au savoir pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-020",
+        "shortId": "Q-762023",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le pluralisme politique ?",
+        "choices": [
+          {
+            "text": "L'existence de plusieurs partis d'opinions différentes",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de voter pour le parti au pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de créer de nouveaux partis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix des ministres par un tirage au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pluralisme garantit que chaque courant d'opinion peut s'exprimer et participer aux élections."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-035",
+        "shortId": "Q-BE53B3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel acte est une preuve de solidarité citoyenne obligatoire ?",
+        "choices": [
+          {
+            "text": "L'inscription dans un club de sport associatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le voyage annuel dans un autre département français",
+            "isCorrect": false
+          },
+          {
+            "text": "L'achat d'un journal d'opinion chaque semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement des impôts et des cotisations sociales",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Contribuer aux charges publiques permet de faire vivre le modèle social et les infrastructures nationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-025",
+        "shortId": "Q-24B5D5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le fait que la République est 'indivisible' ?",
+        "choices": [
+          {
+            "text": "La répartition des pouvoirs entre les régions autonomes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unité du territoire et l'application de la même loi pour tous",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation d'avoir une seule et unique religion nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de diviser le pouvoir entre le Président et les ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'indivisibilité garantit l'unité de l'État et l'égalité des citoyens sur l'ensemble du territoire français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-056",
+        "shortId": "Q-9FB5D3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le prosélytisme abusif ?",
+        "choices": [
+          {
+            "text": "La pratique discrète d'une prière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le port d'une petite croix en argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de forcer quelqu'un à changer de religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'étude des religions à l'université",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le prosélytisme devient illégal s'il utilise la contrainte ou la menace."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-007",
+        "shortId": "Q-CEC188",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité devant la justice ?",
+        "choices": [
+          {
+            "text": "Le droit pour chaque citoyen de ne jamais être condamné",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation pour le juge de donner raison au plus pauvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait que les avocats doivent être gratuits pour tout le monde",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi est la même pour tous, sans distinction d'origine ou de rang",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'égalité juridique garantit que chaque individu est soumis aux mêmes règles et aux mêmes tribunaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-038",
+        "shortId": "Q-550248",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi la liberté de la presse est-elle importante ?",
+        "choices": [
+          {
+            "text": "Pour que les journaux soient distribués gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour permettre uniquement la publicité des entreprises",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir l'information libre et le débat démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour interdire aux citoyens de s'exprimer eux-mêmes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une presse libre est une condition indispensable pour que les citoyens puissent surveiller l'action du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-016",
+        "shortId": "Q-63A7CC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la présomption d'innocence ?",
+        "choices": [
+          {
+            "text": "L'accusé est considéré innocent tant que sa culpabilité n'est pas établie",
+            "isCorrect": true
+          },
+          {
+            "text": "La police peut punir un suspect avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accusé doit obligatoirement prouver qu'il est une bonne personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge décide de la peine avant d'écouter les avocats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence protège les citoyens contre l'erreur judiciaire. La charge de la preuve appartient à l'accusation, et non à l'accusé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-040",
+        "shortId": "Q-547EFC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de l'école publique ?",
+        "choices": [
+          {
+            "text": "Laïque, gratuite et obligatoire pour l'instruction",
+            "isCorrect": true
+          },
+          {
+            "text": "Religieuse, payante et facultative après 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Militaire, sélective et réservée aux citadins",
+            "isCorrect": false
+          },
+          {
+            "text": "Privée, commerciale et ouverte le dimanche soir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école de la République assure l'égalité des chances et la neutralité de l'enseignement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-041",
+        "shortId": "Q-24709B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit au respect de la vie privée interdit notamment :",
+        "choices": [
+          {
+            "text": "D'ouvrir le courrier d'une autre personne sans son accord",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir un compte bancaire personnel séparé",
+            "isCorrect": false
+          },
+          {
+            "text": "De sortir de chez soi après la tombée de la nuit",
+            "isCorrect": false
+          },
+          {
+            "text": "De parler à ses voisins sans autorisation officielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret des correspondances et l'inviolabilité du domicile sont protégés par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-026",
+        "shortId": "Q-F2963E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but de la laïcité à l'hôpital public ?",
+        "choices": [
+          {
+            "text": "Interdire aux patients de posséder un livre religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Réserver les soins uniquement aux personnes athées",
+            "isCorrect": false
+          },
+          {
+            "text": "Soigner chaque patient sans distinction de croyance",
+            "isCorrect": true
+          },
+          {
+            "text": "Obliger les médecins à réciter des prières avant d'opérer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité garantit que le service public de santé est accessible à tous, dans le respect des convictions privées."
+      }
+    }
+  ]
+}

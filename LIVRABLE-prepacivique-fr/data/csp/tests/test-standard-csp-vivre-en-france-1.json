@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-vivre-en-france-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-standard-008",
+        "shortId": "Q-7E20DA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige de voisinage (bruit, clôture), quelle est la première étape recommandée avant d'aller au tribunal ?",
+        "choices": [
+          {
+            "text": "Dénoncer le voisin à la gendarmerie immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Déménager sans prévenir le propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Engager un avocat pour envoyer une mise en demeure",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire appel à un conciliateur de justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La conciliation est une méthode gratuite et souvent obligatoire pour les petits litiges du quotidien afin de trouver un accord amiable sans procès."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-007",
+        "shortId": "Q-A3FB5C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction principale d'un Conseil de Prud'hommes ?",
+        "choices": [
+          {
+            "text": "Organiser les élections professionnelles en entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Régler les litiges liés au contrat de travail entre employeur et salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier la sécurité dans les usines et les chantiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Conseiller les entreprises sur leur gestion financière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil de Prud'hommes est une juridiction paritaire qui traite les conflits individuels nés à l'occasion d'un contrat de travail de droit privé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-027",
+        "shortId": "Q-71E58E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas un étranger peut-il demander le 'Regroupement Familial' ?",
+        "choices": [
+          {
+            "text": "Pour faire venir ses parents et ses grands-parents uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il réside régulièrement en France depuis au moins 18 mois et dispose de ressources suffisantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Dès son arrivée avec un visa de court séjour (tourisme)",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement s'il a déjà acheté une maison en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le regroupement familial permet à un étranger en situation régulière (titre de séjour d'au moins 1 an) de faire venir son conjoint et ses enfants mineurs sous conditions de ressources et de logement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-043",
+        "shortId": "Q-069314",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale du congé maternité en France pour un premier enfant ?",
+        "choices": [
+          {
+            "text": "2 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "16 semaines",
+            "isCorrect": true
+          },
+          {
+            "text": "4 semaines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le congé maternité pour un 1er ou 2ème enfant est de 16 semaines (6 avant l'accouchement, 10 après). Il est obligatoire d'en prendre au moins 8."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-030",
+        "shortId": "Q-23E78B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le montant maximal des paiements en espèces entre particuliers en France ?",
+        "choices": [
+          {
+            "text": "Il n'y a aucune limite pour les particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est limité à 1 500 euros pour les achats importants",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est interdit au-dessus de 100 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est réservé uniquement aux commerçants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Au-delà de 1 500 euros pour un paiement entre particuliers (comme une voiture d'occasion), un écrit (facture ou acte sous seing privé) est obligatoire pour prouver le paiement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-006",
+        "shortId": "Q-2A52FF",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est principalement responsable du versement des allocations familiales et des aides au logement ?",
+        "choices": [
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie du domicile",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CAF gère les prestations familiales, l'APL (aide au logement) et des revenus de solidarité comme le RSA ou l'AAH."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-033",
+        "shortId": "Q-95A1BE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document contient les règles de vie commune dans un immeuble ?",
+        "choices": [
+          {
+            "text": "Le règlement de copropriété ou le règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Le code de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "La constitution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce document précise ce qui est autorisé ou interdit dans les parties communes et privées d'un immeuble (usage du balcon, bruits, stockage dans les couloirs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-017",
+        "shortId": "Q-CB5EA9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'autorité parentale partagée ?",
+        "choices": [
+          {
+            "text": "Les deux parents ont les mêmes droits et devoirs envers l'enfant, même s'ils sont séparés",
+            "isCorrect": true
+          },
+          {
+            "text": "L'enfant décide lui-même de ses règles de vie dès l'âge de 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le parent qui a la garde physique peut prendre des décisions importantes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État remplace les parents pour l'éducation religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs. Sauf décision contraire d'un juge, elle appartient aux deux parents pour protéger l'enfant dans sa sécurité, sa santé et sa moralité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-024",
+        "shortId": "Q-66984B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut se marier ?",
+        "choices": [
+          {
+            "text": "Uniquement un homme et une femme",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes de la même famille (frères et sœurs)",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes ayant déjà un conjoint dans un autre pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Deux personnes de sexe différent ou de même sexe, âgées de 18 ans minimum",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2013, le mariage est ouvert aux couples de même sexe. La polygamie est interdite et l'âge légal est de 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-046",
+        "shortId": "Q-E3F8F2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'titre de séjour pluriannuel' ?",
+        "choices": [
+          {
+            "text": "Un récépissé de demande de renouvellement de titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Un titre de séjour d'une durée de 2 à 4 ans délivré après une première année de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "Un visa de long séjour valant titre de séjour (VLS-TS)",
+            "isCorrect": false
+          },
+          {
+            "text": "Une carte de résident de 10 ans obtenue après 5 ans de séjour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après un premier titre d'un an (VLS-TS ou carte temporaire), l'étranger peut souvent obtenir une carte valable plusieurs années."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-012",
+        "shortId": "Q-C03D10",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, que signifie la 'Laïcité' dans les services publics ?",
+        "choices": [
+          {
+            "text": "L'obligation pour les usagers de pratiquer une religion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute pratique religieuse dans la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "La préférence pour une religion d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État vis-à-vis des religions et la liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité garantit la liberté de culte mais impose aux agents publics une stricte neutralité : ils ne doivent manifester aucune appartenance religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-054",
+        "shortId": "Q-AF9849",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel document est indispensable pour circuler avec une remorque de plus de 500 kg ?",
+        "choices": [
+          {
+            "text": "Le permis B avec mention remorque",
+            "isCorrect": false
+          },
+          {
+            "text": "Une carte grise propre à la remorque",
+            "isCorrect": true
+          },
+          {
+            "text": "Le certificat de conformité européen du véhicule tracteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une attestation d'assurance spécifique au transport de marchandises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dès qu'une remorque dépasse un PTAC de 500 kg, elle doit avoir sa propre plaque d'immatriculation et sa propre carte grise (certificat d'immatriculation)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-005",
+        "shortId": "Q-49AE7D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qu'est-ce que le 'Prélèvement à la source' ?",
+        "choices": [
+          {
+            "text": "Le paiement de l'impôt sur le revenu directement sur le salaire ou les revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe prélevée sur la consommation d'eau potable",
+            "isCorrect": false
+          },
+          {
+            "text": "Une retenue sur salaire pour payer le loyer social",
+            "isCorrect": false
+          },
+          {
+            "text": "Le retrait automatique des cotisations pour la retraite complémentaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2019, l'impôt sur le revenu est déduit directement chaque mois du salaire ou de la pension, évitant ainsi un décalage d'un an."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-009",
+        "shortId": "Q-EAC30C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'convention collective' ?",
+        "choices": [
+          {
+            "text": "Un accord entre employeurs et syndicats sur les conditions de travail d'un secteur précis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réunion obligatoire pour tous les habitants d'un immeuble",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat d'assurance pour les groupes scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "La liste des lois votées par l'Assemblée nationale chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La convention collective adapte le Code du travail à un secteur d'activité particulier (hôtellerie, bâtiment, etc.) et propose souvent des droits plus favorables."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-041",
+        "shortId": "Q-BA0B96",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'pension de réversion' ?",
+        "choices": [
+          {
+            "text": "Une partie de la retraite d'un conjoint décédé versée au conjoint survivant",
+            "isCorrect": true
+          },
+          {
+            "text": "Un remboursement d'impôts versé par erreur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour avoir quitté son travail trop tôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour les enfants qui retournent vivre chez leurs parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sous certaines conditions, la veuve ou le veuf peut toucher une partie de la retraite que percevait ou aurait pu percevoir l'époux décédé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-025",
+        "shortId": "Q-9140C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la 'Protection Universelle Maladie' (PUMA) ?",
+        "choices": [
+          {
+            "text": "À garantir la prise en charge des frais de santé à toute personne travaillant ou résidant en France de manière stable et régulière",
+            "isCorrect": true
+          },
+          {
+            "text": "À payer les frais d'obsèques en cas de décès accidentel",
+            "isCorrect": false
+          },
+          {
+            "text": "À assurer les touristes étrangers pendant leurs vacances en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À rembourser les dégâts causés par une catastrophe naturelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La PUMA simplifie l'accès à l'assurance maladie : toute personne qui réside en France de façon stable et régulière a droit à la prise en charge de ses frais de santé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-049",
+        "shortId": "Q-518C65",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le milieu professionnel, qu'est-ce que le 'harcèlement moral' ?",
+        "choices": [
+          {
+            "text": "Des agissements répétés qui dégradent les conditions de travail et portent atteinte à la dignité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de demander à un employé de finir son travail à l'heure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus d'une augmentation de salaire justifié par les résultats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de donner des consignes de sécurité strictes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le harcèlement moral est un délit puni par la loi, caractérisé par une répétition d'actes hostiles visant à détruire psychologiquement un salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-026",
+        "shortId": "Q-742B1C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle de l'Inspection du Travail ?",
+        "choices": [
+          {
+            "text": "Recruter des nouveaux employés pour les mairies",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler l'application du droit du travail et informer les salariés et employeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Fixer le montant du SMIC chaque année",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer le paiement des salaires des entreprises privées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inspecteur du travail veille au respect du code du travail, à la santé et à la sécurité des salariés sur leur lieu de travail."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-058",
+        "shortId": "Q-3415B0",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service permet d'obtenir un avocat gratuit si l'on a des revenus très bas ?",
+        "choices": [
+          {
+            "text": "Le crédit d'impôt recherche",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Le service de protection des témoins",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance tous risques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet à l'État de prendre en charge tout ou partie des frais de justice (avocat, huissier) pour les personnes modestes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-060",
+        "shortId": "Q-D91ADE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document précise les règles de sécurité et de comportement à l'intérieur d'une entreprise ?",
+        "choices": [
+          {
+            "text": "Le règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Le code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La charte de l'environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le règlement intérieur est obligatoire dans les entreprises de plus de 50 salariés. Il fixe les règles d'hygiène, de sécurité et la discipline."
+      }
+    }
+  ]
+}

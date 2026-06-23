@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-10",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-015",
+        "shortId": "Q-0655D3",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous êtes témoin d'une agression physique dans la rue. La victime est en danger. Selon la loi française, que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Filmer la scène pour avoir des preuves",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne rien faire pour ne pas vous mettre en danger",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter assistance (alerter les secours ou intervenir si possible sans risque)",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que la police arrive",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La non-assistance à personne en danger est un délit. Vous avez l'obligation d'alerter les secours et, si possible sans risque pour vous-même, de porter assistance à la victime."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-030",
+        "shortId": "Q-3FFFB2",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du congé de paternité et d'accueil de l'enfant (pour un enfant unique) ?",
+        "choices": [
+          {
+            "text": "3 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "11 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "14 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "25 jours",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis le 1er juillet 2021, la durée du congé de paternité a été allongée à 25 jours calendaires, qui s'ajoutent aux 3 jours de congé de naissance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-010",
+        "shortId": "Q-59EA4F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de la Révolution française symbolise la fin de l'Ancien Régime et des privilèges ?",
+        "choices": [
+          {
+            "text": "Le serment du Jeu de Paume",
+            "isCorrect": false
+          },
+          {
+            "text": "La mort de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "La nuit du 4 août 1789",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lors de la nuit du 4 août 1789, l'Assemblée nationale constituante a voté l'abolition des privilèges féodaux et des droits seigneuriaux, instaurant l'égalité des citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-004",
+        "shortId": "Q-C7CB3C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vous êtes témoin d'une agression dans la rue. Que risquez-vous si vous n'intervenez pas ?",
+        "choices": [
+          {
+            "text": "Une amende administrative de 135 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien, intervenir est un choix personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une condamnation pour complicité d'agression",
+            "isCorrect": false
+          },
+          {
+            "text": "Une condamnation pour « non-assistance à personne en péril » (5 ans de prison, 75 000€ d'amende)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 223-6 du Code pénal punit l'omission de porter secours. Si vous ne pouvez pas intervenir physiquement sans danger, vous devez au moins alerter les secours."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-064",
+        "shortId": "Q-ACFD9F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant né en France de parents étrangers demande s'il est automatiquement français. Quelle est la règle ?",
+        "choices": [
+          {
+            "text": "Oui, la naissance sur le sol français donne automatiquement la nationalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il peut la demander à sa majorité sous certaines conditions de résidence",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, la nationalité française ne s'acquiert que par le sang",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si les parents le demandent à la naissance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit du sol en France est un droit différé : l'enfant né en France de parents étrangers peut devenir français automatiquement à 18 ans s'il a résidé 5 ans en France depuis l'âge de 11 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-038",
+        "shortId": "Q-EC5325",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un « Recours Gracieux » ?",
+        "choices": [
+          {
+            "text": "Une demande adressée au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande adressée à l'administration auteur de la décision pour qu'elle la revoie",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande de grâce pour une peine de prison",
+            "isCorrect": false
+          },
+          {
+            "text": "Une procédure devant le tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recours gracieux s'adresse directement à l'autorité qui a pris la décision (ex: maire, préfet, recteur) pour tenter de régler le litige à l'amiable avant d'aller au tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-035",
+        "shortId": "Q-2EFC60",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de neutralité du service public impose que :",
+        "choices": [
+          {
+            "text": "Les agents publics (fonctionnaires) ne doivent pas manifester leurs opinions religieuses ou politiques pendant leur service",
+            "isCorrect": true
+          },
+          {
+            "text": "Les usagers doivent dissimuler leur appartenance religieuse pour accéder aux services",
+            "isCorrect": false
+          },
+          {
+            "text": "Les services publics ne peuvent pas fonctionner les jours de fête religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Les agents publics peuvent refuser de servir un usager pour motif de conscience",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour garantir l'égalité de traitement, les fonctionnaires doivent être neutres. Ils servent l'intérêt général sans distinction d'opinion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-069",
+        "shortId": "Q-F7A3F5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez bénéficier de la Couverture Maladie Universelle Complémentaire (C2S). Quelle est la condition principale ?",
+        "choices": [
+          {
+            "text": "Être au chômage depuis plus de 6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir des ressources inférieures à un plafond fixé par décret",
+            "isCorrect": true
+          },
+          {
+            "text": "Ne pas être affilié à une mutuelle d'entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir plus de 65 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Complémentaire Santé Solidaire (C2S) est accordée sous conditions de ressources. Elle peut être gratuite ou avec participation selon les revenus du foyer."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-018",
+        "shortId": "Q-819C45",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se trouve le tombeau de Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Au Château de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "Sous le dôme des Invalides à Paris",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon repose aux Invalides depuis le retour de ses cendres en 1840. Le site abrite aussi le Musée de l'Armée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-005",
+        "shortId": "Q-C87FFA",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans l'isoloir, un membre de votre famille insiste pour vérifier votre bulletin de vote avant que vous ne le glissiez dans l'enveloppe. Que dicte le code électoral ?",
+        "choices": [
+          {
+            "text": "Le vote est secret, personne n'a le droit de contrôler votre choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote est un acte public, vous pouvez le montrer",
+            "isCorrect": false
+          },
+          {
+            "text": "Le chef de famille a un droit de regard sur le vote des membres du foyer",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez le montrer uniquement au président du bureau de vote",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret du vote est une garantie fondamentale de la liberté de conscience de l'électeur. Le passage par l'isoloir est obligatoire pour garantir cette confidentialité et éviter toute pression."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-017",
+        "shortId": "Q-365DC5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un huissier de justice (commissaire de justice) se présente à votre domicile pour une saisie. Dans quelle tranche horaire peut-il légalement intervenir ?",
+        "choices": [
+          {
+            "text": "Uniquement entre 6 heures et 21 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "À toute heure du jour et de la nuit si le montant est élevé",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pendant les heures d'ouverture des tribunaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Entre 8 heures et 20 heures, jours ouvrables seulement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'exécution des mesures d'expulsion ou de saisie ne peut avoir lieu qu'entre 6 heures et 21 heures (sauf autorisation spéciale du juge en cas de nécessité impérieuse)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-050",
+        "shortId": "Q-940612",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a écrit « Les Misérables » et « Notre-Dame de Paris » ?",
+        "choices": [
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Honoré de Balzac",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Albert Camus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a eu des funérailles nationales et repose au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-021",
+        "shortId": "Q-CECD07",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté d'aller et venir inclut le droit de :",
+        "choices": [
+          {
+            "text": "Conduire sans permis",
+            "isCorrect": false
+          },
+          {
+            "text": "Entrer dans n'importe quelle propriété privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Circuler librement sur le territoire, de le quitter et d'y revenir",
+            "isCorrect": true
+          },
+          {
+            "text": "Voyager gratuitement en train",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'aller et venir est une liberté fondamentale garantie par la Constitution et les conventions internationales. Elle ne peut être restreinte que pour des motifs graves (ex: contrôle judiciaire)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-076",
+        "shortId": "Q-F90F42",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel juge est compétent pour annuler une décision prise par une administration (Mairie, État) ?",
+        "choices": [
+          {
+            "text": "Le juge pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge d'instance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le juge des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice administrative arbitre les conflits entre les citoyens et les pouvoirs publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-006",
+        "shortId": "Q-04C539",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les peines encourues pour discrimination (racisme, sexisme, homophobie...) ?",
+        "choices": [
+          {
+            "text": "Jusqu'à 3 ans d'emprisonnement et 45 000 euros d'amende",
+            "isCorrect": true
+          },
+          {
+            "text": "Un stage de citoyenneté obligatoire uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple amende forfaitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune peine si c'est exprimé sur internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La discrimination est un délit grave. Le Code pénal punit le refus d'un bien ou d'un service, ou d'une embauche, fondé sur un critère discriminatoire (origine, sexe, handicap...)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-042",
+        "shortId": "Q-218564",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est mondialement réputée pour ses vins rouges prestigieux et ses châteaux viticoles ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "La région de Bordeaux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Auvergne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le vignoble bordelais produit des vins parmi les plus chers et réputés du monde (Saint-Émilion, Médoc, Pomerol)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-040",
+        "shortId": "Q-D237B1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent hospitalier refuse de serrer la main d'une collègue femme en invoquant ses convictions religieuses. Quelle est la position de l'administration ?",
+        "choices": [
+          {
+            "text": "Elle doit respecter sa liberté religieuse personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle peut exiger le respect des règles de courtoisie professionnelle et de neutralité du service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle doit organiser une médiation avec un représentant religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne peut rien faire car c'est un geste privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les agents du service public sont soumis à une obligation de neutralité et doivent respecter leurs collègues sans distinction de sexe. Le refus de contact professionnel normal peut constituer une faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-052",
+        "shortId": "Q-3EDA56",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel bâtiment se situent les services administratifs du représentant de l'État ?",
+        "choices": [
+          {
+            "text": "Le Tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de ville",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil départemental",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La préfecture est le siège administratif du préfet de département ou de région."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-066",
+        "shortId": "Q-19661C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vos parents âgés n'ont pas les moyens de subvenir à leurs besoins. Avez-vous une obligation légale de les aider ?",
+        "choices": [
+          {
+            "text": "Oui, l'obligation alimentaire envers les ascendants dans le besoin est prévue par le Code civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'aide aux parents relève uniquement de la solidarité familiale volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous avez hérité d'eux",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est l'État qui doit prendre en charge les personnes âgées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 205 du Code civil prévoit que les enfants doivent des aliments à leurs père et mère ou autres ascendants qui sont dans le besoin. C'est une obligation légale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-030",
+        "shortId": "Q-5A91BF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle cathédrale est célèbre pour ses vitraux du Moyen-Âge d'un bleu unique ?",
+        "choices": [
+          {
+            "text": "Notre-Dame de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cathédrale de Chartres",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cathédrale de Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "La Basilique Saint-Denis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le « Bleu de Chartres » est mondialement connu. La cathédrale est un chef-d'œuvre de l'art gothique classé à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-052",
+        "shortId": "Q-18B177",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un riche homme d'affaires et un chômeur commettent le même excès de vitesse. Reçoivent-ils la même amende ?",
+        "choices": [
+          {
+            "text": "Non, l'amende doit être proportionnelle aux revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le principe d'égalité devant la loi impose la même sanction pour la même infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le riche doit payer plus pour réparer l'injustice sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le chômeur doit être dispensé en raison de sa situation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité devant la loi (article 1er DDHC 1789) signifie que les mêmes règles s'appliquent à tous, sans distinction de fortune ou de statut social."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-087",
+        "shortId": "Q-D572C1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À qui s'applique prioritairement le devoir de neutralité religieuse lié à la laïcité ?",
+        "choices": [
+          {
+            "text": "Aux clients des commerces privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux agents des services publics (fonctionnaires)",
+            "isCorrect": true
+          },
+          {
+            "text": "À tous les citoyens dans la rue",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux touristes étrangers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les agents publics doivent être neutres pour traiter tous les usagers de la même manière, sans distinction de religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-034",
+        "shortId": "Q-E48537",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi servent les conventions collectives dans le droit du travail ?",
+        "choices": [
+          {
+            "text": "Elles remplacent totalement le Code du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles adaptent les règles du Code du travail à un secteur d'activité spécifique (souvent plus favorables aux salariés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles servent uniquement à fixer les congés payés",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles sont facultatives pour l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les conventions collectives sont des accords négociés entre syndicats et patronat d'une branche (ex: Métallurgie, Restauration). Elles complètent la loi (salaires minima, primes, préavis)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-025",
+        "shortId": "Q-666808",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe la Nouvelle-Calédonie ?",
+        "choices": [
+          {
+            "text": "Dans l'Océan Indien",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Pacifique",
+            "isCorrect": true
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Nouvelle-Calédonie est un archipel d'Océanie, situé dans le Pacifique Sud. C'est une collectivité française à statut particulier."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-002",
+        "shortId": "Q-1AD42E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La vignette « Crit'Air » est obligatoire pour circuler :",
+        "choices": [
+          {
+            "text": "Sur toutes les autoroutes de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement lors des pics de pollution",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Zones à Faibles Émissions (ZFE) mises en place dans les grandes agglomérations",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les véhicules diesel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La vignette Crit'Air (Certificat qualité de l'air) est obligatoire pour circuler et stationner dans les ZFE (Zones à Faibles Émissions) instaurées dans les métropoles pour réduire la pollution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-014",
+        "shortId": "Q-01F234",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel général a signé l'ordonnance donnant le droit de vote aux femmes en 1944 ?",
+        "choices": [
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le Gouvernement Provisoire dirigé par le Général de Gaulle qui a accordé le droit de vote et d'éligibilité aux femmes en avril 1944."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-091",
+        "shortId": "Q-383757",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Cour de justice de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Berlin",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour de justice de l'Union européenne siège à Luxembourg. À ne pas confondre avec le Parlement européen, dont le siège officiel est à Strasbourg."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-075",
+        "shortId": "Q-B9DD27",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez des revenus très faibles et ne pouvez pas payer d'impôt sur le revenu. Devez-vous quand même déclarer vos revenus ?",
+        "choices": [
+          {
+            "text": "Non, la déclaration n'est obligatoire que si vous êtes imposable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la déclaration de revenus est obligatoire même en l'absence d'impôt à payer",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, si vos revenus sont inférieurs au SMIC",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement tous les 3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout résident fiscal en France doit déclarer ses revenus, même si elle n'est pas imposable. La déclaration permet l'accès à certaines aides sociales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-010",
+        "shortId": "Q-B0987B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est considéré comme le premier Roi des Francs, baptisé vers l'an 496 ?",
+        "choices": [
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Clovis",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint Louis",
+            "isCorrect": false
+          },
+          {
+            "text": "Vercingétorix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le baptême de Clovis à Reims marque l'alliance entre la royauté franque et l'Église catholique, acte fondateur de la monarchie française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-014",
+        "shortId": "Q-DC581C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Garantie Visale » ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'encadrement des loyers dans les zones tendues",
+            "isCorrect": false
+          },
+          {
+            "text": "Une caution gratuite accordée par Action Logement pour garantir le paiement du loyer",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide financière de la CAF pour couvrir les charges locatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Un fonds de garantie pour les travaux de rénovation énergétique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Visale est une caution solidaire gratuite qui rassure les propriétaires. Elle couvre les loyers impayés et les dégradations locatives, facilitant l'accès au logement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-061",
+        "shortId": "Q-E4C668",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent de la mairie porte un discret pendentif religieux sous sa chemise. Un administré s'en plaint. Quelle est la règle ?",
+        "choices": [
+          {
+            "text": "L'agent peut le porter car il est caché et discret",
+            "isCorrect": false
+          },
+          {
+            "text": "L'agent doit le retirer car tout signe religieux est interdit pour les fonctionnaires",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administré n'a pas son mot à dire sur la tenue des agents",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du règlement intérieur de la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de neutralité impose aux agents du service public de ne manifester aucune conviction religieuse dans l'exercice de leurs fonctions, même de manière discrète."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-056",
+        "shortId": "Q-289FF0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De combien de députés l'Assemblée nationale est-elle composée ?",
+        "choices": [
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          },
+          {
+            "text": "450",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il y a 577 députés, élus dans des circonscriptions législatives au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-028",
+        "shortId": "Q-12CDC5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes salarié et votre employeur vous impose des heures supplémentaires. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Oui, les heures supplémentaires sont toujours facultatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si elles sont dans le contingent annuel et que l'employeur respecte les règles",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous avez des enfants de moins de 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si votre médecin du travail s'y oppose",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'employeur peut imposer des heures supplémentaires dans la limite du contingent annuel. Le refus sans motif légitime peut constituer une faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-027",
+        "shortId": "Q-C4F75F",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement pictural, né en France vers 1870, privilégie la lumière et l'impression visuelle ?",
+        "choices": [
+          {
+            "text": "Le Cubisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Romantisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Impressionnisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Surréalisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Claude Monet, Auguste Renoir, Camille Pissarro sont des maîtres de l'Impressionnisme, qui a révolutionné la peinture moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-011",
+        "shortId": "Q-36FD81",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige financier inférieur à 5 000 euros, quelle démarche est obligatoire avant de saisir le juge ?",
+        "choices": [
+          {
+            "text": "Porter plainte à la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Tenter une conciliation ou une médiation de justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une mise en demeure par lettre recommandée au débiteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le tribunal d'instance sans démarche préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi impose désormais une tentative de résolution amiable (conciliateur de justice) avant de saisir le tribunal pour les petits litiges du quotidien."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-008",
+        "shortId": "Q-867302",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie étymologiquement le mot « République » (Res Publica) ?",
+        "choices": [
+          {
+            "text": "Le pouvoir du roi",
+            "isCorrect": false
+          },
+          {
+            "text": "La chose publique (l'intérêt général)",
+            "isCorrect": true
+          },
+          {
+            "text": "La dictature du peuple",
+            "isCorrect": false
+          },
+          {
+            "text": "L'absence de chef",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En latin, 'Res Publica' désigne un régime politique où le pouvoir est un bien commun, exercé par des représentants élus dans l'intérêt de tous, et non la propriété privée d'un souverain."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-002",
+        "shortId": "Q-148012",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour réviser la Constitution par la voie du Congrès (réunion de l'Assemblée et du Sénat), quelle majorité est requise ?",
+        "choices": [
+          {
+            "text": "La majorité absolue (50% + 1 voix)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unanimité des suffrages exprimés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les deux tiers des suffrages exprimés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les trois cinquièmes des suffrages exprimés",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 89, la révision doit être votée par les 3/5èmes des suffrages exprimés au Congrès (à Versailles). Sinon, elle doit être approuvée par référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-003",
+        "shortId": "Q-2879EB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Tiré au sort comme juré d'assises, vous souhaitez être dispensé. Quel motif est légalement recevable ?",
+        "choices": [
+          {
+            "text": "Le refus par conviction personnelle de juger autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contrainte professionnelle simple",
+            "isCorrect": false
+          },
+          {
+            "text": "L'âge supérieur à 70 ans ou un motif grave empêchant la comparution",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de ne pas avoir la nationalité française depuis plus de 10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Être juré est une obligation citoyenne. Les dispenses sont restrictives : être âgé de plus de 70 ans, ne plus résider dans le département, ou avoir un motif grave (maladie, impératif familial majeur). Le travail seul n'est pas une excuse automatique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-046",
+        "shortId": "Q-9D10E6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle victoire de Philippe Auguste en 1214 a renforcé l'unité du Royaume de France ?",
+        "choices": [
+          {
+            "text": "La bataille de Marignan",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Bouvines",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille d'Azincourt",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Poitiers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À Bouvines, le roi de France a vaincu une coalition européenne. C'est souvent considéré comme l'un des premiers événements éveillant un « sentiment national »."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-015",
+        "shortId": "Q-87B41F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai légal pour établir un constat amiable après un accident de voiture ?",
+        "choices": [
+          {
+            "text": "24 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "5 jours ouvrés",
+            "isCorrect": true
+          },
+          {
+            "text": "10 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Vous disposez de 5 jours ouvrés pour envoyer le constat amiable à votre assureur. En cas de vol du véhicule, le délai est réduit à 2 jours."
+      }
+    }
+  ]
+}

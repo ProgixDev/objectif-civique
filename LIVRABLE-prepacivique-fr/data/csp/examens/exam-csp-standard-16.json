@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-16",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-079",
+        "shortId": "Q-920120",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous dit que la France est un 'État de droit'. Qu'est-ce que cela veut dire ?",
+        "choices": [
+          {
+            "text": "Tout le monde, y compris l'État, doit respecter les lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le gouvernement peut suspendre les droits fondamentaux en période de crise",
+            "isCorrect": false
+          },
+          {
+            "text": "Seuls les juges décident de tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens peuvent choisir quelles lois ils souhaitent respecter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans un État de droit, personne n'est au-dessus de la loi. L'État aussi doit respecter les règles qu'il a créées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-006",
+        "shortId": "Q-114032",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi le paiement des impôts est-il une obligation pour les citoyens ?",
+        "choices": [
+          {
+            "text": "Pour participer au financement des services publics et de la solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour financer exclusivement les organisations internationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour rembourser la dette publique contractée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est une taxe facultative pour les personnes riches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'impôt permet à l'État et aux collectivités d'assurer l'éducation, la santé, la police et les infrastructures."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-047",
+        "shortId": "Q-AE0271",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir ce que signifie 'l'indivisibilité' de la République concernant les territoires d'outre-mer.",
+        "choices": [
+          {
+            "text": "Cela signifie que les départements d'outre-mer font partie intégrante de la République française au même titre que l'Hexagone.",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela signifie que les îles n'ont pas le droit d'avoir leurs propres maires.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indivisibilité interdit aux habitants des îles de parler une autre langue que le français.",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela veut dire que la France ne peut pas vendre d'îles à d'autres pays sans l'accord de l'ONU.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République est une. Les citoyens d'outre-mer ont les mêmes droits et devoirs que ceux de la métropole."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-048",
+        "shortId": "Q-EBE5C6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un site internet propose la nationalité française contre 3000 euros. C'est :",
+        "choices": [
+          {
+            "text": "Un service accéléré proposé par certaines préfectures en ligne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une offre d'accompagnement juridique obligatoire pour la naturalisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un paiement de frais de dossier officiels requis par l'OFII",
+            "isCorrect": false
+          },
+          {
+            "text": "Une arnaque, car la nationalité ne s'achète pas et la procédure est gratuite auprès de l'État",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La naturalisation est une procédure d'État gratuite (hors timbre fiscal). Aucun site privé ne peut vendre la nationalité française. Les demandes se font auprès de la préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-021",
+        "shortId": "Q-22A250",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le port du voile intégral dans l'espace public ?",
+        "choices": [
+          {
+            "text": "Il est recommandé pour la protection de la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit par la loi pour des raisons de sécurité et de vie sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire durant les périodes de grand froid",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé partout sans aucune restriction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les exigences de la vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-007",
+        "shortId": "Q-1D7D22",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre voisin commet des violences sur son conjoint et vous entendez des cris. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous ne faites rien car c'est la vie privée de la famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous attendez le lendemain pour lui parler calmement",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous appelez la police (17) car la violence est interdite",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous signalez les bruits au gardien uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les violences conjugales ne sont pas privées. La protection des victimes est un devoir citoyen et légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-027",
+        "shortId": "Q-6D49AC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir si la loi française permet de critiquer une religion. Quel est le cadre légal ?",
+        "choices": [
+          {
+            "text": "Le blasphème est un crime passible d'emprisonnement en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "La critique des idées et des religions est libre, mais l'incitation à la haine contre les croyants est interdite.",
+            "isCorrect": true
+          },
+          {
+            "text": "Seules les religions historiques de la France peuvent être critiquées librement.",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute critique religieuse doit être préalablement validée par le ministère des Cultes.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression inclut le droit de critiquer les systèmes de pensée, mais la loi protège les personnes contre les injures et la provocation à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-045",
+        "shortId": "Q-76DC6B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous entendez une personne dire que l'Holocauste n'a jamais existé. C'est :",
+        "choices": [
+          {
+            "text": "Un délit puni par la loi (négationnisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une opinion libre en démocratie",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sujet de débat historique réservé aux experts universitaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une erreur historique sans importance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le négationnisme est un délit pénal en France (loi Gayssot de 1990). La négation de crimes contre l'humanité avérés n'est pas une opinion protégée par la liberté d'expression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-044",
+        "shortId": "Q-24A353",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour voter aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Être de nationalité française et résider en France depuis 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge et un emploi stable",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen français, majeur et inscrit sur les listes",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué le service civique et obtenu un certificat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel : chaque citoyen majeur dispose d'une voix."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-063",
+        "shortId": "Q-5A7519",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 6 ans ne va pas à l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est votre choix comme parent, l'instruction en famille est un droit sans condition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'instruction n'est obligatoire qu'à partir de 6 ans, les enfants de moins de 6 ans n'y sont pas soumis",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation scolaire ne concerne que les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire, l'école est un droit et un devoir",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'instruction est obligatoire de 3 à 16 ans en France. Les parents qui ne respectent pas cette obligation s'exposent à des sanctions pénales. L'instruction à domicile est possible mais soumise à autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-059",
+        "shortId": "Q-3A6FD5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le mariage homosexuel a été autorisé en :",
+        "choices": [
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "2013 (Loi Taubira)",
+            "isCorrect": true
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "2000",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France reconnaît le mariage pour tous les couples de même sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-037",
+        "shortId": "Q-300699",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil des ministres le mercredi ?",
+        "choices": [
+          {
+            "text": "Organiser des élections",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre des jugements",
+            "isCorrect": false
+          },
+          {
+            "text": "Prendre les décisions politiques importantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil des ministres est la réunion hebdomadaire, présidée par le Président, où le Gouvernement prend les décisions politiques importantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-009",
+        "shortId": "Q-959976",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident de la route. Que devez-vous faire en premier ?",
+        "choices": [
+          {
+            "text": "Sécuriser la zone (triangle, gilet) et appeler les secours",
+            "isCorrect": true
+          },
+          {
+            "text": "Déplacer immédiatement les blessés pour dégager la chaussée",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler votre assurance pour signaler l'accident",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre l'arrivée d'un médecin avant toute action",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le protocole PAS (Protéger, Alerter, Secourir) impose de sécuriser la zone en premier pour éviter un suraccident, puis d'alerter les secours (15, 17 ou 18)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-022",
+        "shortId": "Q-AFD89C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un témoin dans un procès refuse de prêter serment 'devant Dieu'. Que prévoit la procédure judiciaire française ?",
+        "choices": [
+          {
+            "text": "Le serment est laïque : on jure de dire la vérité devant la justice et non devant une autorité religieuse.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le témoin est immédiatement exclu de l'audience et condamné pour outrage.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge impose le choix d'un livre sacré selon la religion supposée du témoin.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le serment religieux est obligatoire pour que le témoignage ait une valeur légale.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité de l'État s'applique à la justice. Les formules religieuses ont été supprimées des tribunaux pour respecter la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-054",
+        "shortId": "Q-FE79E1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut demander la nationalité française par naturalisation ?",
+        "choices": [
+          {
+            "text": "Toute personne étrangère remplissant les conditions de résidence et d'intégration",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout ressortissant européen résidant en France depuis un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne ayant un contrat de travail en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout étranger titulaire d'un visa de long séjour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La naturalisation est un mode d'acquisition de la nationalité sous certaines conditions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-062",
+        "shortId": "Q-8BB4C9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle principal du Parlement (Assemblée nationale et Sénat) ?",
+        "choices": [
+          {
+            "text": "Diriger la police et l'armée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les juges des tribunaux de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer le budget personnel du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler le Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif et représente les citoyens et les territoires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-001",
+        "shortId": "Q-18BB87",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité a pour mission de garantir les libertés individuelles face à l'arbitraire en France ?",
+        "choices": [
+          {
+            "text": "Les banques commerciales et les institutions financières privées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État, par l'intermédiaire des lois et de l'autorité judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le conseil d'administration des grandes entreprises locales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les associations de quartier sans but lucratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État est le garant des libertés fondamentales. Il assure la sécurité et le respect des droits de chaque citoyen grâce au cadre légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-010",
+        "shortId": "Q-348F2D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de l'hymne national de la France ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chant du départ",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "L'hymne des régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise est le chant patriotique officiel de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-033",
+        "shortId": "Q-7A72C3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel symbole de la République porte un bonnet phrygien ?",
+        "choices": [
+          {
+            "text": "La statue de la Liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est l'allégorie de la République, présente dans toutes les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-040",
+        "shortId": "Q-7DE0B1",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif du 'Dossier Médical Partagé' (Mon espace santé) ?",
+        "choices": [
+          {
+            "text": "Partager ses résultats d'analyses avec sa mutuelle complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder à son historique médical depuis n'importe quel hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une réduction sur les médicaments génériques",
+            "isCorrect": false
+          },
+          {
+            "text": "Centraliser vos informations de santé pour les partager avec vos médecins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Mon espace santé est un carnet de santé numérique sécurisé qui permet aux professionnels de santé de mieux vous soigner grâce à l'historique médical."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-074",
+        "shortId": "Q-E780E2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant vous demande qui est Marianne. Que répondez-vous ?",
+        "choices": [
+          {
+            "text": "La première femme élue à l'Assemblée nationale en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbole de la République française, on voit son visage dans les mairies",
+            "isCorrect": true
+          },
+          {
+            "text": "La première femme à voter en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Une figure historique qui a dirigé la Résistance pendant la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne représente la République. Son buste est présent dans toutes les mairies de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-013",
+        "shortId": "Q-206587",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dirige l'action du Gouvernement et des ministres ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre coordonne le travail des ministres pour appliquer la politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-025",
+        "shortId": "Q-C55A7C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler 65 heures en une semaine. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, il y a des durées maximales pour protéger la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous êtes d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il doit vous payer le double",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous travaillez la nuit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit du travail limite le temps de travail hebdomadaire (maximum 48h) pour protéger le salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-006",
+        "shortId": "Q-2A52FF",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est principalement responsable du versement des allocations familiales et des aides au logement ?",
+        "choices": [
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie du domicile",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CAF gère les prestations familiales, l'APL (aide au logement) et des revenus de solidarité comme le RSA ou l'AAH."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-038",
+        "shortId": "Q-7D1C71",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie le terme 'État de droit' en France. Quelle est la définition correcte ?",
+        "choices": [
+          {
+            "text": "Un système où l'administration et les citoyens sont tous soumis au respect de la loi sous le contrôle de juges indépendants.",
+            "isCorrect": true
+          },
+          {
+            "text": "Un pays où le gouvernement peut suspendre la Constitution en cas de crise économique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où seuls ceux qui connaissent le droit ont le droit de voter.",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime où les décisions de l'administration ne peuvent pas être contestées devant un tribunal.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'État de droit garantit que personne, même le plus puissant, n'est au-dessus de la loi. Cela protège contre l'arbitraire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-057",
+        "shortId": "Q-CA6701",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de fois un Président peut-il être réélu consécutivement ?",
+        "choices": [
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Trois fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Une seule fois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un Président peut faire au maximum deux mandats de suite (10 ans au total)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-045",
+        "shortId": "Q-8FED6B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le consentement sexuel est défini comme :",
+        "choices": [
+          {
+            "text": "Une absence de refus explicite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation liée au mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord libre, mutuel et révocable",
+            "isCorrect": true
+          },
+          {
+            "text": "La décision prise par le chef de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Sans consentement libre, l'acte est qualifié d'agression ou de viol par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-049",
+        "shortId": "Q-518C65",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le milieu professionnel, qu'est-ce que le 'harcèlement moral' ?",
+        "choices": [
+          {
+            "text": "Des agissements répétés qui dégradent les conditions de travail et portent atteinte à la dignité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de demander à un employé de finir son travail à l'heure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus d'une augmentation de salaire justifié par les résultats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de donner des consignes de sécurité strictes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le harcèlement moral est un délit puni par la loi, caractérisé par une répétition d'actes hostiles visant à détruire psychologiquement un salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-017",
+        "shortId": "Q-DCD0B9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de cesser le travail pour exprimer une revendication ?",
+        "choices": [
+          {
+            "text": "Le droit au secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de propriété intellectuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait pour convenance personnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est une liberté constitutionnelle permettant l'action collective des salariés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-012",
+        "shortId": "Q-B668A4",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le pouvoir qui fait appliquer les lois ?",
+        "choices": [
+          {
+            "text": "Le pouvoir exécutif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir médiatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pouvoir exécutif est détenu par le Président de la République et le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-028",
+        "shortId": "Q-9AEA4E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le PACS (Pacte Civil de Solidarité) ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'aide au logement pour les jeunes couples",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat pour organiser la vie commune d'un couple",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord de médiation familiale en cas de séparation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement de solidarité financière entre colocataires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le PACS est une union légale ouverte aux couples de même sexe ou de sexe différent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-028",
+        "shortId": "Q-EA3C80",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une association 'Loi 1901' ?",
+        "choices": [
+          {
+            "text": "Un syndicat professionnel obligatoire pour tous les artisans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise qui peut distribuer ses bénéfices à ses actionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parti politique qui ne se présente qu'aux élections européennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un groupement de personnes à but non lucratif (qui ne cherche pas à faire de profit)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité des associations en France fonctionnent sous ce régime : l'argent gagné doit servir au projet de l'association et non à enrichir ses membres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-001",
+        "shortId": "Q-B700B8",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a débuté la Révolution française ?",
+        "choices": [
+          {
+            "text": "En 1792",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1815",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1848",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Révolution française débute en 1789, notamment avec la réunion des États généraux puis la prise de la Bastille. Cette rupture ouvre la fin de l'Ancien Régime et la transformation politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-002",
+        "shortId": "Q-C15D70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Un général qui a créé l'Empire français (1804-1814)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un roi de France du Moyen Âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Un savant français célèbre",
+            "isCorrect": false
+          },
+          {
+            "text": "Un évêque important",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte (1769-1821) était un général militaire qui a pris le pouvoir en 1799. Il s'est proclamé empereur en 1804 et a gouverné la France de manière autoritaire, créant le Premier Empire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-003",
+        "shortId": "Q-45BB2E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages historiques est français ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques Brel",
+            "isCorrect": false
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est français. Jacques Brel est belge. Jean-Jacques Rousseau est né à Genève (Suisse). Pablo Picasso est espagnol (bien qu'il ait vécu en France)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-004",
+        "shortId": "Q-9B5088",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle République est-on aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Dans la IIIe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans une monarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la Ve République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est aujourd'hui dans la Ve République depuis 1958. Elle a été fondée par Charles de Gaulle avec une nouvelle Constitution qui renforce le pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-005",
+        "shortId": "Q-9F8BFC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Shoah ?",
+        "choices": [
+          {
+            "text": "Une révolte paysanne au Moyen Âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le génocide des Juifs organisé par l'Allemagne nazie",
+            "isCorrect": true
+          },
+          {
+            "text": "Une période de la Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Une guerre civile en Europe de l'Est",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Shoah est le génocide systématique des Juifs par le régime nazi et ses collaborateurs. Environ 6 millions de Juifs ont été assassinés. C'est un crime contre l'humanité reconnu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-008",
+        "shortId": "Q-FDD93E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "De 1870 à 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1914 à 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1939 à 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "De 1945 à 1950",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. L'Allemagne nazie, dirigée par Adolf Hitler, a lancé une guerre d'agression qui a tué environ 70 millions de personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-010",
+        "shortId": "Q-5D66A9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+        "choices": [
+          {
+            "text": "En 1992",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1975",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1957",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Communauté Économique Européenne (CEE) a été créée en 1957 par le Traité de Rome. Elle est devenue l'Union européenne (UE) en 1993."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-011",
+        "shortId": "Q-7D925F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "choices": [
+          {
+            "text": "À la fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "À la fête nationale du 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'armistice de 1918, fin de la Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "À la Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre marque l'anniversaire de l'armistice du 11 novembre 1918 qui a mis fin à la Première Guerre mondiale. C'est un jour de commémoration en France."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-1",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-007",
+        "shortId": "Q-CEC188",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité devant la justice ?",
+        "choices": [
+          {
+            "text": "Le droit pour chaque citoyen de ne jamais être condamné",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation pour le juge de donner raison au plus pauvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait que les avocats doivent être gratuits pour tout le monde",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi est la même pour tous, sans distinction d'origine ou de rang",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'égalité juridique garantit que chaque individu est soumis aux mêmes règles et aux mêmes tribunaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-025",
+        "shortId": "Q-9A986B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits politiques spécifiques aux citoyens de nationalité française ?",
+        "choices": [
+          {
+            "text": "Le droit de travailler et de circuler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote et d'être élu aux élections nationales",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se marier et d'avoir des enfants",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'accéder aux soins hospitaliers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté liée à la nationalité permet de participer à l'exercice de la souveraineté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-063",
+        "shortId": "Q-2E5876",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Fraternité' dans la devise française. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Le devoir pour chaque citoyen de participer à des actions caritatives au moins une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation légale d'héberger un voisin en difficulté financière",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de vivre dans la même ville que sa famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité entre les citoyens pour s'entraider",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité représente la solidarité nationale : aider les plus faibles, les malades, les personnes âgées ou en difficulté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-060",
+        "shortId": "Q-8710C2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous hébergez un ami sans-papiers gratuitement. Est-ce un crime ?",
+        "choices": [
+          {
+            "text": "Oui, c'est le délit de solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'ami ne paie pas",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'aide humanitaire n'est pas punie",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, vous risquez l'expulsion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'aide humanitaire désintéressée n'est plus un délit en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-012",
+        "shortId": "Q-F4FA2A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Justice, Paix, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Liberté, Égalité, Fraternité, c'est le triptyque fondamental inscrit dans la Constitution et sur le fronton des édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-049",
+        "shortId": "Q-B9A834",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué comme juré à un procès. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Non, c'est une obligation citoyenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si votre employeur refuse de vous libérer",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous êtes de nationalité étrangère résidant en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le procès dure plus de deux semaines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Être juré est un devoir civique fondamental. Le refus sans motif légitime (maladie grave, personne de plus de 70 ans) est sanctionné par une amende pouvant aller jusqu'à 3 750 €."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-006",
+        "shortId": "Q-F0A2A9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le port de signes religieux pour les agents des services publics ?",
+        "choices": [
+          {
+            "text": "Ils peuvent porter des signes religieux s'ils sont discrets",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent porter un uniforme religieux durant les fêtes",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont soumis à une stricte obligation de neutralité",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils choisissent librement d'afficher leur foi devant les usagers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour garantir l'égalité de traitement, les fonctionnaires ne doivent manifester aucune appartenance religieuse dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-038",
+        "shortId": "Q-C795F4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez créer une association culturelle. Devez-vous demander l'autorisation au gouvernement ?",
+        "choices": [
+          {
+            "text": "Oui, il faut un vote au Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il suffit de la déclarer à la préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il faut être au moins 100 personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'association est politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'association est un droit fondamental. La déclaration est simple."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-002",
+        "shortId": "Q-9FC3BB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain français du XIXe siècle est l'auteur du célèbre roman 'Les Misérables' ?",
+        "choices": [
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a écrit 'Les Misérables' et s'est battu pour la justice sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-043",
+        "shortId": "Q-3C96E0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si la France est une monarchie. Que répond la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "La France est une République indivisible, laïque, démocratique et sociale.",
+            "isCorrect": true
+          },
+          {
+            "text": "La France est un Empire dirigé par un monarque élu pour 5 ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "La France est une fédération de royaumes autonomes sous l'autorité d'un roi.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution ne définit pas la forme de l'État pour rester neutre.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 1er définit la nature profonde de l'État français : c'est une République où le pouvoir n'est pas héréditaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-017",
+        "shortId": "Q-ED35DF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez des insultes répétées sur les réseaux sociaux. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Porter plainte, car le cyber-harcèlement est un délit",
+            "isCorrect": true
+          },
+          {
+            "text": "Insulter la personne en retour pour vous défendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Supprimer votre compte et ne rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander de l'argent à la personne pour arrêter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège contre le harcèlement en ligne. Il faut garder les preuves et signaler les faits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-007",
+        "shortId": "Q-A942C0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les trois couleurs du drapeau national français ?",
+        "choices": [
+          {
+            "text": "Rouge, Jaune, Vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Jaune",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert, Blanc, Rouge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore est l'emblème national de la République. Il est né de la réunion des couleurs de Paris et du blanc de la royauté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-042",
+        "shortId": "Q-8899A8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la différence entre le 'droit de vote' et le 'droit d'éligibilité'.",
+        "choices": [
+          {
+            "text": "Le droit de vote permet de choisir ses représentants, le droit d'éligibilité permet de se présenter soi-même comme candidat.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de vote est acquis à 18 ans, tandis que le droit d'éligibilité est acquis à 25 ans pour toutes les élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote s'exerce lors des élections locales uniquement, le droit d'éligibilité concerne les élections nationales.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a aucune différence, ce sont deux mots pour désigner la même action.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie permet non seulement de voter mais aussi de participer activement au gouvernement en étant candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-062",
+        "shortId": "Q-A6EAA1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du budget de l'État ?",
+        "choices": [
+          {
+            "text": "Il le vote et l'autorise chaque année",
+            "isCorrect": true
+          },
+          {
+            "text": "Il le propose mais le Président l'adopte seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Il en délègue le contrôle à la Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il le valide uniquement en cas de déficit public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement contrôle la manière dont l'argent public est utilisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-013",
+        "shortId": "Q-8CE7F9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un animal enfermé dans une voiture en plein soleil. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "On peut appeler la police et, en cas d'urgence, intervenir devant témoins",
+            "isCorrect": true
+          },
+          {
+            "text": "On ne peut rien faire, c'est la propriété du maître",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut attendre le retour du propriétaire pendant plusieurs heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut donner de l'eau à travers la vitre fermée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'état de nécessité permet d'agir pour sauver une vie (humaine ou animale) en danger imminent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-047",
+        "shortId": "Q-2B04AE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel célèbre dramaturge a écrit 'L'Avare' et 'Le Malade imaginaire' au XVIIe siècle ?",
+        "choices": [
+          {
+            "text": "Jean Racine",
+            "isCorrect": false
+          },
+          {
+            "text": "Pierre Corneille",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Molière est l'auteur le plus joué au théâtre en France. Il critiquait les défauts de la société de son époque."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-061",
+        "shortId": "Q-560FCD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Liberté' dans la devise française. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "La possibilité d'agir librement tant qu'on ne nuit pas aux autres",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de faire ce que l'on veut quand on veut, sans limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de s'exprimer librement sans aucune limite, même si cela nuit à autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Un privilège accordé uniquement aux citoyens qui respectent toutes les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté en France s'arrête là où commence celle des autres. C'est un équilibre entre droits individuels et vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-002",
+        "shortId": "Q-B9234C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a l'autorité pour nommer le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Les citoyens par un vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République choisit le Premier ministre, qui dirige ensuite le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-042",
+        "shortId": "Q-3B8666",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le harcèlement scolaire est considéré en France comme :",
+        "choices": [
+          {
+            "text": "Un conflit interpersonnel sans conséquence juridique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un comportement sanctionné uniquement par le règlement intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une problématique relevant exclusivement de la responsabilité des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La répétition de violences physiques ou morales est sévèrement sanctionnée pour protéger les élèves."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-025",
+        "shortId": "Q-64654C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel hymne national français a été composé par Rouget de Lisle en 1792 ?",
+        "choices": [
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Temps des cerises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "À l'origine chant de guerre, la Marseillaise est devenue l'hymne national de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-009",
+        "shortId": "Q-34A48D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen étranger résidant en France souhaite savoir s'il doit respecter la loi française même si elle diffère de celle de son pays d'origine. Que prévoit le droit ?",
+        "choices": [
+          {
+            "text": "Les lois de la République s'appliquent à tous ceux qui résident sur le territoire national, sans exception de nationalité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Les étrangers bénéficient d'une immunité juridique pour les actes conformes aux coutumes de leur pays.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le Code pénal est obligatoire pour les étrangers, les autres lois sont facultatives.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le respect des lois françaises est soumis à la signature d'un contrat privé avec la préfecture.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'indivisibilité de la République implique que la loi est la même pour tous sur le sol français. C'est une garantie d'égalité et d'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-005",
+        "shortId": "Q-B9FB58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat présidentiel dure 5 ans, on l'appelle le quinquennat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-076",
+        "shortId": "Q-AAE17F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande de conduire sa voiture alors que vous n'avez pas le permis. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien si vous faites attention",
+            "isCorrect": false
+          },
+          {
+            "text": "Un simple avertissement de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien si l'ami est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende et un casier judiciaire car c'est un délit",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Conduire sans permis est un délit passible d'une amende et d'une peine de prison."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-034",
+        "shortId": "Q-5A8E95",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel massif montagneux peut-on trouver des volcans éteints en Auvergne ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La chaîne des Puys, dans le Massif central, est inscrite au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-019",
+        "shortId": "Q-D91CEA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel est l'âge minimum pour être juré lors d'un procès aux Assises ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "23 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être juré, il faut être de nationalité française, avoir au moins 23 ans, savoir lire et écrire en français et jouir de ses droits politiques, civils et de famille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-067",
+        "shortId": "Q-1ECDCC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande qui élit le Président de la République en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Tous les citoyens français majeurs par le vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Les députés et les sénateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En France, le Président est élu au suffrage universel direct. Tous les Français de 18 ans et plus peuvent voter."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-007",
+        "shortId": "Q-AE0390",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle monnaie est utilisée pour les échanges en France depuis 2002 ?",
+        "choices": [
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Dollar",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Florin",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Euro est la monnaie commune à la majorité des pays de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-043",
+        "shortId": "Q-5B1A6C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les châtiments corporels sur les enfants (gifles, fessées) sont :",
+        "choices": [
+          {
+            "text": "Conseillés par les médecins",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisés si l'enfant désobéit",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdits par la loi pour protéger l'intégrité de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Tolérés si les parents sont d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'éducation doit se faire sans violence, dans le respect des droits de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-011",
+        "shortId": "Q-0B117E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a organisé la Résistance française depuis Londres pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Clemenceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le général de Gaulle a lancé l'Appel du 18 juin 1940 pour inciter les Français à refuser la défaite et à poursuivre le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-027",
+        "shortId": "Q-71E58E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas un étranger peut-il demander le 'Regroupement Familial' ?",
+        "choices": [
+          {
+            "text": "Pour faire venir ses parents et ses grands-parents uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il réside régulièrement en France depuis au moins 18 mois et dispose de ressources suffisantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Dès son arrivée avec un visa de court séjour (tourisme)",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement s'il a déjà acheté une maison en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le regroupement familial permet à un étranger en situation régulière (titre de séjour d'au moins 1 an) de faire venir son conjoint et ses enfants mineurs sous conditions de ressources et de logement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-052",
+        "shortId": "Q-B0B6C8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où sont débattues les lois en France ?",
+        "choices": [
+          {
+            "text": "Au sein des tribunaux administratifs régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "En conseil des ministres à l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les commissions départementales de concertation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-065",
+        "shortId": "Q-7CE06F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction d'un député européen ?",
+        "choices": [
+          {
+            "text": "Gérer une mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget d'un département",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois européennes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ils représentent les citoyens de l'Union européenne au Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-022",
+        "shortId": "Q-3001D3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut décider d'utiliser une méthode de contraception ?",
+        "choices": [
+          {
+            "text": "Le conjoint ou le père de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement selon son choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement le médecin traitant après examen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État par une loi de régulation annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de disposer de son corps inclut la liberté de choisir sa contraception."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-009",
+        "shortId": "Q-82FC06",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme politique française a fait adopter la loi sur l'interruption volontaire de grossesse (IVG) en 1975 ?",
+        "choices": [
+          {
+            "text": "Simone Veil",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Cresson",
+            "isCorrect": false
+          },
+          {
+            "text": "Louise Michel",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone Veil, rescapée de la Shoah et ministre de la Santé, est une figure majeure de la lutte pour les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-035",
+        "shortId": "Q-A18CDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution assure la mission de service public de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "La Croix-Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de Commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les demandeurs d'emploi dans leur recherche et aide les entreprises dans leurs recrutements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-022",
+        "shortId": "Q-6850DD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle fondamental de l'école publique en France ?",
+        "choices": [
+          {
+            "text": "Préparer les élèves aux concours de la fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la garde des enfants pendant les horaires de travail des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Transmettre des savoirs et former des citoyens libres et éclairés",
+            "isCorrect": true
+          },
+          {
+            "text": "Enseigner les langues régionales et préserver le patrimoine local",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école de la République vise à donner à chaque enfant les outils de l'esprit critique et de l'autonomie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-046",
+        "shortId": "Q-88F3AE",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme les ministres sur proposition du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Président de la République est le Chef de l'État et nomme les ministres sur proposition du Premier ministre, validant ainsi la composition du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-046",
+        "shortId": "Q-24B98B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'appel d'urgence national pour l'enfance en danger ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "119",
+            "isCorrect": true
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 119 est gratuit, anonyme et ouvert 24h/24 pour protéger les enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-016",
+        "shortId": "Q-CAE6AC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a instauré le Premier Empire en France et a fait rédiger le Code civil en 1804 ?",
+        "choices": [
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis-Philippe",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon Ier a réorganisé l'administration française (préfets, lycées, Code civil) après la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-032",
+        "shortId": "Q-436942",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de déménagement, quand doit-on informer les organismes comme la CAF ou l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Un an après le départ effectif",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'on change de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce n'est pas nécessaire, la poste le fait automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dès que possible, idéalement avant ou juste après le déménagement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il est crucial de signaler son changement d'adresse rapidement pour éviter la suspension des droits ou des courriers importants perdus."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-cr-principes-valeurs-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-official-013",
+        "shortId": "Q-537DB4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La liberté de circulation permet à toute personne de :",
+        "choices": [
+          {
+            "text": "Se déplacer librement sur le territoire français",
+            "isCorrect": true
+          },
+          {
+            "text": "S'installer dans n'importe quel pays européen sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Circuler sans jamais présenter de pièce d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder à tous les bâtiments publics sans restriction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté de circulation permet de se déplacer librement en France. L'installation dans l'UE nécessite des formalités, et les contrôles d'identité restent légaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-025",
+        "shortId": "Q-721EEF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Peut-on brûler publiquement un drapeau français ?",
+        "choices": [
+          {
+            "text": "Oui, si le drapeau nous appartient",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est dans le cadre d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit (outrage au drapeau) puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, cela relève de la liberté artistique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage public au drapeau tricolore est sanctionné par le Code pénal, surtout s'il trouble l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-036",
+        "shortId": "Q-EE140B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit de changer de religion ?",
+        "choices": [
+          {
+            "text": "Oui, la liberté de conscience garantit ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement après une déclaration en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'on quitte le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à condition d'avoir plus de 18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de changer de religion est un élément fondamental de la liberté de conscience en France. Aucune déclaration n'est nécessaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-034",
+        "shortId": "Q-59F0A1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+        "choices": [
+          {
+            "text": "Non, la liberté d'expression prime pour les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les agents publics doivent être strictement neutres et ne pas manifester leurs convictions religieuses ou politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pendant les heures d'ouverture au public",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf s'ils travaillent avec des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un agent public représente l'État. Il ne doit montrer aucun signe religieux ou politique pour garantir que chaque usager sera traité de la même façon (égalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-021",
+        "shortId": "Q-9BC994",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Complétez les paroles de la Marseillaise : 'Allons enfants de la patrie [...]'",
+        "choices": [
+          {
+            "text": "contre nous de la tyrannie",
+            "isCorrect": false
+          },
+          {
+            "text": "le jour de gloire est arrivé",
+            "isCorrect": true
+          },
+          {
+            "text": "l'étendard sanglant est levé",
+            "isCorrect": false
+          },
+          {
+            "text": "entendez-vous dans nos campagnes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La suite immédiate est 'le jour de gloire est arrivé'. Les autres propositions sont des vers qui viennent plus tard dans le couplet."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-039",
+        "shortId": "Q-B97E53",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe…) ?",
+        "choices": [
+          {
+            "text": "Non, c'est une injure discriminatoire punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si la personne n'est pas nommément désignée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, dans le cadre d'un débat politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du média utilisé (oral, écrit, internet)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'injure discriminatoire (raciste, sexiste, homophobe, handiphobe) est un délit puni par la loi, quel que soit le support utilisé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-026",
+        "shortId": "Q-AB7616",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sur quel document peut-on voir Marianne ?",
+        "choices": [
+          {
+            "text": "Sur les billets de train",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les timbres-poste",
+            "isCorrect": true
+          },
+          {
+            "text": "Sur les cartes de transport en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les factures d'électricité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne figure traditionnellement sur les timbres-poste. Elle ne figure pas sur des documents commerciaux ou privés comme les factures ou les transports."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-028",
+        "shortId": "Q-F571FB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+        "choices": [
+          {
+            "text": "Pour interdire toute mention des religions en classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour protéger la conscience des élèves de tout prosélytisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour imposer l'athéisme comme valeur républicaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour séparer les élèves selon leurs convictions religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité à l'école protège la liberté de conscience des élèves en les préservant de toute pression religieuse ou politique. Elle ne vise pas à interdire les religions mais à créer un espace neutre d'apprentissage."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-004",
+        "shortId": "Q-F93AE6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que représente Marianne ?",
+        "choices": [
+          {
+            "text": "Une reine de France du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "La figure qui symbolise la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "L'allégorie de la République et de ses valeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "La fondatrice de la Croix-Rouge française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marianne est l'allégorie de la République française. Elle incarne les valeurs de liberté et de justice. La justice est représentée par une autre figure (femme aux yeux bandés)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-027",
+        "shortId": "Q-EDBB79",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Il a le droit si le travail est physique",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer une taxe supplémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une discrimination interdite par la loi, punissable pénalement",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi ne s'applique qu'aux entreprises publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code du travail et le Code pénal interdisent strictement la discrimination à l'embauche fondée sur le sexe. C'est un délit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-033",
+        "shortId": "Q-23A346",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+        "choices": [
+          {
+            "text": "Tous les citoyens présents dans le bâtiment",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Les agents publics de la préfecture doivent respecter strictement la neutralité religieuse et politique",
+            "isCorrect": true
+          },
+          {
+            "text": "Les avocats et les visiteurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La neutralité s'applique aux agents du service public (devoir de réserve). Elle ne s'applique pas aux usagers (public) qui viennent faire une démarche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-022",
+        "shortId": "Q-C3855C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+        "choices": [
+          {
+            "text": "Non, l'éducation est obligatoire et les règles s'appliquent à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, en signant une décharge de responsabilité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si l'enfant est une fille de plus de 13 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est possible uniquement dans les écoles privées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La mixité et l'assiduité sont obligatoires. Aucun motif religieux ou philosophique ne peut justifier de manquer un cours obligatoire (Charte de la laïcité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-024",
+        "shortId": "Q-D95C2A",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Les impôts financent les services publics : éducation, santé, sécurité, justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Les impôts sont reversés aux régions selon leur population",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts sont répartis équitablement entre tous les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts directs financent l'État, les impôts indirects les communes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'impôt finance l'ensemble des services publics (hôpitaux, écoles, police, justice). Il est progressif, pas égalitaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-018",
+        "shortId": "Q-8B5125",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que fait l'État pour lutter contre les discriminations ?",
+        "choices": [
+          {
+            "text": "Il adopte des lois pénales et a créé des institutions comme le Défenseur des droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Il impose des quotas obligatoires dans toutes les entreprises",
+            "isCorrect": false
+          },
+          {
+            "text": "Il interdit la mention de l'origine sur toutes les candidatures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il délègue cette responsabilité aux associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'État lutte contre les discriminations par des lois pénales (sanctions) et des institutions comme le Défenseur des droits. Il n'impose pas de quotas généralisés et ne délègue pas cette mission aux associations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-017",
+        "shortId": "Q-0EC64D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la liberté ?",
+        "choices": [
+          {
+            "text": "Le droit de faire ce que la loi n'interdit pas explicitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'agir selon ses convictions dans le respect de la loi et des droits d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit naturel qui prévaut sur toute législation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit accordé progressivement selon l'âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La définition républicaine de la liberté est bornée par le respect de la loi et la liberté des autres : 'La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui'."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-019",
+        "shortId": "Q-CE5464",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+        "choices": [
+          {
+            "text": "Tous les citoyens doivent avoir les mêmes revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi peut accorder des privilèges selon le statut social",
+            "isCorrect": false
+          },
+          {
+            "text": "Chacun a droit à un traitement différent selon ses besoins",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens ont les mêmes droits devant la loi, sans distinction",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'égalité républicaine signifie l'égalité en droits et devant la loi (article 1 DDHC). Elle interdit les privilèges et discriminations. Ce n'est pas l'égalité économique (des revenus) ni le traitement différencié."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-012",
+        "shortId": "Q-157C0A",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert un titre de séjour ?",
+        "choices": [
+          {
+            "text": "À autoriser une personne étrangère à résider légalement en France",
+            "isCorrect": true
+          },
+          {
+            "text": "À permettre d'exercer toute profession sans restriction",
+            "isCorrect": false
+          },
+          {
+            "text": "À remplacer le passeport pour les voyages en Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "À obtenir automatiquement la nationalité française après 5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un titre de séjour autorise la résidence légale en France. Il ne donne pas automatiquement la nationalité, ne remplace pas le passeport, et certains titres limitent l'activité professionnelle (étudiant, visiteur)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-040",
+        "shortId": "Q-81206E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+        "choices": [
+          {
+            "text": "Sur n'importe quel site commercial en .fr",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement sur les sites de l'Union Européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur Wikipedia uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les sites gouvernementaux officiels (www.elysee.fr, www.gouvernement.fr, etc.) et les sites officiels des mairies",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les sites publics français affichent souvent des marqueurs visuels républicains (Marianne, drapeau tricolore, sigle RF) pour signaler leur caractère officiel. Au sens constitutionnel (article 2), les symboles officiels sont le drapeau tricolore, La Marseillaise et la devise."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-032",
+        "shortId": "Q-52E366",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que peut faire un usager du service public dans une mairie ?",
+        "choices": [
+          {
+            "text": "Accéder aux services dans les mêmes conditions que tous les autres usagers",
+            "isCorrect": true
+          },
+          {
+            "text": "Choisir l'agent qui le servira selon ses préférences personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Être servi en priorité s'il est résident depuis longtemps",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander un traitement différent pour motif religieux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'usager a droit à l'égalité d'accès aux services publics. Il ne peut ni choisir son interlocuteur, ni exiger un traitement prioritaire ou différent. Le service public traite tous les usagers de manière égale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-official-006",
+        "shortId": "Q-6E3318",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quels sont des symboles officiels de la République française ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore, la fleur de lys et Marianne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau tricolore, La devise : « Liberté, Égalité, Fraternité » et la Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Le drapeau européen, la Marseillaise et le coq gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel, le bonnet phrygien et la devise républicaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution mentionne trois symboles officiels : le drapeau tricolore, l'hymne national (La Marseillaise) et la devise « Liberté, Égalité, Fraternité ». La fleur de lys est royaliste. Le coq gaulois et le bonnet phrygien sont des symboles associés, non officiels au sens constitutionnel."
+      }
+    }
+  ]
+}

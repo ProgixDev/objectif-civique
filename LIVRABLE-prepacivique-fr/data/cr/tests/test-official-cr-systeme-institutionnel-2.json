@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-cr-systeme-institutionnel-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-official-026",
+        "shortId": "Q-B96852",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'Hôtel de Matignon ?",
+        "choices": [
+          {
+            "text": "Le siège de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le siège du Ministère de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La résidence du Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La résidence et le lieu de travail du Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Hôtel de Matignon, situé à Paris, est la résidence officielle et le lieu de travail du Premier ministre. Le Président de la République réside quant à lui au Palais de l'Élysée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-007",
+        "shortId": "Q-268AA7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce que le vote est obligatoire ?",
+        "choices": [
+          {
+            "text": "Oui, mais seulement pour les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit et un devoir moral, mais ce n'est pas obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, l'abstention est punie d'une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour les fonctionnaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement à la Belgique ou au Luxembourg, le vote n'est pas obligatoire en France (sauf pour les élections sénatoriales qui concernent les grands électeurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-020",
+        "shortId": "Q-4DB993",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif, Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif, Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire, Économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Présidentiel, Parlementaire, Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les trois pouvoirs classiques de la démocratie : Législatif (faire la loi), Exécutif (appliquer la loi), Judiciaire (trancher les litiges)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-034",
+        "shortId": "Q-467EF9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle principal du département ?",
+        "choices": [
+          {
+            "text": "Le développement économique et l'aménagement du territoire régional",
+            "isCorrect": false
+          },
+          {
+            "text": "L'action sociale (RSA, APA, aide aux personnes en situation de handicap) et la gestion des collèges",
+            "isCorrect": true
+          },
+          {
+            "text": "L'état civil, l'urbanisme et la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "La conduite de la politique de la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La compétence principale du département est l’action sociale : RSA, allocation personnalisée d’autonomie (APA), aide aux personnes en situation de handicap et protection de l’enfance. Il est également responsable des collèges. Le développement économique relève principalement de la région, l’état civil et l’urbanisme relèvent des communes, et la politique de la Nation relève du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-013",
+        "shortId": "Q-BB11AB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+        "choices": [
+          {
+            "text": "Pour donner tous les pouvoirs au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour empêcher les abus de pouvoir et garantir les libertés fondamentales",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour que l'administration soit plus rapide et efficace",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour confier la justice aux parlementaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce principe garantit qu'une seule personne ou institution ne détient pas tous les pouvoirs. En séparant ceux qui font la loi (Législatif), ceux qui l'exécutent (Exécutif) et ceux qui la jugent (Judiciaire), on protège les libertés fondamentales contre l'arbitraire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-018",
+        "shortId": "Q-C27E5A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut voter aux élections en France ?",
+        "choices": [
+          {
+            "text": "Tous les résidents en France depuis plus de 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne née sur le sol français",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens ayant un contrat de travail à durée indéterminée (CDI)",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pour voter, il faut remplir trois conditions : être français, être majeur (18 ans) et jouir de ses droits civils et politiques (ne pas en être privé par un juge). Les citoyens de l'UE peuvent aussi voter, mais uniquement aux élections municipales et européennes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-048",
+        "shortId": "Q-B0B3E1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle fréquence les élections européennes sont-elles organisées ?",
+        "choices": [
+          {
+            "text": "Tous les 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés au Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Les élections européennes ont lieu simultanément dans tous les États membres de l'Union européenne, selon des règles communes fixées au niveau européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-039",
+        "shortId": "Q-10AC96",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la devise de l’Union européenne ?",
+        "choices": [
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          },
+          {
+            "text": "Unie dans la diversité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "'Unie dans la diversité' signifie que les Européens s'unissent pour la paix tout en gardant leurs différentes cultures et langues."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-017",
+        "shortId": "Q-14BB00",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de députés composent l’Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "101",
+            "isCorrect": false
+          },
+          {
+            "text": "925",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct pour 5 ans. Ils représentent la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-046",
+        "shortId": "Q-7A3A4F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État n'est pas membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Irlande",
+            "isCorrect": false
+          },
+          {
+            "text": "La Suisse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Suède",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Suisse est au cœur de l'Europe mais ne fait pas partie de l'UE (tout comme la Norvège)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-001",
+        "shortId": "Q-845106",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'État de droit ?",
+        "choices": [
+          {
+            "text": "Un régime politique dirigé par des juges non élus",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système où la puissance publique est soumise au droit, garantissant les libertés individuelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Une situation temporaire d'urgence sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où la police a tous les pouvoirs pour maintenir l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit est un système où tout le monde, y compris l'État et le Président, doit respecter la loi. Il garantit les droits fondamentaux et l'égalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-022",
+        "shortId": "Q-E471B5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est le préfet ?",
+        "choices": [
+          {
+            "text": "Le représentant du département élu par les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le représentant de l'État dans le département ou la région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le responsable de l'administration communale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président de l'Assemblée départementale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le préfet est un haut fonctionnaire nommé par le Gouvernement en Conseil des ministres. Il représente l’État dans le département ou la région. Il veille à l’application des lois, dirige les services déconcentrés de l’État et exerce un contrôle de légalité sur les actes des collectivités territoriales. Il ne s’agit pas d’un élu local."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-014",
+        "shortId": "Q-5C8D80",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-036",
+        "shortId": "Q-D2E04D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de communes environ existe-t-il en France ?",
+        "choices": [
+          {
+            "text": "Environ 10 000",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 35 000",
+            "isCorrect": true
+          },
+          {
+            "text": "Environ 100 000",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 5 000",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte environ 35 000 communes, ce qui en fait le pays européen ayant le plus grand nombre de communes. Ce nombre diminue légèrement au fil des années en raison des fusions de communes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-040",
+        "shortId": "Q-BC911D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'hymne de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la Joie (Beethoven)",
+            "isCorrect": true
+          },
+          {
+            "text": "God Save the King",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-015",
+        "shortId": "Q-59ABB7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du gouvernement ?",
+        "choices": [
+          {
+            "text": "De voter le budget de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "De déterminer et conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "De juger les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "De contrôler la constitutionnalité des lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Gouvernement détermine et conduit la politique de la Nation (art. 20 de la Constitution). C'est le Parlement (Assemblée nationale et Sénat) qui vote le budget et contrôle l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-049",
+        "shortId": "Q-5DCFB9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis au moins cinq ans sans interruption",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obtenu au préalable un titre de séjour de longue durée",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen d'un pays membre de l'UE et être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir signé le Contrat d'Intégration Républicaine (CIR) depuis au moins un an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Tout citoyen de l'UE résidant en France peut voter aux élections européennes (et municipales) s'il est inscrit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-008",
+        "shortId": "Q-536CB9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",
+        "choices": [
+          {
+            "text": "Non, il doit remettre ses pouvoirs en jeu lors d'une élection démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par référendum d'auto-prolongation",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il estime que la situation l'exige",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le Premier ministre est d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat est fixe (5 ans). Pour rester au pouvoir, le Président doit impérativement être réélu au suffrage universel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-031",
+        "shortId": "Q-6BF2E9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France ?",
+        "choices": [
+          {
+            "text": "18 régions",
+            "isCorrect": true
+          },
+          {
+            "text": "13 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "22 régions métropolitaines",
+            "isCorrect": false
+          },
+          {
+            "text": "12 régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la réforme territoriale entrée en vigueur le 1er janvier 2016, la France compte 18 régions : 13 en métropole et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les anciennes 22 régions métropolitaines ont été fusionnées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-023",
+        "shortId": "Q-82EB70",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+        "choices": [
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Justifier d'une résidence ininterrompue de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir signé la Charte des droits et devoirs du citoyen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription sur les listes électorales est obligatoire. Elle est automatique pour les jeunes à 18 ans, mais nécessite une démarche volontaire en cas de déménagement ou d'acquisition de la nationalité."
+      }
+    }
+  ]
+}

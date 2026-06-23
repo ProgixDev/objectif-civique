@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-nat-droits-et-devoirs-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-situational-021",
+        "shortId": "Q-B525A7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous avez fait l'objet d'une condamnation pénale. La 'réhabilitation' qui efface cette condamnation du casier judiciaire peut être obtenue :",
+        "choices": [
+          {
+            "text": "Automatiquement après un certain délai (réhabilitation légale) ou par demande au tribunal (réhabilitation judiciaire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement par grâce présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si la victime retire sa plainte",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais pour les délits, uniquement pour les contraventions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La réhabilitation efface la condamnation. Elle peut être 'légale' (automatique après un délai sans nouvelle infraction) ou 'judiciaire' (accordée par la chambre de l'instruction sur demande de l'intéressé après un délai d'épreuve)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-022",
+        "shortId": "Q-87F1A6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez un courrier de l'administration fiscale vous demandant des justificatifs. Quel est le délai légal pour répondre ?",
+        "choices": [
+          {
+            "text": "15 jours à compter de la réception",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours à compter de la réception (délai de droit commun)",
+            "isCorrect": true
+          },
+          {
+            "text": "60 jours pour les contribuables résidant à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun délai n'est imposé, mais une réponse rapide est recommandée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le délai de réponse aux demandes de l'administration fiscale est en général de 30 jours, sauf mention contraire dans le courrier."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-023",
+        "shortId": "Q-E99E40",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre bail d'habitation arrive à échéance. Le propriétaire veut récupérer le logement pour y loger son fils. Peut-il vous donner congé ?",
+        "choices": [
+          {
+            "text": "Non, le locataire a un droit au maintien dans les lieux illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si le fils est majeur et vit seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le congé pour reprise familiale est légal s'il respecte un préavis de 6 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf accord amiable entre les parties",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le propriétaire peut donner congé pour reprise (pour lui-même ou un proche) avec un préavis de 6 mois avant l'échéance du bail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-024",
+        "shortId": "Q-DD3AAD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué par la police pour une audition libre. Avez-vous le droit à un avocat ?",
+        "choices": [
+          {
+            "text": "Non, l'avocat n'intervient qu'en garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous pouvez être assisté d'un avocat dès l'audition libre",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si vous êtes mineur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous faites l'objet d'une mise en examen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2014, toute personne entendue librement peut demander à être assistée d'un avocat pendant l'audition."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-025",
+        "shortId": "Q-722A40",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez contester une décision administrative (refus de permis de construire). Quel est le délai pour saisir le tribunal administratif ?",
+        "choices": [
+          {
+            "text": "1 mois à compter de la notification",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois à compter de la notification de la décision",
+            "isCorrect": true
+          },
+          {
+            "text": "3 mois à compter de la notification",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois à compter de la décision implicite de rejet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le délai de recours contentieux devant le tribunal administratif est de 2 mois à compter de la notification de la décision."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-026",
+        "shortId": "Q-ADAD83",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes propriétaire et votre locataire ne paie plus son loyer depuis 3 mois. Pouvez-vous changer les serrures pour l'expulser ?",
+        "choices": [
+          {
+            "text": "Oui, après mise en demeure restée sans effet pendant 15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le bail contient une clause résolutoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de squat avéré du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un huissier mandaté par le juge peut procéder à l'expulsion",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'expulsion doit suivre une procédure judiciaire stricte. Changer les serrures soi-même constitue une voie de fait pénalement sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-027",
+        "shortId": "Q-03F3CE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une facture d'électricité anormalement élevée. Pouvez-vous demander un échéancier de paiement ?",
+        "choices": [
+          {
+            "text": "Oui, le fournisseur est tenu de proposer un échéancier sur demande",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les factures d'énergie doivent être payées en une seule fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous bénéficiez du tarif social",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de force majeure justifiée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les fournisseurs d'énergie sont tenus de proposer des facilités de paiement aux consommateurs en difficulté."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-028",
+        "shortId": "Q-12CDC5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes salarié et votre employeur vous impose des heures supplémentaires. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Oui, les heures supplémentaires sont toujours facultatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si elles sont dans le contingent annuel et que l'employeur respecte les règles",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous avez des enfants de moins de 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si votre médecin du travail s'y oppose",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'employeur peut imposer des heures supplémentaires dans la limite du contingent annuel. Le refus sans motif légitime peut constituer une faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-029",
+        "shortId": "Q-EE9393",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez installer une clôture entre votre terrain et celui de votre voisin. Devez-vous le prévenir ?",
+        "choices": [
+          {
+            "text": "Non, vous êtes libre d'installer une clôture sur votre terrain",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une déclaration préalable en mairie est obligatoire dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la clôture est mitoyenne, l'accord des deux propriétaires est nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si la clôture dépasse 2 mètres de hauteur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une clôture strictement sur votre terrain est libre (sauf règles d'urbanisme), mais une clôture mitoyenne nécessite l'accord du voisin."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-030",
+        "shortId": "Q-179F47",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez un litige avec un artisan pour des travaux mal réalisés. Avant de saisir le juge, que devez-vous obligatoirement tenter ?",
+        "choices": [
+          {
+            "text": "Une expertise judiciaire avant tout recours",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tentative de résolution amiable (médiation, conciliation ou procédure participative)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dépôt de plainte auprès de la DGCCRF",
+            "isCorrect": false
+          },
+          {
+            "text": "Une mise en demeure par exploit d'huissier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour les litiges inférieurs à un certain montant, une tentative de résolution amiable est obligatoire avant de saisir le tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-031",
+        "shortId": "Q-FEFE78",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre voisin a des arbres dont les racines endommagent votre mur. Que dit le Code civil ?",
+        "choices": [
+          {
+            "text": "Vous devez demander au juge l'autorisation de couper les racines",
+            "isCorrect": false
+          },
+          {
+            "text": "Le voisin est responsable mais c'est à lui de couper les racines",
+            "isCorrect": false
+          },
+          {
+            "text": "Une expertise contradictoire est obligatoire avant toute action",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez couper vous-même les racines qui dépassent sur votre terrain",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 673 du Code civil permet de couper soi-même les racines qui avancent sur son terrain, contrairement aux branches."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-032",
+        "shortId": "Q-708F42",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un accident de la route. Dans quel délai devez-vous déclarer le sinistre à votre assurance ?",
+        "choices": [
+          {
+            "text": "24 heures après l'accident",
+            "isCorrect": false
+          },
+          {
+            "text": "5 jours ouvrés après l'accident",
+            "isCorrect": true
+          },
+          {
+            "text": "15 jours après l'accident pour les dommages matériels",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours après l'accident pour les dommages corporels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le délai légal de déclaration d'un sinistre automobile à son assurance est de 5 jours ouvrés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-033",
+        "shortId": "Q-FDFFE8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez changer le prénom de votre enfant mineur. Quelle est la procédure ?",
+        "choices": [
+          {
+            "text": "Une demande à l'officier d'état civil de la mairie (procédure simplifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande auprès du juge aux affaires familiales uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte notarié suivi d'une publication au Journal Officiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une requête au Procureur de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2017, le changement de prénom peut se faire directement en mairie par simple demande à l'officier d'état civil."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-034",
+        "shortId": "Q-5B216A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en CDD et votre employeur veut y mettre fin avant le terme prévu. Dans quels cas est-ce légal ?",
+        "choices": [
+          {
+            "text": "Pour tout motif, moyennant le versement d'une indemnité compensatrice",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour faute grave, force majeure, accord des parties ou embauche en CDI",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour motif économique avec un préavis de 15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour insuffisance professionnelle constatée pendant la période d'essai uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La rupture anticipée d'un CDD n'est possible que dans des cas limités : faute grave, force majeure, accord des parties, ou embauche en CDI."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-035",
+        "shortId": "Q-AB5A95",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez commandé un meuble livrable sous 4 semaines. Après 6 semaines, rien n'est arrivé. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Annuler immédiatement la commande sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le juge des référés pour obtenir la livraison",
+            "isCorrect": false
+          },
+          {
+            "text": "Mettre en demeure le vendeur puis annuler si le délai supplémentaire raisonnable n'est pas respecté",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander le double du prix à titre de dommages et intérêts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de retard, le consommateur doit d'abord mettre en demeure le vendeur et lui accorder un délai supplémentaire raisonnable avant d'annuler."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-036",
+        "shortId": "Q-531772",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous louez un appartement meublé. Quelle est la durée minimale du bail ?",
+        "choices": [
+          {
+            "text": "3 ans comme pour un logement vide",
+            "isCorrect": false
+          },
+          {
+            "text": "1 an (ou 9 mois pour un étudiant)",
+            "isCorrect": true
+          },
+          {
+            "text": "6 mois renouvelables par tacite reconduction",
+            "isCorrect": false
+          },
+          {
+            "text": "2 ans avec possibilité de résiliation trimestrielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le bail meublé a une durée minimale d'1 an, réduite à 9 mois si le locataire est étudiant."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-037",
+        "shortId": "Q-148AB5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous licencie pour motif personnel. Quel est le préavis légal si vous avez 3 ans d'ancienneté ?",
+        "choices": [
+          {
+            "text": "1 mois de préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois de préavis pour les cadres uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préavis dépend uniquement de la convention collective",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois de préavis",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préavis légal est de 2 mois pour les salariés ayant 2 ans ou plus d'ancienneté, sauf disposition conventionnelle plus favorable."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-038",
+        "shortId": "Q-5D6169",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en conflit avec votre banque sur des frais injustifiés. Vers qui vous tourner gratuitement ?",
+        "choices": [
+          {
+            "text": "L'Autorité de contrôle prudentiel et de résolution (ACPR) exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médiateur bancaire de votre établissement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal judiciaire directement",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque de France pour un rétablissement de vos droits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Chaque banque doit proposer un médiateur gratuit pour résoudre les litiges avec ses clients avant tout recours judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-039",
+        "shortId": "Q-AC2DBE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes copropriétaire. Le syndic veut engager des travaux urgents sans attendre l'assemblée générale. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, pour les travaux nécessaires à la sauvegarde de l'immeuble",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, tous les travaux doivent être votés en assemblée générale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le montant ne dépasse pas 5 000 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf accord écrit de tous les copropriétaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le syndic peut engager des travaux urgents nécessaires à la sauvegarde de l'immeuble sans vote préalable de l'assemblée générale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-040",
+        "shortId": "Q-897FA8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez signé un compromis de vente pour un appartement. Pouvez-vous vous rétracter ?",
+        "choices": [
+          {
+            "text": "Non, le compromis engage définitivement les parties",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'acquéreur bénéficie d'un délai de rétractation de 10 jours",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si le vendeur trouve un autre acheteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le diagnostic amiante révèle un risque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'acquéreur non professionnel dispose d'un délai de rétractation de 10 jours après la signature du compromis ou sa notification."
+      }
+    }
+  ]
+}

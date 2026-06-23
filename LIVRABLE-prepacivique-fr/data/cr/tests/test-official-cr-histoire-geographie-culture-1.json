@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-cr-histoire-geographie-culture-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-histoire-official-013",
+        "shortId": "Q-79D871",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+        "choices": [
+          {
+            "text": "Elles ont obtenu le droit de vote et d'éligibilité",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ont pu ouvrir un compte bancaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles ont obtenu le droit de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles ont été mobilisées dans l'armée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ordonnance du 21 avril 1944 du Gouvernement provisoire a accordé le droit de vote aux femmes françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-014",
+        "shortId": "Q-05C316",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "L'OTAN",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Organisation des Nations Unies (ONU)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union Européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Société des Nations (SDN)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'ONU a été fondée en 1945 pour maintenir la paix et la sécurité internationales après les ravages de la guerre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-046",
+        "shortId": "Q-D24627",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était une écrivaine française célèbre ?",
+        "choices": [
+          {
+            "text": "Jane Austen",
+            "isCorrect": false
+          },
+          {
+            "text": "Agatha Christie",
+            "isCorrect": false
+          },
+          {
+            "text": "George Sand",
+            "isCorrect": true
+          },
+          {
+            "text": "J.K. Rowling",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "George Sand (Aurore Dupin) est une romancière française majeure du XIXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-043",
+        "shortId": "Q-9BA5AF",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Auguste Rodin ?",
+        "choices": [
+          {
+            "text": "Un sculpteur",
+            "isCorrect": true
+          },
+          {
+            "text": "Un musicien",
+            "isCorrect": false
+          },
+          {
+            "text": "Un architecte",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Auguste Rodin (1840-1917) est mondialement connu pour ses sculptures comme 'Le Penseur'."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-023",
+        "shortId": "Q-1356C6",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville française est un port maritime ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Havre",
+            "isCorrect": true
+          },
+          {
+            "text": "Grenoble",
+            "isCorrect": false
+          },
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Havre est un grand port maritime situé en Normandie, sur la Manche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-016",
+        "shortId": "Q-9911D3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+        "choices": [
+          {
+            "text": "En 2002",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1990",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1999",
+            "isCorrect": false
+          },
+          {
+            "text": "En 2010",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'euro a été introduit en France le 1er janvier 2002 sous forme de pièces et billets. Auparavant (1999), il existait comme monnaie scripturale pour les transactions bancaires. Le franc a cessé d'avoir cours légal en février 2002."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-001",
+        "shortId": "Q-5CB456",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel était le surnom de Louis XIV ?",
+        "choices": [
+          {
+            "text": "Le Roi Bien-Aimé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Roi Philosophe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Roi Soleil",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Grand Roi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Louis XIV (1638-1715) avait choisi le Soleil pour emblème, symbolisant l'ordre et la régularité, d'où son surnom de 'Roi Soleil'."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-026",
+        "shortId": "Q-C76EB3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+        "choices": [
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Pyrénées forment une frontière naturelle séparant la France de l'Espagne au sud-ouest."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-011",
+        "shortId": "Q-52BFF9",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?",
+        "choices": [
+          {
+            "text": "La Monarchie de Juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Second Empire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Première République",
+            "isCorrect": true
+          },
+          {
+            "text": "La Monarchie Absolue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Convention nationale a aboli la royauté et proclamé la République en septembre 1792."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-021",
+        "shortId": "Q-397D09",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle mer ou océan borde la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "L'Océan Pacifique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Baltique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Océan Indien",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France métropolitaine est bordée à l'ouest par l'océan Atlantique (et au sud par la Méditerranée, au nord par la Manche/Mer du Nord)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-003",
+        "shortId": "Q-27BA64",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année Napoléon Ier est-il devenu empereur ?",
+        "choices": [
+          {
+            "text": "En 1799",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1804",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1815",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Napoléon Bonaparte s'est fait sacrer Empereur des Français le 2 décembre 1804 à Notre-Dame de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-012",
+        "shortId": "Q-CF9246",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          },
+          {
+            "text": "Pierre Laval",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Maréchal Pétain",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Jean Moulin a été chargé par de Gaulle d'unifier les mouvements de Résistance en France. Il est mort sous la torture en 1943."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-028",
+        "shortId": "Q-1D0DD3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la population approximative de la France en 2025 ?",
+        "choices": [
+          {
+            "text": "Environ 45 millions d'habitants",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 68 millions d'habitants",
+            "isCorrect": true
+          },
+          {
+            "text": "Environ 55 millions d'habitants",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 80 millions d'habitants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La population française continue de croître légèrement et se situe autour de 68 millions (métropole + outre-mer)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-038",
+        "shortId": "Q-481DDA",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+        "choices": [
+          {
+            "text": "Le premier mardi du mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement lors des Journées du Patrimoine",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le premier dimanche du mois (dans de nombreux musées)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "De nombreux musées nationaux sont gratuits le premier dimanche du mois pour favoriser l'accès à la culture."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-015",
+        "shortId": "Q-EC9295",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle peine a été supprimée en 1981 ?",
+        "choices": [
+          {
+            "text": "La prison à perpétuité",
+            "isCorrect": false
+          },
+          {
+            "text": "Les travaux forcés",
+            "isCorrect": false
+          },
+          {
+            "text": "La peine de mort",
+            "isCorrect": true
+          },
+          {
+            "text": "L'amende",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Robert Badinter, ministre de la Justice, a porté la loi abolissant la peine de mort en 1981."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-024",
+        "shortId": "Q-CA59AC",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle mer se situe entre la France et l'Angleterre ?",
+        "choices": [
+          {
+            "text": "L'Adriatique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Manche",
+            "isCorrect": true
+          },
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Méditerranée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Manche est le bras de mer (plus précisément un détroit) qui sépare le nord de la France du sud de l'Angleterre. C'est une partie de l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-008",
+        "shortId": "Q-44A4C0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "Depuis 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1962",
+            "isCorrect": true
+          },
+          {
+            "text": "Depuis 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est à la suite du référendum initié par le général de Gaulle en 1962 que le Président est élu directement par les Français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-005",
+        "shortId": "Q-B73DD4",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quand date l'appel à la résistance du général de Gaulle ?",
+        "choices": [
+          {
+            "text": "Du 14 juillet 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 11 novembre 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 18 juin 1940",
+            "isCorrect": true
+          },
+          {
+            "text": "Du 8 mai 1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'appel du 18 juin 1940 a été lancé par le général de Gaulle depuis Londres sur la BBC pour inciter les Français à refuser la défaite."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-033",
+        "shortId": "Q-E84D93",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+        "choices": [
+          {
+            "text": "L'Australie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brésil",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Canada",
+            "isCorrect": false
+          },
+          {
+            "text": "La France",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est régulièrement la première destination touristique mondiale en nombre de visiteurs étrangers."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-045",
+        "shortId": "Q-6AFF70",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+        "choices": [
+          {
+            "text": "La cathédrale de Chartres",
+            "isCorrect": false
+          },
+          {
+            "text": "Notre-Dame de Reims",
+            "isCorrect": false
+          },
+          {
+            "text": "Notre-Dame de Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "La cathédrale de Strasbourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'incendie du 15 avril 2019 a détruit la flèche et la toiture de Notre-Dame de Paris, suscitant une émotion mondiale."
+      }
+    }
+  ]
+}

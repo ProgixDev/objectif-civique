@@ -1,0 +1,481 @@
+{
+  "level": "NAT",
+  "label": "NAT - Naturalisation",
+  "uniqueQuestions": 701,
+  "files": {
+    "allUnique": "nat/questions.json",
+    "bySection": "sections/",
+    "trainingTests": "tests/",
+    "mockExams": "examens/"
+  },
+  "sections": [
+    {
+      "section": "principes-valeurs",
+      "label": "Principes et valeurs de la Republique",
+      "file": "nat/sections/principes-valeurs.json",
+      "count": 156
+    },
+    {
+      "section": "systeme-institutionnel",
+      "label": "Systeme institutionnel et politique",
+      "file": "nat/sections/systeme-institutionnel.json",
+      "count": 181
+    },
+    {
+      "section": "histoire-geographie-culture",
+      "label": "Histoire, geographie et culture",
+      "file": "nat/sections/histoire-geographie-culture.json",
+      "count": 133
+    },
+    {
+      "section": "droits-et-devoirs",
+      "label": "Droits et devoirs",
+      "file": "nat/sections/droits-et-devoirs.json",
+      "count": 167
+    },
+    {
+      "section": "vivre-en-france",
+      "label": "Vivre dans la societe francaise",
+      "file": "nat/sections/vivre-en-france.json",
+      "count": 64
+    }
+  ],
+  "trainingTests": [
+    {
+      "file": "nat/tests/test-official-nat-principes-valeurs-1.json",
+      "slug": "test-official-nat-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-principes-valeurs-2.json",
+      "slug": "test-official-nat-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 18
+    },
+    {
+      "file": "nat/tests/test-situational-nat-principes-valeurs-1.json",
+      "slug": "test-situational-nat-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-principes-valeurs-2.json",
+      "slug": "test-situational-nat-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-principes-valeurs-3.json",
+      "slug": "test-situational-nat-principes-valeurs-3",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-principes-valeurs-4.json",
+      "slug": "test-situational-nat-principes-valeurs-4",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-principes-valeurs-1.json",
+      "slug": "test-standard-nat-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-principes-valeurs-2.json",
+      "slug": "test-standard-nat-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 18
+    },
+    {
+      "file": "nat/tests/test-official-nat-systeme-institutionnel-1.json",
+      "slug": "test-official-nat-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-systeme-institutionnel-2.json",
+      "slug": "test-official-nat-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-systeme-institutionnel-3.json",
+      "slug": "test-official-nat-systeme-institutionnel-3",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 16
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-1.json",
+      "slug": "test-standard-nat-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-2.json",
+      "slug": "test-standard-nat-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-3.json",
+      "slug": "test-standard-nat-systeme-institutionnel-3",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-4.json",
+      "slug": "test-standard-nat-systeme-institutionnel-4",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-5.json",
+      "slug": "test-standard-nat-systeme-institutionnel-5",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-systeme-institutionnel-6.json",
+      "slug": "test-standard-nat-systeme-institutionnel-6",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 25
+    },
+    {
+      "file": "nat/tests/test-official-nat-histoire-geographie-culture-1.json",
+      "slug": "test-official-nat-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-histoire-geographie-culture-2.json",
+      "slug": "test-official-nat-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-histoire-geographie-culture-3.json",
+      "slug": "test-official-nat-histoire-geographie-culture-3",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-histoire-geographie-culture-4.json",
+      "slug": "test-official-nat-histoire-geographie-culture-4",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 23
+    },
+    {
+      "file": "nat/tests/test-standard-nat-histoire-geographie-culture-1.json",
+      "slug": "test-standard-nat-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-histoire-geographie-culture-2.json",
+      "slug": "test-standard-nat-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-histoire-geographie-culture-3.json",
+      "slug": "test-standard-nat-histoire-geographie-culture-3",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 10
+    },
+    {
+      "file": "nat/tests/test-official-nat-droits-et-devoirs-1.json",
+      "slug": "test-official-nat-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-droits-et-devoirs-2.json",
+      "slug": "test-official-nat-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 17
+    },
+    {
+      "file": "nat/tests/test-situational-nat-droits-et-devoirs-1.json",
+      "slug": "test-situational-nat-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-droits-et-devoirs-2.json",
+      "slug": "test-situational-nat-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-droits-et-devoirs-3.json",
+      "slug": "test-situational-nat-droits-et-devoirs-3",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-droits-et-devoirs-4.json",
+      "slug": "test-situational-nat-droits-et-devoirs-4",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-situational-nat-droits-et-devoirs-5.json",
+      "slug": "test-situational-nat-droits-et-devoirs-5",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 10
+    },
+    {
+      "file": "nat/tests/test-standard-nat-droits-et-devoirs-1.json",
+      "slug": "test-standard-nat-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-standard-nat-droits-et-devoirs-2.json",
+      "slug": "test-standard-nat-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-vivre-en-france-1.json",
+      "slug": "test-official-nat-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "nat/tests/test-official-nat-vivre-en-france-2.json",
+      "slug": "test-official-nat-vivre-en-france-2",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 24
+    },
+    {
+      "file": "nat/tests/test-standard-nat-vivre-en-france-1.json",
+      "slug": "test-standard-nat-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    }
+  ],
+  "mockExams": [
+    {
+      "file": "nat/examens/exam-nat-official-1.json",
+      "slug": "exam-nat-official-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-2.json",
+      "slug": "exam-nat-official-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-3.json",
+      "slug": "exam-nat-official-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-4.json",
+      "slug": "exam-nat-official-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-5.json",
+      "slug": "exam-nat-official-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-6.json",
+      "slug": "exam-nat-official-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-7.json",
+      "slug": "exam-nat-official-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-8.json",
+      "slug": "exam-nat-official-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-9.json",
+      "slug": "exam-nat-official-9",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-10.json",
+      "slug": "exam-nat-official-10",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-official-11.json",
+      "slug": "exam-nat-official-11",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-1.json",
+      "slug": "exam-nat-standard-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-2.json",
+      "slug": "exam-nat-standard-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-3.json",
+      "slug": "exam-nat-standard-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-4.json",
+      "slug": "exam-nat-standard-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-5.json",
+      "slug": "exam-nat-standard-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-6.json",
+      "slug": "exam-nat-standard-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-7.json",
+      "slug": "exam-nat-standard-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-8.json",
+      "slug": "exam-nat-standard-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-9.json",
+      "slug": "exam-nat-standard-9",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-10.json",
+      "slug": "exam-nat-standard-10",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-11.json",
+      "slug": "exam-nat-standard-11",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-12.json",
+      "slug": "exam-nat-standard-12",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-13.json",
+      "slug": "exam-nat-standard-13",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-14.json",
+      "slug": "exam-nat-standard-14",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "nat/examens/exam-nat-standard-15.json",
+      "slug": "exam-nat-standard-15",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    }
+  ]
+}

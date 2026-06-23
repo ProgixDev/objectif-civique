@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-official-4",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-016",
+        "shortId": "Q-BAC315",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une administration refuse une allocation à une personne sous prétexte qu'elle est devenue française par naturalisation récemment. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, il y a un délai de carence de 5 ans pour les naturalisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il y a égalité totale des droits entre Français de naissance et naturalisés",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, les naturalisés ont des droits restreints",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du pays d'origine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dès l'acquisition de la nationalité, le citoyen naturalisé bénéficie exactement des mêmes droits et devoirs que le citoyen français de naissance. Toute discrimination est illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-070",
+        "shortId": "Q-098BFE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous constatez qu'une usine voisine pollue un cours d'eau. Quel droit environnemental pouvez-vous exercer ?",
+        "choices": [
+          {
+            "text": "Saisir directement le tribunal correctionnel pour pollution industrielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler l'infraction à la DREAL (Direction régionale de l'environnement) et saisir le maire",
+            "isCorrect": true
+          },
+          {
+            "text": "Déposer une plainte auprès de l'Agence de l'eau pour obtenir une inspection",
+            "isCorrect": false
+          },
+          {
+            "text": "Adresser une mise en demeure à l'usine avec copie au procureur de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout citoyen peut signaler une pollution environnementale aux autorités compétentes (DREAL, préfecture, maire). C'est un droit et un devoir civique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-055",
+        "shortId": "Q-602CDD",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens veut organiser un référendum local pour abroger une loi nationale. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, la démocratie locale prime",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le peuple français dans son ensemble peut modifier une loi nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si plus de 50% de la commune vote favorablement",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'accord du Préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le caractère indivisible de la République interdit qu'une collectivité locale modifie les lois nationales. La souveraineté législative appartient à la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-027",
+        "shortId": "Q-03F3CE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une facture d'électricité anormalement élevée. Pouvez-vous demander un échéancier de paiement ?",
+        "choices": [
+          {
+            "text": "Oui, le fournisseur est tenu de proposer un échéancier sur demande",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les factures d'énergie doivent être payées en une seule fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous bénéficiez du tarif social",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de force majeure justifiée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les fournisseurs d'énergie sont tenus de proposer des facilités de paiement aux consommateurs en difficulté."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-040",
+        "shortId": "Q-D237B1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent hospitalier refuse de serrer la main d'une collègue femme en invoquant ses convictions religieuses. Quelle est la position de l'administration ?",
+        "choices": [
+          {
+            "text": "Elle doit respecter sa liberté religieuse personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle peut exiger le respect des règles de courtoisie professionnelle et de neutralité du service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle doit organiser une médiation avec un représentant religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne peut rien faire car c'est un geste privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les agents du service public sont soumis à une obligation de neutralité et doivent respecter leurs collègues sans distinction de sexe. Le refus de contact professionnel normal peut constituer une faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-025",
+        "shortId": "Q-59F117",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La vente d'alcool en France est interdite aux personnes de moins de :",
+        "choices": [
+          {
+            "text": "16 ans (pour les alcools forts uniquement)",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La vente de TOUTES les boissons alcoolisées (vin, bière, spiritueux) est interdite aux mineurs de moins de 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-003",
+        "shortId": "Q-983647",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Déclarer ses revenus aux services fiscaux est :",
+        "choices": [
+          {
+            "text": "Facultatif pour les personnes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation pour tous les résidents fiscaux, même sans revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservé aux propriétaires immobiliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire uniquement si on paie des impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déclaration est obligatoire pour toute personne résidant en France, même si elle n'est pas imposable (cela permet d'obtenir un avis de non-imposition)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-016",
+        "shortId": "Q-F4C7DD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Tous les citoyens français ont-ils une religion ?",
+        "choices": [
+          {
+            "text": "Non, la plupart des citoyens sont athées par obligation légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, chaque citoyen doit déclarer une religion à l'état civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté de conscience permet de croire ou de ne pas croire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la République impose une religion civile commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La République est laïque : elle ne demande pas aux citoyens d'avoir une religion. L'athéisme et l'agnosticisme sont des droits protégés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-071",
+        "shortId": "Q-34D32C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle mer ou océan borde la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "La mer Baltique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan Atlantique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'océan Pacifique",
+            "isCorrect": false
+          },
+          {
+            "text": "La mer Noire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France métropolitaine est bordée à l'ouest par l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-023",
+        "shortId": "Q-C7F320",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne peut-elle changer librement de religion en France ?",
+        "choices": [
+          {
+            "text": "Non, sauf si l'on quitte le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté de conscience garantit ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement après une déclaration en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à condition d'avoir plus de 18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de changer de religion est un élément fondamental de la liberté de conscience en France. Aucune formalité n'est nécessaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-078",
+        "shortId": "Q-872C80",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident de la route avec un blessé grave. Quelle est votre obligation légale ?",
+        "choices": [
+          {
+            "text": "Appeler les secours et porter assistance si possible sans vous mettre en danger",
+            "isCorrect": true
+          },
+          {
+            "text": "Appeler les secours puis poursuivre votre route si d'autres témoins sont présents",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécuriser les lieux puis attendre l'arrivée des pompiers avant toute intervention",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler l'accident via une application communautaire sans s'arrêter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La non-assistance à personne en danger est un délit. Tout citoyen a l'obligation d'alerter les secours et de porter assistance dans la mesure de ses moyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-008",
+        "shortId": "Q-BB67CC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+        "choices": [
+          {
+            "text": "En Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "En Nouvelle-Aquitaine",
+            "isCorrect": false
+          },
+          {
+            "text": "En Normandie",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les Hauts-de-France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le débarquement allié du 6 juin 1944 a eu lieu sur les plages de Normandie (Utah, Omaha, Gold, Juno, Sword)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-056",
+        "shortId": "Q-99C169",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un candidat à un concours de la fonction publique se voit refuser l'accès car il n'est pas catholique. Cette décision est-elle légale ?",
+        "choices": [
+          {
+            "text": "Oui, la France étant de tradition catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'égalité interdit toute discrimination religieuse dans l'accès aux emplois publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour certains postes de représentation",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les postes liés à la sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 6 de la DDHC 1789 garantit l'égal accès aux emplois publics 'sans autre distinction que celle de leurs vertus et de leurs talents'."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-038",
+        "shortId": "Q-93C542",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Président de la République ?",
+        "choices": [
+          {
+            "text": "Il est le garant de l'indépendance nationale et de la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Il nomme les maires des grandes villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il gère les affaires courantes de l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Il vote les lois à la place du Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon l’article 5 de la Constitution du 4 octobre 1958, le Président de la République veille au respect de la Constitution et assure la continuité de l’État. Il est le garant de l’indépendance nationale, de l’intégrité du territoire et du respect des traités. En vertu de l’article 15, il est le chef des armées. Il nomme le Premier ministre (article 8), peut dissoudre l’Assemblée nationale (article 12) et recourir au référendum (article 11)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-021",
+        "shortId": "Q-B525A7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous avez fait l'objet d'une condamnation pénale. La 'réhabilitation' qui efface cette condamnation du casier judiciaire peut être obtenue :",
+        "choices": [
+          {
+            "text": "Automatiquement après un certain délai (réhabilitation légale) ou par demande au tribunal (réhabilitation judiciaire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement par grâce présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si la victime retire sa plainte",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais pour les délits, uniquement pour les contraventions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La réhabilitation efface la condamnation. Elle peut être 'légale' (automatique après un délai sans nouvelle infraction) ou 'judiciaire' (accordée par la chambre de l'instruction sur demande de l'intéressé après un délai d'épreuve)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-050",
+        "shortId": "Q-D15F63",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle occasion a été construite la Tour Eiffel ?",
+        "choices": [
+          {
+            "text": "Pour célébrer la victoire de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour les Jeux Olympiques de 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour l'Exposition universelle de 1889",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Tour Eiffel a été construite par Gustave Eiffel pour l'Exposition universelle de Paris de 1889, qui célébrait le centenaire de la Révolution française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-015",
+        "shortId": "Q-3FC122",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie le mot \"fraternité\" dans la devise française ?",
+        "choices": [
+          {
+            "text": "La liberté de s'associer avec qui l'on veut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de charité envers les plus pauvres",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité nationale et la cohésion sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité des chances pour tous les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité se distingue de la charité (religieuse/privée) ou de la simple liberté d'association. Elle fonde la solidarité nationale (impôt, sécurité sociale) et la cohésion entre citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-029",
+        "shortId": "Q-B548AF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment sont désignés les maires ?",
+        "choices": [
+          {
+            "text": "Élus par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Nommés par le préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Élus directement par les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une élection indirecte : les citoyens élisent les conseillers, qui élisent le maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-014",
+        "shortId": "Q-423669",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Le droit de dire tout ce que l'on pense, même si c'est faux ou haineux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de communiquer ses pensées et opinions dans le respect des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'insulter des agents publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Une liberté réservée aux journalistes et aux élus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression n'est pas absolue : elle s'arrête là où commencent la diffamation, l'injure et l'incitation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-031",
+        "shortId": "Q-D6E26A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quelle année l'école publique est-elle gratuite ?",
+        "choices": [
+          {
+            "text": "1905",
+            "isCorrect": false
+          },
+          {
+            "text": "1881",
+            "isCorrect": true
+          },
+          {
+            "text": "1936",
+            "isCorrect": false
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi du 16 juin 1881 a établi la gratuité de l'enseignement primaire public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-068",
+        "shortId": "Q-623471",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une commune organise une cérémonie du 11-Novembre. Pourquoi cette date est-elle importante ?",
+        "choices": [
+          {
+            "text": "C'est l'anniversaire de la Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la date de l'armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est la fête nationale de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la commémoration de la fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 11 novembre commémore l'armistice de 1918 mettant fin à la Première Guerre mondiale. C'est un jour de mémoire nationale célébrant la paix et honorant les combattants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-004",
+        "shortId": "Q-ED8567",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections municipales ?",
+        "choices": [
+          {
+            "text": "Le maire directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les citoyens élisent le conseil municipal. C'est ensuite ce conseil qui élit le maire en son sein."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-001",
+        "shortId": "Q-A2BC16",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert le droit de grève ?",
+        "choices": [
+          {
+            "text": "À occuper les locaux de l'entreprise pour empêcher le travail",
+            "isCorrect": false
+          },
+          {
+            "text": "À cesser le travail collectivement pour défendre des revendications professionnelles",
+            "isCorrect": true
+          },
+          {
+            "text": "À refuser d'obéir à son employeur sur un désaccord personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "À quitter son poste individuellement sans préavis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La grève est un droit collectif et professionnel. L'abandon de poste individuel ou l'occupation illégale des locaux (entrave à la liberté du travail) ne sont pas protégés par ce droit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-015",
+        "shortId": "Q-8E0CD7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quand date l'appel à la résistance du général de Gaulle ?",
+        "choices": [
+          {
+            "text": "Du 8 mai 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 18 juin 1940",
+            "isCorrect": true
+          },
+          {
+            "text": "Du 6 juin 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 11 novembre 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 18 juin 1940, depuis Londres, le général de Gaulle a lancé un appel sur la BBC invitant les Français à refuser la défaite et à continuer le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-005",
+        "shortId": "Q-A8F37D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Si une machine à laver est cassée, il est possible de :",
+        "choices": [
+          {
+            "text": "La déposer en déchetterie ou la faire enlever par un service d'encombrants prévu localement",
+            "isCorrect": true
+          },
+          {
+            "text": "La déposer dans un conteneur de tri sélectif classique",
+            "isCorrect": false
+          },
+          {
+            "text": "La laisser dans le local à poubelles de l'immeuble en attendant le ramassage",
+            "isCorrect": false
+          },
+          {
+            "text": "La déposer sur le trottoir sans déclaration préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Une machine à laver est un déchet d'équipement électrique et électronique. Elle doit être déposée en déchetterie ou collectée selon les règles locales prévues pour les encombrants, et non abandonnée avec les déchets ordinaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-030",
+        "shortId": "Q-DE4D80",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une cérémonie de naturalisation, pourquoi chante-t-on La Marseillaise ?",
+        "choices": [
+          {
+            "text": "Pour prouver que vous maîtrisez la langue française sans accent",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour vérifier si vous connaissez les paroles",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une formalité administrative sans importance",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est l'hymne national, symbole de l'unité et de l'histoire de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Marseillaise est l'hymne national (art. 2 de la Constitution). La chanter lors de la naturalisation marque solennellement l'entrée dans la communauté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-008",
+        "shortId": "Q-57EDE4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces autorités, laquelle est élue ?",
+        "choices": [
+          {
+            "text": "Le maire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recteur d'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le maire est un élu local. Les autres (préfet, recteur, procureur) sont nommés par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-011",
+        "shortId": "Q-4D2C98",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+        "choices": [
+          {
+            "text": "La Déclaration Universelle des Droits de l'Homme (1948)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code Civil (1804)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention Européenne des Droits de l'Homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Bien que les autres textes soient importants, la DDHC de 1789 est le texte fondateur spécifique à la tradition républicaine française et fait partie du bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-011",
+        "shortId": "Q-CDECB1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+        "choices": [
+          {
+            "text": "Charles X",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI a été condamné à mort et guillotiné le 21 janvier 1793 sur la place de la Révolution (actuelle place de la Concorde)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-021",
+        "shortId": "Q-63EDF7",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'avortement est-il possible en France ?",
+        "choices": [
+          {
+            "text": "Oui, mais uniquement lorsque la santé de la femme est gravement menacée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'interruption volontaire de grossesse est légale dans les conditions prévues par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'avortement est interdit en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais avec l'accord du conjoint ou du partenaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'IVG est autorisée en France pour toute femme qui le demande, dans le respect des délais et conditions prévus par la loi. Elle ne dépend pas de l'autorisation du conjoint ou du partenaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-006",
+        "shortId": "Q-679784",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La liberté d'expression sur les réseaux sociaux en France est :",
+        "choices": [
+          {
+            "text": "Réservée aux personnes majeures identifiées",
+            "isCorrect": false
+          },
+          {
+            "text": "Garantie mais limitée par la loi (interdiction de la haine, diffamation, injure)",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumise à la validation d'un modérateur de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Totale et absolue, car Internet est une zone de non-droit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi française s'applique sur Internet : l'incitation à la haine, le racisme, ou la diffamation sont des délits punissables, même en ligne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-022",
+        "shortId": "Q-44E835",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée du mandat des députés ?",
+        "choices": [
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le mandat de député dure 5 ans, sauf dissolution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-045",
+        "shortId": "Q-DAE980",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un préjudice causé par un produit défectueux. Contre qui pouvez-vous agir en responsabilité ?",
+        "choices": [
+          {
+            "text": "Contre le producteur, l'importateur ou le distributeur ayant mis le produit sur le marché",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement contre le fabricant du produit",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement contre le vendeur final",
+            "isCorrect": false
+          },
+          {
+            "text": "Contre l'organisme de certification du produit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La responsabilité du fait des produits défectueux permet d'agir contre tout professionnel de la chaîne de distribution (producteur, importateur, fournisseur)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-044",
+        "shortId": "Q-C48A40",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+        "choices": [
+          {
+            "text": "Le château de Chenonceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Le château de Chambord",
+            "isCorrect": false
+          },
+          {
+            "text": "Le château de Versailles",
+            "isCorrect": true
+          },
+          {
+            "text": "Le château de Fontainebleau",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le château de Versailles, résidence de Louis XIV, est le symbole par excellence de la monarchie absolue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-032",
+        "shortId": "Q-80C8FD",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+        "choices": [
+          {
+            "text": "Oui, si l'entreprise invoque des difficultés économiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord préalable de l'inspection du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, un licenciement motivé par la grossesse est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, lorsqu'il s'agit d'un contrat à durée déterminée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La grossesse ne peut pas constituer le motif d'un licenciement. La salariée bénéficie d'une protection spécifique pendant la grossesse, le congé maternité et la période qui suit, sous réserve d'exceptions strictement encadrées sans lien avec la grossesse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-032",
+        "shortId": "Q-E7DD74",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "choices": [
+          {
+            "text": "Le sionisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'antisémitisme",
+            "isCorrect": true
+          },
+          {
+            "text": "L'apartheid",
+            "isCorrect": false
+          },
+          {
+            "text": "La xénophobie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'antisémitisme désigne la haine, les préjugés ou les discriminations visant les personnes juives en raison de leur religion réelle ou supposée, de leur origine ou de leur identité. Il s'agit d'une forme spécifique de racisme, condamnée par les principes républicains et réprimée par le droit pénal français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-044",
+        "shortId": "Q-30BD4F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a composé l'hymne de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Wagner",
+            "isCorrect": false
+          },
+          {
+            "text": "Mozart",
+            "isCorrect": false
+          },
+          {
+            "text": "Rouget de Lisle",
+            "isCorrect": false
+          },
+          {
+            "text": "Beethoven",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-069",
+        "shortId": "Q-F7A3F5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez bénéficier de la Couverture Maladie Universelle Complémentaire (C2S). Quelle est la condition principale ?",
+        "choices": [
+          {
+            "text": "Être au chômage depuis plus de 6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir des ressources inférieures à un plafond fixé par décret",
+            "isCorrect": true
+          },
+          {
+            "text": "Ne pas être affilié à une mutuelle d'entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir plus de 65 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Complémentaire Santé Solidaire (C2S) est accordée sous conditions de ressources. Elle peut être gratuite ou avec participation selon les revenus du foyer."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-014",
+        "shortId": "Q-5A8269",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages a un lien avec la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Vercingétorix",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est la figure allégorique de la République française, portant le bonnet phrygien, symbole de liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-044",
+        "shortId": "Q-36B0B2",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce possible de punir physiquement ses enfants ?",
+        "choices": [
+          {
+            "text": "Oui, si la punition reste modérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les punitions physiques sont interdites",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, lorsqu'elles ont lieu dans le cadre familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elles sont décidées d'un commun accord entre les parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale doit s'exercer sans violences physiques ou psychologiques. La loi interdit donc les violences éducatives, même lorsqu'elles sont présentées comme un moyen d'éducation."
+      }
+    }
+  ]
+}

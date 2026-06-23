@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-csp-histoire-geographie-culture-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-histoire-official-013",
+        "shortId": "Q-723E15",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+        "choices": [
+          {
+            "text": "En 1848",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1920",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'esclavage a été aboli définitivement en France en 1848 par le Gouvernement provisoire de la IIe République. Avant cela, il avait été aboli une première fois en 1794 puis rétabli par Napoléon en 1802."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-012",
+        "shortId": "Q-3E24DC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a été le premier Président élu sous la Ve République ?",
+        "choices": [
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Charles de Gaulle a été le fondateur et le premier Président de la Ve République (1959-1969). Il a créé une nouvelle Constitution en 1958 qui renforce le pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-046",
+        "shortId": "Q-8539EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle ville se trouve la tour Eiffel ?",
+        "choices": [
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La tour Eiffel est un monument emblématique situé à Paris. Construite en 1889 pour l'Exposition Universelle, elle est devenue le symbole de Paris et de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-031",
+        "shortId": "Q-4A5858",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est située au bord de la mer Méditerranée ?",
+        "choices": [
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Aix-en-Provence",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Nice est située directement sur la côte Méditerranéenne. Avignon et Aix-en-Provence sont dans le sud mais à l'intérieur des terres. Bordeaux est proche de l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-034",
+        "shortId": "Q-176BB8",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Molière ?",
+        "choices": [
+          {
+            "text": "Un mémorialiste de la cour de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Un philosophe des Lumières",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier naturaliste du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un auteur dramatique français célèbre du XVIIe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Molière (1622-1673) est l'un des grands dramaturges du XVIIe siècle. Ses comédies, comme Tartuffe ou Le Misanthrope, ont marqué durablement le théâtre et la langue française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-003",
+        "shortId": "Q-45BB2E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages historiques est français ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques Brel",
+            "isCorrect": false
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est français. Jacques Brel est belge. Jean-Jacques Rousseau est né à Genève (Suisse). Pablo Picasso est espagnol (bien qu'il ait vécu en France)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-028",
+        "shortId": "Q-45C2A9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "13 régions",
+            "isCorrect": true
+          },
+          {
+            "text": "22 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "18 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "27 régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Il y a 13 régions en France métropolitaine depuis 2016. Au total, la France compte 18 régions (13 métropolitaines et 5 d'outre-mer)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-016",
+        "shortId": "Q-19C898",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était le roi de France au moment de la Révolution française ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Louis XV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVIII",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI était le roi de France en 1789 lors du début de la Révolution. Il a été arrêté, jugé pour haute trahison et exécuté en 1793."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-017",
+        "shortId": "Q-9EDA00",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a fondé la Ve République ?",
+        "choices": [
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles de Gaulle a fondé la Ve République en 1958 en rédigeant une nouvelle Constitution. Il l'a fait pour renforcer le pouvoir exécutif et stabiliser le système politique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-032",
+        "shortId": "Q-A80205",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où se situe la Corse ?",
+        "choices": [
+          {
+            "text": "En Méditerranée, île française au sud-est",
+            "isCorrect": true
+          },
+          {
+            "text": "En Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nord de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Corse est une île française en Méditerranée, située à l'est des côtes françaises et au sud de la Riviera. C'est une région de France avec un patrimoine culturel distinct."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-020",
+        "shortId": "Q-B9568A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "Abolition de l'esclavage",
+            "isCorrect": false
+          },
+          {
+            "text": "Création de la Ve République et nouvelle Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Lois Jules Ferry sur l'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "Fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En 1958, Charles de Gaulle a créé la Ve République avec une nouvelle Constitution qui renforce le pouvoir exécutif et institue la présidence de la République élue au suffrage universel (depuis 1962)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-038",
+        "shortId": "Q-215821",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Albert Camus ?",
+        "choices": [
+          {
+            "text": "Un historien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un politicien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un journaliste français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un écrivain et philosophe français du XXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Albert Camus (1913-1960) était un écrivain et philosophe français majeur du XXe siècle. Il a reçu le prix Nobel de littérature en 1957 pour ses œuvres philosophiques et littéraires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-043",
+        "shortId": "Q-2B7B47",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le Louvre ?",
+        "choices": [
+          {
+            "text": "Le plus grand musée d'art du monde, situé à Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège du gouvernement français",
+            "isCorrect": false
+          },
+          {
+            "text": "La plus grande bibliothèque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le palais présidentiel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Louvre est le plus grand musée du monde, situé à Paris. Ancienne résidence des rois de France, il abrite des collections d'art exceptionnelles, dont la Joconde de Léonard de Vinci."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-024",
+        "shortId": "Q-1C884F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que Paris ?",
+        "choices": [
+          {
+            "text": "La plus grande région de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La capitale de la France, grande ville sur la Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège du Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ville portuaire sur la Méditerranée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est la plus grande ville française, le siège du gouvernement et un centre culturel majeur mondial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-035",
+        "shortId": "Q-3F49C6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Charles Baudelaire ?",
+        "choices": [
+          {
+            "text": "Un historien de la Révolution de XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier réaliste de la fin du XVe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un poète français du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dramaturge symboliste du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles Baudelaire (1821-1867) est un poète majeur du XIXe siècle, auteur notamment des Fleurs du Mal. Son œuvre a fortement influencé la modernité poétique française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-022",
+        "shortId": "Q-0AB926",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est française ?",
+        "choices": [
+          {
+            "text": "Cologne",
+            "isCorrect": false
+          },
+          {
+            "text": "Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Charleroi",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une grande ville française et une métropole régionale importante."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-041",
+        "shortId": "Q-D3CEE0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Joséphine Baker ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une écrivaine française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une chanteuse et danseuse du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une peintre française du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice afro-américaine qui est devenue une superstar à Paris dans les années 1920. Elle a aussi été engagée dans la Résistance pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-039",
+        "shortId": "Q-7CBB0B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Paul Cézanne ?",
+        "choices": [
+          {
+            "text": "Un écrivain français du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sculpteur français du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre français du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un architecte français du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paul Cézanne (1839-1906) était un peintre français révolutionnaire qui a transformé l'art occidental. Il est considéré comme un fondateur de l'art moderne, influençant le cubisme."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-029",
+        "shortId": "Q-8C734F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est un grand port maritime ?",
+        "choices": [
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille, Le Havre, Dunkerque, Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille, Le Havre, Dunkerque et Nantes sont des grands ports maritimes français. Marseille est le plus grand port de France en Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-025",
+        "shortId": "Q-668DB7",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la capitale de la France ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est le siège du gouvernement, du Parlement, et la plus grande ville de France."
+      }
+    }
+  ]
+}

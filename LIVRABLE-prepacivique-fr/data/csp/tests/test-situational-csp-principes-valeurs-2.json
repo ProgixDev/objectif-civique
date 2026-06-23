@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-principes-valeurs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-021",
+        "shortId": "Q-564660",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, l'instruction est obligatoire. De quel âge à quel âge cette obligation s'applique-t-elle ?",
+        "choices": [
+          {
+            "text": "De 3 ans à 16 ans révolus.",
+            "isCorrect": true
+          },
+          {
+            "text": "De 6 ans à 16 ans révolus.",
+            "isCorrect": false
+          },
+          {
+            "text": "De 3 ans à 18 ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "De 6 ans à 18 ans.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la loi du 28 juillet 2019 (loi pour une École de la confiance), l'instruction est obligatoire de 3 à 16 ans. Avant cette loi, l'obligation commençait à 6 ans. À ne pas confondre avec l'obligation de formation (pas d'instruction) qui est étendue jusqu'à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-022",
+        "shortId": "Q-AFD89C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un témoin dans un procès refuse de prêter serment 'devant Dieu'. Que prévoit la procédure judiciaire française ?",
+        "choices": [
+          {
+            "text": "Le serment est laïque : on jure de dire la vérité devant la justice et non devant une autorité religieuse.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le témoin est immédiatement exclu de l'audience et condamné pour outrage.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge impose le choix d'un livre sacré selon la religion supposée du témoin.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le serment religieux est obligatoire pour que le témoignage ait une valeur légale.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité de l'État s'applique à la justice. Les formules religieuses ont été supprimées des tribunaux pour respecter la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-023",
+        "shortId": "Q-FFAE32",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen souhaite contester le montant de ses impôts locaux. Quel principe lui permet d'exiger une justification ?",
+        "choices": [
+          {
+            "text": "Le droit des citoyens de constater la nécessité de la contribution publique et d'en suivre l'emploi.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de libre fixation de l'impôt par chaque contribuable.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit individuel d'annuler toute taxe locale.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret absolu de l'affectation des recettes publiques.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 14 de la Déclaration des droits de l'homme et du citoyen reconnaît le droit des citoyens de constater la nécessité de la contribution publique et d'en suivre l'emploi. Ce principe fonde l'exigence de transparence et de justification de l'impôt."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-024",
+        "shortId": "Q-A295DD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie le principe de 'République sociale'. Comment se manifeste-t-il ?",
+        "choices": [
+          {
+            "text": "Par l'égalité stricte des revenus entre tous les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'obligation pour chaque citoyen d'adhérer à un parti politique socialiste.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la suppression de toute forme de hiérarchie dans l'administration publique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la mise en œuvre de dispositifs d'aide aux plus démunis pour garantir la dignité humaine.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République sociale implique des mécanismes de solidarité et de protection sociale pour réduire les inégalités et préserver la dignité. Elle ne signifie pas la disparition de l'économie de marché ni une uniformité totale des situations individuelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-025",
+        "shortId": "Q-F70C4A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un usager d'une préfecture refuse d'être reçu par une employée femme. Quelle est la position de l'administration ?",
+        "choices": [
+          {
+            "text": "L'administration refuse la demande de l'usager au nom du principe d'égalité entre les femmes et les hommes.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'usager peut choisir le sexe de son interlocuteur s'il paie des frais de dossier supplémentaires.",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture doit s'adapter aux convictions de l'usager pour éviter tout conflit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le directeur de la préfecture doit trancher en fonction du nombre d'agents disponibles ce jour-là.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité est une valeur fondamentale. Un usager ne peut contester l'autorité ou la compétence d'un agent public en raison de son sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-026",
+        "shortId": "Q-3B99CE",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une femme distribue dans la rue des tracts présentant sa religion. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Non, toute diffusion religieuse dans la rue est interdite par la laïcité.",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en principe, car la liberté d'expression et la liberté de conscience le permettent tant qu'il n'y a ni trouble à l'ordre public ni contrainte.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement après une autorisation préalable de la mairie.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si elle agit pour une association reconnue par l'État.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Distribuer des tracts religieux relève en principe de la liberté d'expression et de la liberté de conscience, à condition de respecter l'ordre public et de ne pas exercer de pression sur autrui."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-027",
+        "shortId": "Q-6D49AC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir si la loi française permet de critiquer une religion. Quel est le cadre légal ?",
+        "choices": [
+          {
+            "text": "Le blasphème est un crime passible d'emprisonnement en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "La critique des idées et des religions est libre, mais l'incitation à la haine contre les croyants est interdite.",
+            "isCorrect": true
+          },
+          {
+            "text": "Seules les religions historiques de la France peuvent être critiquées librement.",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute critique religieuse doit être préalablement validée par le ministère des Cultes.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression inclut le droit de critiquer les systèmes de pensée, mais la loi protège les personnes contre les injures et la provocation à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-028",
+        "shortId": "Q-2D637F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez le logo 'Liberté, Égalité, Fraternité' sur un document. Que représente le profil de femme sur ce logo ?",
+        "choices": [
+          {
+            "text": "La personnification de la Justice utilisée par les tribunaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'allégorie officielle de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le portrait d'une figure historique précise de la Révolution",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne, l'allégorie de la République française.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le profil féminin représente Marianne, figure symbolique de la République française. Il s'agit d'une allégorie républicaine utilisée sur des documents officiels, et non du portrait d'une personne historique unique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-029",
+        "shortId": "Q-FD6E98",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, peut-on obliger une personne majeure à se marier sans son consentement libre ?",
+        "choices": [
+          {
+            "text": "Non, le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le contrat de mariage a été signé par les parents devant un notaire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage forcé est autorisé uniquement pour des raisons de regroupement familial.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le consentement n'est nécessaire que pour l'époux, pas pour l'épouse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mariage forcé est un délit puni par la loi française. Le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage civil, garantissant le respect de la liberté individuelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-030",
+        "shortId": "Q-5DB29A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la laïcité pour un élève dans une école publique. Quelle est la règle sur les signes religieux ?",
+        "choices": [
+          {
+            "text": "Le port de signes ou tenues manifestant ostensiblement une appartenance religieuse est interdit.",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les signes religieux sont autorisés s'ils sont fabriqués en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut porter un signe religieux visible si ses parents en font la demande écrite au directeur.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les signes religieux sont autorisés dans les lycées mais interdits dans les collèges et écoles primaires.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2004 vise à protéger les mineurs et la neutralité de l'enseignement. Les signes discrets (petites médailles) restent autorisés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-031",
+        "shortId": "Q-D69239",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen français est arrêté par la police. Quel droit fondamental lui permet d'être assisté immédiatement ?",
+        "choices": [
+          {
+            "text": "Le droit de vote par procuration depuis son lieu de garde à vue.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de demander une grâce présidentielle immédiate avant l'interrogatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à l'assistance d'un avocat et le droit de garder le silence pour préparer sa défense.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'immunité diplomatique accordée à tout citoyen résidant en France.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à la défense est un pilier de la démocratie. Il garantit que personne n'est condamné sans avoir pu s'expliquer avec l'aide d'un professionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-032",
+        "shortId": "Q-1EDA7F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pourquoi la devise 'Liberté, Égalité, Fraternité' est-elle inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Pour honorer la mémoire des fondateurs de la commune inscrite dans le registre municipal.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour indiquer aux citoyens que le bâtiment est ouvert au public durant les heures administratives.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour signaler que la mairie est habilitée à accueillir des cérémonies civiles comme les mariages.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour rappeler les principes fondamentaux qui guident l'action de l'État et des citoyens.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La devise est le socle de la République. Son inscription publique rappelle l'engagement de l'institution envers ces valeurs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-033",
+        "shortId": "Q-8F17D7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens souhaite créer un nouveau parti politique. Doivent-ils demander l'accord du Président ?",
+        "choices": [
+          {
+            "text": "Non, les partis politiques se forment et exercent leur activité librement en respectant la loi.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, toute nouvelle formation politique doit être validée par le ministère de la Défense.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accord est nécessaire uniquement si le parti compte plus de 10 000 membres.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les partis politiques sont interdits en France en dehors des deux plus anciens.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pluralisme politique est une garantie de la démocratie. La liberté d'association permet la création libre de groupements politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-034",
+        "shortId": "Q-F0A482",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, qui est chargé de veiller au respect de la Constitution et de la régularité des élections nationales ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel.",
+            "isCorrect": true
+          },
+          {
+            "text": "La Gendarmerie nationale.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat réuni en Haute Cour.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le syndicat des magistrats.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil constitutionnel est le 'juge des élections'. Il vérifie que le vote des citoyens est respecté et sincère."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-035",
+        "shortId": "Q-9D8C85",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir si la 'Fraternité' a une valeur juridique réelle. Quelle en est l'illustration ?",
+        "choices": [
+          {
+            "text": "L'interdiction de se disputer avec ses voisins de palier.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de donner une partie de son salaire à des associations caritatives privées.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de solidarité nationale qui fonde les aides sociales et l'impôt progressif.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de veto des frères et sœurs lors d'un héritage familial.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité n'est pas seulement un sentiment moral, c'est un principe constitutionnel qui justifie la redistribution des richesses."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-036",
+        "shortId": "Q-1F523B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la différence entre le drapeau français et le drapeau européen sur un bâtiment public.",
+        "choices": [
+          {
+            "text": "Le drapeau européen remplace le drapeau français depuis 1992.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau français est obligatoire, le drapeau européen est interdit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau européen indique que le bâtiment appartient à l'OTAN.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau français est l'emblème national, le drapeau européen symbolise l'union des peuples d'Europe.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les deux drapeaux coexistent souvent. Le tricolore représente la souveraineté française, le drapeau bleu étoilé l'appartenance à l'UE."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-037",
+        "shortId": "Q-C1B841",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen souhaite consulter le registre des délibérations de sa mairie. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, car la transparence de la vie publique permet à chaque citoyen de contrôler l'action des élus.",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, ces documents sont classés 'secret défense' pour protéger le maire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le citoyen a voté pour le maire actuel lors des dernières élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accès est payant et nécessite une autorisation du préfet de département.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie locale repose sur la transparence. Les décisions prises par les élus concernant la commune sont publiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-038",
+        "shortId": "Q-7D1C71",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie le terme 'État de droit' en France. Quelle est la définition correcte ?",
+        "choices": [
+          {
+            "text": "Un système où l'administration et les citoyens sont tous soumis au respect de la loi sous le contrôle de juges indépendants.",
+            "isCorrect": true
+          },
+          {
+            "text": "Un pays où le gouvernement peut suspendre la Constitution en cas de crise économique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où seuls ceux qui connaissent le droit ont le droit de voter.",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime où les décisions de l'administration ne peuvent pas être contestées devant un tribunal.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'État de droit garantit que personne, même le plus puissant, n'est au-dessus de la loi. Cela protège contre l'arbitraire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-039",
+        "shortId": "Q-361E64",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelle est l'importance de l'hymne national, 'La Marseillaise', dans la République ?",
+        "choices": [
+          {
+            "text": "Il s'agit d'une musique militaire utilisée lors des défilés et des événements sportifs internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un chant de ralliement qui symbolise l'histoire révolutionnaire et la défense de la patrie contre la tyrannie",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un chant patriotique composé à Paris par Napoléon pour célébrer ses victoires militaires",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un poème lyrique devenu hymne national grâce à un vote des citoyens lors du premier référendum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Marseillaise, composée par Rouget de Lisle en 1792 à Strasbourg, est inscrite dans la Constitution (article 2). Elle incarne le courage des citoyens face à la tyrannie et est jouée lors des cérémonies officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-040",
+        "shortId": "Q-1EA671",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir comment sont financées les écoles publiques françaises. Quelle est la source principale ?",
+        "choices": [
+          {
+            "text": "Par les dons obligatoires des parents d'élèves en fonction de leurs revenus.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par les entreprises privées qui choisissent les programmes scolaires.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par les frais d'inscription annuels payés par chaque élève.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'impôt payé par les citoyens, garantissant la gratuité et l'égalité d'accès à l'éducation.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La gratuité de l'école publique est un pilier de la République. Elle permet à chaque enfant, quelle que soit sa richesse, d'apprendre."
+      }
+    }
+  ]
+}

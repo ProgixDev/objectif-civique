@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-principes-valeurs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-060",
+        "shortId": "Q-34F554",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La langue officielle de la France est :",
+        "choices": [
+          {
+            "text": "L'occitan",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "L'alsacien",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inscrit à l'article 2 de la Constitution : 'La langue de la République est le français'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-015",
+        "shortId": "Q-6081B4",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année les femmes ont-elles obtenu le droit de vote en France ?",
+        "choices": [
+          {
+            "text": "En 1789, dès la Révolution",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1905, avec la laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1848, avec le suffrage universel masculin",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1944, par ordonnance du général de Gaulle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le suffrage est devenu réellement universel en 1944. Les femmes ont voté pour la première fois en 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-027",
+        "shortId": "Q-8037F5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Ils sont nommés par les maires des grandes villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont tirés au sort parmi les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont désignés par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont élus au suffrage universel direct par les citoyens",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le suffrage universel direct donne aux citoyens le pouvoir de choisir leurs représentants législatifs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-010",
+        "shortId": "Q-C38AD2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient la souveraineté nationale en France ?",
+        "choices": [
+          {
+            "text": "Le Président de la République exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de chaque département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple français, par ses représentants ou référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne à Bruxelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En démocratie, le pouvoir appartient aux citoyens qui l'exercent par le vote."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-048",
+        "shortId": "Q-2192BA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le drapeau tricolore se compose des couleurs :",
+        "choices": [
+          {
+            "text": "Rouge, Blanc, Vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Jaune, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert, Blanc, Bleu",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les couleurs sont disposées en trois bandes verticales égales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-053",
+        "shortId": "Q-628607",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'excision (mutilation sexuelle) est considérée comme :",
+        "choices": [
+          {
+            "text": "Une liberté religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tradition respectable",
+            "isCorrect": false
+          },
+          {
+            "text": "Un choix personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un crime puni par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France protège l'intégrité du corps des femmes contre toute forme de mutilation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-055",
+        "shortId": "Q-694422",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le PACS est une union ouverte aux :",
+        "choices": [
+          {
+            "text": "Frères et sœurs uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Couples de même sexe ou de sexe différent",
+            "isCorrect": true
+          },
+          {
+            "text": "Personnes ayant déjà un conjoint marié",
+            "isCorrect": false
+          },
+          {
+            "text": "Majeurs et mineurs sans autorisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Pacte Civil de Solidarité permet d'organiser la vie commune juridiquement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-044",
+        "shortId": "Q-24A353",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour voter aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Être de nationalité française et résider en France depuis 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge et un emploi stable",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen français, majeur et inscrit sur les listes",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué le service civique et obtenu un certificat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel : chaque citoyen majeur dispose d'une voix."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-023",
+        "shortId": "Q-5DD016",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le chef des armées en France ?",
+        "choices": [
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le chef d'état-major des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon la Constitution, le Président préside les conseils et comités supérieurs de la Défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-021",
+        "shortId": "Q-22A250",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le port du voile intégral dans l'espace public ?",
+        "choices": [
+          {
+            "text": "Il est recommandé pour la protection de la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit par la loi pour des raisons de sécurité et de vie sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire durant les périodes de grand froid",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé partout sans aucune restriction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les exigences de la vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-058",
+        "shortId": "Q-2B6643",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que commémore-t-on le 8 mai ?",
+        "choices": [
+          {
+            "text": "La victoire de 1945 et la fin de la guerre en Europe",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Armistice de la Première Guerre mondiale en 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature du Traité de Rome en 1957",
+            "isCorrect": false
+          },
+          {
+            "text": "La libération de Paris le 25 août 1944",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 8 mai est un jour férié commémorant la capitulation de l'Allemagne nazie et la fin de la Seconde Guerre mondiale en Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-034",
+        "shortId": "Q-9D4EB7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de choisir sa religion en France ?",
+        "choices": [
+          {
+            "text": "Uniquement les personnes nées de parents français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les citoyens qui travaillent pour l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque individu résidant sur le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les chefs de famille masculins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de culte est un droit fondamental garanti à toute personne par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-013",
+        "shortId": "Q-272C45",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe protège les femmes contre les violences au sein du couple ?",
+        "choices": [
+          {
+            "text": "Le droit de réserve administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité des sexes et l'intégrité de la personne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le privilège de juridiction familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'opinion du conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi française protège l'intégrité physique et morale de chaque individu. Les violences conjugales sont des crimes ou délits sévèrement punis."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-043",
+        "shortId": "Q-F3442B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le droit à l'intégrité physique ?",
+        "choices": [
+          {
+            "text": "Le droit de choisir librement son domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de ne subir aucune violence sur son corps",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de pratiquer un sport de défense",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de travailler dans des métiers manuels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce droit fondamental protège contre les tortures et les mauvais traitements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-018",
+        "shortId": "Q-39EFAD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution vérifie qu'une loi votée respecte la Constitution ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel est le gardien de la Loi fondamentale. Il peut annuler une loi non conforme."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-050",
+        "shortId": "Q-58A1A9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la date de la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Elle a été voulue par le général de Gaulle pour stabiliser les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-031",
+        "shortId": "Q-F00A61",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le racisme est-il protégé par la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Oui, car en France on peut tout dire sur tout le monde",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement si on le dit très discrètement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si cela concerne des personnes célèbres",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le racisme est un délit puni par la justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'expression s'arrête là où commence l'incitation à la haine, à la discrimination ou à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-011",
+        "shortId": "Q-83FA36",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert principalement l'impôt en France ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés par les collectivités locales",
+            "isCorrect": false
+          },
+          {
+            "text": "À constituer une réserve monétaire pour les échanges internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des anciens élus de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics et la solidarité nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'impôt permet de construire des routes, des écoles, des hôpitaux et d'assurer la sécurité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-030",
+        "shortId": "Q-2925F8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des limites à la liberté de mouvement ?",
+        "choices": [
+          {
+            "text": "L'obligation de vivre dans sa ville de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de voyager en dehors de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions de justice (ex: assignation à résidence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le refus des voisins de vous laisser sortir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'aller et venir est un droit, mais la loi peut la restreindre pour protéger la sécurité ou exécuter une peine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-017",
+        "shortId": "Q-DCD0B9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de cesser le travail pour exprimer une revendication ?",
+        "choices": [
+          {
+            "text": "Le droit au secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de propriété intellectuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait pour convenance personnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est une liberté constitutionnelle permettant l'action collective des salariés."
+      }
+    }
+  ]
+}

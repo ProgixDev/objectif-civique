@@ -1,0 +1,3102 @@
+{
+  "level": "CSP",
+  "section": "vivre-en-france",
+  "sectionLabel": "Vivre dans la société française",
+  "count": 91,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-official-001",
+        "shortId": "Q-553D7A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le SMIC ?",
+        "choices": [
+          {
+            "text": "Une allocation versée aux salariés à faibles revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salaire minimum légal en dessous duquel un employeur ne peut pas rémunérer un salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Le salaire moyen versé dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de salaire facultatif fixé par l'entreprise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SMIC est le salaire minimum légal en France. Un employeur ne peut pas rémunérer un salarié en dessous de ce seuil, sous réserve des règles particulières prévues pour certains contrats ou certaines situations."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-002",
+        "shortId": "Q-E39498",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+        "choices": [
+          {
+            "text": "Le 15 (ou le 112 pour tous les secours d'urgence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 15 permet de joindre le SAMU en cas d'urgence médicale. Le 112 est le numéro d'urgence européen et peut aussi orienter l'appel vers le service médical adapté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-003",
+        "shortId": "Q-3414CE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+        "choices": [
+          {
+            "text": "Le 15",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18 (et le 112 en cas d'urgence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de situation nécessitant leur intervention. Le 112 peut également être utilisé comme numéro d'urgence européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-004",
+        "shortId": "Q-BFDEB2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'un numéro d'urgence ?",
+        "choices": [
+          {
+            "text": "Un numéro réservé aux formalités administratives urgentes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un numéro gratuit accessible 24h/24 pour obtenir rapidement les secours en cas d'urgence",
+            "isCorrect": true
+          },
+          {
+            "text": "Un numéro destiné à prendre un rendez-vous médical",
+            "isCorrect": false
+          },
+          {
+            "text": "Un numéro réservé au dépôt de plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un numéro d'urgence permet de joindre rapidement les secours lorsqu'une situation grave nécessite une intervention immédiate. Il est gratuit et accessible en permanence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-005",
+        "shortId": "Q-2B0F95",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+        "choices": [
+          {
+            "text": "Assurer le véhicule avant de le faire circuler",
+            "isCorrect": true
+          },
+          {
+            "text": "Déclarer chaque trajet à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien d'autre, le permis suffit à lui seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une autorisation spéciale du préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour circuler, un véhicule doit être couvert au minimum par une assurance responsabilité civile. Le permis de conduire ne dispense donc pas de l'obligation d'assurer la voiture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-006",
+        "shortId": "Q-B786D8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+        "choices": [
+          {
+            "text": "Un contrat privé entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un mariage religieux célébré seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Un mariage civil célébré devant l'officier d'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord verbal entre les futurs époux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier d'état civil produit les effets juridiques du mariage. Une cérémonie religieuse, ou un simple accord verbal ne remplacent pas ce mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-007",
+        "shortId": "Q-F1C7C5",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand faut-il déclarer son enfant au service d'état civil ?",
+        "choices": [
+          {
+            "text": "Dans les 24 heures suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le mois suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les 5 jours suivant la naissance",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune déclaration n'est nécessaire si l'enfant naît à l'hôpital",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La naissance doit être déclarée à l'état civil de la mairie du lieu de naissance dans les 5 jours. Cette démarche est obligatoire pour établir l'acte de naissance de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-008",
+        "shortId": "Q-B87B70",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le travail non déclaré est :",
+        "choices": [
+          {
+            "text": "Permis pendant les vacances",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si c'est une petite quantité de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple irrégularité administrative sans effet pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Illégal et constitutif de travail dissimulé",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le travail non déclaré (travail au noir) est illégal. Il constitue une fraude sociale et pénale, punissable par des amendes et potentiellement par un emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-009",
+        "shortId": "Q-596D10",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire un employeur pour fixer un salaire ?",
+        "choices": [
+          {
+            "text": "Fixer librement le salaire tant qu'il y a un accord oral",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter au minimum le SMIC et les minima prévus par la convention collective applicable",
+            "isCorrect": true
+          },
+          {
+            "text": "Déterminer le salaire principalement selon l'âge du salarié",
+            "isCorrect": false
+          },
+          {
+            "text": "Pouvoir rémunérer sous le SMIC si le poste est peu qualifié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'employeur doit respecter le SMIC et, lorsqu'elle existe, la rémunération minimale prévue par la convention collective applicable. Même avec l'accord du salarié, le salaire ne peut pas être fixé en dessous de ces seuils."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-010",
+        "shortId": "Q-2694D8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+        "choices": [
+          {
+            "text": "Attendre qu'une mairie propose spontanément un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "S'inscrire auprès de France Travail pour accéder à l'accompagnement et aux offres",
+            "isCorrect": true
+          },
+          {
+            "text": "Créer d'abord une entreprise, même si l'on cherche un emploi salarié",
+            "isCorrect": false
+          },
+          {
+            "text": "S'adresser au tribunal judiciaire pour être orienté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inscription à France Travail permet d'être accompagné dans sa recherche, d'accéder aux offres d'emploi et, selon la situation, d'ouvrir certains droits. C'est la démarche administrative de référence pour entrer dans le service public de l'emploi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-011",
+        "shortId": "Q-468294",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée légale du temps de travail par semaine en France ?",
+        "choices": [
+          {
+            "text": "35 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "37 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "39 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "40 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La durée légale du travail pour un salarié à temps complet est de 35 heures par semaine. Au-delà, il peut s'agir d'heures supplémentaires donnant lieu à une contrepartie selon les règles applicables."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-012",
+        "shortId": "Q-B81787",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est aidé par France Travail ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes licenciées",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les jeunes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Les personnes en recherche d'emploi et les employeurs dans leurs recrutements",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les personnes qui perçoivent déjà une allocation chômage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les personnes en recherche d'emploi dans leurs démarches et aide aussi les employeurs à recruter. L'indemnisation chômage n'est possible que si les conditions d'ouverture des droits sont remplies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-013",
+        "shortId": "Q-B47E44",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne étrangère en situation régulière peut créer son entreprise :",
+        "choices": [
+          {
+            "text": "Seulement si elle devient d'abord citoyenne française",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sans aucune formalité liée à sa situation de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est interdit à toute personne étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle remplit les conditions de séjour et d'autorisation professionnelle applicables à sa situation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une personne étrangère peut créer une entreprise en France, mais elle doit respecter les conditions administratives et selon sa situation, détenir un titre de séjour ou une autorisation lui permettant d'exercer cette activité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-014",
+        "shortId": "Q-B306C2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une femme peut-elle créer son entreprise ?",
+        "choices": [
+          {
+            "text": "Oui, mais seulement sous le régime de la micro-entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, elle a les mêmes droits que les hommes pour créer et gérer une entreprise",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais avec l'accord de son conjoint si elle est mariée",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation spéciale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une femme peut créer et gérer une entreprise dans les mêmes conditions qu'un homme. L'égalité entre les femmes et les hommes exclut toute autorisation spéciale liée au sexe ou à la situation familiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-015",
+        "shortId": "Q-1A9284",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge un mineur peut-il travailler ?",
+        "choices": [
+          {
+            "text": "À partir de 14 ans dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement à partir de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "En principe à partir de 16 ans, avec des exceptions dès 15 ans en apprentissage et dès 14 ans pendant certaines vacances scolaires",
+            "isCorrect": true
+          },
+          {
+            "text": "À partir de 13 ans avec l'accord des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En règle générale, un mineur peut travailler à partir de 16 ans. Des exceptions existent toutefois, notamment l'apprentissage dès 15 ans sous conditions et certains travaux légers pendant les vacances scolaires dès 14 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-016",
+        "shortId": "Q-291098",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "choices": [
+          {
+            "text": "Au service des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement au professionnel de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Assurance maladie, puis à la mutuelle si on en a une",
+            "isCorrect": true
+          },
+          {
+            "text": "À la mairie ou à la préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le remboursement de base des soins relève de l'Assurance maladie. Si la personne dispose d'une complémentaire santé, la mutuelle peut ensuite prendre en charge tout ou partie du reste à payer selon le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-017",
+        "shortId": "Q-96AF48",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Tous les résidents en France ont accès aux soins de santé, même sans moyens financiers",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les citoyens français peuvent accéder aux soins",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accès aux soins dépend d'abord du niveau de revenu",
+            "isCorrect": false
+          },
+          {
+            "text": "Les soins sont réservés aux personnes qui cotisent depuis plusieurs années",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'accès aux soins est un droit garanti en France. Tous les résidents, même sans moyens financiers, peuvent accéder aux soins essentiels. C'est le rôle du système de santé public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-018",
+        "shortId": "Q-019728",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?",
+        "choices": [
+          {
+            "text": "Directement aux urgences de l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "À la pharmacie uniquement, sans consulter de médecin",
+            "isCorrect": false
+          },
+          {
+            "text": "Au médecin traitant, ou à défaut à un autre médecin généraliste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de problème de santé non urgent, il faut d'abord consulter son médecin traitant ou, si l'on n'en a pas, un autre médecin généraliste. Les urgences hospitalières sont réservées aux situations graves ou à danger immédiat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-019",
+        "shortId": "Q-EA564C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du médecin traitant ?",
+        "choices": [
+          {
+            "text": "Délivrer uniquement des arrêts de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Intervenir seulement en cas d'urgence vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer le suivi du patient et coordonner son parcours de soins",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer tous les médecins spécialistes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le médecin traitant suit le patient dans la durée, centralise les informations utiles et l'oriente vers des spécialistes lorsque c'est nécessaire. Il joue donc un rôle de coordination dans le parcours de soins."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-020",
+        "shortId": "Q-3C5727",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+        "choices": [
+          {
+            "text": "Seulement pour les opérations chirurgicales",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour tout problème de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour obtenir plus rapidement un certificat médical",
+            "isCorrect": false
+          },
+          {
+            "text": "En cas d'urgence grave ou de danger immédiat pour la vie ou la santé",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les urgences hospitalières sont destinées aux situations graves nécessitant une prise en charge immédiate. Pour un problème non urgent, il faut privilégier un médecin de ville, une maison médicale ou un service de garde."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-021",
+        "shortId": "Q-BE4281",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'objectif des vaccinations obligatoires ?",
+        "choices": [
+          {
+            "text": "Réduire avant tout les dépenses publiques de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Permettre l'inscription scolaire, qui constitue leur objectif principal",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniformiser les calendriers sanitaires européens",
+            "isCorrect": false
+          },
+          {
+            "text": "Protéger la santé individuelle et collective en prévenant les maladies graves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les vaccinations obligatoires ont pour but de protéger la personne vaccinée contre des maladies graves et de limiter leur circulation dans la population. Elles participent donc à la protection individuelle et collective."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-022",
+        "shortId": "Q-C2810C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À prouver son affiliation à l'Assurance maladie et à faciliter le remboursement des soins",
+            "isCorrect": true
+          },
+          {
+            "text": "À servir de pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À remplacer une ordonnance médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "À garantir la gratuité de tous les soins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La carte Vitale permet d'identifier l'assuré auprès de l'Assurance maladie et de transmettre plus facilement les informations nécessaires au remboursement. Elle n'a pas la valeur générale d'une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-023",
+        "shortId": "Q-BA9E72",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert une mutuelle santé ?",
+        "choices": [
+          {
+            "text": "À remplacer l'Assurance maladie obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer uniquement les soins non prescrits",
+            "isCorrect": false
+          },
+          {
+            "text": "À compléter les remboursements de l'Assurance maladie selon le contrat",
+            "isCorrect": true
+          },
+          {
+            "text": "À rendre automatiquement tous les soins gratuits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une mutuelle santé est une complémentaire: elle rembourse tout ou partie des frais restant après l'intervention de l'Assurance maladie, selon les garanties du contrat. Elle complète donc le régime obligatoire sans le remplacer."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-024",
+        "shortId": "Q-F4F236",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jusqu'à quel âge l'école est-elle obligatoire en France ?",
+        "choices": [
+          {
+            "text": "Jusqu'à 12 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Jusqu'à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Jusqu'à 16 ans révolus",
+            "isCorrect": true
+          },
+          {
+            "text": "Jusqu'à 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'instruction est obligatoire en France de 3 ans à 16 ans révolus. Après 16 ans, les jeunes ne sont plus soumis à l'instruction obligatoire, mais ils restent tenus à une obligation de formation jusqu'à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-025",
+        "shortId": "Q-DCA92A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'autorité parentale prévoit l'obligation :",
+        "choices": [
+          {
+            "text": "De financer tous les loisirs choisis par l'enfant jusqu'à sa majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "D'assurer sa sécurité, sa santé, son éducation et son développement dans le respect de sa personne",
+            "isCorrect": true
+          },
+          {
+            "text": "De choisir seul son orientation professionnelle future",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'inscrire obligatoirement dans l'enseignement privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs exercés dans l'intérêt de l'enfant. Elle oblige notamment les parents à protéger sa sécurité et sa santé, à assurer son éducation et à veiller à son développement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-026",
+        "shortId": "Q-397D1F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour qui l'école est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "Pour tous les enfants résidant en France, français et étrangers, de 3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants de plus de 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants dont les parents travaillent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'instruction est obligatoire pour tous les enfants résidant en France de 3 à 16 ans, qu'ils soient français ou étrangers. La nationalité ne conditionne donc pas cette obligation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-027",
+        "shortId": "Q-DB3DF4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel diplôme obtient-on à la fin du lycée ?",
+        "choices": [
+          {
+            "text": "Le diplôme national du brevet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le baccalauréat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le brevet de technicien supérieur (BTS)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat d'aptitude professionnelle (CAP), quel que soit le parcours suivi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À la fin du lycée, le diplôme national de référence est le baccalauréat. Le brevet est obtenu à la fin du collège, tandis que le BTS et le CAP correspondent à d'autres parcours ou à d'autres étapes de formation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-028",
+        "shortId": "Q-7CC912",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+        "choices": [
+          {
+            "text": "Directement au lycée",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'université",
+            "isCorrect": false
+          },
+          {
+            "text": "Au collège, puis au lycée",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans un établissement secondaire unique sans distinction de cycles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Après l'école élémentaire, les élèves poursuivent d'abord leur scolarité au collège, puis au lycée. Le collège et le lycée correspondent à deux étapes distinctes de l'enseignement secondaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-029",
+        "shortId": "Q-508973",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Un enfant inscrit à l'école :",
+        "choices": [
+          {
+            "text": "Doit uniquement respecter les autres élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Est libre de choisir ses cours",
+            "isCorrect": false
+          },
+          {
+            "text": "Doit respecter les règles de l'établissement et recevoir un traitement égal",
+            "isCorrect": true
+          },
+          {
+            "text": "Peut refuser certains cours pour raisons personnelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Un enfant inscrit à l'école doit respecter les règles établies. Il a aussi le droit d'être traité équitablement sans discrimination et de bénéficier d'un environnement sécurisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-030",
+        "shortId": "Q-7C881B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les enfants qui ne parlent pas français :",
+        "choices": [
+          {
+            "text": "Ont droit à la scolarisation et peuvent bénéficier d'un accompagnement pour apprendre le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Doivent attendre de maîtriser le français avant d'être scolarisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Doivent être orientés exclusivement vers des structures séparées",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne peuvent être admis à l'école publique qu'après un test de français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tous les enfants ont droit à la scolarisation, même s'ils ne parlent pas encore français. Des dispositifs d'accompagnement existent pour les élèves allophones afin de faciliter l'apprentissage du français et l'intégration scolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-031",
+        "shortId": "Q-9E4B48",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelles conditions un mariage est-il reconnu juridiquement en France ?",
+        "choices": [
+          {
+            "text": "Un contrat privé entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Mariage religieux à l'église",
+            "isCorrect": false
+          },
+          {
+            "text": "Accord verbal entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Mariage civil devant l'officier d'état civil à la mairie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier d'état civil produit les effets juridiques du mariage. Une cérémonie religieuse, un PACS ou un simple accord verbal ne remplacent pas ce mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-001",
+        "shortId": "Q-597E2F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter aux élections municipales en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens français et les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Toutes les personnes résidant en France depuis plus de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les citoyens nés sur le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote aux élections municipales est ouvert aux citoyens français et aux ressortissants des pays membres de l'Union européenne vivant en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-002",
+        "shortId": "Q-65B126",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de préavis standard pour un locataire quittant un logement vide en zone non tendue ?",
+        "choices": [
+          {
+            "text": "1 semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour un logement vide, le préavis est généralement de 3 mois, sauf en zone tendue ou cas particuliers (mutation, perte d'emploi) où il est réduit à 1 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-003",
+        "shortId": "Q-4A86D5",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que représente la 'période d'essai' dans un contrat de travail ?",
+        "choices": [
+          {
+            "text": "Une période de formation obligatoire non rémunérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Un stage d'observation avant l'entretien d'embauche",
+            "isCorrect": false
+          },
+          {
+            "text": "Une période permettant à l'employeur et au salarié de rompre le contrat plus facilement",
+            "isCorrect": true
+          },
+          {
+            "text": "La durée totale du contrat à durée déterminée (CDD)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La période d'essai permet d'évaluer les compétences du salarié et, pour le salarié, de vérifier si le poste lui convient. Le contrat peut être rompu sans les procédures classiques de licenciement ou démission."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-004",
+        "shortId": "Q-EDF6C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le 'Parcours de soins coordonnés' mis en place par l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "À obtenir des médicaments gratuitement sans ordonnance",
+            "isCorrect": false
+          },
+          {
+            "text": "À être hospitalisé dans n'importe quel pays d'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "À choisir un médecin spécialiste sans passer par un généraliste",
+            "isCorrect": false
+          },
+          {
+            "text": "À être mieux remboursé en consultant son médecin traitant avant un spécialiste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le parcours de soins coordonnés consiste à confier la gestion de son dossier médical à un médecin traitant. Si vous ne le respectez pas, les remboursements de la Sécurité sociale sont moins élevés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-005",
+        "shortId": "Q-49AE7D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qu'est-ce que le 'Prélèvement à la source' ?",
+        "choices": [
+          {
+            "text": "Le paiement de l'impôt sur le revenu directement sur le salaire ou les revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe prélevée sur la consommation d'eau potable",
+            "isCorrect": false
+          },
+          {
+            "text": "Une retenue sur salaire pour payer le loyer social",
+            "isCorrect": false
+          },
+          {
+            "text": "Le retrait automatique des cotisations pour la retraite complémentaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2019, l'impôt sur le revenu est déduit directement chaque mois du salaire ou de la pension, évitant ainsi un décalage d'un an."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-006",
+        "shortId": "Q-2A52FF",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est principalement responsable du versement des allocations familiales et des aides au logement ?",
+        "choices": [
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie du domicile",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CAF gère les prestations familiales, l'APL (aide au logement) et des revenus de solidarité comme le RSA ou l'AAH."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-007",
+        "shortId": "Q-A3FB5C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction principale d'un Conseil de Prud'hommes ?",
+        "choices": [
+          {
+            "text": "Organiser les élections professionnelles en entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Régler les litiges liés au contrat de travail entre employeur et salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier la sécurité dans les usines et les chantiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Conseiller les entreprises sur leur gestion financière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil de Prud'hommes est une juridiction paritaire qui traite les conflits individuels nés à l'occasion d'un contrat de travail de droit privé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-008",
+        "shortId": "Q-7E20DA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige de voisinage (bruit, clôture), quelle est la première étape recommandée avant d'aller au tribunal ?",
+        "choices": [
+          {
+            "text": "Dénoncer le voisin à la gendarmerie immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Déménager sans prévenir le propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Engager un avocat pour envoyer une mise en demeure",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire appel à un conciliateur de justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La conciliation est une méthode gratuite et souvent obligatoire pour les petits litiges du quotidien afin de trouver un accord amiable sans procès."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-009",
+        "shortId": "Q-EAC30C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'convention collective' ?",
+        "choices": [
+          {
+            "text": "Un accord entre employeurs et syndicats sur les conditions de travail d'un secteur précis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réunion obligatoire pour tous les habitants d'un immeuble",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat d'assurance pour les groupes scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "La liste des lois votées par l'Assemblée nationale chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La convention collective adapte le Code du travail à un secteur d'activité particulier (hôtellerie, bâtiment, etc.) et propose souvent des droits plus favorables."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-010",
+        "shortId": "Q-916FD9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document atteste de la régularité du séjour et autorise à travailler en France selon les mentions portées dessus ?",
+        "choices": [
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Le titre de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat d'immatriculation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le titre de séjour est le document officiel délivré par la préfecture permettant de résider légalement en France. Certaines mentions autorisent l'activité professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-011",
+        "shortId": "Q-B0398E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction du 'Défenseur des droits' ?",
+        "choices": [
+          {
+            "text": "Défendre l'État français devant les tribunaux internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité des bâtiments publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer l'avocat lors d'un procès au pénal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits est une institution indépendante que l'on peut saisir gratuitement en cas de discrimination ou de problème avec une administration."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-012",
+        "shortId": "Q-C03D10",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, que signifie la 'Laïcité' dans les services publics ?",
+        "choices": [
+          {
+            "text": "L'obligation pour les usagers de pratiquer une religion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute pratique religieuse dans la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "La préférence pour une religion d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État vis-à-vis des religions et la liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité garantit la liberté de culte mais impose aux agents publics une stricte neutralité : ils ne doivent manifester aucune appartenance religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-013",
+        "shortId": "Q-B414CE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que doit-on obligatoirement assurer pour un véhicule à moteur en France ?",
+        "choices": [
+          {
+            "text": "La responsabilité civile (assurance au tiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vol et l'incendie uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bris de glace sans franchise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assistance dépannage 0 km",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assurance 'responsabilité civile' est le minimum légal obligatoire pour couvrir les dommages que vous pourriez causer à d'autres personnes avec votre véhicule."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-014",
+        "shortId": "Q-774769",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle démarche est obligatoire pour un jeune de 16 ans de nationalité française ?",
+        "choices": [
+          {
+            "text": "Le service militaire actif de 2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement citoyen à la mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription sur les listes électorales sénatoriales",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obtention immédiate du permis de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout Français doit se faire recenser à la mairie de son domicile à ses 16 ans pour pouvoir passer des examens (bac, permis) et participer à la Journée Défense et Citoyenneté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-015",
+        "shortId": "Q-A8BCA4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'contrat d'engagement républicain' ?",
+        "choices": [
+          {
+            "text": "Un contrat de travail pour les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement pour les associations qui demandent des subventions publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord signé entre un propriétaire et son locataire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le document de naturalisation signé à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les associations demandant des subventions doivent s'engager à respecter les valeurs de la République (liberté, égalité, fraternité, dignité humaine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-016",
+        "shortId": "Q-6E5ACC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de perte d'emploi, quelle est la condition principale pour percevoir l'Allocation de Retour à l'Emploi (ARE) ?",
+        "choices": [
+          {
+            "text": "Avoir moins de 25 ans au moment de la demande",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir démissionné de son propre gré pour convenance personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne jamais avoir travaillé auparavant en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir travaillé une durée minimale (durée d'affiliation) avant la fin du contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'ARE (chômage) est une assurance. Il faut avoir cotisé en travaillant un certain nombre d'heures ou de mois sur une période donnée pour y avoir droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-017",
+        "shortId": "Q-CB5EA9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'autorité parentale partagée ?",
+        "choices": [
+          {
+            "text": "Les deux parents ont les mêmes droits et devoirs envers l'enfant, même s'ils sont séparés",
+            "isCorrect": true
+          },
+          {
+            "text": "L'enfant décide lui-même de ses règles de vie dès l'âge de 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le parent qui a la garde physique peut prendre des décisions importantes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État remplace les parents pour l'éducation religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs. Sauf décision contraire d'un juge, elle appartient aux deux parents pour protéger l'enfant dans sa sécurité, sa santé et sa moralité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-018",
+        "shortId": "Q-CE2E05",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'taxe foncière' ?",
+        "choices": [
+          {
+            "text": "Un impôt payé par les locataires pour l'entretien des rues",
+            "isCorrect": false
+          },
+          {
+            "text": "Un impôt dû chaque année par les propriétaires d'un bien immobilier",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe sur les revenus issus de la vente de vêtements d'occasion",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour non-respect des règles de tri sélectif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La taxe foncière est un impôt local perçu par les communes, payé uniquement par les propriétaires de terrains ou d'immeubles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-019",
+        "shortId": "Q-D91CEA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel est l'âge minimum pour être juré lors d'un procès aux Assises ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "23 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être juré, il faut être de nationalité française, avoir au moins 23 ans, savoir lire et écrire en français et jouir de ses droits politiques, civils et de famille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-020",
+        "shortId": "Q-44977C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le dispositif 'Visale' ?",
+        "choices": [
+          {
+            "text": "D'obtenir un visa touristique plus rapidement",
+            "isCorrect": false
+          },
+          {
+            "text": "De payer ses factures d'électricité en retard sans frais",
+            "isCorrect": false
+          },
+          {
+            "text": "D'accéder gratuitement à tous les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "De bénéficier d'une caution gratuite pour louer un logement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Visale est une garantie accordée par Action Logement qui rassure les propriétaires en cas d'impayés de loyer du locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-021",
+        "shortId": "Q-1FDA8B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document de santé est nécessaire pour prouver que l'on a fait les vaccins obligatoires ?",
+        "choices": [
+          {
+            "text": "Le carnet de santé ou un certificat de vaccination",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte Vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'attestation de droits de la sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le carnet de santé contient l'historique médical et les preuves de vaccination indispensables, notamment pour l'inscription à l'école ou en crèche."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-022",
+        "shortId": "Q-66F04F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'RSA' (Revenu de Solidarité Active) ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour les retraités ayant travaillé 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prestation assurant un revenu minimum aux personnes sans ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Un prêt à taux zéro pour acheter une voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime versée uniquement aux étudiants en fin de cycle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RSA est une aide destinée à garantir un niveau minimum de revenus aux personnes disposant de peu ou pas de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-023",
+        "shortId": "Q-A98F81",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le bruit en journée selon la loi (tapage diurne) ?",
+        "choices": [
+          {
+            "text": "Le bruit est autorisé sans limite de 8h à 22h",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit de faire du bruit seulement le dimanche",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun bruit ne doit porter atteinte à la tranquillité du voisinage par sa durée, sa répétition ou son intensité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le bruit n'est interdit que si la police se déplace avec un appareil de mesure",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement à une idée reçue, le tapage peut être sanctionné même en plein jour s'il est considéré comme excessif et gênant pour les voisins."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-024",
+        "shortId": "Q-66984B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut se marier ?",
+        "choices": [
+          {
+            "text": "Uniquement un homme et une femme",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes de la même famille (frères et sœurs)",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes ayant déjà un conjoint dans un autre pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Deux personnes de sexe différent ou de même sexe, âgées de 18 ans minimum",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2013, le mariage est ouvert aux couples de même sexe. La polygamie est interdite et l'âge légal est de 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-025",
+        "shortId": "Q-9140C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la 'Protection Universelle Maladie' (PUMA) ?",
+        "choices": [
+          {
+            "text": "À garantir la prise en charge des frais de santé à toute personne travaillant ou résidant en France de manière stable et régulière",
+            "isCorrect": true
+          },
+          {
+            "text": "À payer les frais d'obsèques en cas de décès accidentel",
+            "isCorrect": false
+          },
+          {
+            "text": "À assurer les touristes étrangers pendant leurs vacances en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À rembourser les dégâts causés par une catastrophe naturelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La PUMA simplifie l'accès à l'assurance maladie : toute personne qui réside en France de façon stable et régulière a droit à la prise en charge de ses frais de santé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-026",
+        "shortId": "Q-742B1C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle de l'Inspection du Travail ?",
+        "choices": [
+          {
+            "text": "Recruter des nouveaux employés pour les mairies",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler l'application du droit du travail et informer les salariés et employeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Fixer le montant du SMIC chaque année",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer le paiement des salaires des entreprises privées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inspecteur du travail veille au respect du code du travail, à la santé et à la sécurité des salariés sur leur lieu de travail."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-027",
+        "shortId": "Q-71E58E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas un étranger peut-il demander le 'Regroupement Familial' ?",
+        "choices": [
+          {
+            "text": "Pour faire venir ses parents et ses grands-parents uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il réside régulièrement en France depuis au moins 18 mois et dispose de ressources suffisantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Dès son arrivée avec un visa de court séjour (tourisme)",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement s'il a déjà acheté une maison en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le regroupement familial permet à un étranger en situation régulière (titre de séjour d'au moins 1 an) de faire venir son conjoint et ses enfants mineurs sous conditions de ressources et de logement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-028",
+        "shortId": "Q-EA3C80",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une association 'Loi 1901' ?",
+        "choices": [
+          {
+            "text": "Un syndicat professionnel obligatoire pour tous les artisans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise qui peut distribuer ses bénéfices à ses actionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parti politique qui ne se présente qu'aux élections européennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un groupement de personnes à but non lucratif (qui ne cherche pas à faire de profit)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité des associations en France fonctionnent sous ce régime : l'argent gagné doit servir au projet de l'association et non à enrichir ses membres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-029",
+        "shortId": "Q-2C67C7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée de validité habituelle d'une ordonnance pour des lunettes (pour un adulte de 16 à 42 ans) ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour les adultes entre 16 et 42 ans, l'ordonnance de l'ophtalmologiste reste valable 5 ans, permettant à l'opticien de renouveler les verres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-030",
+        "shortId": "Q-23E78B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le montant maximal des paiements en espèces entre particuliers en France ?",
+        "choices": [
+          {
+            "text": "Il n'y a aucune limite pour les particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est limité à 1 500 euros pour les achats importants",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est interdit au-dessus de 100 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est réservé uniquement aux commerçants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Au-delà de 1 500 euros pour un paiement entre particuliers (comme une voiture d'occasion), un écrit (facture ou acte sous seing privé) est obligatoire pour prouver le paiement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-031",
+        "shortId": "Q-D69E26",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'état civil ?",
+        "choices": [
+          {
+            "text": "La liste des personnes ayant payé leurs impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des règles pour se comporter poliment en public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service qui enregistre les naissances, mariages et décès",
+            "isCorrect": true
+          },
+          {
+            "text": "Un diplôme de fin d'études secondaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil définit l'identité d'une personne auprès de l'administration via des actes officiels dressés par les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-032",
+        "shortId": "Q-436942",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de déménagement, quand doit-on informer les organismes comme la CAF ou l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Un an après le départ effectif",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'on change de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce n'est pas nécessaire, la poste le fait automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dès que possible, idéalement avant ou juste après le déménagement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il est crucial de signaler son changement d'adresse rapidement pour éviter la suspension des droits ou des courriers importants perdus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-033",
+        "shortId": "Q-95A1BE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document contient les règles de vie commune dans un immeuble ?",
+        "choices": [
+          {
+            "text": "Le règlement de copropriété ou le règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Le code de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "La constitution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce document précise ce qui est autorisé ou interdit dans les parties communes et privées d'un immeuble (usage du balcon, bruits, stockage dans les couloirs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-034",
+        "shortId": "Q-6F1F63",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du 'CDD' (Contrat à Durée Déterminée) ?",
+        "choices": [
+          {
+            "text": "Il ne peut être rompu que par l'employeur à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Il comporte une date de fin précise et n'est utilisé que pour des tâches temporaires",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est réservé aux cadres supérieurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne donne pas droit aux congés payés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CDD est un contrat dont la fin est fixée à l'avance. Il ne peut être utilisé que pour remplacer un salarié absent ou pour un surcroît d'activité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-035",
+        "shortId": "Q-A18CDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution assure la mission de service public de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "La Croix-Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de Commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les demandeurs d'emploi dans leur recherche et aide les entreprises dans leurs recrutements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-036",
+        "shortId": "Q-2893ED",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui doit payer la 'Contribution à l'Audiovisuel Public' (redevance TV) aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Tous les foyers possédant une télévision",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les personnes vivant en appartement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les entreprises qui diffusent de la publicité",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne, elle a été supprimée pour tous les particuliers",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2022, la redevance télé (contribution à l'audiovisuel public) a été supprimée pour l'ensemble des foyers français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-037",
+        "shortId": "Q-3C5F6E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'acronyme 'RIB' ?",
+        "choices": [
+          {
+            "text": "Relevé d'Identité Bancaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Registre des Impôts sur le Bien",
+            "isCorrect": false
+          },
+          {
+            "text": "Référence d'Inscription Budgétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Remboursement Immédiat de la Banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RIB contient les coordonnées bancaires (IBAN/BIC) permettant de recevoir des virements ou d'autoriser des prélèvements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-038",
+        "shortId": "Q-78FD55",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi correspond le 'Quotient Familial' calculé par la CAF ?",
+        "choices": [
+          {
+            "text": "À la note obtenue par les enfants à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "À un indicateur de ressources tenant compte des revenus et du nombre de personnes dans le foyer",
+            "isCorrect": true
+          },
+          {
+            "text": "Au nombre de mètres carrés du logement par habitant",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'âge moyen des membres de la famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le quotient familial sert à déterminer le montant de certaines aides ou le tarif de services municipaux (cantine, centre de loisirs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-039",
+        "shortId": "Q-CFA429",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Contrôle Technique' pour une voiture ?",
+        "choices": [
+          {
+            "text": "Une vérification de la propreté du moteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un examen de conduite pour les seniors",
+            "isCorrect": false
+          },
+          {
+            "text": "Une vérification obligatoire tous les 2 ans de l'état de sécurité et de pollution du véhicule",
+            "isCorrect": true
+          },
+          {
+            "text": "Une option gratuite proposée par les constructeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour les véhicules de plus de 4 ans, un contrôle technique doit être effectué tous les 2 ans pour s'assurer qu'ils ne sont pas dangereux ou trop polluants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-040",
+        "shortId": "Q-7DE0B1",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif du 'Dossier Médical Partagé' (Mon espace santé) ?",
+        "choices": [
+          {
+            "text": "Partager ses résultats d'analyses avec sa mutuelle complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder à son historique médical depuis n'importe quel hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une réduction sur les médicaments génériques",
+            "isCorrect": false
+          },
+          {
+            "text": "Centraliser vos informations de santé pour les partager avec vos médecins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Mon espace santé est un carnet de santé numérique sécurisé qui permet aux professionnels de santé de mieux vous soigner grâce à l'historique médical."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-041",
+        "shortId": "Q-BA0B96",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'pension de réversion' ?",
+        "choices": [
+          {
+            "text": "Une partie de la retraite d'un conjoint décédé versée au conjoint survivant",
+            "isCorrect": true
+          },
+          {
+            "text": "Un remboursement d'impôts versé par erreur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour avoir quitté son travail trop tôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour les enfants qui retournent vivre chez leurs parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sous certaines conditions, la veuve ou le veuf peut toucher une partie de la retraite que percevait ou aurait pu percevoir l'époux décédé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-042",
+        "shortId": "Q-2267E7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Service National Universel' (SNU) ?",
+        "choices": [
+          {
+            "text": "Un examen final pour devenir avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Un projet destiné aux jeunes de 15 à 17 ans pour promouvoir la citoyenneté",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe pour financer l'armée française",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abonnement gratuit à tous les journaux nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SNU comporte un séjour de cohésion et une mission d'intérêt général pour renforcer le lien social et l'engagement des jeunes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-043",
+        "shortId": "Q-069314",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale du congé maternité en France pour un premier enfant ?",
+        "choices": [
+          {
+            "text": "2 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "16 semaines",
+            "isCorrect": true
+          },
+          {
+            "text": "4 semaines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le congé maternité pour un 1er ou 2ème enfant est de 16 semaines (6 avant l'accouchement, 10 après). Il est obligatoire d'en prendre au moins 8."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-044",
+        "shortId": "Q-1CA806",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel recours possède un locataire si son propriétaire refuse de rendre la caution (dépôt de garantie) sans justificatif ?",
+        "choices": [
+          {
+            "text": "Déposer une plainte au commissariat de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter l'administration fiscale pour bloquer les remboursements",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir la commission départementale de conciliation ou le tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une lettre recommandée au président de la copropriété",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le propriétaire doit justifier toute retenue sur la caution par des factures ou devis liés aux dégradations notées sur l'état des lieux de sortie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-045",
+        "shortId": "Q-D41182",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'obligation d'assiduité scolaire ?",
+        "choices": [
+          {
+            "text": "L'obligation pour l'élève de suivre tous les cours prévus à son emploi du temps",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de porter un uniforme à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation d'avoir la moyenne à tous les examens",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de manger à la cantine tous les midis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assiduité est une règle fondamentale : l'élève doit être présent et respecter les horaires sous peine de sanctions pour les parents (suspension d'allocations, amendes)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-046",
+        "shortId": "Q-E3F8F2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'titre de séjour pluriannuel' ?",
+        "choices": [
+          {
+            "text": "Un récépissé de demande de renouvellement de titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Un titre de séjour d'une durée de 2 à 4 ans délivré après une première année de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "Un visa de long séjour valant titre de séjour (VLS-TS)",
+            "isCorrect": false
+          },
+          {
+            "text": "Une carte de résident de 10 ans obtenue après 5 ans de séjour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après un premier titre d'un an (VLS-TS ou carte temporaire), l'étranger peut souvent obtenir une carte valable plusieurs années."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-047",
+        "shortId": "Q-59EF34",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge peut-on demander la 'Prime d'Activité' ?",
+        "choices": [
+          {
+            "text": "Dès 16 ans si l'on travaille",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement après 65 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À partir de 18 ans, si l'on exerce une activité professionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'on a des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La prime d'activité est un complément de revenus pour les travailleurs (salariés ou indépendants) ayant des revenus modestes, dès 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-048",
+        "shortId": "Q-8BF0C6",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'éco-organisme' (comme Eco-systèmes ou Citeo) ?",
+        "choices": [
+          {
+            "text": "Un label qualité attribué aux produits issus de l'agriculture biologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un organisme public de contrôle sanitaire des aliments",
+            "isCorrect": false
+          },
+          {
+            "text": "Une certification environnementale pour les bâtiments neufs",
+            "isCorrect": false
+          },
+          {
+            "text": "Une structure gérant la collecte et le recyclage des déchets (emballages, appareils électriques)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ces organismes sont financés par l'éco-participation que vous payez lors de l'achat d'un produit pour assurer son futur recyclage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-049",
+        "shortId": "Q-518C65",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le milieu professionnel, qu'est-ce que le 'harcèlement moral' ?",
+        "choices": [
+          {
+            "text": "Des agissements répétés qui dégradent les conditions de travail et portent atteinte à la dignité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de demander à un employé de finir son travail à l'heure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus d'une augmentation de salaire justifié par les résultats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de donner des consignes de sécurité strictes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le harcèlement moral est un délit puni par la loi, caractérisé par une répétition d'actes hostiles visant à détruire psychologiquement un salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-050",
+        "shortId": "Q-323DDD",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Municipal ?",
+        "choices": [
+          {
+            "text": "Diriger la police nationale et l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer les affaires de la commune (budget, écoles primaires, voirie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les lois au niveau du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil municipal représente les habitants de la commune et vote les décisions locales importantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-051",
+        "shortId": "Q-21C003",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Chèque Énergie' ?",
+        "choices": [
+          {
+            "text": "Un crédit d'impôt pour les travaux d'isolation thermique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une subvention pour l'installation de panneaux solaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide versée sous conditions de ressources pour payer les factures d'énergie du logement",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réduction sur l'abonnement au gaz naturel pour les familles nombreuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le chèque énergie est envoyé une fois par an aux foyers modestes pour les aider à payer l'électricité, le gaz, le bois ou certains travaux de rénovation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-052",
+        "shortId": "Q-BAD6C3",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit le principe de 'fraternité' en France ?",
+        "choices": [
+          {
+            "text": "L'obligation de participer aux associations caritatives locales",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression de toutes les taxes pour les familles nombreuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de désobéir aux lois jugées injustes",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité nationale et l'aide aux plus démunis",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité est la troisième valeur de la devise républicaine. Elle fonde notre système de protection sociale et d'entraide."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-053",
+        "shortId": "Q-E908B8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'ADEME ?",
+        "choices": [
+          {
+            "text": "L'agence de la transition écologique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Agence régionale de santé (ARS)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autorité de régulation des transports",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse nationale d'assurance vieillesse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ADEME participe à la mise en œuvre des politiques publiques dans les domaines de l'environnement, de l'énergie et du développement durable."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-054",
+        "shortId": "Q-AF9849",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel document est indispensable pour circuler avec une remorque de plus de 500 kg ?",
+        "choices": [
+          {
+            "text": "Le permis B avec mention remorque",
+            "isCorrect": false
+          },
+          {
+            "text": "Une carte grise propre à la remorque",
+            "isCorrect": true
+          },
+          {
+            "text": "Le certificat de conformité européen du véhicule tracteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une attestation d'assurance spécifique au transport de marchandises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dès qu'une remorque dépasse un PTAC de 500 kg, elle doit avoir sa propre plaque d'immatriculation et sa propre carte grise (certificat d'immatriculation)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-055",
+        "shortId": "Q-837BDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but de la 'Journée Défense et Citoyenneté' (JDC) ?",
+        "choices": [
+          {
+            "text": "Effectuer un stage d'initiation au métier des armes",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser une mission de service civique obligatoire d'un mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer les jeunes sur leurs droits, leurs devoirs et le fonctionnement des institutions",
+            "isCorrect": true
+          },
+          {
+            "text": "Passer un examen de connaissances civiques noté sur 20",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La JDC est obligatoire pour tous les Français avant 25 ans. Elle permet de sensibiliser aux enjeux de la défense et aux valeurs républicaines."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-056",
+        "shortId": "Q-A0597D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'famille recomposée' ?",
+        "choices": [
+          {
+            "text": "Une famille qui a déménagé dans une autre région",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille dont les membres vivent dans des pays différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille qui a adopté un enfant étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Un couple vivant avec au moins un enfant né d'une union précédente",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il s'agit d'un foyer où des enfants vivent avec un parent et un beau-parent suite à une séparation ou un veuvage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-057",
+        "shortId": "Q-927D5A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le 'médiateur de la consommation' ?",
+        "choices": [
+          {
+            "text": "À résoudre gratuitement un litige entre un client et un professionnel (magasin, artisan)",
+            "isCorrect": true
+          },
+          {
+            "text": "À fixer le prix des fruits et légumes sur les marchés",
+            "isCorrect": false
+          },
+          {
+            "text": "À traduire les contrats de vente en plusieurs langues",
+            "isCorrect": false
+          },
+          {
+            "text": "À surveiller les dates de péremption dans les supermarchés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout professionnel doit proposer un médiateur à ses clients pour tenter de régler un conflit sans passer devant un juge."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-058",
+        "shortId": "Q-3415B0",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service permet d'obtenir un avocat gratuit si l'on a des revenus très bas ?",
+        "choices": [
+          {
+            "text": "Le crédit d'impôt recherche",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Le service de protection des témoins",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance tous risques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet à l'État de prendre en charge tout ou partie des frais de justice (avocat, huissier) pour les personnes modestes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-059",
+        "shortId": "Q-445B47",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le '13ème mois' en entreprise ?",
+        "choices": [
+          {
+            "text": "Une indemnité de départ versée après 10 ans d'ancienneté",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de revenu versé par l'État aux salariés modestes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime correspondant à un mois de salaire versée en fin d'année selon les contrats",
+            "isCorrect": true
+          },
+          {
+            "text": "Une gratification versée uniquement aux cadres supérieurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce n'est pas une obligation légale, mais de nombreuses conventions collectives prévoient le versement d'un salaire supplémentaire (le 13ème mois) souvent en décembre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-060",
+        "shortId": "Q-D91ADE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document précise les règles de sécurité et de comportement à l'intérieur d'une entreprise ?",
+        "choices": [
+          {
+            "text": "Le règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Le code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La charte de l'environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le règlement intérieur est obligatoire dans les entreprises de plus de 50 salariés. Il fixe les règles d'hygiène, de sécurité et la discipline."
+      }
+    }
+  ]
+}

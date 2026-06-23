@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-histoire-geographie-culture-4",
+  "level": "CR",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-histoire-standard-029",
+        "shortId": "Q-B06599",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement littéraire du XIXe siècle, mené par Victor Hugo, privilégiait l'expression des sentiments et l'exaltation de la nature ?",
+        "choices": [
+          {
+            "text": "Le classicisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le romantisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le parnasse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbolisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le romantisme a libéré la création artistique des carcans classiques pour explorer le 'moi' et l'imaginaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-015",
+        "shortId": "Q-0A98C6",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel courant artistique, né à la fin du XIXe siècle, cherchait à capter les variations de la lumière par de petites touches de couleur juxtaposées ?",
+        "choices": [
+          {
+            "text": "L'impressionnisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fauvisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le classicisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbolisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Porté par Monet, Renoir et Sisley, l'impressionnisme a rompu avec l'académisme pour privilégier la perception visuelle immédiate."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-066",
+        "shortId": "Q-D49B02",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain existentialiste, auteur de 'La Nausée', a refusé le prix Nobel de littérature en 1964 ?",
+        "choices": [
+          {
+            "text": "Albert Camus",
+            "isCorrect": false
+          },
+          {
+            "text": "André Malraux",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": true
+          },
+          {
+            "text": "Simone de Beauvoir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Sartre a refusé cette distinction au nom de son engagement intellectuel et de son refus des honneurs officiels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-073",
+        "shortId": "Q-6BFEC3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naissant en Suisse traverse les Alpes avant de se jeter dans la Méditerranée par un vaste delta ?",
+        "choices": [
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Danube",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Escaut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Rhône est le fleuve français au débit le plus puissant, utilisé pour l'énergie hydroélectrique et le transport fluvial."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-034",
+        "shortId": "Q-70AD62",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe médiéval, auteur de la 'Somme théologique', a cherché à concilier la foi chrétienne et la raison aristotélicienne ?",
+        "choices": [
+          {
+            "text": "Pierre Abélard",
+            "isCorrect": false
+          },
+          {
+            "text": "Thomas d'Aquin",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint Augustin",
+            "isCorrect": false
+          },
+          {
+            "text": "Bernard de Clairvaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Son œuvre a profondément influencé la pensée chrétienne et l'enseignement universitaire en France au Moyen Âge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-002",
+        "shortId": "Q-EB2C38",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel ministre de Louis XIV est à l'origine de l'ordonnance de la Marine de 1681, texte précurseur du droit maritime moderne ?",
+        "choices": [
+          {
+            "text": "Jean-Baptiste Colbert",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Marquis de Louvois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Cardinal de Mazarin",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Duc de Sully",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Colbert a codifié les usages de la mer pour favoriser le commerce et la puissance navale française. Cette ordonnance est l'un des piliers de la législation maritime internationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-067",
+        "shortId": "Q-4BC205",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville portuaire de la Méditerranée est la préfecture de la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille est le premier port français et un carrefour culturel et économique majeur vers l'Afrique et l'Orient."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-076",
+        "shortId": "Q-3ED091",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1792, quelle bataille remportée contre les armées austro-prussiennes a sauvé la Révolution et conduit à la proclamation de la République ?",
+        "choices": [
+          {
+            "text": "La bataille de Fleurus",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Jemmapes",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Marengo",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Valmy",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La victoire de Valmy fut une surprise stratégique majeure et donna une légitimité à la jeune République française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-060",
+        "shortId": "Q-440F62",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la capitale administrative du département de Mayotte ?",
+        "choices": [
+          {
+            "text": "Dzaoudzi",
+            "isCorrect": false
+          },
+          {
+            "text": "Pamandzi",
+            "isCorrect": false
+          },
+          {
+            "text": "Mamoudzou",
+            "isCorrect": true
+          },
+          {
+            "text": "Beni",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Mamoudzou concentre les principales infrastructures économiques et administratives de l'île."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-078",
+        "shortId": "Q-58C321",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Préfet dans un département français ?",
+        "choices": [
+          {
+            "text": "Diriger la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les impôts locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice au nom de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Représenter l'État et coordonner les services administratifs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet veille à l'application des lois, au maintien de l'ordre et à la sécurité publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-047",
+        "shortId": "Q-176684",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la caractéristique climatique principale de la côte méditerranéenne française ?",
+        "choices": [
+          {
+            "text": "Un climat subtropical avec des étés humides",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat montagnard avec des hivers doux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat méditerranéen avec des étés chauds et secs",
+            "isCorrect": true
+          },
+          {
+            "text": "Un climat tempéré avec des précipitations uniformes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce climat se distingue par une forte luminosité, une sécheresse estivale marquée et des vents parfois violents comme le Mistral."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-014",
+        "shortId": "Q-402F47",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1936, quel gouvernement a instauré les congés payés et la semaine de 40 heures après d'importantes grèves ?",
+        "choices": [
+          {
+            "text": "Le Front populaire",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Cartel des gauches",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Bloc National",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dirigé par Léon Blum, le Front populaire a signé les accords de Matignon, marquant une avancée sociale sans précédent dans l'histoire de France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-044",
+        "shortId": "Q-085D99",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve côtier français traverse la ville de Nantes avant de se jeter dans l'estuaire de Saint-Nazaire ?",
+        "choices": [
+          {
+            "text": "La Vilaine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sèvre Nantaise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Erdre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Loire est le plus long fleuve de France, connu pour ses paysages inscrits au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-038",
+        "shortId": "Q-5B2983",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution judiciaire est chargée de juger les crimes de guerre et les crimes contre l'humanité sur le sol français ?",
+        "choices": [
+          {
+            "text": "Le tribunal militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises spéciale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil supérieur de la magistrature",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Elle est composée de magistrats professionnels pour traiter des dossiers d'une complexité et d'une sensibilité extrêmes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-081",
+        "shortId": "Q-3D0C79",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement philosophique du XIXe siècle, fondé par Auguste Comte, privilégie l'observation scientifique sur la spéculation métaphysique ?",
+        "choices": [
+          {
+            "text": "Le matérialisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'idéalisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'empirisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le positivisme",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Comte considérait la sociologie comme la science suprême capable d'organiser rationnellement la société."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-074",
+        "shortId": "Q-C91546",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme de science, d'origine polonaise, a reçu deux prix Nobel pour ses travaux sur la radioactivité ?",
+        "choices": [
+          {
+            "text": "Irène Joliot-Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Rosalind Franklin",
+            "isCorrect": false
+          },
+          {
+            "text": "Ada Lovelace",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ses découvertes du radium et du polonium ont ouvert la voie à la physique nucléaire moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-018",
+        "shortId": "Q-461634",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1830, surnommé 'Les Trois Glorieuses', a entraîné la chute de Charles X et l'avènement de Louis-Philippe ?",
+        "choices": [
+          {
+            "text": "La Révolution de Juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution de Février",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le coup d'État de Brumaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette insurrection populaire a mis fin à la Restauration et instauré la Monarchie de Juillet, un régime plus libéral."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-039",
+        "shortId": "Q-F8E626",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le point culminant de l'archipel de la Guadeloupe, volcan toujours actif ?",
+        "choices": [
+          {
+            "text": "La Montagne Pelée",
+            "isCorrect": false
+          },
+          {
+            "text": "La Soufrière",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Piton des Neiges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Grand Soufre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Situé sur Basse-Terre, ce volcan est une source importante d'activité géothermique et un site naturel protégé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-077",
+        "shortId": "Q-5780FA",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre du XXe siècle, chef de file du fauvisme, utilisait des couleurs pures et vives pour exprimer l'émotion ?",
+        "choices": [
+          {
+            "text": "André Derain",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice de Vlaminck",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Braque",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri Matisse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Matisse est connu pour sa maîtrise de la couleur et ses compositions simplifiées qui ont marqué l'art moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-063",
+        "shortId": "Q-1D5E03",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe consultatif assiste le gouvernement dans la préparation des projets de loi et des décrets ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil d'État veille à la qualité juridique des textes avant leur adoption."
+      }
+    }
+  ]
+}

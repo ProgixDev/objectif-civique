@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-8",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-060",
+        "shortId": "Q-37E501",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un fonctionnaire refuse de célébrer un mariage entre personnes de même sexe en invoquant sa conscience religieuse. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Rien, sa liberté de conscience est protégée",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sanction disciplinaire car il doit appliquer la loi sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Un simple avertissement verbal",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut demander un transfert sans conséquence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le fonctionnaire doit appliquer la loi de manière neutre et impartiale. Le refus de célébrer un mariage légal constitue une faute professionnelle passible de sanctions disciplinaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-074",
+        "shortId": "Q-99248E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué pour la Journée Défense et Citoyenneté (JDC). Pouvez-vous refuser d'y participer ?",
+        "choices": [
+          {
+            "text": "Oui, la participation est volontaire depuis la suspension du service national",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la JDC est obligatoire et le refus empêche de passer les examens et concours publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous êtes objecteur de conscience déclaré",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais une absence justifiée entraîne uniquement un rappel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La JDC est obligatoire pour tous les jeunes Français. L'attestation de participation est exigée pour s'inscrire aux examens et concours publics jusqu'à 25 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-068",
+        "shortId": "Q-623471",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une commune organise une cérémonie du 11-Novembre. Pourquoi cette date est-elle importante ?",
+        "choices": [
+          {
+            "text": "C'est l'anniversaire de la Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la date de l'armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est la fête nationale de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la commémoration de la fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 11 novembre commémore l'armistice de 1918 mettant fin à la Première Guerre mondiale. C'est un jour de mémoire nationale célébrant la paix et honorant les combattants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-024",
+        "shortId": "Q-F84285",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un citoyen peut-il saisir le Conseil Constitutionnel ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, par le biais d'une QPC (Question Prioritaire de Constitutionnalité) lors d'un procès",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, en envoyant une lettre directe au Conseil",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, uniquement pour contester une élection",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La QPC permet à tout justiciable, lors d'un procès, de soutenir qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-069",
+        "shortId": "Q-0F9545",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un touriste demande pourquoi le drapeau français est tricolore. Quelle réponse lui donner ?",
+        "choices": [
+          {
+            "text": "Les trois couleurs viennent des armoiries de la monarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu et le rouge sont les couleurs de Paris, le blanc celui de la royauté, symbolisant l'union du peuple et du roi pendant la Révolution",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un hommage aux trois religions principales de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu pour la liberté, le blanc pour l'égalité, le rouge pour la fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le drapeau tricolore associe le blanc royal aux couleurs de Paris (bleu et rouge), symbolisant l'union du roi et du peuple pendant la Révolution française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-036",
+        "shortId": "Q-EDE8EC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dès le début de la garde à vue, la personne interpellée a le droit :",
+        "choices": [
+          {
+            "text": "De contacter directement le procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "De demander à voir un avocat et d'être examinée par un médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "De consulter son téléphone portable",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser de donner son identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les droits immédiats en garde à vue sont : faire prévenir un proche, voir un médecin, être assisté par un avocat, et garder le silence."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-014",
+        "shortId": "Q-83BDCE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un candidat aux élections municipales vous propose une somme d'argent contre la promesse de votre vote. Quelle infraction commet-il ?",
+        "choices": [
+          {
+            "text": "L'abus de confiance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le détournement de fonds publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune, c'est une pratique de campagne courante",
+            "isCorrect": false
+          },
+          {
+            "text": "La corruption électorale (achat de voix)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'achat de voix est une atteinte grave à la sincérité du scrutin. La corruption électorale (achat de voix), c'est un délit passible de prison, d'amende et d'inéligibilité pour le candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-038",
+        "shortId": "Q-5D6169",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en conflit avec votre banque sur des frais injustifiés. Vers qui vous tourner gratuitement ?",
+        "choices": [
+          {
+            "text": "L'Autorité de contrôle prudentiel et de résolution (ACPR) exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médiateur bancaire de votre établissement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal judiciaire directement",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque de France pour un rétablissement de vos droits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Chaque banque doit proposer un médiateur gratuit pour résoudre les litiges avec ses clients avant tout recours judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-032",
+        "shortId": "Q-4993FF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île de l'Océan Indien est à la fois une région et un département français d'outre-mer ?",
+        "choices": [
+          {
+            "text": "Madagascar",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Île Maurice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion (974) est le département d'outre-mer le plus peuplé. Elle est célèbre pour son volcan, le Piton de la Fournaise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-007",
+        "shortId": "Q-63CBC5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté d'expression en France est-elle absolue ?",
+        "choices": [
+          {
+            "text": "Non, elle est encadrée par la loi (interdiction de l'incitation à la haine, diffamation, apologie du terrorisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, on peut tout dire sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf si on critique le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle est soumise à la censure préalable de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression est un droit fondamental, mais elle ne couvre pas les abus punis par la loi comme le racisme, l'antisémitisme, l'injure ou la diffamation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-016",
+        "shortId": "Q-9E4E36",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « Recours pour excès de pouvoir » ?",
+        "choices": [
+          {
+            "text": "Une procédure pour destituer le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Une action en justice pour faire annuler une décision administrative illégale",
+            "isCorrect": true
+          },
+          {
+            "text": "Une plainte contre un policier violent",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de grâce présidentielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recours pour excès de pouvoir est le recours contentieux le plus courant devant le juge administratif. Il permet à tout citoyen de demander l'annulation d'un acte administratif (arrêté, décret) contraire à la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-002",
+        "shortId": "Q-02645E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel rôle majeur Jean Moulin a-t-il joué dans l'Histoire de France ?",
+        "choices": [
+          {
+            "text": "Il a unifié les mouvements de la Résistance au sein du CNR (Conseil National de la Résistance)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a été le premier Premier ministre de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a rédigé la Déclaration des Droits de l'Homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a commandé le débarquement de Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Envoyé par de Gaulle, Jean Moulin a réussi à unifier les différents mouvements de résistance intérieure. Arrêté et torturé par la Gestapo, il est mort sans parler. Il est une figure héroïque nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-005",
+        "shortId": "Q-B96C79",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'origine historique des couleurs du drapeau tricolore (Bleu, Blanc, Rouge) ?",
+        "choices": [
+          {
+            "text": "Le bleu et le rouge sont les couleurs de Paris, encadrant le blanc, couleur de la Royauté",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles représentent les trois océans qui bordent la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles symbolisent la Liberté (Bleu), l'Égalité (Blanc) et la Fraternité (Rouge)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu et le rouge représentent le sang versé, le blanc la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Né pendant la Révolution, le drapeau symbolise l'union du peuple (Paris : bleu et rouge) et du monarque (Royauté : blanc). Il est devenu l'emblème national officiel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-061",
+        "shortId": "Q-401DE1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal est chargé de juger les crimes les plus graves (meurtres, viols) ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal correctionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Cour d'assises est la seule juridiction française composée de juges et d'un jury populaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-035",
+        "shortId": "Q-AB5A95",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez commandé un meuble livrable sous 4 semaines. Après 6 semaines, rien n'est arrivé. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Annuler immédiatement la commande sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le juge des référés pour obtenir la livraison",
+            "isCorrect": false
+          },
+          {
+            "text": "Mettre en demeure le vendeur puis annuler si le délai supplémentaire raisonnable n'est pas respecté",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander le double du prix à titre de dommages et intérêts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de retard, le consommateur doit d'abord mettre en demeure le vendeur et lui accorder un délai supplémentaire raisonnable avant d'annuler."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-038",
+        "shortId": "Q-FEF1A3",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Roquefort est un fromage à pâte persillée fabriqué à partir de lait de :",
+        "choices": [
+          {
+            "text": "Vache",
+            "isCorrect": false
+          },
+          {
+            "text": "Chèvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Brebis",
+            "isCorrect": true
+          },
+          {
+            "text": "Bufflonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Roquefort bénéficie d'une Appellation d'Origine Protégée (AOP). Il doit être affiné dans les caves naturelles de Roquefort-sur-Soulzon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-013",
+        "shortId": "Q-531124",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux piliers de la laïcité en France selon la loi de 1905 ?",
+        "choices": [
+          {
+            "text": "L'interdiction des religions et l'athéisme d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des Églises et de l'État et la garantie de la liberté de conscience",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de croire en Dieu et la tolérance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement des cultes par l'État et le contrôle des prêtres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte (Séparation), mais elle garantit le libre exercice des cultes (Liberté)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-102",
+        "shortId": "Q-56AF53",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le suffrage universel ?",
+        "choices": [
+          {
+            "text": "Le droit de vote accordé à tous les citoyens majeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote réservé aux personnes ayant fait des études",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix du chef de l'État par les plus riches",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de ne pas respecter les résultats électoraux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Universel signifie qu'il n'y a pas de distinction de fortune, de sexe ou de religion pour voter."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-012",
+        "shortId": "Q-4536BB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Défenseur des droits est une institution indépendante chargée de :",
+        "choices": [
+          {
+            "text": "Défendre les intérêts de l'État en justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les droits des citoyens face aux administrations et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédiger les nouvelles lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Défenseur des droits (inscrit dans la Constitution) peut être saisi gratuitement par toute personne s'estimant lésée par le fonctionnement d'un service public ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-031",
+        "shortId": "Q-B4DC40",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le prix littéraire le plus prestigieux en France, décerné chaque année en novembre ?",
+        "choices": [
+          {
+            "text": "Le Prix Goncourt",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Prix Renaudot",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Nobel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Femina",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Goncourt assure à son lauréat des ventes considérables, bien que le chèque remis au vainqueur ne soit symboliquement que de 10 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-001",
+        "shortId": "Q-7E3C11",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la Constitution de 1958 définit la France comme une République :",
+        "choices": [
+          {
+            "text": "Indivisible, religieuse, démocratique et libérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Fédérale, laïque, sociale et libérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Indivisible, laïque, démocratique et sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Une et indivisible, monarchique et sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est la définition fondamentale de la France. Ces quatre adjectifs (Indivisible, Laïque, Démocratique, Sociale) résument les piliers de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-041",
+        "shortId": "Q-59C00D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quels scrutins un citoyen européen résidant en France peut-il participer ?",
+        "choices": [
+          {
+            "text": "Les élections présidentielles uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections départementales et régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections municipales et européennes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La citoyenneté européenne permet de voter aux élections locales et pour le Parlement européen dans son pays de résidence."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-049",
+        "shortId": "Q-DB3BB9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez exprimer vos opinions politiques sur les réseaux sociaux. Quelles limites devez-vous respecter ?",
+        "choices": [
+          {
+            "text": "La liberté d'expression est totale sur Internet, sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'injure, la diffamation et l'incitation à la haine sont interdites, même en ligne",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les propos contre le gouvernement sont interdits",
+            "isCorrect": false
+          },
+          {
+            "text": "Les opinions politiques ne sont pas protégées sur Internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression s'applique en ligne, mais avec les mêmes limites que dans la vie réelle : l'injure, la diffamation, l'incitation à la haine raciale ou la provocation à la violence restent des délits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-021",
+        "shortId": "Q-B58408",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel Parc National est situé dans les Alpes ?",
+        "choices": [
+          {
+            "text": "Le Parc des Calanques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de la Vanoise (ou des Écrins)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parc des Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de Port-Cros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Vanoise (Savoie) fut le premier parc national créé en France (1963) pour protéger la faune et la flore alpines."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-012",
+        "shortId": "Q-6F3381",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le DPE (Diagnostic de Performance Énergétique) et quelle est son importance pour la location ?",
+        "choices": [
+          {
+            "text": "Il est facultatif pour les locations saisonnières",
+            "isCorrect": false
+          },
+          {
+            "text": "Il classe le logement de A à G; les logements classés G+ sont interdits à la location (indécents)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il sert uniquement à calculer la taxe foncière",
+            "isCorrect": false
+          },
+          {
+            "text": "Il concerne uniquement la sécurité électrique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le DPE est obligatoire. Depuis 2023, les logements les plus énergivores (G+) sont interdits à la location. Cette interdiction s'étendra progressivement aux classes G, puis F."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-033",
+        "shortId": "Q-679B96",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un hôpital public, des agents demandent qu'un local permanent soit affecté à la prière. Quelle est la réponse la plus exacte au regard de la laïcité ?",
+        "choices": [
+          {
+            "text": "L'établissement doit y faire droit au nom de la liberté religieuse des agents",
+            "isCorrect": false
+          },
+          {
+            "text": "L'établissement n'a pas à affecter un local de prière permanent, les agents étant soumis à la neutralité et à la laïcité dans l'exercice du service",
+            "isCorrect": true
+          },
+          {
+            "text": "L'établissement doit accorder un local à chaque culte représenté parmi le personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'établissement doit consulter les usagers avant de statuer sur la demande",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans un service public, les agents doivent respecter les principes de neutralité et de laïcité dans l'exercice de leurs fonctions. L'administration ou l'établissement public n'a pas pour mission d'organiser une pratique cultuelle sur le lieu du service et n'a donc pas à affecter un local permanent à la prière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-012",
+        "shortId": "Q-AF5DA0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 12, le Président peut dissoudre l'Assemblée nationale après consultation du Premier ministre et des présidents des assemblées. De nouvelles élections législatives ont alors lieu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-078",
+        "shortId": "Q-872C80",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident de la route avec un blessé grave. Quelle est votre obligation légale ?",
+        "choices": [
+          {
+            "text": "Appeler les secours et porter assistance si possible sans vous mettre en danger",
+            "isCorrect": true
+          },
+          {
+            "text": "Appeler les secours puis poursuivre votre route si d'autres témoins sont présents",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécuriser les lieux puis attendre l'arrivée des pompiers avant toute intervention",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler l'accident via une application communautaire sans s'arrêter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La non-assistance à personne en danger est un délit. Tout citoyen a l'obligation d'alerter les secours et de porter assistance dans la mesure de ses moyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-015",
+        "shortId": "Q-4A641E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La grotte de Lascaux (Dordogne) est mondialement connue pour :",
+        "choices": [
+          {
+            "text": "Ses formations de cristaux géants",
+            "isCorrect": false
+          },
+          {
+            "text": "Ses peintures rupestres préhistoriques (art pariétal)",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir abrité les premiers rois de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Être le plus profond gouffre d'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Surnommée la « Chapelle Sixtine de la Préhistoire », elle abrite des peintures d'animaux datant d'environ 18 000 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-004",
+        "shortId": "Q-71D546",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du préavis de départ pour un locataire situé en « Zone Tendue » (ex: Paris, Lyon) ?",
+        "choices": [
+          {
+            "text": "1 mois (au lieu de 3 mois), sans avoir à fournir de justificatif autre que l'adresse",
+            "isCorrect": true
+          },
+          {
+            "text": "3 mois incompressibles",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois, mais uniquement sur accord du propriétaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans les zones tendues (agglomérations où la demande de logement est forte), le préavis est réduit de droit à 1 mois pour le locataire, qu'il s'agisse d'un logement vide ou meublé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-022",
+        "shortId": "Q-5834F0",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une personne publie une photo de vous prise dans un lieu privé sans votre accord. Quel droit pouvez-vous invoquer ?",
+        "choices": [
+          {
+            "text": "Le droit de propriété",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'auteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à l'image et au respect de la vie privée",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à l'image permet de s'opposer à la diffusion de son image, surtout si elle a été captée dans un lieu privé sans consentement. C'est une composante du respect de la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-055",
+        "shortId": "Q-3F2691",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal est compétent pour les conflits individuels entre employeur et salarié ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil de prud'hommes est une juridiction paritaire spécialisée dans le droit du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-005",
+        "shortId": "Q-B9C5D8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle des « directives anticipées » dans le domaine médical ?",
+        "choices": [
+          {
+            "text": "Exprimer par avance ses volontés sur la fin de vie en cas d'incapacité à s'exprimer",
+            "isCorrect": true
+          },
+          {
+            "text": "Désigner ses héritiers pour ses biens",
+            "isCorrect": false
+          },
+          {
+            "text": "Refuser tout soin médical à vie",
+            "isCorrect": false
+          },
+          {
+            "text": "Choisir son hôpital à l'avance pour une urgence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Toute personne majeure peut rédiger des directives anticipées pour le cas où elle serait un jour hors d'état d'exprimer sa volonté. Elles s'imposent au médecin sauf urgence vitale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-005",
+        "shortId": "Q-1852A4",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le plus long fleuve entièrement français ?",
+        "choices": [
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Avec ses 1 012 km, la Loire est le plus long fleuve de France. Elle est célèbre pour les châteaux royaux qui bordent sa vallée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-007",
+        "shortId": "Q-B86FA9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence majeure entre le PACS et le Mariage en cas de décès sans testament ?",
+        "choices": [
+          {
+            "text": "Aucune différence, le partenaire survivant hérite automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS n'est pas héritier légal (il n'hérite de rien sans testament)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le partenaire de PACS hérite de la moitié des biens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partenaire de PACS hérite uniquement du logement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement aux époux, les partenaires de PACS ne sont pas héritiers l'un de l'autre. Pour protéger le survivant, il est impératif de rédiger un testament."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-034",
+        "shortId": "Q-F91554",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La torture et la peine de mort sont :",
+        "choices": [
+          {
+            "text": "Autorisées pour les terroristes",
+            "isCorrect": false
+          },
+          {
+            "text": "Totalement interdites en France et par la Convention européenne des droits de l'homme",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisées en temps de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Décidées par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France a aboli la peine de mort en 1981. L'interdiction de la torture et des traitements inhumains est un principe absolu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-125",
+        "shortId": "Q-386400",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel article de la Constitution affirme que 'La France est une République indivisible, laïque, démocratique et sociale' ?",
+        "choices": [
+          {
+            "text": "L'article 10",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 49",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 20",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 1",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 1er définit les principes fondamentaux de l'État français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-084",
+        "shortId": "Q-BB292E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez faire reconnaître un handicap pour bénéficier d'aides. Quelle instance devez-vous saisir ?",
+        "choices": [
+          {
+            "text": "La CPAM (Caisse Primaire d'Assurance Maladie)",
+            "isCorrect": false
+          },
+          {
+            "text": "La MDPH (Maison Départementale des Personnes Handicapées)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin du travail de votre entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "La CAF (Caisse d'Allocations Familiales)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La MDPH est l'interlocuteur unique pour les demandes de reconnaissance de handicap (RQTH), les aides (AAH, PCH) et l'orientation professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-014",
+        "shortId": "Q-B5D524",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île est devenue française en 1768, juste un an avant la naissance de Napoléon Bonaparte sur son sol ?",
+        "choices": [
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Gênes a cédé la Corse à la France en 1768. Napoléon est né Français à Ajaccio en 1769."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-005",
+        "shortId": "Q-BEB3E9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le dispositif « 100% Santé » permet :",
+        "choices": [
+          {
+            "text": "D'être remboursé intégralement de toutes les consultations médicales",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir certaines lunettes, prothèses dentaires et aides auditives sans aucun reste à charge",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir une mutuelle gratuite pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "De ne pas payer l'hôpital en chambre particulière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce dispositif garantit un reste à charge zéro sur une sélection d'équipements (optique, dentaire, audio) si l'on possède une mutuelle responsable ou la Complémentaire Santé Solidaire."
+      }
+    }
+  ]
+}

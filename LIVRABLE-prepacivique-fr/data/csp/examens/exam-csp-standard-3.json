@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-3",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-048",
+        "shortId": "Q-F1AD3F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un député est poursuivi pour ses opinions exprimées lors d'un débat à l'Assemblée. Quelle protection possède-t-il ?",
+        "choices": [
+          {
+            "text": "Il peut être emprisonné immédiatement sans jugement par le Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il perd ses droits de vote à l'Assemblée pour une durée de dix ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer une amende à chaque fois qu'il prend la parole devant ses collègues.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'immunité parlementaire garantit qu'il ne peut être poursuivi pour ses votes ou opinions dans l'exercice de ses fonctions.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'immunité assure que les représentants du peuple peuvent s'exprimer librement sans crainte de pressions judiciaires ou politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-080",
+        "shortId": "Q-51605A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez des appels publicitaires plusieurs fois par jour. Pouvez-vous les arrêter ?",
+        "choices": [
+          {
+            "text": "Non, c'est normal en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement en changeant de numéro de téléphone",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en vous inscrivant sur la liste Bloctel",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les entreprises ont le droit d'appeler",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bloctel est un service gratuit qui permet de bloquer les appels commerciaux non désirés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-041",
+        "shortId": "Q-24709B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit au respect de la vie privée interdit notamment :",
+        "choices": [
+          {
+            "text": "D'ouvrir le courrier d'une autre personne sans son accord",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir un compte bancaire personnel séparé",
+            "isCorrect": false
+          },
+          {
+            "text": "De sortir de chez soi après la tombée de la nuit",
+            "isCorrect": false
+          },
+          {
+            "text": "De parler à ses voisins sans autorisation officielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret des correspondances et l'inviolabilité du domicile sont protégés par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-028",
+        "shortId": "Q-9AEA4E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le PACS (Pacte Civil de Solidarité) ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'aide au logement pour les jeunes couples",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat pour organiser la vie commune d'un couple",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord de médiation familiale en cas de séparation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement de solidarité financière entre colocataires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le PACS est une union légale ouverte aux couples de même sexe ou de sexe différent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-049",
+        "shortId": "Q-4635B0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le retrait de la nationalité française pour crime grave ?",
+        "choices": [
+          {
+            "text": "L'exclusion administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La résiliation civique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "La déchéance de nationalité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déchéance de nationalité est une mesure exceptionnelle, encadrée par le Code civil, qui ne peut concerner que les personnes ayant acquis la nationalité française et possédant une autre nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-035",
+        "shortId": "Q-494D6A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de l'instruction en France ?",
+        "choices": [
+          {
+            "text": "Elle est réservée aux familles françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est obligatoire pour tous de 3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est payante à partir du collège",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est facultative si l'enfant travaille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est un droit garanti à tout enfant résidant sur le territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-046",
+        "shortId": "Q-C9F19F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous parle de l'égalité 'femme-homme' en France. Est-elle inscrite dans la Constitution ?",
+        "choices": [
+          {
+            "text": "Oui, la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'égalité est un principe uniquement moral qui n'a aucune valeur juridique.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité est réservée uniquement au domaine de la vie privée et familiale.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution prévoit que les hommes ont toujours la priorité pour les postes de direction.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La parité et l'égalité professionnelle sont des objectifs constitutionnels pour lutter contre les discriminations historiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-051",
+        "shortId": "Q-A84BA8",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez dénoncer une injustice administrative. Qui pouvez-vous contacter ?",
+        "choices": [
+          {
+            "text": "La banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Défenseur des Droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La télévision locale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Défenseur des Droits protège les citoyens face à l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-020",
+        "shortId": "Q-0A28B5",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel territoire français est situé en Amérique du Sud et abrite la base de lancement de fusées d'Europe ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Guyane est un département d'outre-mer. Elle accueille le centre spatial de Kourou."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-071",
+        "shortId": "Q-B6D66D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande pourquoi voter est important. Quelle est la meilleure raison ?",
+        "choices": [
+          {
+            "text": "Pour remplir une obligation légale sous peine d'amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour valider automatiquement son titre de séjour ou sa carte d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour avoir accès à plus de services que les autres",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour choisir les personnes qui vont décider des lois et de l'avenir du pays",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voter permet aux citoyens de participer à la démocratie en choisissant leurs représentants politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-057",
+        "shortId": "Q-500FC2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas exceptionnel peut-on retirer la nationalité à un binational ?",
+        "choices": [
+          {
+            "text": "S'il ne vote pas à trois élections de suite",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il refuse de payer ses impôts fonciers",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il déménage définitivement à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il commet un acte de terrorisme grave",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déchéance de nationalité est une mesure très rare pour protéger l'intérêt fondamental de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-019",
+        "shortId": "Q-B81E0A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel héros de la Résistance a unifié les mouvements clandestins avant d'être arrêté en 1943 ?",
+        "choices": [
+          {
+            "text": "Philippe Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean Moulin a fondé le Conseil National de la Résistance (CNR). Il est enterré au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-018",
+        "shortId": "Q-F18000",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une fête nationale, pourquoi les drapeaux sont-ils mis en berne ou les cérémonies organisées ? Quel est l'objectif républicain ?",
+        "choices": [
+          {
+            "text": "Il s'agit uniquement de respecter un protocole militaire obligatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un outil de cohésion nationale pour honorer la mémoire collective et les valeurs communes.",
+            "isCorrect": true
+          },
+          {
+            "text": "Ces cérémonies sont une obligation diplomatique imposée par les traités internationaux.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles visent à rappeler les dates clés du calendrier judiciaire français.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les commémorations nationales renforcent le sentiment d'appartenance à la République et le respect des sacrifices passés pour la liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-024",
+        "shortId": "Q-019026",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel bâtiment abrite les services de la mairie ?",
+        "choices": [
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Ville",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Palais de Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Hôtel de Ville (ou la mairie) est le centre administratif de la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-079",
+        "shortId": "Q-D9BA43",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne vous insulte dans la rue à cause de votre couleur de peau. C'est :",
+        "choices": [
+          {
+            "text": "Une injure raciste punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un comportement impoli mais qui ne relève pas du droit pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression de la personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction uniquement si elle est prononcée devant des témoins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les injures racistes sont des infractions pénales prévues par la loi du 29 juillet 1881. Elles sont punies d'un an d'emprisonnement et de 45 000 € d'amende. La victime peut porter plainte."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-028",
+        "shortId": "Q-280145",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays partage la plus longue frontière terrestre avec la France (via la Guyane) ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Belgique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brésil",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une particularité géographique : la France partage plus de 700 km de frontière avec le Brésil en Amérique du Sud."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-036",
+        "shortId": "Q-675125",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité hommes-femmes au travail ?",
+        "choices": [
+          {
+            "text": "À travail égal, salaire égal et mêmes droits de carrière",
+            "isCorrect": true
+          },
+          {
+            "text": "Les hommes doivent obligatoirement gagner plus que les femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les femmes ne peuvent pas travailler dans les bureaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur choisit le salaire selon le sexe du salarié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi interdit toute discrimination fondée sur le sexe pour le recrutement, la rémunération ou la promotion."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-038",
+        "shortId": "Q-106271",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de manifester pour défendre ses idées ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de manifestation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Manifester pacifiquement est une liberté garantie par la loi française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-025",
+        "shortId": "Q-C55A7C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler 65 heures en une semaine. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, il y a des durées maximales pour protéger la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous êtes d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il doit vous payer le double",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous travaillez la nuit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit du travail limite le temps de travail hebdomadaire (maximum 48h) pour protéger le salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-043",
+        "shortId": "Q-FDF197",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la spécialité culinaire de la Bretagne à base de farine de sarrasin ?",
+        "choices": [
+          {
+            "text": "La bouillabaisse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le cassoulet",
+            "isCorrect": false
+          },
+          {
+            "text": "La galette de sarrasin",
+            "isCorrect": true
+          },
+          {
+            "text": "La choucroute",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La galette bretonne est un plat populaire souvent accompagné de cidre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-045",
+        "shortId": "Q-7A8668",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le système de la Sécurité sociale garantit ?",
+        "choices": [
+          {
+            "text": "L'accès gratuit à l'enseignement supérieur pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement des associations sportives locales",
+            "isCorrect": false
+          },
+          {
+            "text": "La régulation des prix alimentaires sur le marché",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de la santé et une sécurité matérielle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins et le versement de pensions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-049",
+        "shortId": "Q-ED35A3",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'organisme qui gère l'assurance santé ?",
+        "choices": [
+          {
+            "text": "La Poste",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Éducation Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sécurité Sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins médicaux et des médicaments."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-014",
+        "shortId": "Q-4A6988",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le statut du vote en France pour les élections nationales ?",
+        "choices": [
+          {
+            "text": "C'est un droit et un devoir moral, mais pas une obligation légale",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est une obligation sanctionnée par une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un droit réservé uniquement aux propriétaires de logements",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un acte facultatif réservé aux fonctionnaires de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Voter est un droit civique essentiel pour la démocratie, mais l'abstention n'est pas punie par la loi en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-001",
+        "shortId": "Q-D6E8EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement majeur de 1789 marque symboliquement le début de la Révolution française ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": true
+          },
+          {
+            "text": "La convocation des États généraux à Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition des privilèges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet 1789, le peuple parisien prend la prison de la Bastille. Cet événement symbolise la fin du pouvoir absolu du roi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-006",
+        "shortId": "Q-2A52FF",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est principalement responsable du versement des allocations familiales et des aides au logement ?",
+        "choices": [
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie du domicile",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CAF gère les prestations familiales, l'APL (aide au logement) et des revenus de solidarité comme le RSA ou l'AAH."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-045",
+        "shortId": "Q-55EB8D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pourquoi l'élection présidentielle en France se déroule-t-elle au 'suffrage universel direct' ?",
+        "choices": [
+          {
+            "text": "Pour que chaque citoyen puisse voter personnellement pour choisir le Chef de l'État.",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour limiter le nombre de votants aux seules personnes ayant fait des études supérieures.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour que les maires choisissent le Président à la place des citoyens ordinaires.",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un mode de scrutin où le gagnant est tiré au sort parmi les députés.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 1962, le Président est élu par tous les citoyens, ce qui lui donne une grande légitimité démocratique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-051",
+        "shortId": "Q-84B631",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du conseil départemental ?",
+        "choices": [
+          {
+            "text": "Voter le budget de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'action sociale et les routes départementales",
+            "isCorrect": true
+          },
+          {
+            "text": "Diriger la police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le département s'occupe notamment du RSA et de l'aide aux personnes âgées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-055",
+        "shortId": "Q-3DE7D0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une école publique refuse d'inscrire votre enfant car il n'est pas baptisé. C'est :",
+        "choices": [
+          {
+            "text": "Légal, chaque école a ses règles",
+            "isCorrect": false
+          },
+          {
+            "text": "Contraire au principe de laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "Normal si c'est une vieille école",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si les classes sont pleines",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'école publique est laïque et ouverte à tous sans distinction religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-015",
+        "shortId": "Q-D667A2",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental, adopté en 1789, affirme que 'les hommes naissent et demeurent libres et égaux en droits' ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte est la base de la démocratie française et a inspiré de nombreuses déclarations internationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-001",
+        "shortId": "Q-597E2F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter aux élections municipales en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens français et les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Toutes les personnes résidant en France depuis plus de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les citoyens nés sur le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote aux élections municipales est ouvert aux citoyens français et aux ressortissants des pays membres de l'Union européenne vivant en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-054",
+        "shortId": "Q-7BA5A5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le droit à l'éducation ?",
+        "choices": [
+          {
+            "text": "L'école publique est laïque, gratuite et obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "L'éducation est financée uniquement par les régions",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque commune fixe librement le programme scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'instruction est obligatoire à partir de 8 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école de la République assure l'égalité d'accès au savoir pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-052",
+        "shortId": "Q-50EE11",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le mot 'laïque' pour une école publique ?",
+        "choices": [
+          {
+            "text": "L'enseignement religieux est obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école est réservée aux garçons",
+            "isCorrect": false
+          },
+          {
+            "text": "L'enseignement est neutre et indépendant des religions",
+            "isCorrect": true
+          },
+          {
+            "text": "L'école est payante",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique ne privilégie aucune croyance et accueille tous les enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-031",
+        "shortId": "Q-A17092",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un passager du bus insulte violemment le chauffeur. C'est :",
+        "choices": [
+          {
+            "text": "Un différend privé entre le passager et le chauffeur, sans conséquence pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal dans les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Un outrage à une personne chargée de service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Une incivilité sanctionnée par une exclusion du réseau de transport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage contre un agent chargé d'une mission de service public est un délit spécifique prévu par le Code pénal, passible d'une amende et d'une peine d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-044",
+        "shortId": "Q-064444",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande manifestation culturelle gratuite a lieu le 21 juin chaque année ?",
+        "choices": [
+          {
+            "text": "Les Journées du Patrimoine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nuit des Musées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Festival de Cannes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lancée en 1982, elle permet à tous les musiciens de jouer dans les rues et les parcs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-009",
+        "shortId": "Q-EAC30C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'convention collective' ?",
+        "choices": [
+          {
+            "text": "Un accord entre employeurs et syndicats sur les conditions de travail d'un secteur précis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réunion obligatoire pour tous les habitants d'un immeuble",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat d'assurance pour les groupes scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "La liste des lois votées par l'Assemblée nationale chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La convention collective adapte le Code du travail à un secteur d'activité particulier (hôtellerie, bâtiment, etc.) et propose souvent des droits plus favorables."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-051",
+        "shortId": "Q-1C7877",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un maire veut interdire l'installation d'un boucher dans sa ville car il ne partage pas son régime alimentaire. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Le maire peut choisir les commerces en fonction de ses goûts personnels et de ceux de sa famille.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commerce est libre : un maire ne peut s'opposer à une installation commerciale sans motif d'urbanisme ou de sécurité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les commerces vendant des produits typiquement français sont autorisés dans les villages.",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute nouvelle boucherie doit obtenir l'autorisation de l'évêque du diocèse local.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de commerce et d'industrie est un principe juridique. L'administration ne peut pas interférer avec les choix économiques privés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-035",
+        "shortId": "Q-2DAB64",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie être 'citoyen' ?",
+        "choices": [
+          {
+            "text": "Avoir des droits et des devoirs envers son pays",
+            "isCorrect": true
+          },
+          {
+            "text": "Résider de manière permanente sur le territoire national",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les registres de l'état civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Posséder un titre de séjour en cours de validité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté donne le droit de participer à la vie politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-003",
+        "shortId": "Q-575599",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'indisponibilité du corps humain ?",
+        "choices": [
+          {
+            "text": "Le corps humain ne peut pas être une source de profit (vente d'organes)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le don de sang est une obligation pour tous les résidents",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État décide seul des soins médicaux pour chaque individu",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit de pratiquer une activité physique sans autorisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe interdit de considérer le corps ou ses éléments comme des marchandises ; le don doit être gratuit et volontaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-055",
+        "shortId": "Q-5E14FD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, une loi très importante a été votée concernant les religions. Laquelle ?",
+        "choices": [
+          {
+            "text": "La loi sur le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'école gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur la liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi fonde la laïcité française : l'État est neutre et garantit la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-008",
+        "shortId": "Q-7E20DA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige de voisinage (bruit, clôture), quelle est la première étape recommandée avant d'aller au tribunal ?",
+        "choices": [
+          {
+            "text": "Dénoncer le voisin à la gendarmerie immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Déménager sans prévenir le propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Engager un avocat pour envoyer une mise en demeure",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire appel à un conciliateur de justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La conciliation est une méthode gratuite et souvent obligatoire pour les petits litiges du quotidien afin de trouver un accord amiable sans procès."
+      }
+    }
+  ]
+}

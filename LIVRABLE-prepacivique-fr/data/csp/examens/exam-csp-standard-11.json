@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-11",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-026",
+        "shortId": "Q-F2963E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but de la laïcité à l'hôpital public ?",
+        "choices": [
+          {
+            "text": "Interdire aux patients de posséder un livre religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Réserver les soins uniquement aux personnes athées",
+            "isCorrect": false
+          },
+          {
+            "text": "Soigner chaque patient sans distinction de croyance",
+            "isCorrect": true
+          },
+          {
+            "text": "Obliger les médecins à réciter des prières avant d'opérer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité garantit que le service public de santé est accessible à tous, dans le respect des convictions privées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-026",
+        "shortId": "Q-5C763F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel devoir citoyen concerne la protection de la nature ?",
+        "choices": [
+          {
+            "text": "L'obligation de posséder un jardin privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de préserver l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction de voyager en avion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de devenir membre d'une association",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Charte de l'environnement précise que toute personne a le devoir de prendre part à la préservation de l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-014",
+        "shortId": "Q-6C48E3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où la justice est-elle rendue en France ?",
+        "choices": [
+          {
+            "text": "Dans les mairies de quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les préfectures de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les tribunaux, au nom du peuple français",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les locaux des partis politiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice est une fonction de l'État exercée de manière indépendante par des magistrats."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-017",
+        "shortId": "Q-8AC6E6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit le droit à la sûreté ?",
+        "choices": [
+          {
+            "text": "La protection contre les arrestations arbitraires",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de posséder une arme pour se défendre",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de souscrire à une assurance privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser les contrôles d'identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inscrit dans la DDHC, ce droit assure que nul ne peut être détenu sans motif légal prévu par un juge."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-063",
+        "shortId": "Q-2E5876",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Fraternité' dans la devise française. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Le devoir pour chaque citoyen de participer à des actions caritatives au moins une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation légale d'héberger un voisin en difficulté financière",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de vivre dans la même ville que sa famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité entre les citoyens pour s'entraider",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité représente la solidarité nationale : aider les plus faibles, les malades, les personnes âgées ou en difficulté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-059",
+        "shortId": "Q-F08C46",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez brûler des feuilles dans votre jardin. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, si vous respectez une distance de sécurité de 10 mètres avec les habitations",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est généralement interdit (pollution)",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si le jardin est grand",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pendant les mois d'hiver (novembre à février)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le brûlage des déchets verts est interdit pour les particuliers (circulaire du 18 novembre 2011). Les déchets végétaux doivent être déposés en déchèterie ou compostés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-057",
+        "shortId": "Q-88DB82",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen refuse d'être juré lors d'un procès aux assises car il ne veut pas juger un autre homme. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Une amende, car participer au jury d'assises est un devoir citoyen obligatoire pour ceux qui sont tirés au sort.",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, le service de juré est basé sur le volontariat pur et simple des retraités.",
+            "isCorrect": false
+          },
+          {
+            "text": "Une expulsion immédiate du territoire national pour manque de civisme.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer le salaire des autres jurés pour compenser son absence.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La justice est rendue 'au nom du peuple français'. Participer au jury est une manière directe pour le citoyen d'exercer sa souveraineté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-074",
+        "shortId": "Q-A71621",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans le bus, une personne âgée cherche une place assise. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Lui proposer votre place par respect et solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que le chauffeur fasse une annonce pour les places prioritaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Rester assis car les places ne sont pas réservées légalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler au chauffeur que le bus est trop plein",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les transports en commun disposent de places prioritaires pour les personnes âgées, enceintes ou en situation de handicap. Céder sa place relève du civisme et de la solidarité — des valeurs fondamentales de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-045",
+        "shortId": "Q-17FC02",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1945 marque la fin de la Seconde Guerre mondiale en Europe ?",
+        "choices": [
+          {
+            "text": "La victoire du 8 mai 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Appel du 18 juin",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature de l'Armistice de 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 8 mai est un jour férié en France pour commémorer la capitulation de l'Allemagne nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-027",
+        "shortId": "Q-8037F5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Ils sont nommés par les maires des grandes villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont tirés au sort parmi les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont désignés par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont élus au suffrage universel direct par les citoyens",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le suffrage universel direct donne aux citoyens le pouvoir de choisir leurs représentants législatifs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-007",
+        "shortId": "Q-4457C2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe de la présomption d'innocence ?",
+        "choices": [
+          {
+            "text": "L'accusé est considéré comme innocent tant qu'il n'est pas jugé coupable",
+            "isCorrect": true
+          },
+          {
+            "text": "La police décide seule de qui est coupable avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accusé doit obligatoirement prouver qu'il n'a rien fait",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'est pas nécessaire d'avoir un procès en cas de flagrant délit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence est un principe fondamental de justice : c'est à l'accusation d'apporter la preuve de la faute devant un tribunal indépendant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-035",
+        "shortId": "Q-09A1F6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande ville du sud de la France est le premier port de commerce du pays ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Fondée par les Grecs, Marseille est une ville carrefour entre l'Europe et la Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-072",
+        "shortId": "Q-0F1328",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelqu'un vous dit que les femmes n'ont pas les mêmes droits que les hommes. Est-ce vrai en France ?",
+        "choices": [
+          {
+            "text": "Oui, les hommes ont plus de droits que les femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les femmes et les hommes ont les mêmes droits selon la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Les femmes ont plus de droits que les hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de la région où l'on habite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité femme-homme est inscrite dans la Constitution. La loi garantit les mêmes droits à tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-061",
+        "shortId": "Q-D42ECF",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le mot 'Souveraineté' ?",
+        "choices": [
+          {
+            "text": "La capacité de l'État à lever des impôts sur son territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit des collectivités locales à gérer leurs propres affaires",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indépendance du pouvoir judiciaire face au gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir suprême d'une Nation de décider pour elle-même",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est souveraine car elle décide librement de ses lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-052",
+        "shortId": "Q-F53E7C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous travaillez de nuit. Avez-vous droit à des compensations ?",
+        "choices": [
+          {
+            "text": "Non, le travail est identique",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous travaillez à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi prévoit des repos ou primes",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais une seule fois par an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code du travail impose des contreparties obligatoires pour le travail de nuit : repos compensateur et, le cas échéant, une majoration salariale. Un suivi médical renforcé est également prévu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-037",
+        "shortId": "Q-FE4134",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année la Constitution actuelle de la France (Ve République) a-t-elle été adoptée ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Ve République a été instaurée pour donner plus de stabilité au pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-006",
+        "shortId": "Q-7E0B7E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent d'élève dans un lycée public demande que son enfant soit dispensé des cours d'éducation physique pour des motifs religieux. Quelle est la réponse de l'administration ?",
+        "choices": [
+          {
+            "text": "La demande est acceptée car les convictions religieuses priment sur le programme scolaire national.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école étant laïque et obligatoire, aucun élève ne peut être dispensé d'une partie du programme pour des motifs religieux.",
+            "isCorrect": true
+          },
+          {
+            "text": "La dispense est possible uniquement si le parent accepte de payer une taxe de compensation à l'établissement.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut être dispensé si le maire de la commune signe une dérogation exceptionnelle.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité à l'école garantit un enseignement commun à tous. Les programmes scolaires s'imposent à tous les élèves sans distinction de croyance."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-010",
+        "shortId": "Q-348F2D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de l'hymne national de la France ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chant du départ",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "L'hymne des régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise est le chant patriotique officiel de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-042",
+        "shortId": "Q-399854",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin de harcèlement sexuel au travail. Que faire ?",
+        "choices": [
+          {
+            "text": "Ne rien dire pour ne pas perdre votre travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler les faits à la direction ou aux syndicats",
+            "isCorrect": true
+          },
+          {
+            "text": "Conseiller à la victime de changer de service pour éviter le harceleur",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre d'avoir des preuves solides avant de signaler les faits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le harcèlement sexuel est un délit pénal. Il doit être signalé à la direction, aux représentants du personnel ou à l'inspection du travail. Le témoin qui signale est protégé par la loi contre les représailles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-040",
+        "shortId": "Q-690A5B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel roi a mis fin aux guerres de religion en France en signant l'Édit de Nantes ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint Louis",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En 1598, Henri IV a autorisé la liberté de culte pour les protestants, apportant la paix au royaume."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-001",
+        "shortId": "Q-1F853C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent de la fonction publique souhaite exprimer ses convictions religieuses par un signe ostensible durant ses heures de service. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Le principe de neutralité s'applique à tous les agents publics, leur interdisant de manifester leurs croyances dans l'exercice de leurs fonctions.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'agent peut porter ce signe si cela ne gêne pas l'exécution technique de ses tâches quotidiennes.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à la liberté de conscience permet à tout salarié, public ou privé, de manifester sa foi sans restriction.",
+            "isCorrect": false
+          },
+          {
+            "text": "La manifestation des croyances est autorisée uniquement si l'agent n'est pas en contact direct avec les usagers.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La neutralité du service public garantit l'impartialité de l'État. Les agents ne doivent porter aucun signe religieux pour que chaque usager soit traité de la même manière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-043",
+        "shortId": "Q-0C129D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service public s'occupe de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "L'Assurance Maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "France Travail (anciennement Pôle Emploi) est l'organisme public chargé d'accompagner les demandeurs d'emploi et de faciliter leur retour au travail."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-052",
+        "shortId": "Q-C56AA2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel numéro appeler pour le SAMU (urgence médicale vitale) ?",
+        "choices": [
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "114",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 15 permet d'obtenir une réponse médicale immédiate et d'orienter les secours."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-015",
+        "shortId": "Q-D667A2",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental, adopté en 1789, affirme que 'les hommes naissent et demeurent libres et égaux en droits' ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte est la base de la démocratie française et a inspiré de nombreuses déclarations internationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-056",
+        "shortId": "Q-A0597D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'famille recomposée' ?",
+        "choices": [
+          {
+            "text": "Une famille qui a déménagé dans une autre région",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille dont les membres vivent dans des pays différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille qui a adopté un enfant étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Un couple vivant avec au moins un enfant né d'une union précédente",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il s'agit d'un foyer où des enfants vivent avec un parent et un beau-parent suite à une séparation ou un veuvage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-016",
+        "shortId": "Q-63A7CC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la présomption d'innocence ?",
+        "choices": [
+          {
+            "text": "L'accusé est considéré innocent tant que sa culpabilité n'est pas établie",
+            "isCorrect": true
+          },
+          {
+            "text": "La police peut punir un suspect avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accusé doit obligatoirement prouver qu'il est une bonne personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge décide de la peine avant d'écouter les avocats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence protège les citoyens contre l'erreur judiciaire. La charge de la preuve appartient à l'accusation, et non à l'accusé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-031",
+        "shortId": "Q-2D2EBB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du conseil municipal ?",
+        "choices": [
+          {
+            "text": "Gérer les affaires de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander l'armée de terre",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les criminels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le conseil municipal s'occupe des projets locaux (écoles, routes, espaces verts)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-008",
+        "shortId": "Q-7B1908",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez quelqu'un jeter des gros déchets dans la forêt. Que risque cette personne ?",
+        "choices": [
+          {
+            "text": "Une simple demande de nettoyage par la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation de ramasser les déchets dans les 48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Un rappel à l'ordre du garde forestier sans conséquence judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende importante car c'est une atteinte à l'environnement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le dépôt sauvage de déchets est un délit environnemental. L'amende peut atteindre 1 500 € (contravention de 5e classe) et jusqu'à 75 000 € en cas de dépôt par un professionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-034",
+        "shortId": "Q-5A8E95",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel massif montagneux peut-on trouver des volcans éteints en Auvergne ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La chaîne des Puys, dans le Massif central, est inscrite au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-044",
+        "shortId": "Q-1CA806",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel recours possède un locataire si son propriétaire refuse de rendre la caution (dépôt de garantie) sans justificatif ?",
+        "choices": [
+          {
+            "text": "Déposer une plainte au commissariat de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter l'administration fiscale pour bloquer les remboursements",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir la commission départementale de conciliation ou le tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une lettre recommandée au président de la copropriété",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le propriétaire doit justifier toute retenue sur la caution par des factures ou devis liés aux dégradations notées sur l'état des lieux de sortie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-024",
+        "shortId": "Q-A295DD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie le principe de 'République sociale'. Comment se manifeste-t-il ?",
+        "choices": [
+          {
+            "text": "Par l'égalité stricte des revenus entre tous les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'obligation pour chaque citoyen d'adhérer à un parti politique socialiste.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la suppression de toute forme de hiérarchie dans l'administration publique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la mise en œuvre de dispositifs d'aide aux plus démunis pour garantir la dignité humaine.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République sociale implique des mécanismes de solidarité et de protection sociale pour réduire les inégalités et préserver la dignité. Elle ne signifie pas la disparition de l'économie de marché ni une uniformité totale des situations individuelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-030",
+        "shortId": "Q-419345",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet aux citoyens d'aider les autres ?",
+        "choices": [
+          {
+            "text": "L'autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité encourage l'entraide et le respect entre tous les citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-030",
+        "shortId": "Q-B34307",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'égalité entre les femmes et les hommes s'applique à :",
+        "choices": [
+          {
+            "text": "Principalement dans le domaine de l'éducation et de la santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les domaines (travail, politique, famille)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement au montant du salaire minimum",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le secteur public mais pas dans le secteur privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi favorise l'égal accès aux mandats électoraux et aux responsabilités professionnelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-033",
+        "shortId": "Q-3CBA98",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel conflit mondial s'est déroulé entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La guerre d'Algérie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Aussi appelée la 'Grande Guerre', elle a marqué la France par les combats dans les tranchées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-020",
+        "shortId": "Q-44977C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le dispositif 'Visale' ?",
+        "choices": [
+          {
+            "text": "D'obtenir un visa touristique plus rapidement",
+            "isCorrect": false
+          },
+          {
+            "text": "De payer ses factures d'électricité en retard sans frais",
+            "isCorrect": false
+          },
+          {
+            "text": "D'accéder gratuitement à tous les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "De bénéficier d'une caution gratuite pour louer un logement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Visale est une garantie accordée par Action Logement qui rassure les propriétaires en cas d'impayés de loyer du locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-053",
+        "shortId": "Q-628607",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'excision (mutilation sexuelle) est considérée comme :",
+        "choices": [
+          {
+            "text": "Une liberté religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tradition respectable",
+            "isCorrect": false
+          },
+          {
+            "text": "Un choix personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un crime puni par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France protège l'intégrité du corps des femmes contre toute forme de mutilation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-060",
+        "shortId": "Q-B83242",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour les fonctionnaires concernant la religion au travail ?",
+        "choices": [
+          {
+            "text": "Ils doivent porter un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils choisissent ce qu'ils veulent",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent rester neutres et ne pas montrer leur religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils ne doivent pas travailler le dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de laïcité impose aux agents du service public une stricte neutralité religieuse dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-013",
+        "shortId": "Q-8CE7F9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un animal enfermé dans une voiture en plein soleil. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "On peut appeler la police et, en cas d'urgence, intervenir devant témoins",
+            "isCorrect": true
+          },
+          {
+            "text": "On ne peut rien faire, c'est la propriété du maître",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut attendre le retour du propriétaire pendant plusieurs heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut donner de l'eau à travers la vitre fermée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'état de nécessité permet d'agir pour sauver une vie (humaine ou animale) en danger imminent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-001",
+        "shortId": "Q-D6E8EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement majeur de 1789 marque symboliquement le début de la Révolution française ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": true
+          },
+          {
+            "text": "La convocation des États généraux à Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition des privilèges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet 1789, le peuple parisien prend la prison de la Bastille. Cet événement symbolise la fin du pouvoir absolu du roi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-041",
+        "shortId": "Q-BA0B96",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'pension de réversion' ?",
+        "choices": [
+          {
+            "text": "Une partie de la retraite d'un conjoint décédé versée au conjoint survivant",
+            "isCorrect": true
+          },
+          {
+            "text": "Un remboursement d'impôts versé par erreur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour avoir quitté son travail trop tôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour les enfants qui retournent vivre chez leurs parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sous certaines conditions, la veuve ou le veuf peut toucher une partie de la retraite que percevait ou aurait pu percevoir l'époux décédé."
+      }
+    }
+  ]
+}

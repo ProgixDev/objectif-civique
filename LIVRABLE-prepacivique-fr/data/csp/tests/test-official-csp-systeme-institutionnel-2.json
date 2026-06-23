@@ -1,0 +1,893 @@
+{
+  "slug": "test-official-csp-systeme-institutionnel-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 26,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-institutions-official-031",
+        "shortId": "Q-F38BC4",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui réside au palais de l'Élysée ?",
+        "choices": [
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Élysée est le siège de la présidence de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-003",
+        "shortId": "Q-6D9576",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+        "choices": [
+          {
+            "text": "De juger les infractions",
+            "isCorrect": false
+          },
+          {
+            "text": "De faire appliquer les lois",
+            "isCorrect": true
+          },
+          {
+            "text": "De contrôler le budget uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "De voter les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le pouvoir exécutif (Président et Gouvernement) exécute les lois votées par le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-035",
+        "shortId": "Q-FFD56A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce que le président de la République a tous les pouvoirs ?",
+        "choices": [
+          {
+            "text": "Oui, car l'élection au suffrage universel lui confère une légitimité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en tant que Chef des Armées, il peut imposer ses décisions",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il ne possède que des pouvoirs honorifiques et symboliques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le pouvoir est partagé et limité par la Constitution (Parlement, Conseil Constitutionnel, Justice)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bien que le Président dispose de pouvoirs importants (dissolution, article 16...), il doit respecter la Constitution. Son action est contrôlée par le Parlement (qui peut censurer le gouvernement) et par le Conseil Constitutionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-029",
+        "shortId": "Q-997EFA",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui élit les députés ?",
+        "choices": [
+          {
+            "text": "Les citoyens français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les députés sont élus par les citoyens français lors des élections législatives, au suffrage universel direct. Ils siègent à l’Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-041",
+        "shortId": "Q-2E7C7A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis au moins cinq ans sans interruption",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obtenu au préalable un titre de séjour de longue durée",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen d'un pays membre de l'UE et être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir signé le Contrat d'Intégration Républicaine (CIR) depuis au moins un an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Tout citoyen de l'UE résidant en France peut voter aux élections européennes (et municipales) s'il est inscrit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-020",
+        "shortId": "Q-0B253F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui possède le pouvoir exécutif ?",
+        "choices": [
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République et le Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'exécutif est bicéphale en France : le Chef de l'État et le Gouvernement dirigé par le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-016",
+        "shortId": "Q-9E37D2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge a-t-on le droit de voter ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans pour tous les citoyens français jouissant de leurs droits civils."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-030",
+        "shortId": "Q-00D83D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui vote les lois ?",
+        "choices": [
+          {
+            "text": "Le Gouvernement seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale et le Sénat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les lois sont votées par le Parlement, composé de l’Assemblée nationale et du Sénat. Les deux chambres examinent et adoptent les textes selon la procédure législative. Le Gouvernement peut proposer des projets de loi, mais il ne vote pas les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-042",
+        "shortId": "Q-536707",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle fréquence les élections européennes sont-elles organisées ?",
+        "choices": [
+          {
+            "text": "Tous les 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés au Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Les élections européennes ont lieu simultanément dans tous les États membres de l'Union européenne, selon des règles communes fixées au niveau européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-032",
+        "shortId": "Q-73EB54",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de départements en France ?",
+        "choices": [
+          {
+            "text": "96",
+            "isCorrect": false
+          },
+          {
+            "text": "101",
+            "isCorrect": true
+          },
+          {
+            "text": "110",
+            "isCorrect": false
+          },
+          {
+            "text": "22",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte 101 départements : 96 situés en métropole (sur le territoire européen) et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les départements constituent un niveau de collectivité territoriale entre la commune et la région."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-044",
+        "shortId": "Q-3C5B62",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la monnaie utilisée en France ?",
+        "choices": [
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "La Livre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Dollar",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'euro est la monnaie unique européenne utilisée en France depuis 2002."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-046",
+        "shortId": "Q-137A4B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand célèbre-t-on la journée de l'Europe ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Journée de l'Europe est célébrée le 9 mai, date de la déclaration Schuman de 1950. Cette initiative a lancé la construction européenne autour de la coopération entre États."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-022",
+        "shortId": "Q-EEA8CA",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut voter aux élections en France ?",
+        "choices": [
+          {
+            "text": "Toute personne résidant en France et payant des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne née en France, quel que soit son âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout salarié titulaire d'un contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de vote aux scrutins nationaux exige la nationalité française, la majorité légale et la jouissance des droits civils et politiques. Les citoyens de l'Union européenne résidant en France votent seulement aux élections municipales et européennes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-040",
+        "shortId": "Q-9AB345",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État n'est pas membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Irlande",
+            "isCorrect": false
+          },
+          {
+            "text": "La Suisse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Suède",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Suisse est au cœur de l'Europe mais ne fait pas partie de l'UE (tout comme la Norvège)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-010",
+        "shortId": "Q-0EBF16",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+        "choices": [
+          {
+            "text": "Il ne peut être jugé qu'après la fin de ses fonctions",
+            "isCorrect": false
+          },
+          {
+            "text": "Il bénéficie d'une immunité totale liée à sa fonction",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est responsable pénalement et peut être poursuivi en justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est uniquement responsable politiquement devant le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les ministres sont responsables pénalement des actes accomplis dans l'exercice de leurs fonctions (jugés par la Cour de justice de la République) et comme des citoyens normaux pour le reste."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-012",
+        "shortId": "Q-02B125",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de députés composent l’Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "101",
+            "isCorrect": false
+          },
+          {
+            "text": "925",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct pour 5 ans. Ils représentent la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-021",
+        "shortId": "Q-AF69F1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+        "choices": [
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Justifier d'une résidence ininterrompue de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir signé la Charte des droits et devoirs du citoyen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription sur les listes électorales est obligatoire. Elle est automatique pour les jeunes à 18 ans, mais nécessite une démarche volontaire en cas de déménagement ou d'acquisition de la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-014",
+        "shortId": "Q-AD963F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections municipales ?",
+        "choices": [
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux (qui élisent ensuite le maire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lors des élections municipales, les électeurs élisent les conseillers municipaux. Après l’élection, le conseil municipal se réunit et élit en son sein le maire et les adjoints. Le Président de la République et les députés sont élus lors d’autres scrutins, et le préfet est nommé par l’État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-043",
+        "shortId": "Q-099CB0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays est un pays fondateur de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Allemagne (RFA à l'époque) fait partie des 6 membres fondateurs de 1957 avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-033",
+        "shortId": "Q-23F887",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui représente l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet représente l’État dans le département. Il est nommé par le Gouvernement en Conseil des ministres. Il veille à l’application des lois, dirige les services de l’État dans le département et assure le contrôle de légalité des actes des collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-011",
+        "shortId": "Q-DC58B7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections législatives ?",
+        "choices": [
+          {
+            "text": "Les conseillers régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": true
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les élections législatives permettent d'élire les 577 députés qui siègent à l'Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-007",
+        "shortId": "Q-6D8086",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle de l'autorité judiciaire ?",
+        "choices": [
+          {
+            "text": "De nommer les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "De diriger la police",
+            "isCorrect": false
+          },
+          {
+            "text": "De créer les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "De veiller au respect des lois et de sanctionner les infractions",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L’autorité judiciaire est chargée d’appliquer la loi, de trancher les litiges entre les personnes et de sanctionner les infractions pénales. Elle est indépendante des pouvoirs exécutif et législatif, ce qui garantit l’impartialité des décisions et le respect de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-039",
+        "shortId": "Q-70CC72",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+        "choices": [
+          {
+            "text": "28",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "27",
+            "isCorrect": true
+          },
+          {
+            "text": "32",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'UE compte 27 pays membres depuis le départ du Royaume-Uni."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-001",
+        "shortId": "Q-C672FB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Les citoyens par vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une compétence propre du Président de la République (Article 8 de la Constitution)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-026",
+        "shortId": "Q-FA5379",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif et Régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif et Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire et Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Militaire et Judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de séparation des pouvoirs distingue trois fonctions de l’État : le pouvoir législatif (qui vote la loi), le pouvoir exécutif (qui met en œuvre la loi) et le pouvoir judiciaire (qui applique la loi et tranche les litiges). Ce principe, théorisé notamment par Montesquieu, vise à éviter la concentration des pouvoirs entre les mains d’une seule autorité et constitue un fondement essentiel de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-018",
+        "shortId": "Q-E9DD37",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps sont élus les députés ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mandat des députés est de 5 ans, sauf en cas de dissolution de l'Assemblée nationale."
+      }
+    }
+  ]
+}

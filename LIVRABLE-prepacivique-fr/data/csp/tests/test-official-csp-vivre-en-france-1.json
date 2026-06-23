@@ -1,0 +1,587 @@
+{
+  "slug": "test-official-csp-vivre-en-france-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 17,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-official-012",
+        "shortId": "Q-B81787",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est aidé par France Travail ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes licenciées",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les jeunes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Les personnes en recherche d'emploi et les employeurs dans leurs recrutements",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les personnes qui perçoivent déjà une allocation chômage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les personnes en recherche d'emploi dans leurs démarches et aide aussi les employeurs à recruter. L'indemnisation chômage n'est possible que si les conditions d'ouverture des droits sont remplies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-002",
+        "shortId": "Q-E39498",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+        "choices": [
+          {
+            "text": "Le 15 (ou le 112 pour tous les secours d'urgence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 15 permet de joindre le SAMU en cas d'urgence médicale. Le 112 est le numéro d'urgence européen et peut aussi orienter l'appel vers le service médical adapté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-013",
+        "shortId": "Q-B47E44",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne étrangère en situation régulière peut créer son entreprise :",
+        "choices": [
+          {
+            "text": "Seulement si elle devient d'abord citoyenne française",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sans aucune formalité liée à sa situation de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est interdit à toute personne étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle remplit les conditions de séjour et d'autorisation professionnelle applicables à sa situation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une personne étrangère peut créer une entreprise en France, mais elle doit respecter les conditions administratives et selon sa situation, détenir un titre de séjour ou une autorisation lui permettant d'exercer cette activité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-024",
+        "shortId": "Q-F4F236",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jusqu'à quel âge l'école est-elle obligatoire en France ?",
+        "choices": [
+          {
+            "text": "Jusqu'à 12 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Jusqu'à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Jusqu'à 16 ans révolus",
+            "isCorrect": true
+          },
+          {
+            "text": "Jusqu'à 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'instruction est obligatoire en France de 3 ans à 16 ans révolus. Après 16 ans, les jeunes ne sont plus soumis à l'instruction obligatoire, mais ils restent tenus à une obligation de formation jusqu'à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-005",
+        "shortId": "Q-2B0F95",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+        "choices": [
+          {
+            "text": "Assurer le véhicule avant de le faire circuler",
+            "isCorrect": true
+          },
+          {
+            "text": "Déclarer chaque trajet à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien d'autre, le permis suffit à lui seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une autorisation spéciale du préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour circuler, un véhicule doit être couvert au minimum par une assurance responsabilité civile. Le permis de conduire ne dispense donc pas de l'obligation d'assurer la voiture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-014",
+        "shortId": "Q-B306C2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une femme peut-elle créer son entreprise ?",
+        "choices": [
+          {
+            "text": "Oui, mais seulement sous le régime de la micro-entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, elle a les mêmes droits que les hommes pour créer et gérer une entreprise",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais avec l'accord de son conjoint si elle est mariée",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation spéciale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une femme peut créer et gérer une entreprise dans les mêmes conditions qu'un homme. L'égalité entre les femmes et les hommes exclut toute autorisation spéciale liée au sexe ou à la situation familiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-006",
+        "shortId": "Q-B786D8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+        "choices": [
+          {
+            "text": "Un contrat privé entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un mariage religieux célébré seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Un mariage civil célébré devant l'officier d'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord verbal entre les futurs époux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier d'état civil produit les effets juridiques du mariage. Une cérémonie religieuse, ou un simple accord verbal ne remplacent pas ce mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-031",
+        "shortId": "Q-9E4B48",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelles conditions un mariage est-il reconnu juridiquement en France ?",
+        "choices": [
+          {
+            "text": "Un contrat privé entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Mariage religieux à l'église",
+            "isCorrect": false
+          },
+          {
+            "text": "Accord verbal entre deux personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Mariage civil devant l'officier d'état civil à la mairie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier d'état civil produit les effets juridiques du mariage. Une cérémonie religieuse, un PACS ou un simple accord verbal ne remplacent pas ce mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-020",
+        "shortId": "Q-3C5727",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+        "choices": [
+          {
+            "text": "Seulement pour les opérations chirurgicales",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour tout problème de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour obtenir plus rapidement un certificat médical",
+            "isCorrect": false
+          },
+          {
+            "text": "En cas d'urgence grave ou de danger immédiat pour la vie ou la santé",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les urgences hospitalières sont destinées aux situations graves nécessitant une prise en charge immédiate. Pour un problème non urgent, il faut privilégier un médecin de ville, une maison médicale ou un service de garde."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-003",
+        "shortId": "Q-3414CE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+        "choices": [
+          {
+            "text": "Le 15",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18 (et le 112 en cas d'urgence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de situation nécessitant leur intervention. Le 112 peut également être utilisé comme numéro d'urgence européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-007",
+        "shortId": "Q-F1C7C5",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand faut-il déclarer son enfant au service d'état civil ?",
+        "choices": [
+          {
+            "text": "Dans les 24 heures suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le mois suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les 5 jours suivant la naissance",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune déclaration n'est nécessaire si l'enfant naît à l'hôpital",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La naissance doit être déclarée à l'état civil de la mairie du lieu de naissance dans les 5 jours. Cette démarche est obligatoire pour établir l'acte de naissance de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-010",
+        "shortId": "Q-2694D8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+        "choices": [
+          {
+            "text": "Attendre qu'une mairie propose spontanément un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "S'inscrire auprès de France Travail pour accéder à l'accompagnement et aux offres",
+            "isCorrect": true
+          },
+          {
+            "text": "Créer d'abord une entreprise, même si l'on cherche un emploi salarié",
+            "isCorrect": false
+          },
+          {
+            "text": "S'adresser au tribunal judiciaire pour être orienté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inscription à France Travail permet d'être accompagné dans sa recherche, d'accéder aux offres d'emploi et, selon la situation, d'ouvrir certains droits. C'est la démarche administrative de référence pour entrer dans le service public de l'emploi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-008",
+        "shortId": "Q-B87B70",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le travail non déclaré est :",
+        "choices": [
+          {
+            "text": "Permis pendant les vacances",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si c'est une petite quantité de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple irrégularité administrative sans effet pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Illégal et constitutif de travail dissimulé",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le travail non déclaré (travail au noir) est illégal. Il constitue une fraude sociale et pénale, punissable par des amendes et potentiellement par un emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-009",
+        "shortId": "Q-596D10",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire un employeur pour fixer un salaire ?",
+        "choices": [
+          {
+            "text": "Fixer librement le salaire tant qu'il y a un accord oral",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter au minimum le SMIC et les minima prévus par la convention collective applicable",
+            "isCorrect": true
+          },
+          {
+            "text": "Déterminer le salaire principalement selon l'âge du salarié",
+            "isCorrect": false
+          },
+          {
+            "text": "Pouvoir rémunérer sous le SMIC si le poste est peu qualifié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'employeur doit respecter le SMIC et, lorsqu'elle existe, la rémunération minimale prévue par la convention collective applicable. Même avec l'accord du salarié, le salaire ne peut pas être fixé en dessous de ces seuils."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-004",
+        "shortId": "Q-BFDEB2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'un numéro d'urgence ?",
+        "choices": [
+          {
+            "text": "Un numéro réservé aux formalités administratives urgentes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un numéro gratuit accessible 24h/24 pour obtenir rapidement les secours en cas d'urgence",
+            "isCorrect": true
+          },
+          {
+            "text": "Un numéro destiné à prendre un rendez-vous médical",
+            "isCorrect": false
+          },
+          {
+            "text": "Un numéro réservé au dépôt de plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un numéro d'urgence permet de joindre rapidement les secours lorsqu'une situation grave nécessite une intervention immédiate. Il est gratuit et accessible en permanence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-029",
+        "shortId": "Q-508973",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Un enfant inscrit à l'école :",
+        "choices": [
+          {
+            "text": "Doit uniquement respecter les autres élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Est libre de choisir ses cours",
+            "isCorrect": false
+          },
+          {
+            "text": "Doit respecter les règles de l'établissement et recevoir un traitement égal",
+            "isCorrect": true
+          },
+          {
+            "text": "Peut refuser certains cours pour raisons personnelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Un enfant inscrit à l'école doit respecter les règles établies. Il a aussi le droit d'être traité équitablement sans discrimination et de bénéficier d'un environnement sécurisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-015",
+        "shortId": "Q-1A9284",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge un mineur peut-il travailler ?",
+        "choices": [
+          {
+            "text": "À partir de 14 ans dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement à partir de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "En principe à partir de 16 ans, avec des exceptions dès 15 ans en apprentissage et dès 14 ans pendant certaines vacances scolaires",
+            "isCorrect": true
+          },
+          {
+            "text": "À partir de 13 ans avec l'accord des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En règle générale, un mineur peut travailler à partir de 16 ans. Des exceptions existent toutefois, notamment l'apprentissage dès 15 ans sous conditions et certains travaux légers pendant les vacances scolaires dès 14 ans."
+      }
+    }
+  ]
+}

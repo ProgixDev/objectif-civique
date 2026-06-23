@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-18",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-065",
+        "shortId": "Q-45D67A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quel est l'hymne national de la France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "L'Internationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Douce France",
+            "isCorrect": false
+          },
+          {
+            "text": "La Parisienne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Marseillaise est l'hymne national français depuis la Révolution. Elle est chantée lors des cérémonies officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-062",
+        "shortId": "Q-135E25",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À l'hôpital, on vous demande de payer avant de vous soigner pour une urgence. C'est :",
+        "choices": [
+          {
+            "text": "Normal, il faut donner une caution bancaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si vous n'avez pas de carte vitale sur vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique courante dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit, l'hôpital public doit accueillir toute urgence sans condition de paiement préalable",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'hôpital public a l'obligation légale d'accueillir et de soigner toute personne en situation d'urgence, sans exiger de paiement préalable. Ce principe garantit l'accès aux soins pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-020",
+        "shortId": "Q-E8B279",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un journal publie un article critiquant sévèrement la politique du gouvernement. Quelle valeur républicaine est exercée ?",
+        "choices": [
+          {
+            "text": "Le principe de souveraineté administrative.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte et d'opinion philosophique.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de réserve des médias d'information.",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse et d'expression, piliers du contrôle démocratique.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La presse libre est indispensable pour informer les citoyens et permettre le débat contradictoire nécessaire à la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-005",
+        "shortId": "Q-638C94",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la limite légale à la liberté d'expression en France ?",
+        "choices": [
+          {
+            "text": "L'injure publique et l'incitation à la haine raciale",
+            "isCorrect": true
+          },
+          {
+            "text": "L'expression d'un désaccord avec le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "La pratique d'une religion différente de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "La publication d'une opinion politique minoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression est fondamentale mais elle ne permet pas de porter atteinte à la dignité des personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-022",
+        "shortId": "Q-6850DD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle fondamental de l'école publique en France ?",
+        "choices": [
+          {
+            "text": "Préparer les élèves aux concours de la fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la garde des enfants pendant les horaires de travail des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Transmettre des savoirs et former des citoyens libres et éclairés",
+            "isCorrect": true
+          },
+          {
+            "text": "Enseigner les langues régionales et préserver le patrimoine local",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école de la République vise à donner à chaque enfant les outils de l'esprit critique et de l'autonomie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-006",
+        "shortId": "Q-A2AA02",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À l'entrée d'un restaurant, on vous refuse l'accès à cause de votre origine. C'est :",
+        "choices": [
+          {
+            "text": "Légal, car le propriétaire est libre de choisir ses clients",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Normal si le restaurant est complet",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si vous n'avez pas réservé à l'avance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La discrimination basée sur l'origine, la religion ou le sexe est un délit pénal en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-016",
+        "shortId": "Q-43E96C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne souhaite quitter le territoire français pour s'installer à l'étranger. L'État peut-il s'y opposer pour des raisons administratives simples ?",
+        "choices": [
+          {
+            "text": "Oui, tout citoyen doit obtenir un visa de sortie délivré par le ministère de l'Économie.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le départ définitif est interdit pour les personnes ayant reçu une éducation gratuite en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire le départ uniquement si la personne est sous le coup d'une décision judiciaire spécifique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'aller et venir est un principe constitutionnel qui inclut le droit de quitter le pays librement.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de mouvement est fondamentale. Elle ne peut être restreinte que par la justice (contrôle judiciaire) ou pour des impératifs de sécurité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-015",
+        "shortId": "Q-6C1863",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant mineur a cassé la vitre du voisin avec son ballon. Qui doit payer ?",
+        "choices": [
+          {
+            "text": "Le voisin, car il n'avait pas de vitre solide",
+            "isCorrect": false
+          },
+          {
+            "text": "L'enfant avec son argent de poche uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les parents, car ils sont civilement responsables de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie, car c'est un accident dans la rue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les parents sont responsables des dommages causés par leurs enfants mineurs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-011",
+        "shortId": "Q-83FA36",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert principalement l'impôt en France ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés par les collectivités locales",
+            "isCorrect": false
+          },
+          {
+            "text": "À constituer une réserve monétaire pour les échanges internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des anciens élus de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics et la solidarité nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'impôt permet de construire des routes, des écoles, des hôpitaux et d'assurer la sécurité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-034",
+        "shortId": "Q-6B875C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le 14 juillet commémore historiquement :",
+        "choices": [
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille et la Fête de la Fédération",
+            "isCorrect": true
+          },
+          {
+            "text": "Le sacre de l'Empereur Napoléon Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indépendance de la France vis-à-vis de l'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est la fête nationale qui célèbre l'unité et la liberté de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-024",
+        "shortId": "Q-A0559F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté permet de choisir son orientation professionnelle ?",
+        "choices": [
+          {
+            "text": "La liberté d'entreprendre et de choisir son métier",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de ne jamais travailler de sa vie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de rester dans la même entreprise 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser tout contrat de travail proposé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Chacun est libre de choisir son activité économique et son parcours professionnel dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-049",
+        "shortId": "Q-ED35A3",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'organisme qui gère l'assurance santé ?",
+        "choices": [
+          {
+            "text": "La Poste",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Éducation Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sécurité Sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins médicaux et des médicaments."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-046",
+        "shortId": "Q-24B98B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'appel d'urgence national pour l'enfance en danger ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "119",
+            "isCorrect": true
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 119 est gratuit, anonyme et ouvert 24h/24 pour protéger les enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-050",
+        "shortId": "Q-58A1A9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la date de la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Elle a été voulue par le général de Gaulle pour stabiliser les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-019",
+        "shortId": "Q-4D5947",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure féminine symbolise la République française ?",
+        "choices": [
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marianne est l'allégorie de la République, présente sur les timbres et dans les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-046",
+        "shortId": "Q-E85329",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez filmer le trottoir devant chez vous avec une caméra. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, pour protéger votre voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, on ne peut filmer que sa propriété privée",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si la caméra est petite",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous donnez les images à la police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Filmer la voie publique est interdit aux particuliers pour protéger la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-043",
+        "shortId": "Q-3C96E0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si la France est une monarchie. Que répond la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "La France est une République indivisible, laïque, démocratique et sociale.",
+            "isCorrect": true
+          },
+          {
+            "text": "La France est un Empire dirigé par un monarque élu pour 5 ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "La France est une fédération de royaumes autonomes sous l'autorité d'un roi.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution ne définit pas la forme de l'État pour rester neutre.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 1er définit la nature profonde de l'État français : c'est une République où le pouvoir n'est pas héréditaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-046",
+        "shortId": "Q-88F3AE",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme les ministres sur proposition du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Président de la République est le Chef de l'État et nomme les ministres sur proposition du Premier ministre, validant ainsi la composition du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-061",
+        "shortId": "Q-09E029",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment est désigné le maire d'une commune ?",
+        "choices": [
+          {
+            "text": "Il est nommé directement par le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est choisi par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par les députés du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par le conseil municipal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les citoyens élisent les conseillers municipaux, qui élisent ensuite le maire parmi eux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-022",
+        "shortId": "Q-66F04F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'RSA' (Revenu de Solidarité Active) ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour les retraités ayant travaillé 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prestation assurant un revenu minimum aux personnes sans ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Un prêt à taux zéro pour acheter une voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime versée uniquement aux étudiants en fin de cycle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RSA est une aide destinée à garantir un niveau minimum de revenus aux personnes disposant de peu ou pas de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-066",
+        "shortId": "Q-6D4B8B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la laïcité en France. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "L'État contrôle le contenu des prières et des cérémonies religieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État ne favorise aucune religion et garantit la liberté de croire ou de ne pas croire",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout le monde doit avoir la même religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Les fêtes religieuses ne sont pas reconnues dans le calendrier officiel français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité sépare l'État et les religions. Chacun est libre de croire, de ne pas croire ou de changer de religion."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-036",
+        "shortId": "Q-B3A46F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la charge de la gestion des lycées ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil régional s'occupe de la construction et de l'entretien des lycées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-023",
+        "shortId": "Q-335325",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise refuse de vous embaucher uniquement car vous avez 58 ans. C'est :",
+        "choices": [
+          {
+            "text": "Normal, les entreprises préfèrent les jeunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si l'entreprise est petite",
+            "isCorrect": false
+          },
+          {
+            "text": "De la discrimination liée à l'âge, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Obligatoire selon le code du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'âge ne peut pas être un motif de refus d'embauche. C'est une discrimination illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-018",
+        "shortId": "Q-CE2E05",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'taxe foncière' ?",
+        "choices": [
+          {
+            "text": "Un impôt payé par les locataires pour l'entretien des rues",
+            "isCorrect": false
+          },
+          {
+            "text": "Un impôt dû chaque année par les propriétaires d'un bien immobilier",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe sur les revenus issus de la vente de vêtements d'occasion",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour non-respect des règles de tri sélectif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La taxe foncière est un impôt local perçu par les communes, payé uniquement par les propriétaires de terrains ou d'immeubles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-013",
+        "shortId": "Q-5AACB2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employeur souhaite interdire la discussion de sujets politiques dans sa salle de pause. Est-ce conforme aux valeurs républicaines ?",
+        "choices": [
+          {
+            "text": "Non, la liberté d'opinion est un droit fondamental qui s'exerce aussi sur le lieu de travail, tant qu'elle ne perturbe pas la production.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le chef d'entreprise a tout pouvoir pour limiter la liberté de parole de ses salariés dans les locaux privés.",
+            "isCorrect": false
+          },
+          {
+            "text": "La discussion politique est interdite par le Code du travail pour éviter les conflits entre collègues.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seuls les syndicats ont le droit d'aborder des sujets politiques ou sociaux dans l'entreprise.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'opinion est garantie. L'employeur ne peut restreindre l'expression des salariés que pour des motifs de sécurité ou de bon fonctionnement du service."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-020",
+        "shortId": "Q-C72D85",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de s'exprimer librement dans la presse ou sur internet ?",
+        "choices": [
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de passage",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est une liberté fondamentale protégée par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-051",
+        "shortId": "Q-A84BA8",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez dénoncer une injustice administrative. Qui pouvez-vous contacter ?",
+        "choices": [
+          {
+            "text": "La banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Défenseur des Droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La télévision locale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Défenseur des Droits protège les citoyens face à l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-015",
+        "shortId": "Q-A8BCA4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'contrat d'engagement républicain' ?",
+        "choices": [
+          {
+            "text": "Un contrat de travail pour les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement pour les associations qui demandent des subventions publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord signé entre un propriétaire et son locataire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le document de naturalisation signé à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les associations demandant des subventions doivent s'engager à respecter les valeurs de la République (liberté, égalité, fraternité, dignité humaine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-030",
+        "shortId": "Q-2925F8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des limites à la liberté de mouvement ?",
+        "choices": [
+          {
+            "text": "L'obligation de vivre dans sa ville de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de voyager en dehors de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions de justice (ex: assignation à résidence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le refus des voisins de vous laisser sortir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'aller et venir est un droit, mais la loi peut la restreindre pour protéger la sécurité ou exécuter une peine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-001",
+        "shortId": "Q-8D0106",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui possède le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil syndical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission est de débattre et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-048",
+        "shortId": "Q-6F0B2A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel numéro sert à contacter les urgences par SMS (pour les personnes sourdes) ?",
+        "choices": [
+          {
+            "text": "112",
+            "isCorrect": false
+          },
+          {
+            "text": "115",
+            "isCorrect": false
+          },
+          {
+            "text": "114",
+            "isCorrect": true
+          },
+          {
+            "text": "118",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 114 permet aux personnes ayant des difficultés d'audition ou de parole de donner l'alerte."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-024",
+        "shortId": "Q-66984B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut se marier ?",
+        "choices": [
+          {
+            "text": "Uniquement un homme et une femme",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes de la même famille (frères et sœurs)",
+            "isCorrect": false
+          },
+          {
+            "text": "Des personnes ayant déjà un conjoint dans un autre pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Deux personnes de sexe différent ou de même sexe, âgées de 18 ans minimum",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2013, le mariage est ouvert aux couples de même sexe. La polygamie est interdite et l'âge légal est de 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-023",
+        "shortId": "Q-C0DD91",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel océan borde la côte ouest française ?",
+        "choices": [
+          {
+            "text": "L'Océan Pacifique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Indien",
+            "isCorrect": false
+          },
+          {
+            "text": "La Méditerranée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Océan Atlantique borde la côte ouest de la France. Les côtes atlantiques incluent la Bretagne, la Vendée et la Nouvelle-Aquitaine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-024",
+        "shortId": "Q-1C884F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que Paris ?",
+        "choices": [
+          {
+            "text": "La plus grande région de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La capitale de la France, grande ville sur la Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège du Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ville portuaire sur la Méditerranée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est la plus grande ville française, le siège du gouvernement et un centre culturel majeur mondial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-025",
+        "shortId": "Q-668DB7",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la capitale de la France ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est le siège du gouvernement, du Parlement, et la plus grande ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-028",
+        "shortId": "Q-45C2A9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "13 régions",
+            "isCorrect": true
+          },
+          {
+            "text": "22 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "18 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "27 régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Il y a 13 régions en France métropolitaine depuis 2016. Au total, la France compte 18 régions (13 métropolitaines et 5 d'outre-mer)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-029",
+        "shortId": "Q-8C734F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est un grand port maritime ?",
+        "choices": [
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille, Le Havre, Dunkerque, Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille, Le Havre, Dunkerque et Nantes sont des grands ports maritimes français. Marseille est le plus grand port de France en Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-030",
+        "shortId": "Q-08E6EE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la mer au sud de la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "La Mer Baltique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "La Méditerranée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Méditerranée borde le sud de la France métropolitaine. Elle sépare la France de l'Afrique du Nord et est un centre culturel et économique important."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-032",
+        "shortId": "Q-A80205",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où se situe la Corse ?",
+        "choices": [
+          {
+            "text": "En Méditerranée, île française au sud-est",
+            "isCorrect": true
+          },
+          {
+            "text": "En Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nord de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Corse est une île française en Méditerranée, située à l'est des côtes françaises et au sud de la Riviera. C'est une région de France avec un patrimoine culturel distinct."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-035",
+        "shortId": "Q-3F49C6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Charles Baudelaire ?",
+        "choices": [
+          {
+            "text": "Un historien de la Révolution de XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier réaliste de la fin du XVe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un poète français du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dramaturge symboliste du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles Baudelaire (1821-1867) est un poète majeur du XIXe siècle, auteur notamment des Fleurs du Mal. Son œuvre a fortement influencé la modernité poétique française."
+      }
+    }
+  ]
+}

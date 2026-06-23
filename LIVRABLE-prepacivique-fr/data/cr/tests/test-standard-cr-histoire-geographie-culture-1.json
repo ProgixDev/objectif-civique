@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-histoire-geographie-culture-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-histoire-standard-016",
+        "shortId": "Q-57016C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi de 1975, défendue par Simone Veil, a dépénalisé l'interruption volontaire de grossesse en France ?",
+        "choices": [
+          {
+            "text": "La loi Veil",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Neuwirth",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Roudy",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Badinter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Malgré une forte opposition, Simone Veil a porté ce texte qui a mis fin aux avortements clandestins et reconnu le droit des femmes à disposer de leur corps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-049",
+        "shortId": "Q-C970FA",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1981, quelle réforme majeure a transféré une partie des compétences de l'État aux collectivités locales ?",
+        "choices": [
+          {
+            "text": "La réforme constitutionnelle de 2003",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi MAPTAM",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lois de décentralisation (lois Defferre)",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi NOTRe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ces lois ont renforcé le pouvoir des maires et créé des assemblées élues au niveau régional et départemental."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-022",
+        "shortId": "Q-3BDBA3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1958, quelle crise politique majeure a conduit au retour du Général de Gaulle et à la naissance de la Ve République ?",
+        "choices": [
+          {
+            "text": "La crise du 13 mai à Alger",
+            "isCorrect": true
+          },
+          {
+            "text": "L'insurrection de Budapest",
+            "isCorrect": false
+          },
+          {
+            "text": "Le scandale des décorations",
+            "isCorrect": false
+          },
+          {
+            "text": "La crise du canal de Suez",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le putsch des généraux à Alger a provoqué une instabilité telle que le recours à De Gaulle est apparu comme la seule solution pour éviter une guerre civile."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-020",
+        "shortId": "Q-0A7D2C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe du XVIIIe siècle est l'auteur du 'Contrat Social', ouvrage prônant la souveraineté du peuple ?",
+        "choices": [
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": true
+          },
+          {
+            "text": "Diderot",
+            "isCorrect": false
+          },
+          {
+            "text": "D'Alembert",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Rousseau y soutient que la loi doit être l'expression de la volonté générale et que le peuple est le seul détenteur légitime du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-054",
+        "shortId": "Q-A4DA6C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe est chargé de diriger les services d'un ministère sous l'autorité du ministre ?",
+        "choices": [
+          {
+            "text": "Le cabinet ministériel",
+            "isCorrect": false
+          },
+          {
+            "text": "La commission parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secrétariat général du ministère",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le secrétaire général assure la continuité de l'action administrative par-delà les changements de ministres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-050",
+        "shortId": "Q-C10D92",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain naturaliste a décrit les mutations sociales de la fin du XIXe siècle dans la série des 'Rougon-Macquart' ?",
+        "choices": [
+          {
+            "text": "Alphonse Daudet",
+            "isCorrect": false
+          },
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Jules Vallès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Zola a appliqué une méthode expérimentale au roman pour étudier l'hérédité et l'influence du milieu sur l'individu."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-036",
+        "shortId": "Q-17DD8A",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Algérie a-t-elle accédé à l'indépendance après huit ans de guerre ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1954",
+            "isCorrect": false
+          },
+          {
+            "text": "1960",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les accords d'Évian ont mis fin au conflit et marqué la fin de l'empire colonial français au Maghreb."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-080",
+        "shortId": "Q-4DE396",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a promulgué l'Édit de Fontainebleau en 1685, révoquant l'Édit de Nantes ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIII",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La révocation de l'Édit de Nantes par Louis XIV a entraîné l'exil de nombreux protestants français et affaibli économiquement le royaume."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-088",
+        "shortId": "Q-2E2C7A",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a mené la France lors de la guerre de Sept Ans, perdant la majeure partie du premier empire colonial ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIII",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le traité de Paris de 1763 a acté la perte du Canada et de l'Inde au profit de l'Angleterre sous son règne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-091",
+        "shortId": "Q-F47AE8",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est le siège du Parlement européen, où se tiennent les sessions plénières mensuelles ?",
+        "choices": [
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Strasbourg est la capitale parlementaire officielle de l'Union européenne, symbole de paix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-064",
+        "shortId": "Q-4CCF4B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le massif montagneux le plus ancien de France, formé durant l'ère primaire et fortement érodé ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif Armoricain",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Situé à l'ouest, il se caractérise par des paysages de landes et de falaises littorales en Bretagne et Normandie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-045",
+        "shortId": "Q-F6F5C2",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel scientifique français a mis au point le vaccin contre la rage en 1885, révolutionnant la médecine préventive ?",
+        "choices": [
+          {
+            "text": "Claude Bernard",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis Pasteur",
+            "isCorrect": true
+          },
+          {
+            "text": "Robert Koch",
+            "isCorrect": false
+          },
+          {
+            "text": "Antoine Lavoisier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pasteur a fondé la microbiologie et ses travaux sur la pasteurisation ont transformé l'hygiène alimentaire mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-089",
+        "shortId": "Q-3E9C46",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe du XXe siècle, auteur de 'La Condition humaine', fut ministre de la Culture sous De Gaulle ?",
+        "choices": [
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": false
+          },
+          {
+            "text": "Raymond Aron",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis Althusser",
+            "isCorrect": false
+          },
+          {
+            "text": "André Malraux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Malraux a créé les Maisons de la Culture et lancé une vaste politique de restauration du patrimoine historique français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-017",
+        "shortId": "Q-157686",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel massif montagneux, situé au centre-sud de la France, est composé majoritairement de plateaux volcaniques et de dômes ?",
+        "choices": [
+          {
+            "text": "Le Massif Central",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Massif Central est la plus grande région volcanique d'Europe, culminant au Puy de Sancy."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-075",
+        "shortId": "Q-D0C816",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'organe chargé de voter le budget de l'État et de contrôler l'action du gouvernement ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif et examine chaque année la loi de finances."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-092",
+        "shortId": "Q-75F9EE",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain du XVIIIe siècle a coordonné l'écriture de l' 'Encyclopédie' pour diffuser les connaissances et les idées des Lumières ?",
+        "choices": [
+          {
+            "text": "D'Alembert",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Denis Diderot",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Diderot a consacré vingt ans à cette œuvre monumentale qui a défié la censure et favorisé l'esprit critique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-052",
+        "shortId": "Q-75841C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1815, quelle défaite militaire définitive a mis un terme définitif au règne de Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "La bataille de Leipzig",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Borodino",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Waterloo",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille de Trafalgar",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Vaincu par les troupes britanniques et prussiennes à Waterloo, Napoléon a définitivement abdiqué et a été exilé à Sainte-Hélène, où il est mort en 1821."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-005",
+        "shortId": "Q-04F931",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1648, mettant fin à la guerre de Trente Ans, a consacré la prépondérance française en Europe et le morcellement de l'Empire germanique ?",
+        "choices": [
+          {
+            "text": "Le traité de Westphalie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité des Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Utrecht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Nimègue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les traités de Westphalie ont redessiné la carte de l'Europe, accordant à la France des territoires en Alsace et en Lorraine, et affaiblissant durablement les Habsbourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-006",
+        "shortId": "Q-8B0849",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain réaliste a entrepris de peindre la société française du XIXe siècle dans une œuvre monumentale intitulée 'La Comédie humaine' ?",
+        "choices": [
+          {
+            "text": "Honoré de Balzac",
+            "isCorrect": true
+          },
+          {
+            "text": "Guy de Maupassant",
+            "isCorrect": false
+          },
+          {
+            "text": "Stendhal",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Balzac a classé ses romans en 'Études de mœurs', 'Études philosophiques' et 'Études analytiques' pour analyser de manière quasi scientifique les mécanismes sociaux de son temps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-028",
+        "shortId": "Q-FB6F0A",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi de 1901 garantit la liberté pour toute personne de créer un groupement de personnes sans but lucratif ?",
+        "choices": [
+          {
+            "text": "La loi Le Chapelier",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 1er juillet 1901 relative au contrat d'association",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur les syndicats",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur les coopératives",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cette loi est fondamentale pour la vitalité de la vie civile en France, permettant le développement de milliers d'associations sportives, culturelles ou caritatives."
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "level": "CSP",
+  "label": "CSP - Carte de Sejour Pluriannuelle",
+  "uniqueQuestions": 658,
+  "files": {
+    "allUnique": "csp/questions.json",
+    "bySection": "sections/",
+    "trainingTests": "tests/",
+    "mockExams": "examens/"
+  },
+  "sections": [
+    {
+      "section": "principes-valeurs",
+      "label": "Principes et valeurs de la Republique",
+      "file": "csp/sections/principes-valeurs.json",
+      "count": 177
+    },
+    {
+      "section": "systeme-institutionnel",
+      "label": "Systeme institutionnel et politique",
+      "file": "csp/sections/systeme-institutionnel.json",
+      "count": 113
+    },
+    {
+      "section": "histoire-geographie-culture",
+      "label": "Histoire, geographie et culture",
+      "file": "csp/sections/histoire-geographie-culture.json",
+      "count": 107
+    },
+    {
+      "section": "droits-et-devoirs",
+      "label": "Droits et devoirs",
+      "file": "csp/sections/droits-et-devoirs.json",
+      "count": 170
+    },
+    {
+      "section": "vivre-en-france",
+      "label": "Vivre dans la societe francaise",
+      "file": "csp/sections/vivre-en-france.json",
+      "count": 91
+    }
+  ],
+  "trainingTests": [
+    {
+      "file": "csp/tests/test-official-csp-principes-valeurs-1.json",
+      "slug": "test-official-csp-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-principes-valeurs-2.json",
+      "slug": "test-official-csp-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 17
+    },
+    {
+      "file": "csp/tests/test-situational-csp-principes-valeurs-1.json",
+      "slug": "test-situational-csp-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-principes-valeurs-2.json",
+      "slug": "test-situational-csp-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-principes-valeurs-3.json",
+      "slug": "test-situational-csp-principes-valeurs-3",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-principes-valeurs-4.json",
+      "slug": "test-situational-csp-principes-valeurs-4",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-principes-valeurs-1.json",
+      "slug": "test-standard-csp-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-principes-valeurs-2.json",
+      "slug": "test-standard-csp-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-principes-valeurs-3.json",
+      "slug": "test-standard-csp-principes-valeurs-3",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-systeme-institutionnel-1.json",
+      "slug": "test-official-csp-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-systeme-institutionnel-2.json",
+      "slug": "test-official-csp-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 26
+    },
+    {
+      "file": "csp/tests/test-standard-csp-systeme-institutionnel-1.json",
+      "slug": "test-standard-csp-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-systeme-institutionnel-2.json",
+      "slug": "test-standard-csp-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-systeme-institutionnel-3.json",
+      "slug": "test-standard-csp-systeme-institutionnel-3",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 27
+    },
+    {
+      "file": "csp/tests/test-official-csp-histoire-geographie-culture-1.json",
+      "slug": "test-official-csp-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-histoire-geographie-culture-2.json",
+      "slug": "test-official-csp-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 27
+    },
+    {
+      "file": "csp/tests/test-standard-csp-histoire-geographie-culture-1.json",
+      "slug": "test-standard-csp-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-histoire-geographie-culture-2.json",
+      "slug": "test-standard-csp-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-histoire-geographie-culture-3.json",
+      "slug": "test-standard-csp-histoire-geographie-culture-3",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-droits-et-devoirs-1.json",
+      "slug": "test-official-csp-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-droits-et-devoirs-2.json",
+      "slug": "test-official-csp-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 10
+    },
+    {
+      "file": "csp/tests/test-situational-csp-droits-et-devoirs-1.json",
+      "slug": "test-situational-csp-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-droits-et-devoirs-2.json",
+      "slug": "test-situational-csp-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-droits-et-devoirs-3.json",
+      "slug": "test-situational-csp-droits-et-devoirs-3",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-situational-csp-droits-et-devoirs-4.json",
+      "slug": "test-situational-csp-droits-et-devoirs-4",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-droits-et-devoirs-1.json",
+      "slug": "test-standard-csp-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-droits-et-devoirs-2.json",
+      "slug": "test-standard-csp-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-droits-et-devoirs-3.json",
+      "slug": "test-standard-csp-droits-et-devoirs-3",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-official-csp-vivre-en-france-1.json",
+      "slug": "test-official-csp-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 17
+    },
+    {
+      "file": "csp/tests/test-official-csp-vivre-en-france-2.json",
+      "slug": "test-official-csp-vivre-en-france-2",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 14
+    },
+    {
+      "file": "csp/tests/test-standard-csp-vivre-en-france-1.json",
+      "slug": "test-standard-csp-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-vivre-en-france-2.json",
+      "slug": "test-standard-csp-vivre-en-france-2",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "csp/tests/test-standard-csp-vivre-en-france-3.json",
+      "slug": "test-standard-csp-vivre-en-france-3",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    }
+  ],
+  "mockExams": [
+    {
+      "file": "csp/examens/exam-csp-official-1.json",
+      "slug": "exam-csp-official-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-2.json",
+      "slug": "exam-csp-official-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-3.json",
+      "slug": "exam-csp-official-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-4.json",
+      "slug": "exam-csp-official-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-5.json",
+      "slug": "exam-csp-official-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-6.json",
+      "slug": "exam-csp-official-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-7.json",
+      "slug": "exam-csp-official-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-official-8.json",
+      "slug": "exam-csp-official-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-1.json",
+      "slug": "exam-csp-standard-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-2.json",
+      "slug": "exam-csp-standard-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-3.json",
+      "slug": "exam-csp-standard-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-4.json",
+      "slug": "exam-csp-standard-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-5.json",
+      "slug": "exam-csp-standard-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-6.json",
+      "slug": "exam-csp-standard-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-7.json",
+      "slug": "exam-csp-standard-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-8.json",
+      "slug": "exam-csp-standard-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-9.json",
+      "slug": "exam-csp-standard-9",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-10.json",
+      "slug": "exam-csp-standard-10",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-11.json",
+      "slug": "exam-csp-standard-11",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-12.json",
+      "slug": "exam-csp-standard-12",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-13.json",
+      "slug": "exam-csp-standard-13",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-14.json",
+      "slug": "exam-csp-standard-14",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-15.json",
+      "slug": "exam-csp-standard-15",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-16.json",
+      "slug": "exam-csp-standard-16",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-17.json",
+      "slug": "exam-csp-standard-17",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "csp/examens/exam-csp-standard-18.json",
+      "slug": "exam-csp-standard-18",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    }
+  ]
+}

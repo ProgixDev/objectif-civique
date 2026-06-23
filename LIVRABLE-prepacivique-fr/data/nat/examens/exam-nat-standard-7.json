@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-7",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-020",
+        "shortId": "Q-D67388",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous recevez une convocation pour être juré d'assises. Vous ne voulez pas y aller car cela vous ennuie. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien, c'est une invitation facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende importante, car c'est un devoir civique obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "D'être radié des listes électorales",
+            "isCorrect": false
+          },
+          {
+            "text": "Il suffit de demander à être remplacé par son conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La participation au jury d'assises est un devoir citoyen. L'absence sans motif légitime (maladie, impératif grave) est sanctionnée par une amende de 3 750 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-020",
+        "shortId": "Q-FDB54E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle routier standard (vérification des papiers), la police peut-elle exiger l'ouverture de votre coffre ?",
+        "choices": [
+          {
+            "text": "Oui, c'est un pouvoir discrétionnaire de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de flagrant délit ou sur réquisition du procureur de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le véhicule est utilitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un douanier a ce pouvoir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En dehors des douanes, la police ne peut fouiller un véhicule (visite) qu'en cas de flagrant délit, d'enquête préliminaire avec accord du conducteur, ou sur réquisition écrite du procureur dans un périmètre et temps donnés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-009",
+        "shortId": "Q-4270A1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment la devise « Liberté, Égalité, Fraternité » est-elle protégée ?",
+        "choices": [
+          {
+            "text": "Par l'UNESCO",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle n'est pas protégée légalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'article 2 de la Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Par la loi de 1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution définit les symboles nationaux, dont la devise de la République. Elle figure sur les frontons des mairies et écoles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-040",
+        "shortId": "Q-48C36E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de vote est accordé aux citoyens français majeurs. Pour les élections municipales, qui d'autre peut voter ?",
+        "choices": [
+          {
+            "text": "Tous les résidents étrangers en situation régulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes payant des impôts locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne d'autre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les citoyens de l'Union européenne résidant en France peuvent voter et être élus conseillers municipaux lors des élections municipales (et européennes), mais ne peuvent pas être Maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-048",
+        "shortId": "Q-754007",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent accompagnateur d'une sortie scolaire porte un signe religieux visible. L'école publique peut-elle lui interdire de participer ?",
+        "choices": [
+          {
+            "text": "Oui, car il représente l'école pendant la sortie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les parents accompagnateurs ne sont pas soumis à l'obligation de neutralité des agents publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la loi de 2004 s'applique à tous les adultes dans l'enceinte scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il doit cacher son signe religieux pendant la sortie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'avis du Conseil d'État, les parents accompagnateurs ne sont pas des agents du service public et ne sont donc pas soumis à l'obligation de neutralité religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-071",
+        "shortId": "Q-49600E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes sans emploi et n'avez aucune ressource. Quelle aide de dernier recours pouvez-vous demander ?",
+        "choices": [
+          {
+            "text": "L'allocation chômage (ARE) dès le premier jour sans emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Revenu de Solidarité Active (RSA) si vous avez plus de 25 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Allocation de Solidarité Spécifique (ASS) pour les premiers demandeurs d'emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le minimum vieillesse (ASPA) quel que soit votre âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RSA est le minimum social de dernier recours pour les personnes de plus de 25 ans (ou avec enfant à charge) sans ressources suffisantes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-027",
+        "shortId": "Q-29B1EB",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Déclaration des Droits de l'Homme et du Citoyen (DDHC) a été adoptée en :",
+        "choices": [
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": true
+          },
+          {
+            "text": "1848",
+            "isCorrect": false
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Adoptée le 26 août 1789, elle pose les principes universels de liberté et d'égalité qui fondent la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-019",
+        "shortId": "Q-A6F127",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle juridiction est spécialisée pour juger les délits commis par des mineurs ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de Police",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'Assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal pour Enfants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de Prud'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Tribunal pour Enfants juge les délits (vols, violences) commis par les mineurs. Il est présidé par un Juge des Enfants. L'audience n'est pas publique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-022",
+        "shortId": "Q-55669E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La ville d'Avignon est mondialement connue pour :",
+        "choices": [
+          {
+            "text": "Son festival de Cinéma",
+            "isCorrect": false
+          },
+          {
+            "text": "Son festival de Théâtre",
+            "isCorrect": true
+          },
+          {
+            "text": "Ses arènes romaines antiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Sa cathédrale gothique classée à l'UNESCO",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Festival d'Avignon, fondé par Jean Vilar en 1947, est l'une des plus importantes manifestations internationales du spectacle vivant contemporain."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-031",
+        "shortId": "Q-7F99C1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a fondé l'école publique, gratuite, laïque et obligatoire dans les années 1880 ?",
+        "choices": [
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Jules Ferry",
+            "isCorrect": true
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les lois Jules Ferry (1881-1882) sont le socle de l'instruction républicaine, permettant à tous les enfants d'accéder à l'éducation sans influence religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-028",
+        "shortId": "Q-522874",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel dispositif garantit la liberté et la sincérité du vote dans les bureaux de vote ?",
+        "choices": [
+          {
+            "text": "L'isoloir",
+            "isCorrect": true
+          },
+          {
+            "text": "La présence de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote électronique obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'urne transparente uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le passage par l'isoloir est obligatoire pour garantir le caractère secret du vote et protéger l'électeur de toute pression extérieure."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-013",
+        "shortId": "Q-EE0D8C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe des Lumières est célèbre pour son combat contre l'intolérance religieuse et l'affaire Calas ?",
+        "choices": [
+          {
+            "text": "Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Descartes",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voltaire (XVIIIe siècle) a défendu la liberté de penser et la tolérance religieuse. Il est une figure majeure de l'esprit critique français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-034",
+        "shortId": "Q-3D2A3E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans votre quartier, une épicerie emploie un enfant de 12 ans tous les soirs après l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est autorisé si les parents sont d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour une entreprise familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal s'il est payé",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est interdit, le travail est interdit avant 16 ans (sauf dérogations strictes et encadrées)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'instruction est obligatoire jusqu'à 16 ans. Le travail des mineurs de moins de 16 ans est interdit, sauf exceptions très limitées (stages, spectacles, vacances scolaires) et très encadrées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-026",
+        "shortId": "Q-6666C2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quelle institution détient le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement et les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil économique et social",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission principale est de débattre, d'amender et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-064",
+        "shortId": "Q-CC2E7C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre fils de 16 ans n'a pas encore effectué son recensement citoyen. Quelles conséquences cela peut-il avoir ?",
+        "choices": [
+          {
+            "text": "Une amende forfaitaire sera automatiquement adressée au domicile familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne pourra pas passer les examens et concours publics (permis, bac, concours) tant qu'il n'est pas régularisé",
+            "isCorrect": true
+          },
+          {
+            "text": "Son inscription à la Sécurité sociale sera suspendue",
+            "isCorrect": false
+          },
+          {
+            "text": "Il sera convoqué devant le tribunal pour mineurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recensement citoyen est obligatoire à 16 ans. Sans attestation de recensement puis de JDC, le jeune ne peut pas s'inscrire aux examens et concours soumis au contrôle de l'autorité publique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-044",
+        "shortId": "Q-FEE28D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "« Je pense, donc je suis » est une célèbre citation du philosophe :",
+        "choices": [
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          },
+          {
+            "text": "René Descartes",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Michel de Montaigne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Descartes (XVIIe siècle) est le fondateur du rationalisme moderne. Sa méthode repose sur le doute et la raison."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-032",
+        "shortId": "Q-0ABA30",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle devise figure sur les pièces de monnaie françaises ?",
+        "choices": [
+          {
+            "text": "Dieu et mon Droit",
+            "isCorrect": false
+          },
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise de la République figure sur les pièces de monnaie, les timbres et les édifices publics, rappelant les valeurs communes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-033",
+        "shortId": "Q-ED36BD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le représentant direct de l'État et du Gouvernement dans un département ?",
+        "choices": [
+          {
+            "text": "Le Président du conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire du chef-lieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député de la circonscription",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet est nommé par décret pour appliquer les politiques nationales à l'échelle locale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-045",
+        "shortId": "Q-DAE980",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un préjudice causé par un produit défectueux. Contre qui pouvez-vous agir en responsabilité ?",
+        "choices": [
+          {
+            "text": "Contre le producteur, l'importateur ou le distributeur ayant mis le produit sur le marché",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement contre le fabricant du produit",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement contre le vendeur final",
+            "isCorrect": false
+          },
+          {
+            "text": "Contre l'organisme de certification du produit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La responsabilité du fait des produits défectueux permet d'agir contre tout professionnel de la chaîne de distribution (producteur, importateur, fournisseur)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-007",
+        "shortId": "Q-BD9906",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1789 symbolise la fin de l'arbitraire royal et le début de la Révolution ?",
+        "choices": [
+          {
+            "text": "Le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille (14 juillet)",
+            "isCorrect": true
+          },
+          {
+            "text": "La déclaration de guerre à l'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La prise de cette prison royale par le peuple parisien marque symboliquement l'effondrement du pouvoir absolu du Roi. C'est l'origine de la Fête nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-059",
+        "shortId": "Q-D5FB1E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une commune installe une crèche de Noël dans le hall de la mairie. Est-ce conforme à la laïcité ?",
+        "choices": [
+          {
+            "text": "C'est toujours interdit car c'est un symbole religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est possible si elle présente un caractère culturel, artistique ou festif sans signification religieuse prépondérante",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est obligatoire dans les communes de tradition chrétienne",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend uniquement de la décision du maire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon la jurisprudence du Conseil d'État (2016), une crèche peut être installée dans un bâtiment public si elle présente un caractère culturel ou festif, compte tenu du contexte local."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-050",
+        "shortId": "Q-78F369",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui assure la présidence des débats au sein de l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen des députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Président de l'Assemblée nationale organise les travaux législatifs et dirige les séances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-086",
+        "shortId": "Q-0440C6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime de violences psychologiques dans votre couple. Ce type de violence est-il reconnu par la loi ?",
+        "choices": [
+          {
+            "text": "Non, seules les violences physiques sont punissables",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les violences psychologiques au sein du couple sont un délit depuis 2010",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si elles durent plus d'un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut d'abord une reconnaissance médicale du préjudice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, les violences psychologiques au sein du couple (répétées, ayant pour objet de dégrader les conditions de vie) sont un délit puni de 3 ans d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-008",
+        "shortId": "Q-3FE1A7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction actuelle du Panthéon à Paris ?",
+        "choices": [
+          {
+            "text": "Une église pour les mariages royaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un musée d'art moderne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le siège du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une nécropole laïque honorant les grands personnages de la Nation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Sur son fronton est inscrit : « Aux grands hommes, la patrie reconnaissante ». Voltaire, Rousseau, Victor Hugo, Marie Curie ou encore Simone Veil y reposent."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-010",
+        "shortId": "Q-F8BFC8",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le « Pass Culture » est un dispositif destiné aux jeunes pour :",
+        "choices": [
+          {
+            "text": "Voyager gratuitement en train",
+            "isCorrect": false
+          },
+          {
+            "text": "Financer des activités culturelles (livres, concerts, cinéma) via une application dédiée",
+            "isCorrect": true
+          },
+          {
+            "text": "Payer leur permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "S'inscrire à l'université sans frais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Attribué aux jeunes de 15 à 18 ans, ce crédit (jusqu'à 300€ à 18 ans) permet d'acheter des biens et services culturels sur une application géolocalisée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-024",
+        "shortId": "Q-546264",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors de l'inscription à la cantine scolaire, la mairie demande de prouver que vous ne mangez pas de porc. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, pour éviter le gaspillage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'administration ne peut pas constituer de fichiers basés sur les pratiques religieuses",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, c'est une mesure de laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du règlement de la cantine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Recenser les élèves selon leur régime alimentaire confessionnel (sans porc, halal, etc.) est interdit car cela revient à constituer un fichier ethnique ou religieux, contraire à la loi Informatique et Libertés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-108",
+        "shortId": "Q-56667E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Obéir sans discuter aux ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les membres du cabinet ministériel",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler l'action du Gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger les décrets d'application",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement surveille l'activité du Gouvernement par des questions et des commissions d'enquête."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-020",
+        "shortId": "Q-829C8B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un salarié estime que sa situation de travail présente un danger grave et imminent. Quel droit peut-il exercer ?",
+        "choices": [
+          {
+            "text": "Le droit de démissionner sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de réserve",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de retrait permet au salarié de cesser le travail s'il a un motif raisonnable de penser qu'il court un danger grave et imminent pour sa vie ou sa santé. Aucune sanction ne peut être prise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-019",
+        "shortId": "Q-3A1185",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme de lettres du XIXe siècle a pris un pseudonyme masculin pour écrire librement ?",
+        "choices": [
+          {
+            "text": "Colette",
+            "isCorrect": false
+          },
+          {
+            "text": "Simone de Beauvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "George Sand",
+            "isCorrect": true
+          },
+          {
+            "text": "Marie de Sévigné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "George Sand était une romancière prolifique et engagée, figure de l'émancipation féminine et du romantisme."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-016",
+        "shortId": "Q-86FAEF",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, l'instruction (école ou maison) est obligatoire pour les enfants âgés de :",
+        "choices": [
+          {
+            "text": "6 à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "3 à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 à 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire dès 3 ans. De 16 à 18 ans, il existe une « obligation de formation » (scolarité, apprentissage, emploi ou service civique)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-030",
+        "shortId": "Q-F7F4CE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi le coq est-il un symbole de la France ?",
+        "choices": [
+          {
+            "text": "Parce que c'était l'animal préféré de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "À cause d'un jeu de mots latin entre « Gallus » (Gaulois) et « gallus » (coq)",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce que la France est un pays agricole",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce qu'il représente le caractère combatif des Français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Bien que non officiel (contrairement au drapeau), le coq est devenu un symbole populaire de la France, très utilisé dans le sport."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-111",
+        "shortId": "Q-A7945C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la mission du Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Veiller au respect des droits et libertés par les administrations",
+            "isCorrect": true
+          },
+          {
+            "text": "Défendre uniquement les membres du Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Remplacer les avocats lors des procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Écrire de nouvelles lois au Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une autorité constitutionnelle indépendante chargée de veiller au respect des droits et libertés par les administrations. Tout citoyen peut le saisir gratuitement en cas de litige avec un service public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-037",
+        "shortId": "Q-A71025",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un témoin cité à comparaître devant un tribunal peut-il refuser de venir ?",
+        "choices": [
+          {
+            "text": "Oui, s'il invoque le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il justifie d'un empêchement professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il est obligé de venir, de prêter serment et de dire la vérité",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, à condition de fournir une déclaration écrite à la place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage est un devoir civique. Si le témoin ne se présente pas, la force publique peut l'y contraindre. Le faux témoignage est un délit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-045",
+        "shortId": "Q-216205",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La ville de Lyon est réputée pour sa gastronomie et pour sa fête annuelle :",
+        "choices": [
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête des Lumières",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Carnaval de Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Braderie de Lille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Chaque année autour du 8 décembre, Lyon s'illumine. Cette tradition religieuse (remerciement à la Vierge Marie) est devenue un grand événement artistique attirant des millions de visiteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-008",
+        "shortId": "Q-2F4143",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le site « FranceConnect » ?",
+        "choices": [
+          {
+            "text": "À stocker ses documents administratifs de manière sécurisée",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder à la plupart des services publics en ligne avec un identifiant unique (Impôts, Ameli, ANTS)",
+            "isCorrect": true
+          },
+          {
+            "text": "À trouver un emploi en France",
+            "isCorrect": false
+          },
+          {
+            "text": "À contacter l'ambassade de France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "FranceConnect simplifie les démarches en permettant d'utiliser un compte existant (Impôts, Ameli, La Poste) pour se connecter à des centaines de services administratifs sans recréer de mot de passe."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-053",
+        "shortId": "Q-AFAC5A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise refuse de servir un client en raison de sa couleur de peau. Cette discrimination est-elle légale dans le secteur privé ?",
+        "choices": [
+          {
+            "text": "Oui, une entreprise privée choisit librement ses clients",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la discrimination fondée sur l'origine est interdite tant dans le secteur public que privé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si l'entreprise invoque des raisons commerciales",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais la sanction ne s'applique qu'aux grandes entreprises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe d'égalité interdit toute discrimination fondée sur l'origine ou la couleur de peau, y compris dans les relations commerciales privées. C'est un délit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-094",
+        "shortId": "Q-50F4A3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces documents est un titre d'identité officiel délivré par l'État français ?",
+        "choices": [
+          {
+            "text": "La carte nationale d'identité",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte de transport",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La CNI et le passeport sont les principaux titres certifiant l'identité et la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-002",
+        "shortId": "Q-074655",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre employeur ne verse pas votre salaire. Avant de saisir le fond du Conseil de prud'hommes, quelle procédure d'urgence pouvez-vous engager ?",
+        "choices": [
+          {
+            "text": "Le dépôt de plainte pour vol auprès du commissariat",
+            "isCorrect": false
+          },
+          {
+            "text": "La saisie du référé prud'homal pour obtenir une ordonnance de paiement",
+            "isCorrect": true
+          },
+          {
+            "text": "La demande d'intervention de l'inspection du travail pour saisie sur compte",
+            "isCorrect": false
+          },
+          {
+            "text": "La rupture conventionnelle unilatérale immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le référé prud'homal est une procédure d'urgence qui permet, lorsque l'obligation n'est pas sérieusement contestable (comme un salaire impayé), d'obtenir rapidement une condamnation de l'employeur à payer."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-028",
+        "shortId": "Q-5BE9DD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Situé à la pointe de la Bretagne, quel département possède le plus de côtes maritimes ?",
+        "choices": [
+          {
+            "text": "La Gironde",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Finistère",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Calvados",
+            "isCorrect": false
+          },
+          {
+            "text": "La Vendée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Finistère (Finis Terrae, « fin de la terre ») est le département le plus à l'ouest de la France métropolitaine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-017",
+        "shortId": "Q-048C8C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Si vous n'avez pas de médecin traitant déclaré, quelle est la conséquence financière ?",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas être soigné",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous êtes moins bien remboursé par la Sécurité sociale (30% au lieu de 70%)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez payer une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médecin peut refuser de vous voir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ne pas déclarer de médecin traitant vous place « hors parcours de soins coordonnés ». Le remboursement de la consultation tombe alors à 30% de la base tarifaire."
+      }
+    }
+  ]
+}

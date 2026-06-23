@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-systeme-institutionnel-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-standard-056",
+        "shortId": "Q-0274DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution représente l'intérêt général de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'UE",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Commission européenne est l'institution qui représente et défend l'intérêt général de l'Union européenne dans son ensemble, indépendamment des intérêts nationaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-061",
+        "shortId": "Q-5032FC",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui vote les lois européennes ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen ; Le Conseil de l'Union européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune de ces réponses n'est correcte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les lois européennes sont votées conjointement par le Parlement européen (élus des citoyens) et le Conseil de l'Union européenne (ministres des États). C'est la codécision."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-031",
+        "shortId": "Q-6323D8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence « partagée » entre les collectivités ?",
+        "choices": [
+          {
+            "text": "Une compétence où la commune, le département et la région peuvent intervenir ensemble (ex: culture, sport, tourisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une compétence gérée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence interdite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les compétences partagées (culture, sport, tourisme, éducation populaire) permettent à chaque niveau de collectivité (commune, département, région) d'intervenir selon ses priorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-072",
+        "shortId": "Q-D79503",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Londres",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Francfort (Allemagne)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le siège de la Banque centrale européenne est situé à Francfort-sur-le-Main, en Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-057",
+        "shortId": "Q-24D454",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de commissaires européens ?",
+        "choices": [
+          {
+            "text": "720",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "27 (un par État membre)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il y a un commissaire européen par État membre, soit 27 commissaires. Ils forment le « Collège » et sont tenus à l'indépendance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-005",
+        "shortId": "Q-6603C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés ?",
+        "choices": [
+          {
+            "text": "Par les grands électeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommés par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par les citoyens français lors des élections législatives. Le scrutin est majoritaire à deux tours."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-048",
+        "shortId": "Q-AF3153",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Martinique est-elle une région française ?",
+        "choices": [
+          {
+            "text": "Non, c'est un territoire d'outre-mer (TOM)",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est une région d'outre-mer",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un département mais pas une région",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle a un statut d'autonomie renforcée hors UE",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Martinique est une Collectivité Territoriale Unique qui exerce à la fois les compétences d'un département et d'une région d'outre-mer (DROM). Elle fait pleinement partie de l'UE (région ultrapériphérique)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-075",
+        "shortId": "Q-653306",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être candidat aux élections européennes en France si on est Allemand habitant en France ?",
+        "choices": [
+          {
+            "text": "Oui, sous conditions (résidence, âge, non privé de droits)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, il faut être Français",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut se présenter en Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement comme remplaçant",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, tout citoyen de l'Union résidant en France peut être candidat aux élections européennes en France, aux mêmes conditions que les Français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-093",
+        "shortId": "Q-B22F65",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le 'gouvernement' de l'Europe ?",
+        "choices": [
+          {
+            "text": "L'ONU",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce terme est impropre, mais la Commission en a certaines fonctions exécutives",
+            "isCorrect": true
+          },
+          {
+            "text": "La France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il n'y a pas de gouvernement unique. La fonction exécutive est assurée principalement par la Commission, mais sous l'impulsion politique du Conseil européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-050",
+        "shortId": "Q-071708",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'Autriche, la Finlande et la Suède ont rejoint l'UE en quelle année ?",
+        "choices": [
+          {
+            "text": "1986",
+            "isCorrect": false
+          },
+          {
+            "text": "2004",
+            "isCorrect": false
+          },
+          {
+            "text": "1995",
+            "isCorrect": true
+          },
+          {
+            "text": "1973",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Autriche, la Suède et la Finlande ont rejoint l'UE en 1995. C'est « l'élargissement aux neutres » après la Guerre froide."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-032",
+        "shortId": "Q-03FFFB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de « libre administration » des collectivités ?",
+        "choices": [
+          {
+            "text": "Les collectivités peuvent refuser d'appliquer les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités s'administrent librement par des conseils élus",
+            "isCorrect": true
+          },
+          {
+            "text": "Les collectivités déterminent elles-mêmes leurs compétences sans la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités peuvent créer leurs propres impôts sans limites",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe constitutionnel de libre administration signifie que les collectivités s'autogèrent via des conseils élus, sans tutelle directe de l'État sur leurs décisions (sauf contrôle de légalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-040",
+        "shortId": "Q-4167DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a officiellement créé l'Union européenne en 1992 ?",
+        "choices": [
+          {
+            "text": "Le traité d'Amsterdam",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le traité de Maastricht, signé en 1992, a créé officiellement l'Union européenne, ajoutant une dimension politique et monétaire à la communauté économique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-087",
+        "shortId": "Q-F42846",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La France a-t-elle plus de députés que l'Allemagne au Parlement européen ?",
+        "choices": [
+          {
+            "text": "Non, l'Allemagne en a plus car elle est plus peuplée",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car la France est fondatrice",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est le même nombre",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela change chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Non, les sièges sont répartis selon la population (digressivement). L'Allemagne, pays le plus peuplé, a le plus grand nombre de députés (96)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-011",
+        "shortId": "Q-551AA5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits civiques et politiques liés au citoyen ?",
+        "choices": [
+          {
+            "text": "Droit d'être éligible (se présenter aux élections) ; Droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Droit de ne pas payer d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de servir dans l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de conduire sans permis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté française confère le droit de vote et d'éligibilité (se faire élire). Elle implique aussi des devoirs comme le respect de la loi et la participation à la défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-089",
+        "shortId": "Q-76B474",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Suisse est-elle membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Oui",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement la partie francophone",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle va le devenir bientôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Non",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Non, la Suisse n'est pas membre de l'UE. Elle a rejeté l'adhésion par référendum mais participe au marché unique via des accords bilatéraux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-027",
+        "shortId": "Q-9E6046",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une collectivité à statut particulier ?",
+        "choices": [
+          {
+            "text": "Une collectivité qui a des règles spécifiques adaptées à sa situation (ex: Paris, Corse)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une zone économique spéciale",
+            "isCorrect": false
+          },
+          {
+            "text": "Un territoire géré directement par l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une collectivité dirigée par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les collectivités à statut particulier (comme Paris, la Corse ou la Métropole de Lyon) ont une organisation spécifique adaptée à leurs besoins locaux, dérogeant au droit commun."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-039",
+        "shortId": "Q-4E363E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la CEE (Communauté économique européenne) en 1957 ?",
+        "choices": [
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le traité de Rome, signé le 25 mars 1957, a créé la Communauté Économique Européenne (CEE) pour établir un marché commun généralisé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-094",
+        "shortId": "Q-30B83C",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Parlement européen peut-il censurer la Commission ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est l'inverse",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, par une motion de censure",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, le Parlement européen peut voter une motion de censure qui oblige la Commission à démissionner collectivement. C'est son pouvoir de contrôle ultime."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-013",
+        "shortId": "Q-8655CB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la pluralité des partis politiques garantit ?",
+        "choices": [
+          {
+            "text": "La stabilité gouvernementale absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "La victoire automatique du parti majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction des coalitions",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression des opinions politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le pluralisme politique garantit la libre compétition entre plusieurs partis et idées. La liberté d'expression des opinions politiques, c'est une condition essentielle de la démocratie qui permet aux citoyens d'avoir un véritable choix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-036",
+        "shortId": "Q-981BE4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des collèges ?",
+        "choices": [
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le département a la responsabilité des collèges. Il construit et entretient les bâtiments, et gère la restauration scolaire et le personnel technique (ATTEE)."
+      }
+    }
+  ]
+}

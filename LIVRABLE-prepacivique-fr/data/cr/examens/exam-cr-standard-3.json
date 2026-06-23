@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-3",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-043",
+        "shortId": "Q-AFAEC0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « Fraternité » a pour traduction concrète dans la loi :",
+        "choices": [
+          {
+            "text": "Le droit de vote à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de porter secours (non-assistance à personne en danger)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction des syndicats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix d'une religion d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité s'exprime par le devoir d'aider une personne dont la vie est menacée sans prendre de risque pour soi-même."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-026",
+        "shortId": "Q-DA17D3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le service national d'accueil téléphonique pour l'enfance en danger, accessible via le numéro 119, présente la caractéristique suivante :",
+        "choices": [
+          {
+            "text": "Il est facturé au prix d'un appel local",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est gratuit et n'apparaît pas sur les factures téléphoniques",
+            "isCorrect": true
+          },
+          {
+            "text": "Il impose de décliner son identité complète dès le début de l'appel",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est réservé exclusivement aux professionnels de santé et de l'éducation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 119 est gratuit, disponible 24h/24 et 7j/7. Pour protéger l'appelant (notamment l'enfant), l'appel est confidentiel et invisible sur les factures détaillées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-023",
+        "shortId": "Q-BD5A93",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la condition principale pour qu'un citoyen puisse exercer son droit de vote ?",
+        "choices": [
+          {
+            "text": "Être propriétaire de son logement principal depuis au moins deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir payé ses impôts sur le revenu l'année précédant le scrutin",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les listes électorales et jouir de ses droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué son service militaire ou national complet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel, égal et secret. Pour voter, il faut être majeur, de nationalité française et ne pas être frappé d'une peine d'inéligibilité ou de privation de droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-010",
+        "shortId": "Q-7DC41E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : La banque vous verse 500 € par erreur. Devez-vous les rendre ?",
+        "choices": [
+          {
+            "text": "Non, le délai de prescription bancaire est de 24h",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement la moitié (partage de responsabilité)",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si vous les avez déjà dépensés de bonne foi",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est un « paiement de l'indu » que vous devez rembourser légalement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En droit français, celui qui reçoit par erreur une somme qui ne lui est pas due doit la restituer (article 1302-1 du Code civil). Garder l'argent peut entraîner des poursuites."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-049",
+        "shortId": "Q-8C68D6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de parité en politique impose aux partis lors de scrutins de liste :",
+        "choices": [
+          {
+            "text": "De présenter un nombre égal de candidates femmes et de candidats hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "D'assurer une représentation équitable de toutes les tranches d'âge de la population",
+            "isCorrect": false
+          },
+          {
+            "text": "De disposer d'un budget de campagne strictement identique pour chaque candidat",
+            "isCorrect": false
+          },
+          {
+            "text": "De se concentrer exclusivement sur les thématiques liées à la politique familiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la révision constitutionnelle de 1999, la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux pour corriger la sous-représentation historique des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-001",
+        "shortId": "Q-F9DFA5",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une convocation pour témoigner lors d'un procès. Votre employeur refuse votre absence. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "L'employeur peut refuser si l'activité de l'entreprise est menacée",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez poser un jour de congé payé pour y aller",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur est obligé de vous libérer pour témoigner, c'est un devoir civique (l'absence est justifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous pouvez vous faire représenter par un avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage en justice est une obligation légale. L'employeur ne peut pas s'y opposer et doit autoriser l'absence, qui est considérée comme du temps de travail effectif ou une absence autorisée selon les cas, mais ne peut être sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-066",
+        "shortId": "Q-D13D4F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 11 de la Déclaration de 1789 protège :",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La libre communication des pensées et des opinions",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit à la santé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité homme-femme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'un des articles les plus importants de la Déclaration, consacrant la liberté d'expression et de publication comme un droit fondamental du citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-064",
+        "shortId": "Q-E946B2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez vous marier. À la mairie, l'officier suspecte un « mariage blanc » (pour les papiers). Que peut-il faire ?",
+        "choices": [
+          {
+            "text": "Reporter la cérémonie de 30 jours pour vérification",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander des preuves de vie commune avant de célébrer",
+            "isCorrect": false
+          },
+          {
+            "text": "Refuser directement de célébrer le mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Procureur de la République pour enquête et éventuellement s'opposer au mariage",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le maire, en tant qu'officier d'état civil, peut saisir le procureur s'il existe des indices sérieux que le mariage n'a pas d'intention matrimoniale réelle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-034",
+        "shortId": "Q-70AD62",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe médiéval, auteur de la 'Somme théologique', a cherché à concilier la foi chrétienne et la raison aristotélicienne ?",
+        "choices": [
+          {
+            "text": "Pierre Abélard",
+            "isCorrect": false
+          },
+          {
+            "text": "Thomas d'Aquin",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint Augustin",
+            "isCorrect": false
+          },
+          {
+            "text": "Bernard de Clairvaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Son œuvre a profondément influencé la pensée chrétienne et l'enseignement universitaire en France au Moyen Âge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-063",
+        "shortId": "Q-49827D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une patiente à l'hôpital public demande à être soignée exclusivement par des femmes pour des raisons religieuses. Quelle est la réponse de l'établissement ?",
+        "choices": [
+          {
+            "text": "L'hôpital doit toujours satisfaire cette demande par respect de la diversité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital refuse automatiquement car la religion est interdite en milieu hospitalier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital peut essayer de s'adapter si l'organisation le permet, mais ne peut garantir ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin-chef décide seul sans tenir compte des souhaits de la patiente",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le service public hospitalier doit traiter tous les patients de façon égale. Il peut tenter de s'adapter dans la limite du bon fonctionnement du service, mais aucun droit opposable n'existe."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-069",
+        "shortId": "Q-A521F4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte. Vous cherchez du travail. Devez-vous le dire en entretien d'embauche ?",
+        "choices": [
+          {
+            "text": "Non, vous n'êtes pas obligée de révéler votre grossesse a un employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour permettre à l'employeur d'organiser votre remplacement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est obligatoire pour les contrats de plus de 6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour certains postes à risque (travail de nuit, port de charges)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège les femmes enceintes contre la discrimination. Une candidate n'est pas tenue de révéler sa grossesse lors de l'embauche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-065",
+        "shortId": "Q-244F0B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi de 1944 a accordé le droit de vote et d'éligibilité aux femmes françaises ?",
+        "choices": [
+          {
+            "text": "La Constitution de la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le programme du CNR",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordonnance du 21 avril 1944 prise à Alger",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Veil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette décision tardive a mis fin à une longue exclusion des femmes de la citoyenneté politique active. Elles ont voté pour la première fois aux élections municipales du 29 avril 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-055",
+        "shortId": "Q-EB2D3C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Une commission mixte paritaire réunie par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "La procédure d'examen accéléré d'un texte en une seule lecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La circulation d'un projet de loi entre l'Assemblée et le Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "La dissolution de l'Assemblée nationale suivie de nouvelles élections",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être adoptée, une loi doit être votée en termes identiques par les deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-101",
+        "shortId": "Q-6FD46D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui élit les Sénateurs ?",
+        "choices": [
+          {
+            "text": "Les citoyens directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les grands électeurs (députés, conseillers régionaux, départementaux, municipaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat représente les collectivités territoriales. Il est élu au suffrage universel indirect par environ 162 000 grands électeurs, principalement des élus locaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-002",
+        "shortId": "Q-EE7C1E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans la classification doctrinale des droits de l'homme, à quelle « génération » de droits rattache-t-on les droits de solidarité tels que le droit à la paix ou au développement ?",
+        "choices": [
+          {
+            "text": "La première génération (libertés-autonomie)",
+            "isCorrect": false
+          },
+          {
+            "text": "La deuxième génération (droits-créances)",
+            "isCorrect": false
+          },
+          {
+            "text": "La troisième génération (droits de solidarité)",
+            "isCorrect": true
+          },
+          {
+            "text": "La quatrième génération (droits numériques)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les droits de troisième génération concernent des domaines où l'action individuelle ne suffit pas et nécessite une coopération collective ou internationale, comme l'environnement, la paix ou le patrimoine commun de l'humanité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-009",
+        "shortId": "Q-E4922E",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1992 a transformé la Communauté économique européenne en Union européenne et créé la monnaie unique ?",
+        "choices": [
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Acte unique européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Amsterdam",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le traité de Maastricht a instauré la citoyenneté européenne et posé les bases de l'Union économique et monétaire (UEM)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-064",
+        "shortId": "Q-157A17",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employé municipal refuse de célébrer un mariage entre personnes de même sexe invoquant ses convictions religieuses. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Rien, son objection de conscience est protégée par la laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sanction disciplinaire car il doit appliquer la loi sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Un simple avertissement verbal de la part du maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut demander un transfert vers un autre service sans conséquence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'agent public doit appliquer la loi de manière neutre et impartiale. Le refus de célébrer un mariage légal constitue une faute professionnelle passible de sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-013",
+        "shortId": "Q-8655CB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la pluralité des partis politiques garantit ?",
+        "choices": [
+          {
+            "text": "La stabilité gouvernementale absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "La victoire automatique du parti majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction des coalitions",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression des opinions politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le pluralisme politique garantit la libre compétition entre plusieurs partis et idées. La liberté d'expression des opinions politiques, c'est une condition essentielle de la démocratie qui permet aux citoyens d'avoir un véritable choix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-053",
+        "shortId": "Q-8608A2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler le dimanche sans que cela soit prévu dans votre contrat ni la convention collective. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Oui, le travail du dimanche est en principe exceptionnel et nécessite souvent l'accord du salarié (ou volontariat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'employeur peut modifier les horaires dans le cadre de son pouvoir de direction",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous avez des obligations familiales documentées",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais vous perdez la prime de présence pour la semaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sauf dérogations spécifiques (commerces alimentaires, zones touristiques), le travail du dimanche repose sur le volontariat et doit être compensé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-067",
+        "shortId": "Q-4BC205",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville portuaire de la Méditerranée est la préfecture de la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille est le premier port français et un carrefour culturel et économique majeur vers l'Afrique et l'Orient."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-070",
+        "shortId": "Q-6A63EA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent accompagnateur d'une sortie scolaire porte un signe religieux visible. L'école peut-elle refuser sa participation ?",
+        "choices": [
+          {
+            "text": "Oui, car il représente l'école pendant la sortie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les parents ne sont pas soumis au même devoir de neutralité que les agents publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car la loi de 2004 s'applique aussi aux parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il doit cacher son signe pendant la sortie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'avis du Conseil d'État de 2013, les parents accompagnateurs ne sont pas des agents publics et ne sont donc pas soumis à l'obligation de neutralité religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-029",
+        "shortId": "Q-7D3084",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel domaine les collectivités d'outre-mer (COM) ont-elles des particularités ?",
+        "choices": [
+          {
+            "text": "L'adaptation des lois locales",
+            "isCorrect": true
+          },
+          {
+            "text": "La langue officielle (le français n'est pas obligatoire)",
+            "isCorrect": false
+          },
+          {
+            "text": "La monnaie (elles n'ont pas l'Euro)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée (elles ont leur propre armée)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Collectivités d'Outre-Mer (COM) disposent d'une autonomie plus large, leur permettant d'adapter certaines lois nationales à leurs spécificités locales, contrairement aux départements et régions d'outre-mer (DROM)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-021",
+        "shortId": "Q-EB13D1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la caractéristique juridique d'une contravention de 5ème classe par rapport aux autres classes de contraventions ?",
+        "choices": [
+          {
+            "text": "Elle n'entraîne jamais de retrait de points sur le permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle peut être jugée par le tribunal correctionnel et non de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est la seule à pouvoir être sanctionnée par une peine d'amende supérieure à 1500 euros",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle se prescrit par un délai de 10 ans au lieu de 1 an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les contraventions sont classées de 1 à 5. La 5ème classe est la plus grave, punie d'une amende pouvant atteindre 1500 euros (3000 euros en cas de récidive), alors que les autres classes ont des plafonds inférieurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-029",
+        "shortId": "Q-B06599",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement littéraire du XIXe siècle, mené par Victor Hugo, privilégiait l'expression des sentiments et l'exaltation de la nature ?",
+        "choices": [
+          {
+            "text": "Le classicisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le romantisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le parnasse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbolisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le romantisme a libéré la création artistique des carcans classiques pour explorer le 'moi' et l'imaginaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-045",
+        "shortId": "Q-A5EF79",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle des 'Centres de Planification et d'Éducation Familiale' (CPEF) ?",
+        "choices": [
+          {
+            "text": "Gérer les inscriptions scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Accorder des aides au logement pour les familles nombreuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Trouver une place en crèche",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer sur la contraception, la sexualité et pratiquer des IVG médicamenteuses",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les CPEF sont des lieux d'accueil et d'information gratuits sur la vie sexuelle et reproductive."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-062",
+        "shortId": "Q-3204FD",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté de la presse est garantie en France par quel texte majeur ?",
+        "choices": [
+          {
+            "text": "La loi de 1881",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code pénal de 1810",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi constitutionnelle de 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règlement de la télévision",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 29 juillet 1881 est le texte fondateur de la liberté d'expression médiatique en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-089",
+        "shortId": "Q-76B474",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Suisse est-elle membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Oui",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement la partie francophone",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle va le devenir bientôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Non",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Non, la Suisse n'est pas membre de l'UE. Elle a rejeté l'adhésion par référendum mais participe au marché unique via des accords bilatéraux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-034",
+        "shortId": "Q-EDC94C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la Constitution de 1958 définit la France comme une République « sociale ». Qu'est-ce que cela implique ?",
+        "choices": [
+          {
+            "text": "Que l'État garantit la protection sociale et la solidarité envers les plus démunis",
+            "isCorrect": true
+          },
+          {
+            "text": "Que la propriété privée est interdite au profit de la propriété collective",
+            "isCorrect": false
+          },
+          {
+            "text": "Que les syndicats ont le pouvoir de voter les lois de finance",
+            "isCorrect": false
+          },
+          {
+            "text": "Que le droit de propriété est subordonné à l'intérêt collectif dans tous les cas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le caractère « social » signifie que la République ne se contente pas de garantir des libertés, mais qu'elle organise la solidarité nationale (santé, retraites, aides sociales) pour corriger les inégalités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-039",
+        "shortId": "Q-F8E626",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le point culminant de l'archipel de la Guadeloupe, volcan toujours actif ?",
+        "choices": [
+          {
+            "text": "La Montagne Pelée",
+            "isCorrect": false
+          },
+          {
+            "text": "La Soufrière",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Piton des Neiges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Grand Soufre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Situé sur Basse-Terre, ce volcan est une source importante d'activité géothermique et un site naturel protégé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-019",
+        "shortId": "Q-59E24B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'aide financière versée par la Caisse d'Allocations Familiales (CAF) pour aider à payer le loyer ?",
+        "choices": [
+          {
+            "text": "Le RSA",
+            "isCorrect": false
+          },
+          {
+            "text": "La PCH",
+            "isCorrect": false
+          },
+          {
+            "text": "L'APL (Aide Personnalisée au Logement)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prime d'activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'APL est une aide au logement dont le montant dépend des ressources et du montant du loyer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-011",
+        "shortId": "Q-F5D017",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un groupe de citoyens demande l'instauration de créneaux horaires non mixtes dans un gymnase municipal. Pourquoi l'administration refuse-t-elle généralement ?",
+        "choices": [
+          {
+            "text": "Parce que le coût de l'entretien serait plus élevé",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que la loi interdit aux femmes de faire du sport séparément",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que cela contreviendrait au principe d'égalité de traitement des usagers et à la neutralité du service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce que le maire n'a pas de pouvoir réglementaire sur les infrastructures sportives",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil d'État veille au principe d'égalité devant le service public. Réserver des horaires en fonction du genre ou de la religion sans motif d'intérêt général (sécurité, santé publique) est considéré comme une rupture d'égalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-037",
+        "shortId": "Q-FB50DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des lycées ?",
+        "choices": [
+          {
+            "text": "La commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La région est propriétaire des lycées. Elle assure leur construction, leur équipement (y compris numérique) et le fonctionnement matériel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-002",
+        "shortId": "Q-B0131C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous déposez un canapé usagé sur le trottoir le soir, sans prévenir les encombrants. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende pouvant aller jusqu'à 1 500 € pour dépôt sauvage",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, si le dépôt est effectué après 20h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple obligation de le reprendre dans les 48h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende de 35 € (contravention de 1ère classe)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le dépôt sauvage est strictement interdit, même devant chez soi. Il faut impérativement prendre rendez-vous avec le service des encombrants de la mairie ou aller en déchetterie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-012",
+        "shortId": "Q-CD9C09",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville fut le siège du Conseil de l'Europe dès sa création en 1949, symbolisant la réconciliation franco-allemande ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ville frontalière marquée par l'histoire, Strasbourg a été choisie pour incarner l'unité européenne et le respect des droits de l'homme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-012",
+        "shortId": "Q-85C3A1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de déménagement, quel est le délai pour mettre à jour l'adresse sur le certificat d'immatriculation (carte grise) d'un véhicule ?",
+        "choices": [
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de changement de domicile, le propriétaire d'un véhicule dispose d'un mois pour faire modifier l'adresse sur sa carte grise."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-065",
+        "shortId": "Q-7E59F4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un citoyen français ou étranger peut-il créer un syndicat ?",
+        "choices": [
+          {
+            "text": "Non, seuls les Français peuvent le faire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté syndicale est reconnue à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement s'il travaille dans une très grande usine",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement s'il a l'accord du Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit d'adhérer à un syndicat et d'en créer un est un droit fondamental pour tous les travailleurs résidant en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-036",
+        "shortId": "Q-981BE4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des collèges ?",
+        "choices": [
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le département a la responsabilité des collèges. Il construit et entretient les bâtiments, et gère la restauration scolaire et le personnel technique (ATTEE)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-053",
+        "shortId": "Q-5034E3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Contrat d'Intégration Républicaine (CIR) signé par les étrangers admis pour la première fois au séjour contient un engagement à :",
+        "choices": [
+          {
+            "text": "Respecter les principes et valeurs de la société française et de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Renoncer définitivement à leur nationalité d'origine dans les deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Exercer obligatoirement une profession dans un secteur en tension",
+            "isCorrect": false
+          },
+          {
+            "text": "Adhérer à un parti politique représenté au Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le CIR est un socle de l'intégration. L'étranger s'engage à suivre des formations (civique, linguistique) et à respecter les valeurs fondamentales comme la laïcité et l'égalité femmes-hommes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-045",
+        "shortId": "Q-F6F5C2",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel scientifique français a mis au point le vaccin contre la rage en 1885, révolutionnant la médecine préventive ?",
+        "choices": [
+          {
+            "text": "Claude Bernard",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis Pasteur",
+            "isCorrect": true
+          },
+          {
+            "text": "Robert Koch",
+            "isCorrect": false
+          },
+          {
+            "text": "Antoine Lavoisier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pasteur a fondé la microbiologie et ses travaux sur la pasteurisation ont transformé l'hygiène alimentaire mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-050",
+        "shortId": "Q-A5FEDB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'médecin de garde' ?",
+        "choices": [
+          {
+            "text": "Un médecin agréé pour les permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un médecin qui assure les soins les soirs et week-ends en cas d'urgence non vitale",
+            "isCorrect": true
+          },
+          {
+            "text": "Un spécialiste des maladies tropicales",
+            "isCorrect": false
+          },
+          {
+            "text": "Un médecin du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La permanence des soins est assurée par des médecins de garde lorsque les cabinets médicaux sont fermés."
+      }
+    }
+  ]
+}

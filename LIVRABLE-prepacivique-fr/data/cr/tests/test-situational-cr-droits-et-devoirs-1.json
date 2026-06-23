@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-droits-et-devoirs-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-situational-001",
+        "shortId": "Q-F9DFA5",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une convocation pour témoigner lors d'un procès. Votre employeur refuse votre absence. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "L'employeur peut refuser si l'activité de l'entreprise est menacée",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez poser un jour de congé payé pour y aller",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur est obligé de vous libérer pour témoigner, c'est un devoir civique (l'absence est justifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous pouvez vous faire représenter par un avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage en justice est une obligation légale. L'employeur ne peut pas s'y opposer et doit autoriser l'absence, qui est considérée comme du temps de travail effectif ou une absence autorisée selon les cas, mais ne peut être sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-002",
+        "shortId": "Q-B0131C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous déposez un canapé usagé sur le trottoir le soir, sans prévenir les encombrants. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende pouvant aller jusqu'à 1 500 € pour dépôt sauvage",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, si le dépôt est effectué après 20h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple obligation de le reprendre dans les 48h",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende de 35 € (contravention de 1ère classe)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le dépôt sauvage est strictement interdit, même devant chez soi. Il faut impérativement prendre rendez-vous avec le service des encombrants de la mairie ou aller en déchetterie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-003",
+        "shortId": "Q-D0581E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous possédez un terrain à la campagne. Pouvez-vous y chasser librement ?",
+        "choices": [
+          {
+            "text": "Oui, le droit de propriété inclut le droit de chasse inconditionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement le petit gibier",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut obligatoirement un permis de chasser valide et respecter les périodes d'ouverture",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le terrain est clôturé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Même sur une propriété privée, la chasse est une activité réglementée. Il faut détenir un permis, payer la redevance et respecter les dates fixées par la préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-004",
+        "shortId": "Q-CFFD5E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire. Qui doit payer la Taxe d'Enlèvement des Ordures Ménagères (TEOM) ?",
+        "choices": [
+          {
+            "text": "La mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le propriétaire, qui ne peut pas la récupérer",
+            "isCorrect": false
+          },
+          {
+            "text": "L'entreprise de nettoyage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le propriétaire la paie, mais il la facture ensuite au locataire dans les charges",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La TEOM figure sur l'avis de taxe foncière du propriétaire, mais c'est une charge dite « récupérable ». Le locataire la rembourse mensuellement via les provisions pour charges."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-005",
+        "shortId": "Q-498707",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous découvrez le jour de l'élection que vous avez été radié des listes électorales par erreur. Quel est votre recours ?",
+        "choices": [
+          {
+            "text": "Saisir le Tribunal judiciaire le jour même pour demander une réinscription immédiate",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter dans votre ancienne commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire une réclamation pour l'année suivante",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander au maire une dérogation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote est fondamental. En cas d'erreur purement matérielle de l'administration, le juge judiciaire peut ordonner la réinscription immédiate de l'électeur pour lui permettre de voter."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-006",
+        "shortId": "Q-3CF795",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 12 ans casse la vitre d'un voisin en jouant au ballon. Qui paie ?",
+        "choices": [
+          {
+            "text": "L'enfant est seul responsable pénalement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Vos parents (assurance Responsabilité Civile)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le voisin (assurance bris de glace)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les parents sont civilement responsables des dommages causés par leurs enfants mineurs résidant avec eux. C'est la garantie « Responsabilité Civile » de votre assurance habitation qui interviendra."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-007",
+        "shortId": "Q-E70C12",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous installez une caméra de sécurité chez vous. Avez-vous le droit de filmer la rue devant votre portail ?",
+        "choices": [
+          {
+            "text": "Oui, si vous mettez un panneau d'avertissement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour protéger votre véhicule stationné devant chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les images sont effacées sous 24h",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le filmage de la voie publique est réservé aux autorités (respect de la vie privée)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un particulier ne peut filmer que l'intérieur de sa propriété privée. Filmer le trottoir ou la rue est illégal et porte atteinte à la vie privée des passants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-008",
+        "shortId": "Q-E6C73D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes au chômage et touchez l'ARE. Avez-vous le droit d'être bénévole dans une association ?",
+        "choices": [
+          {
+            "text": "Oui, tant que cela ne vous empêche pas de chercher activement un emploi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, cela est considéré comme du travail dissimulé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous devez être disponible 24h/24",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais vos allocations seront réduites",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le bénévolat est autorisé. La seule condition est que l'activité ne se substitue pas à un emploi salarié et que le chômeur reste disponible pour ses recherches d'emploi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-009",
+        "shortId": "Q-8649B0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À la gare, quelqu'un vous demande de surveiller son sac « juste deux minutes ». Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous acceptez car c'est une situation courante et sans risque",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous refusez par mesure de sécurité (plan Vigipirate)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous acceptez si la personne reste visible à proximité",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez accepter si le sac est transparent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour des raisons de sécurité (risque d'attentat, colis piégé, trafics), il ne faut jamais accepter la garde d'un bagage inconnu dans un lieu public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-010",
+        "shortId": "Q-7DC41E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : La banque vous verse 500 € par erreur. Devez-vous les rendre ?",
+        "choices": [
+          {
+            "text": "Non, le délai de prescription bancaire est de 24h",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement la moitié (partage de responsabilité)",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si vous les avez déjà dépensés de bonne foi",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est un « paiement de l'indu » que vous devez rembourser légalement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En droit français, celui qui reçoit par erreur une somme qui ne lui est pas due doit la restituer (article 1302-1 du Code civil). Garder l'argent peut entraîner des poursuites."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-011",
+        "shortId": "Q-8A5C1E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À vélo, le feu est rouge mais il n'y a personne. Pouvez-vous passer ?",
+        "choices": [
+          {
+            "text": "Oui, car le feu rouge ne s'applique qu'aux véhicules motorisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, car les vélos ne sont pas soumis aux mêmes règles que les voitures",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le code de la route s'applique aussi aux cyclistes (sauf panneau M12 spécifique)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, après avoir marqué un arrêt complet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les cyclistes doivent respecter les feux rouges. Seul le panneau triangulaire « Cédez-le-passage cycliste au feu » (M12) permet de passer avec prudence."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-012",
+        "shortId": "Q-3933AE",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez couper un grand arbre dans votre jardin. Devez-vous demander une autorisation ?",
+        "choices": [
+          {
+            "text": "Oui, si l'arbre est situé dans un Espace Boisé Classé (EBC) selon le plan local d'urbanisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, vous êtes libre chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'arbre dépasse 20 mètres",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'arbre fait de l'ombre à votre piscine ou celle du voisin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de propriété est limité par les règles d'urbanisme. Il faut vérifier en mairie si votre terrain est soumis à une protection particulière des arbres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-013",
+        "shortId": "Q-9707C3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre règlement de copropriété interdit les barbecues sur les balcons. Pouvez-vous quand même en faire un petit ?",
+        "choices": [
+          {
+            "text": "Oui, si c'est électrique sans flamme ni fumée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous obtenez l'accord écrit de vos voisins directs",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le règlement de copropriété s'impose à tous les occupants",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous respectez les horaires de tranquillité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le règlement de copropriété a force de loi entre les habitants de l'immeuble. L'interdiction vise souvent la sécurité (incendie) et les nuisances (odeurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-014",
+        "shortId": "Q-9E58E6",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez une arme de la Seconde Guerre mondiale dans un grenier. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "La remettre à un musée local qui l'acceptera sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "La conserver car les armes anciennes sont libres de détention",
+            "isCorrect": false
+          },
+          {
+            "text": "La déclarer aux autorités ou la faire neutraliser par un professionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La déposer à la mairie qui s'occupera des démarches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La détention d'armes est réglementée. Une arme trouvée doit être déclarée. Si elle n'est pas neutralisée, sa détention sans permis peut être illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-015",
+        "shortId": "Q-BA7ED3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous allez à la pêche aux coquillages. Pouvez-vous tout ramasser ?",
+        "choices": [
+          {
+            "text": "Oui, car il s'agit du domaine public maritime accessible à tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous devez respecter les tailles minimales et les quantités autorisées",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, tant que c'est pour manger sur place",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut une licence professionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La pêche à pied de loisir est réglementée pour protéger l'environnement. Les amendes pour non-respect des tailles ou des quotas sont élevées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-016",
+        "shortId": "Q-721E2E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire. Pouvez-vous repeindre les murs en noir ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le propriétaire ne peut rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement avec un accord écrit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais le propriétaire pourra exiger une remise en état (couleur neutre) à votre départ à vos frais",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le locataire peut décorer son logement. Cependant, des couleurs excentriques (empêchant une relocation normale) peuvent justifier une retenue sur le dépôt de garantie pour repeindre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-017",
+        "shortId": "Q-DE6875",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez un chien de catégorie 2 (chien de garde/défense). Dans la rue, il doit :",
+        "choices": [
+          {
+            "text": "Être muselé et tenu en laisse par une personne majeure titulaire d'un permis",
+            "isCorrect": true
+          },
+          {
+            "text": "Être tenu en laisse courte uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Être tenu en laisse et porter une médaille d'identification",
+            "isCorrect": false
+          },
+          {
+            "text": "Être muselé uniquement dans les lieux publics fermés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi impose des mesures strictes pour les chiens catégorisés : permis de détention, assurance, vaccination, laisse et muselière obligatoires sur la voie publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-018",
+        "shortId": "Q-258ED9",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Le Service National Universel (SNU) est-il obligatoire ?",
+        "choices": [
+          {
+            "text": "Oui, pour tous les garçons",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour tous les jeunes de 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il est basé sur le volontariat (pour l'instant)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour ceux qui ont quitté l'école",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le SNU s'adresse aux jeunes volontaires de 15 à 17 ans pour renforcer la cohésion nationale. Son caractère obligatoire est débattu mais pas en vigueur."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-019",
+        "shortId": "Q-C5E565",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous habitez en logement social (HLM). Pouvez-vous le sous-louer sur Airbnb ?",
+        "choices": [
+          {
+            "text": "Oui, pour obtenir un complément de revenus déclaré aux impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la durée ne dépasse pas 120 jours par an",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la sous-location de logement social est strictement interdite (risque de résiliation du bail et amende)",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pendant les vacances",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le logement social est une aide publique soumise à conditions de ressources. En tirer un profit personnel est illégal et sévèrement sanctionné."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-020",
+        "shortId": "Q-6EC7EC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez 20 ans et aucun revenu. Devez-vous déclarer vos impôts ?",
+        "choices": [
+          {
+            "text": "Oui, déclarer 0 € permet d'obtenir un Avis de Non-Imposition (utile pour les aides sociales)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, c'est inutile",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la déclaration n'est obligatoire qu'à partir de 10 000 €",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous vivez seul",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La déclaration est obligatoire pour toute personne majeure. L'avis de non-imposition est souvent exigé pour obtenir la CMU, les bourses ou un logement."
+      }
+    }
+  ]
+}

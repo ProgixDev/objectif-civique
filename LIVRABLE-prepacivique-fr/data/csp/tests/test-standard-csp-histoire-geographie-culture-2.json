@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-histoire-geographie-culture-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-histoire-standard-057",
+        "shortId": "Q-4CF637",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve est le plus long de France (environ 1000 km) ?",
+        "choices": [
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Loire est célèbre pour ses paysages naturels et ses châteaux royaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-059",
+        "shortId": "Q-E6B0E3",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel savant français (et sa femme) a découvert le radium et reçu deux prix Nobel ?",
+        "choices": [
+          {
+            "text": "Louis Pasteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Antoine de Lavoisier",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": true
+          },
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marie Curie est une icône de la science mondiale. Elle est la première femme à être entrée au Panthéon pour ses mérites."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-003",
+        "shortId": "Q-B91175",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Paix, Travail, Famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Justice, Solidarité, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Héritée de la Révolution, cette devise définit les valeurs fondamentales partagées par tous les citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-046",
+        "shortId": "Q-160A6D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naît en Suisse et se jette dans la mer à Marseille ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Rhône est un fleuve puissant utilisé pour la production d'électricité et le transport."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-030",
+        "shortId": "Q-217505",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est célèbre pour ses nombreux châteaux de la Renaissance (Chambord, Chenonceau) ?",
+        "choices": [
+          {
+            "text": "Le Grand Est",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre-Val de Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La vallée de la Loire était le lieu de résidence privilégié des rois de France aux XVe et XVIe siècles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-005",
+        "shortId": "Q-F9D6E3",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve traverse la capitale de la France, Paris ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seine traverse Paris et sépare la ville en deux : la rive gauche et la rive droite."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-035",
+        "shortId": "Q-09A1F6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande ville du sud de la France est le premier port de commerce du pays ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Fondée par les Grecs, Marseille est une ville carrefour entre l'Europe et la Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-047",
+        "shortId": "Q-2B04AE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel célèbre dramaturge a écrit 'L'Avare' et 'Le Malade imaginaire' au XVIIe siècle ?",
+        "choices": [
+          {
+            "text": "Jean Racine",
+            "isCorrect": false
+          },
+          {
+            "text": "Pierre Corneille",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Molière est l'auteur le plus joué au théâtre en France. Il critiquait les défauts de la société de son époque."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-052",
+        "shortId": "Q-DBB0FF",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la capitale mondiale de l'aéronautique et le siège d'Airbus ?",
+        "choices": [
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une ville dynamique d'Occitanie, surnommée la 'Ville rose' pour ses briques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-056",
+        "shortId": "Q-9C13D0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la préfecture de la région Nouvelle-Aquitaine et célèbre pour son vin ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bordeaux possède une architecture magnifique du XVIIIe siècle classée à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-017",
+        "shortId": "Q-4DBD70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville française, située dans le Grand Est, est le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Strasbourg est un symbole de la réconciliation entre la France et l'Allemagne et une capitale de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-060",
+        "shortId": "Q-573BF9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays européen est séparé de la France par la Manche ?",
+        "choices": [
+          {
+            "text": "L'Italie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "On peut traverser la Manche en bateau ou en train via le tunnel sous la Manche."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-004",
+        "shortId": "Q-97C97B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le sommet le plus élevé de France, situé dans les Alpes ?",
+        "choices": [
+          {
+            "text": "Le Puy de Sancy",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pic du Midi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Crêt de la Neige",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont Blanc",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Mont Blanc culmine à 4 807 mètres. C'est le point le plus haut d'Europe occidentale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-049",
+        "shortId": "Q-EAC674",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle période de l'histoire de France est marquée par les 'Poilus' et les tranchées ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale (1914-1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règne de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Moyen Âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les 'Poilus' étaient les soldats français combattant courageusement dans des conditions très difficiles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-036",
+        "shortId": "Q-3C9D21",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a écrit les 'Fables' (comme 'Le Corbeau et le Renard') ?",
+        "choices": [
+          {
+            "text": "Charles Perrault",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Jean de La Fontaine a utilisé des animaux pour critiquer avec humour les comportements humains."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-010",
+        "shortId": "Q-473B61",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel musée parisien, le plus visité au monde, peut-on voir la Joconde ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Louvre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Centre Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Quai Branly",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ancien palais des rois, le Louvre abrite des milliers d'œuvres d'art, de l'Antiquité jusqu'au XIXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-025",
+        "shortId": "Q-64654C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel hymne national français a été composé par Rouget de Lisle en 1792 ?",
+        "choices": [
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Temps des cerises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "À l'origine chant de guerre, la Marseillaise est devenue l'hymne national de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-015",
+        "shortId": "Q-D667A2",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental, adopté en 1789, affirme que 'les hommes naissent et demeurent libres et égaux en droits' ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte est la base de la démocratie française et a inspiré de nombreuses déclarations internationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-054",
+        "shortId": "Q-8507BA",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel massif montagneux sépare la France de l'Italie et de la Suisse ?",
+        "choices": [
+          {
+            "text": "Le Massif central",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Alpes abritent de célèbres stations de ski et le sommet du Mont Blanc."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-042",
+        "shortId": "Q-43D7AD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île française est surnommée l'Île de Beauté ?",
+        "choices": [
+          {
+            "text": "L'île de Ré",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "Belle-Île-en-Mer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Corse est située en Méditerranée. Elle est célèbre pour ses montagnes et ses plages."
+      }
+    }
+  ]
+}

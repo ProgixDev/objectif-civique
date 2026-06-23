@@ -1,0 +1,621 @@
+{
+  "slug": "test-standard-nat-principes-valeurs-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 18,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-standard-013",
+        "shortId": "Q-531124",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux piliers de la laïcité en France selon la loi de 1905 ?",
+        "choices": [
+          {
+            "text": "L'interdiction des religions et l'athéisme d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des Églises et de l'État et la garantie de la liberté de conscience",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de croire en Dieu et la tolérance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement des cultes par l'État et le contrôle des prêtres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte (Séparation), mais elle garantit le libre exercice des cultes (Liberté)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-037",
+        "shortId": "Q-77990A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter en France aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Tous les résidents",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes qui paient des impôts uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage est universel : il n'est pas lié à la richesse ou au sexe. Seule la nationalité, la majorité et la jouissance des droits civils sont requises."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-025",
+        "shortId": "Q-DA61D5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La lutte contre le racisme et l'antisémitisme est :",
+        "choices": [
+          {
+            "text": "Une opinion politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation morale facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une priorité de l'État inscrite dans la loi pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée aux associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le racisme et l'antisémitisme ne sont pas des opinions mais des délits. La République combat toute haine fondée sur l'origine ou la religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-017",
+        "shortId": "Q-DF7E05",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Charte de l'environnement de 2004 a une valeur :",
+        "choices": [
+          {
+            "text": "Symbolique uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Législative (comme une loi ordinaire)",
+            "isCorrect": false
+          },
+          {
+            "text": "Réglementaire (comme un décret)",
+            "isCorrect": false
+          },
+          {
+            "text": "Constitutionnelle (au même niveau que la Déclaration de 1789)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Intégrée au bloc de constitutionnalité, elle donne le droit à chacun de vivre dans un environnement équilibré et respectueux de la santé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-016",
+        "shortId": "Q-6AC4CE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Conseil Constitutionnel a pour mission principale de :",
+        "choices": [
+          {
+            "text": "Conseiller le Président sur la politique étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les conflits entre voisins",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier la régularité des élections et la conformité des lois à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger le budget de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est le garant suprême de la Constitution. Il valide les élections nationales et peut censurer une loi si elle porte atteinte aux droits fondamentaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-014",
+        "shortId": "Q-01F234",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel général a signé l'ordonnance donnant le droit de vote aux femmes en 1944 ?",
+        "choices": [
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le Gouvernement Provisoire dirigé par le Général de Gaulle qui a accordé le droit de vote et d'éligibilité aux femmes en avril 1944."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-011",
+        "shortId": "Q-0AAD97",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, à qui appartient la souveraineté nationale ?",
+        "choices": [
+          {
+            "text": "Au Peuple, qui l'exerce par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux juges constitutionnels",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple. Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-022",
+        "shortId": "Q-50E3EA",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le principe de « non-rétroactivité » de la loi pénale ?",
+        "choices": [
+          {
+            "text": "On ne peut pas être condamné pour un acte qui n'était pas interdit par la loi au moment où il a été commis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une loi ne s'applique qu'aux personnes nées après sa promulgation",
+            "isCorrect": false
+          },
+          {
+            "text": "On ne peut pas faire appel d'un jugement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi change tous les ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour garantir la sécurité juridique, une nouvelle loi pénale plus sévère ne peut pas s'appliquer à des faits passés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-020",
+        "shortId": "Q-BC8F67",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels textes font partie du « Bloc de constitutionnalité » sur lequel repose le droit français ?",
+        "choices": [
+          {
+            "text": "Le Code civil et le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de 1958, la DDHC de 1789, le Préambule de 1946 et la Charte de l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention européenne des droits de l'homme et le Traité de Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lois organiques adoptées par le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ces quatre textes ont la valeur juridique la plus élevée en France. Aucune loi ne peut les contredire. Ensemble, ils forment le bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-018",
+        "shortId": "Q-146C7A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que fête-t-on le 14 juillet (Fête Nationale) ?",
+        "choices": [
+          {
+            "text": "L'anniversaire de la proclamation de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La mort du roi Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          },
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (symbole de la fin de l'arbitraire royal) et la Fête de la Fédération (symbole de l'unité de la Nation)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-032",
+        "shortId": "Q-0ABA30",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle devise figure sur les pièces de monnaie françaises ?",
+        "choices": [
+          {
+            "text": "Dieu et mon Droit",
+            "isCorrect": false
+          },
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise de la République figure sur les pièces de monnaie, les timbres et les édifices publics, rappelant les valeurs communes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-028",
+        "shortId": "Q-5695E8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la DDHC affirme : « Les hommes naissent et demeurent... »",
+        "choices": [
+          {
+            "text": "Soumis à l'autorité du Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Fidèles à la Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Libres et égaux en droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidaires et responsables devant la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "'Libres et égaux en droits' est la phrase la plus célèbre de la Déclaration de 1789. Elle marque la fin de la société d'ordres et de la naissance privilégiée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-006",
+        "shortId": "Q-0A0125",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du « Défenseur des droits » ?",
+        "choices": [
+          {
+            "text": "Défendre l'État contre les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Défendre la France en cas de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les avocats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Institution indépendante créée en 2011, le Défenseur des droits peut être saisi gratuitement par toute personne s'estimant lésée par une administration ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-038",
+        "shortId": "Q-E66192",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, qui est le Chef des Armées ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de la Défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chef d'État-Major",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 15 de la Constitution fait du Président de la République le chef des armées. Il préside les conseils de défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-005",
+        "shortId": "Q-B96C79",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'origine historique des couleurs du drapeau tricolore (Bleu, Blanc, Rouge) ?",
+        "choices": [
+          {
+            "text": "Le bleu et le rouge sont les couleurs de Paris, encadrant le blanc, couleur de la Royauté",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles représentent les trois océans qui bordent la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles symbolisent la Liberté (Bleu), l'Égalité (Blanc) et la Fraternité (Rouge)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu et le rouge représentent le sang versé, le blanc la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Né pendant la Révolution, le drapeau symbolise l'union du peuple (Paris : bleu et rouge) et du monarque (Royauté : blanc). Il est devenu l'emblème national officiel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-029",
+        "shortId": "Q-EDC819",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'État de droit ?",
+        "choices": [
+          {
+            "text": "Un État où la police a tous les pouvoirs",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où tout le monde, y compris l'État et le Président, doit respecter la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un État géré par des avocats",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État sans constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans un État de droit, la puissance publique est soumise au droit. Cela protège les citoyens contre l'arbitraire du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-033",
+        "shortId": "Q-E1992C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La présomption d'innocence signifie que :",
+        "choices": [
+          {
+            "text": "Le coupable est toujours pardonné",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne accusée est considérée innocente tant qu'elle n'a pas été déclarée coupable par un tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "On ne met jamais personne en prison avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "La police ne peut arrêter personne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La présomption d'innocence est un droit fondamental. C'est à l'accusation d'apporter la preuve de la culpabilité. Le doute doit profiter à l'accusé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-009",
+        "shortId": "Q-4270A1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment la devise « Liberté, Égalité, Fraternité » est-elle protégée ?",
+        "choices": [
+          {
+            "text": "Par l'UNESCO",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle n'est pas protégée légalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'article 2 de la Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Par la loi de 1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution définit les symboles nationaux, dont la devise de la République. Elle figure sur les frontons des mairies et écoles."
+      }
+    }
+  ]
+}

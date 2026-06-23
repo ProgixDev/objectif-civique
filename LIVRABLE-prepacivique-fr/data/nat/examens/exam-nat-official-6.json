@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-official-6",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-official-024",
+        "shortId": "Q-C4DBC5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+        "choices": [
+          {
+            "text": "L'État impose l'athéisme à tous les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État n'aide aucune religion et ne discrimine aucune religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État interdit la pratique religieuse dans la rue",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État reconnaît uniquement la religion majoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La neutralité signifie que l'État ne reconnaît, ne salarie ni ne subventionne aucun culte (Loi de 1905). Il est arbitre et garant de la liberté de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-068",
+        "shortId": "Q-55A94C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : L'école de votre enfant organise une sortie scolaire. Peut-elle exiger une participation financière obligatoire ?",
+        "choices": [
+          {
+            "text": "Oui, les écoles ont le droit de facturer les activités pédagogiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'instruction publique est gratuite, les sorties obligatoires ne peuvent faire l'objet d'une contribution forcée",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si la sortie a lieu pendant le temps scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais les parents doivent fournir le transport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de gratuité de l'enseignement public interdit de conditionner la participation à une sortie pédagogique obligatoire au paiement d'une somme. Des participations volontaires peuvent être sollicitées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-042",
+        "shortId": "Q-77E3A4",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une patiente à l'hôpital public refuse d'être soignée par un médecin homme pour raisons religieuses. L'établissement peut-il garantir ce choix ?",
+        "choices": [
+          {
+            "text": "Oui, le patient a toujours le droit de choisir son médecin",
+            "isCorrect": false
+          },
+          {
+            "text": "Non obligatoirement, le service public doit assurer les soins mais ne peut garantir le choix du praticien selon des critères religieux",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle paie un supplément",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la demande est illégale et la patiente peut être renvoyée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le service public hospitalier doit traiter tous les patients égalitairement. Il peut tenter de s'adapter si l'organisation le permet, mais aucun droit opposable au choix du praticien sur critère religieux n'existe."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-066",
+        "shortId": "Q-19661C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vos parents âgés n'ont pas les moyens de subvenir à leurs besoins. Avez-vous une obligation légale de les aider ?",
+        "choices": [
+          {
+            "text": "Oui, l'obligation alimentaire envers les ascendants dans le besoin est prévue par le Code civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'aide aux parents relève uniquement de la solidarité familiale volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous avez hérité d'eux",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est l'État qui doit prendre en charge les personnes âgées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 205 du Code civil prévoit que les enfants doivent des aliments à leurs père et mère ou autres ascendants qui sont dans le besoin. C'est une obligation légale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-066",
+        "shortId": "Q-396A25",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : La laïcité interdit-elle aux élus de pratiquer leur religion ?",
+        "choices": [
+          {
+            "text": "Oui, les élus doivent renoncer à toute pratique religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais ils ne peuvent pas utiliser leur fonction pour promouvoir une religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pendant toute la durée de leur mandat",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, ils peuvent faire du prosélytisme s'ils le souhaitent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience des élus comme de tous les citoyens. Cependant, dans l'exercice de leurs fonctions, ils doivent rester neutres et ne pas promouvoir une religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-028",
+        "shortId": "Q-B26E96",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour obtenir une carte d'identité, il faut :",
+        "choices": [
+          {
+            "text": "Payer un timbre fiscal de 86 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obligatoirement 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Fournir un justificatif de nationalité française",
+            "isCorrect": true
+          },
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CNI est gratuite (si première demande ou renouvellement avec l'ancienne) et accessible à tout âge. La condition principale est de prouver sa nationalité française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-032",
+        "shortId": "Q-297BBF",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous souhaitez prendre un jour de congé pour une fête religieuse qui n'est pas fériée (ex: Aïd, Yom Kippour). Votre employeur peut-il refuser ?",
+        "choices": [
+          {
+            "text": "Non, la liberté religieuse est absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les nécessités du service le justifient (désorganisation de l'entreprise)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car seules les fêtes catholiques sont autorisées",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit automatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Si le salarié a le droit de demander congé pour motif religieux, l'employeur peut refuser si l'absence perturbe le bon fonctionnement du service, sans que cela soit discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-054",
+        "shortId": "Q-D760D3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en désaccord avec une décision de la CAF (allocations familiales). Quel est le premier recours à exercer ?",
+        "choices": [
+          {
+            "text": "Adresser un recours amiable à la commission de recours amiable (CRA) de la CAF",
+            "isCorrect": true
+          },
+          {
+            "text": "Saisir directement le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Défenseur des droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Contester auprès du médiateur de la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Avant tout recours contentieux, il faut obligatoirement saisir la commission de recours amiable (CRA) de l'organisme concerné dans un délai de 2 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-001",
+        "shortId": "Q-3F9BC5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Code civil (ou Code Napoléon) a été promulgué en 1804. Il unifie les lois civiles françaises et reste le fondement du droit civil français aujourd'hui."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-035",
+        "shortId": "Q-83F2CC",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la laïcité ?",
+        "choices": [
+          {
+            "text": "Un principe de tolérance générale laissant l'État intervenir dans les affaires religieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "La promotion par l'État d'une religion ou d'une tradition spirituelle particulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Une idéologie visant à exclure toute expression religieuse de la société",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe républicain garantissant la neutralité de l'État et la liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité est un principe fondamental de la République française qui garantit la liberté de conscience et de religion, tout en imposant la neutralité de l'État à l'égard de toutes les convictions. Elle ne constitue ni une religion, ni une opinion, ni une idéologie antireligieuse, mais un cadre juridique assurant l'égalité et la coexistence pacifique des croyances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-030",
+        "shortId": "Q-179F47",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez un litige avec un artisan pour des travaux mal réalisés. Avant de saisir le juge, que devez-vous obligatoirement tenter ?",
+        "choices": [
+          {
+            "text": "Une expertise judiciaire avant tout recours",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tentative de résolution amiable (médiation, conciliation ou procédure participative)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dépôt de plainte auprès de la DGCCRF",
+            "isCorrect": false
+          },
+          {
+            "text": "Une mise en demeure par exploit d'huissier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour les litiges inférieurs à un certain montant, une tentative de résolution amiable est obligatoire avant de saisir le tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-065",
+        "shortId": "Q-CC981A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île fait partie des Antilles françaises ?",
+        "choices": [
+          {
+            "text": "La Martinique",
+            "isCorrect": true
+          },
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "Madagascar",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Martinique (comme la Guadeloupe) est située dans la mer des Caraïbes, dans les Antilles françaises. La Réunion est dans l'océan Indien."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-077",
+        "shortId": "Q-4CE677",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un médecin demande à un patient sa religion avant de le soigner. Cette question est-elle légitime ?",
+        "choices": [
+          {
+            "text": "Oui, pour adapter les soins aux croyances du patient",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si cela a une incidence médicale directe (allergie, transfusion sanguine)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour le dossier médical obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le médecin peut être radié pour cette question",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le médecin peut s'informer des convictions du patient uniquement si cela a une incidence sur les soins (refus de transfusion, régime alimentaire post-opératoire). Sinon, cette question est intrusive."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-048",
+        "shortId": "Q-4D4162",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui siège au Parlement européen ?",
+        "choices": [
+          {
+            "text": "Les ministres des pays membres",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés européens (eurodéputés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Les juges européens",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement européen est composé de députés européens (eurodéputés), élus au suffrage universel direct par les citoyens des États membres pour un mandat de cinq ans. Ils représentent les citoyens de l'Union européenne et participent à l'adoption des lois européennes ainsi qu'au contrôle des autres institutions. Les ministres siègent au Conseil de l'UE, les chefs d'État au Conseil européen, et les juges à la Cour de justice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-005",
+        "shortId": "Q-A73EDC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que dit l'article 1er de la Constitution française ?",
+        "choices": [
+          {
+            "text": "La France est une République indivisible, laïque, démocratique et sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "La souveraineté nationale appartient au peuple",
+            "isCorrect": false
+          },
+          {
+            "text": "La langue de la République est le français",
+            "isCorrect": false
+          },
+          {
+            "text": "La devise de la République est Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Bien que toutes ces phrases soient dans la Constitution, l'Article 1er définit précisément la nature de la République (Indivisible, Laïque, Démocratique, Sociale)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-032",
+        "shortId": "Q-2F24E7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+        "choices": [
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les Pyrénées forment la frontière naturelle entre la France et l'Espagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-050",
+        "shortId": "Q-912382",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un élève demande à être dispensé du cours de biologie car le contenu sur l'évolution contredit ses croyances. Que répond l'école ?",
+        "choices": [
+          {
+            "text": "L'élève a le droit d'être dispensé pour motif de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus est justifié car les programmes scolaires sont obligatoires et laïques pour tous",
+            "isCorrect": true
+          },
+          {
+            "text": "L'élève peut suivre un enseignement alternatif à domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le rectorat peut accorder une telle dispense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les programmes de l'Éducation nationale sont laïques et obligatoires. Aucune conviction religieuse ne permet de se soustraire aux enseignements officiels qui reposent sur la méthode scientifique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-054",
+        "shortId": "Q-6A7449",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quoi est composé le drapeau européen ?",
+        "choices": [
+          {
+            "text": "De bandes multicolores",
+            "isCorrect": false
+          },
+          {
+            "text": "De 27 étoiles représentant les états membres",
+            "isCorrect": false
+          },
+          {
+            "text": "D'une croix blanche sur fond bleu",
+            "isCorrect": false
+          },
+          {
+            "text": "D'un cercle de 12 étoiles d'or sur fond bleu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le nombre d'étoiles est fixe (12), symbole de perfection et d'unité. Il ne change pas quand le nombre de pays membres change."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-006",
+        "shortId": "Q-0784C9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit la liberté de la presse ?",
+        "choices": [
+          {
+            "text": "Le droit de diffamer des personnalités publiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'informer librement le public dans le respect des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "L'immunité totale des journalistes face à la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de neutralité pour tous les journaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de la presse permet le pluralisme et l'information, mais elle est encadrée par la loi de 1881 qui sanctionne la diffamation, l'injure et la provocation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-013",
+        "shortId": "Q-DCE737",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année Napoléon Ier est-il devenu empereur ?",
+        "choices": [
+          {
+            "text": "1804",
+            "isCorrect": true
+          },
+          {
+            "text": "1799",
+            "isCorrect": false
+          },
+          {
+            "text": "1852",
+            "isCorrect": false
+          },
+          {
+            "text": "1815",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte s'est fait sacrer empereur des Français le 2 décembre 1804 à Notre-Dame de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-004",
+        "shortId": "Q-783093",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Les impôts sont payés uniquement par les entreprises pour financer l'économie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'impôt sur le revenu est la seule source de revenus de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts servent uniquement à rembourser la dette de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts financent les services publics (éducation, santé, sécurité, justice)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les impôts (TVA, impôt sur le revenu, etc.) financent l'ensemble des services publics et la solidarité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-041",
+        "shortId": "Q-3CD367",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+        "choices": [
+          {
+            "text": "1957, par le traité de Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "1986, par l'Acte unique européen",
+            "isCorrect": false
+          },
+          {
+            "text": "1992, par le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "2007, par le traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté européenne a été instituée par le traité de Maastricht, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993. Elle confère aux ressortissants des États membres des droits spécifiques, notamment le droit de circuler et de séjourner librement dans l'UE, le droit de vote et d'éligibilité aux élections municipales et européennes dans l'État de résidence. Le traité de Rome (1957) a fondé la CEE, l'Acte unique (1986) a créé le marché unique, et le traité de Lisbonne (2007) a réformé les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-023",
+        "shortId": "Q-3F0A5A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-il obligatoire de porter secours à une personne en danger ?",
+        "choices": [
+          {
+            "text": "Non, pour ne pas aggraver la situation",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la non-assistance à personne en danger est un délit",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si on est professionnel de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si la victime nous le demande",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Quiconque peut porter secours sans risque pour lui-même ou pour les tiers doit le faire (ou appeler les secours), sous peine de poursuites pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-064",
+        "shortId": "Q-0F92C5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+        "choices": [
+          {
+            "text": "Troyes",
+            "isCorrect": false
+          },
+          {
+            "text": "Limoges",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Poitiers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bordeaux est l'une des plus grandes métropoles françaises en termes de population, avec Paris, Marseille, Lyon, Toulouse, Nice, Nantes, etc."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-015",
+        "shortId": "Q-ABB219",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La contraception :",
+        "choices": [
+          {
+            "text": "Est réservée aux personnes majeures",
+            "isCorrect": false
+          },
+          {
+            "text": "Est autorisée et certains moyens sont pris en charge",
+            "isCorrect": true
+          },
+          {
+            "text": "N'est accessible qu'aux femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Suppose l'autorisation du conjoint dans tous les cas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La contraception est autorisée et accessible en France, y compris pour les mineurs selon les règles prévues. Certains moyens contraceptifs, consultations et examens sont pris en charge par l'Assurance maladie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-018",
+        "shortId": "Q-6CEA95",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la liberté d'association ?",
+        "choices": [
+          {
+            "text": "Le droit de créer ou rejoindre des associations, syndicats et partis",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se réunir sur la voie publique sans autorisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de créer des entreprises commerciales sans taxes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de lever des impôts avec son groupe d'amis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 1901 garantit à tous le droit de créer des associations, partis politiques ou syndicats. Ce droit est distinct de la liberté de réunion (manifestations)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-025",
+        "shortId": "Q-A2DFAB",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, est-ce possible d'adhérer à un parti politique ?",
+        "choices": [
+          {
+            "text": "Non, seuls les candidats aux élections peuvent adhérer",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si l'on exerce une fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, librement, dans le respect des principes démocratiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'appartenance politique est strictement encadrée par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui. L’article 4 de la Constitution de 1958 dispose que les partis et groupements politiques se forment et exercent leur activité librement. Cette liberté s’inscrit dans le cadre du pluralisme politique et du respect des principes démocratiques."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-031",
+        "shortId": "Q-B2463B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'âge de la majorité civile en France ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "À 18 ans, on devient pleinement responsable de ses actes (responsabilité civile et pénale adulte) et on acquiert le droit de vote."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-016",
+        "shortId": "Q-BDE340",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Shoah ?",
+        "choices": [
+          {
+            "text": "La bataille décisive pour la libération de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exode des Français en 1940 face à l'avancée allemande",
+            "isCorrect": false
+          },
+          {
+            "text": "L'extermination systématique des Juifs par les nazis",
+            "isCorrect": true
+          },
+          {
+            "text": "Le nom de code du débarquement en Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Shoah désigne le génocide des Juifs perpétré par le régime nazi et ses collaborateurs pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-013",
+        "shortId": "Q-CC1D21",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut demander le divorce de personnes mariées ?",
+        "choices": [
+          {
+            "text": "Les parents des époux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le maire qui a célébré le mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "L'un des époux ou les deux époux",
+            "isCorrect": true
+          },
+          {
+            "text": "Les enfants du couple",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le divorce concerne les époux eux-mêmes. Il peut être demandé conjointement ou par l'un d'eux, mais ni les enfants, ni le maire, ni d'autres membres de la famille ne peuvent l'introduire à leur place."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-013",
+        "shortId": "Q-179E5D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que commémore la fête nationale ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          },
+          {
+            "text": "La proclamation de la République en 1792",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition de l'esclavage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une double commémoration : la fin de l'absolutisme (1789) et l'union de la nation (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-037",
+        "shortId": "Q-2796AC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui représente l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet représente l’État dans le département. Il est nommé par le Gouvernement en Conseil des ministres. Il veille à l’application des lois, dirige les services de l’État dans le département et assure le contrôle de légalité des actes des collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-048",
+        "shortId": "Q-3FBA9F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été licencié pour faute grave. Avez-vous droit à un préavis et à une indemnité de licenciement ?",
+        "choices": [
+          {
+            "text": "Non, la faute grave prive le salarié de préavis et d'indemnité de licenciement",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la faute grave ne supprime que l'indemnité de licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais réduits de moitié",
+            "isCorrect": false
+          },
+          {
+            "text": "Non pour le préavis, mais l'indemnité de licenciement reste due",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le licenciement pour faute grave entraîne la perte du droit au préavis et à l'indemnité de licenciement. Seule l'indemnité compensatrice de congés payés reste due."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-049",
+        "shortId": "Q-6E15CD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Rouget de Lisle ?",
+        "choices": [
+          {
+            "text": "L'auteur de La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Un général de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le premier maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Un révolutionnaire guillotiné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Claude Joseph Rouget de Lisle a composé le Chant de guerre pour l'armée du Rhin en 1792, devenu ensuite l'hymne national sous le nom de La Marseillaise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-006",
+        "shortId": "Q-16B50F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+        "choices": [
+          {
+            "text": "Seulement pour le premier enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents sont mariés",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents sont de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire pour tous les enfants",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déclaration de naissance est obligatoire pour tout enfant né en France. Cette obligation ne dépend ni du mariage des parents, ni de leur nationalité, ni du rang de naissance de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-072",
+        "shortId": "Q-B53A1F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne affirme que la France n'est plus une démocratie car le gouvernement prend des décisions impopulaires. Cette affirmation est-elle exacte ?",
+        "choices": [
+          {
+            "text": "Oui, la démocratie impose de suivre l'opinion publique sur tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la démocratie représentative permet aux élus de prendre des décisions au nom du peuple, même impopulaires",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car le peuple aurait dû être consulté par référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car la France est une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans une démocratie représentative, les citoyens délèguent le pouvoir à leurs élus. Ces derniers prennent des décisions en leur nom et sont responsables devant eux lors des élections."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-026",
+        "shortId": "Q-A01DD4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-059",
+        "shortId": "Q-9F9903",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes placé en garde à vue. Après combien de temps la garde à vue initiale peut-elle être prolongée ?",
+        "choices": [
+          {
+            "text": "24 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "12 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "36 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La garde à vue initiale est de 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-019",
+        "shortId": "Q-D9F4A9",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1944",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est à la suite du référendum de 1962, voulu par le général de Gaulle, que l'élection du président au suffrage universel direct a été instaurée (première élection en 1965)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-040",
+        "shortId": "Q-3D59DF",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En tant que parent d'élève, il est possible de :",
+        "choices": [
+          {
+            "text": "Choisir l'enseignant de son enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Modifier les programmes d'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "Fixer le calendrier des vacances scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Se présenter aux élections des représentants de parents d'élèves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les parents d'élèves peuvent participer à la vie de l'établissement en élisant leurs représentants et en se présentant à ces élections. En revanche, ils ne choisissent pas les enseignants et ne fixent pas eux-mêmes les programmes ou le calendrier scolaire."
+      }
+    }
+  ]
+}

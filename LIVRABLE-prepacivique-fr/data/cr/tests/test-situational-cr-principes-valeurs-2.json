@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-principes-valeurs-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-021",
+        "shortId": "Q-202F02",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La laïcité française, définie par la loi de 1905, implique que :",
+        "choices": [
+          {
+            "text": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État finance les religions majoritaires pour garantir la paix civile",
+            "isCorrect": false
+          },
+          {
+            "text": "La religion est strictement interdite dans l'espace public urbain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République est le chef spirituel de l'Église de France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 2 de la loi du 9 décembre 1905 pose le principe de non-subventionnement des cultes. L'État garantit la liberté de conscience, mais se sépare de toute institution religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-022",
+        "shortId": "Q-EA16FB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En France, une personne athée ou agnostique peut-elle accéder à la fonction publique ?",
+        "choices": [
+          {
+            "text": "Non, il faut obligatoirement jurer fidélité sur un texte sacré au choix",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'accès aux emplois publics ne peut être restreint par des considérations religieuses ou philosophiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement pour les postes techniques ne nécessitant pas de contact avec le public",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si elle accepte de se convertir à l'une des religions concordataires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité d'accès aux emplois publics est un principe constitutionnel. La République ne fait aucune distinction entre les citoyens en raison de leurs croyances ou de leur absence de croyance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-023",
+        "shortId": "Q-BD5A93",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la condition principale pour qu'un citoyen puisse exercer son droit de vote ?",
+        "choices": [
+          {
+            "text": "Être propriétaire de son logement principal depuis au moins deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir payé ses impôts sur le revenu l'année précédant le scrutin",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les listes électorales et jouir de ses droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué son service militaire ou national complet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel, égal et secret. Pour voter, il faut être majeur, de nationalité française et ne pas être frappé d'une peine d'inéligibilité ou de privation de droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-024",
+        "shortId": "Q-2750F1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le don du sang en France est régi par le principe de :",
+        "choices": [
+          {
+            "text": "Vente régulée par l'État pour financer les hôpitaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Priorité nationale stricte pour les donneurs de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Sélection des donneurs par appartenance religieuse ou philosophique",
+            "isCorrect": false
+          },
+          {
+            "text": "Anonymat, bénévolat et absence de profit",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le corps humain est hors commerce. Le don de sang est un acte de solidarité fraternelle qui doit rester gratuit et anonyme pour éviter toute exploitation commerciale de la santé humaine."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-025",
+        "shortId": "Q-4A707E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'Enseignement Moral et Civique (EMC) à l'école a pour but premier de :",
+        "choices": [
+          {
+            "text": "Former des citoyens capables de jugement critique et respectueux des valeurs républicaines",
+            "isCorrect": true
+          },
+          {
+            "text": "Apprendre les bases du droit constitutionnel pour l'examen du baccalauréat",
+            "isCorrect": false
+          },
+          {
+            "text": "Transmettre une idéologie politique définie par le ministère de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Préparer les élèves à la Journée Défense et Citoyenneté exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'EMC vise à transmettre un socle commun de valeurs (laïcité, égalité femme-homme, refus des discriminations) pour permettre aux élèves de devenir des citoyens libres et responsables au sein de la cité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-026",
+        "shortId": "Q-9ABDE4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'affichage d'un drapeau étranger sur la façade d'une habitation privée est :",
+        "choices": [
+          {
+            "text": "Strictement interdit par le Code pénal en dehors des fêtes nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Libre, tant qu'il n'est pas assorti de propos ou d'actes provoquant à la haine ou au trouble de l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumis à une taxe annuelle d'occupation visuelle de l'espace urbain",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé uniquement pendant la durée officielle des compétitions sportives",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression s'étend au domicile privé. L'affichage d'un drapeau est légal, sauf s'il est utilisé comme un outil de provocation à la violence ou de trouble manifeste à la tranquillité publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-027",
+        "shortId": "Q-E1296F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans le cadre de la liberté d'expression au travail, un employeur peut-il interdire l'usage d'une langue étrangère entre collègues pendant la pause ?",
+        "choices": [
+          {
+            "text": "Oui, car le français est la seule langue autorisée par l'article 2 de la Constitution",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour éviter la formation de clans ou de secrets entre employés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'interdiction serait une discrimination fondée sur l'origine, sauf impératif de sécurité justifié",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'entreprise possède un effectif supérieur à 500 salariés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le salarié dispose d'une liberté d'expression dans l'entreprise. Interdire l'usage d'une langue maternelle durant les temps de pause est considéré comme discriminatoire, sauf raison de sécurité impérieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-028",
+        "shortId": "Q-D61CFA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Selon l'article 13 de la Déclaration des Droits de l'Homme de 1789, la contribution commune (impôt) est :",
+        "choices": [
+          {
+            "text": "Facultative pour les citoyens n'utilisant pas les services publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Proportionnelle aux services utilisés par chaque citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Répartie entre tous les citoyens en raison de leurs facultés",
+            "isCorrect": false
+          },
+          {
+            "text": "Indispensable pour l'entretien de la force publique et les dépenses d'administration",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'impôt est le fondement du financement des services publics et de la solidarité nationale. Il doit être réparti entre les citoyens en raison de leurs capacités contributives."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-029",
+        "shortId": "Q-54715D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La liberté de culte en France est garantie par :",
+        "choices": [
+          {
+            "text": "La loi de 1905, sous réserve du respect impérieux de l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Le bon vouloir discrétionnaire du préfet de chaque département",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature obligatoire d'une charte de piété nationale par l'usager",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour les religions inscrites au registre des cultes reconnus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République garantit la liberté de conscience et le libre exercice des cultes. La seule limite légale est la préservation de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-030",
+        "shortId": "Q-1B3772",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pour déclarer une association loi 1901 en préfecture, quel est le coût des frais administratifs ?",
+        "choices": [
+          {
+            "text": "Une taxe forfaitaire de 150 euros par année d'activité",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est gratuit (publication au Journal Officiel incluse depuis 2020)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le prix est indexé sur le nombre de membres inscrits au bureau",
+            "isCorrect": false
+          },
+          {
+            "text": "Une redevance annuelle de 50 euros payable au Trésor Public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis le 1er janvier 2020, la publication au Journal officiel des associations (JOAFE) est gratuite. La République favorise ainsi l'engagement citoyen par la simplicité des formalités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-031",
+        "shortId": "Q-90E76D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La loi Gayssot de 1990 punit le négationnisme. Quelle est la justification juridique de cette limite ?",
+        "choices": [
+          {
+            "text": "Parce que l'État souhaite imposer une version officielle de l'histoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce qu'il est interdit de contredire les historiens nommés par décret",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que la négation de crimes contre l'humanité avérés constitue une atteinte à la dignité des victimes et à l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement pour protéger les relations diplomatiques de la France avec l'Allemagne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'expression ne permet pas de nier l'existence de crimes contre l'humanité (ex: la Shoah). La loi considère ces propos comme des délits incitant à la haine raciale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-032",
+        "shortId": "Q-158068",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le droit de grève est un principe de valeur constitutionnelle. Quelle catégorie d'agents peut s'en voir privée ?",
+        "choices": [
+          {
+            "text": "Les enseignants du premier degré public",
+            "isCorrect": false
+          },
+          {
+            "text": "Les employés des banques de réseau privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Les personnels des services de nettoyage urbain",
+            "isCorrect": false
+          },
+          {
+            "text": "Les forces de l'ordre (Police, Militaires) et certains magistrats",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Certains corps de l'État dont la mission est vitale pour la continuité de la Nation et la sécurité publique n'ont pas le droit de grève afin de garantir l'ordre républicain."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-033",
+        "shortId": "Q-DBE556",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle institution vérifie que les lois votées respectent la Constitution et les libertés fondamentales ?",
+        "choices": [
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour de Cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Académie Française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil Constitutionnel assure le contrôle de constitutionnalité des lois. Il veille à ce que le Parlement ne porte pas atteinte aux droits fondamentaux garantis par le bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-034",
+        "shortId": "Q-545409",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un citoyen français est tiré au sort pour être juré d'assises. Quelle est son obligation ?",
+        "choices": [
+          {
+            "text": "Il peut décliner l'invitation sans motif s'il ne se sent pas compétent",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un devoir civique obligatoire, sauf motifs de dispense très stricts",
+            "isCorrect": true
+          },
+          {
+            "text": "Il doit être rémunéré au même tarif qu'un avocat de la défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a l'interdiction de juger des personnes ayant une religion différente de la sienne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juré participe directement à l'exercice de la justice au nom du peuple français. Le refus sans motif légitime (santé, âge, profession) peut entraîner une amende sévère."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-035",
+        "shortId": "Q-C2312A",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un maire refuse de célébrer un mariage civil entre deux personnes de même sexe pour des motifs religieux personnels. Quelle est la règle ?",
+        "choices": [
+          {
+            "text": "Le maire exerce son droit légal à l'objection de conscience républicaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage doit obligatoirement être célébré par un prêtre à la place",
+            "isCorrect": false
+          },
+          {
+            "text": "Il commet une faute grave et un acte discriminatoire passible de sanctions pénales",
+            "isCorrect": true
+          },
+          {
+            "text": "Il peut déléguer indéfiniment le mariage à une commune voisine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En tant qu'officier d'état civil, le maire représente l'État. Il doit appliquer la loi de la République (loi de 2013) sans discrimination. Il n'existe pas de clause de conscience pour les maires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-036",
+        "shortId": "Q-D5DA0B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'organisation d'une manifestation sur la voie publique nécessite légalement :",
+        "choices": [
+          {
+            "text": "L'autorisation préalable écrite du Premier Ministre après avis du préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement d'une redevance d'occupation de l'espace pour les manifestants",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien, la liberté de manifester est absolue et ne souffre d'aucune formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Une déclaration préalable en mairie ou préfecture précisant le parcours",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La manifestation est un droit, mais elle doit être déclarée pour permettre aux autorités d'assurer la sécurité et le maintien de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-037",
+        "shortId": "Q-F970AB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un particulier installe une caméra de surveillance chez lui. Quelle est la limite imposée par le droit à la vie privée ?",
+        "choices": [
+          {
+            "text": "La caméra ne doit filmer que l'intérieur de sa propriété et ne jamais pointer sur la voie publique",
+            "isCorrect": true
+          },
+          {
+            "text": "Il peut filmer tout le quartier s'il prévient ses voisins par courrier recommandé",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit obtenir l'autorisation de la CNIL pour filmer son propre jardin privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Les images doivent être diffusées sur un serveur public pour prouver l'absence de vol",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit à l'image et le respect de la vie privée interdisent aux particuliers de filmer l'espace public ou les propriétés voisines sans consentement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-038",
+        "shortId": "Q-DB5338",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En France, la dignité de la personne humaine est juridiquement considérée comme :",
+        "choices": [
+          {
+            "text": "Une notion philosophique intéressante mais sans aucune valeur contraignante",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe à valeur constitutionnelle qui s'impose même contre la volonté de la personne concernée",
+            "isCorrect": true
+          },
+          {
+            "text": "Un droit d'usage réservé exclusivement aux citoyens majeurs et capables",
+            "isCorrect": false
+          },
+          {
+            "text": "Une option laissée à l'entière appréciation des juges du tribunal de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La dignité humaine est un socle du droit français (PFRLR). Elle interdit des pratiques dégradantes, même si l'individu y consent, car cela porte atteinte à l'humanité en tant que telle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-039",
+        "shortId": "Q-D8D123",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe d'Égalité devant la loi signifie précisément que :",
+        "choices": [
+          {
+            "text": "Tout le monde doit percevoir exactement le même traitement salarial par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit au Parlement de créer des lois spécifiques pour les mineurs ou les retraités",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi s'applique de la même manière à tous les citoyens placés dans une situation identique",
+            "isCorrect": true
+          },
+          {
+            "text": "Les tribunaux doivent être gratuits pour les riches et payants pour les classes moyennes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'égalité républicaine signifie l'absence de privilèges. Des différences de traitement sont possibles si elles sont fondées sur une différence de situation objective et en rapport avec l'objet de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-040",
+        "shortId": "Q-3349E3",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la définition républicaine du communautarisme, considéré comme une menace pour l'unité ?",
+        "choices": [
+          {
+            "text": "Le fait de vivre dans un quartier avec des voisins partageant la même origine géographique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'apprentissage d'une langue régionale comme le breton ou l'alsacien à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partage de repas traditionnels ou familiaux lors des fêtes de fin d'année",
+            "isCorrect": false
+          },
+          {
+            "text": "La volonté de faire prévaloir les règles d'un groupe spécifique sur les lois communes de la Nation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République est 'une et indivisible'. Le communautarisme est critiqué lorsqu'il mène à une sécession civique où l'individu privilégie des normes religieuses ou ethniques au détriment des lois républicaines."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-droits-et-devoirs-3",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-standard-002",
+        "shortId": "Q-B81F46",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité indépendante protège vos droits face à l'administration ?",
+        "choices": [
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une institution que tout usager peut saisir gratuitement en cas de litige avec un service public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-014",
+        "shortId": "Q-4A6988",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le statut du vote en France pour les élections nationales ?",
+        "choices": [
+          {
+            "text": "C'est un droit et un devoir moral, mais pas une obligation légale",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est une obligation sanctionnée par une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un droit réservé uniquement aux propriétaires de logements",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un acte facultatif réservé aux fonctionnaires de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Voter est un droit civique essentiel pour la démocratie, mais l'abstention n'est pas punie par la loi en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-051",
+        "shortId": "Q-E7E489",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro des Sapeurs-Pompiers pour les incendies et secours ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "119",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 18 est le numéro historique pour les secours d'urgence et les périls."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-038",
+        "shortId": "Q-594DE0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis 2013, le mariage est ouvert en France :",
+        "choices": [
+          {
+            "text": "Uniquement aux personnes nées en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement aux couples de sexe différent",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux couples de même sexe ou de sexe différent",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement aux citoyens de l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi autorise le mariage pour tous les couples, garantissant l'égalité des droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-052",
+        "shortId": "Q-C56AA2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel numéro appeler pour le SAMU (urgence médicale vitale) ?",
+        "choices": [
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "114",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 15 permet d'obtenir une réponse médicale immédiate et d'orienter les secours."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-042",
+        "shortId": "Q-3B8666",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le harcèlement scolaire est considéré en France comme :",
+        "choices": [
+          {
+            "text": "Un conflit interpersonnel sans conséquence juridique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un comportement sanctionné uniquement par le règlement intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une problématique relevant exclusivement de la responsabilité des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La répétition de violences physiques ou morales est sévèrement sanctionnée pour protéger les élèves."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-057",
+        "shortId": "Q-500FC2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas exceptionnel peut-on retirer la nationalité à un binational ?",
+        "choices": [
+          {
+            "text": "S'il ne vote pas à trois élections de suite",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il refuse de payer ses impôts fonciers",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il déménage définitivement à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il commet un acte de terrorisme grave",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déchéance de nationalité est une mesure très rare pour protéger l'intérêt fondamental de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-041",
+        "shortId": "Q-BB8258",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À qui s'applique l'obligation de respecter les lois françaises ?",
+        "choices": [
+          {
+            "text": "Seulement aux citoyens de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement aux personnes qui ont un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "À toute personne se trouvant sur le territoire français",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement aux fonctionnaires de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le respect de la loi est une obligation territoriale pour tous (touristes, résidents, citoyens)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-024",
+        "shortId": "Q-81989B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment l'État garantit-il l'accès à un avocat pour les personnes aux revenus modestes ?",
+        "choices": [
+          {
+            "text": "Par des conventions passées entre les barreaux et les mairies",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Par une assurance justice obligatoire incluse dans la mutuelle santé",
+            "isCorrect": false
+          },
+          {
+            "text": "En interdisant les frais d'avocat pour tous",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet la prise en charge totale ou partielle des frais de justice par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-044",
+        "shortId": "Q-1EA1FB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant l'excision (mutilation sexuelle) en France ?",
+        "choices": [
+          {
+            "text": "C'est une tradition respectée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé si les parents le demandent",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un crime grave interdit par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est permis si c'est pratiqué à l'hôpital",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'excision est une atteinte intolérable à l'intégrité physique de la femme, punie par la prison."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-029",
+        "shortId": "Q-FB26BF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de base pour contracter un mariage en France ?",
+        "choices": [
+          {
+            "text": "Le choix exclusif par les parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Le consentement libre et éclairé des deux époux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de posséder un emploi stable",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement d'une taxe à la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi interdit le mariage forcé ; le consentement mutuel est indispensable."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-056",
+        "shortId": "Q-D5ACF6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment le racisme et l'antisémitisme sont-ils qualifiés par la loi ?",
+        "choices": [
+          {
+            "text": "Comme des traditions culturelles anciennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des opinions protégées par la liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des désaccords privés sans importance",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des délits punis par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Discriminer ou inciter à la haine contre un groupe est une infraction pénale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-064",
+        "shortId": "Q-0C8254",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet la liberté d'association garantie par la loi de 1901 ?",
+        "choices": [
+          {
+            "text": "De créer une structure pour défendre les intérêts d'un métier",
+            "isCorrect": false
+          },
+          {
+            "text": "D'échapper à l'application des lois civiles",
+            "isCorrect": false
+          },
+          {
+            "text": "De fonder une entreprise pour faire du profit personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "De se regrouper pour un projet commun sans but lucratif",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 1901 permet à toute personne de créer librement une association pour un projet commun (sport, culture, aide humanitaire) sans but lucratif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-037",
+        "shortId": "Q-87ADB8",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté permet aux citoyens de se rassembler temporairement ?",
+        "choices": [
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de réunion et de manifestation",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de réunion et de manifestation est un droit fondamental pour exprimer des opinions collectives pacifiquement, encadré par une déclaration préalable en préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-003",
+        "shortId": "Q-575599",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'indisponibilité du corps humain ?",
+        "choices": [
+          {
+            "text": "Le corps humain ne peut pas être une source de profit (vente d'organes)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le don de sang est une obligation pour tous les résidents",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État décide seul des soins médicaux pour chaque individu",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit de pratiquer une activité physique sans autorisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe interdit de considérer le corps ou ses éléments comme des marchandises ; le don doit être gratuit et volontaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-017",
+        "shortId": "Q-8AC6E6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit le droit à la sûreté ?",
+        "choices": [
+          {
+            "text": "La protection contre les arrestations arbitraires",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de posséder une arme pour se défendre",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de souscrire à une assurance privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser les contrôles d'identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inscrit dans la DDHC, ce droit assure que nul ne peut être détenu sans motif légal prévu par un juge."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-004",
+        "shortId": "Q-5B6C0A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui exerce l'autorité parentale pour protéger et éduquer un enfant mineur ?",
+        "choices": [
+          {
+            "text": "Les deux parents en commun",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la commune uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le directeur de l'école primaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de l'Éducation nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs exercés conjointement par les parents pour l'intérêt de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-027",
+        "shortId": "Q-E0847D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle journée obligatoire remplace l'ancien service militaire pour les jeunes ?",
+        "choices": [
+          {
+            "text": "Le service civique de deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La Journée Défense et Citoyenneté (JDC)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le stage de découverte en entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'examen national du code de la route",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La JDC sensibilise les jeunes aux enjeux de défense et aux droits et devoirs du citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-047",
+        "shortId": "Q-0DB8C0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi la liberté de la presse est-elle importante ?",
+        "choices": [
+          {
+            "text": "Pour que les journaux soient gratuits",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour permettre la publicité commerciale",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir le pluralisme et l'information des citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour interdire les critiques contre le pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une presse libre est une condition indispensable au bon fonctionnement d'une démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-005",
+        "shortId": "Q-638C94",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la limite légale à la liberté d'expression en France ?",
+        "choices": [
+          {
+            "text": "L'injure publique et l'incitation à la haine raciale",
+            "isCorrect": true
+          },
+          {
+            "text": "L'expression d'un désaccord avec le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "La pratique d'une religion différente de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "La publication d'une opinion politique minoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression est fondamentale mais elle ne permet pas de porter atteinte à la dignité des personnes."
+      }
+    }
+  ]
+}

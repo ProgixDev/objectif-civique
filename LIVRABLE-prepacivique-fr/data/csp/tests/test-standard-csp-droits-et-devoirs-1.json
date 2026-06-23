@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-droits-et-devoirs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-standard-065",
+        "shortId": "Q-B752D3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de dignité humaine interdit formellement :",
+        "choices": [
+          {
+            "text": "De soumettre une personne à des conditions de travail indignes",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser l'accès aux soins médicaux d'urgence à quiconque",
+            "isCorrect": false
+          },
+          {
+            "text": "De discriminer une personne en raison de son origine ou de son handicap",
+            "isCorrect": false
+          },
+          {
+            "text": "De traiter un être humain comme un objet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La dignité est un principe absolu qui protège l'intégrité de chaque personne contre toute dégradation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-020",
+        "shortId": "Q-1EB755",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité devant la loi ?",
+        "choices": [
+          {
+            "text": "La règle est la même pour tous, sans distinction de titre ou d'origine",
+            "isCorrect": true
+          },
+          {
+            "text": "Chaque citoyen a le droit de voter deux fois aux élections",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit donner le même salaire à tous les travailleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lois ne s'appliquent qu'aux personnes majeures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité juridique garantit qu'aucune personne ne bénéficie de privilèges devant les tribunaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-032",
+        "shortId": "Q-EA0218",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi le vote est-il secret en France ?",
+        "choices": [
+          {
+            "text": "Pour empêcher le gouvernement de connaître les résultats",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir la liberté de choix et éviter les pressions",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour que personne ne sache qui est candidat",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour réduire le temps d'attente dans les bureaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'isoloir est obligatoire pour que l'électeur puisse voter en toute indépendance."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-015",
+        "shortId": "Q-FBEE80",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge le recensement citoyen à la mairie devient-il obligatoire ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le recensement est obligatoire pour tous les jeunes Français ; il permet d'être convoqué à la JDC."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-053",
+        "shortId": "Q-4BC8B7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'urgence unique valable partout en Europe ?",
+        "choices": [
+          {
+            "text": "911",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "112",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 112 est accessible gratuitement depuis n'importe quel téléphone dans l'UE."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-058",
+        "shortId": "Q-F4B59A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le système de la Sécurité sociale garantit aux résidents ?",
+        "choices": [
+          {
+            "text": "Le droit à une formation professionnelle continue et gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accès gratuit à tous les transports en commun du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie d'un logement social pour chaque résident",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de la santé et une sécurité matérielle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins et le versement de pensions (retraite, allocations)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-060",
+        "shortId": "Q-5EB0D4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dissimuler son visage dans l'espace public (rue, commerces) est :",
+        "choices": [
+          {
+            "text": "Encouragé pour la protection des données",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire durant les périodes de grand froid",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé pour des motifs religieux personnels",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit par la loi pour la sécurité et la vie sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 2010 interdit de masquer son visage dans les lieux publics pour garantir le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-049",
+        "shortId": "Q-6EE890",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le tri des déchets est considéré comme :",
+        "choices": [
+          {
+            "text": "Une punition pour les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Une activité payante à domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Un geste citoyen pour l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de consommer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le tri permet de recycler les matériaux et de réduire la pollution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-028",
+        "shortId": "Q-9AEA4E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le PACS (Pacte Civil de Solidarité) ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'aide au logement pour les jeunes couples",
+            "isCorrect": false
+          },
+          {
+            "text": "Un contrat pour organiser la vie commune d'un couple",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord de médiation familiale en cas de séparation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement de solidarité financière entre colocataires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le PACS est une union légale ouverte aux couples de même sexe ou de sexe différent."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-026",
+        "shortId": "Q-5C763F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel devoir citoyen concerne la protection de la nature ?",
+        "choices": [
+          {
+            "text": "L'obligation de posséder un jardin privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de préserver l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction de voyager en avion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de devenir membre d'une association",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Charte de l'environnement précise que toute personne a le devoir de prendre part à la préservation de l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-063",
+        "shortId": "Q-B3CD25",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Au nom de qui la justice est-elle rendue dans les tribunaux français ?",
+        "choices": [
+          {
+            "text": "Au nom du Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de l'Ordre des avocats de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de la religion majoritaire du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom du Peuple français",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La justice est une fonction souveraine exercée au nom de la Nation entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-039",
+        "shortId": "Q-EB4F77",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document est indispensable pour un étranger hors UE souhaitant travailler ?",
+        "choices": [
+          {
+            "text": "Un certificat de l'ambassade",
+            "isCorrect": false
+          },
+          {
+            "text": "Une lettre de recommandation d'un citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Un titre de séjour autorisant le travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Une attestation d'inscription au chômage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de travailler est lié à la détention d'une autorisation administrative."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-018",
+        "shortId": "Q-803CC2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le secret professionnel s'applique principalement pour protéger :",
+        "choices": [
+          {
+            "text": "La confiance entre un professionnel (médecin, avocat) et son usager",
+            "isCorrect": true
+          },
+          {
+            "text": "Les secrets de fabrication des entreprises privées uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les discussions privées entre les membres d'une même famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Le montant du salaire des employés de la fonction publique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Il garantit que les informations confiées à certains professionnels ne seront pas divulguées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-048",
+        "shortId": "Q-6F0B2A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel numéro sert à contacter les urgences par SMS (pour les personnes sourdes) ?",
+        "choices": [
+          {
+            "text": "112",
+            "isCorrect": false
+          },
+          {
+            "text": "115",
+            "isCorrect": false
+          },
+          {
+            "text": "114",
+            "isCorrect": true
+          },
+          {
+            "text": "118",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 114 permet aux personnes ayant des difficultés d'audition ou de parole de donner l'alerte."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-023",
+        "shortId": "Q-5A0E38",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit constitutionnel permet aux salariés de défendre leurs intérêts professionnels ?",
+        "choices": [
+          {
+            "text": "Le droit de s'absenter sans prévenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de choisir son salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser toutes les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La grève est une cessation concertée du travail pour porter des revendications professionnelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-055",
+        "shortId": "Q-07E63B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le viol entre époux au sein d'un mariage est :",
+        "choices": [
+          {
+            "text": "Une affaire privée qui ne concerne pas la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une situation tolérée par le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cause de divorce simple sans autre peine",
+            "isCorrect": false
+          },
+          {
+            "text": "Un crime puni par la loi pénale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mariage ne remplace pas le consentement ; le viol conjugal est sévèrement puni."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-036",
+        "shortId": "Q-5BB589",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'urgence pour joindre Police Secours ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": true
+          },
+          {
+            "text": "119",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 17 permet de signaler une agression ou un vol nécessitant une intervention rapide."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-016",
+        "shortId": "Q-8F5007",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle financière de l'école publique en France ?",
+        "choices": [
+          {
+            "text": "Elle est gratuite pour tous les enfants",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est payante pour les élèves étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle nécessite un abonnement annuel obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est financée uniquement par les mairies riches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La gratuité de l'enseignement public garantit l'égal accès de tous les enfants à l'instruction."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-035",
+        "shortId": "Q-494D6A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de l'instruction en France ?",
+        "choices": [
+          {
+            "text": "Elle est réservée aux familles françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est obligatoire pour tous de 3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est payante à partir du collège",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est facultative si l'enfant travaille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est un droit garanti à tout enfant résidant sur le territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-022",
+        "shortId": "Q-3001D3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut décider d'utiliser une méthode de contraception ?",
+        "choices": [
+          {
+            "text": "Le conjoint ou le père de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement selon son choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement le médecin traitant après examen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État par une loi de régulation annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de disposer de son corps inclut la liberté de choisir sa contraception."
+      }
+    }
+  ]
+}

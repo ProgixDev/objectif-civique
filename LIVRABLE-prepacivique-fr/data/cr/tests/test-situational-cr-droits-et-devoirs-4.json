@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-droits-et-devoirs-4",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-situational-061",
+        "shortId": "Q-FA8292",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre propriétaire veut entrer chez vous pour vérifier l'état de l'appartement en votre absence. A-t-il le droit ?",
+        "choices": [
+          {
+            "text": "Oui, s'il vous a prévenu 48h à l'avance par courrier",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une clause du bail l'y autorise généralement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une violation de domicile. Il doit avoir votre accord pour entrer",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour les visites d'entretien prévues par la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le locataire a la jouissance exclusive du logement. Le propriétaire n'a pas le droit d'y entrer sans autorisation, sous peine de poursuites pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-062",
+        "shortId": "Q-4C99FF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez des propos racistes ou antisémites sur un forum public. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Contacter directement l'hébergeur du site pour demander le retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "Capturer l'écran et déposer une plainte au commissariat",
+            "isCorrect": false
+          },
+          {
+            "text": "Les signaler sur la plateforme Pharos (internet-signalement.gouv.fr)",
+            "isCorrect": true
+          },
+          {
+            "text": "Signaler le contenu au modérateur du forum uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'incitation à la haine raciale n'est pas une opinion mais un délit. La plateforme Pharos permet de signaler ces contenus illicites aux autorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-063",
+        "shortId": "Q-EC4C91",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez acheté un appareil électroménager qui tombe en panne au bout de 6 mois. La réparation est-elle payante ?",
+        "choices": [
+          {
+            "text": "Oui, la garantie constructeur standard est de 6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf si le défaut était présent à l'achat",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la garantie légale de conformité est de 2 ans minimum pour les produits neufs",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais uniquement si vous avez conservé l'emballage d'origine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, tout produit neuf bénéficie d'une garantie légale de conformité de 2 ans. Le vendeur doit réparer, remplacer ou rembourser sans frais."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-064",
+        "shortId": "Q-E946B2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez vous marier. À la mairie, l'officier suspecte un « mariage blanc » (pour les papiers). Que peut-il faire ?",
+        "choices": [
+          {
+            "text": "Reporter la cérémonie de 30 jours pour vérification",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander des preuves de vie commune avant de célébrer",
+            "isCorrect": false
+          },
+          {
+            "text": "Refuser directement de célébrer le mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Procureur de la République pour enquête et éventuellement s'opposer au mariage",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le maire, en tant qu'officier d'état civil, peut saisir le procureur s'il existe des indices sérieux que le mariage n'a pas d'intention matrimoniale réelle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-065",
+        "shortId": "Q-824B72",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur ne vous a pas payé votre salaire depuis 2 mois. Que faire ?",
+        "choices": [
+          {
+            "text": "Cesser le travail immédiatement sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer une mise en demeure par courrier simple",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Conseil de Prud'hommes (référé) pour obtenir le paiement",
+            "isCorrect": true
+          },
+          {
+            "text": "Déposer une plainte pénale au commissariat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le non-paiement du salaire est une faute grave de l'employeur. Le référé prud'homal permet d'obtenir une condamnation rapide au paiement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-066",
+        "shortId": "Q-3113A8",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous roulez en voiture sans assurance. Vous avez un accident responsable. Qui paie ?",
+        "choices": [
+          {
+            "text": "Le Fonds de Garantie, qui se retournera ensuite contre vous pour vous faire payer toute votre vie",
+            "isCorrect": true
+          },
+          {
+            "text": "Votre responsabilité civile personnelle si vous en avez une",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez payer directement la victime, sans intermédiaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance de la victime, via le recours subrogatoire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Rouler sans assurance est un délit grave. Le Fonds de Garantie indemnise les victimes mais exige ensuite le remboursement intégral des sommes par le conducteur non assuré."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-067",
+        "shortId": "Q-1EBC4C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez créer une association loi 1901 pour jouer aux échecs. Est-ce compliqué ?",
+        "choices": [
+          {
+            "text": "Oui, il faut au minimum 7 membres fondateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut présenter un budget prévisionnel à la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est gratuit (ou presque), il suffit de déclarer les statuts en préfecture (ou en ligne)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais il faut obligatoirement ouvrir un compte bancaire dédié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'association permet de créer très facilement une structure juridique avec une simple déclaration administrative."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-068",
+        "shortId": "Q-794067",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant se fait harceler à l'école. L'établissement ne fait rien. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Déposer une main courante au commissariat et attendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer un courrier recommandé au directeur uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Alerter le référent harcèlement, l'Inspection Académique et appeler le 3020 (Numéro d'aide)",
+            "isCorrect": true
+          },
+          {
+            "text": "Saisir directement le tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le harcèlement scolaire est pris très au sérieux. Les parents doivent signaler les faits à la hiérarchie de l'Éducation Nationale et peuvent porter plainte."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-069",
+        "shortId": "Q-A521F4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte. Vous cherchez du travail. Devez-vous le dire en entretien d'embauche ?",
+        "choices": [
+          {
+            "text": "Non, vous n'êtes pas obligée de révéler votre grossesse a un employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour permettre à l'employeur d'organiser votre remplacement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est obligatoire pour les contrats de plus de 6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour certains postes à risque (travail de nuit, port de charges)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège les femmes enceintes contre la discrimination. Une candidate n'est pas tenue de révéler sa grossesse lors de l'embauche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-070",
+        "shortId": "Q-C4FA47",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une contravention mais ce n'était pas vous au volant (votre voiture a été prêtée). Que faire ?",
+        "choices": [
+          {
+            "text": "Contester l'amende en désignant le véritable conducteur (ou en prouvant que ce n'était pas vous)",
+            "isCorrect": true
+          },
+          {
+            "text": "Payer l'amende car le titulaire de la carte grise est toujours responsable",
+            "isCorrect": false
+          },
+          {
+            "text": "Ignorer l'amende car sans photo du conducteur, elle est nulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire opposition au prélèvement auprès de votre banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Vous pouvez contester une infraction. Si vous désignez le vrai conducteur, l'amende et le retrait de points lui seront transférés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-071",
+        "shortId": "Q-2DAF05",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous faites des travaux chez vous et trouvez un trésor (pièces d'or) dans le mur. À qui est-il ?",
+        "choices": [
+          {
+            "text": "100% à vous si vous êtes propriétaire",
+            "isCorrect": true
+          },
+          {
+            "text": "50% à vous, 50% à l'État au titre du patrimoine national",
+            "isCorrect": false
+          },
+          {
+            "text": "100% à l'État s'il a plus de 100 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Au propriétaire précédent ou à ses héritiers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le trésor découvert sur son propre terrain appartient intégralement à son propriétaire (Article 716 du Code civil). Si le trésor est découvert par un tiers (ouvrier, voisin) sur votre terrain, il est partagé à 50/50."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-072",
+        "shortId": "Q-558645",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez donner votre sang. Une condition est-elle nécessaire ?",
+        "choices": [
+          {
+            "text": "Peser au minimum 60 kg pour les hommes et 55 kg pour les femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas avoir voyagé hors d'Europe dans les 6 derniers mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Être majeur (18-70 ans) et en bonne santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir fait un bilan sanguin dans les 3 mois précédents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le don du sang est un acte volontaire, anonyme et gratuit, ouvert à toute personne majeure en bonne santé répondant aux critères médicaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-073",
+        "shortId": "Q-46B09C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un démarcheur vient chez vous et vous force un peu la main pour signer un contrat. Pouvez-vous annuler ?",
+        "choices": [
+          {
+            "text": "Oui, pour le démarchage à domicile, vous avez 14 jours pour vous rétracter",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, une fois signé, le contrat vous engage définitivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement si le montant dépasse 200 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous prouvez un vice du consentement devant un juge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le démarchage à domicile est strictement encadré (abus de faiblesse). Le délai de rétractation de 14 jours s'applique obligatoirement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-074",
+        "shortId": "Q-79FA69",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous être pris en flagrant délit de taguer un mur public. La peine peut-elle inclure de nettoyer ?",
+        "choices": [
+          {
+            "text": "Non, seules des peines d'amende ou de prison sont prévues",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, cela s'appelle un Travail d'Intérêt Général (TIG)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, la réparation est toujours à la charge de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pour les mineurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juge peut condamner à un TIG (avec l'accord du prévenu) comme peine alternative ou complémentaire, souvent pour réparer les dégâts commis."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-075",
+        "shortId": "Q-FD122A",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été victime d'un vol. La police refuse de prendre votre plainte. Est-ce normal ?",
+        "choices": [
+          {
+            "text": "Oui, pour les vols de faible valeur, une main courante suffit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si aucun témoin n'est disponible",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la police est obligée de prendre les plaintes. Vous pouvez saisir le Procureur directement par courrier",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais vous devez d'abord déposer une pré-plainte en ligne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les services de police ou de gendarmerie ne peuvent refuser d'enregistrer une plainte (Article 15-3 du Code de procédure pénale)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-076",
+        "shortId": "Q-CE50E0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre voisin brûle des feuilles mortes et des plastiques dans son jardin. La fumée vous gêne. A-t-il le droit ?",
+        "choices": [
+          {
+            "text": "Oui, s'il respecte les horaires autorisés par la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour les déchets végétaux uniquement, pas le plastique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf dérogation préfectorale dans certaines communes rurales",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le brûlage des déchets verts et ordures à l'air libre est interdit (pollution)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pour des raisons de santé publique et d'environnement, il est interdit de brûler des déchets verts (doivent aller en déchetterie) ou ménagers chez soi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-077",
+        "shortId": "Q-F7487F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter le plan cadastral de votre commune pour voir les limites d'un terrain. Est-ce payant ?",
+        "choices": [
+          {
+            "text": "Non, la consultation du cadastre est gratuite en mairie ou sur internet (cadastre.gouv.fr)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, un forfait de 15 euros par consultation est appliqué",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf pour les propriétaires du terrain concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais les copies certifiées conformes sont payantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le cadastre est un document administratif public accessible gratuitement à tous les citoyens pour connaître la propriété foncière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-078",
+        "shortId": "Q-1F26F4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez 16 ans. Vous voulez travailler cet été. Avez-vous besoin de l'accord de vos parents ?",
+        "choices": [
+          {
+            "text": "Non, à partir de 16 ans vous pouvez signer seul un contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'autorisation des représentants légaux est obligatoire pour un mineur",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, si le contrat est un contrat d'apprentissage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le contrat de travail entraîne l'émancipation automatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mineur de plus de 16 ans peut travailler, mais il doit obligatoirement avoir l'autorisation écrite de ses parents ou tuteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-079",
+        "shortId": "Q-C27DFA",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime de violences conjugales. Le médecin peut-il briser le secret médical pour vous signaler ?",
+        "choices": [
+          {
+            "text": "Non, le secret médical est absolu sauf pour les mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si la victime donne son accord écrit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la victime est en danger immédiat et sous emprise (Loi de 2020), il peut prévenir le Procureur",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement en cas de blessures nécessitant plus de 8 jours d'ITT",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi a évolué pour protéger les victimes. Le médecin peut désormais signaler des violences conjugales au procureur s'il estime que la vie de la victime est en danger immédiat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-080",
+        "shortId": "Q-14A3EF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez vous baigner dans un lac non surveillé où un panneau dit « Baignade interdite ». Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Une amende, car la baignade est interdite et potentiellement dangereuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune sanction car la baignade est libre en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple remarque verbale des autorités",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contravention uniquement si un accident survient",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Braver une interdiction municipale de baignade (arrêté du maire) est passible d'une amende de 1ère classe (38€), mais le vrai risque est la sécurité."
+      }
+    }
+  ]
+}

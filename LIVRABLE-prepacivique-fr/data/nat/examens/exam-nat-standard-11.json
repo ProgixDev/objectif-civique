@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-11",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-029",
+        "shortId": "Q-A3AC59",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi la France est-elle définie comme une République 'sociale' dans la Constitution ?",
+        "choices": [
+          {
+            "text": "Parce qu'elle garantit la protection des plus faibles (Sécurité sociale, solidarité)",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce qu'elle est dirigée par un parti socialiste",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que les syndicats dirigent le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que l'économie est entièrement étatisée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le caractère 'social' de la République signifie que la collectivité doit assurer à l'individu et à la famille les conditions nécessaires à leur développement (santé, retraite, chômage) via la solidarité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-018",
+        "shortId": "Q-A244F3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi « Sapin II » de 2016 a créé un statut protecteur pour :",
+        "choices": [
+          {
+            "text": "Les lanceurs d'alerte",
+            "isCorrect": true
+          },
+          {
+            "text": "Les exilés fiscaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les diplomates étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élus locaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le lanceur d'alerte, qui signale de bonne foi un crime ou une menace grave pour l'intérêt général, est protégé contre les représailles (licenciement, discrimination)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-025",
+        "shortId": "Q-DA61D5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La lutte contre le racisme et l'antisémitisme est :",
+        "choices": [
+          {
+            "text": "Une opinion politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation morale facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une priorité de l'État inscrite dans la loi pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée aux associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le racisme et l'antisémitisme ne sont pas des opinions mais des délits. La République combat toute haine fondée sur l'origine ou la religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-021",
+        "shortId": "Q-CC070B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai pour saisir le Conseil de Prud'hommes afin de contester un licenciement ?",
+        "choices": [
+          {
+            "text": "12 mois (1 an)",
+            "isCorrect": true
+          },
+          {
+            "text": "2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis les ordonnances de 2017, le délai de prescription pour contester la rupture du contrat de travail est fixé à 12 mois à compter de la notification du licenciement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-002",
+        "shortId": "Q-104907",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie concrètement le caractère « social » de la République ?",
+        "choices": [
+          {
+            "text": "Que l'État doit garantir à tous la sécurité matérielle, la protection de la santé et le repos",
+            "isCorrect": true
+          },
+          {
+            "text": "Que les citoyens sont obligés de faire du bénévolat",
+            "isCorrect": false
+          },
+          {
+            "text": "Que les entreprises appartiennent à l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Que la France est un pays socialiste",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République sociale implique la solidarité nationale : l'État met en œuvre des protections (Sécurité sociale, école gratuite, aides) pour assurer des moyens convenables d'existence à tous."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-052",
+        "shortId": "Q-959BBF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes salarié protégé (délégué syndical). Votre employeur veut vous licencier. Quelle autorisation est nécessaire ?",
+        "choices": [
+          {
+            "text": "L'accord du comité social et économique (CSE)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'avis favorable du médecin du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorisation préalable de l'inspecteur du travail",
+            "isCorrect": true
+          },
+          {
+            "text": "La validation du tribunal judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le licenciement d'un salarié protégé (représentant du personnel, délégué syndical) nécessite l'autorisation préalable de l'inspecteur du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-046",
+        "shortId": "Q-2DDDC2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un mouvement régionaliste demande l'indépendance de sa région et le droit de voter ses propres lois. Est-ce constitutionnellement possible ?",
+        "choices": [
+          {
+            "text": "Oui, chaque région a le droit à l'autodétermination",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'indivisibilité de la République interdit toute sécession",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, avec un référendum local obtenant 75% des voix",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'avis du Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 1er de la Constitution proclame la République 'indivisible'. Aucune partie du territoire métropolitain ne peut faire sécession ou adopter une législation contraire aux lois nationales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-018",
+        "shortId": "Q-50C229",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'employeur peut-il consulter les fichiers stockés sur votre ordinateur professionnel ?",
+        "choices": [
+          {
+            "text": "Non, jamais sans votre présence",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, car ils sont présumés professionnels, sauf s'ils sont identifiés comme 'personnels'",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, tous les fichiers appartiennent à l'entreprise sans exception",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une violation du RGPD",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La jurisprudence établit que les dossiers et fichiers créés par un salarié sur l'ordinateur de l'entreprise sont présumés professionnels. L'employeur peut donc les ouvrir hors de sa présence, sauf s'ils sont explicitement identifiés comme personnels."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-029",
+        "shortId": "Q-917C4B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution, fondée par Richelieu en 1635, est chargée de définir et protéger la langue française ?",
+        "choices": [
+          {
+            "text": "L'Université de la Sorbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bibliothèque nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les 40 membres de l'Académie française sont surnommés les « Immortels ». Ils rédigent le Dictionnaire de l'Académie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-009",
+        "shortId": "Q-95084E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre entreprise interdit toute conversation dans une langue étrangère, même pendant les pauses café. Cette clause du règlement intérieur est-elle valide ?",
+        "choices": [
+          {
+            "text": "Non, c'est une atteinte disproportionnée aux libertés individuelles et une discrimination",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le français est la seule langue autorisée sur le sol français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour préserver la culture d'entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'entreprise reçoit des subventions publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'employeur ne peut imposer le français que si cela est justifié par la nature de la tâche (sécurité, relation client). Interdire une langue étrangère lors des temps de pause est abusif et discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-058",
+        "shortId": "Q-239DC0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous propose une rupture conventionnelle. Disposez-vous d'un délai de rétractation ?",
+        "choices": [
+          {
+            "text": "Non, la signature est définitive",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, 15 jours calendaires pour vous rétracter après la signature de la convention",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, 7 jours ouvrables",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf accord contraire dans la convention",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après la signature d'une rupture conventionnelle, chaque partie dispose d'un délai de rétractation de 15 jours calendaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-020",
+        "shortId": "Q-D9104E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a composé le « Boléro », l'une des œuvres classiques les plus jouées au monde ?",
+        "choices": [
+          {
+            "text": "Claude Debussy",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Hector Berlioz",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Bizet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Maurice Ravel a composé cette œuvre en 1928. Son rythme répétitif et son crescendo orchestral sont célèbres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-032",
+        "shortId": "Q-0ABA30",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle devise figure sur les pièces de monnaie françaises ?",
+        "choices": [
+          {
+            "text": "Dieu et mon Droit",
+            "isCorrect": false
+          },
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise de la République figure sur les pièces de monnaie, les timbres et les édifices publics, rappelant les valeurs communes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-034",
+        "shortId": "Q-715B9D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle œuvre musicale constitue l'hymne officiel de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie (Beethoven)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Boléro (Ravel)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marche triomphale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Messie (Haendel)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Ode à la joie, issue de la 9e symphonie de Beethoven, symbolise l'idéal de fraternité européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-080",
+        "shortId": "Q-581AB9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous déménagez dans une nouvelle commune. Quel délai avez-vous pour signaler ce changement à l'administration fiscale ?",
+        "choices": [
+          {
+            "text": "30 jours après le déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois après le déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les meilleurs délais, obligatoirement avant la prochaine déclaration de revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun délai, le changement s'effectue automatiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est obligatoire de signaler tout changement de domicile à l'administration fiscale dans les meilleurs délais. Le défaut de déclaration peut entraîner des difficultés administratives."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-023",
+        "shortId": "Q-B6A640",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Président de la République française est aussi, de par sa fonction, le co-prince de quel petit pays ?",
+        "choices": [
+          {
+            "text": "Monaco",
+            "isCorrect": false
+          },
+          {
+            "text": "Andorre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Liechtenstein",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Andorre est une co-principauté parlementaire. Ses deux chefs d'État symboliques sont le Président français et l'évêque d'Urgell (Espagne)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-051",
+        "shortId": "Q-B6D354",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un journal satirique publie une caricature critiquant sévèrement une religion. Des fidèles demandent son interdiction. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Le journal doit être interdit car il offense des croyants",
+            "isCorrect": false
+          },
+          {
+            "text": "La critique des religions est protégée par la liberté d'expression, seule l'incitation à la haine est illicite",
+            "isCorrect": true
+          },
+          {
+            "text": "Le journal doit obligatoirement présenter des excuses publiques",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit dédommager les fidèles choqués",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le blasphème n'est pas un délit. La critique des idées et des croyances religieuses est protégée. Seule l'injure, la diffamation ou l'incitation à la haine contre des personnes est punissable."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-046",
+        "shortId": "Q-824623",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que commémore officiellement la France lors de la fête nationale du 14 juillet ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille et la Fête de la Fédération",
+            "isCorrect": true
+          },
+          {
+            "text": "L'armistice de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le sacre de Napoléon Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature du traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La prise de la Bastille et la Fête de la Fédération date célèbre la fin de l'absolutisme (1789) et l'union de la nation (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-026",
+        "shortId": "Q-B582B6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le harcèlement moral au travail se définit par :",
+        "choices": [
+          {
+            "text": "Une simple dispute avec un collègue",
+            "isCorrect": false
+          },
+          {
+            "text": "Des agissements répétés ayant pour objet ou effet une dégradation des conditions de travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Le refus d'une augmentation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de demander à un salarié de travailler le samedi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le harcèlement moral se caractérise par la répétition d'actes (insultes, mises au placard, critiques injustifiées) portant atteinte aux droits et à la dignité du salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-040",
+        "shortId": "Q-143BDC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Corse est surnommée :",
+        "choices": [
+          {
+            "text": "L'Île aux Fleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Île de Beauté",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Rocher",
+            "isCorrect": false
+          },
+          {
+            "text": "La Perle des Antilles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Île de Beauté surnom (« Kallisté » en grec) reflète la diversité et la splendeur de ses paysages, entre mer et montagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-077",
+        "shortId": "Q-4CE677",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un médecin demande à un patient sa religion avant de le soigner. Cette question est-elle légitime ?",
+        "choices": [
+          {
+            "text": "Oui, pour adapter les soins aux croyances du patient",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si cela a une incidence médicale directe (allergie, transfusion sanguine)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour le dossier médical obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le médecin peut être radié pour cette question",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le médecin peut s'informer des convictions du patient uniquement si cela a une incidence sur les soins (refus de transfusion, régime alimentaire post-opératoire). Sinon, cette question est intrusive."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-023",
+        "shortId": "Q-EC40CF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe réunit les chefs d'État ou de gouvernement des pays membres de l'UE pour définir les grandes orientations ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le « Conseil européen » (les sommets) réunit les chefs d'État/Gouvernement. Ne pas confondre avec le « Conseil de l'UE » (les ministres) ou le « Conseil de l'Europe » (droits de l'homme, hors UE)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-057",
+        "shortId": "Q-0AB779",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été victime d'une erreur médicale dans un hôpital public. Devant quelle juridiction devez-vous agir pour obtenir réparation ?",
+        "choices": [
+          {
+            "text": "Le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil de l'Ordre des médecins",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La commission de conciliation et d'indemnisation (CCI) exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les litiges concernant le fonctionnement des services publics hospitaliers relèvent de la compétence du tribunal administratif."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-034",
+        "shortId": "Q-69A1DE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle infrastructure relie la France au Royaume-Uni sous la mer ?",
+        "choices": [
+          {
+            "text": "Le Pont de Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tunnel du Mont-Blanc",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Eurotunnel (Tunnel sous la Manche)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le viaduc de Millau",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inauguré en 1994, ce tunnel ferroviaire permet de relier Paris à Londres en train (Eurostar) en un peu plus de 2 heures."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-009",
+        "shortId": "Q-4270A1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment la devise « Liberté, Égalité, Fraternité » est-elle protégée ?",
+        "choices": [
+          {
+            "text": "Par l'UNESCO",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle n'est pas protégée légalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'article 2 de la Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Par la loi de 1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution définit les symboles nationaux, dont la devise de la République. Elle figure sur les frontons des mairies et écoles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-019",
+        "shortId": "Q-6301F9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité verse le RSA (Revenu de Solidarité Active) et l'APA (Allocation Personnalisée d'Autonomie) ?",
+        "choices": [
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sécurité Sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Département est le chef de file de l'action sociale et des solidarités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-010",
+        "shortId": "Q-A9D5F0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité administrative indépendante (AAI) veille au respect de la vie privée numérique ?",
+        "choices": [
+          {
+            "text": "Le CSA (Arcom)",
+            "isCorrect": false
+          },
+          {
+            "text": "La DGCCRF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CNIL (Commission Nationale de l'Informatique et des Libertés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CNIL a pour mission d'informer, de protéger et de sanctionner les abus liés aux données personnelles et au respect de la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-026",
+        "shortId": "Q-0DA8E5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel café parisien fondé en 1686 a été le lieu de rencontre des philosophes des Lumières ?",
+        "choices": [
+          {
+            "text": "Le Fouquet's",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Café de la Paix",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procope",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Deux Magots",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Procope est considéré comme le plus vieux café de Paris. Voltaire, Rousseau, Diderot et plus tard les Révolutionnaires s'y réunissaient."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-018",
+        "shortId": "Q-146C7A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que fête-t-on le 14 juillet (Fête Nationale) ?",
+        "choices": [
+          {
+            "text": "L'anniversaire de la proclamation de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La mort du roi Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          },
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (symbole de la fin de l'arbitraire royal) et la Fête de la Fédération (symbole de l'unité de la Nation)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-093",
+        "shortId": "Q-6B7B78",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les conditions pour voter à l'élection présidentielle en France ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Posséder un bien immobilier en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Être un citoyen de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Être de nationalité française, majeur et inscrit sur les listes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'élection présidentielle est un acte de souveraineté nationale réservé aux citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-008",
+        "shortId": "Q-7096D7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge peut-on commencer à travailler légalement (hors apprentissage et dérogations) ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le travail est autorisé à partir de 16 ans, âge auquel la scolarité n'est plus obligatoire. Des dérogations existent pour les mineurs de 14-15 ans (vacances scolaires) et l'apprentissage (15 ans)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-047",
+        "shortId": "Q-46E741",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Guyane est un territoire français situé :",
+        "choices": [
+          {
+            "text": "En Afrique",
+            "isCorrect": false
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": true
+          },
+          {
+            "text": "En Asie",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Guyane est le plus grand département français (en superficie). Elle abrite la base spatiale européenne de Kourou et une partie de la forêt amazonienne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-002",
+        "shortId": "Q-23776D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un employeur vous demande votre confession religieuse lors d'un entretien d'embauche. Quelle est la qualification juridique de cette question ?",
+        "choices": [
+          {
+            "text": "Une discrimination potentielle interdite par le Code du travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Une curiosité légitime pour l'organisation des congés",
+            "isCorrect": false
+          },
+          {
+            "text": "Une question autorisée si l'entreprise a une éthique religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Une formalité administrative obligatoire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les opinions religieuses relèvent de la vie privée. Poser cette question lors d'un recrutement est illégal et peut constituer une preuve de discrimination à l'embauche."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-067",
+        "shortId": "Q-A2AFA5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de membres composent le Sénat ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": true
+          },
+          {
+            "text": "150",
+            "isCorrect": false
+          },
+          {
+            "text": "250",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat compte 348 sénateurs, représentant les collectivités territoriales de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-036",
+        "shortId": "Q-531772",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous louez un appartement meublé. Quelle est la durée minimale du bail ?",
+        "choices": [
+          {
+            "text": "3 ans comme pour un logement vide",
+            "isCorrect": false
+          },
+          {
+            "text": "1 an (ou 9 mois pour un étudiant)",
+            "isCorrect": true
+          },
+          {
+            "text": "6 mois renouvelables par tacite reconduction",
+            "isCorrect": false
+          },
+          {
+            "text": "2 ans avec possibilité de résiliation trimestrielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le bail meublé a une durée minimale d'1 an, réduite à 9 mois si le locataire est étudiant."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-012",
+        "shortId": "Q-D5F4BE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1957 a fondé la Communauté Économique Européenne (ancêtre de l'UE) ?",
+        "choices": [
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est l'un des six pays fondateurs (avec l'Allemagne, l'Italie et le Benelux) de la construction européenne via le Traité de Rome."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-001",
+        "shortId": "Q-737C2B",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où faut-il déclarer la naissance d'un enfant ?",
+        "choices": [
+          {
+            "text": "À la préfecture du département",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie du domicile des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie du lieu de naissance",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La naissance doit être déclarée à la mairie du lieu de naissance de l'enfant. Ce n'est ni la mairie du domicile des parents ni un autre organisme administratif qui établit l'acte de naissance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-002",
+        "shortId": "Q-865170",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+        "choices": [
+          {
+            "text": "Abattre une cloison pour modifier la distribution du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Repeindre les murs et faire de petits aménagements non structurels",
+            "isCorrect": true
+          },
+          {
+            "text": "Sous-louer le logement à une autre personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Transformer le logement d'habitation en local professionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le locataire peut effectuer de simples aménagements, comme repeindre ou poser des équipements légers, sans demander d'autorisation. En revanche, les transformations importantes ou le changement d'usage du logement exigent l'accord du propriétaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-003",
+        "shortId": "Q-692B3C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel mariage est reconnu légalement ?",
+        "choices": [
+          {
+            "text": "Le mariage civil célébré devant l'officier d'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Le PACS enregistré",
+            "isCorrect": false
+          },
+          {
+            "text": "Le concubinage déclaré",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage religieux célébré sans mariage civil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier d'état civil produit les effets juridiques du mariage. Le PACS, le concubinage ou une cérémonie religieuse seule ne valent pas mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-004",
+        "shortId": "Q-D0112D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le stationnement sur une place réservée aux personnes handicapées :",
+        "choices": [
+          {
+            "text": "Est autorisé lorsqu'on transporte une personne handicapée, même sans présenter de carte de stationnement",
+            "isCorrect": false
+          },
+          {
+            "text": "Est autorisé la nuit si la place n'est pas occupée",
+            "isCorrect": false
+          },
+          {
+            "text": "Est interdit sauf si l'on possède la carte mobilité inclusion (CMI) stationnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Est autorisé pour un arrêt très bref",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ces places sont réservées aux titulaires de la carte mobilité inclusion mention stationnement, ou d'un titre équivalent reconnu. Sans ce droit, le stationnement y est interdit, même pour une courte durée."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-droits-et-devoirs-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-official-016",
+        "shortId": "Q-F4C7DD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Tous les citoyens français ont-ils une religion ?",
+        "choices": [
+          {
+            "text": "Non, la plupart des citoyens sont athées par obligation légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, chaque citoyen doit déclarer une religion à l'état civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté de conscience permet de croire ou de ne pas croire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la République impose une religion civile commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La République est laïque : elle ne demande pas aux citoyens d'avoir une religion. L'athéisme et l'agnosticisme sont des droits protégés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-014",
+        "shortId": "Q-423669",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Le droit de dire tout ce que l'on pense, même si c'est faux ou haineux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de communiquer ses pensées et opinions dans le respect des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'insulter des agents publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Une liberté réservée aux journalistes et aux élus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression n'est pas absolue : elle s'arrête là où commencent la diffamation, l'injure et l'incitation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-017",
+        "shortId": "Q-9C2103",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quel âge est la majorité numérique en France ?",
+        "choices": [
+          {
+            "text": "13 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La 'majorité numérique' est fixée à 15 ans. 15 ans, c'est l'âge à partir duquel un mineur peut consentir seul au traitement de ses données personnelles (inscription réseaux sociaux)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-012",
+        "shortId": "Q-B21C38",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+        "choices": [
+          {
+            "text": "Le Préambule de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de 1905",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte de l'Environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est la première phrase de l'Article 1er de la DDHC de 1789, base de l'égalité républicaine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-008",
+        "shortId": "Q-26F3DF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie être citoyen d'un État ?",
+        "choices": [
+          {
+            "text": "Avoir uniquement la nationalité de cet État",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir des droits et des devoirs envers cet État et participer à la vie politique",
+            "isCorrect": true
+          },
+          {
+            "text": "Être résident permanent et payer des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un passeport valide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté est plus que la nationalité ou la résidence : c'est un statut juridique qui confère des droits politiques (vote) et des devoirs (défense, juré)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-013",
+        "shortId": "Q-C313A5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle situation est une atteinte à la dignité humaine ?",
+        "choices": [
+          {
+            "text": "Le travail de nuit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le licenciement économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Soumettre une personne à des traitements inhumains ou dégradants",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de payer des impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de dignité humaine est absolu. Il interdit la torture, l'esclavage et tout traitement dégradant, quelles que soient les circonstances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-010",
+        "shortId": "Q-63AAAB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel droit protège une personne contre une arrestation arbitraire ?",
+        "choices": [
+          {
+            "text": "L'Habeas Corpus",
+            "isCorrect": false
+          },
+          {
+            "text": "La sûreté (protection contre l'arbitraire)",
+            "isCorrect": true
+          },
+          {
+            "text": "La présomption d'innocence",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'asile",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La sûreté est l'un des quatre droits naturels de la DDHC. Elle garantit que nul ne peut être arrêté ou détenu que dans les cas déterminés par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-021",
+        "shortId": "Q-AB84A0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "choices": [
+          {
+            "text": "Oui, si la religion le permet",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la polygamie est interdite en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si les mariages ont eu lieu à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord du premier conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La monogamie est une règle d'ordre public en France. La polygamie est une infraction pénale et un motif d'annulation du mariage ou de retrait de titre de séjour."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-025",
+        "shortId": "Q-59F117",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La vente d'alcool en France est interdite aux personnes de moins de :",
+        "choices": [
+          {
+            "text": "16 ans (pour les alcools forts uniquement)",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La vente de TOUTES les boissons alcoolisées (vin, bière, spiritueux) est interdite aux mineurs de moins de 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-033",
+        "shortId": "Q-5B54E0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'infraction la plus grave ?",
+        "choices": [
+          {
+            "text": "Le délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le crime",
+            "isCorrect": true
+          },
+          {
+            "text": "La contravention",
+            "isCorrect": false
+          },
+          {
+            "text": "L'infraction de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit pénal classe les infractions en 3 catégories de gravité croissante : Contravention (Tribunal de Police) < Délit (Correctionnel) < Crime (Assises)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-024",
+        "shortId": "Q-271B68",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Être juré d'assises est :",
+        "choices": [
+          {
+            "text": "Un choix personnel rémunéré",
+            "isCorrect": false
+          },
+          {
+            "text": "Un devoir civique obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservé aux personnes ayant des connaissances juridiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Une fonction réservée aux fonctionnaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le jury populaire est un fondement de la justice criminelle. Un citoyen tiré au sort ne peut refuser (sauf motif grave validé par la commission), c'est une obligation civique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-003",
+        "shortId": "Q-AC4337",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+        "choices": [
+          {
+            "text": "Tous les êtres humains naissent libres et égaux en dignité et en droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Les hommes naissent et demeurent libres et égaux en droits",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté est le droit de faire tout ce que les lois permettent",
+            "isCorrect": false
+          },
+          {
+            "text": "Nul ne peut être inquiété pour ses opinions, même religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Attention à la nuance : 'Les hommes naissent et demeurent...' est l'article 1 de la DDHC de 1789. La citation sur la 'dignité' vient de la Déclaration Universelle de 1948."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-011",
+        "shortId": "Q-4D2C98",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+        "choices": [
+          {
+            "text": "La Déclaration Universelle des Droits de l'Homme (1948)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code Civil (1804)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention Européenne des Droits de l'Homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Bien que les autres textes soient importants, la DDHC de 1789 est le texte fondateur spécifique à la tradition républicaine française et fait partie du bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-028",
+        "shortId": "Q-B26E96",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour obtenir une carte d'identité, il faut :",
+        "choices": [
+          {
+            "text": "Payer un timbre fiscal de 86 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obligatoirement 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Fournir un justificatif de nationalité française",
+            "isCorrect": true
+          },
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CNI est gratuite (si première demande ou renouvellement avec l'ancienne) et accessible à tout âge. La condition principale est de prouver sa nationalité française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-035",
+        "shortId": "Q-B74EC5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut être appelé à faire partie d’un jury d’assises en France ?",
+        "choices": [
+          {
+            "text": "Seuls les fonctionnaires de justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout citoyen français de plus de 23 ans inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les citoyens ayant fait des études de droit",
+            "isCorrect": false
+          },
+          {
+            "text": "Les bénévoles inscrits sur une liste d'attente",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les jurés sont tirés au sort sur les listes électorales. Il faut avoir plus de 23 ans, savoir lire/écrire le français et ne pas avoir de casier judiciaire B2."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-006",
+        "shortId": "Q-0784C9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit la liberté de la presse ?",
+        "choices": [
+          {
+            "text": "Le droit de diffamer des personnalités publiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'informer librement le public dans le respect des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "L'immunité totale des journalistes face à la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de neutralité pour tous les journaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de la presse permet le pluralisme et l'information, mais elle est encadrée par la loi de 1881 qui sanctionne la diffamation, l'injure et la provocation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-019",
+        "shortId": "Q-289DB1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, la conduite sans permis d'une moto est :",
+        "choices": [
+          {
+            "text": "Une simple contravention de 1ère classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisée sur les chemins privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Tolérée si le conducteur a le permis voiture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conduire un véhicule sans le permis correspondant est un délit grave, passible d'emprisonnement et de forte amende (sauf certaines petites cylindrées avec le permis B + formation)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-032",
+        "shortId": "Q-7992BD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+        "choices": [
+          {
+            "text": "Adhérer à un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Participer à des manifestations nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter les lois de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "S'inscrire auprès d'une association citoyenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le respect des lois est le premier devoir du citoyen, condition du vivre-ensemble. Viennent ensuite les devoirs fiscaux (impôts) et de défense."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-022",
+        "shortId": "Q-90772C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce obligatoire de déclarer ses impôts chaque année en France ?",
+        "choices": [
+          {
+            "text": "Non, c'est prélevé à la source donc inutile",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est une obligation légale pour tout résident",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, seulement si on est imposable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement tous les deux ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Même avec le prélèvement à la source, la déclaration annuelle reste obligatoire pour régulariser la situation et calculer le taux d'imposition exact."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-018",
+        "shortId": "Q-2ECACA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+        "choices": [
+          {
+            "text": "Sur un quai de gare découvert",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans une voiture avec un enfant mineur",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans un espace ouvert, à l'extérieur des bâtiments publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans la cour de récréation d'un lycée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est interdit de fumer dans les lieux fermés accueillant du public, dans les écoles (même les cours), et en voiture en présence d'un mineur."
+      }
+    }
+  ]
+}

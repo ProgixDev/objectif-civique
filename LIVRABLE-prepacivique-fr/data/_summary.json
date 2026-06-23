@@ -1,0 +1,70 @@
+{
+  "site": "prepacivique.fr",
+  "totalUniqueQuestions": 2128,
+  "levels": {
+    "csp": {
+      "unique": 658,
+      "sections": {
+        "principes-valeurs": 177,
+        "systeme-institutionnel": 113,
+        "histoire-geographie-culture": 107,
+        "droits-et-devoirs": 170,
+        "vivre-en-france": 91
+      },
+      "tests": 33,
+      "exams": 26,
+      "bySource": {
+        "OFFICIAL": 191,
+        "SITUATIONAL": 160,
+        "STANDARD": 307
+      },
+      "byType": {
+        "KNOWLEDGE": 498,
+        "SITUATIONAL": 160
+      }
+    },
+    "cr": {
+      "unique": 769,
+      "sections": {
+        "principes-valeurs": 190,
+        "systeme-institutionnel": 151,
+        "histoire-geographie-culture": 141,
+        "droits-et-devoirs": 185,
+        "vivre-en-france": 102
+      },
+      "tests": 40,
+      "exams": 26,
+      "bySource": {
+        "SITUATIONAL": 160,
+        "OFFICIAL": 209,
+        "STANDARD": 400
+      },
+      "byType": {
+        "SITUATIONAL": 160,
+        "KNOWLEDGE": 609
+      }
+    },
+    "nat": {
+      "unique": 701,
+      "sections": {
+        "principes-valeurs": 156,
+        "systeme-institutionnel": 181,
+        "histoire-geographie-culture": 133,
+        "droits-et-devoirs": 167,
+        "vivre-en-france": 64
+      },
+      "tests": 36,
+      "exams": 26,
+      "bySource": {
+        "SITUATIONAL": 170,
+        "OFFICIAL": 258,
+        "STANDARD": 273
+      },
+      "byType": {
+        "SITUATIONAL": 170,
+        "KNOWLEDGE": 531
+      }
+    }
+  },
+  "textPages": 133
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-vivre-en-france-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-standard-041",
+        "shortId": "Q-516DEF",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle le diplôme qui valide les compétences en langue française pour les étrangers ?",
+        "choices": [
+          {
+            "text": "Le DELF ou le TCF",
+            "isCorrect": true
+          },
+          {
+            "text": "Le BAC Pro",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brevet des Collèges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le CAP Petite Enfance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le DELF (Diplôme d'Études en Langue Française) et le TCF (Test de Connaissance du Français) sont couramment utilisés pour les démarches administratives."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-031",
+        "shortId": "Q-1F9756",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document récapitule les salaires, les cotisations et les congés à la fin de chaque mois ?",
+        "choices": [
+          {
+            "text": "Le contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Le relevé de compte bancaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bulletin de paie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'attestation d'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le bulletin de paie est un document obligatoire que l'employeur doit remettre au salarié lors du paiement du salaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-055",
+        "shortId": "Q-8EA2BB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, les médicaments prescrits sur ordonnance peuvent être substitués par le pharmacien par :",
+        "choices": [
+          {
+            "text": "Des vitamines",
+            "isCorrect": false
+          },
+          {
+            "text": "Des remèdes naturels uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Des médicaments génériques (mêmes principes actifs)",
+            "isCorrect": true
+          },
+          {
+            "text": "Des produits cosmétiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pharmacien peut proposer un générique, moins cher pour la collectivité, sauf si le médecin a indiqué 'non substituable' sur l'ordonnance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-007",
+        "shortId": "Q-278C2E",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le montant maximum légal du dépôt de garantie que peut demander un propriétaire pour un logement vide ?",
+        "choices": [
+          {
+            "text": "Trois mois de loyer hors charges",
+            "isCorrect": false
+          },
+          {
+            "text": "Six mois de loyer avec charges",
+            "isCorrect": false
+          },
+          {
+            "text": "Un mois de loyer hors charges",
+            "isCorrect": true
+          },
+          {
+            "text": "Deux mois de loyer avec charges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour une location vide, le dépôt de garantie est limité à un mois de loyer hors charges. Pour un meublé, il est limité à deux mois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-005",
+        "shortId": "Q-2F0595",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée maximale légale d'un contrat de travail à durée déterminée (CDD) classique, renouvellements compris ?",
+        "choices": [
+          {
+            "text": "18 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "12 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En règle générale, un CDD ne peut excéder 18 mois, renouvellements inclus. Certaines dérogations existent selon le motif du contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-054",
+        "shortId": "Q-F77AD7",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle autorité peut-on demander une aide en cas de difficultés pour payer ses factures d'eau ou d'énergie (FSL) ?",
+        "choices": [
+          {
+            "text": "Le Conseil départemental (ou le CCAS de la mairie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque de France uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commissariat de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Fonds de Solidarité pour le Logement (FSL) aide les personnes en difficulté à se maintenir dans leur logement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-040",
+        "shortId": "Q-72FE68",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'trêve hivernale' concernant le logement ?",
+        "choices": [
+          {
+            "text": "Une période de réduction d'impôt pour les propriétaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un dispositif d'aide au paiement des factures d'énergie",
+            "isCorrect": false
+          },
+          {
+            "text": "La fermeture annuelle des services du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une période durant laquelle les expulsions locatives sont suspendues",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La trêve hivernale dure généralement du 1er novembre au 31 mars."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-026",
+        "shortId": "Q-0BE9D6",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle la période durant laquelle un nouveau contrat de travail peut être rompu sans motif ?",
+        "choices": [
+          {
+            "text": "La période de préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "La période d'essai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le temps de formation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le stage de découverte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La période d'essai permet à l'employeur d'évaluer les compétences du salarié et au salarié de vérifier si le poste lui convient."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-045",
+        "shortId": "Q-A5EF79",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle des 'Centres de Planification et d'Éducation Familiale' (CPEF) ?",
+        "choices": [
+          {
+            "text": "Gérer les inscriptions scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Accorder des aides au logement pour les familles nombreuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Trouver une place en crèche",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer sur la contraception, la sexualité et pratiquer des IVG médicamenteuses",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les CPEF sont des lieux d'accueil et d'information gratuits sur la vie sexuelle et reproductive."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-037",
+        "shortId": "Q-5DA62C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle la plateforme permettant de gérer ses droits à la formation professionnelle continue ?",
+        "choices": [
+          {
+            "text": "Le Compte Personnel de Formation (CPF)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Plan d'Épargne Retraite",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Livret d'Épargne Populaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Carte de formation continue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le CPF permet à toute personne active d'acquérir des droits à la formation mobilisables tout au long de sa vie professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-067",
+        "shortId": "Q-A7D74C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le prélèvement à la source ?",
+        "choices": [
+          {
+            "text": "Une taxe supplémentaire sur les placements financiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cotisation pour la retraite complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement de l'impôt sur le revenu directement sur le salaire ou la retraite",
+            "isCorrect": true
+          },
+          {
+            "text": "Un acompte sur la TVA",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il permet de payer l'impôt au moment où l'on perçoit ses revenus, évitant ainsi un décalage d'un an."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-022",
+        "shortId": "Q-B656D5",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle catégorie de diplôme appartient le 'Baccalauréat' dans le système français ?",
+        "choices": [
+          {
+            "text": "Un diplôme de fin d'études secondaires (niveau 4)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le premier grade de l'enseignement supérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Un brevet professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un certificat de maîtrise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Juridiquement, le Baccalauréat est le premier grade universitaire, bien qu'il clôture les études au lycée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-046",
+        "shortId": "Q-14646D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'examen obligatoire pour une voiture de plus de 4 ans à effectuer tous les 2 ans ?",
+        "choices": [
+          {
+            "text": "La révision constructeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrôle technique",
+            "isCorrect": true
+          },
+          {
+            "text": "Le passage au banc d'essai",
+            "isCorrect": false
+          },
+          {
+            "text": "La vidange annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le contrôle technique vérifie les points de sécurité et de pollution du véhicule."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-052",
+        "shortId": "Q-CEC691",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'impôt sur le revenu collecté directement sur le salaire chaque mois ?",
+        "choices": [
+          {
+            "text": "La CSG",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe sur les salaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les cotisations patronales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le prélèvement à la source",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'impôt sur le revenu est prélevé au moment du versement du revenu (salaire, retraite)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-065",
+        "shortId": "Q-19403B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité délivre le permis de construire pour réaliser des travaux importants ?",
+        "choices": [
+          {
+            "text": "Le commissariat de police",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "La gendarmerie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le permis de construire est un acte administratif qui permet à la mairie de vérifier que le projet respecte les règles d'urbanisme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-057",
+        "shortId": "Q-76F399",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'taux d'usure' fixé par la Banque de France ?",
+        "choices": [
+          {
+            "text": "Le taux d'inflation annuel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le taux maximal auquel une banque a le droit de prêter de l'argent",
+            "isCorrect": true
+          },
+          {
+            "text": "L'indice de référence des loyers",
+            "isCorrect": false
+          },
+          {
+            "text": "Le taux de rémunération du Livret A",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le taux d'usure protège les emprunteurs contre des taux d'intérêt trop élevés (prêts usuraires)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-029",
+        "shortId": "Q-DEDD5F",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'arrêt maladie, quel est le délai standard de 'carence' avant que l'Assurance Maladie ne verse des indemnités ?",
+        "choices": [
+          {
+            "text": "3 jours",
+            "isCorrect": true
+          },
+          {
+            "text": "7 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun délai",
+            "isCorrect": false
+          },
+          {
+            "text": "10 jours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sauf exceptions (ALD ou dispositions d'entreprise), les trois premiers jours d'arrêt ne sont pas indemnisés par la Sécurité sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-062",
+        "shortId": "Q-7924A9",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'examen que l'on passe à la fin du lycée pour obtenir le grade de bachelier ?",
+        "choices": [
+          {
+            "text": "Le Brevet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Baccalauréat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Master",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Doctorat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Baccalauréat est le diplôme qui termine les études secondaires et permet l'accès à l'enseignement supérieur."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-061",
+        "shortId": "Q-B0F986",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est responsable de la gestion des écoles maternelles et primaires ?",
+        "choices": [
+          {
+            "text": "La mairie (la commune)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "L'université",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de la Défense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La commune est propriétaire des locaux et gère les personnels non enseignants (ATSEM, cantine)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-032",
+        "shortId": "Q-39902A",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle la taxe que doivent payer les propriétaires de biens immobiliers chaque année ?",
+        "choices": [
+          {
+            "text": "La taxe d'apprentissage",
+            "isCorrect": false
+          },
+          {
+            "text": "La redevance audiovisuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe sur la valeur ajoutée (TVA)",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe foncière",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La taxe foncière est un impôt local dû par les propriétaires de terrains et de bâtiments."
+      }
+    }
+  ]
+}

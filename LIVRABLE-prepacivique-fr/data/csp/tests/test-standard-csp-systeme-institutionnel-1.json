@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-systeme-institutionnel-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-institutions-standard-029",
+        "shortId": "Q-3FEA33",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est chargé de protéger la sécurité des personnes et des biens ?",
+        "choices": [
+          {
+            "text": "Le juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les forces de l'ordre assurent la sécurité publique et le respect de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-002",
+        "shortId": "Q-B9234C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a l'autorité pour nommer le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Les citoyens par un vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République choisit le Premier ministre, qui dirige ensuite le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-026",
+        "shortId": "Q-05D034",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de choisir son métier en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet attribue les postes selon les besoins régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur détermine le métier en fonction du diplôme",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers d'orientation imposent le choix professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté professionnelle est un droit pour tous les travailleurs en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-067",
+        "shortId": "Q-66382A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 12 de la Constitution confère au Président de la République le pouvoir de dissoudre l'Assemblée nationale, provoquant ainsi de nouvelles élections législatives."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-056",
+        "shortId": "Q-C3D0E6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juge les conflits entre les citoyens et l'administration ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La police municipale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le juge administratif vérifie que l'État et les communes respectent la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-028",
+        "shortId": "Q-39C81B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document prouve l'identité d'un citoyen ?",
+        "choices": [
+          {
+            "text": "Le carnet de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte nationale d'identité",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte de transport",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bulletin de salaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La carte d'identité ou le passeport sont les documents officiels pour justifier de son identité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-035",
+        "shortId": "Q-2DAB64",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie être 'citoyen' ?",
+        "choices": [
+          {
+            "text": "Avoir des droits et des devoirs envers son pays",
+            "isCorrect": true
+          },
+          {
+            "text": "Résider de manière permanente sur le territoire national",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les registres de l'état civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Posséder un titre de séjour en cours de validité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté donne le droit de participer à la vie politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-009",
+        "shortId": "Q-A42B98",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui représente l'autorité de l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Juge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Commissaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Préfet est nommé par le Gouvernement pour assurer l'ordre et l'application des lois localement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-017",
+        "shortId": "Q-BCB31E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui sont les électeurs qui choisissent les députés ?",
+        "choices": [
+          {
+            "text": "Les conseillers municipaux et les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les ministres du gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens français inscrits sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les grands électeurs désignés par le Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par l'ensemble des citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-011",
+        "shortId": "Q-2D036A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge un citoyen français acquiert-il le droit de vote ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité légale et le droit de vote sont fixés à 18 ans révolus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-027",
+        "shortId": "Q-675E7C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte réunit l'ensemble des droits civils, politiques, économiques et sociaux des citoyens de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Charte des droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration de Philadelphie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention de Genève",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Charte des droits fondamentaux de l'UE a la même valeur juridique que les traités et garantit les droits des citoyens européens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-032",
+        "shortId": "Q-58A3DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunissent les sénateurs pour travailler ?",
+        "choices": [
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat siège au Palais du Luxembourg à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-059",
+        "shortId": "Q-B1D9B0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la responsabilité de l'entretien des écoles élémentaires ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commune est responsable de la construction, de l'entretien et du fonctionnement matériel des écoles élémentaires et maternelles sur son territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-050",
+        "shortId": "Q-D76244",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de circuler librement en France ?",
+        "choices": [
+          {
+            "text": "Toute personne résidant légalement sur le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les membres du Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les personnes nées en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne ne peut circuler librement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté de circulation est un principe fondamental dans l'espace républicain."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-061",
+        "shortId": "Q-D42ECF",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le mot 'Souveraineté' ?",
+        "choices": [
+          {
+            "text": "La capacité de l'État à lever des impôts sur son territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit des collectivités locales à gérer leurs propres affaires",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indépendance du pouvoir judiciaire face au gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir suprême d'une Nation de décider pour elle-même",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est souveraine car elle décide librement de ses lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-014",
+        "shortId": "Q-946B0D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet d'aider les personnes malades ou sans ressources ?",
+        "choices": [
+          {
+            "text": "La laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La solidarité est à la base de la protection sociale et de la Sécurité sociale en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-039",
+        "shortId": "Q-AF01AD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le chef suprême des armées françaises ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 15 de la Constitution confère au Président de la République le titre de chef des armées, lui donnant autorité sur les forces militaires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-010",
+        "shortId": "Q-348F2D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de l'hymne national de la France ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chant du départ",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "L'hymne des régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise est le chant patriotique officiel de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-060",
+        "shortId": "Q-B83242",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour les fonctionnaires concernant la religion au travail ?",
+        "choices": [
+          {
+            "text": "Ils doivent porter un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils choisissent ce qu'ils veulent",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent rester neutres et ne pas montrer leur religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils ne doivent pas travailler le dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de laïcité impose aux agents du service public une stricte neutralité religieuse dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-023",
+        "shortId": "Q-B79D29",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe interdit la discrimination entre les hommes et les femmes ?",
+        "choices": [
+          {
+            "text": "L'égalité",
+            "isCorrect": true
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité devant la loi est la même pour tous, quel que soit le sexe."
+      }
+    }
+  ]
+}

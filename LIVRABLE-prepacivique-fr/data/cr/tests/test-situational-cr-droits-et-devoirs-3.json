@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-droits-et-devoirs-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-situational-041",
+        "shortId": "Q-44BA21",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous quittez votre emploi de votre plein gré (démission) pour un projet personnel. Touchez-vous le chômage ?",
+        "choices": [
+          {
+            "text": "Oui, après un délai de carence de 4 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous avez cotisé plus de 2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous avez un projet de reconversion validé par une commission (Demission-Reconversion)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais vous pouvez demander une requalification de votre démission après 121 jours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En principe, la démission ne donne pas droit au chômage. Toutefois, le dispositif « Démission-Reconversion » permet d'y accéder sous conditions strictes (5 ans d'activité, projet réel et sérieux)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-042",
+        "shortId": "Q-61A94B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez scolariser votre enfant à la maison pour convenance personnelle. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, c'est la liberté d'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'autorisation est désormais refusée pour simple convenance personnelle. Il faut un motif lié à l'enfant (santé, handicap, sport de haut niveau)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, jusqu'à 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous avez le bac",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi confortant les principes de la République (2021) a restreint l'instruction en famille. Elle n'est plus un droit mais une exception soumise à autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-043",
+        "shortId": "Q-8F8F79",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Sur un ticket de caisse, vous voyez « TVA 20% ». Qui paie réellement cette taxe ?",
+        "choices": [
+          {
+            "text": "Le consommateur final (vous)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le détaillant qui répercute la taxe sur sa marge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fournisseur grossiste en amont de la chaîne commerciale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État la compense directement auprès des entreprises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La TVA est un impôt indirect supporté par le consommateur. Les entreprises ne font que la collecter pour l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-044",
+        "shortId": "Q-E7678E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre vélo a été volé dans la rue, vous ne savez pas par qui. Vous portez plainte :",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas porter plainte sans connaître l'auteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Auprès de votre assurance uniquement, pas de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Contre X (inconnu)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous faites une main courante, pas une plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Lorsque l’auteur d’une infraction est inconnu, il est possible de déposer une plainte « contre X ». La plainte permet l’ouverture d’une enquête par les services de police ou de gendarmerie. Une main courante ne déclenche pas automatiquement d’enquête, et l’assurance peut exiger un dépôt de plainte pour indemniser le vol."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-045",
+        "shortId": "Q-EC636D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Au tribunal, avant de témoigner, on vous demande de lever la main. Pourquoi ?",
+        "choices": [
+          {
+            "text": "Pour confirmer que vous êtes la même personne que sur votre pièce d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour prêter serment de dire la vérité. Mentir ensuite devient un crime (parjure)",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour signaler que vous êtes prêt à répondre aux questions",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour montrer votre respect envers la Cour et les magistrats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le serment « Je le jure » donne une valeur juridique à votre parole. Le faux témoignage est passible de 5 ans de prison et 75 000 € d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-046",
+        "shortId": "Q-FCDD0D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez de faibles revenus et devez aller en justice. L'Aide Juridictionnelle couvre :",
+        "choices": [
+          {
+            "text": "Vos amendes",
+            "isCorrect": false
+          },
+          {
+            "text": "Vos frais de déplacement",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout ou partie des honoraires d'avocat et frais de justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Vos dettes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Tout ou partie des honoraires d'avocat et frais de justice, c'est une aide financière de l'État qui permet aux justiciables sans ressources d'accéder au droit et d'être défendus."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-047",
+        "shortId": "Q-E5F8C1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous venez d'avoir 18 ans et vous avez fait votre recensement à 16 ans. Pour voter :",
+        "choices": [
+          {
+            "text": "Vous êtes inscrit d'office (automatiquement) sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez faire une démarche en ligne sur le site de l'ANTS",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez vous rendre en mairie avec un justificatif de domicile récent",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez d'abord accomplir la Journée Défense et Citoyenneté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Grâce au recensement citoyen effectué à 16 ans, l'inscription sur les listes électorales est automatique à la majorité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-048",
+        "shortId": "Q-069E34",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous demandez à la mairie le budget de la commune. On vous refuse l'accès. Est-ce normal ?",
+        "choices": [
+          {
+            "text": "Oui, seuls les conseillers municipaux y ont accès",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut justifier d'un intérêt légitime pour le consulter",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le budget d'une commune est un document administratif public accessible à tout citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sauf pendant la période du vote budgétaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La transparence de la vie publique garantit l'accès aux documents budgétaires des collectivités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-049",
+        "shortId": "Q-EA9067",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En cas de divorce conflictuel, qui décide de la résidence des enfants ?",
+        "choices": [
+          {
+            "text": "La mère, dans la majorité des cas par défaut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le père, s'il a des revenus supérieurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Juge aux Affaires Familiales (JAF), selon l'intérêt de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "L'assistante sociale après enquête",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Si les parents ne s'entendent pas, c'est le juge qui tranche en prenant en compte prioritairement l'intérêt supérieur de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-050",
+        "shortId": "Q-A38300",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre logement est humide et sans chauffage (insalubre). Le propriétaire refuse les travaux. Pouvez-vous arrêter de payer le loyer ?",
+        "choices": [
+          {
+            "text": "Oui, l'exception d'inexécution vous autorise à suspendre le paiement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous avez signalé le problème par courrier recommandé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais vous pouvez réduire le loyer proportionnellement au préjudice",
+            "isCorrect": false
+          },
+          {
+            "text": "Non. Il faut saisir le juge ou consigner les loyers sur un compte bloqué (Caisse des dépôts)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'arrêt unilatéral du paiement des loyers est illégal et peut entraîner la résiliation du bail. Il faut faire constater l'insalubrité par les services compétents."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-051",
+        "shortId": "Q-E3BC0F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez savoir combien l'État dépense pour l'Éducation ou la Défense. Où trouver l'info ?",
+        "choices": [
+          {
+            "text": "Seuls les députés ont accès à ces informations",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur votre avis d'imposition ou le site du Ministère du Budget (Loi de Finances)",
+            "isCorrect": true
+          },
+          {
+            "text": "En faisant une demande CADA auprès du ministère concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "Ces données ne sont publiées qu'annuellement dans le rapport de la Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis quelques années, l'avis d'imposition présente une infographie expliquant la répartition de l'argent public pour informer le citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-052",
+        "shortId": "Q-B8ACEB",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'une agression dans la rue. Vous pouvez intervenir sans risque pour vous-même. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Prévenir la police puis quitter les lieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Filmer la scène pour conserver une preuve de l'agression",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter assistance à la personne en danger, sinon c'est un délit (non-assistance à personne en danger)",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que d'autres personnes interviennent avant d'agir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La non-assistance à personne en danger est un délit pénal. Si vous pouvez aider sans vous mettre en danger (appeler la police, intervenir verbalement), vous devez le faire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-053",
+        "shortId": "Q-8608A2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler le dimanche sans que cela soit prévu dans votre contrat ni la convention collective. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Oui, le travail du dimanche est en principe exceptionnel et nécessite souvent l'accord du salarié (ou volontariat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'employeur peut modifier les horaires dans le cadre de son pouvoir de direction",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous avez des obligations familiales documentées",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais vous perdez la prime de présence pour la semaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sauf dérogations spécifiques (commerces alimentaires, zones touristiques), le travail du dimanche repose sur le volontariat et doit être compensé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-054",
+        "shortId": "Q-28C07B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent immobilier refuse de vous louer un appartement parce que vous êtes étranger. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, il choisit qui il veut",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le règlement de copropriété l'autorise explicitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une discrimination fondée sur l'origine ou la nationalité, punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous ne parlez pas français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La discrimination au logement fondée sur l'origine est un délit. Le propriétaire ou l'agent risque jusqu'à 3 ans de prison et 45 000 € d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-055",
+        "shortId": "Q-5739B1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous achetez un produit sur Internet. Vous changez d'avis. De combien de temps disposez-vous pour le renvoyer ?",
+        "choices": [
+          {
+            "text": "7 jours ouvrés à compter de la réception",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours pour les produits de plus de 500 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "14 jours (droit de rétractation)",
+            "isCorrect": true
+          },
+          {
+            "text": "21 jours si le paiement a été effectué par carte bancaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour la vente à distance, le consommateur bénéficie d'un délai légal de rétractation de 14 jours pour retourner le produit sans justification."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-056",
+        "shortId": "Q-A81B92",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un portefeuille avec de l'argent et des papiers d'identité par terre. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous contactez directement le propriétaire grâce aux papiers d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez le garder si vous publiez une annonce pour retrouver le propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous le gardez 3 mois avant de pouvoir le considérer comme abandonné",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous le rapportez au commissariat ou au bureau des objets trouvés de la mairie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Garder un objet trouvé est considéré comme du vol (appropriation frauduleuse). Le bon réflexe citoyen est de le remettre aux autorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-057",
+        "shortId": "Q-D80BCC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un voisin fait beaucoup de bruit (musique forte) à 15h00 de l'après-midi. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Non, le tapage diurne (de jour) est aussi interdit s'il est intense, répété ou long",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, les restrictions horaires ne s'appliquent qu'à partir de 22h",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le bruit ne dépasse pas 85 décibels",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf s'il s'agit de travaux de rénovation autorisés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Contrairement aux idées reçues, les nuisances sonores excessives sont interdites de jour comme de nuit (Code de la santé publique)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-058",
+        "shortId": "Q-F2FA92",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant est malade et ne peut pas aller à l'école. Devez-vous prévenir l'école ?",
+        "choices": [
+          {
+            "text": "Non, si l'absence ne dépasse pas 3 jours consécutifs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous devez justifier toute absence (certificat médical ou justificatif des parents)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si l'absence dépasse une semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'école sera informée automatiquement par la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'assiduité scolaire est obligatoire. Les parents doivent justifier chaque absence. Sans motif légitime répété, ils peuvent être sanctionnés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-059",
+        "shortId": "Q-AEA324",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes arrêté pour excès de vitesse. Vous refusez de signer le procès-verbal. Que se passe-t-il ?",
+        "choices": [
+          {
+            "text": "Votre refus de signature invalide la procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le policier peut vous placer en garde à vue pour obstruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela ne change rien, le PV est quand même valable et envoyé",
+            "isCorrect": true
+          },
+          {
+            "text": "L'amende est majorée de 50% pour non-coopération",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Signer le PV signifie que vous reconnaissez l'infraction. Refuser ne l'annule pas, mais indique que vous ne reconnaissez pas forcément les faits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-060",
+        "shortId": "Q-0484A2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez divorcer mais votre conjoint refuse. Pouvez-vous quand même divorcer ?",
+        "choices": [
+          {
+            "text": "Oui, après un délai de séparation ou pour faute, le juge peut prononcer le divorce sans l'accord de l'autre",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le consentement mutuel est obligatoire pour tout divorce",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement après 5 ans de mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si une médiation familiale a échoué",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le divorce pour altération définitive du lien conjugal (après 1 an de séparation) ou pour faute permet de divorcer même si l'un des époux s'y oppose."
+      }
+    }
+  ]
+}

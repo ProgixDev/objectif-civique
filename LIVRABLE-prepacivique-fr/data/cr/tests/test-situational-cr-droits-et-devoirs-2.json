@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-droits-et-devoirs-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-situational-021",
+        "shortId": "Q-600050",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous achetez un drone de loisir. Pouvez-vous le faire voler au-dessus d'un parc public bondé ?",
+        "choices": [
+          {
+            "text": "Oui, si le drone pèse moins de 800 grammes",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous êtes enregistré sur AlphaTango",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le survol de personnes et des zones urbaines est interdit pour les drones de loisir",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous maintenez une altitude inférieure à 50 mètres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour des raisons de sécurité, l'utilisation de drones en agglomération ou au-dessus de rassemblements de personnes est interdite sans autorisation préfectorale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-022",
+        "shortId": "Q-65849C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez installer une éolienne de 10 mètres dans votre jardin. Faut-il une démarche ?",
+        "choices": [
+          {
+            "text": "Oui, une déclaration préalable de travaux en mairie est nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, aucune formalité n'est requise en dessous de 12 mètres",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, un permis de construire est obligatoire quelle que soit la hauteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si l'éolienne est destinée à un usage domestique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Toute construction modifiant l'aspect extérieur nécessite une autorisation d'urbanisme. Pour une éolienne < 12m, c'est une déclaration préalable."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-023",
+        "shortId": "Q-880F1B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un chèque signé dans la rue sans ordre. Vous mettez votre nom. C'est :",
+        "choices": [
+          {
+            "text": "Légal car « en fait de meubles, la possession vaut titre »",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit (vol, falsification de chèque et usage de faux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Légal si vous déposez le chèque dans les 8 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé si le montant est inférieur à 150 euros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Utiliser un moyen de paiement qui ne vous appartient pas est une fraude. Vous risquez des poursuites pénales et une interdiction bancaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-024",
+        "shortId": "Q-AA7BCC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À la campagne, le coq du voisin chante tôt. Pouvez-vous obtenir son interdiction en justice ?",
+        "choices": [
+          {
+            "text": "Oui, si le bruit dépasse les normes de décibels légales",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous étiez installé dans les lieux avant le propriétaire du coq",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le coq chante entre 22h et 7h du matin",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les bruits ruraux (coqs, cloches) sont protégés par la loi sur le « patrimoine sensoriel »",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 2021 protège les bruits et odeurs caractéristiques des milieux ruraux pour éviter les procès abusifs des néo-ruraux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-025",
+        "shortId": "Q-2C8EA1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes étranger résidant en France. Pouvez-vous participer au Conseil de Quartier ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une instance de démocratie participative ouverte à tous les habitants",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, c'est réservé aux électeurs français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous êtes propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous êtes européen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les conseils de quartier permettent à tous les résidents, quelle que soit leur nationalité, de s'impliquer dans la vie locale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-026",
+        "shortId": "Q-7912AB",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'un contrôle routier standard, un policier veut fouiller votre coffre. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Non, le contrôle routier autorise automatiquement la fouille du véhicule",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le refus constitue un délit d'obstruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en l'absence de réquisition du procureur ou de flagrant délit, vous pouvez vous opposer à la fouille visuelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si vous êtes propriétaire du véhicule",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La police ne peut fouiller un véhicule que dans des cadres juridiques précis. Si vous refusez, ils peuvent cependant immobiliser le véhicule en attendant les instructions du Parquet."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-027",
+        "shortId": "Q-C4A873",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes juré d'assises. Si vous ne venez pas sans motif grave, que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Un simple avertissement par courrier",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende de 3 750 €",
+            "isCorrect": true
+          },
+          {
+            "text": "Une amende de 750 € et un rappel à vos obligations civiques",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de votre inscription sur les listes électorales pendant 5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La justice est rendue au nom du peuple français. Refuser de siéger comme juré sans motif légitime (maladie, impératif pro) est une faute civique sanctionnée financièrement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-028",
+        "shortId": "Q-3528B0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pour accélérer votre dossier de permis de construire, vous offrez un cadeau de valeur à l'agent municipal. C'est :",
+        "choices": [
+          {
+            "text": "De la corruption active",
+            "isCorrect": true
+          },
+          {
+            "text": "Un geste de gratitude accepté par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contribution volontaire aux services municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique habituelle pour accélérer les démarches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La corruption active (proposer un don) est un délit puni de 10 ans d'emprisonnement et 1 million d'euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-029",
+        "shortId": "Q-A3F893",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez construire une cabane de jardin de 15m². Faut-il une autorisation ?",
+        "choices": [
+          {
+            "text": "Non, les constructions légères sont dispensées de formalités",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, un permis de construire est obligatoire dès 10m²",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si la construction est démontable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une déclaration préalable de travaux est obligatoire (entre 5 et 20m²)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toute construction nouvelle de plus de 5m² nécessite une autorisation. Jusqu'à 20m², une déclaration préalable suffit. Au-delà, c'est un permis."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-030",
+        "shortId": "Q-2F7DED",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez héberger un ami non-européen pour les vacances. La mairie peut-elle refuser de valider l'attestation d'accueil ?",
+        "choices": [
+          {
+            "text": "Non, c'est une simple formalité administrative obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le logement est trop petit ou insalubre, ou si vous n'avez pas les ressources suffisantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si le visiteur a déjà fait l'objet d'un refus de visa",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pour les séjours de plus de 3 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le maire vérifie les conditions d'accueil (surface, confort) et les ressources de l'hébergeant pour éviter l'habitat indigne ou l'immigration irrégulière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-031",
+        "shortId": "Q-0A783A",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident. La police vous demande de rester pour témoigner. Pouvez-vous partir ?",
+        "choices": [
+          {
+            "text": "Oui, le témoignage est facultatif en l'absence de convocation formelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous pouvez laisser vos coordonnées et partir",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la police peut vous retenir le temps nécessaire à votre audition (maximum 4h)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous étiez un simple passant sans lien avec l'accident",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'officier de police judiciaire peut retenir les témoins le temps nécessaire à leur audition pour les besoins de l'enquête."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-032",
+        "shortId": "Q-A70770",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous organisez une manifestation. Devez-vous prévenir quelqu'un ?",
+        "choices": [
+          {
+            "text": "Oui, il faut déposer une déclaration en préfecture (ou mairie) 3 jours avant",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, c'est une liberté fondamentale sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut obtenir une autorisation préalable du préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le rassemblement dépasse 500 personnes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Si la manifestation est un droit, elle doit être déclarée pour permettre aux autorités d'assurer la sécurité et l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-033",
+        "shortId": "Q-24F69C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : La haie de votre voisin dépasse chez vous. Pouvez-vous la couper vous-même ?",
+        "choices": [
+          {
+            "text": "Oui, les branches qui dépassent sur votre terrain vous appartiennent",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, après l'avoir averti par courrier recommandé",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les branches gênent l'ensoleillement de votre jardin",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous devez lui demander de le faire (ou saisir la justice). Vous ne pouvez pas couper la propriété d'autrui",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 673 du Code civil est clair : vous pouvez couper les racines qui dépassent, mais pas les branches. Vous devez contraindre le voisin à le faire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-034",
+        "shortId": "Q-BB7F22",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une « Mise en demeure » par recommandé. Quelle est sa valeur ?",
+        "choices": [
+          {
+            "text": "C'est un acte juridique qui fait courir les délais et les intérêts de retard",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est une demande formelle mais sans conséquence juridique immédiate",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une décision de justice exécutoire",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une notification administrative sans valeur contractuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La mise en demeure constate officiellement le défaut d'exécution d'une obligation. C'est souvent le préalable obligatoire avant un procès."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-035",
+        "shortId": "Q-3FF1D5",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Des médecins hospitaliers sont en grève mais travaillent quand même. Pourquoi ?",
+        "choices": [
+          {
+            "text": "Ils ont été assignés pour assurer la continuité du service public (service minimum)",
+            "isCorrect": true
+          },
+          {
+            "text": "Leur statut de fonctionnaire leur interdit de faire grève totalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils participent à une grève du zèle plutôt qu'un arrêt total",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préavis de grève n'a pas été correctement déposé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans la fonction publique hospitalière, le directeur peut assigner des personnels grévistes pour garantir la sécurité et les soins vitaux aux patients."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-036",
+        "shortId": "Q-C80856",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous travaillez 'au noir' (non déclaré). Si vous vous blessez, que se passe-t-il ?",
+        "choices": [
+          {
+            "text": "Vous n'êtes pas couvert pour l'accident du travail (pas d'indemnités journalières, pas de rente invalidité)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sécurité sociale prend en charge les soins comme pour tout assuré",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur est automatiquement responsable et doit vous indemniser intégralement",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez être indemnisé par le Fonds d'indemnisation des victimes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail dissimulé prive le salarié de toute protection sociale liée au travail. C'est un risque majeur en cas d'accident grave."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-037",
+        "shortId": "Q-E87FE9",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous ne payez pas vos impôts. L'État peut-il se servir sur votre compte bancaire ?",
+        "choices": [
+          {
+            "text": "Non, il doit d'abord obtenir une décision de justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si la dette dépasse 10 000 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, via un Avis à Tiers Détenteur (ATD) ou une Saisie Administrative à Tiers Détenteur (SATD)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement après trois relances restées sans réponse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Trésor Public dispose du privilège de pouvoir saisir les sommes dues directement auprès de la banque ou de l'employeur sans passer par un juge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-038",
+        "shortId": "Q-1AECF1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous contestez une amende. Devez-vous payer d'abord ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'amende est annulée si on paie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, contester suspend tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut souvent payer une « consignation » (somme bloquée) pour que la contestation soit examinée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pour éviter les contestations dilatoires, la loi impose souvent de consigner le montant de l'amende forfaitaire avant d'examiner la réclamation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-039",
+        "shortId": "Q-501658",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez prendre le nom de famille de votre mère à la place de celui de votre père. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, le nom est définitif",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une procédure simplifiée en mairie permet de changer de nom une fois dans sa vie pour prendre celui d'un parent",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais c'est très cher",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le père est d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 1er juillet 2022, toute personne majeure peut changer de nom de famille une fois dans sa vie par simple déclaration en mairie pour prendre le nom de sa mère, de son père ou les deux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-040",
+        "shortId": "Q-2E6BDF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre médecin refuse de vous donner votre dossier médical. Que faire ?",
+        "choices": [
+          {
+            "text": "Saisir la CADA ou l'Ordre des médecins, car l'accès au dossier est un droit fondamental du patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander à son Ordre professionnel de lui envoyer un rappel",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire une demande par courrier recommandé avec accusé de réception",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter votre caisse d'assurance maladie pour obtenir le dossier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le refus de communication du dossier médical est illégal. Des recours existent pour forcer l'établissement ou le praticien à respecter ce droit."
+      }
+    }
+  ]
+}

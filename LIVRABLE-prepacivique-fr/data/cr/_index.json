@@ -1,0 +1,509 @@
+{
+  "level": "CR",
+  "label": "CR - Carte de Resident",
+  "uniqueQuestions": 769,
+  "files": {
+    "allUnique": "cr/questions.json",
+    "bySection": "sections/",
+    "trainingTests": "tests/",
+    "mockExams": "examens/"
+  },
+  "sections": [
+    {
+      "section": "principes-valeurs",
+      "label": "Principes et valeurs de la Republique",
+      "file": "cr/sections/principes-valeurs.json",
+      "count": 190
+    },
+    {
+      "section": "systeme-institutionnel",
+      "label": "Systeme institutionnel et politique",
+      "file": "cr/sections/systeme-institutionnel.json",
+      "count": 151
+    },
+    {
+      "section": "histoire-geographie-culture",
+      "label": "Histoire, geographie et culture",
+      "file": "cr/sections/histoire-geographie-culture.json",
+      "count": 141
+    },
+    {
+      "section": "droits-et-devoirs",
+      "label": "Droits et devoirs",
+      "file": "cr/sections/droits-et-devoirs.json",
+      "count": 185
+    },
+    {
+      "section": "vivre-en-france",
+      "label": "Vivre dans la societe francaise",
+      "file": "cr/sections/vivre-en-france.json",
+      "count": 102
+    }
+  ],
+  "trainingTests": [
+    {
+      "file": "cr/tests/test-official-cr-principes-valeurs-1.json",
+      "slug": "test-official-cr-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-principes-valeurs-2.json",
+      "slug": "test-official-cr-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-principes-valeurs-1.json",
+      "slug": "test-situational-cr-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-principes-valeurs-2.json",
+      "slug": "test-situational-cr-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-principes-valeurs-3.json",
+      "slug": "test-situational-cr-principes-valeurs-3",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-principes-valeurs-4.json",
+      "slug": "test-situational-cr-principes-valeurs-4",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-principes-valeurs-1.json",
+      "slug": "test-standard-cr-principes-valeurs-1",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-principes-valeurs-2.json",
+      "slug": "test-standard-cr-principes-valeurs-2",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-principes-valeurs-3.json",
+      "slug": "test-standard-cr-principes-valeurs-3",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-principes-valeurs-4.json",
+      "slug": "test-standard-cr-principes-valeurs-4",
+      "section": "principes-valeurs",
+      "sectionLabel": "Principes et valeurs de la Republique",
+      "count": 10
+    },
+    {
+      "file": "cr/tests/test-official-cr-systeme-institutionnel-1.json",
+      "slug": "test-official-cr-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-systeme-institutionnel-2.json",
+      "slug": "test-official-cr-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-systeme-institutionnel-3.json",
+      "slug": "test-official-cr-systeme-institutionnel-3",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 10
+    },
+    {
+      "file": "cr/tests/test-standard-cr-systeme-institutionnel-1.json",
+      "slug": "test-standard-cr-systeme-institutionnel-1",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-systeme-institutionnel-2.json",
+      "slug": "test-standard-cr-systeme-institutionnel-2",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-systeme-institutionnel-3.json",
+      "slug": "test-standard-cr-systeme-institutionnel-3",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-systeme-institutionnel-4.json",
+      "slug": "test-standard-cr-systeme-institutionnel-4",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-systeme-institutionnel-5.json",
+      "slug": "test-standard-cr-systeme-institutionnel-5",
+      "section": "systeme-institutionnel",
+      "sectionLabel": "Systeme institutionnel et politique",
+      "count": 21
+    },
+    {
+      "file": "cr/tests/test-official-cr-histoire-geographie-culture-1.json",
+      "slug": "test-official-cr-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-histoire-geographie-culture-2.json",
+      "slug": "test-official-cr-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 29
+    },
+    {
+      "file": "cr/tests/test-standard-cr-histoire-geographie-culture-1.json",
+      "slug": "test-standard-cr-histoire-geographie-culture-1",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-histoire-geographie-culture-2.json",
+      "slug": "test-standard-cr-histoire-geographie-culture-2",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-histoire-geographie-culture-3.json",
+      "slug": "test-standard-cr-histoire-geographie-culture-3",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-histoire-geographie-culture-4.json",
+      "slug": "test-standard-cr-histoire-geographie-culture-4",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-histoire-geographie-culture-5.json",
+      "slug": "test-standard-cr-histoire-geographie-culture-5",
+      "section": "histoire-geographie-culture",
+      "sectionLabel": "Histoire, geographie et culture",
+      "count": 12
+    },
+    {
+      "file": "cr/tests/test-official-cr-droits-et-devoirs-1.json",
+      "slug": "test-official-cr-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-droits-et-devoirs-2.json",
+      "slug": "test-official-cr-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 18
+    },
+    {
+      "file": "cr/tests/test-situational-cr-droits-et-devoirs-1.json",
+      "slug": "test-situational-cr-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-droits-et-devoirs-2.json",
+      "slug": "test-situational-cr-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-droits-et-devoirs-3.json",
+      "slug": "test-situational-cr-droits-et-devoirs-3",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-situational-cr-droits-et-devoirs-4.json",
+      "slug": "test-situational-cr-droits-et-devoirs-4",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-droits-et-devoirs-1.json",
+      "slug": "test-standard-cr-droits-et-devoirs-1",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-droits-et-devoirs-2.json",
+      "slug": "test-standard-cr-droits-et-devoirs-2",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-droits-et-devoirs-3.json",
+      "slug": "test-standard-cr-droits-et-devoirs-3",
+      "section": "droits-et-devoirs",
+      "sectionLabel": "Droits et devoirs",
+      "count": 27
+    },
+    {
+      "file": "cr/tests/test-official-cr-vivre-en-france-1.json",
+      "slug": "test-official-cr-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-official-cr-vivre-en-france-2.json",
+      "slug": "test-official-cr-vivre-en-france-2",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 12
+    },
+    {
+      "file": "cr/tests/test-standard-cr-vivre-en-france-1.json",
+      "slug": "test-standard-cr-vivre-en-france-1",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-vivre-en-france-2.json",
+      "slug": "test-standard-cr-vivre-en-france-2",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-vivre-en-france-3.json",
+      "slug": "test-standard-cr-vivre-en-france-3",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 20
+    },
+    {
+      "file": "cr/tests/test-standard-cr-vivre-en-france-4.json",
+      "slug": "test-standard-cr-vivre-en-france-4",
+      "section": "vivre-en-france",
+      "sectionLabel": "Vivre dans la societe francaise",
+      "count": 10
+    }
+  ],
+  "mockExams": [
+    {
+      "file": "cr/examens/exam-cr-official-1.json",
+      "slug": "exam-cr-official-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-2.json",
+      "slug": "exam-cr-official-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-3.json",
+      "slug": "exam-cr-official-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-4.json",
+      "slug": "exam-cr-official-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-5.json",
+      "slug": "exam-cr-official-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-6.json",
+      "slug": "exam-cr-official-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-7.json",
+      "slug": "exam-cr-official-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-8.json",
+      "slug": "exam-cr-official-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-official-9.json",
+      "slug": "exam-cr-official-9",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-1.json",
+      "slug": "exam-cr-standard-1",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-2.json",
+      "slug": "exam-cr-standard-2",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-3.json",
+      "slug": "exam-cr-standard-3",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-4.json",
+      "slug": "exam-cr-standard-4",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-5.json",
+      "slug": "exam-cr-standard-5",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-6.json",
+      "slug": "exam-cr-standard-6",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-7.json",
+      "slug": "exam-cr-standard-7",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-8.json",
+      "slug": "exam-cr-standard-8",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-9.json",
+      "slug": "exam-cr-standard-9",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-10.json",
+      "slug": "exam-cr-standard-10",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-11.json",
+      "slug": "exam-cr-standard-11",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-12.json",
+      "slug": "exam-cr-standard-12",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-13.json",
+      "slug": "exam-cr-standard-13",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-14.json",
+      "slug": "exam-cr-standard-14",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-15.json",
+      "slug": "exam-cr-standard-15",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-16.json",
+      "slug": "exam-cr-standard-16",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    },
+    {
+      "file": "cr/examens/exam-cr-standard-17.json",
+      "slug": "exam-cr-standard-17",
+      "section": null,
+      "sectionLabel": null,
+      "count": 40
+    }
+  ]
+}

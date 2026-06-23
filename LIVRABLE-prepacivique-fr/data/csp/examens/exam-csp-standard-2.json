@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-2",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-060",
+        "shortId": "Q-34F554",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La langue officielle de la France est :",
+        "choices": [
+          {
+            "text": "L'occitan",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "L'alsacien",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inscrit à l'article 2 de la Constitution : 'La langue de la République est le français'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-034",
+        "shortId": "Q-1CB214",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez organiser une fête bruyante. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Ne rien dire et monter le son au maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Prévenir vos voisins et baisser le son à partir de 22h pour éviter le tapage",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander une autorisation écrite à la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Organiser la fête uniquement en journée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le tapage nocturne est interdit. La courtoisie est essentielle pour le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-018",
+        "shortId": "Q-39EFAD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution vérifie qu'une loi votée respecte la Constitution ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel est le gardien de la Loi fondamentale. Il peut annuler une loi non conforme."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-005",
+        "shortId": "Q-638C94",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la limite légale à la liberté d'expression en France ?",
+        "choices": [
+          {
+            "text": "L'injure publique et l'incitation à la haine raciale",
+            "isCorrect": true
+          },
+          {
+            "text": "L'expression d'un désaccord avec le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "La pratique d'une religion différente de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "La publication d'une opinion politique minoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression est fondamentale mais elle ne permet pas de porter atteinte à la dignité des personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-011",
+        "shortId": "Q-9FF50F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un projet de loi est jugé contraire à la Constitution par certains députés. Quelle institution doit trancher avant que la loi ne soit appliquée ?",
+        "choices": [
+          {
+            "text": "La Cour de justice de l'Union européenne.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État dans sa fonction de conseiller du gouvernement.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel, garant du respect de la Loi fondamentale.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Haut Commissariat aux droits de l'homme.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel vérifie la conformité des lois à la Constitution pour protéger les citoyens contre des lois arbitraires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-064",
+        "shortId": "Q-D6A1D1",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes malade et votre patron vous demande de venir travailler. Que faire ?",
+        "choices": [
+          {
+            "text": "Aller au travail pour ne pas être licencié",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer un collègue à votre place",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander un arrêt maladie au médecin et prévenir votre employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que votre patron rappelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à l'arrêt maladie protège la santé du salarié. Il faut un certificat médical et prévenir l'employeur."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-029",
+        "shortId": "Q-FD6E98",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, peut-on obliger une personne majeure à se marier sans son consentement libre ?",
+        "choices": [
+          {
+            "text": "Non, le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le contrat de mariage a été signé par les parents devant un notaire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage forcé est autorisé uniquement pour des raisons de regroupement familial.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le consentement n'est nécessaire que pour l'époux, pas pour l'épouse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mariage forcé est un délit puni par la loi française. Le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage civil, garantissant le respect de la liberté individuelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-035",
+        "shortId": "Q-D54F6E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous propose un sac de marque pour 10 euros dans la rue. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "C'est légal si le produit est d'occasion et non une copie",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour un usage personnel, pas pour la revente",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est de la contrefaçon ou du recel, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est légal si vous payez en espèces",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Acheter des produits contrefaits ou des objets volés est une infraction pénale (recel ou détention de contrefaçon). L'acheteur risque jusqu'à 300 000 € d'amende et 3 ans d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-030",
+        "shortId": "Q-217505",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est célèbre pour ses nombreux châteaux de la Renaissance (Chambord, Chenonceau) ?",
+        "choices": [
+          {
+            "text": "Le Grand Est",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre-Val de Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La vallée de la Loire était le lieu de résidence privilégié des rois de France aux XVe et XVIe siècles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-035",
+        "shortId": "Q-9D8C85",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir si la 'Fraternité' a une valeur juridique réelle. Quelle en est l'illustration ?",
+        "choices": [
+          {
+            "text": "L'interdiction de se disputer avec ses voisins de palier.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de donner une partie de son salaire à des associations caritatives privées.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de solidarité nationale qui fonde les aides sociales et l'impôt progressif.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de veto des frères et sœurs lors d'un héritage familial.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité n'est pas seulement un sentiment moral, c'est un principe constitutionnel qui justifie la redistribution des richesses."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-005",
+        "shortId": "Q-73EC63",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous travaillez mais votre employeur refuse de vous déclarer. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "Vous ne cotisez pas pour votre retraite et votre protection santé",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun risque, c'est l'employeur qui est responsable",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez quand même être remboursé de vos frais médicaux par la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur sera sanctionné mais vous ne perdez aucun droit social",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail dissimulé ('au noir') prive le salarié de toute protection sociale : pas de cotisations retraite, pas d'assurance chômage, pas d'indemnisation en cas d'accident du travail. C'est un risque majeur pour le salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-032",
+        "shortId": "Q-9EC46C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le chef du Gouvernement en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Premier ministre est nommé par le Président de la République pour diriger l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-013",
+        "shortId": "Q-272C45",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe protège les femmes contre les violences au sein du couple ?",
+        "choices": [
+          {
+            "text": "Le droit de réserve administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité des sexes et l'intégrité de la personne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le privilège de juridiction familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'opinion du conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi française protège l'intégrité physique et morale de chaque individu. Les violences conjugales sont des crimes ou délits sévèrement punis."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-048",
+        "shortId": "Q-4FC46B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes appartient à la devise de la France ?",
+        "choices": [
+          {
+            "text": "La discipline",
+            "isCorrect": false
+          },
+          {
+            "text": "L'honneur",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise est : Liberté, Égalité, Fraternité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-021",
+        "shortId": "Q-381DAE",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi célèbre de 1905 définit la laïcité française ?",
+        "choices": [
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur le droit de vote des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'instruction obligatoire à 3 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi créant la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi établit que la République ne reconnaît ni ne subventionne aucun culte, tout en garantissant la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-037",
+        "shortId": "Q-FE4134",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année la Constitution actuelle de la France (Ve République) a-t-elle été adoptée ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Ve République a été instaurée pour donner plus de stabilité au pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-001",
+        "shortId": "Q-1F853C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent de la fonction publique souhaite exprimer ses convictions religieuses par un signe ostensible durant ses heures de service. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Le principe de neutralité s'applique à tous les agents publics, leur interdisant de manifester leurs croyances dans l'exercice de leurs fonctions.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'agent peut porter ce signe si cela ne gêne pas l'exécution technique de ses tâches quotidiennes.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à la liberté de conscience permet à tout salarié, public ou privé, de manifester sa foi sans restriction.",
+            "isCorrect": false
+          },
+          {
+            "text": "La manifestation des croyances est autorisée uniquement si l'agent n'est pas en contact direct avec les usagers.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La neutralité du service public garantit l'impartialité de l'État. Les agents ne doivent porter aucun signe religieux pour que chaque usager soit traité de la même manière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-034",
+        "shortId": "Q-CF370A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal juge les délits comme les vols ou les agressions ?",
+        "choices": [
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal correctionnel",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le tribunal correctionnel traite les infractions moyennes appelées délits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-037",
+        "shortId": "Q-87ADB8",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté permet aux citoyens de se rassembler temporairement ?",
+        "choices": [
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de réunion et de manifestation",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de réunion et de manifestation est un droit fondamental pour exprimer des opinions collectives pacifiquement, encadré par une déclaration préalable en préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-012",
+        "shortId": "Q-EF410D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure allégorique portant un bonnet phrygien représente la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          },
+          {
+            "text": "La Semeuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est présente dans toutes les mairies de France. Elle symbolise la liberté et la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-056",
+        "shortId": "Q-9FB5D3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le prosélytisme abusif ?",
+        "choices": [
+          {
+            "text": "La pratique discrète d'une prière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le port d'une petite croix en argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de forcer quelqu'un à changer de religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'étude des religions à l'université",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le prosélytisme devient illégal s'il utilise la contrainte ou la menace."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-058",
+        "shortId": "Q-64F9E2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes garantit que personne n'est au-dessus de la loi ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La hiérarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout citoyen, même puissant, doit respecter les règles de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-070",
+        "shortId": "Q-D81E8F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez un colis que vous n'avez pas commandé avec une facture à payer. Que faire ?",
+        "choices": [
+          {
+            "text": "Payer car le colis est chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Renvoyer le colis à vos frais",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas payer, vous n'êtes pas obligé de garder ce que vous n'avez pas commandé",
+            "isCorrect": true
+          },
+          {
+            "text": "Appeler la police pour vol",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Personne ne peut vous forcer à payer un produit que vous n'avez pas commandé. C'est une pratique illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-035",
+        "shortId": "Q-09A1F6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande ville du sud de la France est le premier port de commerce du pays ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Fondée par les Grecs, Marseille est une ville carrefour entre l'Europe et la Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-036",
+        "shortId": "Q-2893ED",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui doit payer la 'Contribution à l'Audiovisuel Public' (redevance TV) aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Tous les foyers possédant une télévision",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les personnes vivant en appartement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les entreprises qui diffusent de la publicité",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne, elle a été supprimée pour tous les particuliers",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2022, la redevance télé (contribution à l'audiovisuel public) a été supprimée pour l'ensemble des foyers français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-060",
+        "shortId": "Q-690893",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si l'État peut lui interdire d'appartenir à une association de défense de l'environnement. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, l'État interdit toute association qui critique ses choix industriels.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'association compte plus de 10 membres étrangers.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction est automatique si l'association demande des subventions publiques.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'association est un principe fondamental garanti par la loi de 1901 et la Constitution.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'association permet aux citoyens de se regrouper librement pour défendre des causes ou partager des activités."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-006",
+        "shortId": "Q-726C58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe garantit que l'État ne favorise aucune religion ?",
+        "choices": [
+          {
+            "text": "La fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité assure la neutralité de l'État et la liberté de conscience pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-036",
+        "shortId": "Q-E62AFC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne handicapée veut entrer au magasin avec son chien d'assistance. Le gérant refuse. C'est :",
+        "choices": [
+          {
+            "text": "Autorisé pour l'hygiène du magasin",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si le chien est gros",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si le gérant a peur des chiens",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit, le chien d'assistance a accès partout",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les chiens guides et d'assistance sont autorisés dans tous les lieux publics par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-022",
+        "shortId": "Q-EBE113",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+        "choices": [
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Opéra Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conçue par Gustave Eiffel, elle devait être détruite après l'exposition mais est devenue le symbole de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-031",
+        "shortId": "Q-D69E26",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'état civil ?",
+        "choices": [
+          {
+            "text": "La liste des personnes ayant payé leurs impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des règles pour se comporter poliment en public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service qui enregistre les naissances, mariages et décès",
+            "isCorrect": true
+          },
+          {
+            "text": "Un diplôme de fin d'études secondaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil définit l'identité d'une personne auprès de l'administration via des actes officiels dressés par les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-010",
+        "shortId": "Q-C38AD2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient la souveraineté nationale en France ?",
+        "choices": [
+          {
+            "text": "Le Président de la République exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de chaque département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple français, par ses représentants ou référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne à Bruxelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En démocratie, le pouvoir appartient aux citoyens qui l'exercent par le vote."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-057",
+        "shortId": "Q-CA6701",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de fois un Président peut-il être réélu consécutivement ?",
+        "choices": [
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Trois fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Une seule fois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un Président peut faire au maximum deux mandats de suite (10 ans au total)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-062",
+        "shortId": "Q-8BB4C9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle principal du Parlement (Assemblée nationale et Sénat) ?",
+        "choices": [
+          {
+            "text": "Diriger la police et l'armée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les juges des tribunaux de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer le budget personnel du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler le Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif et représente les citoyens et les territoires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-041",
+        "shortId": "Q-56A906",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre est considéré comme le chef de file de l'Impressionnisme (auteur des 'Nymphéas') ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Monet a révolutionné la peinture en essayant de capturer la lumière et les couleurs changeantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-050",
+        "shortId": "Q-323DDD",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Municipal ?",
+        "choices": [
+          {
+            "text": "Diriger la police nationale et l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer les affaires de la commune (budget, écoles primaires, voirie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les lois au niveau du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil municipal représente les habitants de la commune et vote les décisions locales importantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-047",
+        "shortId": "Q-AE0271",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir ce que signifie 'l'indivisibilité' de la République concernant les territoires d'outre-mer.",
+        "choices": [
+          {
+            "text": "Cela signifie que les départements d'outre-mer font partie intégrante de la République française au même titre que l'Hexagone.",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela signifie que les îles n'ont pas le droit d'avoir leurs propres maires.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indivisibilité interdit aux habitants des îles de parler une autre langue que le français.",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela veut dire que la France ne peut pas vendre d'îles à d'autres pays sans l'accord de l'ONU.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République est une. Les citoyens d'outre-mer ont les mêmes droits et devoirs que ceux de la métropole."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-009",
+        "shortId": "Q-A42B98",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui représente l'autorité de l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Juge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Commissaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Préfet est nommé par le Gouvernement pour assurer l'ordre et l'application des lois localement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-065",
+        "shortId": "Q-B752D3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de dignité humaine interdit formellement :",
+        "choices": [
+          {
+            "text": "De soumettre une personne à des conditions de travail indignes",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser l'accès aux soins médicaux d'urgence à quiconque",
+            "isCorrect": false
+          },
+          {
+            "text": "De discriminer une personne en raison de son origine ou de son handicap",
+            "isCorrect": false
+          },
+          {
+            "text": "De traiter un être humain comme un objet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La dignité est un principe absolu qui protège l'intégrité de chaque personne contre toute dégradation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-031",
+        "shortId": "Q-B6D4FC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces départements d'outre-mer est une île située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion est un département français célèbre pour son volcan, le Piton de la Fournaise."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-039",
+        "shortId": "Q-CFA429",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Contrôle Technique' pour une voiture ?",
+        "choices": [
+          {
+            "text": "Une vérification de la propreté du moteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un examen de conduite pour les seniors",
+            "isCorrect": false
+          },
+          {
+            "text": "Une vérification obligatoire tous les 2 ans de l'état de sécurité et de pollution du véhicule",
+            "isCorrect": true
+          },
+          {
+            "text": "Une option gratuite proposée par les constructeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour les véhicules de plus de 4 ans, un contrôle technique doit être effectué tous les 2 ans pour s'assurer qu'ils ne sont pas dangereux ou trop polluants."
+      }
+    }
+  ]
+}

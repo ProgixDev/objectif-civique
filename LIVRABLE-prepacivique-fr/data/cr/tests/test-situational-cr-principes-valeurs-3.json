@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-principes-valeurs-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-041",
+        "shortId": "Q-711FAC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le Pacte Civil de Solidarité (PACS) est défini juridiquement comme :",
+        "choices": [
+          {
+            "text": "Un contrat conclu entre deux personnes majeures pour organiser leur vie commune et solidaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Un contrat religieux de fidélité devant être validé par un ministre du culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Une étape préliminaire obligatoire avant de pouvoir prétendre au mariage civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Un dispositif d'union civile réservé uniquement aux couples de sexe différent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Créé en 1999, le PACS est une union civile ouverte à tous les couples. Il offre une reconnaissance juridique à la diversité des formes de vie commune en dehors du mariage."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-042",
+        "shortId": "Q-AE14C4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Qu'est-ce qu'un 'État de droit' dans le système républicain français ?",
+        "choices": [
+          {
+            "text": "Un système où la police dispose de pleins pouvoirs discrétionnaires pour maintenir le calme",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système où chacun, y compris l'État et ses dirigeants, est soumis au respect des lois et des juges",
+            "isCorrect": true
+          },
+          {
+            "text": "Un régime politique où les lois sont gravées dans le marbre et ne peuvent jamais changer",
+            "isCorrect": false
+          },
+          {
+            "text": "Une organisation où seule la volonté de la majorité numérique fait office de règle de droit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit garantit que l'administration n'agit pas de manière arbitraire. Chaque citoyen peut contester une décision publique devant un juge indépendant (principe de légalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-043",
+        "shortId": "Q-F8CA4C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La souveraineté nationale appartient au peuple selon l'article 3 de la Constitution. Comment est-elle exercée ?",
+        "choices": [
+          {
+            "text": "Par le Président de la République en tant que garant des institutions",
+            "isCorrect": false
+          },
+          {
+            "text": "Par le Conseil Constitutionnel qui valide les choix politiques de la Nation",
+            "isCorrect": false
+          },
+          {
+            "text": "Par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Par les autorités administratives indépendantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le peuple est la source de tout pouvoir légitime. Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice exclusif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-044",
+        "shortId": "Q-544C48",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi le drapeau européen est-il arboré aux côtés du drapeau français sur les bâtiments publics ?",
+        "choices": [
+          {
+            "text": "Il indique la fin de l'indépendance diplomatique de la France au profit de Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une obligation purement esthétique pour uniformiser les façades des préfectures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il symbolise l'obligation légale de payer les impôts locaux en monnaie européenne uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il marque l'appartenance de la France à l'Union européenne et le partage de valeurs démocratiques communes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est un État membre fondateur de l'UE. Les deux drapeaux côte à côte symbolisent la double citoyenneté et la solidarité continentale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-045",
+        "shortId": "Q-A83E75",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de séparation des pouvoirs (législatif, exécutif, judiciaire) a pour but fondamental :",
+        "choices": [
+          {
+            "text": "D'empêcher la concentration du pouvoir entre les mains d'un seul organe pour éviter l'arbitraire",
+            "isCorrect": true
+          },
+          {
+            "text": "De multiplier les postes de fonctionnaires pour réduire le taux de chômage national",
+            "isCorrect": false
+          },
+          {
+            "text": "De rendre les procédures législatives plus opaques et difficiles à contester en justice",
+            "isCorrect": false
+          },
+          {
+            "text": "De permettre au Président de la République de nommer l'intégralité des juges du siège",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inspirée par Montesquieu et inscrite dans la DDHC de 1789, la séparation des pouvoirs assure l'équilibre démocratique en permettant aux différents organes de se contrôler mutuellement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-046",
+        "shortId": "Q-DA6D42",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La francisation du prénom lors de l'acquisition de la nationalité française est juridiquement :",
+        "choices": [
+          {
+            "text": "Une obligation légale absolue sous peine de nullité de la naturalisation obtenue",
+            "isCorrect": false
+          },
+          {
+            "text": "Une option offerte par la loi pour favoriser l'intégration, soumise à la demande de l'intéressé",
+            "isCorrect": true
+          },
+          {
+            "text": "Une pratique administrative devenue illégale et discriminatoire depuis l'année 2010",
+            "isCorrect": false
+          },
+          {
+            "text": "Une mesure réservée exclusivement aux demandeurs issus de l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi permet à ceux qui acquièrent la nationalité française de demander la francisation de leur nom ou de leurs prénoms afin de faciliter leur insertion dans la communauté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-047",
+        "shortId": "Q-8D8BC1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la définition juridique de la décentralisation dans la Constitution française ?",
+        "choices": [
+          {
+            "text": "La concentration des compétences administratives au sein des préfectures de chaque département",
+            "isCorrect": false
+          },
+          {
+            "text": "La délocalisation des ministères vers les grandes métropoles régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le transfert de compétences de l'État vers des collectivités territoriales élues (Mairies, Régions...)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'indépendance législative des régions vis-à-vis du Parlement national",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 1er de la Constitution dispose que 'L'organisation de la République est décentralisée'. Le transfert de compétences de l'État vers des collectivités territoriales élues (Mairies, Régions...) permet une gestion de proximité par des élus locaux tout en maintenant l'unité législative."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-048",
+        "shortId": "Q-06F66B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La liberté de conscience, pilier de la laïcité, garantit que :",
+        "choices": [
+          {
+            "text": "L'État a le devoir d'imposer l'athéisme philosophique à l'ensemble des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit à tout citoyen de changer de religion au cours de son existence",
+            "isCorrect": false
+          },
+          {
+            "text": "Les religions minoritaires ne disposent d'aucun droit de réunion dans l'espace public",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque individu est libre de choisir ses convictions, de pratiquer un culte ou de ne pas en avoir",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de conscience protège croyants, athées et agnostiques de manière égale contre toute forme de contrainte ou d'immixtion de l'État dans leurs pensées privées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-049",
+        "shortId": "Q-8C68D6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de parité en politique impose aux partis lors de scrutins de liste :",
+        "choices": [
+          {
+            "text": "De présenter un nombre égal de candidates femmes et de candidats hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "D'assurer une représentation équitable de toutes les tranches d'âge de la population",
+            "isCorrect": false
+          },
+          {
+            "text": "De disposer d'un budget de campagne strictement identique pour chaque candidat",
+            "isCorrect": false
+          },
+          {
+            "text": "De se concentrer exclusivement sur les thématiques liées à la politique familiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la révision constitutionnelle de 1999, la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux pour corriger la sous-représentation historique des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-050",
+        "shortId": "Q-19E2D5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La Fraternité, valeur de la devise républicaine, s'incarne concrètement par :",
+        "choices": [
+          {
+            "text": "L'obligation de voter pour le candidat ayant le programme le plus social",
+            "isCorrect": false
+          },
+          {
+            "text": "Les systèmes de protection sociale et de redistribution basés sur la solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le port d'un uniforme vestimentaire identique pour tous les citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute forme d'association ou de club privé restreint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité se traduit par des droits sociaux (santé, retraite, aides) financés par la contribution de tous pour soutenir les plus vulnérables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-051",
+        "shortId": "Q-5431E0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une commune refuse d'entretenir un bâtiment religieux construit avant 1905 dont elle est propriétaire. En a-t-elle le droit ?",
+        "choices": [
+          {
+            "text": "Oui, car la laïcité de l'État interdit strictement de dépenser l'argent public pour le culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le bâtiment n'est pas répertorié au titre des monuments historiques protégés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les communes sont légalement responsables de l'entretien des édifices cultuels dont elles ont la propriété",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais elle doit alors procéder à la destruction immédiate de l'édifice pour raison de sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi de 1905 a transféré la propriété des églises aux communes. Celles-ci ont l'obligation d'assurer la conservation de ces bâtiments mis à disposition gratuite des cultes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-052",
+        "shortId": "Q-9D0F26",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Depuis 2019, l'instruction est obligatoire en France pour tous les enfants résidant sur le territoire de :",
+        "choices": [
+          {
+            "text": "6 ans révolus jusqu'à l'âge de 16 ans révolus",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans révolus jusqu'à l'âge de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans révolus jusqu'à l'âge de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans révolus jusqu'à l'âge de 16 ans révolus",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'instruction obligatoire dès 3 ans vise à garantir l'égalité des chances dès le plus jeune âge. Elle s'applique à tous les enfants, quelle que soit leur nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-053",
+        "shortId": "Q-48F976",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la règle juridique en cas de conflit entre un traité international ratifié et une loi française ?",
+        "choices": [
+          {
+            "text": "Le traité international régulièrement ratifié a une autorité supérieure à celle de la loi nationale française",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi française prime systématiquement car elle est le fruit de la souveraineté nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "On applique la règle de droit la plus ancienne dans le temps pour garantir la stabilité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État tranche au cas par cas selon l'intérêt national",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 55 de la Constitution consacre la supériorité des traités. C'est le principe de primauté qui assure le respect des engagements internationaux de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-054",
+        "shortId": "Q-3AB58E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le droit d'asile est garanti constitutionnellement en France pour toute personne :",
+        "choices": [
+          {
+            "text": "Souhaitant immigrer pour des raisons purement économiques ou professionnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Persécutée en raison de son action pour la liberté ou pour ses origines/croyances",
+            "isCorrect": true
+          },
+          {
+            "text": "Désirant simplement changer de cadre de vie pour des raisons climatiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Ayant été condamnée pour des crimes de guerre ou des actes de terrorisme avérés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit d'asile est une valeur protectrice de la République. La France protège ceux dont la vie ou la liberté est menacée dans leur pays d'origine pour des motifs politiques ou identitaires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-055",
+        "shortId": "Q-0D4182",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de mutabilité du service public implique que :",
+        "choices": [
+          {
+            "text": "Les fonctionnaires titulaires peuvent changer de poste chaque semaine sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "L'administration peut devenir une entité privée lucrative du jour au lendemain sans information",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service public doit s'adapter aux évolutions de l'intérêt général et aux besoins des usagers",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administration républicaine fonctionne sans aucune règle fixe ou prévisible",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Également appelé 'principe d'adaptation', il signifie que le service public ne doit pas rester figé et doit évoluer technologiquement et socialement pour rester utile à la cité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-056",
+        "shortId": "Q-C64298",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un agent administratif refuse d'instruire le dossier d'un usager en raison de son orientation sexuelle. Quel principe est violé ?",
+        "choices": [
+          {
+            "text": "Le principe de continuité territoriale du service public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de réserve de l'usager envers l'administration centrale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret professionnel absolu imposé par la hiérarchie préfectorale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité devant le service public et l'interdiction de discrimination",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tous les usagers doivent être traités avec la même impartialité. Toute distinction fondée sur des critères personnels (sexe, religion, orientation) est une faute lourde et un délit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-057",
+        "shortId": "Q-7D73DB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En France, la liberté d'entreprendre s'exerce sous quelle condition majeure ?",
+        "choices": [
+          {
+            "text": "Elle doit respecter les lois et règlements protégeant l'intérêt général (santé, droit du travail...)",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle n'est autorisée qu'aux entreprises dont l'État possède au moins 51% des parts",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est interdite aux citoyens n'ayant pas la nationalité française depuis 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle impose que tous les prix de vente soient fixés chaque mois par le gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté économique est garantie, mais elle ne doit pas nuire à l'ordre public social. L'État régule l'activité pour protéger les travailleurs, les consommateurs et l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-058",
+        "shortId": "Q-4B5B99",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le terme 'laïcité positive', bien que débattu, désigne généralement :",
+        "choices": [
+          {
+            "text": "Une conception ouverte favorisant le dialogue avec les cultes sans modifier la loi de 1905",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réforme concordataire étendant le régime d'Alsace-Moselle à tout le territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation pour l'État de financer les nouveaux édifices religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression de la neutralité des agents publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette notion politique évoque une approche plus ouverte du dialogue entre l'État et les cultes. Juridiquement, la France reste régie par la loi de 1905 fondée sur la séparation et la neutralité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-059",
+        "shortId": "Q-ABDB44",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la mission principale du Défenseur des Droits ?",
+        "choices": [
+          {
+            "text": "Nommer les ministres du gouvernement sur proposition du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les intérêts du gouvernement contre les réclamations des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Lutter contre les discriminations et veiller au respect des droits par les services publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger le code pénal et superviser l'exécution des peines de prison",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette autorité administrative indépendante (AAI) protège les citoyens contre les abus de l'administration et les discriminations illégales, garantissant ainsi l'équité républicaine."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-060",
+        "shortId": "Q-B26885",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La protection des données personnelles (RGPD) se rattache à quelle valeur républicaine ?",
+        "choices": [
+          {
+            "text": "Le principe de solidarité entre générations",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité devant l'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de continuité du service public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Liberté individuelle et le respect de la vie privée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le contrôle de ses propres données est un prolongement de la liberté individuelle. La République assure que l'intimité numérique est protégée contre les surveillances illégitimes."
+      }
+    }
+  ]
+}

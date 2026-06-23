@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-4",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-119",
+        "shortId": "Q-46BFDD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes régit l'accès aux emplois publics (fonction publique) ?",
+        "choices": [
+          {
+            "text": "Le favoritisme familial",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité d'accès selon le mérite (concours)",
+            "isCorrect": true
+          },
+          {
+            "text": "La nomination par les partis politiques",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation d'être né à Paris",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'administration doit être accessible à tous les citoyens selon leurs capacités."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-113",
+        "shortId": "Q-FD2EFD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'empêchement ou de décès du Président, qui assure l'intérim ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Président du Sénat, c'est le deuxième personnage de l'État dans l'ordre protocolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-028",
+        "shortId": "Q-138F9E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution est chargée de vérifier qu'une loi est conforme à la Constitution ?",
+        "choices": [
+          {
+            "text": "La Haute Cour de Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel veille au respect des principes fondamentaux de la Constitution lors de l'adoption des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-039",
+        "shortId": "Q-840FB1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité réside officiellement à l'Hôtel de Matignon ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Hôtel de Matignon est la résidence et le lieu de travail du Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-107",
+        "shortId": "Q-9512D6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif de la décentralisation en France ?",
+        "choices": [
+          {
+            "text": "Concentrer tous les pouvoirs à Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Transférer des compétences de l'État aux collectivités locales",
+            "isCorrect": true
+          },
+          {
+            "text": "Rendre toutes les mairies indépendantes de la loi française",
+            "isCorrect": false
+          },
+          {
+            "text": "Supprimer les départements",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La décentralisation rapproche la prise de décision des citoyens (communes, départements, régions)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-108",
+        "shortId": "Q-56667E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Obéir sans discuter aux ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les membres du cabinet ministériel",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler l'action du Gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger les décrets d'application",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement surveille l'activité du Gouvernement par des questions et des commissions d'enquête."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-094",
+        "shortId": "Q-50F4A3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces documents est un titre d'identité officiel délivré par l'État français ?",
+        "choices": [
+          {
+            "text": "La carte nationale d'identité",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte de transport",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La CNI et le passeport sont les principaux titres certifiant l'identité et la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-007",
+        "shortId": "Q-E03F26",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le double rôle du Conseil d'État ?",
+        "choices": [
+          {
+            "text": "Conseiller juridique du Gouvernement et juge suprême de l'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier les comptes de l'État et juger les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les magistrats et gérer les prisons",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil d'État donne son avis sur les projets de loi avant qu'ils ne soient présentés en Conseil des ministres, et il est la juridiction ultime pour les litiges avec l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-101",
+        "shortId": "Q-902C35",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment le droit de grève est-il considéré en France ?",
+        "choices": [
+          {
+            "text": "Comme une faute grave punie par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme une option réservée aux cadres",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme une interdiction absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme un droit fondamental reconnu par la Constitution",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de grève s'exerce dans le cadre des lois qui le réglementent."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-095",
+        "shortId": "Q-F36708",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À qui appartient le drapeau bleu, blanc, rouge ?",
+        "choices": [
+          {
+            "text": "À l'armée française exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Nation française tout entière",
+            "isCorrect": true
+          },
+          {
+            "text": "À la ville de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Gouvernement en place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'emblème national qui unit tous les citoyens, sans distinction."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-067",
+        "shortId": "Q-A2AFA5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de membres composent le Sénat ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": true
+          },
+          {
+            "text": "150",
+            "isCorrect": false
+          },
+          {
+            "text": "250",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat compte 348 sénateurs, représentant les collectivités territoriales de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-011",
+        "shortId": "Q-29A27F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de députés siègent à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "650",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          },
+          {
+            "text": "400",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés (dont 11 représentant les Français de l'étranger), élus pour 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-009",
+        "shortId": "Q-F7FBFB",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité territoriale est responsable des collèges ?",
+        "choices": [
+          {
+            "text": "La commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le département gère la construction, l'entretien et le fonctionnement des collèges. La région s'occupe des lycées et la commune des écoles primaires/maternelles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-031",
+        "shortId": "Q-73A6DC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution de la Ve République, qui est le Chef des armées ?",
+        "choices": [
+          {
+            "text": "Le Ministre de la Défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chef d'état-major des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République est le garant de l'indépendance nationale et le chef suprême des forces armées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-026",
+        "shortId": "Q-6666C2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quelle institution détient le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement et les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil économique et social",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission principale est de débattre, d'amender et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-081",
+        "shortId": "Q-744F4F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, comment obtient-on la nationalité française par déclaration après un mariage ?",
+        "choices": [
+          {
+            "text": "De manière automatique dès le jour du mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "En faisant une demande après 1 an de vie commune",
+            "isCorrect": false
+          },
+          {
+            "text": "En payant une taxe spécifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Après 4 ans de mariage et sous conditions d'intégration",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mariage avec un Français ne donne pas la nationalité automatiquement ; il faut respecter un délai et prouver une communauté de vie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-055",
+        "shortId": "Q-3F2691",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal est compétent pour les conflits individuels entre employeur et salarié ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil de prud'hommes est une juridiction paritaire spécialisée dans le droit du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-053",
+        "shortId": "Q-8DC5D4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vers quel type de juridiction se tourne-t-on pour un litige entre personnes privées ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "La Chambre régionale des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire (Tribunal judiciaire)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La justice judiciaire traite les contentieux civils (contrats, famille) et les affaires pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-112",
+        "shortId": "Q-304CC5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit la liberté de culte en France ?",
+        "choices": [
+          {
+            "text": "L'obligation de pratiquer une religion précise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute pratique religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de croire ou de ne pas croire et de pratiquer sa religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Le financement des églises par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité assure que chacun peut vivre ses convictions tant qu'elles respectent l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-059",
+        "shortId": "Q-02B4AF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la procédure permettant de confier son vote à un tiers en cas d'absence ?",
+        "choices": [
+          {
+            "text": "Le vote blanc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote par procuration",
+            "isCorrect": true
+          },
+          {
+            "text": "Le suffrage indirect",
+            "isCorrect": false
+          },
+          {
+            "text": "La candidature libre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La procuration permet à un électeur absent de se faire représenter par un autre électeur."
+      }
+    }
+  ]
+}

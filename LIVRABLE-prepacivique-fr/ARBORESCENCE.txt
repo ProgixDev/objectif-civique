@@ -1,0 +1,187 @@
+ARBORESCENCE DU LIVRABLE — contenu prepacivique.fr
+==================================================
+
+Miroir du site prepacivique.fr (examen civique 2026 : CSP, CR, NAT).
+Point d'entree : README.md  |  Navigation QCM : data/INDEX.md
+
+LIVRABLE-prepacivique-fr/
+├── articles/
+│   ├── 100-questions-entretien-naturalisation.md
+│   ├── cinquieme-republique-constitution-1958.md
+│   ├── comment-preparer-examen-civique.md
+│   ├── deuxieme-republique-france.md
+│   ├── geographie-culture-entretien.md
+│   ├── histoire-france-entretien.md
+│   ├── index.md
+│   ├── institutions-france-entretien.md
+│   ├── laicite-ecole.md
+│   ├── les-5-republiques-francaises.md
+│   ├── loi-1905-laicite.md
+│   ├── niveau-b2-naturalisation-2026.md
+│   ├── premiere-republique-france.md
+│   ├── proselytisme-definition.md
+│   ├── quatrieme-republique-france.md
+│   ├── questions-mise-en-situation-examen-civique.md
+│   ├── questions-personnelles-entretien.md
+│   ├── rois-de-france.md
+│   ├── symboles-republique-francaise.md
+│   ├── top-10-questions-pieges-examen-civique.md
+│   ├── troisieme-republique-france.md
+│   ├── valeurs-republique-entretien.md
+│   └── vie-en-france-entretien.md
+├── data/
+│   ├── cr/
+│   │   ├── examens/   (26 fichiers)
+│   │   │   ├── exam-cr-official-1.json
+│   │   │   ├── exam-cr-official-2.json
+│   │   │   └── … (+24)
+│   │   ├── sections/   (5 fichiers)
+│   │   │   ├── droits-et-devoirs.json
+│   │   │   ├── histoire-geographie-culture.json
+│   │   │   └── … (+3)
+│   │   ├── tests/   (40 fichiers)
+│   │   │   ├── test-official-cr-droits-et-devoirs-1.json
+│   │   │   ├── test-official-cr-droits-et-devoirs-2.json
+│   │   │   └── … (+38)
+│   │   ├── _index.json
+│   │   └── questions.json
+│   ├── csp/
+│   │   ├── examens/   (26 fichiers)
+│   │   │   ├── exam-csp-official-1.json
+│   │   │   ├── exam-csp-official-2.json
+│   │   │   └── … (+24)
+│   │   ├── sections/   (5 fichiers)
+│   │   │   ├── droits-et-devoirs.json
+│   │   │   ├── histoire-geographie-culture.json
+│   │   │   └── … (+3)
+│   │   ├── tests/   (33 fichiers)
+│   │   │   ├── test-official-csp-droits-et-devoirs-1.json
+│   │   │   ├── test-official-csp-droits-et-devoirs-2.json
+│   │   │   └── … (+31)
+│   │   ├── _index.json
+│   │   └── questions.json
+│   ├── nat/
+│   │   ├── examens/   (26 fichiers)
+│   │   │   ├── exam-nat-official-1.json
+│   │   │   ├── exam-nat-official-10.json
+│   │   │   └── … (+24)
+│   │   ├── sections/   (5 fichiers)
+│   │   │   ├── droits-et-devoirs.json
+│   │   │   ├── histoire-geographie-culture.json
+│   │   │   └── … (+3)
+│   │   ├── tests/   (36 fichiers)
+│   │   │   ├── test-official-nat-droits-et-devoirs-1.json
+│   │   │   ├── test-official-nat-droits-et-devoirs-2.json
+│   │   │   └── … (+34)
+│   │   ├── _index.json
+│   │   └── questions.json
+│   ├── INDEX.md
+│   ├── _catalogue.json
+│   ├── _summary.json
+│   └── all-questions.json
+├── guides/
+│   ├── naturalisation-francaise/
+│   │   ├── apres-l-obtention.md
+│   │   ├── conditions.md
+│   │   ├── cout.md
+│   │   ├── delais.md
+│   │   ├── documents.md
+│   │   ├── dossier-anef.md
+│   │   ├── recours.md
+│   │   └── refus.md
+│   ├── 10-strategies-reussir-examen-civique.md
+│   ├── 7-conseils-preparer-examen-civique.md
+│   ├── carte-resident-longue-duree-ue.md
+│   ├── choisir-niveau-examen-civique.md
+│   ├── comment-s-inscrire.md
+│   ├── conditions-csp-2026.md
+│   ├── conseils-entretien-naturalisation.md
+│   ├── conseils-reussite.md
+│   ├── contrat-integration-republicaine.md
+│   ├── difference-carte-resident-naturalisation.md
+│   ├── difference-csp-cr-naturalisation.md
+│   ├── difference-entretien-examen-civique.md
+│   ├── dispenses-examen-civique.md
+│   ├── entretien-naturalisation.md
+│   ├── erreurs-eviter-b2.md
+│   ├── examen-civique-niveau-francais-faible.md
+│   ├── examen-civique-qui-doit-passer.md
+│   ├── examen-civique.md
+│   ├── faq-naturalisation-francaise.md
+│   ├── flashcards-examen-civique.md
+│   ├── index.md
+│   ├── methode-star-entretien.md
+│   ├── naturalisation-francaise.md
+│   ├── naturalisation-par-decret.md
+│   ├── naturalisation-par-mariage.md
+│   ├── niveaux-langue-titre-sejour.md
+│   ├── plan-revision-entretien-naturalisation.md
+│   ├── preuves-niveau-b2-naturalisation.md
+│   ├── prix-examen-civique.md
+│   ├── questions-officielles-cr.md
+│   ├── questions-officielles-csp.md
+│   ├── questions-officielles-naturalisation.md
+│   ├── strategie-carte-resident-naturalisation.md
+│   ├── stress-entretien-preparation.md
+│   └── timbre-fiscal-titre-sejour.md
+├── pages/
+│   ├── centres-examen/   (20 fichiers)
+│   │   ├── angers.md
+│   │   ├── bordeaux.md
+│   │   └── … (+18)
+│   ├── eligibilite/
+│   │   ├── examen-civique-carte-resident.md
+│   │   ├── examen-civique-naturalisation.md
+│   │   └── examen-civique-titre-de-sejour.md
+│   ├── a-propos.md
+│   ├── accueil.md
+│   ├── avis.md
+│   ├── centres-examen.md
+│   ├── conditions-generales.md
+│   ├── demande-nationalite-francaise.md
+│   ├── eligibilite.md
+│   ├── examen-civique-2026.md
+│   ├── examen-civique.md
+│   ├── faq.md
+│   ├── formation-civique-ofii.md
+│   ├── livret-du-citoyen.md
+│   ├── mentions-legales.md
+│   ├── politique-confidentialite.md
+│   └── politique-remboursement.md
+├── preparation/
+│   ├── droits-et-devoirs/
+│   │   ├── devoirs-obligations-france.md
+│   │   └── droits-fondamentaux-france.md
+│   ├── histoire-geographie-culture/
+│   │   ├── atlas-geographie-france.md
+│   │   ├── cinquieme-republique-france.md
+│   │   ├── conflits-mondiaux-france.md
+│   │   ├── culture-francaise.md
+│   │   ├── france-europe-monde.md
+│   │   ├── memoire-immigration-france.md
+│   │   ├── regimes-politiques-france.md
+│   │   └── regions-francaises.md
+│   ├── principes-valeurs/
+│   │   ├── contrat-engagement-republicain.md
+│   │   ├── devise-liberte-egalite-fraternite.md
+│   │   ├── langue-de-la-republique.md
+│   │   ├── questions-laicite.md
+│   │   └── symboles-republique-france.md
+│   ├── systeme-institutionnel/
+│   │   ├── democratie-droit-de-vote.md
+│   │   ├── etat-de-droit-separation-pouvoirs.md
+│   │   ├── institutions-europeennes.md
+│   │   └── organisation-republique-francaise.md
+│   ├── vivre-en-france/
+│   │   ├── demarches-administratives.md
+│   │   ├── emploi-travail-france.md
+│   │   ├── famille-education-france.md
+│   │   └── sante-securite-sociale.md
+│   ├── droits-et-devoirs.md
+│   ├── histoire-geographie-culture.md
+│   ├── index.md
+│   ├── principes-valeurs.md
+│   ├── systeme-institutionnel.md
+│   └── vivre-en-france.md
+├── ARBORESCENCE.txt
+└── README.md

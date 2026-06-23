@@ -1,0 +1,587 @@
+{
+  "slug": "test-official-csp-principes-valeurs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 17,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-official-036",
+        "shortId": "Q-08AE80",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
+        "choices": [
+          {
+            "text": "Oui, s'il invoque sa liberté de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si ses parents en font la demande écrite",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'instruction est obligatoire et les programmes s'imposent à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour les enseignements contraires à sa religion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'instruction est obligatoire de 3 à 16 ans et tous les programmes s'appliquent à tous les élèves, sans exception religieuse (sport, sciences, éducation sexuelle...)"
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-006",
+        "shortId": "Q-E12074",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Certains métiers peuvent-ils être réservés aux hommes ?",
+        "choices": [
+          {
+            "text": "Oui, pour certains métiers nécessitant une force physique importante",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, tous les métiers sont ouverts aux femmes comme aux hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend des conventions collectives de chaque secteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement dans les postes de direction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe d'égalité professionnelle interdit de réserver des emplois à un sexe particulier (sauf cas très rares et spécifiques comme certains rôles au théâtre)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-007",
+        "shortId": "Q-BABC43",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quand date la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "De 1848",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1958",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Constitution actuelle a été adoptée le 4 octobre 1958, fondant la Ve République sous l'impulsion du général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-022",
+        "shortId": "Q-D8C184",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la place de la langue française dans la République ?",
+        "choices": [
+          {
+            "text": "Elle est la seule langue autorisée dans les médias",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est la langue officielle de la République, obligatoire dans l'administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est protégée mais les langues régionales ont un statut égal",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est obligatoire dans tous les échanges, y compris privés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution stipule que 'la langue de la République est le français'. Elle est obligatoire dans l'administration et l'enseignement, mais pas dans la sphère privée. Les langues régionales sont reconnues mais n'ont pas de statut officiel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-005",
+        "shortId": "Q-984AE3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
+        "choices": [
+          {
+            "text": "Oui, si cela reste privé et non diffusé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si c'est formulé comme une opinion",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du contexte et de l'intention",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'injure discriminatoire n'est pas une opinion, c'est un délit. La loi punit le racisme, le sexisme, l'handiphobie, etc."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-001",
+        "shortId": "Q-C9DC58",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi correspond la date du 14 juillet ?",
+        "choices": [
+          {
+            "text": "À la création de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mort de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "À la fête nationale (Prise de la Bastille et Fête de la Fédération)",
+            "isCorrect": true
+          },
+          {
+            "text": "À l'armistice de la Première Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet célèbre la prise de la Bastille (1789) et la Fête de la Fédération (1790), symboles de l'union de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-018",
+        "shortId": "Q-207D32",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel symbole de la République française est tricolore ?",
+        "choices": [
+          {
+            "text": "Marianne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau",
+            "isCorrect": true
+          },
+          {
+            "text": "Le coq gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le sceau de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le drapeau national est composé de trois bandes verticales : bleue, blanche et rouge."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-019",
+        "shortId": "Q-0C81E1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la date de la fête nationale française ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet a été institué fête nationale en 1880 pour commémorer la prise de la Bastille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-034",
+        "shortId": "Q-D862D8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+        "choices": [
+          {
+            "text": "Pour empêcher toute référence aux faits religieux dans les programmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour protéger la conscience des élèves de tout prosélytisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour permettre aux personnels d'afficher leurs convictions en classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour faire primer les règles religieuses sur le règlement scolaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité scolaire garantit la neutralité du service public et protège la liberté de conscience des élèves. Elle n'interdit pas l'étude des faits religieux en histoire ou en culture, mais elle exclut le prosélytisme et toute pression idéologique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-035",
+        "shortId": "Q-94F971",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la laïcité ?",
+        "choices": [
+          {
+            "text": "La reconnaissance officielle des religions par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation pour les fonctionnaires de déclarer leur religion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de la pratique religieuse dans l'espace public",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État vis-à-vis des religions",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité signifie que l'État est neutre : il ne reconnaît, ne salarie ni ne subventionne aucun culte (loi 1905). Mais la laïcité n'interdit pas la religion : chacun est libre de pratiquer sa foi dans l'espace public. Les fonctionnaires doivent être neutres, pas les citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-010",
+        "shortId": "Q-6C755B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où peut-on voir la devise de la République ?",
+        "choices": [
+          {
+            "text": "Sur les timbres et les pièces de monnaie",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les frontons des mairies et des écoles publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Sur les panneaux d'entrée des villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les plaques d'immatriculation des véhicules",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "\"Liberté, Égalité, Fraternité\" est inscrite sur les frontons des mairies, des écoles et des bâtiments publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-011",
+        "shortId": "Q-BE6754",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quels sont des symboles officiels de la République française ?",
+        "choices": [
+          {
+            "text": "Le coq gaulois, le bonnet phrygien et la fleur de lys",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau européen, l'Ode à la joie et l'euro",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau tricolore, La Marseillaise et la devise « Liberté, Égalité, Fraternité »",
+            "isCorrect": true
+          },
+          {
+            "text": "Le sceau de la République, le faisceau et la Joconde",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution mentionne trois symboles officiels : le drapeau tricolore, l'hymne national (La Marseillaise) et la devise « Liberté, Égalité, Fraternité ». D'autres symboles (coq gaulois, bonnet phrygien, Marianne) sont des repères républicains/traditionnels."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-031",
+        "shortId": "Q-888BD1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "choices": [
+          {
+            "text": "En 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1905",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le fondement de la laïcité en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-029",
+        "shortId": "Q-4842B4",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne peut-elle changer librement de religion ?",
+        "choices": [
+          {
+            "text": "Oui, c'est garanti par la liberté de conscience",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais il faut en informer l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à condition d'avoir plus de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pour les religions reconnues",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité garantit la liberté de croire ou de ne pas croire, et de changer de religion à tout moment."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-025",
+        "shortId": "Q-05EAFC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les couleurs du drapeau français ?",
+        "choices": [
+          {
+            "text": "Noir, Jaune, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Vert, Blanc, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Jaune, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bleu et rouge sont les couleurs de Paris, le blanc est la couleur de la royauté, symbolisant la réconciliation lors de la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-020",
+        "shortId": "Q-49083E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Fraternité, Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Liberté, Égalité, Fraternité, c'est la devise inscrite dans la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-032",
+        "shortId": "Q-067776",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que permet le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "De reconnaître officiellement les principales religions",
+            "isCorrect": false
+          },
+          {
+            "text": "De vivre ensemble avec ses différences de croyances dans le respect des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "De garantir que l'État finance tous les cultes équitablement",
+            "isCorrect": false
+          },
+          {
+            "text": "D'interdire les manifestations religieuses dans l'espace public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité (loi 1905) garantit la liberté de conscience et le libre exercice des cultes. L'État ne reconnaît ni ne finance aucun culte, mais ne les interdit pas non plus. Chacun peut pratiquer sa religion dans le respect des lois."
+      }
+    }
+  ]
+}

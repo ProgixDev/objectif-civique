@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-12",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-031",
+        "shortId": "Q-F00A61",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le racisme est-il protégé par la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Oui, car en France on peut tout dire sur tout le monde",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement si on le dit très discrètement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si cela concerne des personnes célèbres",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le racisme est un délit puni par la justice",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'expression s'arrête là où commence l'incitation à la haine, à la discrimination ou à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-038",
+        "shortId": "Q-C795F4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez créer une association culturelle. Devez-vous demander l'autorisation au gouvernement ?",
+        "choices": [
+          {
+            "text": "Oui, il faut un vote au Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il suffit de la déclarer à la préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il faut être au moins 100 personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'association est politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'association est un droit fondamental. La déclaration est simple."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-046",
+        "shortId": "Q-BDB926",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle valeur complète 'Liberté' et 'Égalité' dans la devise française ?",
+        "choices": [
+          {
+            "text": "Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Fraternité invite à la solidarité entre tous les membres de la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-016",
+        "shortId": "Q-8F5007",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle financière de l'école publique en France ?",
+        "choices": [
+          {
+            "text": "Elle est gratuite pour tous les enfants",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est payante pour les élèves étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle nécessite un abonnement annuel obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est financée uniquement par les mairies riches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La gratuité de l'enseignement public garantit l'égal accès de tous les enfants à l'instruction."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-019",
+        "shortId": "Q-CF2776",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le principe de solidarité qui aide les plus démunis ?",
+        "choices": [
+          {
+            "text": "L'anarchie administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Le capitalisme libéral",
+            "isCorrect": false
+          },
+          {
+            "text": "Le centralisme démocratique",
+            "isCorrect": false
+          },
+          {
+            "text": "La République sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République est sociale car elle organise la protection sociale (santé, chômage) pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-031",
+        "shortId": "Q-A17092",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un passager du bus insulte violemment le chauffeur. C'est :",
+        "choices": [
+          {
+            "text": "Un différend privé entre le passager et le chauffeur, sans conséquence pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal dans les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Un outrage à une personne chargée de service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Une incivilité sanctionnée par une exclusion du réseau de transport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage contre un agent chargé d'une mission de service public est un délit spécifique prévu par le Code pénal, passible d'une amende et d'une peine d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-004",
+        "shortId": "Q-49877B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet à une personne étrangère de rejoindre un groupement pour un projet culturel ou sportif ?",
+        "choices": [
+          {
+            "text": "La liberté d'association (loi de 1901)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de vote aux élections législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Le privilège de résidence diplomatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'intégration militaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'association est ouverte à tous en France, quelle que soit la nationalité, pourvu que le but soit légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-038",
+        "shortId": "Q-594DE0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis 2013, le mariage est ouvert en France :",
+        "choices": [
+          {
+            "text": "Uniquement aux personnes nées en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement aux couples de sexe différent",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux couples de même sexe ou de sexe différent",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement aux citoyens de l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi autorise le mariage pour tous les couples, garantissant l'égalité des droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-024",
+        "shortId": "Q-791C73",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces massifs est un massif de montagnes anciennes situé au centre de la France ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Massif central est connu pour ses volcans éteints, comme ceux de la chaîne des Puys."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-080",
+        "shortId": "Q-D8B3F1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande à partir de quel âge on peut voter en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de vote est acquis à la majorité, soit 18 ans. C'est à cet âge qu'on devient citoyen à part entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-076",
+        "shortId": "Q-AAE17F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande de conduire sa voiture alors que vous n'avez pas le permis. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien si vous faites attention",
+            "isCorrect": false
+          },
+          {
+            "text": "Un simple avertissement de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien si l'ami est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende et un casier judiciaire car c'est un délit",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Conduire sans permis est un délit passible d'une amende et d'une peine de prison."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-019",
+        "shortId": "Q-B81E0A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel héros de la Résistance a unifié les mouvements clandestins avant d'être arrêté en 1943 ?",
+        "choices": [
+          {
+            "text": "Philippe Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean Moulin a fondé le Conseil National de la Résistance (CNR). Il est enterré au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-003",
+        "shortId": "Q-2AEFE5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande comment est assurée la 'solidarité nationale' envers les personnes âgées ou malades en France. Quel système en est le pilier ?",
+        "choices": [
+          {
+            "text": "Le système de bienfaisance privée fondé sur les dons volontaires des grandes entreprises.",
+            "isCorrect": false
+          },
+          {
+            "text": "La charité communale gérée directement par les préfectures de région.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sécurité sociale, financée par les cotisations et l'impôt pour protéger chacun contre les aléas de la vie.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'épargne individuelle obligatoire placée sur des comptes bloqués par l'État.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Sécurité sociale concrétise la valeur de fraternité en assurant une protection sociale universelle, indépendamment des revenus de l'individu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-027",
+        "shortId": "Q-675E7C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte réunit l'ensemble des droits civils, politiques, économiques et sociaux des citoyens de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Charte des droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration de Philadelphie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention de Genève",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Charte des droits fondamentaux de l'UE a la même valeur juridique que les traités et garantit les droits des citoyens européens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-048",
+        "shortId": "Q-6F0B2A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel numéro sert à contacter les urgences par SMS (pour les personnes sourdes) ?",
+        "choices": [
+          {
+            "text": "112",
+            "isCorrect": false
+          },
+          {
+            "text": "115",
+            "isCorrect": false
+          },
+          {
+            "text": "114",
+            "isCorrect": true
+          },
+          {
+            "text": "118",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 114 permet aux personnes ayant des difficultés d'audition ou de parole de donner l'alerte."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-006",
+        "shortId": "Q-D1279E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monarque français est surnommé le 'Roi-Soleil' et a fait construire le château de Versailles ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XIV a eu le plus long règne de l'histoire de France. Il a symbolisé la monarchie absolue depuis Versailles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-002",
+        "shortId": "Q-90036D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association souhaite organiser une manifestation pacifique pour protester contre une décision locale. Le maire souhaite l'interdire par désaccord politique. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Le maire a le pouvoir discrétionnaire d'interdire toute réunion publique sur le territoire de sa commune.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction n'est légale que s'il existe un risque réel et avéré de trouble à l'ordre public que la police ne peut contenir.",
+            "isCorrect": true
+          },
+          {
+            "text": "Les manifestations politiques sont réservées exclusivement aux périodes de campagnes électorales officielles.",
+            "isCorrect": false
+          },
+          {
+            "text": "Une manifestation doit être autorisée par un vote majoritaire du conseil municipal pour avoir lieu.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de manifestation est un droit fondamental. L'autorité administrative ne peut l'interdire que pour des raisons de sécurité publique, et non pour des motifs politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-058",
+        "shortId": "Q-64F9E2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes garantit que personne n'est au-dessus de la loi ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La hiérarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout citoyen, même puissant, doit respecter les règles de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-041",
+        "shortId": "Q-EA0695",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez une publicité qui incite à la violence contre un groupe d'étrangers. C'est :",
+        "choices": [
+          {
+            "text": "Un délit d'incitation à la haine",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté d'expression publicitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal si c'est pour un film",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si c'est une blague",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi française punit les discours qui incitent à la haine ou à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-053",
+        "shortId": "Q-830B9A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit fondamental a été accordé aux femmes françaises en 1944 ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'aller à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les femmes ont voté pour la première fois en France lors des élections municipales de 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-015",
+        "shortId": "Q-6081B4",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année les femmes ont-elles obtenu le droit de vote en France ?",
+        "choices": [
+          {
+            "text": "En 1789, dès la Révolution",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1905, avec la laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1848, avec le suffrage universel masculin",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1944, par ordonnance du général de Gaulle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le suffrage est devenu réellement universel en 1944. Les femmes ont voté pour la première fois en 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-055",
+        "shortId": "Q-2B8FAB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le jour férié qui célèbre la fin de la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 15 août",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 11 novembre commémore l'Armistice signé le 11 novembre 1918, mettant fin aux combats de la Première Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-051",
+        "shortId": "Q-E7E489",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro des Sapeurs-Pompiers pour les incendies et secours ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "119",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 18 est le numéro historique pour les secours d'urgence et les périls."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-041",
+        "shortId": "Q-56A906",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre est considéré comme le chef de file de l'Impressionnisme (auteur des 'Nymphéas') ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Monet a révolutionné la peinture en essayant de capturer la lumière et les couleurs changeantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-005",
+        "shortId": "Q-49AE7D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qu'est-ce que le 'Prélèvement à la source' ?",
+        "choices": [
+          {
+            "text": "Le paiement de l'impôt sur le revenu directement sur le salaire ou les revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe prélevée sur la consommation d'eau potable",
+            "isCorrect": false
+          },
+          {
+            "text": "Une retenue sur salaire pour payer le loyer social",
+            "isCorrect": false
+          },
+          {
+            "text": "Le retrait automatique des cotisations pour la retraite complémentaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2019, l'impôt sur le revenu est déduit directement chaque mois du salaire ou de la pension, évitant ainsi un décalage d'un an."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-077",
+        "shortId": "Q-D9F011",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande si on peut critiquer le gouvernement en France. Que répondez-vous ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit et puni",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté d'expression permet de critiquer les politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si vous êtes journaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il faut demander une autorisation à la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est un droit fondamental. Chacun peut exprimer son opinion, même critique, dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-026",
+        "shortId": "Q-05D034",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de choisir son métier en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet attribue les postes selon les besoins régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur détermine le métier en fonction du diplôme",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers d'orientation imposent le choix professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté professionnelle est un droit pour tous les travailleurs en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-002",
+        "shortId": "Q-C6A200",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un voisin fait beaucoup de bruit avec des travaux le dimanche après-midi. Que dit la règle générale ?",
+        "choices": [
+          {
+            "text": "Le bruit est interdit uniquement entre 22h et 7h du matin, quel que soit le jour",
+            "isCorrect": false
+          },
+          {
+            "text": "Il faut demander l'autorisation écrite de tous les voisins avant de commencer",
+            "isCorrect": false
+          },
+          {
+            "text": "Les travaux bruyants sont généralement interdits le dimanche par les arrêtés municipaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le propriétaire peut faire des travaux chez lui sans aucune restriction horaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le repos dominical est protégé par la loi. La plupart des communes prennent des arrêtés municipaux qui interdisent les travaux bruyants le dimanche et les jours fériés pour préserver la tranquillité du voisinage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-022",
+        "shortId": "Q-EBE113",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+        "choices": [
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Opéra Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conçue par Gustave Eiffel, elle devait être détruite après l'exposition mais est devenue le symbole de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-007",
+        "shortId": "Q-A3FB5C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction principale d'un Conseil de Prud'hommes ?",
+        "choices": [
+          {
+            "text": "Organiser les élections professionnelles en entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Régler les litiges liés au contrat de travail entre employeur et salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier la sécurité dans les usines et les chantiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Conseiller les entreprises sur leur gestion financière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil de Prud'hommes est une juridiction paritaire qui traite les conflits individuels nés à l'occasion d'un contrat de travail de droit privé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-032",
+        "shortId": "Q-1EDA7F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pourquoi la devise 'Liberté, Égalité, Fraternité' est-elle inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Pour honorer la mémoire des fondateurs de la commune inscrite dans le registre municipal.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour indiquer aux citoyens que le bâtiment est ouvert au public durant les heures administratives.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour signaler que la mairie est habilitée à accueillir des cérémonies civiles comme les mariages.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour rappeler les principes fondamentaux qui guident l'action de l'État et des citoyens.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La devise est le socle de la République. Son inscription publique rappelle l'engagement de l'institution envers ces valeurs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-018",
+        "shortId": "Q-B399C7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés ?",
+        "choices": [
+          {
+            "text": "Le Conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie centrale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale est l'une des deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-036",
+        "shortId": "Q-5BB589",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'urgence pour joindre Police Secours ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": true
+          },
+          {
+            "text": "119",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 17 permet de signaler une agression ou un vol nécessitant une intervention rapide."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-009",
+        "shortId": "Q-82FC06",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme politique française a fait adopter la loi sur l'interruption volontaire de grossesse (IVG) en 1975 ?",
+        "choices": [
+          {
+            "text": "Simone Veil",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Cresson",
+            "isCorrect": false
+          },
+          {
+            "text": "Louise Michel",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone Veil, rescapée de la Shoah et ministre de la Santé, est une figure majeure de la lutte pour les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-045",
+        "shortId": "Q-D41182",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'obligation d'assiduité scolaire ?",
+        "choices": [
+          {
+            "text": "L'obligation pour l'élève de suivre tous les cours prévus à son emploi du temps",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de porter un uniforme à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation d'avoir la moyenne à tous les examens",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de manger à la cantine tous les midis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assiduité est une règle fondamentale : l'élève doit être présent et respecter les horaires sous peine de sanctions pour les parents (suspension d'allocations, amendes)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-041",
+        "shortId": "Q-EFB550",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un témoin lors d'un mariage civil à la mairie refuse de signer l'acte car il ne reconnaît pas l'autorité de l'État. Quel est l'effet sur le mariage ?",
+        "choices": [
+          {
+            "text": "Le mariage ne peut pas être célébré car la présence et la signature de témoins valides sont obligatoires pour l'état civil.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire peut signer à la place du témoin sans que cela ne pose de problème légal.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est validé uniquement si les mariés acceptent de payer une amende pour le témoin.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage civil est automatiquement validé par le maire sans témoin si les mariés signent une décharge.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les actes d'état civil sont des documents légaux stricts. Le respect des procédures est nécessaire pour la validité juridique du mariage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-033",
+        "shortId": "Q-8AF454",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le drapeau de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "La bannière étoilée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau bleu aux 12 étoiles d'or",
+            "isCorrect": true
+          },
+          {
+            "text": "L'emblème de la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il représente l'unité et la solidarité entre les peuples d'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-073",
+        "shortId": "Q-C41B09",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur ne vous a pas payé depuis 2 mois. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Arrêter de travailler sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre patiemment que l'employeur paie",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le conseil des prud'hommes pour réclamer votre salaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander à un collègue de vous prêter de l'argent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le non-paiement du salaire est illégal. Vous pouvez aller aux prud'hommes pour défendre vos droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-005",
+        "shortId": "Q-F9D6E3",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve traverse la capitale de la France, Paris ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seine traverse Paris et sépare la ville en deux : la rive gauche et la rive droite."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-058",
+        "shortId": "Q-3415B0",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service permet d'obtenir un avocat gratuit si l'on a des revenus très bas ?",
+        "choices": [
+          {
+            "text": "Le crédit d'impôt recherche",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Le service de protection des témoins",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance tous risques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet à l'État de prendre en charge tout ou partie des frais de justice (avocat, huissier) pour les personnes modestes."
+      }
+    }
+  ]
+}

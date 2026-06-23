@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-official-3",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-official-019",
+        "shortId": "Q-1BBF4A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'une liberté ?",
+        "choices": [
+          {
+            "text": "Le droit de faire tout ce que la loi n'interdit pas explicitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de faire tout ce qui ne nuit pas à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit naturel qui prévaut sur toute législation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'imposer ses opinions aux autres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui (DDHC 1789). Elle est bornée par le respect de la loi et la liberté des autres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-035",
+        "shortId": "Q-AB5A95",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez commandé un meuble livrable sous 4 semaines. Après 6 semaines, rien n'est arrivé. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Annuler immédiatement la commande sans formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le juge des référés pour obtenir la livraison",
+            "isCorrect": false
+          },
+          {
+            "text": "Mettre en demeure le vendeur puis annuler si le délai supplémentaire raisonnable n'est pas respecté",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander le double du prix à titre de dommages et intérêts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de retard, le consommateur doit d'abord mettre en demeure le vendeur et lui accorder un délai supplémentaire raisonnable avant d'annuler."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-065",
+        "shortId": "Q-380C69",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime que la Sécurité sociale coûte trop cher et veut s'en retirer. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, l'affiliation est volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'affiliation à la Sécurité sociale est obligatoire pour tous les résidents",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si on dispose d'une assurance privée équivalente",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de ses revenus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La République étant 'sociale', la solidarité nationale est obligatoire. L'affiliation à la Sécurité sociale est un principe de protection universelle, pas un choix individuel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-047",
+        "shortId": "Q-FD70B1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en litige avec votre assureur qui refuse une indemnisation. Avant de saisir le juge, que devez-vous tenter ?",
+        "choices": [
+          {
+            "text": "Déposer une plainte auprès de l'ACPR (Autorité de contrôle)",
+            "isCorrect": false
+          },
+          {
+            "text": "Adresser une mise en demeure par huissier",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter la DGCCRF pour signalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le médiateur de l'assurance désigné par votre contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de litige avec son assureur, le recours au médiateur de l'assurance est une étape préalable recommandée et souvent prévue au contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-045",
+        "shortId": "Q-0FBCC2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association caritative aide des migrants sans papiers à se nourrir et se loger. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, toute aide aux étrangers en situation irrégulière est un délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'aide humanitaire désintéressée est protégée par le principe constitutionnel de fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'association est agréée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pendant les périodes de grand froid",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel a reconnu en 2018 la valeur constitutionnelle du principe de fraternité, protégeant l'aide humanitaire désintéressée même envers des personnes en situation irrégulière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-004",
+        "shortId": "Q-CFE4D6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?",
+        "choices": [
+          {
+            "text": "La liberté est absolue tant qu'on ne commet pas de crime",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de chacun s'arrête là où commence celle des autres",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté est définie uniquement par la conscience individuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté permet de tout faire sauf critiquer l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est le principe de limitation réciproque des libertés : l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres la jouissance de ces mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-031",
+        "shortId": "Q-A27008",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "choices": [
+          {
+            "text": "Uniquement une croix catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les signes, c'est la liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Des signes discrets seulement",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun signe, même invisible",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi de 2004 interdit les signes *ostensibles* (visibles de loin) mais tolère les signes *discrets*."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-019",
+        "shortId": "Q-289DB1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, la conduite sans permis d'une moto est :",
+        "choices": [
+          {
+            "text": "Une simple contravention de 1ère classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisée sur les chemins privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Tolérée si le conducteur a le permis voiture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conduire un véhicule sans le permis correspondant est un délit grave, passible d'emprisonnement et de forte amende (sauf certaines petites cylindrées avec le permis B + formation)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-057",
+        "shortId": "Q-63907F",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Marguerite Yourcenar ?",
+        "choices": [
+          {
+            "text": "La première femme élue à l'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "Une chanteuse d'opéra",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre sculptrice",
+            "isCorrect": false
+          },
+          {
+            "text": "Une scientifique, Prix Nobel de médecine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marguerite Yourcenar, écrivaine, est devenue en 1980 la première femme élue membre de l'Académie française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-046",
+        "shortId": "Q-2DDDC2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un mouvement régionaliste demande l'indépendance de sa région et le droit de voter ses propres lois. Est-ce constitutionnellement possible ?",
+        "choices": [
+          {
+            "text": "Oui, chaque région a le droit à l'autodétermination",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'indivisibilité de la République interdit toute sécession",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, avec un référendum local obtenant 75% des voix",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'avis du Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 1er de la Constitution proclame la République 'indivisible'. Aucune partie du territoire métropolitain ne peut faire sécession ou adopter une législation contraire aux lois nationales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-013",
+        "shortId": "Q-C313A5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle situation est une atteinte à la dignité humaine ?",
+        "choices": [
+          {
+            "text": "Le travail de nuit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le licenciement économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Soumettre une personne à des traitements inhumains ou dégradants",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de payer des impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de dignité humaine est absolu. Il interdit la torture, l'esclavage et tout traitement dégradant, quelles que soient les circonstances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-028",
+        "shortId": "Q-DBCE76",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "choices": [
+          {
+            "text": "La capitulation de l'Allemagne en 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête de l'armée française",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armistice de 1918 mettant fin aux combats de la Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de la Résistance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre commémore l'armistice signé en 1918, marquant la fin des combats de la Première Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-012",
+        "shortId": "Q-F1F8F8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand la sécurité sociale a-t-elle été établie en France ?",
+        "choices": [
+          {
+            "text": "En 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1968",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1936",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Sécurité sociale a été fondée par les ordonnances de 1945, issue du programme du Conseil national de la Résistance (CNR)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-015",
+        "shortId": "Q-938DEA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment sont désignés les députés ?",
+        "choices": [
+          {
+            "text": "Élus au suffrage universel direct",
+            "isCorrect": true
+          },
+          {
+            "text": "Nommés par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Élus par les grands électeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les députés sont élus par les citoyens lors des élections législatives, au suffrage universel direct. L’élection se déroule selon un scrutin majoritaire à deux tours dans chaque circonscription."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-065",
+        "shortId": "Q-48F8D8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez 18 ans et n'êtes pas inscrit sur les listes électorales. Pouvez-vous quand même voter ?",
+        "choices": [
+          {
+            "text": "Non, l'inscription sur les listes électorales est obligatoire pour voter",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il suffit de présenter sa carte d'identité le jour du scrutin",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous êtes accompagné d'un parent électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais vous pouvez donner procuration à un électeur inscrit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote ne peut s'exercer que si l'on est inscrit sur les listes électorales. L'inscription est normalement automatique à 18 ans mais peut nécessiter une démarche en cas de déménagement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-043",
+        "shortId": "Q-D462E6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quel grand musée parisien est exposée la Joconde ?",
+        "choices": [
+          {
+            "text": "Le Petit Palais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le musée du Louvre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre Pompidou",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Joconde de Léonard de Vinci est exposée au musée du Louvre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-009",
+        "shortId": "Q-95084E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre entreprise interdit toute conversation dans une langue étrangère, même pendant les pauses café. Cette clause du règlement intérieur est-elle valide ?",
+        "choices": [
+          {
+            "text": "Non, c'est une atteinte disproportionnée aux libertés individuelles et une discrimination",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le français est la seule langue autorisée sur le sol français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour préserver la culture d'entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'entreprise reçoit des subventions publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'employeur ne peut imposer le français que si cela est justifié par la nature de la tâche (sécurité, relation client). Interdire une langue étrangère lors des temps de pause est abusif et discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-003",
+        "shortId": "Q-5C0E37",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À qui appartient la souveraineté nationale ?",
+        "choices": [
+          {
+            "text": "Aux partis politiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Au peuple, qui l'exerce par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 3 de la Constitution : \"La souveraineté nationale appartient au peuple\". Il l'exerce par ses représentants élus et par la voie du référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-033",
+        "shortId": "Q-5B54E0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'infraction la plus grave ?",
+        "choices": [
+          {
+            "text": "Le délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le crime",
+            "isCorrect": true
+          },
+          {
+            "text": "La contravention",
+            "isCorrect": false
+          },
+          {
+            "text": "L'infraction de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit pénal classe les infractions en 3 catégories de gravité croissante : Contravention (Tribunal de Police) < Délit (Correctionnel) < Crime (Assises)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-052",
+        "shortId": "Q-0D2984",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Molière ?",
+        "choices": [
+          {
+            "text": "Un peintre de la Renaissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Un compositeur de musique baroque",
+            "isCorrect": false
+          },
+          {
+            "text": "Un dramaturge et comédien du XVIIe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un philosophe des Lumières",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean-Baptiste Poquelin, dit Molière, est le plus célèbre auteur de comédies du théâtre français classique (sous Louis XIV)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-031",
+        "shortId": "Q-F76887",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Au tribunal, vous jurez de 'dire la vérité, toute la vérité'. Si vous mentez pour protéger un ami accusé, quel crime commettez-vous ?",
+        "choices": [
+          {
+            "text": "Une diffamation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abus de faiblesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parjure ou faux témoignage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une erreur judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Mentir sous serment devant un tribunal est un délit de faux témoignage, qui entrave le cours de la justice et est lourdement sanctionné."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-045",
+        "shortId": "Q-41BF87",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand est célébrée la journée de l'Europe ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La journée de l'Europe est célébrée le 9 mai, en référence à la Déclaration Schuman du 9 mai 1950. Dans cette déclaration, le ministre français des Affaires étrangères Robert Schuman proposa la mise en commun des productions de charbon et d’acier, initiative qui conduisit à la création de la Communauté européenne du charbon et de l'acier (CECA) et marqua le début de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-001",
+        "shortId": "Q-A0B6A8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Placé en garde à vue, vous demandez l'assistance d'un avocat. Quelle est la règle applicable concernant sa présence ?",
+        "choices": [
+          {
+            "text": "L'avocat peut être présent dès la première heure pour les auditions et confrontations",
+            "isCorrect": true
+          },
+          {
+            "text": "L'avocat ne peut intervenir qu'après la 24ème heure de garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "La présence de l'avocat est obligatoire uniquement pour les crimes, pas pour les délits",
+            "isCorrect": false
+          },
+          {
+            "text": "L'officier de police judiciaire peut refuser l'avocat si l'enquête l'exige",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la réforme de la garde à vue, la personne a le droit d'être assistée par un avocat dès le début de la mesure (première heure) et lors de toutes les auditions et confrontations."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-029",
+        "shortId": "Q-FE6C80",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand l'esclavage a-t-il été définitivement aboli en France ?",
+        "choices": [
+          {
+            "text": "1848",
+            "isCorrect": true
+          },
+          {
+            "text": "1880",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'abolition définitive de l'esclavage dans les colonies françaises a été décrétée le 27 avril 1848."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-041",
+        "shortId": "Q-024EE9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+        "choices": [
+          {
+            "text": "Ils doivent attendre de parler français avant d'aller à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont scolarisés avec un accompagnement spécifique, notamment en UPE2A, pour apprendre le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils suivent un enseignement uniquement en langue étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils ne sont pas soumis à l'obligation d'instruction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les enfants allophones ont droit à la scolarisation. Ils peuvent bénéficier d'un accompagnement spécifique, notamment en UPE2A, afin d'apprendre le français tout en étant progressivement intégrés à la classe ordinaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-058",
+        "shortId": "Q-BBA579",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime qu'une loi porte atteinte à ses droits fondamentaux. Peut-il contester cette loi même après sa promulgation ?",
+        "choices": [
+          {
+            "text": "Non, une loi promulguée est intouchable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il peut soulever une Question Prioritaire de Constitutionnalité (QPC) à l'occasion d'un procès",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement avec une pétition de 100 000 signatures",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Président peut contester une loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, la QPC permet à tout justiciable de contester la conformité d'une loi aux droits et libertés garantis par la Constitution, devant le Conseil constitutionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-027",
+        "shortId": "Q-F61B2C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui gère les collèges publics ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les collèges publics sont gérés par le département, qui est responsable de leur construction, de leur entretien et de leur fonctionnement matériel. Les communes gèrent les écoles maternelles et élémentaires, tandis que les régions sont compétentes pour les lycées. L’État, quant à lui, recrute et rémunère les enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-034",
+        "shortId": "Q-3278F0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la citoyenneté numérique ?",
+        "choices": [
+          {
+            "text": "L'ensemble des droits et devoirs des citoyens dans l'espace numérique",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait d'avoir un compte sur les réseaux sociaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le remplacement de la carte d'identité par une application",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de voter par internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté numérique implique d'appliquer les valeurs républicaines (respect, civilité, responsabilité) sur Internet et les réseaux sociaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-055",
+        "shortId": "Q-B32604",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Simone de Beauvoir ?",
+        "choices": [
+          {
+            "text": "La première femme ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une philosophe et écrivaine féministe",
+            "isCorrect": true
+          },
+          {
+            "text": "Une résistante exécutée en 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Une créatrice de mode célèbre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Simone de Beauvoir est une figure majeure du féminisme et de l'existentialisme, auteure du *Deuxième Sexe*."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-017",
+        "shortId": "Q-C72B8F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À remplacer une pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À obtenir automatiquement la gratuité des médicaments",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder gratuitement aux transports publics",
+            "isCorrect": false
+          },
+          {
+            "text": "À transmettre les informations nécessaires au remboursement des soins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La carte Vitale permet de transmettre plus facilement les informations utiles à l'Assurance maladie et d'accélérer le remboursement des soins. Elle ne remplace pas une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-025",
+        "shortId": "Q-A75A30",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que peut faire un usager du service public dans une mairie ?",
+        "choices": [
+          {
+            "text": "Choisir l'agent qui le servira selon ses préférences personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander un traitement différent pour motif religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Exiger d'être servi en priorité s'il habite la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder aux services dans les mêmes conditions que tous les autres usagers",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'usager a droit à l'égalité d'accès aux services publics. Il ne peut ni choisir son interlocuteur, ni exiger un traitement prioritaire ou différent. Le service public traite tous les usagers de manière égale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-012",
+        "shortId": "Q-08D850",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quel âge peut-on devenir électeur ?",
+        "choices": [
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans depuis 1974."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-042",
+        "shortId": "Q-EE0F67",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué devant le tribunal correctionnel. Pouvez-vous refuser de vous présenter ?",
+        "choices": [
+          {
+            "text": "Oui, votre présence est facultative si vous êtes représenté par un avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous contestez la compétence territoriale du tribunal",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le tribunal peut vous juger par défaut et émettre un mandat d'arrêt",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais vous pouvez demander un renvoi de l'audience sans limite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En matière correctionnelle, le prévenu peut être représenté par un avocat. Mais s'il ne comparaît pas et n'est pas représenté, il sera jugé par défaut."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-069",
+        "shortId": "Q-B88C24",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel département français a une frontière avec le Brésil ?",
+        "choices": [
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Guyane, située en Amérique du Sud, partage sa frontière avec le Brésil (c'est la plus longue frontière terrestre de la France)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-004",
+        "shortId": "Q-D0112D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le stationnement sur une place réservée aux personnes handicapées :",
+        "choices": [
+          {
+            "text": "Est autorisé lorsqu'on transporte une personne handicapée, même sans présenter de carte de stationnement",
+            "isCorrect": false
+          },
+          {
+            "text": "Est autorisé la nuit si la place n'est pas occupée",
+            "isCorrect": false
+          },
+          {
+            "text": "Est interdit sauf si l'on possède la carte mobilité inclusion (CMI) stationnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Est autorisé pour un arrêt très bref",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ces places sont réservées aux titulaires de la carte mobilité inclusion mention stationnement, ou d'un titre équivalent reconnu. Sans ce droit, le stationnement y est interdit, même pour une courte durée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-027",
+        "shortId": "Q-1C0DFE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "choices": [
+          {
+            "text": "1905",
+            "isCorrect": true
+          },
+          {
+            "text": "1908",
+            "isCorrect": false
+          },
+          {
+            "text": "1881",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le pilier de la laïcité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-046",
+        "shortId": "Q-3B8ED1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège de la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "Francfort",
+            "isCorrect": true
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Banque centrale européenne (BCE) a son siège à Francfort-sur-le-Main, en Allemagne. Elle est chargée de la politique monétaire de la zone euro et de la stabilité des prix. Strasbourg accueille le Parlement européen pour ses sessions plénières, Bruxelles est le siège de la Commission européenne et du Conseil, et Luxembourg abrite la Cour de justice de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-080",
+        "shortId": "Q-581AB9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous déménagez dans une nouvelle commune. Quel délai avez-vous pour signaler ce changement à l'administration fiscale ?",
+        "choices": [
+          {
+            "text": "30 jours après le déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois après le déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les meilleurs délais, obligatoirement avant la prochaine déclaration de revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun délai, le changement s'effectue automatiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est obligatoire de signaler tout changement de domicile à l'administration fiscale dans les meilleurs délais. Le défaut de déclaration peut entraîner des difficultés administratives."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-046",
+        "shortId": "Q-6D3A2D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel peintre célèbre a peint les Nymphéas ?",
+        "choices": [
+          {
+            "text": "Paul Gauguin",
+            "isCorrect": false
+          },
+          {
+            "text": "Edouard Manet",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Renoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les Nymphéas sont une série de peintures à l'huile réalisées par Claude Monet à la fin de sa vie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-008",
+        "shortId": "Q-401F62",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler la police ?",
+        "choices": [
+          {
+            "text": "Le 15",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 17 permet de joindre la police ou la gendarmerie en cas d'urgence. Le 15 correspond au SAMU, le 18 aux sapeurs-pompiers, et le 114 est destiné notamment aux personnes ayant des difficultés à entendre ou à parler."
+      }
+    }
+  ]
+}

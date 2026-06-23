@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-droits-et-devoirs-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-standard-033",
+        "shortId": "Q-788DA0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Faire appel d'un jugement pénal a-t-il un effet suspensif ?",
+        "choices": [
+          {
+            "text": "Non, la peine est exécutée immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'exécution de la condamnation est suspendue jusqu'au nouveau procès (sauf exécution provisoire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, cela annule définitivement la peine",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'avis de la victime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En principe, l'appel suspend l'exécution de la peine. La personne est rejugée et reste présumée innocente jusqu'à la décision de la Cour d'appel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-012",
+        "shortId": "Q-4536BB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Défenseur des droits est une institution indépendante chargée de :",
+        "choices": [
+          {
+            "text": "Défendre les intérêts de l'État en justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les droits des citoyens face aux administrations et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédiger les nouvelles lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Défenseur des droits (inscrit dans la Constitution) peut être saisi gratuitement par toute personne s'estimant lésée par le fonctionnement d'un service public ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-029",
+        "shortId": "Q-F21C49",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'employeur a une « obligation de sécurité » envers ses salariés. Cela signifie qu'il doit :",
+        "choices": [
+          {
+            "text": "Seulement afficher les consignes de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "Prendre toutes les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Fournir une trousse de secours uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer les soins médicaux des salariés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La sécurité au travail est une obligation de résultat pour l'employeur : il doit évaluer les risques (Document Unique) et mettre en place des actions de prévention et de formation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-013",
+        "shortId": "Q-CB3CD9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté syndicale permet à tout salarié :",
+        "choices": [
+          {
+            "text": "D'adhérer au syndicat de son choix et de défendre ses intérêts professionnels",
+            "isCorrect": true
+          },
+          {
+            "text": "De refuser de travailler sans motif",
+            "isCorrect": false
+          },
+          {
+            "text": "De fixer lui-même ses horaires de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être payé par le syndicat pendant les grèves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté syndicale est un principe constitutionnel. Nul ne peut être inquiété pour ses activités syndicales. L'adhésion est libre et non obligatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-026",
+        "shortId": "Q-B582B6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le harcèlement moral au travail se définit par :",
+        "choices": [
+          {
+            "text": "Une simple dispute avec un collègue",
+            "isCorrect": false
+          },
+          {
+            "text": "Des agissements répétés ayant pour objet ou effet une dégradation des conditions de travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Le refus d'une augmentation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de demander à un salarié de travailler le samedi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le harcèlement moral se caractérise par la répétition d'actes (insultes, mises au placard, critiques injustifiées) portant atteinte aux droits et à la dignité du salarié."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-020",
+        "shortId": "Q-829C8B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un salarié estime que sa situation de travail présente un danger grave et imminent. Quel droit peut-il exercer ?",
+        "choices": [
+          {
+            "text": "Le droit de démissionner sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de réserve",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de retrait permet au salarié de cesser le travail s'il a un motif raisonnable de penser qu'il court un danger grave et imminent pour sa vie ou sa santé. Aucune sanction ne peut être prise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-015",
+        "shortId": "Q-8629FE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de prescription (période après laquelle on ne peut plus être jugé) pour un crime ?",
+        "choices": [
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "20 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis la réforme de 2017, le délai de prescription de l'action publique pour les crimes de droit commun est passé de 10 à 20 ans. Il est de 30 ans pour le terrorisme et le trafic de drogue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-037",
+        "shortId": "Q-A71025",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un témoin cité à comparaître devant un tribunal peut-il refuser de venir ?",
+        "choices": [
+          {
+            "text": "Oui, s'il invoque le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il justifie d'un empêchement professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il est obligé de venir, de prêter serment et de dire la vérité",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, à condition de fournir une déclaration écrite à la place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage est un devoir civique. Si le témoin ne se présente pas, la force publique peut l'y contraindre. Le faux témoignage est un délit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-028",
+        "shortId": "Q-522874",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel dispositif garantit la liberté et la sincérité du vote dans les bureaux de vote ?",
+        "choices": [
+          {
+            "text": "L'isoloir",
+            "isCorrect": true
+          },
+          {
+            "text": "La présence de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote électronique obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'urne transparente uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le passage par l'isoloir est obligatoire pour garantir le caractère secret du vote et protéger l'électeur de toute pression extérieure."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-036",
+        "shortId": "Q-EDE8EC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dès le début de la garde à vue, la personne interpellée a le droit :",
+        "choices": [
+          {
+            "text": "De contacter directement le procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "De demander à voir un avocat et d'être examinée par un médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "De consulter son téléphone portable",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser de donner son identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les droits immédiats en garde à vue sont : faire prévenir un proche, voir un médecin, être assisté par un avocat, et garder le silence."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-021",
+        "shortId": "Q-CC070B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai pour saisir le Conseil de Prud'hommes afin de contester un licenciement ?",
+        "choices": [
+          {
+            "text": "12 mois (1 an)",
+            "isCorrect": true
+          },
+          {
+            "text": "2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis les ordonnances de 2017, le délai de prescription pour contester la rupture du contrat de travail est fixé à 12 mois à compter de la notification du licenciement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-040",
+        "shortId": "Q-48C36E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de vote est accordé aux citoyens français majeurs. Pour les élections municipales, qui d'autre peut voter ?",
+        "choices": [
+          {
+            "text": "Tous les résidents étrangers en situation régulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes payant des impôts locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne d'autre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les citoyens de l'Union européenne résidant en France peuvent voter et être élus conseillers municipaux lors des élections municipales (et européennes), mais ne peuvent pas être Maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-004",
+        "shortId": "Q-C7CB3C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vous êtes témoin d'une agression dans la rue. Que risquez-vous si vous n'intervenez pas ?",
+        "choices": [
+          {
+            "text": "Une amende administrative de 135 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien, intervenir est un choix personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une condamnation pour complicité d'agression",
+            "isCorrect": false
+          },
+          {
+            "text": "Une condamnation pour « non-assistance à personne en péril » (5 ans de prison, 75 000€ d'amende)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 223-6 du Code pénal punit l'omission de porter secours. Si vous ne pouvez pas intervenir physiquement sans danger, vous devez au moins alerter les secours."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-025",
+        "shortId": "Q-9CC99B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les écoutes téléphoniques par la police sont-elles légales ?",
+        "choices": [
+          {
+            "text": "Oui, la police peut écouter n'importe qui à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est toujours interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement sur autorisation d'un juge (Juge d'instruction ou JLD) dans le cadre d'une enquête",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le maire l'autorise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le secret des correspondances est un droit fondamental. Sa levée (écoutes) est une procédure stricte, encadrée par un magistrat, pour des infractions graves."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-003",
+        "shortId": "Q-6282C3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi fondamentale garantit les droits des malades (accès au dossier médical, consentement) ?",
+        "choices": [
+          {
+            "text": "La loi Veil de 1975",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Leonetti de 2005",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Kouchner du 4 mars 2002",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Touraine de 2016",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 4 mars 2002 (loi Kouchner) a marqué un tournant en plaçant le patient au cœur du système de soins, garantissant l'accès direct au dossier médical et le respect du consentement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-038",
+        "shortId": "Q-EC5325",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un « Recours Gracieux » ?",
+        "choices": [
+          {
+            "text": "Une demande adressée au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande adressée à l'administration auteur de la décision pour qu'elle la revoie",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande de grâce pour une peine de prison",
+            "isCorrect": false
+          },
+          {
+            "text": "Une procédure devant le tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recours gracieux s'adresse directement à l'autorité qui a pris la décision (ex: maire, préfet, recteur) pour tenter de régler le litige à l'amiable avant d'aller au tribunal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-023",
+        "shortId": "Q-3328C0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « proportionnalité des peines » signifie que :",
+        "choices": [
+          {
+            "text": "La peine doit être identique pour tous les crimes",
+            "isCorrect": false
+          },
+          {
+            "text": "La sévérité de la sanction doit être adaptée à la gravité de l'infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "La peine dépend de la richesse de l'accusé",
+            "isCorrect": false
+          },
+          {
+            "text": "Seule la prison est une peine valable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inscrit dans la Déclaration des Droits de l'Homme, ce principe impose que la loi ne doit établir que des peines strictement et évidemment nécessaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-001",
+        "shortId": "Q-B80D51",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale de la garde à vue pour une infraction de droit commun (vol, dégradations) ?",
+        "choices": [
+          {
+            "text": "12 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "24 heures, renouvelable une fois (soit 48 heures au total)",
+            "isCorrect": true
+          },
+          {
+            "text": "48 heures sans renouvellement possible",
+            "isCorrect": false
+          },
+          {
+            "text": "72 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La garde à vue dure initialement 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République. Elle peut durer jusqu'à 96h pour terrorisme ou trafic de stupéfiants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-039",
+        "shortId": "Q-BCE0CF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Un pour tous, tous pour un",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La devise « Liberté, Égalité, Fraternité » est inscrite dans l'article 2 de la Constitution de 1958 et figure sur les édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-008",
+        "shortId": "Q-7096D7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge peut-on commencer à travailler légalement (hors apprentissage et dérogations) ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le travail est autorisé à partir de 16 ans, âge auquel la scolarité n'est plus obligatoire. Des dérogations existent pour les mineurs de 14-15 ans (vacances scolaires) et l'apprentissage (15 ans)."
+      }
+    }
+  ]
+}

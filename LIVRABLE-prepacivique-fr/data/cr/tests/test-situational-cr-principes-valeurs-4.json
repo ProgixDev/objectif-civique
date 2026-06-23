@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-cr-principes-valeurs-4",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-061",
+        "shortId": "Q-E108BC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent d'accueil de la mairie porte un pendentif religieux discret. Un administré se plaint. Quelle règle s'applique ?",
+        "choices": [
+          {
+            "text": "L'agent peut le porter car il est discret et n'affecte pas son travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'agent doit le retirer car tout signe religieux est interdit pour les fonctionnaires dans l'exercice de leurs fonctions",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administré peut demander à être reçu par un autre agent",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie doit organiser un vote parmi les employés pour décider",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de neutralité du service public impose aux agents de ne manifester aucune conviction religieuse, même de manière discrète, dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-062",
+        "shortId": "Q-AB7F14",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une cérémonie officielle, une personne refuse de se lever pendant La Marseillaise pour des raisons personnelles. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Elle peut être verbalisée pour outrage au drapeau national",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle doit obligatoirement quitter la salle avant le début de l'hymne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de se lever n'est pas une infraction en soi, la liberté de conscience est respectée",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle doit présenter un certificat médical justifiant son incapacité à se lever",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bien que le respect des symboles nationaux soit attendu, la liberté de conscience permet de ne pas participer activement, tant qu'il n'y a pas de trouble à l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-063",
+        "shortId": "Q-49827D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une patiente à l'hôpital public demande à être soignée exclusivement par des femmes pour des raisons religieuses. Quelle est la réponse de l'établissement ?",
+        "choices": [
+          {
+            "text": "L'hôpital doit toujours satisfaire cette demande par respect de la diversité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital refuse automatiquement car la religion est interdite en milieu hospitalier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital peut essayer de s'adapter si l'organisation le permet, mais ne peut garantir ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin-chef décide seul sans tenir compte des souhaits de la patiente",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le service public hospitalier doit traiter tous les patients de façon égale. Il peut tenter de s'adapter dans la limite du bon fonctionnement du service, mais aucun droit opposable n'existe."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-064",
+        "shortId": "Q-157A17",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employé municipal refuse de célébrer un mariage entre personnes de même sexe invoquant ses convictions religieuses. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Rien, son objection de conscience est protégée par la laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sanction disciplinaire car il doit appliquer la loi sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Un simple avertissement verbal de la part du maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut demander un transfert vers un autre service sans conséquence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'agent public doit appliquer la loi de manière neutre et impartiale. Le refus de célébrer un mariage légal constitue une faute professionnelle passible de sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-065",
+        "shortId": "Q-A9760C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un collégien porte un petit pendentif discret avec une croix religieuse. L'établissement peut-il lui demander de le retirer ?",
+        "choices": [
+          {
+            "text": "Oui, tout symbole religieux est interdit dans un établissement public",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car ce n'est pas un signe religieux ostensible au sens de la loi de 2004",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le professeur principal n'est pas d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'élève en parle à ses camarades",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 2004 interdit les signes 'ostensibles' (voile, kippa, grande croix). Les signes discrets (petits pendentifs, bijoux) sont autorisés s'ils ne font pas l'objet de prosélytisme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-066",
+        "shortId": "Q-63808B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un étranger demande à la préfecture de recevoir ses documents officiels traduits dans sa langue maternelle. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "La préfecture doit fournir une traduction dans n'importe quelle langue demandée",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture peut refuser car le français est la seule langue officielle des actes administratifs",
+            "isCorrect": true
+          },
+          {
+            "text": "Seules les langues de l'Union européenne sont acceptées",
+            "isCorrect": false
+          },
+          {
+            "text": "La traduction est obligatoire pour les ressortissants de pays francophones",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution fait du français la langue de la République. Les documents administratifs sont rédigés en français, garantissant l'égalité de traitement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-067",
+        "shortId": "Q-75FED0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association caritative aide des migrants sans papiers à se nourrir et se loger. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, toute aide aux étrangers en situation irrégulière est un délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'aide humanitaire désintéressée est protégée par le principe de fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'association a une agrément spécial du ministère de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pendant les périodes de grand froid décrétées par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel a reconnu le principe de fraternité en 2018, protégeant l'aide humanitaire désintéressée même envers des personnes en situation irrégulière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-068",
+        "shortId": "Q-EB7DF6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un mouvement politique régionaliste demande que sa région puisse voter ses propres lois différentes des lois nationales. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, chaque région peut établir son propre code légal",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'indivisibilité de la République impose une législation uniforme sur tout le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si un référendum local obtient plus de 75% des voix",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les régions frontaliers avec l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est une République 'une et indivisible'. Aucune région ne peut adopter une législation contraire aux lois nationales, même avec un vote populaire local."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-069",
+        "shortId": "Q-1123BF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employeur privé refuse d'embaucher une candidate parce qu'elle porte le voile. La candidate peut-elle contester cette décision ?",
+        "choices": [
+          {
+            "text": "Non, l'employeur privé a une liberté totale de recrutement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf si l'entreprise a inscrit une clause de neutralité justifiée dans son règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, la laïcité s'applique de la même manière dans le privé que dans le public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, dans tous les cas car c'est une discrimination absolue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le secteur privé, une clause de neutralité n'est légale que si elle est générale et justifiée par la nature des tâches (contact client notamment). Sinon, c'est une discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-070",
+        "shortId": "Q-6A63EA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent accompagnateur d'une sortie scolaire porte un signe religieux visible. L'école peut-elle refuser sa participation ?",
+        "choices": [
+          {
+            "text": "Oui, car il représente l'école pendant la sortie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les parents ne sont pas soumis au même devoir de neutralité que les agents publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car la loi de 2004 s'applique aussi aux parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il doit cacher son signe pendant la sortie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'avis du Conseil d'État de 2013, les parents accompagnateurs ne sont pas des agents publics et ne sont donc pas soumis à l'obligation de neutralité religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-071",
+        "shortId": "Q-3A5E66",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen souhaite que sa commune finance la construction d'un lieu de culte. La mairie peut-elle accepter ?",
+        "choices": [
+          {
+            "text": "Oui, si la majorité des habitants pratiquent cette religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi de 1905 interdit à l'État et aux collectivités de subventionner les cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement pour les religions reconnues par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf dans le cadre d'un projet culturel ou patrimonial",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la loi de 1905 dispose que la République 'ne reconnaît, ne salarie ni ne subventionne aucun culte'. Le financement public de lieux de culte est interdit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-072",
+        "shortId": "Q-16FF17",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un élève demande à être dispensé de cours de sciences car le contenu contredit ses croyances religieuses. Que répond l'établissement ?",
+        "choices": [
+          {
+            "text": "La dispense est accordée si elle est demandée par écrit par les responsables légaux en début d'année",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus est systématique car les programmes nationaux s'imposent à tous les élèves sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Le chef d'établissement peut accorder une dérogation après avis du conseil de classe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut être dispensé s'il s'engage à rattraper le cours à la maison",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les programmes de l'Éducation nationale sont laïques et obligatoires. Aucune conviction religieuse ne permet de se soustraire aux enseignements officiels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-073",
+        "shortId": "Q-15B21B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pendant une grève des transports, un usager dit que le droit de grève ne devrait pas exister car il gêne les citoyens. Que répond le droit ?",
+        "choices": [
+          {
+            "text": "Le droit de grève est absolu et ne peut être limité d'aucune manière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève est un droit constitutionnel qui s'exerce dans le cadre des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de grève n'existe que pour les employés du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire toute grève dans les services publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est reconnu par le Préambule de 1946. Il s'exerce dans le cadre des lois qui le réglementent, notamment pour assurer la continuité des services essentiels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-074",
+        "shortId": "Q-7DC4C8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime qu'une loi votée par le Parlement viole ses droits fondamentaux. Peut-il la contester ?",
+        "choices": [
+          {
+            "text": "Non, une loi votée par le Parlement est toujours légitime et intouchable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il peut soulever une Question Prioritaire de Constitutionnalité (QPC) devant un tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement s'il obtient 10 000 signatures de soutien",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Président de la République peut contester une loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, tout justiciable peut soulever une QPC pour contester la conformité d'une loi aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-075",
+        "shortId": "Q-B22BAE",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un candidat à un concours de la fonction publique se voit refuser l'accès car il n'est pas catholique. Cette décision est-elle légale ?",
+        "choices": [
+          {
+            "text": "Oui, la France étant de tradition catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le principe d'égalité interdit toute discrimination religieuse dans l'accès à la fonction publique",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le poste implique des fonctions de représentation nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les postes liés à la sécurité intérieure",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité d'accès aux emplois publics est un principe constitutionnel. Aucune distinction ne peut être fondée sur les croyances religieuses du candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-076",
+        "shortId": "Q-4B87AA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un journal publie une caricature qui critique sévèrement une religion. Des fidèles demandent l'interdiction du journal. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Le journal peut être poursuivi s'il trouble l'ordre public, mais l'interdiction est rare",
+            "isCorrect": false
+          },
+          {
+            "text": "La critique des religions est protégée par la liberté d'expression, seule l'incitation à la haine est illicite",
+            "isCorrect": true
+          },
+          {
+            "text": "Le journal doit obtenir une autorisation préalable du culte concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit saisir systématiquement les exemplaires pour vérification",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le blasphème n'est pas un délit. La critique des idées et des croyances est protégée par la liberté d'expression. Seules l'injure, la diffamation ou l'incitation à la haine dirigées contre des personnes ou des groupes sont punissables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-077",
+        "shortId": "Q-5B8E36",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un riche homme d'affaires et un ouvrier sans emploi commettent la même infraction routière. Doivent-ils recevoir la même sanction ?",
+        "choices": [
+          {
+            "text": "Non, la sanction doit être proportionnelle aux revenus de la personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le principe d'égalité devant la loi impose la même sanction pour la même infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le riche doit payer une amende plus élevée pour réparer l'injustice sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le chômeur doit être dispensé de sanction en raison de sa situation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité devant la loi signifie que les mêmes règles s'appliquent à tous, sans distinction de fortune ou de statut social. La loi est la même pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-078",
+        "shortId": "Q-145CAB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise privée refuse de servir un client en raison de son origine ethnique. Cet acte est-il légal ?",
+        "choices": [
+          {
+            "text": "Oui, la liberté du commerce permet de refuser une vente sans justification",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le refus de vente discriminatoire est un délit pénal (Code pénal)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sauf si le client est un fonctionnaire ou un élu",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais uniquement si le refus est signifié par écrit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe d'égalité interdit toute discrimination fondée sur l'origine, la religion ou l'ethnie, y compris dans les relations privées. C'est un délit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-079",
+        "shortId": "Q-1A83CE",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen souhaite créer une association pour promouvoir sa culture régionale. A-t-il besoin d'une autorisation préalable ?",
+        "choices": [
+          {
+            "text": "Oui, le préfet doit approuver tout projet associatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'association est un droit fondamental, une simple déclaration suffit",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si l'association compte plus de 10 membres",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais l'association ne peut recevoir aucun financement public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'association est un principe fondamental reconnu par les lois de la République. Une simple déclaration en préfecture suffit, sans autorisation préalable."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-080",
+        "shortId": "Q-93921E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens veut organiser un référendum local pour modifier une loi nationale qu'ils jugent injuste. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, la démocratie locale permet de contourner les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le peuple français dans son ensemble peut modifier une loi nationale par référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si plus de 50% des habitants de la commune votent en faveur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le Conseil constitutionnel donne son accord préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le caractère indivisible de la République interdit qu'une partie du territoire modifie les lois nationales. La souveraineté appartient au peuple français tout entier."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-6",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-020",
+        "shortId": "Q-762023",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le pluralisme politique ?",
+        "choices": [
+          {
+            "text": "L'existence de plusieurs partis d'opinions différentes",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de voter pour le parti au pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de créer de nouveaux partis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix des ministres par un tirage au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pluralisme garantit que chaque courant d'opinion peut s'exprimer et participer aux élections."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-060",
+        "shortId": "Q-8710C2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous hébergez un ami sans-papiers gratuitement. Est-ce un crime ?",
+        "choices": [
+          {
+            "text": "Oui, c'est le délit de solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'ami ne paie pas",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'aide humanitaire n'est pas punie",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, vous risquez l'expulsion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'aide humanitaire désintéressée n'est plus un délit en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-030",
+        "shortId": "Q-2925F8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des limites à la liberté de mouvement ?",
+        "choices": [
+          {
+            "text": "L'obligation de vivre dans sa ville de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de voyager en dehors de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions de justice (ex: assignation à résidence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le refus des voisins de vous laisser sortir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'aller et venir est un droit, mais la loi peut la restreindre pour protéger la sécurité ou exécuter une peine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-065",
+        "shortId": "Q-DD66FA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez changer de médecin traitant. Avez-vous le droit ?",
+        "choices": [
+          {
+            "text": "Non, le médecin traitant est désigné par la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, seulement une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous êtes libre de choisir votre médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous déménagez",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Chaque patient a le droit de choisir librement son médecin traitant et d'en changer quand il veut."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-033",
+        "shortId": "Q-1DB637",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement français ?",
+        "choices": [
+          {
+            "text": "Il désigne les préfets et organise les élections locales",
+            "isCorrect": false
+          },
+          {
+            "text": "Il vote les lois et contrôle l'action du Gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "Il négocie les traités internationaux au nom de la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Il nomme les magistrats et dirige l'autorité judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement (Assemblée nationale et Sénat) représente les citoyens et exerce le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-036",
+        "shortId": "Q-E62AFC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne handicapée veut entrer au magasin avec son chien d'assistance. Le gérant refuse. C'est :",
+        "choices": [
+          {
+            "text": "Autorisé pour l'hygiène du magasin",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si le chien est gros",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si le gérant a peur des chiens",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit, le chien d'assistance a accès partout",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les chiens guides et d'assistance sont autorisés dans tous les lieux publics par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-011",
+        "shortId": "Q-83FA36",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert principalement l'impôt en France ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés par les collectivités locales",
+            "isCorrect": false
+          },
+          {
+            "text": "À constituer une réserve monétaire pour les échanges internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des anciens élus de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics et la solidarité nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'impôt permet de construire des routes, des écoles, des hôpitaux et d'assurer la sécurité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-055",
+        "shortId": "Q-07E63B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le viol entre époux au sein d'un mariage est :",
+        "choices": [
+          {
+            "text": "Une affaire privée qui ne concerne pas la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une situation tolérée par le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cause de divorce simple sans autre peine",
+            "isCorrect": false
+          },
+          {
+            "text": "Un crime puni par la loi pénale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mariage ne remplace pas le consentement ; le viol conjugal est sévèrement puni."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-038",
+        "shortId": "Q-EB42B6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel ouvrage de transport relie la France au Royaume-Uni sous la mer ?",
+        "choices": [
+          {
+            "text": "Le Pont de Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tunnel sous la Manche",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Viaduc de Millau",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tunnel du Mont-Blanc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inauguré en 1994, ce tunnel permet de relier Paris à Londres en train (Eurostar) très rapidement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-048",
+        "shortId": "Q-F1AD3F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un député est poursuivi pour ses opinions exprimées lors d'un débat à l'Assemblée. Quelle protection possède-t-il ?",
+        "choices": [
+          {
+            "text": "Il peut être emprisonné immédiatement sans jugement par le Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il perd ses droits de vote à l'Assemblée pour une durée de dix ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer une amende à chaque fois qu'il prend la parole devant ses collègues.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'immunité parlementaire garantit qu'il ne peut être poursuivi pour ses votes ou opinions dans l'exercice de ses fonctions.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'immunité assure que les représentants du peuple peuvent s'exprimer librement sans crainte de pressions judiciaires ou politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-064",
+        "shortId": "Q-0C8254",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet la liberté d'association garantie par la loi de 1901 ?",
+        "choices": [
+          {
+            "text": "De créer une structure pour défendre les intérêts d'un métier",
+            "isCorrect": false
+          },
+          {
+            "text": "D'échapper à l'application des lois civiles",
+            "isCorrect": false
+          },
+          {
+            "text": "De fonder une entreprise pour faire du profit personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "De se regrouper pour un projet commun sans but lucratif",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 1901 permet à toute personne de créer librement une association pour un projet commun (sport, culture, aide humanitaire) sans but lucratif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-054",
+        "shortId": "Q-8507BA",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel massif montagneux sépare la France de l'Italie et de la Suisse ?",
+        "choices": [
+          {
+            "text": "Le Massif central",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Alpes abritent de célèbres stations de ski et le sommet du Mont Blanc."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-005",
+        "shortId": "Q-BB5AAE",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un tribunal, un prévenu refuse de répondre aux questions. Comment est considérée sa situation avant le verdict du juge ?",
+        "choices": [
+          {
+            "text": "Il bénéficie de la présomption d'innocence : il est considéré comme non coupable tant que sa culpabilité n'est pas prouvée.",
+            "isCorrect": true
+          },
+          {
+            "text": "Son silence est légalement interprété comme un aveu de culpabilité par les magistrats.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il perd automatiquement ses droits civiques et son droit à la défense jusqu'à la fin de l'audience.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est placé sous un régime de culpabilité provisoire en attendant les preuves de sa défense.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence est un principe constitutionnel qui protège l'individu contre l'arbitraire judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-040",
+        "shortId": "Q-4901BD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité garantit le respect de la Constitution ?",
+        "choices": [
+          {
+            "text": "La police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la ville",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés européens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il vérifie que les nouvelles lois ne contredisent pas les principes de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-018",
+        "shortId": "Q-803CC2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le secret professionnel s'applique principalement pour protéger :",
+        "choices": [
+          {
+            "text": "La confiance entre un professionnel (médecin, avocat) et son usager",
+            "isCorrect": true
+          },
+          {
+            "text": "Les secrets de fabrication des entreprises privées uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les discussions privées entre les membres d'une même famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Le montant du salaire des employés de la fonction publique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Il garantit que les informations confiées à certains professionnels ne seront pas divulguées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-056",
+        "shortId": "Q-9C13D0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la préfecture de la région Nouvelle-Aquitaine et célèbre pour son vin ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bordeaux possède une architecture magnifique du XVIIIe siècle classée à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-055",
+        "shortId": "Q-BA06B9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande pourquoi il est obligatoire de déclarer sa naissance à la mairie. Quelle est la fonction de l'état civil ?",
+        "choices": [
+          {
+            "text": "Permettre à l'État de taxer les parents dès l'arrivée de l'enfant dans le foyer.",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer les banques pour ouvrir automatiquement un compte d'épargne obligatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Établir l'existence juridique de la personne et lui garantir ses droits et sa nationalité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Donner au nouveau-né un numéro de sécurité sociale provisoire en attendant sa première vaccination.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil est la base de l'identité citoyenne. Sans acte de naissance, une personne n'a pas d'existence légale et ne peut accéder à aucun droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-001",
+        "shortId": "Q-8D0106",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui possède le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil syndical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission est de débattre et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-073",
+        "shortId": "Q-C41B09",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur ne vous a pas payé depuis 2 mois. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Arrêter de travailler sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre patiemment que l'employeur paie",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le conseil des prud'hommes pour réclamer votre salaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander à un collègue de vous prêter de l'argent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le non-paiement du salaire est illégal. Vous pouvez aller aux prud'hommes pour défendre vos droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-033",
+        "shortId": "Q-3CBA98",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel conflit mondial s'est déroulé entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La guerre d'Algérie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Aussi appelée la 'Grande Guerre', elle a marqué la France par les combats dans les tranchées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-007",
+        "shortId": "Q-78C77C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Lors d'une élection législative, un citoyen souhaite savoir qui possède la souveraineté en France. Quelle est la définition constitutionnelle ?",
+        "choices": [
+          {
+            "text": "La souveraineté appartient aux députés élus pour la durée de leur mandat.",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté est détenue par le Président de la République en sa qualité de Chef de l'État.",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.",
+            "isCorrect": true
+          },
+          {
+            "text": "La souveraineté est partagée entre les préfets et les maires des grandes agglomérations.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, la source du pouvoir est le peuple. C'est le principe de la démocratie ('gouvernement du peuple, par le peuple et pour le peuple')."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-003",
+        "shortId": "Q-06D48F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Sécurité, Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Paix, Progrès, Solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise Liberté, Égalité, Fraternité est inscrite dans la Constitution et symbolise l'union des citoyens français autour de trois valeurs fondamentales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-019",
+        "shortId": "Q-96DEDC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'une agression physique dans le métro. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous regardez sans bouger pour ne pas être impliqué",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous descendez à la prochaine station sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous utilisez la borne d'appel d'urgence ou appelez le 17",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous intervenez physiquement pour arrêter l'agresseur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Alerter les autorités est le premier geste obligatoire pour aider une victime d'agression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-048",
+        "shortId": "Q-50BA15",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés à Paris ?",
+        "choices": [
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés sont élus par les citoyens pour voter les lois et contrôler le Gouvernement au Palais Bourbon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-011",
+        "shortId": "Q-B0398E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction du 'Défenseur des droits' ?",
+        "choices": [
+          {
+            "text": "Défendre l'État français devant les tribunaux internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité des bâtiments publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer l'avocat lors d'un procès au pénal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits est une institution indépendante que l'on peut saisir gratuitement en cas de discrimination ou de problème avec une administration."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-058",
+        "shortId": "Q-1D5A3C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la 'laïcité' dans les services publics (hôpitaux, préfectures). Quelle est la règle pour l'usager ?",
+        "choices": [
+          {
+            "text": "L'usager a le droit d'exprimer ses convictions religieuses tant qu'il ne trouble pas l'ordre public et le fonctionnement du service.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'usager est soumis à la même neutralité que l'agent : il doit retirer tout signe religieux avant d'entrer.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'usager doit obligatoirement prêter serment sur la Constitution avant d'être soigné.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les services publics sont réservés uniquement aux personnes déclarant n'avoir aucune religion.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans les services publics, les usagers sont libres d'exprimer leurs convictions religieuses tant qu'ils ne troublent pas l'ordre public ni le bon fonctionnement du service."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-042",
+        "shortId": "Q-4C2490",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la parité en politique française ?",
+        "choices": [
+          {
+            "text": "L'égalité d'accès entre les femmes et les hommes aux fonctions politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de représenter toutes les catégories socio-professionnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de rotation des mandats entre les générations",
+            "isCorrect": false
+          },
+          {
+            "text": "La représentation proportionnelle des minorités régionales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La parité vise une représentation équilibrée des sexes dans les assemblées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-023",
+        "shortId": "Q-5A0E38",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit constitutionnel permet aux salariés de défendre leurs intérêts professionnels ?",
+        "choices": [
+          {
+            "text": "Le droit de s'absenter sans prévenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de choisir son salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser toutes les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La grève est une cessation concertée du travail pour porter des revendications professionnelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-013",
+        "shortId": "Q-155E4E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Espagne ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Pyrénées s'étendent de la Méditerranée à l'Océan Atlantique et séparent la France de la péninsule ibérique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-015",
+        "shortId": "Q-A8BCA4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'contrat d'engagement républicain' ?",
+        "choices": [
+          {
+            "text": "Un contrat de travail pour les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement pour les associations qui demandent des subventions publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord signé entre un propriétaire et son locataire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le document de naturalisation signé à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les associations demandant des subventions doivent s'engager à respecter les valeurs de la République (liberté, égalité, fraternité, dignité humaine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-035",
+        "shortId": "Q-BE53B3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel acte est une preuve de solidarité citoyenne obligatoire ?",
+        "choices": [
+          {
+            "text": "L'inscription dans un club de sport associatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le voyage annuel dans un autre département français",
+            "isCorrect": false
+          },
+          {
+            "text": "L'achat d'un journal d'opinion chaque semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement des impôts et des cotisations sociales",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Contribuer aux charges publiques permet de faire vivre le modèle social et les infrastructures nationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-029",
+        "shortId": "Q-3FEA33",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est chargé de protéger la sécurité des personnes et des biens ?",
+        "choices": [
+          {
+            "text": "Le juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les forces de l'ordre assurent la sécurité publique et le respect de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-040",
+        "shortId": "Q-48D469",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un enfant né à l'étranger de parents français, quelle démarche est nécessaire ?",
+        "choices": [
+          {
+            "text": "Un test de langue française immédiat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de naturalisation simplifiée",
+            "isCorrect": false
+          },
+          {
+            "text": "La transcription de l'acte de naissance à l'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription obligatoire à l'armée française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La transcription permet d'enregistrer la naissance dans les registres français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-014",
+        "shortId": "Q-944DB6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chanteuse française est mondialement connue pour 'La Vie en rose' et 'L'Hymne à l'amour' ?",
+        "choices": [
+          {
+            "text": "Dalida",
+            "isCorrect": false
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": true
+          },
+          {
+            "text": "Barbara",
+            "isCorrect": false
+          },
+          {
+            "text": "Mylène Farmer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Édith Piaf, surnommée 'la Môme', reste l'une des artistes françaises les plus célèbres à l'international."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-010",
+        "shortId": "Q-916FD9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document atteste de la régularité du séjour et autorise à travailler en France selon les mentions portées dessus ?",
+        "choices": [
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Le titre de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat d'immatriculation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le titre de séjour est le document officiel délivré par la préfecture permettant de résider légalement en France. Certaines mentions autorisent l'activité professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-052",
+        "shortId": "Q-E30AB9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est l'utilité du 'recensement citoyen' à l'âge de 16 ans. Quel est son but principal ?",
+        "choices": [
+          {
+            "text": "Permettre l'inscription automatique sur les listes électorales et la convocation à la Journée Défense et Citoyenneté (JDC).",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier que le jeune citoyen a validé ses compétences civiques au collège.",
+            "isCorrect": false
+          },
+          {
+            "text": "Obliger le jeune à faire un stage de découverte dans la fonction publique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Permettre à l'État de planifier les ressources éducatives nécessaires.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le recensement citoyen à 16 ans permet l'inscription automatique sur les listes électorales à 18 ans et la convocation à la Journée Défense et Citoyenneté (JDC)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-041",
+        "shortId": "Q-245EC2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but des élections municipales ?",
+        "choices": [
+          {
+            "text": "Choisir le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Élire les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les préfets",
+            "isCorrect": false
+          },
+          {
+            "text": "Élire les conseillers municipaux et le maire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les élections municipales permettent aux citoyens de choisir les conseillers municipaux, qui éliront ensuite le maire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-078",
+        "shortId": "Q-00230B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez ouvrir un compte en banque. Peut-on vous le refuser ?",
+        "choices": [
+          {
+            "text": "Oui, les banques choisissent leurs clients",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous êtes étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous n'avez pas beaucoup d'argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous avez le droit à un compte bancaire (droit au compte)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit au compte permet à toute personne d'avoir un compte bancaire, même en cas de refus initial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-045",
+        "shortId": "Q-17FC02",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1945 marque la fin de la Seconde Guerre mondiale en Europe ?",
+        "choices": [
+          {
+            "text": "La victoire du 8 mai 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Appel du 18 juin",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature de l'Armistice de 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 8 mai est un jour férié en France pour commémorer la capitulation de l'Allemagne nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-046",
+        "shortId": "Q-E3F8F2",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'titre de séjour pluriannuel' ?",
+        "choices": [
+          {
+            "text": "Un récépissé de demande de renouvellement de titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Un titre de séjour d'une durée de 2 à 4 ans délivré après une première année de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "Un visa de long séjour valant titre de séjour (VLS-TS)",
+            "isCorrect": false
+          },
+          {
+            "text": "Une carte de résident de 10 ans obtenue après 5 ans de séjour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après un premier titre d'un an (VLS-TS ou carte temporaire), l'étranger peut souvent obtenir une carte valable plusieurs années."
+      }
+    }
+  ]
+}

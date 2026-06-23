@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-principes-valeurs-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-062",
+        "shortId": "Q-3204FD",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté de la presse est garantie en France par quel texte majeur ?",
+        "choices": [
+          {
+            "text": "La loi de 1881",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code pénal de 1810",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi constitutionnelle de 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règlement de la télévision",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 29 juillet 1881 est le texte fondateur de la liberté d'expression médiatique en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-024",
+        "shortId": "Q-B0CAB0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Question Prioritaire de Constitutionnalité » (QPC) ?",
+        "choices": [
+          {
+            "text": "Un examen pour devenir magistrat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une question posée par un citoyen à son député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de contester la conformité d'une loi déjà en vigueur à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réunion secrète des ministres à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Introduite en 2010, la QPC permet à tout citoyen lors d'un procès de soutenir qu'une disposition législative porte atteinte aux droits garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-017",
+        "shortId": "Q-2CA3AA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient le pouvoir législatif en France ?",
+        "choices": [
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Gouvernement et ses ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État et les Préfets",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement vote la loi. Il est composé de deux chambres : l'Assemblée nationale, élue directement, et le Sénat, élu indirectement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-057",
+        "shortId": "Q-49782F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'État peut-il restreindre la liberté d'aller et venir ?",
+        "choices": [
+          {
+            "text": "Non, jamais, c'est un droit absolu",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement pour des motifs d'ordre public prévus par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour des raisons purement politiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le citoyen n'a pas payé ses impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les libertés fondamentales peuvent être limitées si la sécurité publique l'exige (ex: garde à vue, confinement sanitaire)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-015",
+        "shortId": "Q-E8076F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal est chargé de régler les conflits individuels liés à l'exécution d'un contrat de travail privé ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil de prud'hommes est une juridiction paritaire composée de représentants des employeurs et des salariés pour juger les litiges du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-020",
+        "shortId": "Q-AE51E7",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la « présomption d'innocence » dans la procédure pénale ?",
+        "choices": [
+          {
+            "text": "La police ne peut pas arrêter de suspects",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accusé est innocent tant que sa culpabilité n'est pas établie par un juge",
+            "isCorrect": true
+          },
+          {
+            "text": "Toute personne qui porte plainte gagne automatiquement son procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Les peines de prison sont interdites pour les délits mineurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est un droit fondamental : la charge de la preuve incombe à l'accusation, et le doute doit toujours profiter à l'accusé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-016",
+        "shortId": "Q-5D7D6B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « fraternité » a été reconnu par le Conseil constitutionnel en 2018 comme :",
+        "choices": [
+          {
+            "text": "Un simple slogan sans valeur juridique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation de loger les sans-abri chez soi",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe à valeur constitutionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une règle réservée aux relations familiales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La décision du Conseil a conféré une portée juridique à la fraternité, permettant notamment de protéger l'aide humanitaire désintéressée apportée à autrui."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-010",
+        "shortId": "Q-9B93F1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « hiérarchie des normes » dans le système juridique français ?",
+        "choices": [
+          {
+            "text": "L'ordre dans lequel les citoyens doivent être reçus par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "La primauté des lois locales sur les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait qu'une règle inférieure doit être conforme à la règle supérieure",
+            "isCorrect": true
+          },
+          {
+            "text": "Le classement des juridictions selon leur ancienneté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le fait qu'une règle inférieure doit être conforme à la règle supérieure, c'est une pyramide où la Constitution est au sommet. Une loi ne peut pas contredire la Constitution, et un décret ne peut pas contredire une loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-019",
+        "shortId": "Q-09FE35",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, les soins médicaux urgents sont accessibles à tous, y compris aux étrangers sans titre de séjour, via :",
+        "choices": [
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte de résident",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Aide Médicale de l'État (AME)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le compte personnel de formation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'AME permet aux étrangers en situation irrégulière d'accéder aux soins pour protéger leur santé et prévenir les risques sanitaires collectifs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-066",
+        "shortId": "Q-D13D4F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 11 de la Déclaration de 1789 protège :",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La libre communication des pensées et des opinions",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit à la santé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité homme-femme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'un des articles les plus importants de la Déclaration, consacrant la liberté d'expression et de publication comme un droit fondamental du citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-064",
+        "shortId": "Q-0EB7B5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe juridique permet d'assurer qu'une loi s'applique de la même manière à Paris ou à Marseille ?",
+        "choices": [
+          {
+            "text": "Le fédéralisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Indivisibilité de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'indivisibilité garantit l'unité législative et l'égalité des citoyens devant la loi sur tout le territoire national."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-060",
+        "shortId": "Q-F7BA08",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit au secret des correspondances s'applique :",
+        "choices": [
+          {
+            "text": "Seulement aux lettres papier",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement aux courriers administratifs",
+            "isCorrect": false
+          },
+          {
+            "text": "À toutes les communications privées (mails, téléphone, lettres)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement si le citoyen paie une taxe de confidentialité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est une protection fondamentale de la vie privée garantie par la loi et la Constitution, couvrant tous les supports de communication."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-069",
+        "shortId": "Q-77C2F2",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La nationalité française peut-elle être retirée à une personne née française ?",
+        "choices": [
+          {
+            "text": "Oui, si elle ne vote pas",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle est protégée par la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle quitte le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle ne paie pas ses impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déchéance de nationalité ne peut s'appliquer, sous conditions très strictes, qu'à des personnes ayant acquis la nationalité française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-013",
+        "shortId": "Q-B398D6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, qu'est-ce que le « principe de précaution » ?",
+        "choices": [
+          {
+            "text": "L'obligation de porter une ceinture de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "La prudence nécessaire avant de signer un contrat",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anticipation des risques graves pour l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "La vérification systématique de l'identité des usagers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inscrit dans la Charte de l'environnement, il impose aux autorités publiques de prendre des mesures face à des risques de dommages graves et irréversibles pour l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-055",
+        "shortId": "Q-EB2D3C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Une commission mixte paritaire réunie par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "La procédure d'examen accéléré d'un texte en une seule lecture",
+            "isCorrect": false
+          },
+          {
+            "text": "La circulation d'un projet de loi entre l'Assemblée et le Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "La dissolution de l'Assemblée nationale suivie de nouvelles élections",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être adoptée, une loi doit être votée en termes identiques par les deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-018",
+        "shortId": "Q-22964F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, qui est le « garant de l'indépendance de l'autorité judiciaire » ?",
+        "choices": [
+          {
+            "text": "Le Ministre de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 64 de la Constitution confie cette mission au Président de la République, assisté par le Conseil supérieur de la magistrature."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-029",
+        "shortId": "Q-A49D74",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui détient le pouvoir réglementaire de droit commun au niveau national ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En vertu de l'article 21 de la Constitution, le Premier ministre assure l'exécution des lois et exerce le pouvoir réglementaire (décrets)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-039",
+        "shortId": "Q-FB5D50",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, la « liberté contractuelle » permet à deux personnes de signer le contrat de leur choix, à condition :",
+        "choices": [
+          {
+            "text": "De ne pas utiliser de langue étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Que le contrat soit écrit par un avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "De respecter les lois d'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Que le contrat soit validé par la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté contractuelle est limitée par l'ordre public : on ne peut pas contracter pour faire quelque chose d'illégal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-025",
+        "shortId": "Q-CABD18",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Parmi ces institutions, laquelle est chargée de vérifier le bon emploi de l'argent public ?",
+        "choices": [
+          {
+            "text": "La Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Inspection du Travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Cour des comptes juge la régularité des comptes publics et assiste le Parlement et le Gouvernement dans le contrôle de l'exécution du budget."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-028",
+        "shortId": "Q-799F37",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un citoyen qui estime être victime d'une erreur administrative ou d'un déni de droit peut saisir :",
+        "choices": [
+          {
+            "text": "Le Procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de sa région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Académie française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits est une autorité constitutionnelle indépendante chargée de protéger les droits et libertés des individus face aux administrations."
+      }
+    }
+  ]
+}

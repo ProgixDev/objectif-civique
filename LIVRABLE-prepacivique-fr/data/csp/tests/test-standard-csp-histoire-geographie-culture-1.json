@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-histoire-geographie-culture-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-histoire-standard-013",
+        "shortId": "Q-155E4E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Espagne ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Pyrénées s'étendent de la Méditerranée à l'Océan Atlantique et séparent la France de la péninsule ibérique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-011",
+        "shortId": "Q-0B117E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a organisé la Résistance française depuis Londres pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Clemenceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le général de Gaulle a lancé l'Appel du 18 juin 1940 pour inciter les Français à refuser la défaite et à poursuivre le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-039",
+        "shortId": "Q-128114",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la langue de la République d'après la Constitution française ?",
+        "choices": [
+          {
+            "text": "L'anglais et le français",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les langues régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le latin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution stipule que 'La langue de la République est le français'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-020",
+        "shortId": "Q-0A28B5",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel territoire français est situé en Amérique du Sud et abrite la base de lancement de fusées d'Europe ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Guyane est un département d'outre-mer. Elle accueille le centre spatial de Kourou."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-051",
+        "shortId": "Q-BB06CB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 11 novembre en France ?",
+        "choices": [
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre est un jour de mémoire pour tous les soldats morts pour la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-037",
+        "shortId": "Q-FE4134",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année la Constitution actuelle de la France (Ve République) a-t-elle été adoptée ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Ve République a été instaurée pour donner plus de stabilité au pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-012",
+        "shortId": "Q-EF410D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure allégorique portant un bonnet phrygien représente la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          },
+          {
+            "text": "La Semeuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est présente dans toutes les mairies de France. Elle symbolise la liberté et la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-019",
+        "shortId": "Q-B81E0A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel héros de la Résistance a unifié les mouvements clandestins avant d'être arrêté en 1943 ?",
+        "choices": [
+          {
+            "text": "Philippe Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean Moulin a fondé le Conseil National de la Résistance (CNR). Il est enterré au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-058",
+        "shortId": "Q-457804",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument à Paris a été construit pour célébrer les victoires de Napoléon ?",
+        "choices": [
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sacré-Cœur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Arc de Triomphe est situé sur la place de l'Étoile. Il abrite la tombe du Soldat inconnu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-040",
+        "shortId": "Q-690A5B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel roi a mis fin aux guerres de religion en France en signant l'Édit de Nantes ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint Louis",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En 1598, Henri IV a autorisé la liberté de culte pour les protestants, apportant la paix au royaume."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-050",
+        "shortId": "Q-72DBE4",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région française est située à l'extrême nord et possède une frontière avec la Belgique ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Hauts-de-France",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Occitanie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nouvelle-Aquitaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Hauts-de-France regroupent les anciennes régions Nord-Pas-de-Calais et Picardie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-016",
+        "shortId": "Q-CAE6AC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a instauré le Premier Empire en France et a fait rédiger le Code civil en 1804 ?",
+        "choices": [
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis-Philippe",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon Ier a réorganisé l'administration française (préfets, lycées, Code civil) après la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-044",
+        "shortId": "Q-064444",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande manifestation culturelle gratuite a lieu le 21 juin chaque année ?",
+        "choices": [
+          {
+            "text": "Les Journées du Patrimoine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nuit des Musées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Festival de Cannes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lancée en 1982, elle permet à tous les musiciens de jouer dans les rues et les parcs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-041",
+        "shortId": "Q-56A906",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre est considéré comme le chef de file de l'Impressionnisme (auteur des 'Nymphéas') ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Monet a révolutionné la peinture en essayant de capturer la lumière et les couleurs changeantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-006",
+        "shortId": "Q-D1279E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monarque français est surnommé le 'Roi-Soleil' et a fait construire le château de Versailles ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XIV a eu le plus long règne de l'histoire de France. Il a symbolisé la monarchie absolue depuis Versailles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-021",
+        "shortId": "Q-3C5C57",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a eu lieu le Débarquement allié en Normandie pour libérer la France ?",
+        "choices": [
+          {
+            "text": "1944",
+            "isCorrect": true
+          },
+          {
+            "text": "1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 6 juin 1944, les Alliés ont débarqué sur les plages normandes pour mettre fin à l'occupation nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-034",
+        "shortId": "Q-5A8E95",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel massif montagneux peut-on trouver des volcans éteints en Auvergne ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La chaîne des Puys, dans le Massif central, est inscrite au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-038",
+        "shortId": "Q-EB42B6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel ouvrage de transport relie la France au Royaume-Uni sous la mer ?",
+        "choices": [
+          {
+            "text": "Le Pont de Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tunnel sous la Manche",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Viaduc de Millau",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tunnel du Mont-Blanc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inauguré en 1994, ce tunnel permet de relier Paris à Londres en train (Eurostar) très rapidement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-008",
+        "shortId": "Q-F9C23B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel océan borde la façade ouest de la France (Bretagne, Nouvelle-Aquitaine) ?",
+        "choices": [
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Océan Atlantique s'étend sur toute la côte ouest, offrant de grandes plages et des ports de commerce importants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-027",
+        "shortId": "Q-870BD1",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fromage de Normandie est mondialement connu et protégé par une boîte en bois ronde ?",
+        "choices": [
+          {
+            "text": "Le Roquefort",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Comté",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Camembert",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Reblochon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Camembert de Normandie est l'un des emblèmes de la gastronomie française."
+      }
+    }
+  ]
+}

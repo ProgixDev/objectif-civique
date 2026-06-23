@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-systeme-institutionnel-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-standard-080",
+        "shortId": "Q-3BE873",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôlait démocratiquement la Haute Autorité en 1951 ?",
+        "choices": [
+          {
+            "text": "Le Conseil des ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Assemblée commune, composée de délégués des parlements nationaux, exerçait un contrôle démocratique sur la Haute Autorité. Elle est l'ancêtre du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-033",
+        "shortId": "Q-5D7572",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui contrôle la légalité des actes des collectivités territoriales ?",
+        "choices": [
+          {
+            "text": "Le député de la circonscription",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens par vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet (contrôle de légalité) et le juge administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le contrôle de légalité est exercé a posteriori par le Préfet. Il vérifie que les actes des collectivités respectent la loi, sans juger de leur opportunité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-012",
+        "shortId": "Q-97DE5E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle élection se fait au suffrage universel indirect ?",
+        "choices": [
+          {
+            "text": "Les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections sénatoriales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les élections législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections municipales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les élections sénatoriales se déroulent au suffrage universel indirect. Les citoyens élisent des « grands électeurs » (maires, conseillers...) qui, à leur tour, élisent les sénateurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-024",
+        "shortId": "Q-F47334",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le « dernier mot » lors du vote d'une loi en cas d'échec de la commission mixte paritaire ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Si la Commission Mixte Paritaire échoue, le Gouvernement peut demander à l'Assemblée nationale de statuer définitivement. C'est elle qui a le « dernier mot » politique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-055",
+        "shortId": "Q-B82031",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui succède au Président de la République en cas de décès ou démission ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat (par intérim)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "La femme du Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En cas de vacance de la Présidence (décès, démission), c'est le Président du Sénat qui assure l'intérim jusqu'à l'élection du nouveau Président."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-100",
+        "shortId": "Q-8852D9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui gère les lycées et les transports régionaux ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Régional (la Région)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le cadre de la décentralisation, la Région a la compétence des lycées (construction, entretien) et l'organisation des transports régionaux (TER, cars)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-066",
+        "shortId": "Q-5FD1B6",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien la France a-t-elle de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "81",
+            "isCorrect": true
+          },
+          {
+            "text": "74",
+            "isCorrect": false
+          },
+          {
+            "text": "79",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis les élections de 2024, la France élit 81 députés européens."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-078",
+        "shortId": "Q-75EA38",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a initié la CECA ?",
+        "choices": [
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Robert Schuman et Jean Monnet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Robert Schuman (Ministre français) et Jean Monnet (Commissaire au Plan) sont les pères fondateurs à l'origine de la CECA et de la méthode communautaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-020",
+        "shortId": "Q-04E744",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la première étape de l'examen d'un texte de loi au Parlement ?",
+        "choices": [
+          {
+            "text": "La promulgation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "L'examen en commission parlementaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote solennel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Avant d'être débattu en séance publique, tout projet ou proposition de loi est examiné par une commission parlementaire spécialisée. Elle peut modifier le texte par des amendements."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-009",
+        "shortId": "Q-6AAE21",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la définition de la démocratie selon la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre public garanti par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection des frontières nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement du peuple, par le peuple et pour le peuple",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 2 de la Constitution définit le principe de la République comme étant le « gouvernement du peuple, par le peuple et pour le peuple ». Cette citation est empruntée à Abraham Lincoln."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-070",
+        "shortId": "Q-7857C1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution gère l'Euro et la politique monétaire ?",
+        "choices": [
+          {
+            "text": "La Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque centrale européenne (BCE)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Fonds monétaire international",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Banque centrale européenne (BCE) gère l'Euro et définit la politique monétaire de la zone euro, avec pour objectif principal la stabilité des prix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-065",
+        "shortId": "Q-C2C9B4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un eurodéputé ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat des députés européens est de 5 ans, renouvelable."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-079",
+        "shortId": "Q-149D26",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle était l'institution ancêtre de la Commission européenne en 1951 ?",
+        "choices": [
+          {
+            "text": "La Haute Autorité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Directoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Haut Conseil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Haute Autorité était l'organe exécutif supranational de la CECA. Elle est l'ancêtre direct de l'actuelle Commission européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-016",
+        "shortId": "Q-83A7E1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être privé de ses droits civiques ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si on quitte le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, par une condamnation pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si on ne vote pas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, la privation des droits civiques (droit de vote, d'éligibilité) peut être prononcée par un juge comme peine complémentaire lors d'une condamnation pénale grave."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-074",
+        "shortId": "Q-CFF766",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année le Conseil européen est-il devenu une institution officielle ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "2009 (Traité de Lisbonne)",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1992",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen a obtenu le statut officiel d'institution de l'Union avec l'entrée en vigueur du traité de Lisbonne en 2009."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-082",
+        "shortId": "Q-D50A74",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis quand les députés européens sont-ils élus au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1979",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est en 1979 qu'ont eu lieu les premières élections du Parlement européen au suffrage universel direct, renforçant sa légitimité démocratique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-015",
+        "shortId": "Q-F90420",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe garantit que la loi est claire et ne change pas tout le temps ?",
+        "choices": [
+          {
+            "text": "La laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "La sécurité juridique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La sécurité juridique garantit que la loi est accessible, claire et stable (non-rétroactive). Elle permet aux citoyens de connaître les règles et de prévoir les conséquences de leurs actes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-042",
+        "shortId": "Q-CB979D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Espagne et le Portugal ont-ils rejoint la CEE (future Union européenne) ?",
+        "choices": [
+          {
+            "text": "1986",
+            "isCorrect": true
+          },
+          {
+            "text": "2004",
+            "isCorrect": false
+          },
+          {
+            "text": "1995",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Espagne et le Portugal, sortis de dictatures, ont rejoint la CEE en 1986, consolidant la démocratie dans le sud de l'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-098",
+        "shortId": "Q-4E48F3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La zone Euro comprend-elle tous les pays de l'UE ?",
+        "choices": [
+          {
+            "text": "Non, seulement la France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, depuis 1957",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, certains pays ont gardé leur monnaie (ex: Pologne, Suède)",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, la zone euro compte 20 membres (en 2024). Certains pays ont une dérogation (Danemark) ou ne remplissent pas encore les critères (Pologne, Hongrie...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-043",
+        "shortId": "Q-CCE4C5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité récent (2007) a adapté les règles pour une meilleure coordination ?",
+        "choices": [
+          {
+            "text": "Le traité de Trianon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Londres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le traité de Lisbonne, entré en vigueur en 2009, a réformé les institutions pour rendre l'UE plus efficace et démocratique après l'élargissement à l'Est."
+      }
+    }
+  ]
+}

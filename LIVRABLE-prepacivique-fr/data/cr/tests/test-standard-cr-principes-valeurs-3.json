@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-principes-valeurs-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-063",
+        "shortId": "Q-C812E5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui peut porter une arme pour sa mission de service public ?",
+        "choices": [
+          {
+            "text": "Tous les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les forces de l'ordre (police, gendarmerie) et douanes autorisées",
+            "isCorrect": true
+          },
+          {
+            "text": "Toute personne travaillant dans une préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État a le monopole de la violence légitime. Le port d'arme est strictement réservé à certains corps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-030",
+        "shortId": "Q-D012AC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « délit d'entrave à l'IVG » ?",
+        "choices": [
+          {
+            "text": "Le fait pour une femme de refuser une intervention médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait d'empêcher, par des pressions ou des menaces, l'accès à l'avortement",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation pour un médecin de pratiquer l'intervention",
+            "isCorrect": false
+          },
+          {
+            "text": "Une taxe imposée sur les cliniques spécialisées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi protège la liberté des femmes en punissant ceux qui tentent de les empêcher d'accéder à l'interruption volontaire de grossesse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-042",
+        "shortId": "Q-23AB5A",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas le Président de la République peut-il utiliser les « pleins pouvoirs » (Article 16) ?",
+        "choices": [
+          {
+            "text": "En cas de crise économique grave",
+            "isCorrect": false
+          },
+          {
+            "text": "En cas de menace grave et immédiate sur les institutions ou le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Chaque fois que le Gouvernement est renversé par l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour changer la Constitution sans passer par le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 16 est une mesure d'exception pour les périodes de péril imminent, permettant d'assurer la continuité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-008",
+        "shortId": "Q-7BA557",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, un agent public victime de menaces ou d'insultes dans son travail bénéficie de :",
+        "choices": [
+          {
+            "text": "L'immunité diplomatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une augmentation de salaire automatique",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection fonctionnelle de son administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se faire justice lui-même",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La protection fonctionnelle oblige l'administration à protéger ses agents contre les attaques dont ils sont victimes dans l'exercice de leurs fonctions et à réparer le préjudice subi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-022",
+        "shortId": "Q-6E2D6C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité valide officiellement l'élection présidentielle et veille à la régularité du scrutin ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère de l'Intérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil constitutionnel surveille les opérations de vote, examine les réclamations et proclame les résultats définitifs de l'élection présidentielle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-034",
+        "shortId": "Q-648CFF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme le Premier ministre en France ?",
+        "choices": [
+          {
+            "text": "Les députés à la majorité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple français par un vote spécifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen des juges de la Cour de cassation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président nomme le Premier ministre. Il met fin à ses fonctions sur la présentation par celui-ci de la démission du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-011",
+        "shortId": "Q-B181A0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes interdit de traiter différemment deux citoyens placés dans la même situation ?",
+        "choices": [
+          {
+            "text": "La liberté d'entreprendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de décentralisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité devant la loi signifie que tous les individus, quelles que soient leurs origines ou croyances, sont soumis aux mêmes règles et bénéficient des mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-003",
+        "shortId": "Q-24B258",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En vertu du principe de neutralité, qu'est-il interdit à un agent public dans l'exercice de ses fonctions ?",
+        "choices": [
+          {
+            "text": "De voter lors des élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "De manifester ses convictions religieuses ou politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "D'adhérer à un syndicat professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "De pratiquer sa religion dans sa sphère privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La neutralité impose aux agents de l'État et des collectivités de ne pas afficher de signes religieux ou politiques afin de traiter chaque usager de manière égale et impartiale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-040",
+        "shortId": "Q-B48B7C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « déni de justice » en droit français ?",
+        "choices": [
+          {
+            "text": "Le droit de refuser de témoigner à un procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus d'un juge de rendre une décision pour une affaire dont il est saisi",
+            "isCorrect": true
+          },
+          {
+            "text": "La critique d'un jugement par les journalistes",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression des tribunaux par le Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un juge a l'obligation de rendre une décision. S'il refuse de juger, il commet une faute grave appelée déni de justice."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-044",
+        "shortId": "Q-DCDE54",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe assure la représentation des Français de l'étranger ?",
+        "choices": [
+          {
+            "text": "L'Assemblée des départements de France",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée des Français de l'étranger (AFE)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministère de la Défense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'AFE est l'instance consultative qui défend les intérêts des expatriés français auprès des autorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-038",
+        "shortId": "Q-EA3A3E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de vote aux élections municipales et européennes est ouvert aux ressortissants de l'Union européenne résidant en France au nom du principe de :",
+        "choices": [
+          {
+            "text": "Double nationalité automatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Souveraineté territoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "Citoyenneté européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Droit du sol",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les traités européens permettent aux citoyens de l'UE vivant dans un autre État membre de participer à la vie locale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-033",
+        "shortId": "Q-2CB906",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 13 de la Déclaration de 1789 établit que l'impôt doit être :",
+        "choices": [
+          {
+            "text": "Optionnel selon les revenus de l'année",
+            "isCorrect": false
+          },
+          {
+            "text": "Identique en montant pour chaque habitant",
+            "isCorrect": false
+          },
+          {
+            "text": "Également réparti entre tous les citoyens en raison de leurs facultés",
+            "isCorrect": true
+          },
+          {
+            "text": "Payé uniquement par les propriétaires immobiliers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de capacité contributive fonde l'équité fiscale en France : chacun participe aux charges publiques selon ses moyens financiers."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-056",
+        "shortId": "Q-5DE823",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut demander la démission du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale via la motion de censure",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat par un vote solennel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'expression du contrôle du Parlement sur l'exécutif : le Gouvernement est responsable devant l'Assemblée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-006",
+        "shortId": "Q-C085DF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le cadre de la laïcité, quelle est la règle concernant les aumôneries dans les prisons ou les hôpitaux ?",
+        "choices": [
+          {
+            "text": "Elles sont formellement interdites par la loi de 1905",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles sont autorisées pour garantir le libre exercice du culte",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ne sont autorisées que pour le culte catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles doivent être financées par des pays étrangers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 1905 prévoit que l'État peut financer des services d'aumônerie dans les lieux fermés (lycées, hôpitaux, prisons) pour permettre aux usagers d'exercer leur religion."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-014",
+        "shortId": "Q-3422B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 4 de la Déclaration de 1789 dispose que la liberté consiste à :",
+        "choices": [
+          {
+            "text": "Faire tout ce que l'on veut sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Pouvoir faire tout ce qui ne nuit pas à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "N'obéir qu'à sa propre conscience personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter uniquement les lois religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cet article fonde les limites de la liberté : l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-031",
+        "shortId": "Q-72F373",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juridictionnel est chargé d'unifier l'interprétation de la loi judiciaire sur tout le territoire ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour européenne des droits de l'homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Cour de cassation est la plus haute juridiction de l'ordre judiciaire. Elle ne rejuge pas les faits mais vérifie si la loi a été correctement appliquée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-004",
+        "shortId": "Q-694574",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte historique définit les principes de la « République sociale », notamment le droit à la santé et au repos ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordonnance de Villers-Cotterêts",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte de l'environnement de 2004",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Préambule de 1946 (intégré à notre Constitution actuelle) a instauré les droits économiques et sociaux, comme le droit d'obtenir de la collectivité des moyens convenables d'existence."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-002",
+        "shortId": "Q-DAF40D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du régime des cultes en Alsace et en Moselle par rapport au reste de la France ?",
+        "choices": [
+          {
+            "text": "La laïcité y est plus stricte et interdit toute procession",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens y votent pour choisir la religion locale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Concordat de 1801 y est toujours en vigueur pour certains cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "Il n'y a aucune différence avec les autres départements",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Alsace-Moselle était sous administration allemande en 1905 lors du vote de la loi de séparation. Elle a conservé un régime spécifique où quatre cultes sont reconnus et financés par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-005",
+        "shortId": "Q-C4AB5F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui assure l'intérim du Président de la République en cas de vacance ou d'empêchement ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen du Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'article 7 de la Constitution, en cas de décès, de démission ou d'empêchement du Président, ses fonctions sont provisoirement exercées par le Président du Sénat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-048",
+        "shortId": "Q-87C0FE",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'égalité homme-femme en politique est encouragée par :",
+        "choices": [
+          {
+            "text": "L'instauration de formations obligatoires en égalité des genres pour les élus",
+            "isCorrect": false
+          },
+          {
+            "text": "La réserve d'un tiers des postes de direction aux femmes dans la fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur la parité imposant des quotas de chaque sexe",
+            "isCorrect": true
+          },
+          {
+            "text": "L'alternance stricte dans l'ordre du tableau des conseillers municipaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les lois sur la parité visent à favoriser l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives."
+      }
+    }
+  ]
+}

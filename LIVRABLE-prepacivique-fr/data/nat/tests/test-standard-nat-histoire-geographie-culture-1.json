@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-histoire-geographie-culture-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-standard-021",
+        "shortId": "Q-B58408",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel Parc National est situé dans les Alpes ?",
+        "choices": [
+          {
+            "text": "Le Parc des Calanques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de la Vanoise (ou des Écrins)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parc des Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parc de Port-Cros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Vanoise (Savoie) fut le premier parc national créé en France (1963) pour protéger la faune et la flore alpines."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-024",
+        "shortId": "Q-3AD7C2",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Louis Pasteur est un scientifique célèbre pour avoir découvert :",
+        "choices": [
+          {
+            "text": "La radioactivité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'électricité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vaccin contre la rage",
+            "isCorrect": true
+          },
+          {
+            "text": "La structure de l'ADN",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pasteur (XIXe siècle) est le père de la microbiologie. Il a mis au point la pasteurisation et le vaccin contre la rage."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-023",
+        "shortId": "Q-B6A640",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Président de la République française est aussi, de par sa fonction, le co-prince de quel petit pays ?",
+        "choices": [
+          {
+            "text": "Monaco",
+            "isCorrect": false
+          },
+          {
+            "text": "Andorre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Liechtenstein",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Andorre est une co-principauté parlementaire. Ses deux chefs d'État symboliques sont le Président français et l'évêque d'Urgell (Espagne)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-036",
+        "shortId": "Q-8CC329",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Avec son article « J'accuse...! », quel écrivain a défendu le capitaine Dreyfus, injustement condamné ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Marcel Proust",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Publié en 1898, cet article a relancé l'Affaire Dreyfus, symbole de la lutte contre l'antisémitisme et pour la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-017",
+        "shortId": "Q-3DF255",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et la Suisse ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le massif du Jura s'étend le long de la frontière suisse, au nord des Alpes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-028",
+        "shortId": "Q-5BE9DD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Situé à la pointe de la Bretagne, quel département possède le plus de côtes maritimes ?",
+        "choices": [
+          {
+            "text": "La Gironde",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Finistère",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Calvados",
+            "isCorrect": false
+          },
+          {
+            "text": "La Vendée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Finistère (Finis Terrae, « fin de la terre ») est le département le plus à l'ouest de la France métropolitaine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-005",
+        "shortId": "Q-1852A4",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le plus long fleuve entièrement français ?",
+        "choices": [
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Avec ses 1 012 km, la Loire est le plus long fleuve de France. Elle est célèbre pour les châteaux royaux qui bordent sa vallée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-048",
+        "shortId": "Q-1AB4A6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel roi, surnommé le Roi-Soleil, a fait construire le château de Versailles ?",
+        "choices": [
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Louis XIV a régné 72 ans. Versailles était l'instrument de son pouvoir absolu et de la mise en scène de la monarchie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-041",
+        "shortId": "Q-8B9197",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle invention doit-on aux frères Lumière en 1895 ?",
+        "choices": [
+          {
+            "text": "L'aviation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le cinématographe",
+            "isCorrect": true
+          },
+          {
+            "text": "Le téléphone",
+            "isCorrect": false
+          },
+          {
+            "text": "La photographie couleur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Auguste et Louis Lumière ont organisé la première projection publique payante de cinéma à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-049",
+        "shortId": "Q-860DF3",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 29 juillet 1881 est une loi fondamentale qui garantit :",
+        "choices": [
+          {
+            "text": "Le droit de grève",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité hommes-femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de l'environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cette loi de la IIIe République a supprimé la censure préalable. Elle encadre encore aujourd'hui la liberté d'expression en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-030",
+        "shortId": "Q-5A91BF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle cathédrale est célèbre pour ses vitraux du Moyen-Âge d'un bleu unique ?",
+        "choices": [
+          {
+            "text": "Notre-Dame de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cathédrale de Chartres",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cathédrale de Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "La Basilique Saint-Denis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le « Bleu de Chartres » est mondialement connu. La cathédrale est un chef-d'œuvre de l'art gothique classé à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-039",
+        "shortId": "Q-94E523",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Edgar Degas est un peintre célèbre pour ses représentations de :",
+        "choices": [
+          {
+            "text": "Paysages de Provence",
+            "isCorrect": false
+          },
+          {
+            "text": "Danseuses de l'Opéra (ballet)",
+            "isCorrect": true
+          },
+          {
+            "text": "Guerres napoléoniennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Nénuphars",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Degas a consacré une grande partie de son œuvre à l'univers de la danse et aux coulisses de l'Opéra de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-020",
+        "shortId": "Q-D9104E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a composé le « Boléro », l'une des œuvres classiques les plus jouées au monde ?",
+        "choices": [
+          {
+            "text": "Claude Debussy",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Hector Berlioz",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Bizet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Maurice Ravel a composé cette œuvre en 1928. Son rythme répétitif et son crescendo orchestral sont célèbres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-029",
+        "shortId": "Q-917C4B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution, fondée par Richelieu en 1635, est chargée de définir et protéger la langue française ?",
+        "choices": [
+          {
+            "text": "L'Université de la Sorbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bibliothèque nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les 40 membres de l'Académie française sont surnommés les « Immortels ». Ils rédigent le Dictionnaire de l'Académie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-031",
+        "shortId": "Q-B4DC40",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le prix littéraire le plus prestigieux en France, décerné chaque année en novembre ?",
+        "choices": [
+          {
+            "text": "Le Prix Goncourt",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Prix Renaudot",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Nobel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prix Femina",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Goncourt assure à son lauréat des ventes considérables, bien que le chèque remis au vainqueur ne soit symboliquement que de 10 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-044",
+        "shortId": "Q-FEE28D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "« Je pense, donc je suis » est une célèbre citation du philosophe :",
+        "choices": [
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          },
+          {
+            "text": "René Descartes",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Michel de Montaigne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Descartes (XVIIe siècle) est le fondateur du rationalisme moderne. Sa méthode repose sur le doute et la raison."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-007",
+        "shortId": "Q-BD9906",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1789 symbolise la fin de l'arbitraire royal et le début de la Révolution ?",
+        "choices": [
+          {
+            "text": "Le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille (14 juillet)",
+            "isCorrect": true
+          },
+          {
+            "text": "La déclaration de guerre à l'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La prise de cette prison royale par le peuple parisien marque symboliquement l'effondrement du pouvoir absolu du Roi. C'est l'origine de la Fête nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-045",
+        "shortId": "Q-216205",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La ville de Lyon est réputée pour sa gastronomie et pour sa fête annuelle :",
+        "choices": [
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête des Lumières",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Carnaval de Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Braderie de Lille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Chaque année autour du 8 décembre, Lyon s'illumine. Cette tradition religieuse (remerciement à la Vierge Marie) est devenue un grand événement artistique attirant des millions de visiteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-001",
+        "shortId": "Q-746E23",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pendant la Seconde Guerre mondiale, qu'appelait-on la « Résistance » ?",
+        "choices": [
+          {
+            "text": "L'armée régulière française qui n'avait pas été vaincue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement installé à Vichy",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des mouvements clandestins luttant contre l'occupation nazie et la collaboration",
+            "isCorrect": true
+          },
+          {
+            "text": "Une ligne de défense fortifiée dans l'Est de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Résistance regroupait les Français qui, clandestinement (maquis, réseaux), ont continué à se battre contre l'occupant allemand et le régime de Vichy, répondant à l'appel du Général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-022",
+        "shortId": "Q-55669E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La ville d'Avignon est mondialement connue pour :",
+        "choices": [
+          {
+            "text": "Son festival de Cinéma",
+            "isCorrect": false
+          },
+          {
+            "text": "Son festival de Théâtre",
+            "isCorrect": true
+          },
+          {
+            "text": "Ses arènes romaines antiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Sa cathédrale gothique classée à l'UNESCO",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Festival d'Avignon, fondé par Jean Vilar en 1947, est l'une des plus importantes manifestations internationales du spectacle vivant contemporain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-3",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-048",
+        "shortId": "Q-754007",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parent accompagnateur d'une sortie scolaire porte un signe religieux visible. L'école publique peut-elle lui interdire de participer ?",
+        "choices": [
+          {
+            "text": "Oui, car il représente l'école pendant la sortie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les parents accompagnateurs ne sont pas soumis à l'obligation de neutralité des agents publics",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la loi de 2004 s'applique à tous les adultes dans l'enceinte scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il doit cacher son signe religieux pendant la sortie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'avis du Conseil d'État, les parents accompagnateurs ne sont pas des agents du service public et ne sont donc pas soumis à l'obligation de neutralité religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-020",
+        "shortId": "Q-FDB54E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle routier standard (vérification des papiers), la police peut-elle exiger l'ouverture de votre coffre ?",
+        "choices": [
+          {
+            "text": "Oui, c'est un pouvoir discrétionnaire de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de flagrant délit ou sur réquisition du procureur de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le véhicule est utilitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un douanier a ce pouvoir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En dehors des douanes, la police ne peut fouiller un véhicule (visite) qu'en cas de flagrant délit, d'enquête préliminaire avec accord du conducteur, ou sur réquisition écrite du procureur dans un périmètre et temps donnés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-004",
+        "shortId": "Q-20769D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que porte Marianne sur la tête et que symbolise cet objet ?",
+        "choices": [
+          {
+            "text": "Une couronne de lauriers, symbole de victoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chapeau haut-de-forme, symbole de la bourgeoisie",
+            "isCorrect": false
+          },
+          {
+            "text": "Un voile, symbole de pudeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bonnet phrygien, symbole de la liberté et de l'affranchissement des esclaves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le bonnet phrygien (rouge) était porté par les esclaves affranchis à Rome. Il a été repris par les Révolutionnaires pour symboliser la liberté retrouvée du peuple."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-033",
+        "shortId": "Q-788DA0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Faire appel d'un jugement pénal a-t-il un effet suspensif ?",
+        "choices": [
+          {
+            "text": "Non, la peine est exécutée immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'exécution de la condamnation est suspendue jusqu'au nouveau procès (sauf exécution provisoire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, cela annule définitivement la peine",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'avis de la victime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En principe, l'appel suspend l'exécution de la peine. La personne est rejugée et reste présumée innocente jusqu'à la décision de la Cour d'appel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-017",
+        "shortId": "Q-DF7E05",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Charte de l'environnement de 2004 a une valeur :",
+        "choices": [
+          {
+            "text": "Symbolique uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Législative (comme une loi ordinaire)",
+            "isCorrect": false
+          },
+          {
+            "text": "Réglementaire (comme un décret)",
+            "isCorrect": false
+          },
+          {
+            "text": "Constitutionnelle (au même niveau que la Déclaration de 1789)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Intégrée au bloc de constitutionnalité, elle donne le droit à chacun de vivre dans un environnement équilibré et respectueux de la santé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-014",
+        "shortId": "Q-FC6E6E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Si l'administration refuse de vous communiquer un document (permis, dossier fiscal), qui saisir ?",
+        "choices": [
+          {
+            "text": "La CADA (Commission d'Accès aux Documents Administratifs)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commissariat de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Avant de saisir le juge administratif, vous devez saisir la CADA qui émettra un avis sur le caractère communicable du document demandé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-057",
+        "shortId": "Q-9E7F4C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pendant une grève des transports, un usager estime que le droit de grève ne devrait pas exister car il gêne les citoyens. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Le droit de grève est absolu et illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève est un droit constitutionnel qui s'exerce dans le cadre des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de grève n'existe que dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire toute grève dans les services publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est reconnu dans le Préambule de 1946. Il s'exerce 'dans le cadre des lois qui le réglementent', notamment avec un service minimum dans certains secteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-015",
+        "shortId": "Q-FBD78C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre voisin a construit un mur qui empiète de 10 cm sur votre terrain. Que pouvez-vous exiger en justice ?",
+        "choices": [
+          {
+            "text": "Une indemnité annuelle d'occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "La mitoyenneté forcée du mur",
+            "isCorrect": false
+          },
+          {
+            "text": "La démolition de la partie du mur qui empiète",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, car l'empiétement est minime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de propriété est absolu. La Cour de cassation juge constamment que tout empiétement, même minime, justifie la démolition de l'ouvrage sur demande du propriétaire lésé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-013",
+        "shortId": "Q-EE0D8C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe des Lumières est célèbre pour son combat contre l'intolérance religieuse et l'affaire Calas ?",
+        "choices": [
+          {
+            "text": "Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Descartes",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voltaire (XVIIIe siècle) a défendu la liberté de penser et la tolérance religieuse. Il est une figure majeure de l'esprit critique français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-035",
+        "shortId": "Q-2EFC60",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de neutralité du service public impose que :",
+        "choices": [
+          {
+            "text": "Les agents publics (fonctionnaires) ne doivent pas manifester leurs opinions religieuses ou politiques pendant leur service",
+            "isCorrect": true
+          },
+          {
+            "text": "Les usagers doivent dissimuler leur appartenance religieuse pour accéder aux services",
+            "isCorrect": false
+          },
+          {
+            "text": "Les services publics ne peuvent pas fonctionner les jours de fête religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Les agents publics peuvent refuser de servir un usager pour motif de conscience",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour garantir l'égalité de traitement, les fonctionnaires doivent être neutres. Ils servent l'intérêt général sans distinction d'opinion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-071",
+        "shortId": "Q-49600E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes sans emploi et n'avez aucune ressource. Quelle aide de dernier recours pouvez-vous demander ?",
+        "choices": [
+          {
+            "text": "L'allocation chômage (ARE) dès le premier jour sans emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Revenu de Solidarité Active (RSA) si vous avez plus de 25 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Allocation de Solidarité Spécifique (ASS) pour les premiers demandeurs d'emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le minimum vieillesse (ASPA) quel que soit votre âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RSA est le minimum social de dernier recours pour les personnes de plus de 25 ans (ou avec enfant à charge) sans ressources suffisantes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-002",
+        "shortId": "Q-02645E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel rôle majeur Jean Moulin a-t-il joué dans l'Histoire de France ?",
+        "choices": [
+          {
+            "text": "Il a unifié les mouvements de la Résistance au sein du CNR (Conseil National de la Résistance)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a été le premier Premier ministre de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a rédigé la Déclaration des Droits de l'Homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a commandé le débarquement de Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Envoyé par de Gaulle, Jean Moulin a réussi à unifier les différents mouvements de résistance intérieure. Arrêté et torturé par la Gestapo, il est mort sans parler. Il est une figure héroïque nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-039",
+        "shortId": "Q-B0E151",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi la liberté de la presse est-elle fondamentale dans une démocratie ?",
+        "choices": [
+          {
+            "text": "Pour divertir la population",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour défendre le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir le pluralisme des opinions et permettre aux citoyens de se forger un avis éclairé",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour permettre aux entreprises de faire de la publicité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de la presse (loi de 1881) est un pilier de la démocratie. Elle permet le débat public, la critique du pouvoir et la diversité des idées, nécessaires au vote éclairé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-122",
+        "shortId": "Q-34E372",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans un bureau de vote, à quoi sert l'isoloir ?",
+        "choices": [
+          {
+            "text": "À garantir le secret du vote",
+            "isCorrect": true
+          },
+          {
+            "text": "À stocker les bulletins non utilisés",
+            "isCorrect": false
+          },
+          {
+            "text": "À vérifier l'identité de l'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "À compter les voix plus rapidement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret du vote est une garantie fondamentale de la liberté de l'électeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-087",
+        "shortId": "Q-0C12C3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes retraité et souhaitez cumuler votre pension avec une activité salariée. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, le cumul emploi-retraite est interdit en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le cumul est possible sous certaines conditions (plafond de revenus ou cumul intégral)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement pour les professions libérales",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation spéciale de la CNAV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le cumul emploi-retraite est autorisé. Il peut être intégral (sans plafond) si toutes les pensions ont été liquidées, ou plafonné dans certains cas."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-025",
+        "shortId": "Q-666808",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe la Nouvelle-Calédonie ?",
+        "choices": [
+          {
+            "text": "Dans l'Océan Indien",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Pacifique",
+            "isCorrect": true
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Nouvelle-Calédonie est un archipel d'Océanie, situé dans le Pacifique Sud. C'est une collectivité française à statut particulier."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-070",
+        "shortId": "Q-E04981",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un voisin affirme que payer ses impôts est facultatif. A-t-il raison ?",
+        "choices": [
+          {
+            "text": "Oui, si on n'utilise pas les services publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le paiement de l'impôt est un devoir civique obligatoire prévu par l'article 13 de la DDHC",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour les personnes à faibles revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les retraités",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 13 de la Déclaration de 1789 dispose que 'une contribution commune est indispensable'. L'impôt finance les services publics et la solidarité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-051",
+        "shortId": "Q-6E7D4A",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un sénateur en France ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "9 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans, avec un renouvellement de la moitié de l'assemblée tous les 3 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-022",
+        "shortId": "Q-78993C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que prévoit la loi sur la laïcité de 2004 dans les écoles, collèges et lycées publics ?",
+        "choices": [
+          {
+            "text": "L'interdiction totale de parler de religion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorisation de tous les signes religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction du port de signes ou tenues manifestant ostensiblement une appartenance religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de suivre des cours de religion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 15 mars 2004 interdit les signes ostentatoires (voile, kippa, grande croix) pour protéger la conscience des élèves en formation. Les signes discrets restent autorisés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-017",
+        "shortId": "Q-3DF255",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et la Suisse ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le massif du Jura s'étend le long de la frontière suisse, au nord des Alpes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-028",
+        "shortId": "Q-EA46B7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "À l'école, un élève est harcelé parce qu'il ne croit pas en Dieu. L'établissement doit-il intervenir ?",
+        "choices": [
+          {
+            "text": "Non, la religion est une affaire privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'école doit protéger la liberté de conscience de tous les élèves et sanctionner le harcèlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'athéisme n'est pas protégé",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents portent plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité garantit la liberté de croire ou de ne pas croire. L'école doit protéger les élèves contre toute forme de harcèlement discriminatoire fondé sur les convictions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-070",
+        "shortId": "Q-87F3EC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction principale du Gouvernement selon la Constitution ?",
+        "choices": [
+          {
+            "text": "Déterminer et conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les litiges administratifs",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédiger la Constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Gouvernement dispose de l'administration et de la force armée pour mener sa politique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-009",
+        "shortId": "Q-8174E9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le non-paiement de la pension alimentaire fixée par un juge constitue un délit pénal. Lequel ?",
+        "choices": [
+          {
+            "text": "L'abus de confiance",
+            "isCorrect": false
+          },
+          {
+            "text": "L'organisation frauduleuse d'insolvabilité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abandon de famille",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vol domestique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le fait de ne pas verser la pension alimentaire pendant plus de deux mois est qualifié d'abandon de famille (art. 227-3 du Code pénal), passible de 2 ans d'emprisonnement et 15 000 € d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-030",
+        "shortId": "Q-5A91BF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle cathédrale est célèbre pour ses vitraux du Moyen-Âge d'un bleu unique ?",
+        "choices": [
+          {
+            "text": "Notre-Dame de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cathédrale de Chartres",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cathédrale de Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "La Basilique Saint-Denis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le « Bleu de Chartres » est mondialement connu. La cathédrale est un chef-d'œuvre de l'art gothique classé à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-019",
+        "shortId": "Q-C1DD5D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La « Rupture Conventionnelle » du contrat de travail est :",
+        "choices": [
+          {
+            "text": "Une démission forcée",
+            "isCorrect": false
+          },
+          {
+            "text": "Un licenciement économique déguisé",
+            "isCorrect": false
+          },
+          {
+            "text": "La seule procédure permettant de rompre un CDI d'un commun accord en ouvrant droit au chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une rupture automatique après 3 absences",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement à la démission (pas de chômage) ou au licenciement (conflit/motif), la rupture conventionnelle est une séparation amiable négociée qui garantit l'indemnité chômage."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-019",
+        "shortId": "Q-309F90",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi sur la parité oblige les partis politiques à :",
+        "choices": [
+          {
+            "text": "Présenter autant de candidats femmes que d'hommes lors des élections",
+            "isCorrect": true
+          },
+          {
+            "text": "Ne présenter que des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Alterner les présidents hommes et femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer une taxe s'ils ont trop d'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Constitution favorise l'égal accès des femmes et des hommes aux mandats électoraux. Les listes électorales doivent souvent respecter une stricte alternance H/F."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-071",
+        "shortId": "Q-C4C996",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel texte de 1905 définit les relations entre l'État et les cultes ?",
+        "choices": [
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-003",
+        "shortId": "Q-6282C3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi fondamentale garantit les droits des malades (accès au dossier médical, consentement) ?",
+        "choices": [
+          {
+            "text": "La loi Veil de 1975",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Leonetti de 2005",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Kouchner du 4 mars 2002",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Touraine de 2016",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 4 mars 2002 (loi Kouchner) a marqué un tournant en plaçant le patient au cœur du système de soins, garantissant l'accès direct au dossier médical et le respect du consentement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-005",
+        "shortId": "Q-1852A4",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le plus long fleuve entièrement français ?",
+        "choices": [
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Avec ses 1 012 km, la Loire est le plus long fleuve de France. Elle est célèbre pour les châteaux royaux qui bordent sa vallée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-017",
+        "shortId": "Q-048C8C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Si vous n'avez pas de médecin traitant déclaré, quelle est la conséquence financière ?",
+        "choices": [
+          {
+            "text": "Vous ne pouvez pas être soigné",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous êtes moins bien remboursé par la Sécurité sociale (30% au lieu de 70%)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez payer une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médecin peut refuser de vous voir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ne pas déclarer de médecin traitant vous place « hors parcours de soins coordonnés ». Le remboursement de la consultation tombe alors à 30% de la base tarifaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-024",
+        "shortId": "Q-118E4D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de grève est-il illimité ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une liberté totale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il s'exerce dans le cadre des lois qui le réglementent (ex: service minimum, interdiction pour les policiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est interdit aux fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est limité à 3 jours par an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Si le droit de grève est constitutionnel, il doit être concilié avec la continuité du service public. Certains corps (militaires, policiers) en sont privés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-065",
+        "shortId": "Q-A70415",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui coordonne l'action des services de l'État à l'échelle d'une région ?",
+        "choices": [
+          {
+            "text": "Le Président du conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Recteur d'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet de région a autorité sur les préfets de département pour les politiques régionales de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-043",
+        "shortId": "Q-ED8534",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant est victime de harcèlement scolaire. L'établissement ne réagit pas. Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Porter plainte au commissariat et saisir le rectorat par courrier recommandé",
+            "isCorrect": true
+          },
+          {
+            "text": "Retirer immédiatement votre enfant de l'école sans procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter uniquement l'association de parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre la fin de l'année scolaire pour changer d'établissement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Face à l'inaction d'un établissement, les parents peuvent porter plainte (le harcèlement scolaire est un délit) et saisir le rectorat pour engager la responsabilité de l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-003",
+        "shortId": "Q-B7ED1D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité signé en 1919 a officiellement mis fin à la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Le traité de Verdun",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": true
+          },
+          {
+            "text": "L'armistice de Rethondes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Signé dans la Galerie des Glaces du château de Versailles, ce traité a imposé la paix et de lourdes sanctions à l'Allemagne. L'Alsace et la Lorraine ont été restituées à la France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-018",
+        "shortId": "Q-D3F964",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'Aide Juridictionnelle permet :",
+        "choices": [
+          {
+            "text": "D'être exempté de toute procédure judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise en charge par l'État (totale ou partielle) des frais de justice pour les personnes à faibles ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir un avocat commis d'office qui travaille gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir automatiquement un non-lieu dans une affaire pénale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État paie l'avocat et les frais de procédure (huissier, expertise) selon un barème, si le justiciable remplit les conditions de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-014",
+        "shortId": "Q-83BDCE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un candidat aux élections municipales vous propose une somme d'argent contre la promesse de votre vote. Quelle infraction commet-il ?",
+        "choices": [
+          {
+            "text": "L'abus de confiance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le détournement de fonds publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune, c'est une pratique de campagne courante",
+            "isCorrect": false
+          },
+          {
+            "text": "La corruption électorale (achat de voix)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'achat de voix est une atteinte grave à la sincérité du scrutin. La corruption électorale (achat de voix), c'est un délit passible de prison, d'amende et d'inéligibilité pour le candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-043",
+        "shortId": "Q-7B688D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe assure la neutralité de l'État vis-à-vis des convictions religieuses ?",
+        "choices": [
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité sépare l'État des organisations religieuses, garantissant la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-035",
+        "shortId": "Q-9DC671",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de contrôle d'identité par la police, êtes-vous obligé de présenter vos papiers ?",
+        "choices": [
+          {
+            "text": "Non, sauf si vous êtes en voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous devez justifier de votre identité par tout moyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, vous pouvez refuser",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si vous avez commis une infraction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lors d'un contrôle légal, vous devez justifier de votre identité (CNI, passeport, permis). À défaut, vous pouvez être retenu pour une vérification d'identité au commissariat (4h max)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-018",
+        "shortId": "Q-819C45",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se trouve le tombeau de Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Au Château de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "Sous le dôme des Invalides à Paris",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon repose aux Invalides depuis le retour de ses cendres en 1840. Le site abrite aussi le Musée de l'Armée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-003",
+        "shortId": "Q-F4C64E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Concernant le « Prélèvement à la source » de l'impôt sur le revenu :",
+        "choices": [
+          {
+            "text": "Il dispense totalement de faire une déclaration de revenus annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne s'applique qu'aux fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il supprime le quotient familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne dispense pas de la déclaration annuelle obligatoire pour régulariser la situation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Même si l'impôt est prélevé chaque mois sur le salaire, la déclaration de revenus annuelle reste obligatoire pour ajuster le taux et prendre en compte les crédits d'impôt ou changements de situation."
+      }
+    }
+  ]
+}

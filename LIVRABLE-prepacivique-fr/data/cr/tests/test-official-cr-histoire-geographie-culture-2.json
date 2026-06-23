@@ -1,0 +1,995 @@
+{
+  "slug": "test-official-cr-histoire-geographie-culture-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 29,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-histoire-official-037",
+        "shortId": "Q-B6747D",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces départements de France est le plus touristique ?",
+        "choices": [
+          {
+            "text": "La Côte-d'Or",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Bouches-du-Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "Paris (75)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Paris concentre une part immense du tourisme culturel et international en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-029",
+        "shortId": "Q-27871E",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel fleuve traverse Paris ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seine traverse la capitale française de l'est vers l'ouest avant de se jeter dans la Manche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-039",
+        "shortId": "Q-E09A1C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de personnes parlent français dans le monde ?",
+        "choices": [
+          {
+            "text": "Environ 80 millions",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 500 millions",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 320 millions",
+            "isCorrect": true
+          },
+          {
+            "text": "Environ 150 millions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "On estime à plus de 300 millions le nombre de francophones dans le monde (langue maternelle et langue seconde)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-040",
+        "shortId": "Q-4C5339",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Marguerite Yourcenar ?",
+        "choices": [
+          {
+            "text": "Une écrivaine, première femme à l'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "Une célèbre actrice de cinéma",
+            "isCorrect": false
+          },
+          {
+            "text": "Une championne olympique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une physicienne lauréate du prix Nobel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marguerite Yourcenar (1903-1987) est une grande figure littéraire française, connue pour 'Mémoires d'Hadrien'. En 1980, elle est devenue la première femme élue à l'Académie française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-034",
+        "shortId": "Q-C7D8C2",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où habite la majorité des Français ?",
+        "choices": [
+          {
+            "text": "Dans les zones rurales",
+            "isCorrect": false
+          },
+          {
+            "text": "En ville (zones urbaines)",
+            "isCorrect": true
+          },
+          {
+            "text": "À la campagne exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur le littoral uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est un pays très urbanisé, près de 80% de la population vit dans une aire urbaine."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-009",
+        "shortId": "Q-3B4E0F",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la première étape de la construction européenne en 1951 ?",
+        "choices": [
+          {
+            "text": "L'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Espace Schengen",
+            "isCorrect": false
+          },
+          {
+            "text": "La zone Euro",
+            "isCorrect": false
+          },
+          {
+            "text": "La CECA (Communauté européenne du charbon et de l'acier)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La CECA, créée en 1951, mettait en commun la production de charbon et d'acier de la France et de l'Allemagne (et 4 autres pays) pour empêcher une nouvelle guerre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-006",
+        "shortId": "Q-E4D07D",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+        "choices": [
+          {
+            "text": "Pour enseigner uniquement les conséquences économiques de la guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour transmettre la mémoire et prévenir les crimes contre l'humanité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour étudier les stratégies militaires de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour comprendre les relations diplomatiques entre la France et l'Allemagne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'enseignement de la Shoah vise à transmettre l'histoire du génocide des Juifs par les nazis et à réfléchir aux valeurs démocratiques pour empêcher que cela ne se reproduise."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-020",
+        "shortId": "Q-726E83",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que fête-t-on le 8 mai ?",
+        "choices": [
+          {
+            "text": "L'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "La Toussaint",
+            "isCorrect": false
+          },
+          {
+            "text": "La victoire de 1945 (Fin de la Seconde Guerre mondiale en Europe)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 8 mai commémore la victoire des Alliés et la capitulation de l'Allemagne nazie le 8 mai 1945, marquant la fin de la Seconde Guerre mondiale en Europe. L'Armistice de 1918 est célébré le 11 novembre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-041",
+        "shortId": "Q-A8FA47",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel peintre est français ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Salvador Dalí",
+            "isCorrect": false
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Vincent Van Gogh",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Claude Monet est l'un des fondateurs de l'impressionnisme français. (Picasso et Dalí sont espagnols, Van Gogh est néerlandais)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-019",
+        "shortId": "Q-FA4841",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "L'Afrique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Océanie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Amérique du Sud",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La majorité des anciennes colonies françaises devenues indépendantes dans les années 1950-1960 se situaient en Afrique (Afrique de l'Ouest, Afrique Équatoriale, Maghreb)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-007",
+        "shortId": "Q-AF6AF3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays a été colonisé par la France ?",
+        "choices": [
+          {
+            "text": "La Thaïlande",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Portugal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Algérie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Algérie a été une colonie de peuplement puis des départements français de 1830 jusqu'à son indépendance en 1962."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-047",
+        "shortId": "Q-F99908",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était un célèbre musicien français ?",
+        "choices": [
+          {
+            "text": "Claude Debussy",
+            "isCorrect": true
+          },
+          {
+            "text": "Wolfgang Amadeus Mozart",
+            "isCorrect": false
+          },
+          {
+            "text": "Giuseppe Verdi",
+            "isCorrect": false
+          },
+          {
+            "text": "Ludwig van Beethoven",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Claude Debussy (1862-1918) est un compositeur français influent, souvent associé à l'impressionnisme musical."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-004",
+        "shortId": "Q-82AB6B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages a un lien avec la République française ?",
+        "choices": [
+          {
+            "text": "Clovis",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marianne est la figure allégorique de la République française, portant le bonnet phrygien, symbole de liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-032",
+        "shortId": "Q-C65148",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où se trouvent les principales activités économiques en France ?",
+        "choices": [
+          {
+            "text": "Dans les régions frontalières uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les grandes métropoles (Paris, Lyon, Marseille...)",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les zones rurales de l'Ouest",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les régions du Sud exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'activité économique se concentre majoritairement dans les grandes aires urbaines qui regroupent emplois, services et industries."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-022",
+        "shortId": "Q-748E41",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "Le Portugal",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Italie",
+            "isCorrect": true
+          },
+          {
+            "text": "La Grèce",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Italie partage une frontière avec la France dans les Alpes, au sud-est."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-044",
+        "shortId": "Q-D0C929",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+        "choices": [
+          {
+            "text": "5ème",
+            "isCorrect": true
+          },
+          {
+            "text": "1ère",
+            "isCorrect": false
+          },
+          {
+            "text": "2ème",
+            "isCorrect": false
+          },
+          {
+            "text": "20ème",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le français est généralement classé 5ème langue mondiale par nombre total de locuteurs (après l'anglais, le chinois, l'hindi, l'espagnol)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-002",
+        "shortId": "Q-ACEAEF",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel roi de France a été exécuté pendant la Révolution française ?",
+        "choices": [
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Louis XVI a été guillotiné le 21 janvier 1793 sur la place de la Révolution à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-027",
+        "shortId": "Q-35540B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île française se trouve dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Réunion est un département et région d'outre-mer situé dans l'hémisphère sud, dans l'océan Indien."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-010",
+        "shortId": "Q-F17EAA",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+        "choices": [
+          {
+            "text": "Jacques Chirac",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": true
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi portant abolition de la peine de mort a été promulguée le 9 octobre 1981, au début du premier mandat de François Mitterrand."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-018",
+        "shortId": "Q-F5C5DB",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où a eu lieu le débarquement en 1944 ?",
+        "choices": [
+          {
+            "text": "Dans le Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "En Normandie",
+            "isCorrect": true
+          },
+          {
+            "text": "En Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "En Corse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le débarquement allié du 6 juin 1944 s'est déroulé sur les plages de Normandie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-017",
+        "shortId": "Q-B33596",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a commencé la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "En 1939",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1914",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Première Guerre mondiale a débuté à l'été 1914 et s'est achevée par l'armistice du 11 novembre 1918."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-035",
+        "shortId": "Q-B2D846",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle région est la plus peuplée ?",
+        "choices": [
+          {
+            "text": "Le Centre-Val de Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Bourgogne-Franche-Comté",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Île-de-France",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Île-de-France, qui inclut Paris, est de loin la région la plus peuplée avec environ 12 millions d'habitants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-036",
+        "shortId": "Q-C3C8DB",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+        "choices": [
+          {
+            "text": "Colmar",
+            "isCorrect": false
+          },
+          {
+            "text": "Biarritz",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          },
+          {
+            "text": "Carcassonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Toulouse est la 4ème ville de France et une métropole majeure, contrairement aux autres villes citées qui sont plus petites."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-049",
+        "shortId": "Q-A653AE",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle fête est française ?",
+        "choices": [
+          {
+            "text": "La Fête nationale du 14 juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "Thanksgiving",
+            "isCorrect": false
+          },
+          {
+            "text": "La Saint-Patrick",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 4 juillet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-031",
+        "shortId": "Q-65C893",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+        "choices": [
+          {
+            "text": "L'Irlande",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Allemagne partage une frontière avec la France au nord-est (Alsace/Lorraine)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-042",
+        "shortId": "Q-260B98",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel musée est situé à Paris ?",
+        "choices": [
+          {
+            "text": "Le Musée Guggenheim",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Prado",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ermitage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Musée d'Orsay, situé à Paris dans une ancienne gare, abrite la plus grande collection d'art impressionniste au monde."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-025",
+        "shortId": "Q-20F703",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est ce que la France d'outre-mer ?",
+        "choices": [
+          {
+            "text": "Les anciennes colonies indépendantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les pays francophones voisins",
+            "isCorrect": false
+          },
+          {
+            "text": "Les ambassades françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Les territoires français situés hors du continent européen",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France d'outre-mer (DROM-COM) comprend des territoires comme la Guadeloupe, la Martinique, la Guyane, la Réunion, Mayotte, etc."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-030",
+        "shortId": "Q-6F6A39",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+        "choices": [
+          {
+            "text": "Le Danemark",
+            "isCorrect": false
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Hongrie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Belgique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Belgique est limitrophe de la France au nord."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-official-048",
+        "shortId": "Q-B05A56",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Auguste Renoir ?",
+        "choices": [
+          {
+            "text": "Un écrivain réaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Un compositeur de musique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un architecte",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre impressionniste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pierre-Auguste Renoir est un peintre français célèbre pour ses portraits et scènes de la vie quotidienne."
+      }
+    }
+  ]
+}

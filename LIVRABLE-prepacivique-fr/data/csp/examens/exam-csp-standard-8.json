@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-8",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-038",
+        "shortId": "Q-550248",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi la liberté de la presse est-elle importante ?",
+        "choices": [
+          {
+            "text": "Pour que les journaux soient distribués gratuitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour permettre uniquement la publicité des entreprises",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir l'information libre et le débat démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour interdire aux citoyens de s'exprimer eux-mêmes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une presse libre est une condition indispensable pour que les citoyens puissent surveiller l'action du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-029",
+        "shortId": "Q-FB26BF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de base pour contracter un mariage en France ?",
+        "choices": [
+          {
+            "text": "Le choix exclusif par les parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Le consentement libre et éclairé des deux époux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de posséder un emploi stable",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement d'une taxe à la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi interdit le mariage forcé ; le consentement mutuel est indispensable."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-029",
+        "shortId": "Q-E70B26",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit l'Assurance Maladie à travers la carte Vitale ?",
+        "choices": [
+          {
+            "text": "La prise en charge intégrale de tous les frais de logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le remboursement d'une partie des soins médicaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le versement d'un revenu mensuel à chaque résident",
+            "isCorrect": false
+          },
+          {
+            "text": "La gratuité des transports en commun pour les assurés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La solidarité nationale permet de mutualiser les frais de santé pour que chacun puisse se soigner."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-056",
+        "shortId": "Q-B3352F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez faire grève pour vos salaires. En avez-vous le droit ?",
+        "choices": [
+          {
+            "text": "Non, c'est un motif de licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le patron est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est un droit constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais il faut travailler quand même",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de grève est garanti par le Préambule de la Constitution de 1946. Un salarié gréviste ne peut pas être licencié pour avoir exercé ce droit, sauf en cas de faute lourde."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-059",
+        "shortId": "Q-3A6FD5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le mariage homosexuel a été autorisé en :",
+        "choices": [
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "2013 (Loi Taubira)",
+            "isCorrect": true
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "2000",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France reconnaît le mariage pour tous les couples de même sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-006",
+        "shortId": "Q-114032",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi le paiement des impôts est-il une obligation pour les citoyens ?",
+        "choices": [
+          {
+            "text": "Pour participer au financement des services publics et de la solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour financer exclusivement les organisations internationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour rembourser la dette publique contractée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est une taxe facultative pour les personnes riches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'impôt permet à l'État et aux collectivités d'assurer l'éducation, la santé, la police et les infrastructures."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-049",
+        "shortId": "Q-A9CE94",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelle est la règle concernant le port du voile intégral (burqa, niqab) dans l'espace public en France ?",
+        "choices": [
+          {
+            "text": "Il est interdit par la loi car la dissimulation du visage entrave les exigences de la sécurité publique et de la vie en société.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire pour toutes les femmes d'origine étrangère par respect pour leurs traditions.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé uniquement dans les parcs publics et les jardins privés de l'État.",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi l'autorise si la personne porte un badge avec son nom et son adresse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2010 interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les principes de la vie en commun."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-060",
+        "shortId": "Q-5EB0D4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dissimuler son visage dans l'espace public (rue, commerces) est :",
+        "choices": [
+          {
+            "text": "Encouragé pour la protection des données",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire durant les périodes de grand froid",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé pour des motifs religieux personnels",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit par la loi pour la sécurité et la vie sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 2010 interdit de masquer son visage dans les lieux publics pour garantir le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-042",
+        "shortId": "Q-43D7AD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île française est surnommée l'Île de Beauté ?",
+        "choices": [
+          {
+            "text": "L'île de Ré",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "Belle-Île-en-Mer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Corse est située en Méditerranée. Elle est célèbre pour ses montagnes et ses plages."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-012",
+        "shortId": "Q-AF8D35",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans le cadre de la laïcité, l'État français finance-t-il la construction de nouveaux édifices cultuels (mosquées, églises, synagogues) ?",
+        "choices": [
+          {
+            "text": "Oui, l'État a l'obligation de construire des lieux de culte pour chaque religion recensée.",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si la commune possède plus de 50 000 habitants.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État finance 50% des coûts pour garantir l'égalité entre les croyants.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi de 1905 prévoit que la République ne salarie ni ne subventionne aucun culte.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation des Églises et de l'État implique que le financement des lieux de culte relève des associations cultuelles et non des fonds publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-054",
+        "shortId": "Q-6714B7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un conducteur s'enfuit après avoir accroché une voiture. C'est :",
+        "choices": [
+          {
+            "text": "Un délit de fuite puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une contravention simple passible d'une amende de 35 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal s'il n'y a pas de blessé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte sans conséquence pénale si personne n'a été blessé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le délit de fuite est un délit pénal passible de 3 ans d'emprisonnement et 75 000 € d'amende, que l'accident ait causé des blessures ou de simples dégâts matériels."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-050",
+        "shortId": "Q-72DBE4",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région française est située à l'extrême nord et possède une frontière avec la Belgique ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Hauts-de-France",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Occitanie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nouvelle-Aquitaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Hauts-de-France regroupent les anciennes régions Nord-Pas-de-Calais et Picardie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-032",
+        "shortId": "Q-948760",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 14 juillet en France ?",
+        "choices": [
+          {
+            "text": "La fête nationale, symbole de l'unité et de la liberté",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "La journée de la Libération de Paris en 1944",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette date commémore la prise de la Bastille (1789) et la fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-056",
+        "shortId": "Q-C3D0E6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juge les conflits entre les citoyens et l'administration ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La police municipale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le juge administratif vérifie que l'État et les communes respectent la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-034",
+        "shortId": "Q-1CB214",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez organiser une fête bruyante. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Ne rien dire et monter le son au maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Prévenir vos voisins et baisser le son à partir de 22h pour éviter le tapage",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander une autorisation écrite à la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Organiser la fête uniquement en journée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le tapage nocturne est interdit. La courtoisie est essentielle pour le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-021",
+        "shortId": "Q-3C5C57",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a eu lieu le Débarquement allié en Normandie pour libérer la France ?",
+        "choices": [
+          {
+            "text": "1944",
+            "isCorrect": true
+          },
+          {
+            "text": "1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 6 juin 1944, les Alliés ont débarqué sur les plages normandes pour mettre fin à l'occupation nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-044",
+        "shortId": "Q-24A353",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour voter aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Être de nationalité française et résider en France depuis 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge et un emploi stable",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen français, majeur et inscrit sur les listes",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué le service civique et obtenu un certificat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel : chaque citoyen majeur dispose d'une voix."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-017",
+        "shortId": "Q-BCB31E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui sont les électeurs qui choisissent les députés ?",
+        "choices": [
+          {
+            "text": "Les conseillers municipaux et les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les ministres du gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens français inscrits sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les grands électeurs désignés par le Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par l'ensemble des citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-021",
+        "shortId": "Q-C233D2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous entendez une sirène sonore le premier mercredi du mois à midi. Qu'est-ce que c'est ?",
+        "choices": [
+          {
+            "text": "Un test mensuel du Système d'Alerte (SAIP)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une alerte d'attaque nucléaire imminente",
+            "isCorrect": false
+          },
+          {
+            "text": "Une alerte météorologique importante",
+            "isCorrect": false
+          },
+          {
+            "text": "Une panne du système électrique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Chaque premier mercredi du mois, les sirènes sont testées en France pour vérifier le bon fonctionnement de l'alerte nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-029",
+        "shortId": "Q-2FC593",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui était Jeanne d'Arc ?",
+        "choices": [
+          {
+            "text": "Une héroïne médiévale qui a combattu pour libérer la France au XVe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "La femme de Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre écrivaine du Siècle des Lumières",
+            "isCorrect": false
+          },
+          {
+            "text": "La fondatrice de l'Académie française au XVIIe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Jeanne d'Arc a aidé le roi Charles VII à reprendre le trône contre les Anglais pendant la guerre de Cent Ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-075",
+        "shortId": "Q-D84C1B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande pourquoi l'école est gratuite en France. Quelle est la raison ?",
+        "choices": [
+          {
+            "text": "Parce que les entreprises locales financent directement les écoles de leur quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que l'État n'a pas le droit de demander de l'argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour que tous les enfants puissent apprendre, qu'ils soient riches ou pauvres",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce que les parents paient les frais de scolarité sous forme d'impôts locaux dédiés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique est gratuite pour garantir l'égalité des chances. Chaque enfant a le droit d'apprendre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-066",
+        "shortId": "Q-ABB825",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces actes est obligatoire pour un citoyen ?",
+        "choices": [
+          {
+            "text": "S'inscrire sur les listes électorales dès 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Appartenir à un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Contribuer aux charges publiques (impôts)",
+            "isCorrect": true
+          },
+          {
+            "text": "Participer à la Journée Défense et Citoyenneté chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Payer ses impôts est une obligation légale pour financer la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-018",
+        "shortId": "Q-009732",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une femme porte un voile intégral (qui cache le visage) dans une administration. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Oui, c'est la liberté religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi interdit de cacher son visage dans l'espace public",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si elle a une autorisation médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement dans les zones rurales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 2010 interdit la dissimulation du visage dans l'espace public pour des raisons de sécurité et de vie sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-051",
+        "shortId": "Q-BB06CB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 11 novembre en France ?",
+        "choices": [
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre est un jour de mémoire pour tous les soldats morts pour la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-021",
+        "shortId": "Q-1FDA8B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document de santé est nécessaire pour prouver que l'on a fait les vaccins obligatoires ?",
+        "choices": [
+          {
+            "text": "Le carnet de santé ou un certificat de vaccination",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte Vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'attestation de droits de la sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le carnet de santé contient l'historique médical et les preuves de vaccination indispensables, notamment pour l'inscription à l'école ou en crèche."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-030",
+        "shortId": "Q-5DB29A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la laïcité pour un élève dans une école publique. Quelle est la règle sur les signes religieux ?",
+        "choices": [
+          {
+            "text": "Le port de signes ou tenues manifestant ostensiblement une appartenance religieuse est interdit.",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les signes religieux sont autorisés s'ils sont fabriqués en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut porter un signe religieux visible si ses parents en font la demande écrite au directeur.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les signes religieux sont autorisés dans les lycées mais interdits dans les collèges et écoles primaires.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2004 vise à protéger les mineurs et la neutralité de l'enseignement. Les signes discrets (petites médailles) restent autorisés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-012",
+        "shortId": "Q-B668A4",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le pouvoir qui fait appliquer les lois ?",
+        "choices": [
+          {
+            "text": "Le pouvoir exécutif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir médiatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pouvoir exécutif est détenu par le Président de la République et le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-068",
+        "shortId": "Q-963F15",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte. Votre employeur peut-il vous licencier pendant votre grossesse ?",
+        "choices": [
+          {
+            "text": "Non, la femme enceinte est protégée par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si l'entreprise a des difficultés",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pendant les 3 premiers mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si elle est absente trop souvent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège les femmes enceintes contre le licenciement pendant la grossesse et le congé maternité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-027",
+        "shortId": "Q-870BD1",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fromage de Normandie est mondialement connu et protégé par une boîte en bois ronde ?",
+        "choices": [
+          {
+            "text": "Le Roquefort",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Comté",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Camembert",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Reblochon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Camembert de Normandie est l'un des emblèmes de la gastronomie française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-053",
+        "shortId": "Q-E908B8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'ADEME ?",
+        "choices": [
+          {
+            "text": "L'agence de la transition écologique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Agence régionale de santé (ARS)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autorité de régulation des transports",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse nationale d'assurance vieillesse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ADEME participe à la mise en œuvre des politiques publiques dans les domaines de l'environnement, de l'énergie et du développement durable."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-076",
+        "shortId": "Q-FAF2FD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie 'République démocratique'. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "Le pouvoir appartient au peuple qui choisit ses représentants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir appartient à une seule personne, le Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est exercé par le Premier ministre sans obligation de consulter le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est confié à des experts et techniciens nommés par le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans une démocratie, le peuple est souverain. Il choisit par le vote les personnes qui dirigent le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-018",
+        "shortId": "Q-B399C7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés ?",
+        "choices": [
+          {
+            "text": "Le Conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie centrale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale est l'une des deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-061",
+        "shortId": "Q-09E029",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment est désigné le maire d'une commune ?",
+        "choices": [
+          {
+            "text": "Il est nommé directement par le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est choisi par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par les députés du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par le conseil municipal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les citoyens élisent les conseillers municipaux, qui élisent ensuite le maire parmi eux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-055",
+        "shortId": "Q-5E14FD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, une loi très importante a été votée concernant les religions. Laquelle ?",
+        "choices": [
+          {
+            "text": "La loi sur le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'école gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur la liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi fonde la laïcité française : l'État est neutre et garantit la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-002",
+        "shortId": "Q-65B126",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de préavis standard pour un locataire quittant un logement vide en zone non tendue ?",
+        "choices": [
+          {
+            "text": "1 semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour un logement vide, le préavis est généralement de 3 mois, sauf en zone tendue ou cas particuliers (mutation, perte d'emploi) où il est réduit à 1 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-015",
+        "shortId": "Q-A82168",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir pourquoi le français est la seule langue utilisée dans les tribunaux et l'administration. Que dit la Constitution ?",
+        "choices": [
+          {
+            "text": "L'usage du français est une tradition orale sans fondement juridique écrit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les langues régionales sont interdites par la loi dans toute la sphère privée.",
+            "isCorrect": false
+          },
+          {
+            "text": "La langue de la République est le français, garantissant l'unité de la Nation et l'égalité d'accès au droit.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'administration choisit la langue la plus utilisée par la population locale.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution établit le français comme langue officielle pour assurer une compréhension mutuelle et une égalité devant les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-004",
+        "shortId": "Q-1D5366",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe le siège officiel de la Présidence de la République ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Palais de l'Élysée est le lieu de travail et la résidence officielle du Chef de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-050",
+        "shortId": "Q-DC6F0B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel but est organisée la solidarité nationale (République sociale) ?",
+        "choices": [
+          {
+            "text": "Pour garantir l'égalité des chances à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour contrôler la vie privée des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour aider les plus démunis et protéger contre les risques",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour financer exclusivement les projets militaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État social assure à chacun des conditions de vie dignes par la redistribution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-003",
+        "shortId": "Q-B91175",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Paix, Travail, Famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Justice, Solidarité, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Héritée de la Révolution, cette devise définit les valeurs fondamentales partagées par tous les citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-040",
+        "shortId": "Q-7DE0B1",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif du 'Dossier Médical Partagé' (Mon espace santé) ?",
+        "choices": [
+          {
+            "text": "Partager ses résultats d'analyses avec sa mutuelle complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder à son historique médical depuis n'importe quel hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une réduction sur les médicaments génériques",
+            "isCorrect": false
+          },
+          {
+            "text": "Centraliser vos informations de santé pour les partager avec vos médecins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Mon espace santé est un carnet de santé numérique sécurisé qui permet aux professionnels de santé de mieux vous soigner grâce à l'historique médical."
+      }
+    }
+  ]
+}

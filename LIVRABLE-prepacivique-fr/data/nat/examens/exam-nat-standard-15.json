@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-15",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-019",
+        "shortId": "Q-5B3D13",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une discussion, quelqu'un nie l'existence des chambres à gaz pendant la Seconde Guerre mondiale. Est-ce une opinion libre ?",
+        "choices": [
+          {
+            "text": "Oui, chacun peut réécrire l'histoire",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une opinion choquante mais légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit de négationnisme puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend si les propos sont tenus en public ou en privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi Gayssot (1990) fait du négationnisme (contestation des crimes contre l'humanité jugés à Nuremberg) un délit pénal, et non une simple opinion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-033",
+        "shortId": "Q-FDFFE8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez changer le prénom de votre enfant mineur. Quelle est la procédure ?",
+        "choices": [
+          {
+            "text": "Une demande à l'officier d'état civil de la mairie (procédure simplifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande auprès du juge aux affaires familiales uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte notarié suivi d'une publication au Journal Officiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une requête au Procureur de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2017, le changement de prénom peut se faire directement en mairie par simple demande à l'officier d'état civil."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-042",
+        "shortId": "Q-77E3A4",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une patiente à l'hôpital public refuse d'être soignée par un médecin homme pour raisons religieuses. L'établissement peut-il garantir ce choix ?",
+        "choices": [
+          {
+            "text": "Oui, le patient a toujours le droit de choisir son médecin",
+            "isCorrect": false
+          },
+          {
+            "text": "Non obligatoirement, le service public doit assurer les soins mais ne peut garantir le choix du praticien selon des critères religieux",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle paie un supplément",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la demande est illégale et la patiente peut être renvoyée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le service public hospitalier doit traiter tous les patients égalitairement. Il peut tenter de s'adapter si l'organisation le permet, mais aucun droit opposable au choix du praticien sur critère religieux n'existe."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-054",
+        "shortId": "Q-D760D3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en désaccord avec une décision de la CAF (allocations familiales). Quel est le premier recours à exercer ?",
+        "choices": [
+          {
+            "text": "Adresser un recours amiable à la commission de recours amiable (CRA) de la CAF",
+            "isCorrect": true
+          },
+          {
+            "text": "Saisir directement le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Défenseur des droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Contester auprès du médiateur de la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Avant tout recours contentieux, il faut obligatoirement saisir la commission de recours amiable (CRA) de l'organisme concerné dans un délai de 2 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-034",
+        "shortId": "Q-F91554",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La torture et la peine de mort sont :",
+        "choices": [
+          {
+            "text": "Autorisées pour les terroristes",
+            "isCorrect": false
+          },
+          {
+            "text": "Totalement interdites en France et par la Convention européenne des droits de l'homme",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisées en temps de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Décidées par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France a aboli la peine de mort en 1981. L'interdiction de la torture et des traitements inhumains est un principe absolu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-017",
+        "shortId": "Q-076979",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière d'égalité salariale, quelle obligation ont les entreprises de plus de 50 salariés ?",
+        "choices": [
+          {
+            "text": "Aucune obligation, le salaire est libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Verser une prime aux femmes uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Publier chaque année leur Index de l'égalité professionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Embaucher autant d'hommes que de femmes strictement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Index de l'égalité professionnelle (sur 100 points) mesure les écarts de rémunération. En dessous de 75 points, l'entreprise doit prendre des mesures correctives sous peine de sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-032",
+        "shortId": "Q-297BBF",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous souhaitez prendre un jour de congé pour une fête religieuse qui n'est pas fériée (ex: Aïd, Yom Kippour). Votre employeur peut-il refuser ?",
+        "choices": [
+          {
+            "text": "Non, la liberté religieuse est absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les nécessités du service le justifient (désorganisation de l'entreprise)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car seules les fêtes catholiques sont autorisées",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit automatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Si le salarié a le droit de demander congé pour motif religieux, l'employeur peut refuser si l'absence perturbe le bon fonctionnement du service, sans que cela soit discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-003",
+        "shortId": "Q-6282C3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi fondamentale garantit les droits des malades (accès au dossier médical, consentement) ?",
+        "choices": [
+          {
+            "text": "La loi Veil de 1975",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Leonetti de 2005",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Kouchner du 4 mars 2002",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Touraine de 2016",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 4 mars 2002 (loi Kouchner) a marqué un tournant en plaçant le patient au cœur du système de soins, garantissant l'accès direct au dossier médical et le respect du consentement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-022",
+        "shortId": "Q-50E3EA",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le principe de « non-rétroactivité » de la loi pénale ?",
+        "choices": [
+          {
+            "text": "On ne peut pas être condamné pour un acte qui n'était pas interdit par la loi au moment où il a été commis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une loi ne s'applique qu'aux personnes nées après sa promulgation",
+            "isCorrect": false
+          },
+          {
+            "text": "On ne peut pas faire appel d'un jugement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi change tous les ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour garantir la sécurité juridique, une nouvelle loi pénale plus sévère ne peut pas s'appliquer à des faits passés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-037",
+        "shortId": "Q-148AB5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous licencie pour motif personnel. Quel est le préavis légal si vous avez 3 ans d'ancienneté ?",
+        "choices": [
+          {
+            "text": "1 mois de préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois de préavis pour les cadres uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préavis dépend uniquement de la convention collective",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois de préavis",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préavis légal est de 2 mois pour les salariés ayant 2 ans ou plus d'ancienneté, sauf disposition conventionnelle plus favorable."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-011",
+        "shortId": "Q-1894C7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle d'identité, un policier exige de connaître votre appartenance religieuse. Devez-vous répondre ?",
+        "choices": [
+          {
+            "text": "Oui, vous devez répondre à toutes les questions d'un policier",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous portez un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du contexte sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, cette question est illégale et porte atteinte à votre vie privée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les forces de l'ordre n'ont pas le droit de ficher ou d'interroger les citoyens sur leurs opinions religieuses, politiques ou syndicales lors d'un simple contrôle d'identité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-082",
+        "shortId": "Q-E26541",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient la souveraineté nationale en France ?",
+        "choices": [
+          {
+            "text": "Le peuple français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon la Constitution, la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-061",
+        "shortId": "Q-004F47",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes homosexuel(le) et souhaitez vous marier en France. Quels sont vos droits ?",
+        "choices": [
+          {
+            "text": "Le mariage entre personnes de même sexe n'est pas autorisé en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est ouvert aux couples de même sexe avec tous les droits du mariage",
+            "isCorrect": true
+          },
+          {
+            "text": "Seul le PACS est possible pour les couples homosexuels",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est possible mais sans droit d'adoption",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 17 mai 2013 (mariage pour tous), les couples de même sexe peuvent se marier en France avec tous les droits afférents (nom, succession, adoption, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-013",
+        "shortId": "Q-E33751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Sur un réseau social public, un individu publie des propos incitant à la haine raciale. Comment la loi considère-t-elle cet acte ?",
+        "choices": [
+          {
+            "text": "Comme un délit pénal, la liberté d'expression ayant pour limite le respect d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Comme une opinion protégée par la liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme une faute civile uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme un acte légal tant qu'il n'y a pas d'appel au meurtre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression n'est pas absolue. L'injure raciste, la diffamation et l'incitation à la haine sont des délits punis par la loi (Loi sur la presse de 1881)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-029",
+        "shortId": "Q-233788",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le lieu de résidence et de travail officiel du Président de la République ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Palais de l'Élysée est le siège de la présidence de la République française depuis 1848."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-090",
+        "shortId": "Q-0C7055",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes fonctionnaire et souhaitez créer une entreprise en parallèle. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Non, les fonctionnaires ont une interdiction absolue de cumul d'activités",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sous réserve d'une déclaration préalable à l'autorité hiérarchique et du respect de certaines conditions",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sans aucune restriction depuis 2020",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les enseignants du secondaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les fonctionnaires peuvent exercer une activité accessoire ou créer une entreprise sous conditions. Une déclaration préalable est obligatoire et certaines activités sont interdites."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-011",
+        "shortId": "Q-0AAD97",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, à qui appartient la souveraineté nationale ?",
+        "choices": [
+          {
+            "text": "Au Peuple, qui l'exerce par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux juges constitutionnels",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple. Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-104",
+        "shortId": "Q-F4D24E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des missions principales du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Présider le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget au Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Coordonner et diriger l'action gouvernementale",
+            "isCorrect": true
+          },
+          {
+            "text": "Rendre la justice au nom du peuple",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Premier ministre assure l'exécution des lois et dirige l'action des ministres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-007",
+        "shortId": "Q-992FD0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe régit le fonctionnement du Service Public en France ?",
+        "choices": [
+          {
+            "text": "La rentabilité financière avant tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de continuité et d'égalité devant le service public",
+            "isCorrect": true
+          },
+          {
+            "text": "La préférence nationale pour l'accès aux services",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève illimité sans service minimum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le service public repose sur trois lois (Lois de Rolland) : Continuité (fonctionner tout le temps), Mutabilité (s'adapter) et Égalité (traiter tous les usagers de la même façon)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-031",
+        "shortId": "Q-7F99C1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a fondé l'école publique, gratuite, laïque et obligatoire dans les années 1880 ?",
+        "choices": [
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Jules Ferry",
+            "isCorrect": true
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les lois Jules Ferry (1881-1882) sont le socle de l'instruction républicaine, permettant à tous les enfants d'accéder à l'éducation sans influence religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-053",
+        "shortId": "Q-8DC5D4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vers quel type de juridiction se tourne-t-on pour un litige entre personnes privées ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "La Chambre régionale des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire (Tribunal judiciaire)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La justice judiciaire traite les contentieux civils (contrats, famille) et les affaires pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-035",
+        "shortId": "Q-9DC671",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de contrôle d'identité par la police, êtes-vous obligé de présenter vos papiers ?",
+        "choices": [
+          {
+            "text": "Non, sauf si vous êtes en voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous devez justifier de votre identité par tout moyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, vous pouvez refuser",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si vous avez commis une infraction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lors d'un contrôle légal, vous devez justifier de votre identité (CNI, passeport, permis). À défaut, vous pouvez être retenu pour une vérification d'identité au commissariat (4h max)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-015",
+        "shortId": "Q-837D3F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La « Marseillaise », hymne national français, était à l'origine :",
+        "choices": [
+          {
+            "text": "Une chanson à boire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chant de paix",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chant de guerre pour l'Armée du Rhin",
+            "isCorrect": true
+          },
+          {
+            "text": "Un poème romantique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Composée par Rouget de Lisle en 1792 à Strasbourg, c'était un chant patriotique pour galvaniser les troupes révolutionnaires face à l'invasion étrangère."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-092",
+        "shortId": "Q-348143",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental de 1789 est cité dans le préambule de la Constitution française ?",
+        "choices": [
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loi salique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte pose les bases des droits inaliénables de chaque individu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-021",
+        "shortId": "Q-B525A7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous avez fait l'objet d'une condamnation pénale. La 'réhabilitation' qui efface cette condamnation du casier judiciaire peut être obtenue :",
+        "choices": [
+          {
+            "text": "Automatiquement après un certain délai (réhabilitation légale) ou par demande au tribunal (réhabilitation judiciaire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement par grâce présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si la victime retire sa plainte",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais pour les délits, uniquement pour les contraventions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La réhabilitation efface la condamnation. Elle peut être 'légale' (automatique après un délai sans nouvelle infraction) ou 'judiciaire' (accordée par la chambre de l'instruction sur demande de l'intéressé après un délai d'épreuve)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-055",
+        "shortId": "Q-602CDD",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens veut organiser un référendum local pour abroger une loi nationale. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, la démocratie locale prime",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le peuple français dans son ensemble peut modifier une loi nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si plus de 50% de la commune vote favorablement",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de l'accord du Préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le caractère indivisible de la République interdit qu'une collectivité locale modifie les lois nationales. La souveraineté législative appartient à la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-096",
+        "shortId": "Q-EA55A5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Parmi ces propositions, laquelle est un devoir du citoyen ?",
+        "choices": [
+          {
+            "text": "Partir en vacances chaque année",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir une opinion politique identique au Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter les lois et contribuer aux charges publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Pratiquer une religion d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté implique des droits, mais aussi des obligations comme le respect des règles communes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-011",
+        "shortId": "Q-A74B67",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui détient le « monopole de la violence légitime » ?",
+        "choices": [
+          {
+            "text": "Les citoyens en cas de légitime défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sociétés de sécurité privées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État (Police et Gendarmerie)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'armée uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Selon Max Weber, l'État est la seule entité autorisée à utiliser la force physique pour maintenir l'ordre et faire appliquer la loi. Se faire justice soi-même est interdit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-016",
+        "shortId": "Q-BDE340",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Shoah ?",
+        "choices": [
+          {
+            "text": "La bataille décisive pour la libération de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exode des Français en 1940 face à l'avancée allemande",
+            "isCorrect": false
+          },
+          {
+            "text": "L'extermination systématique des Juifs par les nazis",
+            "isCorrect": true
+          },
+          {
+            "text": "Le nom de code du débarquement en Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Shoah désigne le génocide des Juifs perpétré par le régime nazi et ses collaborateurs pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-017",
+        "shortId": "Q-C72B8F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À remplacer une pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À obtenir automatiquement la gratuité des médicaments",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder gratuitement aux transports publics",
+            "isCorrect": false
+          },
+          {
+            "text": "À transmettre les informations nécessaires au remboursement des soins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La carte Vitale permet de transmettre plus facilement les informations utiles à l'Assurance maladie et d'accélérer le remboursement des soins. Elle ne remplace pas une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-017",
+        "shortId": "Q-86FDEC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "choices": [
+          {
+            "text": "Les Misérables",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Fleurs du mal",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Malade imaginaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est l'auteur des *Misérables*, publié en 1862. *L'Étranger* est de Camus, *Les Fleurs du mal* de Baudelaire, et *Le Malade imaginaire* de Molière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-018",
+        "shortId": "Q-FC7149",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert une mutuelle santé ?",
+        "choices": [
+          {
+            "text": "À compléter les remboursements de l'Assurance maladie",
+            "isCorrect": true
+          },
+          {
+            "text": "À verser les allocations chômage",
+            "isCorrect": false
+          },
+          {
+            "text": "À se substituer au régime obligatoire d'Assurance maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les pensions de retraite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Une mutuelle santé est une complémentaire: elle peut rembourser tout ou partie des frais restant après l'intervention de l'Assurance maladie. Elle complète donc le régime obligatoire sans le remplacer."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-018",
+        "shortId": "Q-6B5F69",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays a été une colonie française ?",
+        "choices": [
+          {
+            "text": "Le Brésil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Angola",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Éthiopie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénégal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Sénégal a été une colonie française jusqu'à son indépendance en 1960. L'Éthiopie n'a jamais été colonisée, le Brésil était portugais et l'Angola portugais."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-019",
+        "shortId": "Q-F25F1F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le tiers payant ?",
+        "choices": [
+          {
+            "text": "Le paiement direct des soins par l'employeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de ne régler qu'un tiers du tarif de la consultation",
+            "isCorrect": false
+          },
+          {
+            "text": "La dispense d'avance des frais couverts par l'Assurance maladie et parfois la mutuelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Le paiement fractionné des soins en trois échéances",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le tiers payant permet au patient de ne pas avancer les sommes prises en charge par l'Assurance maladie et, selon les cas, par la mutuelle. Il ne s'agit ni d'une réduction du tarif ni d'un paiement échelonné."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-019",
+        "shortId": "Q-D9F4A9",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1944",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est à la suite du référendum de 1962, voulu par le général de Gaulle, que l'élection du président au suffrage universel direct a été instaurée (première élection en 1965)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-020",
+        "shortId": "Q-D53522",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'inscription à l'Assurance maladie est :",
+        "choices": [
+          {
+            "text": "Réservée uniquement aux citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "Facultative lorsqu'on dispose déjà d'une mutuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire pour toute personne travaillant ou résidant en France de manière stable et régulière",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée uniquement aux personnes salariées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Protection Universelle Maladie (PUMA) garantit à toute personne travaillant ou résidant en France de manière stable et régulière la prise en charge de ses frais de santé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-020",
+        "shortId": "Q-2AA0BB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'Union européenne a-t-elle été fondée ?",
+        "choices": [
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "En 2002",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1992",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Union européenne (UE) en tant que telle a été créée par le traité de Maastricht signé en 1992 (entré en vigueur en 1993). La CEE datait de 1957."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-021",
+        "shortId": "Q-CB62D2",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1939 - 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "1914 - 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1870 - 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1954 - 1962",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-022",
+        "shortId": "Q-A9FF26",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1789 - 1799",
+            "isCorrect": false
+          },
+          {
+            "text": "1939 - 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1870 - 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1914 - 1918",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-023",
+        "shortId": "Q-D26F34",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sous quel président a été abolie la peine de mort en France ?",
+        "choices": [
+          {
+            "text": "Jacques Chirac",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": true
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La peine de mort a été abolie en 1981, peu après l'élection de François Mitterrand, grâce à la loi portée par Robert Badinter."
+      }
+    }
+  ]
+}

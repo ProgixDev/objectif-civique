@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-1",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-012",
+        "shortId": "Q-771751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre enfant vient d'avoir 16 ans. Quelle démarche citoyenne obligatoire doit-il effectuer à la mairie ?",
+        "choices": [
+          {
+            "text": "S'inscrire au permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander sa carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer ses premiers impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recensement citoyen est obligatoire à 16 ans. Il permet d'être convoqué à la Journée Défense et Citoyenneté (JDC) et d'être inscrit d'office sur les listes électorales à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-014",
+        "shortId": "Q-373D12",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un magasin, un vigile vous demande de vider vos poches et de le suivre dans un local. Quels sont vos droits ?",
+        "choices": [
+          {
+            "text": "Oui, s'il est assermenté par la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez refuser la fouille et exiger l'intervention de la police",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vigile peut vous retenir pendant 2 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez accepter car vous êtes sur une propriété privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un agent de sécurité privé n'a pas le pouvoir de fouiller une personne ni de la retenir de force. Seule la police a ce pouvoir. Vous pouvez refuser toute fouille et demander l'intervention des forces de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-079",
+        "shortId": "Q-C75464",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un utilisateur de réseau social publie des menaces de mort contre une personnalité politique. Est-ce couvert par la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Oui, sur internet la parole est totalement libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les menaces de mort constituent un délit pénal, même sur internet",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car c'est une expression politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend si la personnalité porte plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression a des limites légales. Les menaces de mort sont un délit quel que soit le support (internet compris), passible de 3 ans de prison."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-024",
+        "shortId": "Q-DD3AAD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué par la police pour une audition libre. Avez-vous le droit à un avocat ?",
+        "choices": [
+          {
+            "text": "Non, l'avocat n'intervient qu'en garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous pouvez être assisté d'un avocat dès l'audition libre",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si vous êtes mineur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous faites l'objet d'une mise en examen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2014, toute personne entendue librement peut demander à être assistée d'un avocat pendant l'audition."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-035",
+        "shortId": "Q-843744",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une association organise une quête sur la voie publique sans autorisation préfectorale. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, la solidarité est libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est pour une cause humanitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'appel à la générosité publique sur la voie publique est réglementé pour éviter les escroqueries",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend du montant récolté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour protéger les donateurs, les quêtes sur la voie publique sont soumises à autorisation. Cela garantit que les fonds vont bien à une cause réelle et déclarée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-025",
+        "shortId": "Q-9CC99B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les écoutes téléphoniques par la police sont-elles légales ?",
+        "choices": [
+          {
+            "text": "Oui, la police peut écouter n'importe qui à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est toujours interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement sur autorisation d'un juge (Juge d'instruction ou JLD) dans le cadre d'une enquête",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le maire l'autorise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le secret des correspondances est un droit fondamental. Sa levée (écoutes) est une procédure stricte, encadrée par un magistrat, pour des infractions graves."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-026",
+        "shortId": "Q-7C2788",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme célèbre a prêté ses traits aux bustes de Marianne dans les mairies ?",
+        "choices": [
+          {
+            "text": "Marie Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela varie selon les époques (ex: Brigitte Bardot, Catherine Deneuve, Laetitia Casta)",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marianne n'a pas de visage officiel unique. Les maires peuvent choisir des bustes représentant des Françaises célèbres incarnant la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-002",
+        "shortId": "Q-E4DF73",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière pénale, que signifie le principe « Non bis in idem » ?",
+        "choices": [
+          {
+            "text": "Nul ne peut être poursuivi ou puni pénalement deux fois pour les mêmes faits",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accusé doit toujours être jugé par deux juges différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peine de prison ne peut pas être cumulée avec une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Le silence de l'accusé vaut aveu de culpabilité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe fondamental interdit de juger une personne une seconde fois pour des faits pour lesquels elle a déjà été définitivement condamnée ou acquittée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-016",
+        "shortId": "Q-738E5B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le point culminant de la France et de l'Europe occidentale (4807 m) ?",
+        "choices": [
+          {
+            "text": "Le Mont Ventoux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont Blanc",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Pic du Midi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Puy de Sancy",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Situé dans les Alpes, à la frontière franco-italienne, le Mont Blanc est le toit de l'Europe occidentale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-003",
+        "shortId": "Q-274423",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous vous rendez à la mairie pour refaire votre passeport. L'agent au guichet porte un signe religieux visible. Est-ce conforme au principe de laïcité ?",
+        "choices": [
+          {
+            "text": "Oui, si cela ne gêne pas le fonctionnement du service",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté religieuse s'applique aussi aux fonctionnaires sur leur lieu de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de la discrétion du signe",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les agents du service public sont soumis à une stricte obligation de neutralité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité impose une neutralité absolue aux agents du service public (État, hôpitaux, mairies). Ils ne doivent manifester aucune opinion religieuse, politique ou philosophique dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-063",
+        "shortId": "Q-0CE4DA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été victime d'une infraction et le coupable est insolvable. Comment pouvez-vous être indemnisé ?",
+        "choices": [
+          {
+            "text": "En saisissant le tribunal pour saisie sur ses biens futurs",
+            "isCorrect": false
+          },
+          {
+            "text": "En poursuivant les membres de sa famille",
+            "isCorrect": false
+          },
+          {
+            "text": "En demandant une indemnisation à la CIVI (Commission d'indemnisation des victimes d'infractions)",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune possibilité d'indemnisation n'existe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CIVI permet aux victimes d'infractions graves d'obtenir une indemnisation lorsque l'auteur est inconnu ou insolvable."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-034",
+        "shortId": "Q-69A1DE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle infrastructure relie la France au Royaume-Uni sous la mer ?",
+        "choices": [
+          {
+            "text": "Le Pont de Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tunnel du Mont-Blanc",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Eurotunnel (Tunnel sous la Manche)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le viaduc de Millau",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inauguré en 1994, ce tunnel ferroviaire permet de relier Paris à Londres en train (Eurostar) en un peu plus de 2 heures."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-080",
+        "shortId": "Q-99C2E2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un adolescent de 17 ans demande s'il peut voter aux prochaines élections municipales. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "Oui, s'il a l'autorisation parentale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut avoir 18 ans révolus le jour du scrutin pour voter",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, depuis 2021 le vote est possible dès 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il peut voter par procuration via ses parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de vote en France est acquis à 18 ans révolus. La majorité électorale coïncide avec la majorité civile depuis 1974."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-059",
+        "shortId": "Q-02B4AF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la procédure permettant de confier son vote à un tiers en cas d'absence ?",
+        "choices": [
+          {
+            "text": "Le vote blanc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote par procuration",
+            "isCorrect": true
+          },
+          {
+            "text": "Le suffrage indirect",
+            "isCorrect": false
+          },
+          {
+            "text": "La candidature libre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La procuration permet à un électeur absent de se faire représenter par un autre électeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-013",
+        "shortId": "Q-CB3CD9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté syndicale permet à tout salarié :",
+        "choices": [
+          {
+            "text": "D'adhérer au syndicat de son choix et de défendre ses intérêts professionnels",
+            "isCorrect": true
+          },
+          {
+            "text": "De refuser de travailler sans motif",
+            "isCorrect": false
+          },
+          {
+            "text": "De fixer lui-même ses horaires de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être payé par le syndicat pendant les grèves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté syndicale est un principe constitutionnel. Nul ne peut être inquiété pour ses activités syndicales. L'adhésion est libre et non obligatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-024",
+        "shortId": "Q-3AD7C2",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Louis Pasteur est un scientifique célèbre pour avoir découvert :",
+        "choices": [
+          {
+            "text": "La radioactivité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'électricité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vaccin contre la rage",
+            "isCorrect": true
+          },
+          {
+            "text": "La structure de l'ADN",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pasteur (XIXe siècle) est le père de la microbiologie. Il a mis au point la pasteurisation et le vaccin contre la rage."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-013",
+        "shortId": "Q-E33751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Sur un réseau social public, un individu publie des propos incitant à la haine raciale. Comment la loi considère-t-elle cet acte ?",
+        "choices": [
+          {
+            "text": "Comme un délit pénal, la liberté d'expression ayant pour limite le respect d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Comme une opinion protégée par la liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme une faute civile uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme un acte légal tant qu'il n'y a pas d'appel au meurtre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression n'est pas absolue. L'injure raciste, la diffamation et l'incitation à la haine sont des délits punis par la loi (Loi sur la presse de 1881)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-030",
+        "shortId": "Q-EB8576",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment nomme-t-on la réunion hebdomadaire des ministres présidée par le Chef de l'État ?",
+        "choices": [
+          {
+            "text": "Le Conseil des ministres",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Congrès parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La séance plénière législative",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de défense nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil des ministres se tient généralement le mercredi matin pour coordonner l'action gouvernementale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-011",
+        "shortId": "Q-A74B67",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui détient le « monopole de la violence légitime » ?",
+        "choices": [
+          {
+            "text": "Les citoyens en cas de légitime défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sociétés de sécurité privées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État (Police et Gendarmerie)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'armée uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Selon Max Weber, l'État est la seule entité autorisée à utiliser la force physique pour maintenir l'ordre et faire appliquer la loi. Se faire justice soi-même est interdit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-014",
+        "shortId": "Q-B5D524",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île est devenue française en 1768, juste un an avant la naissance de Napoléon Bonaparte sur son sol ?",
+        "choices": [
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Gênes a cédé la Corse à la France en 1768. Napoléon est né Français à Ajaccio en 1769."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-015",
+        "shortId": "Q-837D3F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La « Marseillaise », hymne national français, était à l'origine :",
+        "choices": [
+          {
+            "text": "Une chanson à boire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chant de paix",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chant de guerre pour l'Armée du Rhin",
+            "isCorrect": true
+          },
+          {
+            "text": "Un poème romantique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Composée par Rouget de Lisle en 1792 à Strasbourg, c'était un chant patriotique pour galvaniser les troupes révolutionnaires face à l'invasion étrangère."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-083",
+        "shortId": "Q-1072F3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du porte-parole du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Rédiger les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Communiquer les décisions prises en Conseil des ministres",
+            "isCorrect": true
+          },
+          {
+            "text": "Représenter la France à l'ONU",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander la police nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il explique à la presse et aux citoyens les actions et les choix du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-033",
+        "shortId": "Q-FDFFE8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez changer le prénom de votre enfant mineur. Quelle est la procédure ?",
+        "choices": [
+          {
+            "text": "Une demande à l'officier d'état civil de la mairie (procédure simplifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une demande auprès du juge aux affaires familiales uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte notarié suivi d'une publication au Journal Officiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une requête au Procureur de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 2017, le changement de prénom peut se faire directement en mairie par simple demande à l'officier d'état civil."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-010",
+        "shortId": "Q-B0987B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est considéré comme le premier Roi des Francs, baptisé vers l'an 496 ?",
+        "choices": [
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Clovis",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint Louis",
+            "isCorrect": false
+          },
+          {
+            "text": "Vercingétorix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le baptême de Clovis à Reims marque l'alliance entre la royauté franque et l'Église catholique, acte fondateur de la monarchie française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-005",
+        "shortId": "Q-BEB3E9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le dispositif « 100% Santé » permet :",
+        "choices": [
+          {
+            "text": "D'être remboursé intégralement de toutes les consultations médicales",
+            "isCorrect": false
+          },
+          {
+            "text": "D'obtenir certaines lunettes, prothèses dentaires et aides auditives sans aucun reste à charge",
+            "isCorrect": true
+          },
+          {
+            "text": "D'avoir une mutuelle gratuite pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "De ne pas payer l'hôpital en chambre particulière",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce dispositif garantit un reste à charge zéro sur une sélection d'équipements (optique, dentaire, audio) si l'on possède une mutuelle responsable ou la Complémentaire Santé Solidaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-028",
+        "shortId": "Q-5695E8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la DDHC affirme : « Les hommes naissent et demeurent... »",
+        "choices": [
+          {
+            "text": "Soumis à l'autorité du Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Fidèles à la Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Libres et égaux en droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidaires et responsables devant la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "'Libres et égaux en droits' est la phrase la plus célèbre de la Déclaration de 1789. Elle marque la fin de la société d'ordres et de la naissance privilégiée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-114",
+        "shortId": "Q-16FDA9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'congrès' du Parlement ?",
+        "choices": [
+          {
+            "text": "La réunion des députés et des sénateurs à Versailles",
+            "isCorrect": true
+          },
+          {
+            "text": "Les vacances annuelles des ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Un match de football entre élus",
+            "isCorrect": false
+          },
+          {
+            "text": "Le nom d'un parti politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement se réunit en Congrès pour voter les révisions de la Constitution ou écouter le Président."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-007",
+        "shortId": "Q-992FD0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe régit le fonctionnement du Service Public en France ?",
+        "choices": [
+          {
+            "text": "La rentabilité financière avant tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de continuité et d'égalité devant le service public",
+            "isCorrect": true
+          },
+          {
+            "text": "La préférence nationale pour l'accès aux services",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève illimité sans service minimum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le service public repose sur trois lois (Lois de Rolland) : Continuité (fonctionner tout le temps), Mutabilité (s'adapter) et Égalité (traiter tous les usagers de la même façon)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-049",
+        "shortId": "Q-860DF3",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 29 juillet 1881 est une loi fondamentale qui garantit :",
+        "choices": [
+          {
+            "text": "Le droit de grève",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité hommes-femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de l'environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cette loi de la IIIe République a supprimé la censure préalable. Elle encadre encore aujourd'hui la liberté d'expression en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-014",
+        "shortId": "Q-DC581C",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Garantie Visale » ?",
+        "choices": [
+          {
+            "text": "Un dispositif d'encadrement des loyers dans les zones tendues",
+            "isCorrect": false
+          },
+          {
+            "text": "Une caution gratuite accordée par Action Logement pour garantir le paiement du loyer",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide financière de la CAF pour couvrir les charges locatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Un fonds de garantie pour les travaux de rénovation énergétique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Visale est une caution solidaire gratuite qui rassure les propriétaires. Elle couvre les loyers impayés et les dégradations locatives, facilitant l'accès au logement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-025",
+        "shortId": "Q-DA61D5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La lutte contre le racisme et l'antisémitisme est :",
+        "choices": [
+          {
+            "text": "Une opinion politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation morale facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une priorité de l'État inscrite dans la loi pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée aux associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le racisme et l'antisémitisme ne sont pas des opinions mais des délits. La République combat toute haine fondée sur l'origine ou la religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-038",
+        "shortId": "Q-77E9F4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment se définit étymologiquement le terme 'démocratie' ?",
+        "choices": [
+          {
+            "text": "Le pouvoir exercé par le peuple",
+            "isCorrect": true
+          },
+          {
+            "text": "L'autorité d'une élite sélectionnée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commandement d'un chef unique",
+            "isCorrect": false
+          },
+          {
+            "text": "La gestion par l'administration",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mot vient du grec 'demos' (peuple) et 'kratos' (pouvoir)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-029",
+        "shortId": "Q-EE9393",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez installer une clôture entre votre terrain et celui de votre voisin. Devez-vous le prévenir ?",
+        "choices": [
+          {
+            "text": "Non, vous êtes libre d'installer une clôture sur votre terrain",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une déclaration préalable en mairie est obligatoire dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la clôture est mitoyenne, l'accord des deux propriétaires est nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si la clôture dépasse 2 mètres de hauteur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une clôture strictement sur votre terrain est libre (sauf règles d'urbanisme), mais une clôture mitoyenne nécessite l'accord du voisin."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-047",
+        "shortId": "Q-46E741",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Guyane est un territoire français situé :",
+        "choices": [
+          {
+            "text": "En Afrique",
+            "isCorrect": false
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": true
+          },
+          {
+            "text": "En Asie",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Guyane est le plus grand département français (en superficie). Elle abrite la base spatiale européenne de Kourou et une partie de la forêt amazonienne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-011",
+        "shortId": "Q-36FD81",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige financier inférieur à 5 000 euros, quelle démarche est obligatoire avant de saisir le juge ?",
+        "choices": [
+          {
+            "text": "Porter plainte à la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Tenter une conciliation ou une médiation de justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une mise en demeure par lettre recommandée au débiteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement le tribunal d'instance sans démarche préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi impose désormais une tentative de résolution amiable (conciliateur de justice) avant de saisir le tribunal pour les petits litiges du quotidien."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-014",
+        "shortId": "Q-01F234",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel général a signé l'ordonnance donnant le droit de vote aux femmes en 1944 ?",
+        "choices": [
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le Gouvernement Provisoire dirigé par le Général de Gaulle qui a accordé le droit de vote et d'éligibilité aux femmes en avril 1944."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-099",
+        "shortId": "Q-36F0E6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le concept de souveraineté dans un État ?",
+        "choices": [
+          {
+            "text": "La dépendance totale envers les banques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de décider librement de son propre destin",
+            "isCorrect": true
+          },
+          {
+            "text": "L'absence totale de lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de conquérir d'autres pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La souveraineté est l'autorité suprême qui permet à l'État d'agir sans contrainte extérieure indue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-050",
+        "shortId": "Q-264B4B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez obtenir la nationalité française par naturalisation. Quelle est la condition de résidence habituelle en France ?",
+        "choices": [
+          {
+            "text": "5 ans de résidence habituelle en France au moment de la demande",
+            "isCorrect": true
+          },
+          {
+            "text": "3 ans de résidence continue",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans de résidence pour les non-francophones",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans de résidence légale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour être naturalisé français, il faut justifier d'une résidence habituelle en France pendant les 5 années précédant la demande, sauf cas de réduction."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-043",
+        "shortId": "Q-69BEA6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Grand Palais et le Petit Palais à Paris ont été construits pour :",
+        "choices": [
+          {
+            "text": "L'Exposition Universelle de 1900",
+            "isCorrect": true
+          },
+          {
+            "text": "Le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Jeux Olympiques de 1924",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Construits pour l'Exposition Universelle de 1900, ces monuments de la Belle Époque témoignent de l'architecture métallique et de l'Art nouveau."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-004",
+        "shortId": "Q-71D546",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du préavis de départ pour un locataire situé en « Zone Tendue » (ex: Paris, Lyon) ?",
+        "choices": [
+          {
+            "text": "1 mois (au lieu de 3 mois), sans avoir à fournir de justificatif autre que l'adresse",
+            "isCorrect": true
+          },
+          {
+            "text": "3 mois incompressibles",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois, mais uniquement sur accord du propriétaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans les zones tendues (agglomérations où la demande de logement est forte), le préavis est réduit de droit à 1 mois pour le locataire, qu'il s'agisse d'un logement vide ou meublé."
+      }
+    }
+  ]
+}

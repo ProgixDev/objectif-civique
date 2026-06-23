@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-official-1",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-023",
+        "shortId": "Q-A794D6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pour obtenir un logement social, un candidat fournit de faux bulletins de salaire. Quelles sont les conséquences ?",
+        "choices": [
+          {
+            "text": "Une simple demande de régularisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune si le logement est attribué",
+            "isCorrect": false
+          },
+          {
+            "text": "Une interdiction de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de la demande et des poursuites pour faux et usage de faux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fournir de faux documents administratifs est un délit de 'faux et usage de faux', passible de 3 ans d'emprisonnement et 45 000 euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-003",
+        "shortId": "Q-AC4337",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+        "choices": [
+          {
+            "text": "Tous les êtres humains naissent libres et égaux en dignité et en droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Les hommes naissent et demeurent libres et égaux en droits",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté est le droit de faire tout ce que les lois permettent",
+            "isCorrect": false
+          },
+          {
+            "text": "Nul ne peut être inquiété pour ses opinions, même religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Attention à la nuance : 'Les hommes naissent et demeurent...' est l'article 1 de la DDHC de 1789. La citation sur la 'dignité' vient de la Déclaration Universelle de 1948."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-038",
+        "shortId": "Q-FDB22C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parti politique vous appelle quotidiennement pour vous solliciter malgré vos demandes répétées d'arrêter. Quel droit pouvez-vous exercer ?",
+        "choices": [
+          {
+            "text": "Le droit de vote pour sanctionner ce parti aux élections",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'association pour créer un groupe de défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret de la correspondance pour bloquer les appels",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'opposition au traitement de vos données personnelles (RGPD)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le RGPD vous permet de vous opposer à l'utilisation de vos coordonnées à des fins de prospection, y compris politique. Le non-respect de ce droit est sanctionnable par la CNIL."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-072",
+        "shortId": "Q-C771CA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 6 ans n'est pas scolarisé car vous pratiquez l'instruction en famille. L'inspecteur académique peut-il contrôler ce choix ?",
+        "choices": [
+          {
+            "text": "Non, l'instruction en famille est un droit constitutionnel des parents sans contrôle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'instruction en famille est soumise à autorisation préalable et contrôle régulier",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement sur signalement du médecin de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une simple déclaration annuelle à la mairie suffit sans contrôle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2022, l'instruction en famille est soumise à autorisation de l'académie. Des contrôles réguliers vérifient que l'enfant reçoit une instruction conforme au socle commun."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-073",
+        "shortId": "Q-2C0466",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe religieux organise une prière collective dans un parc public. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Non, toute manifestation religieuse est interdite dans l'espace public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la laïcité garantit la liberté de culte, y compris dans l'espace public, tant que l'ordre est respecté",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement pour les religions officiellement reconnues",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf avec une autorisation spéciale du ministère de l'Intérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité n'interdit pas les manifestations religieuses dans l'espace public. Elle garantit au contraire la liberté de culte, à condition de ne pas troubler l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-027",
+        "shortId": "Q-87F30F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces crimes ou délits peut entrainer la privation des droits civils et politiques par un juge ?",
+        "choices": [
+          {
+            "text": "Le vol à l'étalage",
+            "isCorrect": false
+          },
+          {
+            "text": "Un crime tel que le terrorisme ou la corruption",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tapage nocturne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'excès de vitesse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La peine d'inéligibilité ou de privation de droits civiques est réservée aux infractions graves, notamment celles portant atteinte à la probité publique ou à la nation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-017",
+        "shortId": "Q-97A346",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre mairie organise un référendum local sur la construction d'une école. Qui finance ce projet ?",
+        "choices": [
+          {
+            "text": "Les impôts locaux payés par les contribuables de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union Européenne exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les dons des parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise privée obligatoirement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les équipements publics (écoles primaires, voirie communale) sont financés par le budget de la commune, alimenté principalement par les impôts locaux (taxe foncière, etc.) et les dotations de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-061",
+        "shortId": "Q-004F47",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes homosexuel(le) et souhaitez vous marier en France. Quels sont vos droits ?",
+        "choices": [
+          {
+            "text": "Le mariage entre personnes de même sexe n'est pas autorisé en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est ouvert aux couples de même sexe avec tous les droits du mariage",
+            "isCorrect": true
+          },
+          {
+            "text": "Seul le PACS est possible pour les couples homosexuels",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est possible mais sans droit d'adoption",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 17 mai 2013 (mariage pour tous), les couples de même sexe peuvent se marier en France avec tous les droits afférents (nom, succession, adoption, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-081",
+        "shortId": "Q-5D9981",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le 101ème département français depuis 2011 ?",
+        "choices": [
+          {
+            "text": "Mayotte",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint-Pierre-et-Miquelon",
+            "isCorrect": false
+          },
+          {
+            "text": "La Polynésie française",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Mayotte est devenue le 101ème département français (et le 5ème DROM) suite au référendum de 2009, effectif en 2011."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-001",
+        "shortId": "Q-94FE17",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+        "choices": [
+          {
+            "text": "...marchons vers la victoire !",
+            "isCorrect": false
+          },
+          {
+            "text": "...formez vos bataillons !",
+            "isCorrect": false
+          },
+          {
+            "text": "...le jour de gloire est arrivé !",
+            "isCorrect": true
+          },
+          {
+            "text": "...l'étendard sanglant est levé !",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise commence par « Allons enfants de la patrie, le jour de gloire est arrivé ! ». « L'étendard sanglant » et « Formez vos bataillons » sont des vers qui viennent ensuite."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-034",
+        "shortId": "Q-5B216A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en CDD et votre employeur veut y mettre fin avant le terme prévu. Dans quels cas est-ce légal ?",
+        "choices": [
+          {
+            "text": "Pour tout motif, moyennant le versement d'une indemnité compensatrice",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour faute grave, force majeure, accord des parties ou embauche en CDI",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour motif économique avec un préavis de 15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour insuffisance professionnelle constatée pendant la période d'essai uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La rupture anticipée d'un CDD n'est possible que dans des cas limités : faute grave, force majeure, accord des parties, ou embauche en CDI."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-017",
+        "shortId": "Q-86FDEC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "choices": [
+          {
+            "text": "Les Misérables",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Fleurs du mal",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Malade imaginaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est l'auteur des *Misérables*, publié en 1862. *L'Étranger* est de Camus, *Les Fleurs du mal* de Baudelaire, et *Le Malade imaginaire* de Molière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-067",
+        "shortId": "Q-51FB31",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen refuse de participer au jury d'assises car il trouve la justice trop sévère. Son refus est-il recevable ?",
+        "choices": [
+          {
+            "text": "Oui, le jury est basé sur le volontariat",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la participation au jury d'assises est un devoir civique obligatoire, le refus non justifié est sanctionné",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, s'il fournit un certificat médical",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il peut être remplacé par un proche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le jury d'assises incarne la participation des citoyens à la justice. L'absence sans motif légitime est passible d'une amende de 3 750 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-028",
+        "shortId": "Q-306AAA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui gère les écoles primaires et maternelles publiques ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les écoles maternelles et élémentaires publiques sont gérées par la commune. La mairie est responsable des locaux, de l’entretien, du matériel et du personnel non enseignant. L’État, par l’intermédiaire de l’Éducation nationale, recrute et rémunère les enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-032",
+        "shortId": "Q-708F42",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un accident de la route. Dans quel délai devez-vous déclarer le sinistre à votre assurance ?",
+        "choices": [
+          {
+            "text": "24 heures après l'accident",
+            "isCorrect": false
+          },
+          {
+            "text": "5 jours ouvrés après l'accident",
+            "isCorrect": true
+          },
+          {
+            "text": "15 jours après l'accident pour les dommages matériels",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours après l'accident pour les dommages corporels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le délai légal de déclaration d'un sinistre automobile à son assurance est de 5 jours ouvrés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-037",
+        "shortId": "Q-738C3B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+        "choices": [
+          {
+            "text": "Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "La Rochelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Nantes fut le premier port négrier de France, organisant plus de 40% des expéditions de traite françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-014",
+        "shortId": "Q-696348",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que porte Marianne sur la tête ?",
+        "choices": [
+          {
+            "text": "Un foulard tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bonnet phrygien",
+            "isCorrect": true
+          },
+          {
+            "text": "Un casque gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "Une couronne de lauriers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est coiffée d'un bonnet phrygien. Ce bonnet rouge est un symbole de liberté, porté par les esclaves affranchis dans l'Antiquité puis par les révolutionnaires de 1789."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-052",
+        "shortId": "Q-FD3DDF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État a quitté l'Union Européenne en 2020 ?",
+        "choices": [
+          {
+            "text": "La Suisse",
+            "isCorrect": false
+          },
+          {
+            "text": "La Grèce",
+            "isCorrect": false
+          },
+          {
+            "text": "La Norvège",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Royaume-Uni a quitté l'UE le 31 janvier 2020, un processus connu sous le nom de Brexit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-055",
+        "shortId": "Q-529733",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte et votre employeur veut vous licencier pendant votre grossesse. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, si le licenciement est pour motif économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la salariée enceinte bénéficie d'une protection absolue contre le licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pendant la période d'essai uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de faute grave non liée à la grossesse ou d'impossibilité de maintenir le contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La salariée enceinte bénéficie d'une protection renforcée contre le licenciement, mais celui-ci reste possible en cas de faute grave non liée à la grossesse ou d'impossibilité de maintenir le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-053",
+        "shortId": "Q-DC0169",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Charles Baudelaire ?",
+        "choices": [
+          {
+            "text": "Un poète du XIXe siècle, auteur des Fleurs du mal",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dramaturge classique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier naturaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Un philosophe existentialiste",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Charles Baudelaire est un poète majeur du XIXe siècle, célèbre pour son recueil *Les Fleurs du mal*."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-026",
+        "shortId": "Q-2AF3D7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, il est possible pour l'État de financer :",
+        "choices": [
+          {
+            "text": "La construction ou l'entretien de bâtiments affectés à un culte, sous certaines conditions prévues par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fonctionnement des écoles publiques et des hôpitaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La publicité pour une religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement direct et exclusif de la campagne électorale d’un parti politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État finance les services publics essentiels comme l'éducation et la santé. En application du principe de laïcité et de la loi de 1905, il ne finance pas l'exercice des cultes, sauf exceptions patrimoniales, ni les dépenses privées des citoyens ou le financement partisan des campagnes électorales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-042",
+        "shortId": "Q-5489F8",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le dernier État à avoir intégré l'Union européenne, en 2013 ?",
+        "choices": [
+          {
+            "text": "La Bulgarie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Croatie",
+            "isCorrect": true
+          },
+          {
+            "text": "La Roumanie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Croatie a rejoint l'Union européenne le 1er juillet 2013, devenant le 28e État membre (27 depuis le retrait du Royaume-Uni en 2020). La Bulgarie et la Roumanie ont adhéré en 2007, et la Pologne en 2004."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-002",
+        "shortId": "Q-48A5A9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+        "choices": [
+          {
+            "text": "Au nom de l'ordre public et de la sécurité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Au nom de la moralité religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de la raison d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de l'efficacité économique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les restrictions aux libertés doivent être justifiées par la nécessité de sauvegarder l'ordre public, la sécurité nationale ou la santé publique, et doivent être proportionnées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-068",
+        "shortId": "Q-24410A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île française est située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nouvelle-Calédonie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion (et Mayotte) se situe dans l'océan Indien. La Guadeloupe est dans les Caraïbes, Tahiti et la Nouvelle-Calédonie dans le Pacifique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-002",
+        "shortId": "Q-865170",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+        "choices": [
+          {
+            "text": "Abattre une cloison pour modifier la distribution du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Repeindre les murs et faire de petits aménagements non structurels",
+            "isCorrect": true
+          },
+          {
+            "text": "Sous-louer le logement à une autre personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Transformer le logement d'habitation en local professionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le locataire peut effectuer de simples aménagements, comme repeindre ou poser des équipements légers, sans demander d'autorisation. En revanche, les transformations importantes ou le changement d'usage du logement exigent l'accord du propriétaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-034",
+        "shortId": "Q-C0FF63",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle institution française doit rester neutre en matière de religion ?",
+        "choices": [
+          {
+            "text": "Les chaînes de télévision privées, dans le cadre de leur ligne éditoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'École publique et l'ensemble des administrations de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Les partis politiques dans l'expression de leurs convictions",
+            "isCorrect": false
+          },
+          {
+            "text": "Les commerces et entreprises privées ouverts au public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de laïcité impose une neutralité religieuse aux institutions publiques, notamment à l'École publique et aux administrations de l'État. Les agents publics doivent exercer leurs fonctions sans manifester de convictions religieuses. En revanche, les acteurs privés et la société civile bénéficient de la liberté de conscience et d'expression, dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-036",
+        "shortId": "Q-E862B0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment est organisé le découpage administratif de la France ?",
+        "choices": [
+          {
+            "text": "Provinces, Cantons, Paroisses",
+            "isCorrect": false
+          },
+          {
+            "text": "Arrondissements uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Communes, Départements, Régions",
+            "isCorrect": true
+          },
+          {
+            "text": "États, Comtés, Villes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Communes, départements et régions forment l'organisation territoriale de la République française, souvent qualifiée de 'mille-feuille administratif'."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-030",
+        "shortId": "Q-1767B3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire un citoyen s'il est appelé à être juré dans un procès d'assises ?",
+        "choices": [
+          {
+            "text": "Se faire remplacer par un avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Se présenter au tribunal, sauf motif légitime d'excuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Refuser s'il n'est pas d'accord avec la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer une amende pour ne pas y aller",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'absence non justifiée d'un juré est sanctionnée par une amende de 3 750 €. Se présenter au tribunal, sauf motif légitime d'excuse, c'est une obligation citoyenne majeure."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-062",
+        "shortId": "Q-ECDE66",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel musée est situé à Paris ?",
+        "choices": [
+          {
+            "text": "Le MuCEM",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée des Confluences",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée Guggenheim",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le musée d'Orsay, célèbre pour ses collections impressionnistes, est situé à Paris. Le MuCEM est à Marseille, Confluences à Lyon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-027",
+        "shortId": "Q-5FF698",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne étrangère, en situation régulière, peut créer son entreprise :",
+        "choices": [
+          {
+            "text": "Non, sauf si elle est mariée à une personne française",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la nationalité française est obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si son séjour et, le cas échéant, son autorisation de travail le permettent",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement dans certains secteurs d'activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une personne étrangère en situation régulière peut créer une entreprise en France, sous réserve de respecter les conditions liées à son titre de séjour et à l'exercice de l'activité envisagée. La nationalité française n'est pas exigée en tant que telle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-044",
+        "shortId": "Q-21424B",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un étranger non-européen demande à la préfecture de recevoir ses documents administratifs traduits dans sa langue. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "La préfecture doit fournir une traduction dans toutes les langues demandées",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture peut refuser car le français est la langue officielle de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La traduction est obligatoire pour les ressortissants de pays francophones",
+            "isCorrect": false
+          },
+          {
+            "text": "Seules les langues de l'Union européenne doivent être proposées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution dispose que 'la langue de la République est le français'. Les documents administratifs officiels sont rédigés en français uniquement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-020",
+        "shortId": "Q-9BDBF4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections législatives ?",
+        "choices": [
+          {
+            "text": "Les députés",
+            "isCorrect": true
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Lors des élections législatives, les citoyens élisent les députés. Ceux-ci siègent à l’Assemblée nationale et exercent le pouvoir législatif, notamment en votant la loi et en contrôlant l’action du Gouvernement. Les maires, conseillers régionaux et sénateurs sont élus lors d’autres scrutins."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-023",
+        "shortId": "Q-E99E40",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre bail d'habitation arrive à échéance. Le propriétaire veut récupérer le logement pour y loger son fils. Peut-il vous donner congé ?",
+        "choices": [
+          {
+            "text": "Non, le locataire a un droit au maintien dans les lieux illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si le fils est majeur et vit seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le congé pour reprise familiale est légal s'il respecte un préavis de 6 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf accord amiable entre les parties",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le propriétaire peut donner congé pour reprise (pour lui-même ou un proche) avec un préavis de 6 mois avant l'échéance du bail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-038",
+        "shortId": "Q-153ECC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+        "choices": [
+          {
+            "text": "René Descartes",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": false
+          },
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Montesquieu a ironiquement dénoncé l'esclavage dans *De l'esprit des lois* (1748). Condorcet est aussi une figure majeure de l'abolitionnisme."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-014",
+        "shortId": "Q-D47046",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "choices": [
+          {
+            "text": "La mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor public",
+            "isCorrect": false
+          },
+          {
+            "text": "La mutuelle uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assurance maladie (CPAM), puis éventuellement la mutuelle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La part obligatoire des remboursements relève de l'Assurance maladie, généralement via la CPAM pour le régime général. Si la personne a une complémentaire santé, la mutuelle peut ensuite compléter le remboursement selon le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-029",
+        "shortId": "Q-FDB939",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "La liberté de conscience et l'égalité de traitement quelle que soit la religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction de parler de religion au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de construire de nouveaux lieux de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement égal de toutes les religions par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience, l'égalité de traitement et la neutralité de l'État. Elle n'interdit ni les fêtes ni les lieux de culte."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-047",
+        "shortId": "Q-D8DC8C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège de la Commission européenne ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Commission européenne, organe exécutif de l'Union européenne, a son siège à Bruxelles (Belgique). Elle propose les lois européennes, veille à l'application des traités et met en œuvre les politiques de l'Union. Strasbourg est le siège du Parlement européen pour les sessions plénières, Luxembourg accueille certaines institutions et services administratifs, et Francfort est le siège de la Banque centrale européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-021",
+        "shortId": "Q-AB84A0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "choices": [
+          {
+            "text": "Oui, si la religion le permet",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la polygamie est interdite en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si les mariages ont eu lieu à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord du premier conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La monogamie est une règle d'ordre public en France. La polygamie est une infraction pénale et un motif d'annulation du mariage ou de retrait de titre de séjour."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-006",
+        "shortId": "Q-2C5960",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Simone Veil est une figure importante de l’histoire française. Elle a notamment :",
+        "choices": [
+          {
+            "text": "Été la première femme Présidente de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédigé la Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Fondé le mouvement de la Résistance intérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Fait adopter la loi légalisant l'interruption volontaire de grossesse (IVG)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Simone Veil, en tant que ministre de la Santé, a porté la loi de 1975 dépénalisant l'interruption volontaire de grossesse (IVG). Elle fut aussi la première présidente du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-038",
+        "shortId": "Q-58501D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quel âge commence l'instruction obligatoire des enfants ?",
+        "choices": [
+          {
+            "text": "À 2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À 3 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'instruction obligatoire commence à 3 ans. Elle peut être assurée à l'école ou, dans des conditions encadrées, par l'instruction dans la famille."
+      }
+    }
+  ]
+}

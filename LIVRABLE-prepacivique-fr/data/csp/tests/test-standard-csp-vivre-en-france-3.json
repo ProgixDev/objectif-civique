@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-vivre-en-france-3",
+  "level": "CSP",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-standard-016",
+        "shortId": "Q-6E5ACC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de perte d'emploi, quelle est la condition principale pour percevoir l'Allocation de Retour à l'Emploi (ARE) ?",
+        "choices": [
+          {
+            "text": "Avoir moins de 25 ans au moment de la demande",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir démissionné de son propre gré pour convenance personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne jamais avoir travaillé auparavant en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir travaillé une durée minimale (durée d'affiliation) avant la fin du contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'ARE (chômage) est une assurance. Il faut avoir cotisé en travaillant un certain nombre d'heures ou de mois sur une période donnée pour y avoir droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-020",
+        "shortId": "Q-44977C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le dispositif 'Visale' ?",
+        "choices": [
+          {
+            "text": "D'obtenir un visa touristique plus rapidement",
+            "isCorrect": false
+          },
+          {
+            "text": "De payer ses factures d'électricité en retard sans frais",
+            "isCorrect": false
+          },
+          {
+            "text": "D'accéder gratuitement à tous les transports en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "De bénéficier d'une caution gratuite pour louer un logement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Visale est une garantie accordée par Action Logement qui rassure les propriétaires en cas d'impayés de loyer du locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-047",
+        "shortId": "Q-59EF34",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge peut-on demander la 'Prime d'Activité' ?",
+        "choices": [
+          {
+            "text": "Dès 16 ans si l'on travaille",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement après 65 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À partir de 18 ans, si l'on exerce une activité professionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'on a des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La prime d'activité est un complément de revenus pour les travailleurs (salariés ou indépendants) ayant des revenus modestes, dès 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-015",
+        "shortId": "Q-A8BCA4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'contrat d'engagement républicain' ?",
+        "choices": [
+          {
+            "text": "Un contrat de travail pour les fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un engagement pour les associations qui demandent des subventions publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accord signé entre un propriétaire et son locataire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le document de naturalisation signé à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les associations demandant des subventions doivent s'engager à respecter les valeurs de la République (liberté, égalité, fraternité, dignité humaine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-055",
+        "shortId": "Q-837BDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but de la 'Journée Défense et Citoyenneté' (JDC) ?",
+        "choices": [
+          {
+            "text": "Effectuer un stage d'initiation au métier des armes",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser une mission de service civique obligatoire d'un mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer les jeunes sur leurs droits, leurs devoirs et le fonctionnement des institutions",
+            "isCorrect": true
+          },
+          {
+            "text": "Passer un examen de connaissances civiques noté sur 20",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La JDC est obligatoire pour tous les Français avant 25 ans. Elle permet de sensibiliser aux enjeux de la défense et aux valeurs républicaines."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-002",
+        "shortId": "Q-65B126",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de préavis standard pour un locataire quittant un logement vide en zone non tendue ?",
+        "choices": [
+          {
+            "text": "1 semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour un logement vide, le préavis est généralement de 3 mois, sauf en zone tendue ou cas particuliers (mutation, perte d'emploi) où il est réduit à 1 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-040",
+        "shortId": "Q-7DE0B1",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif du 'Dossier Médical Partagé' (Mon espace santé) ?",
+        "choices": [
+          {
+            "text": "Partager ses résultats d'analyses avec sa mutuelle complémentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder à son historique médical depuis n'importe quel hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir une réduction sur les médicaments génériques",
+            "isCorrect": false
+          },
+          {
+            "text": "Centraliser vos informations de santé pour les partager avec vos médecins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Mon espace santé est un carnet de santé numérique sécurisé qui permet aux professionnels de santé de mieux vous soigner grâce à l'historique médical."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-031",
+        "shortId": "Q-D69E26",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'état civil ?",
+        "choices": [
+          {
+            "text": "La liste des personnes ayant payé leurs impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des règles pour se comporter poliment en public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service qui enregistre les naissances, mariages et décès",
+            "isCorrect": true
+          },
+          {
+            "text": "Un diplôme de fin d'études secondaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil définit l'identité d'une personne auprès de l'administration via des actes officiels dressés par les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-023",
+        "shortId": "Q-A98F81",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le bruit en journée selon la loi (tapage diurne) ?",
+        "choices": [
+          {
+            "text": "Le bruit est autorisé sans limite de 8h à 22h",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit de faire du bruit seulement le dimanche",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun bruit ne doit porter atteinte à la tranquillité du voisinage par sa durée, sa répétition ou son intensité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le bruit n'est interdit que si la police se déplace avec un appareil de mesure",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement à une idée reçue, le tapage peut être sanctionné même en plein jour s'il est considéré comme excessif et gênant pour les voisins."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-004",
+        "shortId": "Q-EDF6C8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le 'Parcours de soins coordonnés' mis en place par l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "À obtenir des médicaments gratuitement sans ordonnance",
+            "isCorrect": false
+          },
+          {
+            "text": "À être hospitalisé dans n'importe quel pays d'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "À choisir un médecin spécialiste sans passer par un généraliste",
+            "isCorrect": false
+          },
+          {
+            "text": "À être mieux remboursé en consultant son médecin traitant avant un spécialiste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le parcours de soins coordonnés consiste à confier la gestion de son dossier médical à un médecin traitant. Si vous ne le respectez pas, les remboursements de la Sécurité sociale sont moins élevés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-052",
+        "shortId": "Q-BAD6C3",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que garantit le principe de 'fraternité' en France ?",
+        "choices": [
+          {
+            "text": "L'obligation de participer aux associations caritatives locales",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression de toutes les taxes pour les familles nombreuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de désobéir aux lois jugées injustes",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité nationale et l'aide aux plus démunis",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité est la troisième valeur de la devise républicaine. Elle fonde notre système de protection sociale et d'entraide."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-056",
+        "shortId": "Q-A0597D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'famille recomposée' ?",
+        "choices": [
+          {
+            "text": "Une famille qui a déménagé dans une autre région",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille dont les membres vivent dans des pays différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille qui a adopté un enfant étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Un couple vivant avec au moins un enfant né d'une union précédente",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il s'agit d'un foyer où des enfants vivent avec un parent et un beau-parent suite à une séparation ou un veuvage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-036",
+        "shortId": "Q-2893ED",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui doit payer la 'Contribution à l'Audiovisuel Public' (redevance TV) aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Tous les foyers possédant une télévision",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les personnes vivant en appartement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les entreprises qui diffusent de la publicité",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne, elle a été supprimée pour tous les particuliers",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2022, la redevance télé (contribution à l'audiovisuel public) a été supprimée pour l'ensemble des foyers français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-013",
+        "shortId": "Q-B414CE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que doit-on obligatoirement assurer pour un véhicule à moteur en France ?",
+        "choices": [
+          {
+            "text": "La responsabilité civile (assurance au tiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vol et l'incendie uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bris de glace sans franchise",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assistance dépannage 0 km",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assurance 'responsabilité civile' est le minimum légal obligatoire pour couvrir les dommages que vous pourriez causer à d'autres personnes avec votre véhicule."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-029",
+        "shortId": "Q-2C67C7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée de validité habituelle d'une ordonnance pour des lunettes (pour un adulte de 16 à 42 ans) ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour les adultes entre 16 et 42 ans, l'ordonnance de l'ophtalmologiste reste valable 5 ans, permettant à l'opticien de renouveler les verres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-014",
+        "shortId": "Q-774769",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle démarche est obligatoire pour un jeune de 16 ans de nationalité française ?",
+        "choices": [
+          {
+            "text": "Le service militaire actif de 2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement citoyen à la mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription sur les listes électorales sénatoriales",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obtention immédiate du permis de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout Français doit se faire recenser à la mairie de son domicile à ses 16 ans pour pouvoir passer des examens (bac, permis) et participer à la Journée Défense et Citoyenneté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-042",
+        "shortId": "Q-2267E7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Service National Universel' (SNU) ?",
+        "choices": [
+          {
+            "text": "Un examen final pour devenir avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Un projet destiné aux jeunes de 15 à 17 ans pour promouvoir la citoyenneté",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe pour financer l'armée française",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abonnement gratuit à tous les journaux nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SNU comporte un séjour de cohésion et une mission d'intérêt général pour renforcer le lien social et l'engagement des jeunes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-019",
+        "shortId": "Q-D91CEA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel est l'âge minimum pour être juré lors d'un procès aux Assises ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "23 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être juré, il faut être de nationalité française, avoir au moins 23 ans, savoir lire et écrire en français et jouir de ses droits politiques, civils et de famille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-038",
+        "shortId": "Q-78FD55",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi correspond le 'Quotient Familial' calculé par la CAF ?",
+        "choices": [
+          {
+            "text": "À la note obtenue par les enfants à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "À un indicateur de ressources tenant compte des revenus et du nombre de personnes dans le foyer",
+            "isCorrect": true
+          },
+          {
+            "text": "Au nombre de mètres carrés du logement par habitant",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'âge moyen des membres de la famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le quotient familial sert à déterminer le montant de certaines aides ou le tarif de services municipaux (cantine, centre de loisirs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-011",
+        "shortId": "Q-B0398E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction du 'Défenseur des droits' ?",
+        "choices": [
+          {
+            "text": "Défendre l'État français devant les tribunaux internationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité des bâtiments publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer l'avocat lors d'un procès au pénal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits est une institution indépendante que l'on peut saisir gratuitement en cas de discrimination ou de problème avec une administration."
+      }
+    }
+  ]
+}

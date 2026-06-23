@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-nat-principes-valeurs-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-001",
+        "shortId": "Q-518D39",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un débat public, un participant affirme que le droit de vote devrait être réservé aux chefs de famille. Quel principe constitutionnel fondamental cette affirmation viole-t-elle ?",
+        "choices": [
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indivisibilité de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté nationale et le suffrage universel égal",
+            "isCorrect": true
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel, égal et secret (art. 3 de la Constitution). Restreindre le vote aux chefs de famille violerait l'égalité politique entre les citoyens, hommes et femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-002",
+        "shortId": "Q-23776D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un employeur vous demande votre confession religieuse lors d'un entretien d'embauche. Quelle est la qualification juridique de cette question ?",
+        "choices": [
+          {
+            "text": "Une discrimination potentielle interdite par le Code du travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Une curiosité légitime pour l'organisation des congés",
+            "isCorrect": false
+          },
+          {
+            "text": "Une question autorisée si l'entreprise a une éthique religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Une formalité administrative obligatoire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les opinions religieuses relèvent de la vie privée. Poser cette question lors d'un recrutement est illégal et peut constituer une preuve de discrimination à l'embauche."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-003",
+        "shortId": "Q-274423",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous vous rendez à la mairie pour refaire votre passeport. L'agent au guichet porte un signe religieux visible. Est-ce conforme au principe de laïcité ?",
+        "choices": [
+          {
+            "text": "Oui, si cela ne gêne pas le fonctionnement du service",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté religieuse s'applique aussi aux fonctionnaires sur leur lieu de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de la discrétion du signe",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les agents du service public sont soumis à une stricte obligation de neutralité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité impose une neutralité absolue aux agents du service public (État, hôpitaux, mairies). Ils ne doivent manifester aucune opinion religieuse, politique ou philosophique dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-004",
+        "shortId": "Q-9C1642",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous souhaitez fonder une association loi 1901. L'administration peut-elle vous refuser ce droit a priori ?",
+        "choices": [
+          {
+            "text": "Oui, si l'objet de l'association n'est pas d'utilité publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'association s'exerce sans autorisation préalable",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il faut obtenir l'agrément du préfet avant de commencer",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous n'êtes pas de nationalité française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi de 1901, la constitution d'une association est libre et ne nécessite aucune autorisation préalable de l'État (sauf cas très spécifiques). Une simple déclaration en préfecture suffit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-005",
+        "shortId": "Q-C87FFA",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans l'isoloir, un membre de votre famille insiste pour vérifier votre bulletin de vote avant que vous ne le glissiez dans l'enveloppe. Que dicte le code électoral ?",
+        "choices": [
+          {
+            "text": "Le vote est secret, personne n'a le droit de contrôler votre choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote est un acte public, vous pouvez le montrer",
+            "isCorrect": false
+          },
+          {
+            "text": "Le chef de famille a un droit de regard sur le vote des membres du foyer",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez le montrer uniquement au président du bureau de vote",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret du vote est une garantie fondamentale de la liberté de conscience de l'électeur. Le passage par l'isoloir est obligatoire pour garantir cette confidentialité et éviter toute pression."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-006",
+        "shortId": "Q-6A18E8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un propriétaire refuse de vous louer un logement en déclarant ouvertement qu'il ne loue pas aux 'personnes de votre origine'. Quelle action pénale est possible ?",
+        "choices": [
+          {
+            "text": "Aucune, le droit de propriété est absolu",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le tribunal de commerce pour concurrence déloyale",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander une médiation obligatoire en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter plainte pour discrimination, délit passible de prison et d'amende",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le refus de vente ou de service (y compris la location) fondé sur l'origine est une discrimination, délit puni par le Code pénal (jusqu'à 3 ans de prison et 45 000 € d'amende)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-007",
+        "shortId": "Q-B8C072",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "À l'école publique, un enseignant consacre son cours à promouvoir les bienfaits d'une religion spécifique pour convertir les élèves. Quel principe est enfreint ?",
+        "choices": [
+          {
+            "text": "La liberté pédagogique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit au prosélytisme éducatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de neutralité et de laïcité de l'enseignement public",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de conscience des enseignants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique est laïque. Les programmes peuvent aborder le 'fait religieux' (histoire des religions), mais le prosélytisme (tenter de convaincre ou convertir) est strictement interdit aux enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-008",
+        "shortId": "Q-6BD397",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une manifestation déclarée dégénère et des casses ont lieu. La police ordonne la dispersion. Que devez-vous faire légalement ?",
+        "choices": [
+          {
+            "text": "Rester sur place car le droit de manifester est constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtempérer et quitter les lieux après les sommations d'usage",
+            "isCorrect": true
+          },
+          {
+            "text": "Négocier avec les forces de l'ordre pour continuer",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous cacher en attendant que le calme revienne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le maintien de l'ordre public permet de disperser un attroupement violent. Refuser de se disperser après les sommations constitue un délit (attroupement)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-009",
+        "shortId": "Q-95084E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre entreprise interdit toute conversation dans une langue étrangère, même pendant les pauses café. Cette clause du règlement intérieur est-elle valide ?",
+        "choices": [
+          {
+            "text": "Non, c'est une atteinte disproportionnée aux libertés individuelles et une discrimination",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le français est la seule langue autorisée sur le sol français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour préserver la culture d'entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'entreprise reçoit des subventions publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'employeur ne peut imposer le français que si cela est justifié par la nature de la tâche (sécurité, relation client). Interdire une langue étrangère lors des temps de pause est abusif et discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-010",
+        "shortId": "Q-89DC5F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous refusez de payer vos impôts locaux en arguant que vous n'utilisez pas les équipements municipaux (piscine, bibliothèque). Quel principe républicain contestez-vous ?",
+        "choices": [
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La présomption d'innocence",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fraternité et la solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de propriété",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'impôt permet de financer les services publics et la protection sociale au bénéfice de tous. Le consentement à l'impôt est un devoir citoyen fondé sur la solidarité (Fraternité)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-011",
+        "shortId": "Q-1894C7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle d'identité, un policier exige de connaître votre appartenance religieuse. Devez-vous répondre ?",
+        "choices": [
+          {
+            "text": "Oui, vous devez répondre à toutes les questions d'un policier",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous portez un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du contexte sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, cette question est illégale et porte atteinte à votre vie privée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les forces de l'ordre n'ont pas le droit de ficher ou d'interroger les citoyens sur leurs opinions religieuses, politiques ou syndicales lors d'un simple contrôle d'identité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-012",
+        "shortId": "Q-771751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre enfant vient d'avoir 16 ans. Quelle démarche citoyenne obligatoire doit-il effectuer à la mairie ?",
+        "choices": [
+          {
+            "text": "S'inscrire au permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander sa carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer ses premiers impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recensement citoyen est obligatoire à 16 ans. Il permet d'être convoqué à la Journée Défense et Citoyenneté (JDC) et d'être inscrit d'office sur les listes électorales à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-013",
+        "shortId": "Q-E33751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Sur un réseau social public, un individu publie des propos incitant à la haine raciale. Comment la loi considère-t-elle cet acte ?",
+        "choices": [
+          {
+            "text": "Comme un délit pénal, la liberté d'expression ayant pour limite le respect d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Comme une opinion protégée par la liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme une faute civile uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme un acte légal tant qu'il n'y a pas d'appel au meurtre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression n'est pas absolue. L'injure raciste, la diffamation et l'incitation à la haine sont des délits punis par la loi (Loi sur la presse de 1881)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-014",
+        "shortId": "Q-83BDCE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un candidat aux élections municipales vous propose une somme d'argent contre la promesse de votre vote. Quelle infraction commet-il ?",
+        "choices": [
+          {
+            "text": "L'abus de confiance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le détournement de fonds publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune, c'est une pratique de campagne courante",
+            "isCorrect": false
+          },
+          {
+            "text": "La corruption électorale (achat de voix)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'achat de voix est une atteinte grave à la sincérité du scrutin. La corruption électorale (achat de voix), c'est un délit passible de prison, d'amende et d'inéligibilité pour le candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-015",
+        "shortId": "Q-0655D3",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous êtes témoin d'une agression physique dans la rue. La victime est en danger. Selon la loi française, que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Filmer la scène pour avoir des preuves",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne rien faire pour ne pas vous mettre en danger",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter assistance (alerter les secours ou intervenir si possible sans risque)",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que la police arrive",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La non-assistance à personne en danger est un délit. Vous avez l'obligation d'alerter les secours et, si possible sans risque pour vous-même, de porter assistance à la victime."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-016",
+        "shortId": "Q-BAC315",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une administration refuse une allocation à une personne sous prétexte qu'elle est devenue française par naturalisation récemment. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, il y a un délai de carence de 5 ans pour les naturalisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il y a égalité totale des droits entre Français de naissance et naturalisés",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, les naturalisés ont des droits restreints",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du pays d'origine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dès l'acquisition de la nationalité, le citoyen naturalisé bénéficie exactement des mêmes droits et devoirs que le citoyen français de naissance. Toute discrimination est illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-017",
+        "shortId": "Q-97A346",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre mairie organise un référendum local sur la construction d'une école. Qui finance ce projet ?",
+        "choices": [
+          {
+            "text": "Les impôts locaux payés par les contribuables de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union Européenne exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les dons des parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise privée obligatoirement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les équipements publics (écoles primaires, voirie communale) sont financés par le budget de la commune, alimenté principalement par les impôts locaux (taxe foncière, etc.) et les dotations de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-018",
+        "shortId": "Q-876170",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un maire refuse de prêter une salle municipale à un parti politique d'opposition alors qu'elle est disponible. Quel principe est violé ?",
+        "choices": [
+          {
+            "text": "Le principe de laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de propriété de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité et de neutralité du service public",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les moyens du service public (comme les salles municipales) doivent être gérés sans discrimination politique. Si la salle est ouverte aux partis, elle doit l'être pour tous équitablement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-019",
+        "shortId": "Q-5B3D13",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une discussion, quelqu'un nie l'existence des chambres à gaz pendant la Seconde Guerre mondiale. Est-ce une opinion libre ?",
+        "choices": [
+          {
+            "text": "Oui, chacun peut réécrire l'histoire",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une opinion choquante mais légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit de négationnisme puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend si les propos sont tenus en public ou en privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi Gayssot (1990) fait du négationnisme (contestation des crimes contre l'humanité jugés à Nuremberg) un délit pénal, et non une simple opinion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-020",
+        "shortId": "Q-D67388",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous recevez une convocation pour être juré d'assises. Vous ne voulez pas y aller car cela vous ennuie. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien, c'est une invitation facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende importante, car c'est un devoir civique obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "D'être radié des listes électorales",
+            "isCorrect": false
+          },
+          {
+            "text": "Il suffit de demander à être remplacé par son conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La participation au jury d'assises est un devoir citoyen. L'absence sans motif légitime (maladie, impératif grave) est sanctionnée par une amende de 3 750 euros."
+      }
+    }
+  ]
+}

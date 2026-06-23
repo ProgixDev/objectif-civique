@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-official-6",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-036",
+        "shortId": "Q-1F523B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la différence entre le drapeau français et le drapeau européen sur un bâtiment public.",
+        "choices": [
+          {
+            "text": "Le drapeau européen remplace le drapeau français depuis 1992.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau français est obligatoire, le drapeau européen est interdit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau européen indique que le bâtiment appartient à l'OTAN.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau français est l'emblème national, le drapeau européen symbolise l'union des peuples d'Europe.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les deux drapeaux coexistent souvent. Le tricolore représente la souveraineté française, le drapeau bleu étoilé l'appartenance à l'UE."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-008",
+        "shortId": "Q-EBDF8D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel droit permet à une personne de se défendre devant la justice ?",
+        "choices": [
+          {
+            "text": "Le droit à un procès équitable et à l'assistance d'un avocat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de choisir les magistrats chargés de juger l'affaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser toute comparution sans justification",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de reporter indéfiniment l'audience",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de se défendre repose sur les droits de la défense: accès à un tribunal impartial, contradiction des preuves et assistance d'un avocat. Les autres propositions ne correspondent pas à des garanties procédurales reconnues."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-016",
+        "shortId": "Q-43E96C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne souhaite quitter le territoire français pour s'installer à l'étranger. L'État peut-il s'y opposer pour des raisons administratives simples ?",
+        "choices": [
+          {
+            "text": "Oui, tout citoyen doit obtenir un visa de sortie délivré par le ministère de l'Économie.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le départ définitif est interdit pour les personnes ayant reçu une éducation gratuite en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire le départ uniquement si la personne est sous le coup d'une décision judiciaire spécifique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'aller et venir est un principe constitutionnel qui inclut le droit de quitter le pays librement.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de mouvement est fondamentale. Elle ne peut être restreinte que par la justice (contrôle judiciaire) ou pour des impératifs de sécurité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-029",
+        "shortId": "Q-E9DDB9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire une victime de violences ?",
+        "choices": [
+          {
+            "text": "Régler le conflit en privé sans faire appel aux autorités",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre d'avoir des preuves matérielles avant de signaler",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter plainte, faire constater les faits médicalement et demander un accompagnement adapté",
+            "isCorrect": true
+          },
+          {
+            "text": "Contacter uniquement un médecin pour obtenir un certificat médical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une victime de violences doit être protégée rapidement: signalement aux autorités, constat médical et accompagnement spécialisé permettent de sécuriser la personne et d'engager les démarches judiciaires utiles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-070",
+        "shortId": "Q-C89B2E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande dans quelle langue sont rédigés les documents officiels en France. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "En français et en anglais pour faciliter les démarches des étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "En français, la langue officielle de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans la langue que préfère le citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la langue régionale dominante de chaque département",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution précise que le français est la langue de la République. C'est la langue officielle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-052",
+        "shortId": "Q-F53E7C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous travaillez de nuit. Avez-vous droit à des compensations ?",
+        "choices": [
+          {
+            "text": "Non, le travail est identique",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous travaillez à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi prévoit des repos ou primes",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais une seule fois par an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code du travail impose des contreparties obligatoires pour le travail de nuit : repos compensateur et, le cas échéant, une majoration salariale. Un suivi médical renforcé est également prévu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-005",
+        "shortId": "Q-984AE3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
+        "choices": [
+          {
+            "text": "Oui, si cela reste privé et non diffusé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si c'est formulé comme une opinion",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du contexte et de l'intention",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'injure discriminatoire n'est pas une opinion, c'est un délit. La loi punit le racisme, le sexisme, l'handiphobie, etc."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-009",
+        "shortId": "Q-251A8D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+        "choices": [
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution du 4 octobre 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention européenne des droits de l'homme de 1950",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La DDHC de 1789 est le texte fondateur en France pour les libertés publiques et l'égalité civique. Les autres textes sont importants, mais ils sont postérieurs ou de nature différente."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-002",
+        "shortId": "Q-C15D70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Un général qui a créé l'Empire français (1804-1814)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un roi de France du Moyen Âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Un savant français célèbre",
+            "isCorrect": false
+          },
+          {
+            "text": "Un évêque important",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte (1769-1821) était un général militaire qui a pris le pouvoir en 1799. Il s'est proclamé empereur en 1804 et a gouverné la France de manière autoritaire, créant le Premier Empire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-031",
+        "shortId": "Q-888BD1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "choices": [
+          {
+            "text": "En 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1905",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le fondement de la laïcité en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-050",
+        "shortId": "Q-BB4AB6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous possédez un chien de catégorie dangereuse. Quelle est l'obligation ?",
+        "choices": [
+          {
+            "text": "Le laisser courir librement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le déclarer en mairie et mettre une muselière",
+            "isCorrect": true
+          },
+          {
+            "text": "Le garder uniquement à l'intérieur de votre domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir un permis de chasse pour le posséder",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les chiens de catégorie 1 et 2 doivent être déclarés en mairie, muselés et tenus en laisse sur la voie publique. Le propriétaire doit détenir un permis de détention et une assurance responsabilité civile."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-011",
+        "shortId": "Q-7D925F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "choices": [
+          {
+            "text": "À la fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "À la fête nationale du 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'armistice de 1918, fin de la Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "À la Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre marque l'anniversaire de l'armistice du 11 novembre 1918 qui a mis fin à la Première Guerre mondiale. C'est un jour de commémoration en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-021",
+        "shortId": "Q-F23296",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la langue officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Le français et l'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Les langues régionales ont un statut égal au français",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le français mais les langues régionales sont co-officielles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution stipule : \"La langue de la République est le français.\""
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-042",
+        "shortId": "Q-536707",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle fréquence les élections européennes sont-elles organisées ?",
+        "choices": [
+          {
+            "text": "Tous les 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés au Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Les élections européennes ont lieu simultanément dans tous les États membres de l'Union européenne, selon des règles communes fixées au niveau européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-009",
+        "shortId": "Q-959976",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un accident de la route. Que devez-vous faire en premier ?",
+        "choices": [
+          {
+            "text": "Sécuriser la zone (triangle, gilet) et appeler les secours",
+            "isCorrect": true
+          },
+          {
+            "text": "Déplacer immédiatement les blessés pour dégager la chaussée",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler votre assurance pour signaler l'accident",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre l'arrivée d'un médecin avant toute action",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le protocole PAS (Protéger, Alerter, Secourir) impose de sécuriser la zone en premier pour éviter un suraccident, puis d'alerter les secours (15, 17 ou 18)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-017",
+        "shortId": "Q-9EDA00",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a fondé la Ve République ?",
+        "choices": [
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles de Gaulle a fondé la Ve République en 1958 en rédigeant une nouvelle Constitution. Il l'a fait pour renforcer le pouvoir exécutif et stabiliser le système politique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-041",
+        "shortId": "Q-EFB550",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un témoin lors d'un mariage civil à la mairie refuse de signer l'acte car il ne reconnaît pas l'autorité de l'État. Quel est l'effet sur le mariage ?",
+        "choices": [
+          {
+            "text": "Le mariage ne peut pas être célébré car la présence et la signature de témoins valides sont obligatoires pour l'état civil.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire peut signer à la place du témoin sans que cela ne pose de problème légal.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est validé uniquement si les mariés acceptent de payer une amende pour le témoin.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage civil est automatiquement validé par le maire sans témoin si les mariés signent une décharge.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les actes d'état civil sont des documents légaux stricts. Le respect des procédures est nécessaire pour la validité juridique du mariage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-023",
+        "shortId": "Q-BE6B9E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie « suffrage universel » ?",
+        "choices": [
+          {
+            "text": "Le vote est réservé aux personnes payant des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens majeurs ont le droit de vote sans distinction de sexe, de richesse ou d'origine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote est public et contrôlé par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote est obligatoire pour tous les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage universel signifie que tous les citoyens majeurs disposent du droit de vote, sans condition de richesse, de sexe ou d'origine. En France, le suffrage universel masculin a été instauré en 1848 et le droit de vote des femmes en 1944. Il constitue un principe fondamental de la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-063",
+        "shortId": "Q-5A7519",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 6 ans ne va pas à l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est votre choix comme parent, l'instruction en famille est un droit sans condition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'instruction n'est obligatoire qu'à partir de 6 ans, les enfants de moins de 6 ans n'y sont pas soumis",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation scolaire ne concerne que les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire, l'école est un droit et un devoir",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'instruction est obligatoire de 3 à 16 ans en France. Les parents qui ne respectent pas cette obligation s'exposent à des sanctions pénales. L'instruction à domicile est possible mais soumise à autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-029",
+        "shortId": "Q-8C734F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est un grand port maritime ?",
+        "choices": [
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille, Le Havre, Dunkerque, Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille, Le Havre, Dunkerque et Nantes sont des grands ports maritimes français. Marseille est le plus grand port de France en Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-076",
+        "shortId": "Q-FAF2FD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie 'République démocratique'. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "Le pouvoir appartient au peuple qui choisit ses représentants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir appartient à une seule personne, le Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est exercé par le Premier ministre sans obligation de consulter le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est confié à des experts et techniciens nommés par le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans une démocratie, le peuple est souverain. Il choisit par le vote les personnes qui dirigent le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-016",
+        "shortId": "Q-9E37D2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge a-t-on le droit de voter ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans pour tous les citoyens français jouissant de leurs droits civils."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-021",
+        "shortId": "Q-651486",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que permet la citoyenneté française ?",
+        "choices": [
+          {
+            "text": "D'accéder automatiquement à tous les emplois publics sans condition",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être exonéré des impôts nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "De voter et d'être éligible aux élections ouvertes aux citoyens français",
+            "isCorrect": true
+          },
+          {
+            "text": "D'obtenir automatiquement toutes les prestations sociales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté française ouvre principalement des droits politiques, notamment le vote et l'éligibilité selon les scrutins prévus par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-022",
+        "shortId": "Q-0AB926",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est française ?",
+        "choices": [
+          {
+            "text": "Cologne",
+            "isCorrect": false
+          },
+          {
+            "text": "Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Charleroi",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une grande ville française et une métropole régionale importante."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-022",
+        "shortId": "Q-C2810C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À prouver son affiliation à l'Assurance maladie et à faciliter le remboursement des soins",
+            "isCorrect": true
+          },
+          {
+            "text": "À servir de pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À remplacer une ordonnance médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "À garantir la gratuité de tous les soins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La carte Vitale permet d'identifier l'assuré auprès de l'Assurance maladie et de transmettre plus facilement les informations nécessaires au remboursement. Elle n'a pas la valeur générale d'une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-014",
+        "shortId": "Q-4C5E42",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie le mot \"fraternité\" dans la devise française ?",
+        "choices": [
+          {
+            "text": "L'égalité des salaires",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité entre les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Le respect des traditions familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unité nationale face aux ennemis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité invite les citoyens à s'entraider et à vivre ensemble dans le respect mutuel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-014",
+        "shortId": "Q-AD963F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections municipales ?",
+        "choices": [
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux (qui élisent ensuite le maire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lors des élections municipales, les électeurs élisent les conseillers municipaux. Après l’élection, le conseil municipal se réunit et élit en son sein le maire et les adjoints. Le Président de la République et les députés sont élus lors d’autres scrutins, et le préfet est nommé par l’État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-007",
+        "shortId": "Q-945297",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que la liberté d’expression ?",
+        "choices": [
+          {
+            "text": "Le droit d'exprimer uniquement des opinions validées par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de publier sans responsabilité en cas de diffamation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'exprimer ses opinions et informations, dans les limites prévues par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une liberté réservée aux journalistes et aux élus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'expression protège la communication des idées et des informations. Elle n'est pas absolue: des limites légales existent, notamment contre la diffamation, l'injure ou l'incitation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-019",
+        "shortId": "Q-EA83BC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Guerre de Cent Ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guerre de 1870",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle a opposé les puissances alliées (France, Royaume-Uni, Russie, puis États-Unis) aux puissances centrales (Allemagne, Autriche-Hongrie)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-025",
+        "shortId": "Q-DCA92A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'autorité parentale prévoit l'obligation :",
+        "choices": [
+          {
+            "text": "De financer tous les loisirs choisis par l'enfant jusqu'à sa majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "D'assurer sa sécurité, sa santé, son éducation et son développement dans le respect de sa personne",
+            "isCorrect": true
+          },
+          {
+            "text": "De choisir seul son orientation professionnelle future",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'inscrire obligatoirement dans l'enseignement privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs exercés dans l'intérêt de l'enfant. Elle oblige notamment les parents à protéger sa sécurité et sa santé, à assurer son éducation et à veiller à son développement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-027",
+        "shortId": "Q-1D08DA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ?",
+        "choices": [
+          {
+            "text": "Un défilé militaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Un bal populaire avec feux d'artifice",
+            "isCorrect": false
+          },
+          {
+            "text": "Une course cycliste (Tour de France)",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cérémonie de remise de la Légion d'honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 1880, un défilé militaire est organisé sur les Champs-Élysées le 14 juillet, présidé par le chef de l'État. Des feux d'artifice ont lieu le soir à la Tour Eiffel et dans les communes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-021",
+        "shortId": "Q-AF69F1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+        "choices": [
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Justifier d'une résidence ininterrompue de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir signé la Charte des droits et devoirs du citoyen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription sur les listes électorales est obligatoire. Elle est automatique pour les jeunes à 18 ans, mais nécessite une démarche volontaire en cas de déménagement ou d'acquisition de la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-023",
+        "shortId": "Q-335325",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise refuse de vous embaucher uniquement car vous avez 58 ans. C'est :",
+        "choices": [
+          {
+            "text": "Normal, les entreprises préfèrent les jeunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si l'entreprise est petite",
+            "isCorrect": false
+          },
+          {
+            "text": "De la discrimination liée à l'âge, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Obligatoire selon le code du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'âge ne peut pas être un motif de refus d'embauche. C'est une discrimination illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-036",
+        "shortId": "Q-27CE18",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était George Sand ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une écrivaine française du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une sculptrice française du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compositrice française du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "George Sand (1804-1876) était une écrivaine française importante du XIXe siècle et une féministe engagée. Elle a écrit de nombreux romans et a défendu les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-012",
+        "shortId": "Q-B81787",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est aidé par France Travail ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes licenciées",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les jeunes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Les personnes en recherche d'emploi et les employeurs dans leurs recrutements",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les personnes qui perçoivent déjà une allocation chômage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les personnes en recherche d'emploi dans leurs démarches et aide aussi les employeurs à recruter. L'indemnisation chômage n'est possible que si les conditions d'ouverture des droits sont remplies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-034",
+        "shortId": "Q-F0A482",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, qui est chargé de veiller au respect de la Constitution et de la régularité des élections nationales ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel.",
+            "isCorrect": true
+          },
+          {
+            "text": "La Gendarmerie nationale.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat réuni en Haute Cour.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le syndicat des magistrats.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil constitutionnel est le 'juge des élections'. Il vérifie que le vote des citoyens est respecté et sincère."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-006",
+        "shortId": "Q-102275",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui doit respecter la loi ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes majeures",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens, y compris les élus et le Président",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement les citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les personnes résidant en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le principe d’égalité devant la loi signifie que la loi s’impose à tous, sans distinction. Nul n’est au-dessus des lois, y compris les élus et le Président de la République. Ce principe est fondamental dans un État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-057",
+        "shortId": "Q-65A4DA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un inconnu au téléphone demande votre code de carte bancaire. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous vérifiez son identité en lui demandant de confirmer votre adresse",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous lui communiquez le code si l'appel semble provenir de votre banque",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous raccrochez et contactez directement votre banque pour vérifier",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous demandez qu'il vous envoie d'abord un courrier recommandé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une banque ne demande jamais de code secret par téléphone. En cas de doute, il faut raccrocher et appeler soi-même le numéro officiel de sa banque pour vérifier."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-009",
+        "shortId": "Q-281DCB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "De 1914 à 1918",
+            "isCorrect": true
+          },
+          {
+            "text": "De 1914 à 1921",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1939 à 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1918 à 1922",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Première Guerre mondiale s'étend de 1914 à 1918. Les dates 1870-1871 correspondent à la guerre franco-prussienne, et 1939-1945 à la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-007",
+        "shortId": "Q-F1C7C5",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand faut-il déclarer son enfant au service d'état civil ?",
+        "choices": [
+          {
+            "text": "Dans les 24 heures suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le mois suivant la naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les 5 jours suivant la naissance",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune déclaration n'est nécessaire si l'enfant naît à l'hôpital",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La naissance doit être déclarée à l'état civil de la mairie du lieu de naissance dans les 5 jours. Cette démarche est obligatoire pour établir l'acte de naissance de l'enfant."
+      }
+    }
+  ]
+}

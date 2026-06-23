@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-5",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-012",
+        "shortId": "Q-771751",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre enfant vient d'avoir 16 ans. Quelle démarche citoyenne obligatoire doit-il effectuer à la mairie ?",
+        "choices": [
+          {
+            "text": "S'inscrire au permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander sa carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer ses premiers impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recensement citoyen est obligatoire à 16 ans. Il permet d'être convoqué à la Journée Défense et Citoyenneté (JDC) et d'être inscrit d'office sur les listes électorales à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-006",
+        "shortId": "Q-04C539",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les peines encourues pour discrimination (racisme, sexisme, homophobie...) ?",
+        "choices": [
+          {
+            "text": "Jusqu'à 3 ans d'emprisonnement et 45 000 euros d'amende",
+            "isCorrect": true
+          },
+          {
+            "text": "Un stage de citoyenneté obligatoire uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple amende forfaitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune peine si c'est exprimé sur internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La discrimination est un délit grave. Le Code pénal punit le refus d'un bien ou d'un service, ou d'une embauche, fondé sur un critère discriminatoire (origine, sexe, handicap...)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-037",
+        "shortId": "Q-77990A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter en France aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Tous les résidents",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes qui paient des impôts uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage est universel : il n'est pas lié à la richesse ou au sexe. Seule la nationalité, la majorité et la jouissance des droits civils sont requises."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-043",
+        "shortId": "Q-ED8534",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant est victime de harcèlement scolaire. L'établissement ne réagit pas. Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Porter plainte au commissariat et saisir le rectorat par courrier recommandé",
+            "isCorrect": true
+          },
+          {
+            "text": "Retirer immédiatement votre enfant de l'école sans procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter uniquement l'association de parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre la fin de l'année scolaire pour changer d'établissement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Face à l'inaction d'un établissement, les parents peuvent porter plainte (le harcèlement scolaire est un délit) et saisir le rectorat pour engager la responsabilité de l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-012",
+        "shortId": "Q-552AB6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de manifester est une liberté fondamentale. Quelle est la condition pour l'exercer ?",
+        "choices": [
+          {
+            "text": "Il faut une autorisation du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "La manifestation doit être déclarée en préfecture (ou mairie) au préalable",
+            "isCorrect": true
+          },
+          {
+            "text": "Il faut payer une taxe de voirie",
+            "isCorrect": false
+          },
+          {
+            "text": "La manifestation est interdite le dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les manifestations sur la voie publique sont soumises à l'obligation de déclaration préalable. Elles peuvent être interdites si elles menacent gravement l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-001",
+        "shortId": "Q-B80D51",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale de la garde à vue pour une infraction de droit commun (vol, dégradations) ?",
+        "choices": [
+          {
+            "text": "12 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "24 heures, renouvelable une fois (soit 48 heures au total)",
+            "isCorrect": true
+          },
+          {
+            "text": "48 heures sans renouvellement possible",
+            "isCorrect": false
+          },
+          {
+            "text": "72 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La garde à vue dure initialement 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République. Elle peut durer jusqu'à 96h pour terrorisme ou trafic de stupéfiants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-022",
+        "shortId": "Q-50E3EA",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le principe de « non-rétroactivité » de la loi pénale ?",
+        "choices": [
+          {
+            "text": "On ne peut pas être condamné pour un acte qui n'était pas interdit par la loi au moment où il a été commis",
+            "isCorrect": true
+          },
+          {
+            "text": "Une loi ne s'applique qu'aux personnes nées après sa promulgation",
+            "isCorrect": false
+          },
+          {
+            "text": "On ne peut pas faire appel d'un jugement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi change tous les ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour garantir la sécurité juridique, une nouvelle loi pénale plus sévère ne peut pas s'appliquer à des faits passés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-026",
+        "shortId": "Q-ADAD83",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes propriétaire et votre locataire ne paie plus son loyer depuis 3 mois. Pouvez-vous changer les serrures pour l'expulser ?",
+        "choices": [
+          {
+            "text": "Oui, après mise en demeure restée sans effet pendant 15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le bail contient une clause résolutoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de squat avéré du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un huissier mandaté par le juge peut procéder à l'expulsion",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'expulsion doit suivre une procédure judiciaire stricte. Changer les serrures soi-même constitue une voie de fait pénalement sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-028",
+        "shortId": "Q-5BE9DD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Situé à la pointe de la Bretagne, quel département possède le plus de côtes maritimes ?",
+        "choices": [
+          {
+            "text": "La Gironde",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Finistère",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Calvados",
+            "isCorrect": false
+          },
+          {
+            "text": "La Vendée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Finistère (Finis Terrae, « fin de la terre ») est le département le plus à l'ouest de la France métropolitaine."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-050",
+        "shortId": "Q-912382",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un élève demande à être dispensé du cours de biologie car le contenu sur l'évolution contredit ses croyances. Que répond l'école ?",
+        "choices": [
+          {
+            "text": "L'élève a le droit d'être dispensé pour motif de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus est justifié car les programmes scolaires sont obligatoires et laïques pour tous",
+            "isCorrect": true
+          },
+          {
+            "text": "L'élève peut suivre un enseignement alternatif à domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le rectorat peut accorder une telle dispense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les programmes de l'Éducation nationale sont laïques et obligatoires. Aucune conviction religieuse ne permet de se soustraire aux enseignements officiels qui reposent sur la méthode scientifique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-014",
+        "shortId": "Q-373D12",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un magasin, un vigile vous demande de vider vos poches et de le suivre dans un local. Quels sont vos droits ?",
+        "choices": [
+          {
+            "text": "Oui, s'il est assermenté par la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez refuser la fouille et exiger l'intervention de la police",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vigile peut vous retenir pendant 2 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez accepter car vous êtes sur une propriété privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un agent de sécurité privé n'a pas le pouvoir de fouiller une personne ni de la retenir de force. Seule la police a ce pouvoir. Vous pouvez refuser toute fouille et demander l'intervention des forces de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-038",
+        "shortId": "Q-FEF1A3",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Roquefort est un fromage à pâte persillée fabriqué à partir de lait de :",
+        "choices": [
+          {
+            "text": "Vache",
+            "isCorrect": false
+          },
+          {
+            "text": "Chèvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Brebis",
+            "isCorrect": true
+          },
+          {
+            "text": "Bufflonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Roquefort bénéficie d'une Appellation d'Origine Protégée (AOP). Il doit être affiné dans les caves naturelles de Roquefort-sur-Soulzon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-026",
+        "shortId": "Q-B5F500",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une agence immobilière sélectionne les locataires en fonction de la consonance de leur nom de famille. Comment cela s'appelle-t-il ?",
+        "choices": [
+          {
+            "text": "La liberté contractuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une préférence nationale légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sélection administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination raciale systémique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Trier les candidats sur l'origine supposée d'après le nom est une discrimination raciale directe, sévèrement punie par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-027",
+        "shortId": "Q-742AEA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans l'organisation de la République, qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le corps électoral par vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen de l'Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'article 8 de la Constitution, le Président de la République nomme le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-013",
+        "shortId": "Q-F46321",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'aide juridictionnelle (AJ) permet la prise en charge des frais de justice par l'État. Quelle est sa condition principale d'attribution ?",
+        "choices": [
+          {
+            "text": "Avoir la nationalité française exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas dépasser un certain plafond de ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Être sans emploi depuis plus de 6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'aide juridictionnelle est attribuée sous conditions de ressources (revenus et patrimoine). Elle peut être totale ou partielle selon le niveau de revenus du demandeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-015",
+        "shortId": "Q-4A641E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La grotte de Lascaux (Dordogne) est mondialement connue pour :",
+        "choices": [
+          {
+            "text": "Ses formations de cristaux géants",
+            "isCorrect": false
+          },
+          {
+            "text": "Ses peintures rupestres préhistoriques (art pariétal)",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir abrité les premiers rois de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Être le plus profond gouffre d'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Surnommée la « Chapelle Sixtine de la Préhistoire », elle abrite des peintures d'animaux datant d'environ 18 000 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-038",
+        "shortId": "Q-E66192",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, qui est le Chef des Armées ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de la Défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chef d'État-Major",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 15 de la Constitution fait du Président de la République le chef des armées. Il préside les conseils de défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-080",
+        "shortId": "Q-566B00",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom du palais où siège l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais-Royal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Palais de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Palais Bourbon, situé quai d'Orsay à Paris, accueille les députés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-008",
+        "shortId": "Q-7096D7",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge peut-on commencer à travailler légalement (hors apprentissage et dérogations) ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le travail est autorisé à partir de 16 ans, âge auquel la scolarité n'est plus obligatoire. Des dérogations existent pour les mineurs de 14-15 ans (vacances scolaires) et l'apprentissage (15 ans)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-035",
+        "shortId": "Q-9AD36E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle période historique associe-t-on les Châteaux de la Loire (Chambord, Chenonceau...) ?",
+        "choices": [
+          {
+            "text": "L'époque Gallo-Romaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Moyen-Âge féodal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Renaissance",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution industrielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les rois de France (comme François Ier) y ont construit des demeures de plaisance inspirées par l'art italien aux XVe et XVIe siècles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-080",
+        "shortId": "Q-99C2E2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un adolescent de 17 ans demande s'il peut voter aux prochaines élections municipales. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "Oui, s'il a l'autorisation parentale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut avoir 18 ans révolus le jour du scrutin pour voter",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, depuis 2021 le vote est possible dès 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il peut voter par procuration via ses parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de vote en France est acquis à 18 ans révolus. La majorité électorale coïncide avec la majorité civile depuis 1974."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-073",
+        "shortId": "Q-714383",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dispose du droit de grâce à titre individuel ?",
+        "choices": [
+          {
+            "text": "Le Ministre de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 17 de la Constitution autorise le Président de la République à dispenser un condamné d'exécuter tout ou partie de sa peine (grâce à titre individuel)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-015",
+        "shortId": "Q-8629FE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de prescription (période après laquelle on ne peut plus être jugé) pour un crime ?",
+        "choices": [
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "20 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis la réforme de 2017, le délai de prescription de l'action publique pour les crimes de droit commun est passé de 10 à 20 ans. Il est de 30 ans pour le terrorisme et le trafic de drogue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-009",
+        "shortId": "Q-394A29",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui commandait les forces alliées lors du Débarquement en Normandie le 6 juin 1944 ?",
+        "choices": [
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Eisenhower",
+            "isCorrect": true
+          },
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le général américain Dwight D. Eisenhower qui a dirigé l'opération Overlord, permettant la libération de la France et de l'Europe de l'Ouest."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-013",
+        "shortId": "Q-A21179",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'autorité parentale sur un enfant est-elle perdue en cas de divorce ?",
+        "choices": [
+          {
+            "text": "Oui, elle revient au parent qui a la garde",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle continue d'être exercée conjointement par les deux parents (sauf décision grave du juge)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le père perd systématiquement l'autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du revenu des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des parents est sans effet sur l'autorité parentale. Les décisions importantes (santé, scolarité, religion) doivent toujours être prises à deux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-029",
+        "shortId": "Q-EDC819",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'État de droit ?",
+        "choices": [
+          {
+            "text": "Un État où la police a tous les pouvoirs",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où tout le monde, y compris l'État et le Président, doit respecter la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un État géré par des avocats",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État sans constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans un État de droit, la puissance publique est soumise au droit. Cela protège les citoyens contre l'arbitraire du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-103",
+        "shortId": "Q-67F37C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la perte de la nationalité française pour un individu (mesure exceptionnelle) ?",
+        "choices": [
+          {
+            "text": "L'expatriation",
+            "isCorrect": false
+          },
+          {
+            "text": "La déchéance de nationalité",
+            "isCorrect": true
+          },
+          {
+            "text": "La radiation sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exclusion électorale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déchéance de nationalité, c'est une sanction rare visant des crimes très graves contre les intérêts de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-024",
+        "shortId": "Q-DD3AAD",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué par la police pour une audition libre. Avez-vous le droit à un avocat ?",
+        "choices": [
+          {
+            "text": "Non, l'avocat n'intervient qu'en garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous pouvez être assisté d'un avocat dès l'audition libre",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si vous êtes mineur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous faites l'objet d'une mise en examen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2014, toute personne entendue librement peut demander à être assistée d'un avocat pendant l'audition."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-033",
+        "shortId": "Q-5F43B1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Jean-Paul Sartre et Simone de Beauvoir sont les figures de proue de quel courant philosophique ?",
+        "choices": [
+          {
+            "text": "L'Existentialisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Marxisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Structuralisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Libéralisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'existentialisme postule que l'être humain est libre et se définit par ses actions (« L'existence précède l'essence »)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-010",
+        "shortId": "Q-F8BFC8",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le « Pass Culture » est un dispositif destiné aux jeunes pour :",
+        "choices": [
+          {
+            "text": "Voyager gratuitement en train",
+            "isCorrect": false
+          },
+          {
+            "text": "Financer des activités culturelles (livres, concerts, cinéma) via une application dédiée",
+            "isCorrect": true
+          },
+          {
+            "text": "Payer leur permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "S'inscrire à l'université sans frais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Attribué aux jeunes de 15 à 18 ans, ce crédit (jusqu'à 300€ à 18 ans) permet d'acheter des biens et services culturels sur une application géolocalisée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-007",
+        "shortId": "Q-B8C072",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "À l'école publique, un enseignant consacre son cours à promouvoir les bienfaits d'une religion spécifique pour convertir les élèves. Quel principe est enfreint ?",
+        "choices": [
+          {
+            "text": "La liberté pédagogique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit au prosélytisme éducatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de neutralité et de laïcité de l'enseignement public",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de conscience des enseignants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique est laïque. Les programmes peuvent aborder le 'fait religieux' (histoire des religions), mais le prosélytisme (tenter de convaincre ou convertir) est strictement interdit aux enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-010",
+        "shortId": "Q-E7FDD4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Au niveau européen, qui détient le « monopole de l'initiative législative » (proposer les lois) ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Seule la Commission européenne peut proposer de nouveaux textes législatifs européens. Le Parlement et le Conseil les discutent et les votent ensuite."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-030",
+        "shortId": "Q-3FFFB2",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du congé de paternité et d'accueil de l'enfant (pour un enfant unique) ?",
+        "choices": [
+          {
+            "text": "3 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "11 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "14 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "25 jours",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis le 1er juillet 2021, la durée du congé de paternité a été allongée à 25 jours calendaires, qui s'ajoutent aux 3 jours de congé de naissance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-050",
+        "shortId": "Q-940612",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a écrit « Les Misérables » et « Notre-Dame de Paris » ?",
+        "choices": [
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Honoré de Balzac",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Albert Camus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a eu des funérailles nationales et repose au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-001",
+        "shortId": "Q-59DB61",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'« abandon de poste » (absence injustifiée prolongée), quelle est la nouvelle conséquence pour le salarié ?",
+        "choices": [
+          {
+            "text": "Il est licencié pour faute grave et touche le chômage",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est considéré comme démissionnaire et perd ses droits à l'assurance chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "L'employeur doit obligatoirement attendre 3 mois avant d'agir",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est mis en congé sans solde automatiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2023, le salarié qui abandonne son poste sans justification après une mise en demeure est présumé démissionnaire. Il ne bénéficie donc plus des allocations chômage, contrairement au licenciement pour faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-037",
+        "shortId": "Q-1E2594",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Au guichet de la préfecture, un agent vous tutoie et vous manque de respect. Quel principe de la charte Marianne est violé ?",
+        "choices": [
+          {
+            "text": "La courtoisie et le respect mutuel dû à l'usager",
+            "isCorrect": true
+          },
+          {
+            "text": "La rapidité de traitement",
+            "isCorrect": false
+          },
+          {
+            "text": "La transparence administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de résultat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le service public doit traiter chaque usager avec dignité et courtoisie. Le vouvoiement et le respect sont des obligations déontologiques des agents de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-042",
+        "shortId": "Q-DAAD94",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la monnaie officielle circulant en France depuis janvier 2002 ?",
+        "choices": [
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Écu",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Franc CFA",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Euro est la monnaie unique de la zone euro, facilitant les échanges au sein de l'Union."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-022",
+        "shortId": "Q-87F1A6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez un courrier de l'administration fiscale vous demandant des justificatifs. Quel est le délai légal pour répondre ?",
+        "choices": [
+          {
+            "text": "15 jours à compter de la réception",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours à compter de la réception (délai de droit commun)",
+            "isCorrect": true
+          },
+          {
+            "text": "60 jours pour les contribuables résidant à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun délai n'est imposé, mais une réponse rapide est recommandée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le délai de réponse aux demandes de l'administration fiscale est en général de 30 jours, sauf mention contraire dans le courrier."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-020",
+        "shortId": "Q-D9104E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a composé le « Boléro », l'une des œuvres classiques les plus jouées au monde ?",
+        "choices": [
+          {
+            "text": "Claude Debussy",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Hector Berlioz",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Bizet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Maurice Ravel a composé cette œuvre en 1928. Son rythme répétitif et son crescendo orchestral sont célèbres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-016",
+        "shortId": "Q-86FAEF",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, l'instruction (école ou maison) est obligatoire pour les enfants âgés de :",
+        "choices": [
+          {
+            "text": "6 à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "3 à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 à 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire dès 3 ans. De 16 à 18 ans, il existe une « obligation de formation » (scolarité, apprentissage, emploi ou service civique)."
+      }
+    }
+  ]
+}

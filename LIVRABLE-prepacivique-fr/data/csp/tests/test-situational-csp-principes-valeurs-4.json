@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-principes-valeurs-4",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-061",
+        "shortId": "Q-560FCD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Liberté' dans la devise française. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "La possibilité d'agir librement tant qu'on ne nuit pas aux autres",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de faire ce que l'on veut quand on veut, sans limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de s'exprimer librement sans aucune limite, même si cela nuit à autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Un privilège accordé uniquement aux citoyens qui respectent toutes les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté en France s'arrête là où commence celle des autres. C'est un équilibre entre droits individuels et vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-062",
+        "shortId": "Q-93D49A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Égalité' dans la devise française. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Tout le monde doit avoir le même salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens ont les mêmes droits et les mêmes devoirs devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Les hommes et les femmes font des métiers identiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a pas de riches ni de pauvres en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité signifie que la loi traite tout le monde de la même façon, sans distinction d'origine, de religion ou de richesse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-063",
+        "shortId": "Q-2E5876",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Fraternité' dans la devise française. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Le devoir pour chaque citoyen de participer à des actions caritatives au moins une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation légale d'héberger un voisin en difficulté financière",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de vivre dans la même ville que sa famille",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité entre les citoyens pour s'entraider",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité représente la solidarité nationale : aider les plus faibles, les malades, les personnes âgées ou en difficulté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-064",
+        "shortId": "Q-D124FA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelles sont les couleurs du drapeau français. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Bleu, blanc et vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Rouge, blanc et bleu (dans cet ordre)",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, blanc et rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Blanc et bleu seulement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore bleu-blanc-rouge est né pendant la Révolution française. C'est un symbole de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-065",
+        "shortId": "Q-45D67A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quel est l'hymne national de la France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "L'Internationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Douce France",
+            "isCorrect": false
+          },
+          {
+            "text": "La Parisienne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Marseillaise est l'hymne national français depuis la Révolution. Elle est chantée lors des cérémonies officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-066",
+        "shortId": "Q-6D4B8B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la laïcité en France. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "L'État contrôle le contenu des prières et des cérémonies religieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État ne favorise aucune religion et garantit la liberté de croire ou de ne pas croire",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout le monde doit avoir la même religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Les fêtes religieuses ne sont pas reconnues dans le calendrier officiel français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité sépare l'État et les religions. Chacun est libre de croire, de ne pas croire ou de changer de religion."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-067",
+        "shortId": "Q-1ECDCC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande qui élit le Président de la République en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Tous les citoyens français majeurs par le vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Les députés et les sénateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En France, le Président est élu au suffrage universel direct. Tous les Français de 18 ans et plus peuvent voter."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-068",
+        "shortId": "Q-51A802",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande qui fait les lois en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les maires de chaque ville",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges des tribunaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement vote les lois. Il est composé de l'Assemblée nationale et du Sénat, élus par les citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-069",
+        "shortId": "Q-DF4104",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous explique que tous les citoyens sont égaux. Mais le Président a-t-il plus de droits ?",
+        "choices": [
+          {
+            "text": "Oui, le Président est au-dessus des lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le Président peut être jugé pour des crimes graves",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président ne peut pas être puni, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président décide lui-même s'il doit obéir à la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Personne n'est au-dessus de la loi en France. Le Président peut être jugé par la Haute Cour pour des actes très graves."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-070",
+        "shortId": "Q-C89B2E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande dans quelle langue sont rédigés les documents officiels en France. Quelle est la réponse ?",
+        "choices": [
+          {
+            "text": "En français et en anglais pour faciliter les démarches des étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "En français, la langue officielle de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans la langue que préfère le citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la langue régionale dominante de chaque département",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution précise que le français est la langue de la République. C'est la langue officielle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-071",
+        "shortId": "Q-B6D66D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande pourquoi voter est important. Quelle est la meilleure raison ?",
+        "choices": [
+          {
+            "text": "Pour remplir une obligation légale sous peine d'amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour valider automatiquement son titre de séjour ou sa carte d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour avoir accès à plus de services que les autres",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour choisir les personnes qui vont décider des lois et de l'avenir du pays",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voter permet aux citoyens de participer à la démocratie en choisissant leurs représentants politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-072",
+        "shortId": "Q-0F1328",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelqu'un vous dit que les femmes n'ont pas les mêmes droits que les hommes. Est-ce vrai en France ?",
+        "choices": [
+          {
+            "text": "Oui, les hommes ont plus de droits que les femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les femmes et les hommes ont les mêmes droits selon la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Les femmes ont plus de droits que les hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de la région où l'on habite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité femme-homme est inscrite dans la Constitution. La loi garantit les mêmes droits à tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-073",
+        "shortId": "Q-9150E7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce qu'est le 14 juillet en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "La fête nationale qui célèbre la Révolution française",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête officielle de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de 1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet est la fête nationale française. Elle renvoie à la prise de la Bastille (1789) et à la Fête de la Fédération (1790), deux références fondatrices de l'histoire républicaine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-074",
+        "shortId": "Q-E780E2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant vous demande qui est Marianne. Que répondez-vous ?",
+        "choices": [
+          {
+            "text": "La première femme élue à l'Assemblée nationale en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbole de la République française, on voit son visage dans les mairies",
+            "isCorrect": true
+          },
+          {
+            "text": "La première femme à voter en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Une figure historique qui a dirigé la Résistance pendant la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne représente la République. Son buste est présent dans toutes les mairies de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-075",
+        "shortId": "Q-D84C1B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande pourquoi l'école est gratuite en France. Quelle est la raison ?",
+        "choices": [
+          {
+            "text": "Parce que les entreprises locales financent directement les écoles de leur quartier",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que l'État n'a pas le droit de demander de l'argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour que tous les enfants puissent apprendre, qu'ils soient riches ou pauvres",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce que les parents paient les frais de scolarité sous forme d'impôts locaux dédiés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique est gratuite pour garantir l'égalité des chances. Chaque enfant a le droit d'apprendre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-076",
+        "shortId": "Q-FAF2FD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie 'République démocratique'. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "Le pouvoir appartient au peuple qui choisit ses représentants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir appartient à une seule personne, le Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est exercé par le Premier ministre sans obligation de consulter le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir est confié à des experts et techniciens nommés par le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans une démocratie, le peuple est souverain. Il choisit par le vote les personnes qui dirigent le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-077",
+        "shortId": "Q-D9F011",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande si on peut critiquer le gouvernement en France. Que répondez-vous ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit et puni",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté d'expression permet de critiquer les politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si vous êtes journaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais il faut demander une autorisation à la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est un droit fondamental. Chacun peut exprimer son opinion, même critique, dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-078",
+        "shortId": "Q-F4E2CA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce qu'est la Sécurité sociale. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Une entreprise privée qui vend des assurances",
+            "isCorrect": false
+          },
+          {
+            "text": "Un service de l'État qui gère les pensions de retraite des fonctionnaires uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une assurance obligatoire gérée par des compagnies privées sous contrôle de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système de solidarité qui aide les malades, les familles et les retraités",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Sécurité sociale est le système de protection sociale français. Elle aide les citoyens face à la maladie, la vieillesse et d'autres difficultés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-079",
+        "shortId": "Q-920120",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous dit que la France est un 'État de droit'. Qu'est-ce que cela veut dire ?",
+        "choices": [
+          {
+            "text": "Tout le monde, y compris l'État, doit respecter les lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le gouvernement peut suspendre les droits fondamentaux en période de crise",
+            "isCorrect": false
+          },
+          {
+            "text": "Seuls les juges décident de tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens peuvent choisir quelles lois ils souhaitent respecter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans un État de droit, personne n'est au-dessus de la loi. L'État aussi doit respecter les règles qu'il a créées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-080",
+        "shortId": "Q-D8B3F1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande à partir de quel âge on peut voter en France. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de vote est acquis à la majorité, soit 18 ans. C'est à cet âge qu'on devient citoyen à part entière."
+      }
+    }
+  ]
+}

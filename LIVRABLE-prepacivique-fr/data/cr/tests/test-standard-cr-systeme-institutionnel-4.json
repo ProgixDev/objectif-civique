@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-systeme-institutionnel-4",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-standard-007",
+        "shortId": "Q-612E47",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux grands ordres de juridiction en France ?",
+        "choices": [
+          {
+            "text": "La justice locale et la justice nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire et l'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre civil et l'ordre militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La justice des mineurs et la justice des majeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le système judiciaire français est divisé en deux ordres distincts : l'ordre judiciaire (litiges entre personnes, pénal) et l'ordre administratif (litiges impliquant l'administration)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-097",
+        "shortId": "Q-8C383A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Tous les pays de l'UE sont-ils dans l'Espace Schengen ?",
+        "choices": [
+          {
+            "text": "Non, seule la France y est",
+            "isCorrect": false
+          },
+          {
+            "text": "Non (ex: Irlande, Chypre)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, ainsi que le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire pour tous les États membres dès l'adhésion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Non, certains pays de l'UE ne sont pas (ou pas encore) dans Schengen (Irlande, Chypre) et des pays hors UE comme la Suisse ou la Norvège y sont associés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-047",
+        "shortId": "Q-0F04E9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année 10 nouveaux pays ont-ils rejoint l'UE d'un coup (grand élargissement) ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "2010",
+            "isCorrect": false
+          },
+          {
+            "text": "1999",
+            "isCorrect": false
+          },
+          {
+            "text": "2004",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En 2004, l'UE a connu son plus grand élargissement avec l'adhésion de 10 nouveaux pays (Chypre, Estonie, Hongrie, Lettonie, Lituanie, Malte, Pologne, République tchèque, Slovaquie, Slovénie)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-002",
+        "shortId": "Q-2345A5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les six principes définissant l'État de droit ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi ; La séparation des pouvoirs ; La primauté du droit",
+            "isCorrect": true
+          },
+          {
+            "text": "L'autorité unique du chef de l'État et la soumission du Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "La surveillance généralisée et le contrôle de l'information",
+            "isCorrect": false
+          },
+          {
+            "text": "L'absence de recours juridictionnel contre l'administration",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les six principes définissant l'État de droit garantissent que l'administration agit légalement et que les citoyens sont protégés contre l'arbitraire. Ils incluent notamment la hiérarchie des normes, l'égalité devant la loi et la séparation des pouvoirs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-023",
+        "shortId": "Q-72FA5B",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que se passe-t-il si l'Assemblée nationale et le Sénat ne sont pas d'accord sur un texte ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre tranche",
+            "isCorrect": false
+          },
+          {
+            "text": "Une commission mixte paritaire (CMP) est convoquée",
+            "isCorrect": true
+          },
+          {
+            "text": "Le texte est abandonné",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président décide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En cas de désaccord persistant, une Commission Mixte Paritaire (7 députés, 7 sénateurs) est réunie pour tenter de trouver un compromis sur les articles restants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-046",
+        "shortId": "Q-28E3A8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence régalienne (restée à l'État) ?",
+        "choices": [
+          {
+            "text": "L'organisation des transports scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence liée à la souveraineté (armée, justice, diplomatie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le développement économique local",
+            "isCorrect": false
+          },
+          {
+            "text": "La gestion des équipements sportifs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les compétences régaliennes (Armée, Justice, Police, Diplomatie) sont celles qui touchent à la souveraineté. Elles restent le monopole de l'État et ne sont pas décentralisées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-045",
+        "shortId": "Q-AA92EB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les collectivités d'outre-mer (comme la Polynésie) font-elles partie de l'organisation décentralisée ?",
+        "choices": [
+          {
+            "text": "Oui",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement pour les questions économiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elles ont un statut d'association",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elles sont indépendantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, les collectivités d'outre-mer font partie intégrante de la République française décentralisée, avec des statuts parfois adaptés (autonomie)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-044",
+        "shortId": "Q-FBF27A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel objectif a été ajouté à l'UE par le traité de Lisbonne ?",
+        "choices": [
+          {
+            "text": "Le renforcement de la coopération militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La création d'une armée européenne unique",
+            "isCorrect": false
+          },
+          {
+            "text": "La politique agricole commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La lutte contre le changement climatique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lisbonne a inscrit la lutte contre le changement climatique et le développement durable comme des objectifs majeurs de l'Union."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-014",
+        "shortId": "Q-C12E62",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les médias doivent-ils être équitables entre les partis politiques ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une obligation légale",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pendant la présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, ils doivent soutenir le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, ils font ce qu'ils veulent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ARCOM veille au respect de l'équité des temps de parole entre les partis politiques dans les médias audiovisuels. Cette obligation légale assure que toutes les opinions démocratiques peuvent s'exprimer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-003",
+        "shortId": "Q-101CF1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la « primauté du droit » ?",
+        "choices": [
+          {
+            "text": "Les juges créent les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit ne s'applique qu'aux citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président est au-dessus du droit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit s'impose à tous, y compris à l'État",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La primauté du droit signifie que la loi est supérieure à tout pouvoir politique ou administratif. Aucune décision ne peut être prise en violation des règles de droit établies, garantissant ainsi l'égalité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-062",
+        "shortId": "Q-424426",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Parlement européen pour ses sessions plénières ?",
+        "choices": [
+          {
+            "text": "À Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg (France)",
+            "isCorrect": true
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Berlin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement européen tient ses sessions plénières mensuelles à Strasbourg, qui est son siège officiel, symbole de la réconciliation franco-allemande."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-059",
+        "shortId": "Q-9D2DEF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Conseil européen ?",
+        "choices": [
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil européen siège à Bruxelles dans le bâtiment Europa."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-022",
+        "shortId": "Q-D9EE68",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Le va-et-vient du texte entre l'Assemblée nationale et le Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le trajet entre l'Élysée et Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'échange de documents entre ministères",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote final de la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La « navette parlementaire » est le va-et-vient d'un texte de loi entre l'Assemblée nationale et le Sénat. Elle continue jusqu'à ce que les deux chambres votent un texte identique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-068",
+        "shortId": "Q-2E42B0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution assure le respect du droit européen ?",
+        "choices": [
+          {
+            "text": "La Cour internationale de justice (CIJ)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour européenne des droits de l'homme (CEDH)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice de l'Union européenne (CJUE)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Cour de justice de l'Union européenne (CJUE) veille à ce que le droit européen soit interprété et appliqué de la même manière dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-085",
+        "shortId": "Q-E0C582",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui choisit les ministres siégeant au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements nationaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les membres du Conseil de l'Union européenne sont les ministres des gouvernements nationaux de chaque pays membre, en fonction du sujet traité (Agriculture, Finances...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-096",
+        "shortId": "Q-6A470B",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'Espace Schengen ?",
+        "choices": [
+          {
+            "text": "Un espace de libre circulation des personnes sans contrôle aux frontières",
+            "isCorrect": true
+          },
+          {
+            "text": "Une zone de libre-échange commercial",
+            "isCorrect": false
+          },
+          {
+            "text": "Une union douanière exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord de coopération policière uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'espace Schengen est une zone de libre circulation où les contrôles aux frontières intérieures ont été supprimés pour les voyageurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-029",
+        "shortId": "Q-7D3084",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel domaine les collectivités d'outre-mer (COM) ont-elles des particularités ?",
+        "choices": [
+          {
+            "text": "L'adaptation des lois locales",
+            "isCorrect": true
+          },
+          {
+            "text": "La langue officielle (le français n'est pas obligatoire)",
+            "isCorrect": false
+          },
+          {
+            "text": "La monnaie (elles n'ont pas l'Euro)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée (elles ont leur propre armée)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Collectivités d'Outre-Mer (COM) disposent d'une autonomie plus large, leur permettant d'adapter certaines lois nationales à leurs spécificités locales, contrairement aux départements et régions d'outre-mer (DROM)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-053",
+        "shortId": "Q-46395D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République peut, après consultation du PM et des présidents d'assemblées, prononcer la dissolution de l'Assemblée nationale, provoquant de nouvelles élections législatives."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-060",
+        "shortId": "Q-6B2F7F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence entre le Conseil européen et le Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil européen est l'organe législatif, le Conseil de l'UE l'exécutif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'UE siège à Strasbourg uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la même chose",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen réunit les chefs d'État, le Conseil de l'UE réunit les ministres",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État pour définir les stratégies. Le Conseil de l'Union européenne (ou Conseil) réunit les ministres pour voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-049",
+        "shortId": "Q-87772F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays a rejoint l'UE en 1981 ?",
+        "choices": [
+          {
+            "text": "L'Italie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Grèce",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Portugal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Turquie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Grèce a rejoint les Communautés européennes en 1981, confortant la démocratie retrouvée après la dictature des colonels."
+      }
+    }
+  ]
+}

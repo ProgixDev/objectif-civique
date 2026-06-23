@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-histoire-geographie-culture-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-official-083",
+        "shortId": "Q-4DC13B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel fleuve traverse Paris ?",
+        "choices": [
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Seine traverse la ville de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-065",
+        "shortId": "Q-CC981A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île fait partie des Antilles françaises ?",
+        "choices": [
+          {
+            "text": "La Martinique",
+            "isCorrect": true
+          },
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "Madagascar",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Martinique (comme la Guadeloupe) est située dans la mer des Caraïbes, dans les Antilles françaises. La Réunion est dans l'océan Indien."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-024",
+        "shortId": "Q-1F95E1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que célèbre-t-on le 8 mai ?",
+        "choices": [
+          {
+            "text": "L'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La Prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "La Toussaint",
+            "isCorrect": false
+          },
+          {
+            "text": "La victoire de 1945 (Fin de la Seconde Guerre mondiale en Europe)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 8 mai commémore la victoire des Alliés et la capitulation de l'Allemagne nazie le 8 mai 1945, marquant la fin de la Seconde Guerre mondiale en Europe. L'Armistice de 1918 est célébré le 11 novembre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-079",
+        "shortId": "Q-69C999",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le chef-lieu de la région Bretagne ?",
+        "choices": [
+          {
+            "text": "Brest",
+            "isCorrect": false
+          },
+          {
+            "text": "Rennes",
+            "isCorrect": true
+          },
+          {
+            "text": "Lorient",
+            "isCorrect": false
+          },
+          {
+            "text": "Quimper",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Rennes est le chef-lieu (préfecture) de la région de la région Bretagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-027",
+        "shortId": "Q-28C7EF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle mer se situe entre la France et l’Angleterre ?",
+        "choices": [
+          {
+            "text": "L'océan Atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Manche",
+            "isCorrect": true
+          },
+          {
+            "text": "La mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "La mer Méditerranée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Manche sépare le nord-ouest de la France de la Grande-Bretagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-052",
+        "shortId": "Q-0D2984",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Molière ?",
+        "choices": [
+          {
+            "text": "Un peintre de la Renaissance",
+            "isCorrect": false
+          },
+          {
+            "text": "Un compositeur de musique baroque",
+            "isCorrect": false
+          },
+          {
+            "text": "Un dramaturge et comédien du XVIIe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un philosophe des Lumières",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean-Baptiste Poquelin, dit Molière, est le plus célèbre auteur de comédies du théâtre français classique (sous Louis XIV)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-002",
+        "shortId": "Q-2D2C25",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a été président de la Ve République ?",
+        "choices": [
+          {
+            "text": "Jules Ferry",
+            "isCorrect": false
+          },
+          {
+            "text": "René Coty",
+            "isCorrect": false
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Valéry Giscard d'Estaing a été président de 1974 à 1981 sous la Ve République. René Coty était le dernier président de la IVe République, et Léon Blum une figure du Front Populaire (IIIe République)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-061",
+        "shortId": "Q-3A2592",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Auguste Renoir ?",
+        "choices": [
+          {
+            "text": "Un peintre impressionniste",
+            "isCorrect": true
+          },
+          {
+            "text": "Un écrivain réaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Un réalisateur de cinéma",
+            "isCorrect": false
+          },
+          {
+            "text": "Un homme politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pierre-Auguste Renoir est l'un des peintres les plus importants du mouvement impressionniste. (Son fils Jean Renoir était cinéaste)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-043",
+        "shortId": "Q-D462E6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quel grand musée parisien est exposée la Joconde ?",
+        "choices": [
+          {
+            "text": "Le Petit Palais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le musée du Louvre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre Pompidou",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Joconde de Léonard de Vinci est exposée au musée du Louvre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-019",
+        "shortId": "Q-D9F4A9",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1944",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est à la suite du référendum de 1962, voulu par le général de Gaulle, que l'élection du président au suffrage universel direct a été instaurée (première élection en 1965)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-074",
+        "shortId": "Q-A7B9B1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la population approximative de la France en 2025 ?",
+        "choices": [
+          {
+            "text": "80 millions d'habitants",
+            "isCorrect": false
+          },
+          {
+            "text": "55 millions d'habitants",
+            "isCorrect": false
+          },
+          {
+            "text": "45 millions d'habitants",
+            "isCorrect": false
+          },
+          {
+            "text": "68 millions d'habitants",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La population française est estimée à environ 68 millions d'habitants (métropole et outre-mer inclus)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-040",
+        "shortId": "Q-B79925",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel plat est une spécialité traditionnelle de la cuisine française ?",
+        "choices": [
+          {
+            "text": "Le couscous",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lasagnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pot-au-feu",
+            "isCorrect": true
+          },
+          {
+            "text": "La paella",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pot-au-feu est un plat emblématique de la gastronomie française. La paella est espagnole, les lasagnes italiennes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-032",
+        "shortId": "Q-2F24E7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+        "choices": [
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les Pyrénées forment la frontière naturelle entre la France et l'Espagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-017",
+        "shortId": "Q-86FDEC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle œuvre a été écrite par Victor Hugo ?",
+        "choices": [
+          {
+            "text": "Les Misérables",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Fleurs du mal",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Malade imaginaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est l'auteur des *Misérables*, publié en 1862. *L'Étranger* est de Camus, *Les Fleurs du mal* de Baudelaire, et *Le Malade imaginaire* de Molière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-001",
+        "shortId": "Q-3F9BC5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Code civil (ou Code Napoléon) a été promulgué en 1804. Il unifie les lois civiles françaises et reste le fondement du droit civil français aujourd'hui."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-058",
+        "shortId": "Q-653821",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Paul Cézanne ?",
+        "choices": [
+          {
+            "text": "Un sculpteur du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un compositeur du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un architecte du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre du XIXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Paul Cézanne est un peintre post-impressionniste dont l'œuvre a jeté les bases de la transition vers le cubisme."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-010",
+        "shortId": "Q-6D2D0D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+        "choices": [
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Jules Ferry",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est Jules Ferry, ministre de l'Instruction publique sous la IIIe République, qui a fait voter les lois de 1881 et 1882."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-081",
+        "shortId": "Q-5D9981",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le 101ème département français depuis 2011 ?",
+        "choices": [
+          {
+            "text": "Mayotte",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint-Pierre-et-Miquelon",
+            "isCorrect": false
+          },
+          {
+            "text": "La Polynésie française",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Mayotte est devenue le 101ème département français (et le 5ème DROM) suite au référendum de 2009, effectif en 2011."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-009",
+        "shortId": "Q-751597",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+        "choices": [
+          {
+            "text": "À Reims",
+            "isCorrect": true
+          },
+          {
+            "text": "À Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Saint-Denis",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris (Notre-Dame)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La tradition voulait que les rois de France soient sacrés dans la cathédrale de Reims (en souvenir du baptême de Clovis). Saint-Denis est la nécropole royale (où ils sont enterrés)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-023",
+        "shortId": "Q-D26F34",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sous quel président a été abolie la peine de mort en France ?",
+        "choices": [
+          {
+            "text": "Jacques Chirac",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": true
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La peine de mort a été abolie en 1981, peu après l'élection de François Mitterrand, grâce à la loi portée par Robert Badinter."
+      }
+    }
+  ]
+}

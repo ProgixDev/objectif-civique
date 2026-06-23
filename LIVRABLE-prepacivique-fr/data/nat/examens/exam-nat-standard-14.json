@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-14",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-017",
+        "shortId": "Q-97A346",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre mairie organise un référendum local sur la construction d'une école. Qui finance ce projet ?",
+        "choices": [
+          {
+            "text": "Les impôts locaux payés par les contribuables de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union Européenne exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les dons des parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise privée obligatoirement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les équipements publics (écoles primaires, voirie communale) sont financés par le budget de la commune, alimenté principalement par les impôts locaux (taxe foncière, etc.) et les dotations de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-025",
+        "shortId": "Q-9CC99B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les écoutes téléphoniques par la police sont-elles légales ?",
+        "choices": [
+          {
+            "text": "Oui, la police peut écouter n'importe qui à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est toujours interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement sur autorisation d'un juge (Juge d'instruction ou JLD) dans le cadre d'une enquête",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le maire l'autorise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le secret des correspondances est un droit fondamental. Sa levée (écoutes) est une procédure stricte, encadrée par un magistrat, pour des infractions graves."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-020",
+        "shortId": "Q-BC8F67",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels textes font partie du « Bloc de constitutionnalité » sur lequel repose le droit français ?",
+        "choices": [
+          {
+            "text": "Le Code civil et le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de 1958, la DDHC de 1789, le Préambule de 1946 et la Charte de l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention européenne des droits de l'homme et le Traité de Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lois organiques adoptées par le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ces quatre textes ont la valeur juridique la plus élevée en France. Aucune loi ne peut les contredire. Ensemble, ils forment le bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-039",
+        "shortId": "Q-BCE0CF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Un pour tous, tous pour un",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La devise « Liberté, Égalité, Fraternité » est inscrite dans l'article 2 de la Constitution de 1958 et figure sur les édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-003",
+        "shortId": "Q-A03AB9",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe d'égalité devant la loi signifie que :",
+        "choices": [
+          {
+            "text": "Les citoyens les plus riches paient moins d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi est la même pour tous, qu'elle protège ou qu'elle punisse, sans distinction de naissance ou de religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout le monde doit avoir le même salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élus ne sont pas soumis aux mêmes lois que les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Issu de la Déclaration de 1789, ce principe interdit les privilèges. Tous les citoyens sont également admissibles à toutes dignités, places et emplois publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-008",
+        "shortId": "Q-AA42CC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Cité comme témoin devant une Cour d'assises, vous refusez de comparaître. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien, le témoignage est un acte civique volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple amende administrative de 135 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être amené par la force publique et condamné à une amende de 3 750 euros",
+            "isCorrect": true
+          },
+          {
+            "text": "D'être poursuivi pour complicité de crime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage est une obligation légale. En cas de non-comparution sans motif légitime, le témoin peut être contraint par la force publique sur ordre de la Cour et condamné à une amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-079",
+        "shortId": "Q-C75464",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un utilisateur de réseau social publie des menaces de mort contre une personnalité politique. Est-ce couvert par la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "Oui, sur internet la parole est totalement libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les menaces de mort constituent un délit pénal, même sur internet",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car c'est une expression politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend si la personnalité porte plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression a des limites légales. Les menaces de mort sont un délit quel que soit le support (internet compris), passible de 3 ans de prison."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-063",
+        "shortId": "Q-0CE4DA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été victime d'une infraction et le coupable est insolvable. Comment pouvez-vous être indemnisé ?",
+        "choices": [
+          {
+            "text": "En saisissant le tribunal pour saisie sur ses biens futurs",
+            "isCorrect": false
+          },
+          {
+            "text": "En poursuivant les membres de sa famille",
+            "isCorrect": false
+          },
+          {
+            "text": "En demandant une indemnisation à la CIVI (Commission d'indemnisation des victimes d'infractions)",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucune possibilité d'indemnisation n'existe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CIVI permet aux victimes d'infractions graves d'obtenir une indemnisation lorsque l'auteur est inconnu ou insolvable."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-028",
+        "shortId": "Q-5695E8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la DDHC affirme : « Les hommes naissent et demeurent... »",
+        "choices": [
+          {
+            "text": "Soumis à l'autorité du Roi",
+            "isCorrect": false
+          },
+          {
+            "text": "Fidèles à la Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Libres et égaux en droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidaires et responsables devant la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "'Libres et égaux en droits' est la phrase la plus célèbre de la Déclaration de 1789. Elle marque la fin de la société d'ordres et de la naissance privilégiée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-079",
+        "shortId": "Q-012B2E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes parent isolé avec un enfant à charge. Avez-vous droit à des allocations spécifiques ?",
+        "choices": [
+          {
+            "text": "Non, les allocations familiales sont versées uniquement aux couples",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous pouvez bénéficier de l'Allocation de Soutien Familial (ASF) sous conditions",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si l'autre parent est décédé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous avez plus de 3 enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Allocation de Soutien Familial (ASF) est versée au parent qui élève seul un enfant dont l'autre parent est absent ou défaillant dans ses obligations."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-019",
+        "shortId": "Q-309F90",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi sur la parité oblige les partis politiques à :",
+        "choices": [
+          {
+            "text": "Présenter autant de candidats femmes que d'hommes lors des élections",
+            "isCorrect": true
+          },
+          {
+            "text": "Ne présenter que des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Alterner les présidents hommes et femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer une taxe s'ils ont trop d'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Constitution favorise l'égal accès des femmes et des hommes aux mandats électoraux. Les listes électorales doivent souvent respecter une stricte alternance H/F."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-039",
+        "shortId": "Q-840FB1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité réside officiellement à l'Hôtel de Matignon ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Hôtel de Matignon est la résidence et le lieu de travail du Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-004",
+        "shortId": "Q-51840E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Si aucune banque n'accepte de vous ouvrir un compte, quelle procédure devez-vous activer ?",
+        "choices": [
+          {
+            "text": "Saisir le tribunal judiciaire pour forcer la banque",
+            "isCorrect": false
+          },
+          {
+            "text": "Ouvrir obligatoirement un compte à la Banque Postale qui ne peut refuser",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Médiateur de la République pour discrimination",
+            "isCorrect": false
+          },
+          {
+            "text": "Utiliser la procédure du 'Droit au compte' auprès de la Banque de France",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de refus d'ouverture de compte, vous pouvez exercer votre 'Droit au compte' auprès de la Banque de France, qui désignera d'office un établissement bancaire tenu de vous fournir les services de base."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-047",
+        "shortId": "Q-FDB528",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un employeur privé refuse d'embaucher une candidate parce qu'elle porte le voile. Le refus est-il toujours discriminatoire ?",
+        "choices": [
+          {
+            "text": "Oui, dans tous les cas, c'est une discrimination absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si l'entreprise a inscrit une clause de neutralité justifiée dans son règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, car la laïcité s'applique de la même manière dans le privé que dans le public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf pour les entreprises de moins de 10 salariés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le secteur privé, une clause de neutralité vestimentaire est légale si elle est générale, justifiée par la nature des tâches (contact client) et proportionnée. Sinon, c'est une discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-009",
+        "shortId": "Q-F7FBFB",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité territoriale est responsable des collèges ?",
+        "choices": [
+          {
+            "text": "La commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le département gère la construction, l'entretien et le fonctionnement des collèges. La région s'occupe des lycées et la commune des écoles primaires/maternelles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-046",
+        "shortId": "Q-83F20A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter les documents relatifs à une enquête publique (projet d'urbanisme). Ce droit est-il garanti ?",
+        "choices": [
+          {
+            "text": "Non, seuls les élus locaux ont accès à ces documents",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement aux propriétaires des terrains concernés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation expresse du préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les documents d'enquête publique sont communicables à toute personne pendant la durée de l'enquête",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pendant la durée de l'enquête publique, tout citoyen peut consulter le dossier et formuler des observations. C'est un principe de participation du public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-035",
+        "shortId": "Q-843744",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une association organise une quête sur la voie publique sans autorisation préfectorale. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, la solidarité est libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est pour une cause humanitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'appel à la générosité publique sur la voie publique est réglementé pour éviter les escroqueries",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend du montant récolté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour protéger les donateurs, les quêtes sur la voie publique sont soumises à autorisation. Cela garantit que les fonds vont bien à une cause réelle et déclarée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-068",
+        "shortId": "Q-A0AA31",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment le Maire d'une commune est-il désigné ?",
+        "choices": [
+          {
+            "text": "Par élection directe des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Par nomination du Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Par élection au sein du conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les citoyens élisent les conseillers municipaux, qui élisent ensuite le Maire parmi eux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-013",
+        "shortId": "Q-CB3CD9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté syndicale permet à tout salarié :",
+        "choices": [
+          {
+            "text": "D'adhérer au syndicat de son choix et de défendre ses intérêts professionnels",
+            "isCorrect": true
+          },
+          {
+            "text": "De refuser de travailler sans motif",
+            "isCorrect": false
+          },
+          {
+            "text": "De fixer lui-même ses horaires de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être payé par le syndicat pendant les grèves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté syndicale est un principe constitutionnel. Nul ne peut être inquiété pour ses activités syndicales. L'adhésion est libre et non obligatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-031",
+        "shortId": "Q-F76887",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Au tribunal, vous jurez de 'dire la vérité, toute la vérité'. Si vous mentez pour protéger un ami accusé, quel crime commettez-vous ?",
+        "choices": [
+          {
+            "text": "Une diffamation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abus de faiblesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parjure ou faux témoignage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une erreur judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Mentir sous serment devant un tribunal est un délit de faux témoignage, qui entrave le cours de la justice et est lourdement sanctionné."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-121",
+        "shortId": "Q-9AD5DF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe peut censurer le Gouvernement et le forcer à démissionner ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil municipal de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Par le vote d'une motion de censure, les députés peuvent renverser le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-039",
+        "shortId": "Q-AC2DBE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes copropriétaire. Le syndic veut engager des travaux urgents sans attendre l'assemblée générale. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, pour les travaux nécessaires à la sauvegarde de l'immeuble",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, tous les travaux doivent être votés en assemblée générale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le montant ne dépasse pas 5 000 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf accord écrit de tous les copropriétaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le syndic peut engager des travaux urgents nécessaires à la sauvegarde de l'immeuble sans vote préalable de l'assemblée générale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-037",
+        "shortId": "Q-77990A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter en France aux élections nationales ?",
+        "choices": [
+          {
+            "text": "Tous les résidents",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes qui paient des impôts uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage est universel : il n'est pas lié à la richesse ou au sexe. Seule la nationalité, la majorité et la jouissance des droits civils sont requises."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-013",
+        "shortId": "Q-C55CE4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Le véhicule du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Le va-et-vient d'un texte de loi entre l'Assemblée nationale et le Sénat jusqu'à l'adoption d'un texte identique",
+            "isCorrect": true
+          },
+          {
+            "text": "Le transport des députés entre Paris et Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Une commission d'enquête",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour qu'une loi soit adoptée, elle doit être votée en termes identiques par les deux chambres. En cas de désaccord persistant, l'Assemblée nationale a le dernier mot (si le gouvernement le demande)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-027",
+        "shortId": "Q-F00A17",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'acquisition de la nationalité française par mariage est-elle automatique ?",
+        "choices": [
+          {
+            "text": "Oui, dès le jour du mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut une déclaration après 4 ans de mariage et une communauté de vie ininterrompue",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, après 1 an de vie commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le mariage ne permet jamais d'obtenir la nationalité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mariage avec un(e) Français(e) permet d'acquérir la nationalité après un délai de 4 ans (ou 5 ans si résidence à l'étranger), à condition que la communauté de vie n'ait pas cessé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-065",
+        "shortId": "Q-380C69",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime que la Sécurité sociale coûte trop cher et veut s'en retirer. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, l'affiliation est volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'affiliation à la Sécurité sociale est obligatoire pour tous les résidents",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si on dispose d'une assurance privée équivalente",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend de ses revenus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La République étant 'sociale', la solidarité nationale est obligatoire. L'affiliation à la Sécurité sociale est un principe de protection universelle, pas un choix individuel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-097",
+        "shortId": "Q-26B541",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient le pouvoir exécutif au niveau de la commune ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procureur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Maire est à la fois le chef de l'administration communale et un agent de l'État dans la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-023",
+        "shortId": "Q-3328C0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « proportionnalité des peines » signifie que :",
+        "choices": [
+          {
+            "text": "La peine doit être identique pour tous les crimes",
+            "isCorrect": false
+          },
+          {
+            "text": "La sévérité de la sanction doit être adaptée à la gravité de l'infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "La peine dépend de la richesse de l'accusé",
+            "isCorrect": false
+          },
+          {
+            "text": "Seule la prison est une peine valable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inscrit dans la Déclaration des Droits de l'Homme, ce principe impose que la loi ne doit établir que des peines strictement et évidemment nécessaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-007",
+        "shortId": "Q-232FA7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+        "choices": [
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Italie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Italie fait partie des six pays fondateurs (avec la France, l'Allemagne, la Belgique, les Pays-Bas et le Luxembourg) ayant signé le traité de Rome en 1957."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-013",
+        "shortId": "Q-CC1D21",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut demander le divorce de personnes mariées ?",
+        "choices": [
+          {
+            "text": "Les parents des époux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le maire qui a célébré le mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "L'un des époux ou les deux époux",
+            "isCorrect": true
+          },
+          {
+            "text": "Les enfants du couple",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le divorce concerne les époux eux-mêmes. Il peut être demandé conjointement ou par l'un d'eux, mais ni les enfants, ni le maire, ni d'autres membres de la famille ne peuvent l'introduire à leur place."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-009",
+        "shortId": "Q-751597",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+        "choices": [
+          {
+            "text": "À Reims",
+            "isCorrect": true
+          },
+          {
+            "text": "À Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Saint-Denis",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris (Notre-Dame)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La tradition voulait que les rois de France soient sacrés dans la cathédrale de Reims (en souvenir du baptême de Clovis). Saint-Denis est la nécropole royale (où ils sont enterrés)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-014",
+        "shortId": "Q-D47046",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "choices": [
+          {
+            "text": "La mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor public",
+            "isCorrect": false
+          },
+          {
+            "text": "La mutuelle uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assurance maladie (CPAM), puis éventuellement la mutuelle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La part obligatoire des remboursements relève de l'Assurance maladie, généralement via la CPAM pour le régime général. Si la personne a une complémentaire santé, la mutuelle peut ensuite compléter le remboursement selon le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-010",
+        "shortId": "Q-6D2D0D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+        "choices": [
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Charlemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Jules Ferry",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est Jules Ferry, ministre de l'Instruction publique sous la IIIe République, qui a fait voter les lois de 1881 et 1882."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-015",
+        "shortId": "Q-ABB219",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La contraception :",
+        "choices": [
+          {
+            "text": "Est réservée aux personnes majeures",
+            "isCorrect": false
+          },
+          {
+            "text": "Est autorisée et certains moyens sont pris en charge",
+            "isCorrect": true
+          },
+          {
+            "text": "N'est accessible qu'aux femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Suppose l'autorisation du conjoint dans tous les cas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La contraception est autorisée et accessible en France, y compris pour les mineurs selon les règles prévues. Certains moyens contraceptifs, consultations et examens sont pris en charge par l'Assurance maladie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-011",
+        "shortId": "Q-CDECB1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+        "choices": [
+          {
+            "text": "Charles X",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI a été condamné à mort et guillotiné le 21 janvier 1793 sur la place de la Révolution (actuelle place de la Concorde)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-016",
+        "shortId": "Q-BF444A",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?",
+        "choices": [
+          {
+            "text": "Le secret médical, qui protège les informations concernant le patient",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation d'informer automatiquement l'employeur du patient",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction absolue de toute transmission entre professionnels de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "La gratuité automatique des soins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La confidentialité en santé repose sur le secret médical. Les informations concernant le patient ne peuvent pas être divulguées en dehors des cas prévus par la loi, même si des échanges strictement nécessaires peuvent exister entre professionnels participant aux soins."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-012",
+        "shortId": "Q-AA60C1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a débuté la Révolution française ?",
+        "choices": [
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1792",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": true
+          },
+          {
+            "text": "1848",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Révolution française commence en 1789, marquée notamment par l'ouverture des États généraux et la prise de la Bastille."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-013",
+        "shortId": "Q-DCE737",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année Napoléon Ier est-il devenu empereur ?",
+        "choices": [
+          {
+            "text": "1804",
+            "isCorrect": true
+          },
+          {
+            "text": "1799",
+            "isCorrect": false
+          },
+          {
+            "text": "1852",
+            "isCorrect": false
+          },
+          {
+            "text": "1815",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte s'est fait sacrer empereur des Français le 2 décembre 1804 à Notre-Dame de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-014",
+        "shortId": "Q-5A8269",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages a un lien avec la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Vercingétorix",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est la figure allégorique de la République française, portant le bonnet phrygien, symbole de liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-015",
+        "shortId": "Q-8E0CD7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quand date l'appel à la résistance du général de Gaulle ?",
+        "choices": [
+          {
+            "text": "Du 8 mai 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 18 juin 1940",
+            "isCorrect": true
+          },
+          {
+            "text": "Du 6 juin 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 11 novembre 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 18 juin 1940, depuis Londres, le général de Gaulle a lancé un appel sur la BBC invitant les Français à refuser la défaite et à continuer le combat."
+      }
+    }
+  ]
+}

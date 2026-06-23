@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-official-3",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-019",
+        "shortId": "Q-78E698",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si le droit de propriété est absolu en France. Quelle est la limite prévue par la loi ?",
+        "choices": [
+          {
+            "text": "Le droit de propriété peut être limité pour cause d'utilité publique, moyennant une juste et préalable indemnité.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État peut confisquer n'importe quel bien privé sans justification si le budget national est déficitaire.",
+            "isCorrect": false
+          },
+          {
+            "text": "La propriété privée n'existe pas en France, tous les biens appartiennent à la Nation.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le Président peut décider de retirer une propriété à un citoyen par décret secret.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inscrit dans la Déclaration de 1789, le droit de propriété est inviolable, sauf si l'intérêt général l'exige (ex: construction d'une route)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-023",
+        "shortId": "Q-2DFE11",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle de la gendarmerie ?",
+        "choices": [
+          {
+            "text": "Rendre les décisions de justice pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois de sécurité intérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité publique, la police judiciaire et le maintien de l'ordre, notamment en zone gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Gérer l'état civil des communes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La gendarmerie nationale exerce des missions de sécurité, d'enquête judiciaire et de maintien de l'ordre. Elle n'adopte pas la loi et ne rend pas les jugements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-008",
+        "shortId": "Q-78F969",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le régime de la France est :",
+        "choices": [
+          {
+            "text": "Un régime parlementaire fédéral",
+            "isCorrect": false
+          },
+          {
+            "text": "Une République démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Une Monarchie constitutionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime présidentiel pur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est une République indivisible, laïque, démocratique et sociale (Article 1er de la Constitution)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-044",
+        "shortId": "Q-22C4AF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un médecin refuse de vous soigner car vous avez l'Aide Médicale (AME). C'est :",
+        "choices": [
+          {
+            "text": "Son droit s'il a déjà trop de patients",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal, l'AME ne paie pas assez",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si vous n'avez pas de carte vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "Un refus de soin discriminatoire illégal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les médecins ne peuvent pas refuser des patients pour des motifs financiers ou sociaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-062",
+        "shortId": "Q-93D49A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Égalité' dans la devise française. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Tout le monde doit avoir le même salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens ont les mêmes droits et les mêmes devoirs devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Les hommes et les femmes font des métiers identiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a pas de riches ni de pauvres en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité signifie que la loi traite tout le monde de la même façon, sans distinction d'origine, de religion ou de richesse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-041",
+        "shortId": "Q-EA0695",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez une publicité qui incite à la violence contre un groupe d'étrangers. C'est :",
+        "choices": [
+          {
+            "text": "Un délit d'incitation à la haine",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté d'expression publicitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Normal si c'est pour un film",
+            "isCorrect": false
+          },
+          {
+            "text": "Possible si c'est une blague",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi française punit les discours qui incitent à la haine ou à la violence."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-017",
+        "shortId": "Q-0B52C0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un fonctionnaire de police refuse d'enregistrer une plainte pour une raison discriminatoire. Quel recours possède le citoyen ?",
+        "choices": [
+          {
+            "text": "Saisir le Défenseur des droits pour faire respecter ses droits et dénoncer la discrimination.",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander un arbitrage direct au Président de la République par courrier simple.",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter l'affaire devant le conseil municipal de sa ville de résidence.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'existe aucun recours contre les décisions des forces de l'ordre.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une autorité indépendante chargée de protéger les citoyens contre les abus des services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-013",
+        "shortId": "Q-211685",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-il toujours possible de divorcer ?",
+        "choices": [
+          {
+            "text": "Seulement en cas de faute reconnue par le juge",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement après une durée minimale de mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le mariage civil est indissoluble",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le divorce est prévu par la loi selon plusieurs procédures",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le divorce est un droit en droit civil français et peut prendre plusieurs formes (consentement mutuel, acceptation du principe de la rupture, altération définitive du lien conjugal, faute)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-032",
+        "shortId": "Q-A80205",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où se situe la Corse ?",
+        "choices": [
+          {
+            "text": "En Méditerranée, île française au sud-est",
+            "isCorrect": true
+          },
+          {
+            "text": "En Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nord de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Corse est une île française en Méditerranée, située à l'est des côtes françaises et au sud de la Riviera. C'est une région de France avec un patrimoine culturel distinct."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-002",
+        "shortId": "Q-59D7CD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l’un des symboles de la République française ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": true
+          },
+          {
+            "text": "La fleur de lys",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aigle impérial",
+            "isCorrect": false
+          },
+          {
+            "text": "La croix de Lorraine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le drapeau bleu, blanc, rouge est l'emblème national de la France, défini par l'article 2 de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-048",
+        "shortId": "Q-EBE5C6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un site internet propose la nationalité française contre 3000 euros. C'est :",
+        "choices": [
+          {
+            "text": "Un service accéléré proposé par certaines préfectures en ligne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une offre d'accompagnement juridique obligatoire pour la naturalisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un paiement de frais de dossier officiels requis par l'OFII",
+            "isCorrect": false
+          },
+          {
+            "text": "Une arnaque, car la nationalité ne s'achète pas et la procédure est gratuite auprès de l'État",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La naturalisation est une procédure d'État gratuite (hors timbre fiscal). Aucun site privé ne peut vendre la nationalité française. Les demandes se font auprès de la préfecture."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-037",
+        "shortId": "Q-2B4FD9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Simone de Beauvoir ?",
+        "choices": [
+          {
+            "text": "Une écrivaine et philosophe française du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une physicienne française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une historienne française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une politicienne française du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone de Beauvoir (1908-1986) était une écrivaine et philosophe française du XXe siècle. Son ouvrage 'Le Deuxième Sexe' est un classique du féminisme et de la philosophie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-053",
+        "shortId": "Q-2F9BAA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quel est l'emblème national de la France défini par la Constitution. Lequel est-ce ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore, bleu, blanc, rouge.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le coq gaulois sur fond tricolore.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le sceau royal avec la fleur de lys.",
+            "isCorrect": false
+          },
+          {
+            "text": "La couronne de laurier héritée de l'Empire napoléonien.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le drapeau tricolore est l'unique emblème national défini à l'article 2 de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-032",
+        "shortId": "Q-73EB54",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de départements en France ?",
+        "choices": [
+          {
+            "text": "96",
+            "isCorrect": false
+          },
+          {
+            "text": "101",
+            "isCorrect": true
+          },
+          {
+            "text": "110",
+            "isCorrect": false
+          },
+          {
+            "text": "22",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte 101 départements : 96 situés en métropole (sur le territoire européen) et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les départements constituent un niveau de collectivité territoriale entre la commune et la région."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-016",
+        "shortId": "Q-440A48",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez quelqu'un dégrader volontairement un monument historique. C'est :",
+        "choices": [
+          {
+            "text": "Une forme d'expression artistique tolérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction mineure sans conséquence judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé s'il s'agit d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une dégradation de bien culturel punie par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Dégrader le domaine public ou les monuments est une infraction. Le respect du patrimoine est un devoir."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-031",
+        "shortId": "Q-4A5858",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est située au bord de la mer Méditerranée ?",
+        "choices": [
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Aix-en-Provence",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Nice est située directement sur la côte Méditerranéenne. Avignon et Aix-en-Provence sont dans le sud mais à l'intérieur des terres. Bordeaux est proche de l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-035",
+        "shortId": "Q-94F971",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la laïcité ?",
+        "choices": [
+          {
+            "text": "La reconnaissance officielle des religions par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation pour les fonctionnaires de déclarer leur religion",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de la pratique religieuse dans l'espace public",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État vis-à-vis des religions",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité signifie que l'État est neutre : il ne reconnaît, ne salarie ni ne subventionne aucun culte (loi 1905). Mais la laïcité n'interdit pas la religion : chacun est libre de pratiquer sa foi dans l'espace public. Les fonctionnaires doivent être neutres, pas les citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-043",
+        "shortId": "Q-099CB0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays est un pays fondateur de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Allemagne (RFA à l'époque) fait partie des 6 membres fondateurs de 1957 avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-004",
+        "shortId": "Q-B902A7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant est victime de harcèlement dans son collège. Quelle est la meilleure action ?",
+        "choices": [
+          {
+            "text": "Contacter directement les parents des harceleurs pour régler le problème entre familles",
+            "isCorrect": false
+          },
+          {
+            "text": "Changer immédiatement l'enfant d'école sans prévenir personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander à l'enfant de résoudre le problème lui-même pour le rendre plus autonome",
+            "isCorrect": false
+          },
+          {
+            "text": "Alerter la direction de l'établissement ou appeler le 3020",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le harcèlement scolaire est un délit puni par la loi. Il faut alerter la direction de l'établissement, le référent harcèlement de l'Éducation nationale, ou appeler le 3020 (numéro national contre le harcèlement)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-038",
+        "shortId": "Q-215821",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Albert Camus ?",
+        "choices": [
+          {
+            "text": "Un historien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un politicien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un journaliste français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un écrivain et philosophe français du XXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Albert Camus (1913-1960) était un écrivain et philosophe français majeur du XXe siècle. Il a reçu le prix Nobel de littérature en 1957 pour ses œuvres philosophiques et littéraires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-012",
+        "shortId": "Q-EAB2A2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que l’égalité ?",
+        "choices": [
+          {
+            "text": "L'absence de distinction de droits entre les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "L'uniformité des revenus et des conditions de vie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à un logement pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "L'identité de traitement dans les procédures judiciaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité en droit signifie que la loi est la même pour tous, sans distinction d'origine, de sexe ou de religion. Les autres options décrivent des politiques sociales, pas le principe constitutionnel d'égalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-025",
+        "shortId": "Q-0214D0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle des députés ?",
+        "choices": [
+          {
+            "text": "Nommer les préfets",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice et sanctionner les infractions",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger les services municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler l'action du Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés siègent à l’Assemblée nationale. Ils examinent, amendent et votent les lois. Ils contrôlent également l’action du Gouvernement par différents moyens (questions, commissions d’enquête, vote de la motion de censure). Ils n’exercent ni le pouvoir exécutif ni le pouvoir judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-006",
+        "shortId": "Q-BCB570",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution (et son bloc de constitutionnalité)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Constitution est la norme suprême qui protège les libertés publiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-041",
+        "shortId": "Q-D3CEE0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Joséphine Baker ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une écrivaine française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une chanteuse et danseuse du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une peintre française du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice afro-américaine qui est devenue une superstar à Paris dans les années 1920. Elle a aussi été engagée dans la Résistance pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-001",
+        "shortId": "Q-553D7A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le SMIC ?",
+        "choices": [
+          {
+            "text": "Une allocation versée aux salariés à faibles revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salaire minimum légal en dessous duquel un employeur ne peut pas rémunérer un salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Le salaire moyen versé dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de salaire facultatif fixé par l'entreprise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SMIC est le salaire minimum légal en France. Un employeur ne peut pas rémunérer un salarié en dessous de ce seuil, sous réserve des règles particulières prévues pour certains contrats ou certaines situations."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-037",
+        "shortId": "Q-30F004",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+        "choices": [
+          {
+            "text": "Non, la France reste de tradition chrétienne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais cela doit rester privé et non exprimé publiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement à partir de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté de conscience inclut le droit de ne pas croire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de conscience, garantie par la laïcité, inclut le droit de croire, de ne pas croire (athéisme), ou de douter (agnosticisme). Ce droit s'applique à tous, quel que soit l'âge, et peut être exprimé librement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-038",
+        "shortId": "Q-C7DF83",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le régime politique de la France aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Un régime présidentiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime semi-présidentiel",
+            "isCorrect": true
+          },
+          {
+            "text": "Une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est une République dotée d’un régime semi-présidentiel sous la Constitution du 4 octobre 1958 (Ve République). Le Président de la République est élu au suffrage universel direct et dispose de pouvoirs propres importants, tandis que le Gouvernement est responsable devant le Parlement. Ce système combine des éléments du régime présidentiel et du régime parlementaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-016",
+        "shortId": "Q-2BE318",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "choices": [
+          {
+            "text": "Non, la polygamie est interdite",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si les unions ont été célébrées à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord écrit de toutes les personnes concernées",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, uniquement dans le cadre d'une union religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit français du mariage repose sur la monogamie. Contracter ou maintenir plusieurs mariages simultanés est contraire au droit civil et pénal français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-047",
+        "shortId": "Q-C9A97D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand célèbre-t-on Noël ?",
+        "choices": [
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 25 décembre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Noël est célébré le 25 décembre en France et dans la plupart des pays chrétiens. C'est une fête religieuse et culturelle importante marquée par la famille et les traditions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-026",
+        "shortId": "Q-397D1F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour qui l'école est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "Pour tous les enfants résidant en France, français et étrangers, de 3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants de plus de 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants dont les parents travaillent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'instruction est obligatoire pour tous les enfants résidant en France de 3 à 16 ans, qu'ils soient français ou étrangers. La nationalité ne conditionne donc pas cette obligation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-012",
+        "shortId": "Q-AF8D35",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans le cadre de la laïcité, l'État français finance-t-il la construction de nouveaux édifices cultuels (mosquées, églises, synagogues) ?",
+        "choices": [
+          {
+            "text": "Oui, l'État a l'obligation de construire des lieux de culte pour chaque religion recensée.",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si la commune possède plus de 50 000 habitants.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État finance 50% des coûts pour garantir l'égalité entre les croyants.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi de 1905 prévoit que la République ne salarie ni ne subventionne aucun culte.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation des Églises et de l'État implique que le financement des lieux de culte relève des associations cultuelles et non des fonds publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-026",
+        "shortId": "Q-FA5379",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif et Régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif et Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire et Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Militaire et Judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de séparation des pouvoirs distingue trois fonctions de l’État : le pouvoir législatif (qui vote la loi), le pouvoir exécutif (qui met en œuvre la loi) et le pouvoir judiciaire (qui applique la loi et tranche les litiges). Ce principe, théorisé notamment par Montesquieu, vise à éviter la concentration des pouvoirs entre les mains d’une seule autorité et constitue un fondement essentiel de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-025",
+        "shortId": "Q-A9C441",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'une infraction ?",
+        "choices": [
+          {
+            "text": "Tout manquement à une règle morale, même sans texte légal",
+            "isCorrect": false
+          },
+          {
+            "text": "Une erreur administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une impolitesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte interdit par la loi et sanctionné par une peine",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une infraction est définie par un texte pénal qui interdit un comportement et prévoit une sanction. Sans base légale pénale, il ne s'agit pas d'une infraction au sens du droit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-025",
+        "shortId": "Q-668DB7",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la capitale de la France ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est le siège du gouvernement, du Parlement, et la plus grande ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-002",
+        "shortId": "Q-E39498",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+        "choices": [
+          {
+            "text": "Le 15 (ou le 112 pour tous les secours d'urgence)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 15 permet de joindre le SAMU en cas d'urgence médicale. Le 112 est le numéro d'urgence européen et peut aussi orienter l'appel vers le service médical adapté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-014",
+        "shortId": "Q-43729C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous interroge sur le rôle du Premier ministre. Quelle est sa principale mission constitutionnelle ?",
+        "choices": [
+          {
+            "text": "Il représente la France auprès des instances internationales en lieu et place du Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige l'action du Gouvernement et assure l'exécution des lois.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il préside le Conseil constitutionnel et nomme les magistrats de la Cour de cassation.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a le pouvoir exclusif de dissoudre l'Assemblée nationale en cas de crise.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre est le chef de l'administration et du gouvernement. Il met en œuvre la politique de la Nation votée par le Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-012",
+        "shortId": "Q-02B125",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de députés composent l’Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "101",
+            "isCorrect": false
+          },
+          {
+            "text": "925",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct pour 5 ans. Ils représentent la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-069",
+        "shortId": "Q-4BA6B4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre loyer augmente beaucoup soudainement. Est-ce normal ?",
+        "choices": [
+          {
+            "text": "Le propriétaire est libre de fixer le prix",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le logement est en bon état",
+            "isCorrect": false
+          },
+          {
+            "text": "Les augmentations de loyer sont encadrées par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le loyer ne peut jamais augmenter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les augmentations de loyer sont réglementées. Elles sont souvent limitées à un indice officiel (IRL)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-033",
+        "shortId": "Q-49855A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie. C'est la plus haute chaîne de montagnes d'Europe, avec le Mont-Blanc comme plus haut sommet (4 808 m)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-015",
+        "shortId": "Q-1A9284",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge un mineur peut-il travailler ?",
+        "choices": [
+          {
+            "text": "À partir de 14 ans dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement à partir de 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "En principe à partir de 16 ans, avec des exceptions dès 15 ans en apprentissage et dès 14 ans pendant certaines vacances scolaires",
+            "isCorrect": true
+          },
+          {
+            "text": "À partir de 13 ans avec l'accord des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En règle générale, un mineur peut travailler à partir de 16 ans. Des exceptions existent toutefois, notamment l'apprentissage dès 15 ans sous conditions et certains travaux légers pendant les vacances scolaires dès 14 ans."
+      }
+    }
+  ]
+}

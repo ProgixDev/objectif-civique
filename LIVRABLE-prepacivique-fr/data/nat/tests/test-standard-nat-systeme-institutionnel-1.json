@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-042",
+        "shortId": "Q-DAAD94",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la monnaie officielle circulant en France depuis janvier 2002 ?",
+        "choices": [
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Écu",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Franc CFA",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Euro est la monnaie unique de la zone euro, facilitant les échanges au sein de l'Union."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-027",
+        "shortId": "Q-742AEA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans l'organisation de la République, qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le corps électoral par vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen de l'Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l'article 8 de la Constitution, le Président de la République nomme le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-003",
+        "shortId": "Q-D4FA80",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel article de la Constitution confère au Président des « pouvoirs exceptionnels » en cas de crise grave ?",
+        "choices": [
+          {
+            "text": "L'article 49.3",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 16",
+            "isCorrect": true
+          },
+          {
+            "text": "L'article 89",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 11",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 16 permet au Président de prendre toutes les mesures exigées par les circonstances si l'intégrité du territoire ou le fonctionnement des pouvoirs publics sont menacés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-045",
+        "shortId": "Q-F76302",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien d'étoiles figurent sur le drapeau officiel de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "27",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le nombre 12 symbolise la perfection et l'unité ; il ne varie pas selon le nombre d'États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-001",
+        "shortId": "Q-8D40F2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le mode de scrutin pour l'élection des députés à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le scrutin proportionnel intégral à un tour",
+            "isCorrect": false
+          },
+          {
+            "text": "Le scrutin uninominal majoritaire à deux tours",
+            "isCorrect": true
+          },
+          {
+            "text": "Le scrutin de liste majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tirage au sort parmi les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Comme pour la présidentielle, les députés sont élus au scrutin uninominal majoritaire à deux tours. Il faut obtenir la majorité absolue au 1er tour ou relative au 2nd tour."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-100",
+        "shortId": "Q-623D00",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Sur le drapeau français, quelle couleur représentait traditionnellement la monarchie ?",
+        "choices": [
+          {
+            "text": "Le bleu",
+            "isCorrect": false
+          },
+          {
+            "text": "Le rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le blanc",
+            "isCorrect": true
+          },
+          {
+            "text": "L'or",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le blanc était la couleur de la royauté française, le bleu et le rouge étant les couleurs de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-080",
+        "shortId": "Q-566B00",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom du palais où siège l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais-Royal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Palais de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Palais Bourbon, situé quai d'Orsay à Paris, accueille les députés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-017",
+        "shortId": "Q-35E902",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République (le quinquennat) ?",
+        "choices": [
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis le référendum de 2000, le mandat présidentiel est de 5 ans (au lieu de 7 auparavant) pour coïncider avec les élections législatives."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-030",
+        "shortId": "Q-EB8576",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment nomme-t-on la réunion hebdomadaire des ministres présidée par le Chef de l'État ?",
+        "choices": [
+          {
+            "text": "Le Conseil des ministres",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Congrès parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La séance plénière législative",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de défense nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil des ministres se tient généralement le mercredi matin pour coordonner l'action gouvernementale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-020",
+        "shortId": "Q-CB93CA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'article 49.3 de la Constitution ?",
+        "choices": [
+          {
+            "text": "Une procédure permettant au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est adoptée",
+            "isCorrect": true
+          },
+          {
+            "text": "Une procédure de destitution du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Une loi pour augmenter les impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Un référendum d'initiative populaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 49.3 engage la responsabilité du gouvernement sur un texte. Le texte est considéré comme adopté sans vote, à moins que l'Assemblée ne vote une motion de censure qui renverse le gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-089",
+        "shortId": "Q-70A8FD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est Marianne dans l'imaginaire républicain français ?",
+        "choices": [
+          {
+            "text": "La première femme présidente",
+            "isCorrect": false
+          },
+          {
+            "text": "Une reine médiévale célèbre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sainte protectrice",
+            "isCorrect": false
+          },
+          {
+            "text": "La figure allégorique de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne incarne la République et ses valeurs (Liberté, Égalité, Fraternité) dans les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-105",
+        "shortId": "Q-696DF5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La paix par le commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous pour un, un pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Plus vite, plus haut, plus fort",
+            "isCorrect": false
+          },
+          {
+            "text": "Unie dans la diversité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Unie dans la diversité devise montre que l'Europe s'enrichit de ses différentes cultures et traditions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-033",
+        "shortId": "Q-ED36BD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le représentant direct de l'État et du Gouvernement dans un département ?",
+        "choices": [
+          {
+            "text": "Le Président du conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire du chef-lieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député de la circonscription",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet est nommé par décret pour appliquer les politiques nationales à l'échelle locale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-111",
+        "shortId": "Q-A7945C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la mission du Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Veiller au respect des droits et libertés par les administrations",
+            "isCorrect": true
+          },
+          {
+            "text": "Défendre uniquement les membres du Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Remplacer les avocats lors des procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Écrire de nouvelles lois au Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une autorité constitutionnelle indépendante chargée de veiller au respect des droits et libertés par les administrations. Tout citoyen peut le saisir gratuitement en cas de litige avec un service public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-073",
+        "shortId": "Q-714383",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dispose du droit de grâce à titre individuel ?",
+        "choices": [
+          {
+            "text": "Le Ministre de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 17 de la Constitution autorise le Président de la République à dispenser un condamné d'exécuter tout ou partie de sa peine (grâce à titre individuel)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-022",
+        "shortId": "Q-AE0448",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une QPC (Question Prioritaire de Constitutionnalité) ?",
+        "choices": [
+          {
+            "text": "Une question posée au gouvernement le mercredi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit pour tout citoyen, lors d'un procès, de contester la conformité d'une loi aux droits et libertés garantis par la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Une procédure d'urgence pour voter une loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Un examen pour devenir avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La QPC permet, depuis 2010, un contrôle de constitutionnalité « a posteriori » : une loi déjà en vigueur peut être abrogée si le Conseil Constitutionnel juge qu'elle viole les droits fondamentaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-115",
+        "shortId": "Q-D01A56",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes appartient à la devise républicaine ?",
+        "choices": [
+          {
+            "text": "Égalité",
+            "isCorrect": true
+          },
+          {
+            "text": "Richesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité signifie que la loi est la même pour tous, sans distinction de naissance ou de condition."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-025",
+        "shortId": "Q-12F1FC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité administrative de Paris, Lyon et Marseille ?",
+        "choices": [
+          {
+            "text": "Elles n'ont pas de maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles sont divisées en arrondissements municipaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ne font pas partie d'un département",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts y sont payés directement à l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi PLM (1982) divise ces trois métropoles en arrondissements (ou secteurs pour Marseille), dotés chacun d'un conseil d'arrondissement et d'un maire d'arrondissement élus."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-058",
+        "shortId": "Q-73514F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En politique française, que désigne le principe de parité ?",
+        "choices": [
+          {
+            "text": "L'égal accès des femmes et des hommes aux fonctions électives",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité de budget entre les régions",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de voter dans deux communes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'alternance entre deux partis politiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi impose ou encourage une présence égale d'hommes et de femmes sur les listes électorales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-088",
+        "shortId": "Q-5463E6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces droits est une liberté fondamentale en France ?",
+        "choices": [
+          {
+            "text": "Le droit d'avoir un logement gratuit pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de ne jamais payer d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de choisir sa profession librement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de circuler sans pièce d'identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté du travail et d'entreprendre est un principe fondamental protégé par la loi."
+      }
+    }
+  ]
+}

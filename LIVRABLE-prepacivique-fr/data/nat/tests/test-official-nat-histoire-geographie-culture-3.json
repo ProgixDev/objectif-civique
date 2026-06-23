@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-histoire-geographie-culture-3",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-official-047",
+        "shortId": "Q-C12CD0",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pendant quelles journées peut-on visiter gratuitement de nombreux lieux culturels habituellement fermés ?",
+        "choices": [
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Journées européennes du patrimoine",
+            "isCorrect": true
+          },
+          {
+            "text": "La Fête des voisins",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nuit blanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Journées européennes du patrimoine, qui ont lieu chaque année en septembre, permettent de visiter des édifices historiques souvent fermés au public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-012",
+        "shortId": "Q-AA60C1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a débuté la Révolution française ?",
+        "choices": [
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1792",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": true
+          },
+          {
+            "text": "1848",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Révolution française commence en 1789, marquée notamment par l'ouverture des États généraux et la prise de la Bastille."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-013",
+        "shortId": "Q-DCE737",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année Napoléon Ier est-il devenu empereur ?",
+        "choices": [
+          {
+            "text": "1804",
+            "isCorrect": true
+          },
+          {
+            "text": "1799",
+            "isCorrect": false
+          },
+          {
+            "text": "1852",
+            "isCorrect": false
+          },
+          {
+            "text": "1815",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte s'est fait sacrer empereur des Français le 2 décembre 1804 à Notre-Dame de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-037",
+        "shortId": "Q-738C3B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+        "choices": [
+          {
+            "text": "Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "La Rochelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Nantes fut le premier port négrier de France, organisant plus de 40% des expéditions de traite françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-034",
+        "shortId": "Q-60D876",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale pour maintenir la paix ?",
+        "choices": [
+          {
+            "text": "L'Union Européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Organisation du Traité de l'Atlantique Nord (OTAN)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Société des Nations (SDN)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Organisation des Nations Unies (ONU)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'ONU a été fondée en 1945 pour remplacer la SDN et promouvoir la paix et la sécurité internationales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-033",
+        "shortId": "Q-02E07E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+        "choices": [
+          {
+            "text": "Elles ont obtenu le droit de vote et d'éligibilité",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ont obtenu le droit à l'IVG",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles ont obtenu l'égalité salariale",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles ont obtenu le droit d'ouvrir un compte bancaire sans l'accord du mari",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ordonnance du 21 avril 1944 du GPRF a accordé aux femmes le droit de vote et d'être élues. Elles ont voté pour la première fois en 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-038",
+        "shortId": "Q-153ECC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+        "choices": [
+          {
+            "text": "René Descartes",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Paul Sartre",
+            "isCorrect": false
+          },
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Montesquieu a ironiquement dénoncé l'esclavage dans *De l'esprit des lois* (1748). Condorcet est aussi une figure majeure de l'abolitionnisme."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-066",
+        "shortId": "Q-14F591",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île est française ?",
+        "choices": [
+          {
+            "text": "La Sicile",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sardaigne",
+            "isCorrect": false
+          },
+          {
+            "text": "Majorque",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Corse est une collectivité territoriale française. La Sardaigne et la Sicile sont italiennes, Majorque est espagnole."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-045",
+        "shortId": "Q-DC7661",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où peut-on voir des peintures préhistoriques célèbres en France ?",
+        "choices": [
+          {
+            "text": "Dans la grotte de Lascaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Au château du Haut-Koenigsbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Mont-Saint-Michel",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les arènes de Nîmes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La grotte de Lascaux (Dordogne) est mondialement connue pour ses peintures pariétales du Paléolithique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-021",
+        "shortId": "Q-CB62D2",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1939 - 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "1914 - 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1870 - 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1954 - 1962",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-077",
+        "shortId": "Q-55BF22",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île française se trouve au sud-est du continent africain ?",
+        "choices": [
+          {
+            "text": "Mayotte",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint-Martin",
+            "isCorrect": false
+          },
+          {
+            "text": "Clipperton",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Mayotte (comme La Réunion) est située dans l'océan Indien, au sud-est de l'Afrique, dans l'archipel des Comores."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-044",
+        "shortId": "Q-C48A40",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+        "choices": [
+          {
+            "text": "Le château de Chenonceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Le château de Chambord",
+            "isCorrect": false
+          },
+          {
+            "text": "Le château de Versailles",
+            "isCorrect": true
+          },
+          {
+            "text": "Le château de Fontainebleau",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le château de Versailles, résidence de Louis XIV, est le symbole par excellence de la monarchie absolue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-014",
+        "shortId": "Q-5A8269",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages a un lien avec la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Vercingétorix",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est la figure allégorique de la République française, portant le bonnet phrygien, symbole de liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-054",
+        "shortId": "Q-756167",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était George Sand ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une scientifique collaboratrice de Pasteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peintre impressionniste",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre écrivaine du XIXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "George Sand (Aurore Dupin) était une romancière prolifique et une figure littéraire majeure du XIXe siècle, connue pour son engagement féministe et social."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-018",
+        "shortId": "Q-6B5F69",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays a été une colonie française ?",
+        "choices": [
+          {
+            "text": "Le Brésil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Angola",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Éthiopie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénégal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Sénégal a été une colonie française jusqu'à son indépendance en 1960. L'Éthiopie n'a jamais été colonisée, le Brésil était portugais et l'Angola portugais."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-007",
+        "shortId": "Q-232FA7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+        "choices": [
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Italie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Italie fait partie des six pays fondateurs (avec la France, l'Allemagne, la Belgique, les Pays-Bas et le Luxembourg) ayant signé le traité de Rome en 1957."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-004",
+        "shortId": "Q-292B1D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l’objectif des lois scolaires de la IIIe République ?",
+        "choices": [
+          {
+            "text": "Introduire l'apprentissage des langues régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Créer les premières universités françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre l'école gratuite, laïque et obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Rendre l'école payante pour financer l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Portées par Jules Ferry (1881-1882), ces lois ont fondé l'école républicaine moderne en la rendant gratuite, laïque et obligatoire pour les enfants de 6 à 13 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-029",
+        "shortId": "Q-FE6C80",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand l'esclavage a-t-il été définitivement aboli en France ?",
+        "choices": [
+          {
+            "text": "1848",
+            "isCorrect": true
+          },
+          {
+            "text": "1880",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'abolition définitive de l'esclavage dans les colonies françaises a été décrétée le 27 avril 1848."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-042",
+        "shortId": "Q-1C1F5D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a peint \"La liberté guidant le peuple\" ?",
+        "choices": [
+          {
+            "text": "Théodore Géricault",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques-Louis David",
+            "isCorrect": false
+          },
+          {
+            "text": "Gustave Courbet",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ce célèbre tableau représentant la Révolution de Juillet 1830 a été peint par Eugène Delacroix."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-055",
+        "shortId": "Q-B32604",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Simone de Beauvoir ?",
+        "choices": [
+          {
+            "text": "La première femme ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une philosophe et écrivaine féministe",
+            "isCorrect": true
+          },
+          {
+            "text": "Une résistante exécutée en 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Une créatrice de mode célèbre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Simone de Beauvoir est une figure majeure du féminisme et de l'existentialisme, auteure du *Deuxième Sexe*."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-nat-principes-valeurs-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-021",
+        "shortId": "Q-35C6E6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un employeur vous propose de vous payer uniquement en espèces sans fiche de paie pour 'éviter les charges'. Pourquoi est-ce dangereux pour vous ?",
+        "choices": [
+          {
+            "text": "C'est du travail dissimulé : vous ne cotisez pas pour la retraite, le chômage ni la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est avantageux, vous gagnez plus",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal si le contrat est oral",
+            "isCorrect": false
+          },
+          {
+            "text": "Le risque est uniquement pour l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail au noir (dissimulé) prive le salarié de toute protection sociale (accident du travail, maladie, retraite) et constitue une fraude fiscale et sociale sévèrement punie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-022",
+        "shortId": "Q-5834F0",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une personne publie une photo de vous prise dans un lieu privé sans votre accord. Quel droit pouvez-vous invoquer ?",
+        "choices": [
+          {
+            "text": "Le droit de propriété",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'auteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à l'image et au respect de la vie privée",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à l'image permet de s'opposer à la diffusion de son image, surtout si elle a été captée dans un lieu privé sans consentement. C'est une composante du respect de la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-023",
+        "shortId": "Q-A794D6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pour obtenir un logement social, un candidat fournit de faux bulletins de salaire. Quelles sont les conséquences ?",
+        "choices": [
+          {
+            "text": "Une simple demande de régularisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune si le logement est attribué",
+            "isCorrect": false
+          },
+          {
+            "text": "Une interdiction de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de la demande et des poursuites pour faux et usage de faux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fournir de faux documents administratifs est un délit de 'faux et usage de faux', passible de 3 ans d'emprisonnement et 45 000 euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-024",
+        "shortId": "Q-546264",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors de l'inscription à la cantine scolaire, la mairie demande de prouver que vous ne mangez pas de porc. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, pour éviter le gaspillage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'administration ne peut pas constituer de fichiers basés sur les pratiques religieuses",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, c'est une mesure de laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du règlement de la cantine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Recenser les élèves selon leur régime alimentaire confessionnel (sans porc, halal, etc.) est interdit car cela revient à constituer un fichier ethnique ou religieux, contraire à la loi Informatique et Libertés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-025",
+        "shortId": "Q-579886",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous êtes en désaccord avec une loi votée démocratiquement. Quelle forme de contestation est illégale ?",
+        "choices": [
+          {
+            "text": "Détruire du mobilier urbain ou agresser des représentants de l'ordre",
+            "isCorrect": true
+          },
+          {
+            "text": "Signer une pétition demandant son abrogation",
+            "isCorrect": false
+          },
+          {
+            "text": "Manifester pacifiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter pour un parti proposant de changer la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie garantit le droit de contestation pacifique (manifestation, vote, pétition). En revanche, la violence et la dégradation de biens sont des délits pénaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-026",
+        "shortId": "Q-B5F500",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une agence immobilière sélectionne les locataires en fonction de la consonance de leur nom de famille. Comment cela s'appelle-t-il ?",
+        "choices": [
+          {
+            "text": "La liberté contractuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une préférence nationale légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sélection administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination raciale systémique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Trier les candidats sur l'origine supposée d'après le nom est une discrimination raciale directe, sévèrement punie par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-027",
+        "shortId": "Q-756938",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous recevez une amende majorée que vous contestez. Si vous ne payez pas et ne répondez pas, que risque-t-il d'arriver ?",
+        "choices": [
+          {
+            "text": "L'amende s'annule au bout d'un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peine de prison ferme",
+            "isCorrect": false
+          },
+          {
+            "text": "Une saisie sur salaire ou sur compte bancaire (Avis à Tiers Détenteur)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de conduire immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État dispose de moyens de recouvrement forcé. Sans réaction de votre part, le Trésor public peut saisir directement la somme due sur votre compte bancaire ou votre salaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-028",
+        "shortId": "Q-EA46B7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "À l'école, un élève est harcelé parce qu'il ne croit pas en Dieu. L'établissement doit-il intervenir ?",
+        "choices": [
+          {
+            "text": "Non, la religion est une affaire privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'école doit protéger la liberté de conscience de tous les élèves et sanctionner le harcèlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'athéisme n'est pas protégé",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents portent plainte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité garantit la liberté de croire ou de ne pas croire. L'école doit protéger les élèves contre toute forme de harcèlement discriminatoire fondé sur les convictions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-029",
+        "shortId": "Q-A3AC59",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi la France est-elle définie comme une République 'sociale' dans la Constitution ?",
+        "choices": [
+          {
+            "text": "Parce qu'elle garantit la protection des plus faibles (Sécurité sociale, solidarité)",
+            "isCorrect": true
+          },
+          {
+            "text": "Parce qu'elle est dirigée par un parti socialiste",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que les syndicats dirigent le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que l'économie est entièrement étatisée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le caractère 'social' de la République signifie que la collectivité doit assurer à l'individu et à la famille les conditions nécessaires à leur développement (santé, retraite, chômage) via la solidarité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-030",
+        "shortId": "Q-DE4D80",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une cérémonie de naturalisation, pourquoi chante-t-on La Marseillaise ?",
+        "choices": [
+          {
+            "text": "Pour prouver que vous maîtrisez la langue française sans accent",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour vérifier si vous connaissez les paroles",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une formalité administrative sans importance",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est l'hymne national, symbole de l'unité et de l'histoire de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Marseillaise est l'hymne national (art. 2 de la Constitution). La chanter lors de la naturalisation marque solennellement l'entrée dans la communauté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-031",
+        "shortId": "Q-F76887",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Au tribunal, vous jurez de 'dire la vérité, toute la vérité'. Si vous mentez pour protéger un ami accusé, quel crime commettez-vous ?",
+        "choices": [
+          {
+            "text": "Une diffamation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abus de faiblesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parjure ou faux témoignage",
+            "isCorrect": true
+          },
+          {
+            "text": "Une erreur judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Mentir sous serment devant un tribunal est un délit de faux témoignage, qui entrave le cours de la justice et est lourdement sanctionné."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-032",
+        "shortId": "Q-297BBF",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous souhaitez prendre un jour de congé pour une fête religieuse qui n'est pas fériée (ex: Aïd, Yom Kippour). Votre employeur peut-il refuser ?",
+        "choices": [
+          {
+            "text": "Non, la liberté religieuse est absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les nécessités du service le justifient (désorganisation de l'entreprise)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car seules les fêtes catholiques sont autorisées",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit automatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Si le salarié a le droit de demander congé pour motif religieux, l'employeur peut refuser si l'absence perturbe le bon fonctionnement du service, sans que cela soit discriminatoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-033",
+        "shortId": "Q-679B96",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un hôpital public, des agents demandent qu'un local permanent soit affecté à la prière. Quelle est la réponse la plus exacte au regard de la laïcité ?",
+        "choices": [
+          {
+            "text": "L'établissement doit y faire droit au nom de la liberté religieuse des agents",
+            "isCorrect": false
+          },
+          {
+            "text": "L'établissement n'a pas à affecter un local de prière permanent, les agents étant soumis à la neutralité et à la laïcité dans l'exercice du service",
+            "isCorrect": true
+          },
+          {
+            "text": "L'établissement doit accorder un local à chaque culte représenté parmi le personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'établissement doit consulter les usagers avant de statuer sur la demande",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans un service public, les agents doivent respecter les principes de neutralité et de laïcité dans l'exercice de leurs fonctions. L'administration ou l'établissement public n'a pas pour mission d'organiser une pratique cultuelle sur le lieu du service et n'a donc pas à affecter un local permanent à la prière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-034",
+        "shortId": "Q-3D2A3E",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans votre quartier, une épicerie emploie un enfant de 12 ans tous les soirs après l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est autorisé si les parents sont d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour une entreprise familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal s'il est payé",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est interdit, le travail est interdit avant 16 ans (sauf dérogations strictes et encadrées)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'instruction est obligatoire jusqu'à 16 ans. Le travail des mineurs de moins de 16 ans est interdit, sauf exceptions très limitées (stages, spectacles, vacances scolaires) et très encadrées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-035",
+        "shortId": "Q-843744",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une association organise une quête sur la voie publique sans autorisation préfectorale. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, la solidarité est libre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est pour une cause humanitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'appel à la générosité publique sur la voie publique est réglementé pour éviter les escroqueries",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend du montant récolté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour protéger les donateurs, les quêtes sur la voie publique sont soumises à autorisation. Cela garantit que les fonds vont bien à une cause réelle et déclarée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-036",
+        "shortId": "Q-A5037C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une femme distribue dans la rue des tracts à caractère religieux. En principe, quelle est la règle de droit ?",
+        "choices": [
+          {
+            "text": "Cette diffusion est interdite, la laïcité imposant la neutralité religieuse dans tout l'espace public.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est licite, car l'expression et la manifestation des convictions religieuses sont libres sur la voie publique, sauf trouble à l'ordre public ou comportement abusif.",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle n'est possible qu'avec une autorisation préalable du préfet.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle n'est autorisée que pendant les campagnes électorales ou les fêtes religieuses.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une distribution de tracts religieux est donc, en principe, licite au titre de la liberté d'expression et de la liberté de conscience, sous réserve du respect de l'ordre public et de l'absence de pression abusive sur les passants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-037",
+        "shortId": "Q-1E2594",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Au guichet de la préfecture, un agent vous tutoie et vous manque de respect. Quel principe de la charte Marianne est violé ?",
+        "choices": [
+          {
+            "text": "La courtoisie et le respect mutuel dû à l'usager",
+            "isCorrect": true
+          },
+          {
+            "text": "La rapidité de traitement",
+            "isCorrect": false
+          },
+          {
+            "text": "La transparence administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de résultat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le service public doit traiter chaque usager avec dignité et courtoisie. Le vouvoiement et le respect sont des obligations déontologiques des agents de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-038",
+        "shortId": "Q-FDB22C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un parti politique vous appelle quotidiennement pour vous solliciter malgré vos demandes répétées d'arrêter. Quel droit pouvez-vous exercer ?",
+        "choices": [
+          {
+            "text": "Le droit de vote pour sanctionner ce parti aux élections",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'association pour créer un groupe de défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret de la correspondance pour bloquer les appels",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'opposition au traitement de vos données personnelles (RGPD)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le RGPD vous permet de vous opposer à l'utilisation de vos coordonnées à des fins de prospection, y compris politique. Le non-respect de ce droit est sanctionnable par la CNIL."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-039",
+        "shortId": "Q-B0E151",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi la liberté de la presse est-elle fondamentale dans une démocratie ?",
+        "choices": [
+          {
+            "text": "Pour divertir la population",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour défendre le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour garantir le pluralisme des opinions et permettre aux citoyens de se forger un avis éclairé",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour permettre aux entreprises de faire de la publicité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de la presse (loi de 1881) est un pilier de la démocratie. Elle permet le débat public, la critique du pouvoir et la diversité des idées, nécessaires au vote éclairé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-040",
+        "shortId": "Q-D237B1",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un agent hospitalier refuse de serrer la main d'une collègue femme en invoquant ses convictions religieuses. Quelle est la position de l'administration ?",
+        "choices": [
+          {
+            "text": "Elle doit respecter sa liberté religieuse personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle peut exiger le respect des règles de courtoisie professionnelle et de neutralité du service public",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle doit organiser une médiation avec un représentant religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne peut rien faire car c'est un geste privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les agents du service public sont soumis à une obligation de neutralité et doivent respecter leurs collègues sans distinction de sexe. Le refus de contact professionnel normal peut constituer une faute."
+      }
+    }
+  ]
+}

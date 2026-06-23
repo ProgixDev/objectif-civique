@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-vivre-en-france-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-standard-013",
+        "shortId": "Q-FE19C5",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel type d'assurance est strictement obligatoire pour tout conducteur d'un véhicule à moteur ?",
+        "choices": [
+          {
+            "text": "L'assurance responsabilité civile (au tiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'assurance 'tous risques'",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance contre le vol uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance 'bris de glace'",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi impose au minimum la garantie responsabilité civile, qui couvre les dommages causés à autrui lors d'un accident."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-066",
+        "shortId": "Q-27D985",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'impôt qui s'applique sur presque tous les produits achetés en magasin ?",
+        "choices": [
+          {
+            "text": "La Taxe foncière",
+            "isCorrect": false
+          },
+          {
+            "text": "La TVA (Taxe sur la Valeur Ajoutée)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Impôt sur la fortune",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe d'habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La TVA est un impôt indirect collecté par les commerçants pour le compte de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-056",
+        "shortId": "Q-F6CF62",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle de l'Inspection du Travail ?",
+        "choices": [
+          {
+            "text": "Trouver du travail aux chômeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Recruter les fonctionnaires de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Contrôler le respect du Code du travail dans les entreprises",
+            "isCorrect": true
+          },
+          {
+            "text": "Gérer le budget de la sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'inspecteur du travail vérifie que les règles de sécurité, de temps de travail et d'hygiène sont respectées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-018",
+        "shortId": "Q-72966E",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée de validité du nouveau format 'carte bancaire' du permis de conduire français (catégories A et B) ?",
+        "choices": [
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "À vie",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le titre de conduite (le document physique) doit être renouvelé tous les 15 ans, sans nouvel examen médical ou de conduite (pour les voitures et motos)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-002",
+        "shortId": "Q-073B4F",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de litige concernant le prélèvement à la source, quel organisme est l'interlocuteur direct du contribuable ?",
+        "choices": [
+          {
+            "text": "L'employeur (le collecteur)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Direction Générale des Finances Publiques (DGFiP)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Même si l'employeur effectue le prélèvement sur le salaire, l'administration fiscale reste la seule responsable du calcul du taux et de la gestion des dossiers."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-003",
+        "shortId": "Q-7BC635",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour bénéficier d'un remboursement optimal par l'Assurance Maladie, que doit faire un assuré de plus de 16 ans ?",
+        "choices": [
+          {
+            "text": "Consulter uniquement des spécialistes en secteur 2",
+            "isCorrect": false
+          },
+          {
+            "text": "Se rendre directement aux urgences pour tout soin",
+            "isCorrect": false
+          },
+          {
+            "text": "Déclarer un médecin traitant et respecter le parcours de soins",
+            "isCorrect": true
+          },
+          {
+            "text": "Changer de mutuelle tous les ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le parcours de soins coordonnés consiste à consulter son médecin traitant avant tout spécialiste pour garantir une meilleure prise en charge."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-011",
+        "shortId": "Q-C1C634",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le système éducatif français, comment s'appelle la plateforme de vœux pour l'entrée dans l'enseignement supérieur ?",
+        "choices": [
+          {
+            "text": "VœuxPostBac",
+            "isCorrect": false
+          },
+          {
+            "text": "DiplômeNational",
+            "isCorrect": false
+          },
+          {
+            "text": "Parcoursup",
+            "isCorrect": true
+          },
+          {
+            "text": "OrientationFrance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Parcoursup est la plateforme nationale de préinscription en première année de l'enseignement supérieur en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-023",
+        "shortId": "Q-7D87A1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du 'Médecin Conseil' de l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Soigner les assurés à leur domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Délivrer des médicaments gratuits",
+            "isCorrect": false
+          },
+          {
+            "text": "Évaluer l'état de santé d'un assuré pour l'attribution de prestations (ex: invalidité)",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer le médecin traitant en cas d'absence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le médecin conseil intervient pour valider les arrêts longs, les demandes d'invalidité ou les affections de longue durée (ALD)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-063",
+        "shortId": "Q-AD4052",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'médecin traitant' ?",
+        "choices": [
+          {
+            "text": "Un médecin spécialiste uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le médecin choisi par l'assuré pour coordonner ses soins",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin conseil de la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Un médecin hospitalier exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le médecin traitant assure le suivi médical et oriente l'assuré vers d'autres professionnels si nécessaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-042",
+        "shortId": "Q-FDC2F7",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis le 1er avril 2024, que doit afficher un conducteur sur son pare-brise pour prouver que son véhicule est assuré ?",
+        "choices": [
+          {
+            "text": "La vignette verte d'assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien : l'assurance est vérifiée dans un fichier informatique (le Fichier des Véhicules Assurés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une attestation d'assurance au format papier",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte grise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis le 1er avril 2024, la vignette verte d'assurance est supprimée : les forces de l'ordre vérifient l'assurance en consultant le Fichier des Véhicules Assurés (FVA). Restent affichées sur le pare-brise : la vignette du contrôle technique (véhicules de plus de 4 ans) et, pour circuler dans une ZFE, la vignette Crit'Air."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-050",
+        "shortId": "Q-A5FEDB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'médecin de garde' ?",
+        "choices": [
+          {
+            "text": "Un médecin agréé pour les permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un médecin qui assure les soins les soirs et week-ends en cas d'urgence non vitale",
+            "isCorrect": true
+          },
+          {
+            "text": "Un spécialiste des maladies tropicales",
+            "isCorrect": false
+          },
+          {
+            "text": "Un médecin du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La permanence des soins est assurée par des médecins de garde lorsque les cabinets médicaux sont fermés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-001",
+        "shortId": "Q-EF2CCC",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de préavis standard pour un locataire souhaitant quitter un logement non meublé situé hors zone tendue ?",
+        "choices": [
+          {
+            "text": "3 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "2 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "15 jours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour une location vide classique, le préavis est de 3 mois. Il peut être réduit à 1 mois en zone tendue ou en cas de motif spécifique (mutation, perte d'emploi)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-043",
+        "shortId": "Q-93697D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'affection de longue durée' (ALD) pour l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Une maladie qui empêche de voyager",
+            "isCorrect": false
+          },
+          {
+            "text": "Une maladie grave ou chronique nécessitant un traitement prolongé et coûteux",
+            "isCorrect": true
+          },
+          {
+            "text": "Une maladie transmise par les animaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un rhume qui dure plus d'une semaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'ALD permet une prise en charge à 100% (sur la base du tarif de la sécurité sociale) pour les soins liés à la pathologie concernée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-012",
+        "shortId": "Q-85C3A1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de déménagement, quel est le délai pour mettre à jour l'adresse sur le certificat d'immatriculation (carte grise) d'un véhicule ?",
+        "choices": [
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "15 jours",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de changement de domicile, le propriétaire d'un véhicule dispose d'un mois pour faire modifier l'adresse sur sa carte grise."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-019",
+        "shortId": "Q-59E24B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'aide financière versée par la Caisse d'Allocations Familiales (CAF) pour aider à payer le loyer ?",
+        "choices": [
+          {
+            "text": "Le RSA",
+            "isCorrect": false
+          },
+          {
+            "text": "La PCH",
+            "isCorrect": false
+          },
+          {
+            "text": "L'APL (Aide Personnalisée au Logement)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prime d'activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'APL est une aide au logement dont le montant dépend des ressources et du montant du loyer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-030",
+        "shortId": "Q-008FEC",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'acronyme 'PUMA' dans le domaine de la santé en France ?",
+        "choices": [
+          {
+            "text": "Plan d'Urgence Médicale et Assistance",
+            "isCorrect": false
+          },
+          {
+            "text": "Protection Universelle Maladie",
+            "isCorrect": true
+          },
+          {
+            "text": "Prise en charge Unique des Maladies Aiguës",
+            "isCorrect": false
+          },
+          {
+            "text": "Partenaire Universel de Médecine et d'Assurance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La PUMA garantit à toute personne travaillant ou résidant en France de manière stable et régulière un droit à la prise en charge de ses frais de santé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-008",
+        "shortId": "Q-277921",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Recensement citoyen' obligatoire pour les jeunes Français ?",
+        "choices": [
+          {
+            "text": "Un examen de santé général",
+            "isCorrect": false
+          },
+          {
+            "text": "Une inscription sur les listes électorales des consulats",
+            "isCorrect": false
+          },
+          {
+            "text": "Un impôt spécifique pour les jeunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une démarche à effectuer à 16 ans pour participer à la Journée Défense et Citoyenneté",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tout Français doit se faire recenser à la mairie de son domicile dès ses 16 ans. C'est indispensable pour passer des examens (bac, permis)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-068",
+        "shortId": "Q-750440",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des missions de la PMI (Protection Maternelle et Infantile) ?",
+        "choices": [
+          {
+            "text": "Vendre du lait infantile",
+            "isCorrect": false
+          },
+          {
+            "text": "Construire des logements sociaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Organiser les transports scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer le suivi médical gratuit des femmes enceintes et des enfants jusqu'à 6 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La PMI est un service départemental qui assure la prévention et le suivi de la santé des mères et des jeunes enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-070",
+        "shortId": "Q-5AA1F3",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le SMIC ?",
+        "choices": [
+          {
+            "text": "Une prime de rendement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Revenu de Solidarité Active (RSA)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le minimum vieillesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Salaire Minimum Interprofessionnel de Croissance",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le SMIC est le salaire horaire minimum légal en dessous duquel un salarié ne peut être payé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-010",
+        "shortId": "Q-8CEC76",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est responsable de la collecte des cotisations sociales servant à financer la protection sociale ?",
+        "choices": [
+          {
+            "text": "L'URSSAF",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie du domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque Centrale Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'URSSAF collecte les cotisations et contributions sociales pour les redistribuer aux différentes caisses (santé, retraite, famille)."
+      }
+    }
+  ]
+}

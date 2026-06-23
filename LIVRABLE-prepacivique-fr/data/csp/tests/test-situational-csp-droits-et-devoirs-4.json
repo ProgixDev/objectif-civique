@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-droits-et-devoirs-4",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-situational-061",
+        "shortId": "Q-802631",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre propriétaire veut entrer chez vous sans prévenir. En a-t-il le droit ?",
+        "choices": [
+          {
+            "text": "Oui, car c'est son appartement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il a les clés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il doit avoir votre accord pour entrer",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, une fois par mois maximum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le locataire a le droit au respect de son domicile. Le propriétaire ne peut pas entrer sans autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-062",
+        "shortId": "Q-135E25",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À l'hôpital, on vous demande de payer avant de vous soigner pour une urgence. C'est :",
+        "choices": [
+          {
+            "text": "Normal, il faut donner une caution bancaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Légal si vous n'avez pas de carte vitale sur vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique courante dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit, l'hôpital public doit accueillir toute urgence sans condition de paiement préalable",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'hôpital public a l'obligation légale d'accueillir et de soigner toute personne en situation d'urgence, sans exiger de paiement préalable. Ce principe garantit l'accès aux soins pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-063",
+        "shortId": "Q-5A7519",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 6 ans ne va pas à l'école. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "C'est votre choix comme parent, l'instruction en famille est un droit sans condition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'instruction n'est obligatoire qu'à partir de 6 ans, les enfants de moins de 6 ans n'y sont pas soumis",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation scolaire ne concerne que les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire, l'école est un droit et un devoir",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'instruction est obligatoire de 3 à 16 ans en France. Les parents qui ne respectent pas cette obligation s'exposent à des sanctions pénales. L'instruction à domicile est possible mais soumise à autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-064",
+        "shortId": "Q-D6A1D1",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes malade et votre patron vous demande de venir travailler. Que faire ?",
+        "choices": [
+          {
+            "text": "Aller au travail pour ne pas être licencié",
+            "isCorrect": false
+          },
+          {
+            "text": "Envoyer un collègue à votre place",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander un arrêt maladie au médecin et prévenir votre employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que votre patron rappelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à l'arrêt maladie protège la santé du salarié. Il faut un certificat médical et prévenir l'employeur."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-065",
+        "shortId": "Q-DD66FA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez changer de médecin traitant. Avez-vous le droit ?",
+        "choices": [
+          {
+            "text": "Non, le médecin traitant est désigné par la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, seulement une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous êtes libre de choisir votre médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous déménagez",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Chaque patient a le droit de choisir librement son médecin traitant et d'en changer quand il veut."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-066",
+        "shortId": "Q-D872A6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un magasin affiche un prix sur un produit mais à la caisse on vous demande plus. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Le prix affiché doit être respecté",
+            "isCorrect": true
+          },
+          {
+            "text": "Le prix de la caisse est toujours le bon",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est au client de vérifier avant d'acheter",
+            "isCorrect": false
+          },
+          {
+            "text": "Le magasin peut changer le prix le même jour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le prix affiché engage le vendeur. Le client doit payer le prix indiqué sur l'étiquette."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-067",
+        "shortId": "Q-2B385F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre voisin a un grand arbre dont les branches sont au-dessus de votre jardin. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Couper les branches vous-même sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter la mairie pour qu'elle intervienne auprès du voisin",
+            "isCorrect": false
+          },
+          {
+            "text": "Couper les branches vous-même si elles gênent l'ensoleillement de votre jardin",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander à votre voisin de couper les branches qui dépassent",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 673 du Code civil vous permet de demander à votre voisin de couper les branches qui dépassent sur votre propriété. En cas de refus après mise en demeure, vous pouvez les couper vous-même."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-068",
+        "shortId": "Q-963F15",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte. Votre employeur peut-il vous licencier pendant votre grossesse ?",
+        "choices": [
+          {
+            "text": "Non, la femme enceinte est protégée par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si l'entreprise a des difficultés",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pendant les 3 premiers mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si elle est absente trop souvent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi protège les femmes enceintes contre le licenciement pendant la grossesse et le congé maternité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-069",
+        "shortId": "Q-4BA6B4",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre loyer augmente beaucoup soudainement. Est-ce normal ?",
+        "choices": [
+          {
+            "text": "Le propriétaire est libre de fixer le prix",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le logement est en bon état",
+            "isCorrect": false
+          },
+          {
+            "text": "Les augmentations de loyer sont encadrées par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le loyer ne peut jamais augmenter",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les augmentations de loyer sont réglementées. Elles sont souvent limitées à un indice officiel (IRL)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-070",
+        "shortId": "Q-D81E8F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez un colis que vous n'avez pas commandé avec une facture à payer. Que faire ?",
+        "choices": [
+          {
+            "text": "Payer car le colis est chez vous",
+            "isCorrect": false
+          },
+          {
+            "text": "Renvoyer le colis à vos frais",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas payer, vous n'êtes pas obligé de garder ce que vous n'avez pas commandé",
+            "isCorrect": true
+          },
+          {
+            "text": "Appeler la police pour vol",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Personne ne peut vous forcer à payer un produit que vous n'avez pas commandé. C'est une pratique illégale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-071",
+        "shortId": "Q-53A74F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez acheté un téléphone qui tombe en panne après 3 mois. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "Vous devez en acheter un nouveau",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez payer la réparation vous-même",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est de votre faute si le téléphone est cassé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vendeur doit réparer ou remplacer le produit gratuitement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La garantie légale de conformité (2 ans) oblige le vendeur à réparer ou remplacer un produit défectueux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-072",
+        "shortId": "Q-2755C8",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez 18 ans et vous voulez voter. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Vous êtes inscrit automatiquement sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez d'abord valider votre Journée Défense et Citoyenneté (JDC)",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez faire la démarche d'inscription vous-même en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez confirmer votre inscription par courrier dans les 30 jours suivant votre anniversaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Grâce au recensement citoyen effectué à 16 ans, les jeunes Français sont inscrits automatiquement sur les listes électorales à 18 ans. Aucune démarche supplémentaire n'est nécessaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-073",
+        "shortId": "Q-C41B09",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur ne vous a pas payé depuis 2 mois. Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Arrêter de travailler sans rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre patiemment que l'employeur paie",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le conseil des prud'hommes pour réclamer votre salaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander à un collègue de vous prêter de l'argent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le non-paiement du salaire est illégal. Vous pouvez aller aux prud'hommes pour défendre vos droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-074",
+        "shortId": "Q-A71621",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans le bus, une personne âgée cherche une place assise. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Lui proposer votre place par respect et solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre que le chauffeur fasse une annonce pour les places prioritaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Rester assis car les places ne sont pas réservées légalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler au chauffeur que le bus est trop plein",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les transports en commun disposent de places prioritaires pour les personnes âgées, enceintes ou en situation de handicap. Céder sa place relève du civisme et de la solidarité — des valeurs fondamentales de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-075",
+        "shortId": "Q-584865",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous signez un contrat de travail. Avez-vous le droit de le relire chez vous avant de signer ?",
+        "choices": [
+          {
+            "text": "Non, il faut signer immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous avez le droit de demander du temps pour lire le contrat",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'employeur est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un manque de confiance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Vous avez le droit de lire et comprendre un contrat avant de le signer. C'est normal et légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-076",
+        "shortId": "Q-AAE17F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un ami vous demande de conduire sa voiture alors que vous n'avez pas le permis. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien si vous faites attention",
+            "isCorrect": false
+          },
+          {
+            "text": "Un simple avertissement de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien si l'ami est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende et un casier judiciaire car c'est un délit",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Conduire sans permis est un délit passible d'une amende et d'une peine de prison."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-077",
+        "shortId": "Q-766665",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez envoyer votre enfant dans une école privée. Devez-vous payer ?",
+        "choices": [
+          {
+            "text": "Non, toutes les écoles sont gratuites en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car les écoles privées sous contrat sont financées intégralement par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les écoles privées sont payantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les frais sont pris en charge par la CAF sous conditions de ressources",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les écoles privées sont payantes. Seule l'école publique est gratuite en France. Les écoles privées sous contrat reçoivent une aide de l'État mais facturent des frais de scolarité aux familles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-078",
+        "shortId": "Q-00230B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez ouvrir un compte en banque. Peut-on vous le refuser ?",
+        "choices": [
+          {
+            "text": "Oui, les banques choisissent leurs clients",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous êtes étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous n'avez pas beaucoup d'argent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous avez le droit à un compte bancaire (droit au compte)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit au compte permet à toute personne d'avoir un compte bancaire, même en cas de refus initial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-079",
+        "shortId": "Q-D9BA43",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne vous insulte dans la rue à cause de votre couleur de peau. C'est :",
+        "choices": [
+          {
+            "text": "Une injure raciste punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un comportement impoli mais qui ne relève pas du droit pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression de la personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction uniquement si elle est prononcée devant des témoins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les injures racistes sont des infractions pénales prévues par la loi du 29 juillet 1881. Elles sont punies d'un an d'emprisonnement et de 45 000 € d'amende. La victime peut porter plainte."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-080",
+        "shortId": "Q-51605A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez des appels publicitaires plusieurs fois par jour. Pouvez-vous les arrêter ?",
+        "choices": [
+          {
+            "text": "Non, c'est normal en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement en changeant de numéro de téléphone",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en vous inscrivant sur la liste Bloctel",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les entreprises ont le droit d'appeler",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bloctel est un service gratuit qui permet de bloquer les appels commerciaux non désirés."
+      }
+    }
+  ]
+}

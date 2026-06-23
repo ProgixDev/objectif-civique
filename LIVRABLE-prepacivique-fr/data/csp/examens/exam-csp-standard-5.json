@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-5",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-030",
+        "shortId": "Q-5DB29A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la laïcité pour un élève dans une école publique. Quelle est la règle sur les signes religieux ?",
+        "choices": [
+          {
+            "text": "Le port de signes ou tenues manifestant ostensiblement une appartenance religieuse est interdit.",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les signes religieux sont autorisés s'ils sont fabriqués en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'élève peut porter un signe religieux visible si ses parents en font la demande écrite au directeur.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les signes religieux sont autorisés dans les lycées mais interdits dans les collèges et écoles primaires.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2004 vise à protéger les mineurs et la neutralité de l'enseignement. Les signes discrets (petites médailles) restent autorisés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-030",
+        "shortId": "Q-60578E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous changez d'adresse. Devez-vous prévenir l'administration ?",
+        "choices": [
+          {
+            "text": "Non, ce n'est pas important",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut déclarer son changement d'adresse",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si vous changez de pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est à l'État de vous trouver",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Déclarer son adresse est nécessaire pour recevoir ses courriers officiels et actualiser ses droits sociaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-048",
+        "shortId": "Q-2192BA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le drapeau tricolore se compose des couleurs :",
+        "choices": [
+          {
+            "text": "Rouge, Blanc, Vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Jaune, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert, Blanc, Bleu",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les couleurs sont disposées en trois bandes verticales égales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-059",
+        "shortId": "Q-75708D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la date de la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1958",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle a été voulue par le général de Gaulle pour stabiliser les institutions françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-033",
+        "shortId": "Q-8F17D7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un groupe de citoyens souhaite créer un nouveau parti politique. Doivent-ils demander l'accord du Président ?",
+        "choices": [
+          {
+            "text": "Non, les partis politiques se forment et exercent leur activité librement en respectant la loi.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, toute nouvelle formation politique doit être validée par le ministère de la Défense.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accord est nécessaire uniquement si le parti compte plus de 10 000 membres.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les partis politiques sont interdits en France en dehors des deux plus anciens.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pluralisme politique est une garantie de la démocratie. La liberté d'association permet la création libre de groupements politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-001",
+        "shortId": "Q-7DD5AB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez une personne faire un malaise cardiaque dans la rue. Quelle est votre obligation légale ?",
+        "choices": [
+          {
+            "text": "Appeler immédiatement les secours (15 ou 18) et aider si possible",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre qu'une personne officielle arrive pour intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier d'abord si la personne a une assurance maladie avant d'appeler",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander aux passants s'il y a un médecin avant d'appeler les secours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi française punit la 'non-assistance à personne en danger' (article 223-6 du Code pénal). Toute personne témoin d'un péril doit appeler les secours (15, 17 ou 18) et porter assistance dans la mesure de ses moyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-002",
+        "shortId": "Q-90036D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association souhaite organiser une manifestation pacifique pour protester contre une décision locale. Le maire souhaite l'interdire par désaccord politique. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Le maire a le pouvoir discrétionnaire d'interdire toute réunion publique sur le territoire de sa commune.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction n'est légale que s'il existe un risque réel et avéré de trouble à l'ordre public que la police ne peut contenir.",
+            "isCorrect": true
+          },
+          {
+            "text": "Les manifestations politiques sont réservées exclusivement aux périodes de campagnes électorales officielles.",
+            "isCorrect": false
+          },
+          {
+            "text": "Une manifestation doit être autorisée par un vote majoritaire du conseil municipal pour avoir lieu.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de manifestation est un droit fondamental. L'autorité administrative ne peut l'interdire que pour des raisons de sécurité publique, et non pour des motifs politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-058",
+        "shortId": "Q-5D744D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous propose d'acheter une carte d'identité volée. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "C'est de l'usurpation d'identité (prison)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un acte autorisé si vous rendez la carte à la police dans les 24 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contravention mineure sanctionnée par un simple avertissement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une petite amende de 5 euros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'usurpation d'identité est un délit puni de 5 ans d'emprisonnement et 75 000 € d'amende (article 226-4-1 du Code pénal). Acheter ou utiliser les papiers d'autrui est un acte criminel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-008",
+        "shortId": "Q-F9C23B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel océan borde la façade ouest de la France (Bretagne, Nouvelle-Aquitaine) ?",
+        "choices": [
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Océan Atlantique s'étend sur toute la côte ouest, offrant de grandes plages et des ports de commerce importants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-074",
+        "shortId": "Q-E780E2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant vous demande qui est Marianne. Que répondez-vous ?",
+        "choices": [
+          {
+            "text": "La première femme élue à l'Assemblée nationale en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbole de la République française, on voit son visage dans les mairies",
+            "isCorrect": true
+          },
+          {
+            "text": "La première femme à voter en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Une figure historique qui a dirigé la Résistance pendant la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne représente la République. Son buste est présent dans toutes les mairies de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-004",
+        "shortId": "Q-5B6C0A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui exerce l'autorité parentale pour protéger et éduquer un enfant mineur ?",
+        "choices": [
+          {
+            "text": "Les deux parents en commun",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la commune uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le directeur de l'école primaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de l'Éducation nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs exercés conjointement par les parents pour l'intérêt de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-003",
+        "shortId": "Q-B91175",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Paix, Travail, Famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Justice, Solidarité, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Héritée de la Révolution, cette devise définit les valeurs fondamentales partagées par tous les citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-039",
+        "shortId": "Q-36207D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le service public ?",
+        "choices": [
+          {
+            "text": "Une entreprise privée qui cherche à faire le plus de profit",
+            "isCorrect": false
+          },
+          {
+            "text": "Un service réservé uniquement aux personnes de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Une activité d'intérêt général gérée ou contrôlée par l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Un service accessible uniquement sur inscription annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le service public désigne toute activité d'intérêt général assurée ou contrôlée par une personne publique (État, collectivités) pour répondre aux besoins de la population."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-025",
+        "shortId": "Q-1BB3BC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution s'occupe de la gestion des collèges ?",
+        "choices": [
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Université",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le conseil départemental a la responsabilité de l'entretien des collèges."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-024",
+        "shortId": "Q-81989B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment l'État garantit-il l'accès à un avocat pour les personnes aux revenus modestes ?",
+        "choices": [
+          {
+            "text": "Par des conventions passées entre les barreaux et les mairies",
+            "isCorrect": false
+          },
+          {
+            "text": "Par l'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Par une assurance justice obligatoire incluse dans la mutuelle santé",
+            "isCorrect": false
+          },
+          {
+            "text": "En interdisant les frais d'avocat pour tous",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet la prise en charge totale ou partielle des frais de justice par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-026",
+        "shortId": "Q-DFF87A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument abrite les tombes des 'grands hommes' (et femmes) ayant marqué la France ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": true
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Petit Palais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Au Panthéon reposent des personnalités comme Voltaire, Victor Hugo, Marie Curie ou Simone Veil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-037",
+        "shortId": "Q-674EF3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument rend hommage aux morts pour la France ?",
+        "choices": [
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe (avec la tombe du Soldat inconnu)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce monument historique célèbre les victoires et honore la mémoire des combattants tombés pour la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-022",
+        "shortId": "Q-71C0DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le changement d'une règle de loi ?",
+        "choices": [
+          {
+            "text": "Une démission",
+            "isCorrect": false
+          },
+          {
+            "text": "Une élection",
+            "isCorrect": false
+          },
+          {
+            "text": "Une nomination",
+            "isCorrect": false
+          },
+          {
+            "text": "Une réforme",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une réforme est une modification législative pour adapter les règles à la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-061",
+        "shortId": "Q-802631",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre propriétaire veut entrer chez vous sans prévenir. En a-t-il le droit ?",
+        "choices": [
+          {
+            "text": "Oui, car c'est son appartement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il a les clés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il doit avoir votre accord pour entrer",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, une fois par mois maximum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le locataire a le droit au respect de son domicile. Le propriétaire ne peut pas entrer sans autorisation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-006",
+        "shortId": "Q-D1279E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monarque français est surnommé le 'Roi-Soleil' et a fait construire le château de Versailles ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XIV a eu le plus long règne de l'histoire de France. Il a symbolisé la monarchie absolue depuis Versailles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-051",
+        "shortId": "Q-9E1258",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le don d'organes ?",
+        "choices": [
+          {
+            "text": "De bénéficier d'une réduction d'impôts pour le donneur",
+            "isCorrect": false
+          },
+          {
+            "text": "De sauver des vies de manière gratuite et anonyme",
+            "isCorrect": true
+          },
+          {
+            "text": "De recevoir une compensation financière de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "De faciliter l'accès aux soins médicaux pour le donneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le don repose sur la solidarité humaine et l'absence de profit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-011",
+        "shortId": "Q-2D036A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge un citoyen français acquiert-il le droit de vote ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité légale et le droit de vote sont fixés à 18 ans révolus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-045",
+        "shortId": "Q-8FED6B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le consentement sexuel est défini comme :",
+        "choices": [
+          {
+            "text": "Une absence de refus explicite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation liée au mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord libre, mutuel et révocable",
+            "isCorrect": true
+          },
+          {
+            "text": "La décision prise par le chef de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Sans consentement libre, l'acte est qualifié d'agression ou de viol par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-023",
+        "shortId": "Q-5EBC55",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le jour de la fête nationale française ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet célèbre la Nation française et commémore notamment la Fête de la Fédération de 1790."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-059",
+        "shortId": "Q-445B47",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le '13ème mois' en entreprise ?",
+        "choices": [
+          {
+            "text": "Une indemnité de départ versée après 10 ans d'ancienneté",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de revenu versé par l'État aux salariés modestes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime correspondant à un mois de salaire versée en fin d'année selon les contrats",
+            "isCorrect": true
+          },
+          {
+            "text": "Une gratification versée uniquement aux cadres supérieurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce n'est pas une obligation légale, mais de nombreuses conventions collectives prévoient le versement d'un salaire supplémentaire (le 13ème mois) souvent en décembre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-049",
+        "shortId": "Q-A9CE94",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelle est la règle concernant le port du voile intégral (burqa, niqab) dans l'espace public en France ?",
+        "choices": [
+          {
+            "text": "Il est interdit par la loi car la dissimulation du visage entrave les exigences de la sécurité publique et de la vie en société.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire pour toutes les femmes d'origine étrangère par respect pour leurs traditions.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé uniquement dans les parcs publics et les jardins privés de l'État.",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi l'autorise si la personne porte un badge avec son nom et son adresse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2010 interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les principes de la vie en commun."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-013",
+        "shortId": "Q-206587",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dirige l'action du Gouvernement et des ministres ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre coordonne le travail des ministres pour appliquer la politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-075",
+        "shortId": "Q-584865",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous signez un contrat de travail. Avez-vous le droit de le relire chez vous avant de signer ?",
+        "choices": [
+          {
+            "text": "Non, il faut signer immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous avez le droit de demander du temps pour lire le contrat",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'employeur est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un manque de confiance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Vous avez le droit de lire et comprendre un contrat avant de le signer. C'est normal et légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-046",
+        "shortId": "Q-160A6D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naît en Suisse et se jette dans la mer à Marseille ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Rhône est un fleuve puissant utilisé pour la production d'électricité et le transport."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-037",
+        "shortId": "Q-3C5F6E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'acronyme 'RIB' ?",
+        "choices": [
+          {
+            "text": "Relevé d'Identité Bancaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Registre des Impôts sur le Bien",
+            "isCorrect": false
+          },
+          {
+            "text": "Référence d'Inscription Budgétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Remboursement Immédiat de la Banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RIB contient les coordonnées bancaires (IBAN/BIC) permettant de recevoir des virements ou d'autoriser des prélèvements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-047",
+        "shortId": "Q-99C58E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'âge de la majorité civile en France ?",
+        "choices": [
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À 18 ans, on devient pleinement responsable de ses actes et on acquiert tous les droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-008",
+        "shortId": "Q-967047",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on lors de la fête nationale du 14 juillet ?",
+        "choices": [
+          {
+            "text": "La fête de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de 1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-053",
+        "shortId": "Q-4BC8B7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'urgence unique valable partout en Europe ?",
+        "choices": [
+          {
+            "text": "911",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "112",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 112 est accessible gratuitement depuis n'importe quel téléphone dans l'UE."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-042",
+        "shortId": "Q-43D7AD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île française est surnommée l'Île de Beauté ?",
+        "choices": [
+          {
+            "text": "L'île de Ré",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "Belle-Île-en-Mer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Corse est située en Méditerranée. Elle est célèbre pour ses montagnes et ses plages."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-055",
+        "shortId": "Q-837BDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but de la 'Journée Défense et Citoyenneté' (JDC) ?",
+        "choices": [
+          {
+            "text": "Effectuer un stage d'initiation au métier des armes",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser une mission de service civique obligatoire d'un mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer les jeunes sur leurs droits, leurs devoirs et le fonctionnement des institutions",
+            "isCorrect": true
+          },
+          {
+            "text": "Passer un examen de connaissances civiques noté sur 20",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La JDC est obligatoire pour tous les Français avant 25 ans. Elle permet de sensibiliser aux enjeux de la défense et aux valeurs républicaines."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-078",
+        "shortId": "Q-F4E2CA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce qu'est la Sécurité sociale. Quelle est la bonne réponse ?",
+        "choices": [
+          {
+            "text": "Une entreprise privée qui vend des assurances",
+            "isCorrect": false
+          },
+          {
+            "text": "Un service de l'État qui gère les pensions de retraite des fonctionnaires uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une assurance obligatoire gérée par des compagnies privées sous contrôle de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système de solidarité qui aide les malades, les familles et les retraités",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Sécurité sociale est le système de protection sociale français. Elle aide les citoyens face à la maladie, la vieillesse et d'autres difficultés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-032",
+        "shortId": "Q-58A3DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunissent les sénateurs pour travailler ?",
+        "choices": [
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat siège au Palais du Luxembourg à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-032",
+        "shortId": "Q-6FA1DA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez vous marier avec une personne du même sexe. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement à Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais sans cérémonie officielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi autorise le mariage pour tous",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France reconnaît l'égalité devant le mariage pour tous les couples depuis 2013."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-049",
+        "shortId": "Q-EAC674",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle période de l'histoire de France est marquée par les 'Poilus' et les tranchées ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale (1914-1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règne de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Moyen Âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les 'Poilus' étaient les soldats français combattant courageusement dans des conditions très difficiles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-051",
+        "shortId": "Q-21C003",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Chèque Énergie' ?",
+        "choices": [
+          {
+            "text": "Un crédit d'impôt pour les travaux d'isolation thermique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une subvention pour l'installation de panneaux solaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide versée sous conditions de ressources pour payer les factures d'énergie du logement",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réduction sur l'abonnement au gaz naturel pour les familles nombreuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le chèque énergie est envoyé une fois par an aux foyers modestes pour les aider à payer l'électricité, le gaz, le bois ou certains travaux de rénovation."
+      }
+    }
+  ]
+}

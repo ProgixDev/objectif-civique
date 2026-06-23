@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-17",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-037",
+        "shortId": "Q-674EF3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument rend hommage aux morts pour la France ?",
+        "choices": [
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe (avec la tombe du Soldat inconnu)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce monument historique célèbre les victoires et honore la mémoire des combattants tombés pour la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-001",
+        "shortId": "Q-7DD5AB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez une personne faire un malaise cardiaque dans la rue. Quelle est votre obligation légale ?",
+        "choices": [
+          {
+            "text": "Appeler immédiatement les secours (15 ou 18) et aider si possible",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre qu'une personne officielle arrive pour intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier d'abord si la personne a une assurance maladie avant d'appeler",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander aux passants s'il y a un médecin avant d'appeler les secours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi française punit la 'non-assistance à personne en danger' (article 223-6 du Code pénal). Toute personne témoin d'un péril doit appeler les secours (15, 17 ou 18) et porter assistance dans la mesure de ses moyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-008",
+        "shortId": "Q-233940",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1789 protège le droit de posséder des biens ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le règlement intérieur de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code de la consommation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Déclaration de 1789 considère la propriété comme un droit 'inviolable et sacré'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-007",
+        "shortId": "Q-4457C2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe de la présomption d'innocence ?",
+        "choices": [
+          {
+            "text": "L'accusé est considéré comme innocent tant qu'il n'est pas jugé coupable",
+            "isCorrect": true
+          },
+          {
+            "text": "La police décide seule de qui est coupable avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accusé doit obligatoirement prouver qu'il n'a rien fait",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'est pas nécessaire d'avoir un procès en cas de flagrant délit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence est un principe fondamental de justice : c'est à l'accusation d'apporter la preuve de la faute devant un tribunal indépendant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-060",
+        "shortId": "Q-34F554",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La langue officielle de la France est :",
+        "choices": [
+          {
+            "text": "L'occitan",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "L'alsacien",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inscrit à l'article 2 de la Constitution : 'La langue de la République est le français'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-075",
+        "shortId": "Q-584865",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous signez un contrat de travail. Avez-vous le droit de le relire chez vous avant de signer ?",
+        "choices": [
+          {
+            "text": "Non, il faut signer immédiatement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous avez le droit de demander du temps pour lire le contrat",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'employeur est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un manque de confiance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Vous avez le droit de lire et comprendre un contrat avant de le signer. C'est normal et légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-042",
+        "shortId": "Q-8899A8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la différence entre le 'droit de vote' et le 'droit d'éligibilité'.",
+        "choices": [
+          {
+            "text": "Le droit de vote permet de choisir ses représentants, le droit d'éligibilité permet de se présenter soi-même comme candidat.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de vote est acquis à 18 ans, tandis que le droit d'éligibilité est acquis à 25 ans pour toutes les élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote s'exerce lors des élections locales uniquement, le droit d'éligibilité concerne les élections nationales.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a aucune différence, ce sont deux mots pour désigner la même action.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie permet non seulement de voter mais aussi de participer activement au gouvernement en étant candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-031",
+        "shortId": "Q-4824D1",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que risque une personne en cas de non-assistance à personne en danger ?",
+        "choices": [
+          {
+            "text": "La perte temporaire de son permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Des poursuites pénales et une possible amende ou prison",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de circuler dans la commune pendant un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Un avertissement officiel inscrit au casier judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Porter secours ou alerter est une obligation légale quand cela ne présente pas de danger pour soi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-049",
+        "shortId": "Q-4635B0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le retrait de la nationalité française pour crime grave ?",
+        "choices": [
+          {
+            "text": "L'exclusion administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La résiliation civique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de naissance",
+            "isCorrect": false
+          },
+          {
+            "text": "La déchéance de nationalité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déchéance de nationalité est une mesure exceptionnelle, encadrée par le Code civil, qui ne peut concerner que les personnes ayant acquis la nationalité française et possédant une autre nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-080",
+        "shortId": "Q-51605A",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez des appels publicitaires plusieurs fois par jour. Pouvez-vous les arrêter ?",
+        "choices": [
+          {
+            "text": "Non, c'est normal en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement en changeant de numéro de téléphone",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en vous inscrivant sur la liste Bloctel",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les entreprises ont le droit d'appeler",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bloctel est un service gratuit qui permet de bloquer les appels commerciaux non désirés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-061",
+        "shortId": "Q-560FCD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que veut dire 'Liberté' dans la devise française. Quelle est la bonne définition ?",
+        "choices": [
+          {
+            "text": "La possibilité d'agir librement tant qu'on ne nuit pas aux autres",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de faire ce que l'on veut quand on veut, sans limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de s'exprimer librement sans aucune limite, même si cela nuit à autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Un privilège accordé uniquement aux citoyens qui respectent toutes les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté en France s'arrête là où commence celle des autres. C'est un équilibre entre droits individuels et vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-040",
+        "shortId": "Q-4901BD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité garantit le respect de la Constitution ?",
+        "choices": [
+          {
+            "text": "La police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la ville",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés européens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il vérifie que les nouvelles lois ne contredisent pas les principes de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-054",
+        "shortId": "Q-4E9429",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le numéro 3919 est réservé à l'aide pour :",
+        "choices": [
+          {
+            "text": "Les urgences liées au gaz et à l'électricité",
+            "isCorrect": false
+          },
+          {
+            "text": "Les renseignements administratifs de la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Les réservations de transports publics nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les femmes victimes de violences",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 3919 est le numéro national pour écouter et orienter les femmes victimes de violences."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-059",
+        "shortId": "Q-14F21C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans une mairie, des agents demandent qu'une salle soit réservée à la prière. Quelle réponse respecte le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "La mairie doit obligatoirement créer une salle de prière dès qu'un groupe d'agents le demande.",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie n'a pas à mettre en place un local de prière et les agents publics doivent respecter la laïcité dans le service.",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie doit réserver une salle pour chaque religion représentée parmi les agents.",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie peut accepter seulement pour la religion majoritaire parmi le personnel.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le service public, les agents sont soumis à des obligations de neutralité et de laïcité. La mairie doit assurer un service neutre pour tous et n'a pas à organiser un local de prière pour ses agents."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-023",
+        "shortId": "Q-B79D29",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe interdit la discrimination entre les hommes et les femmes ?",
+        "choices": [
+          {
+            "text": "L'égalité",
+            "isCorrect": true
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité devant la loi est la même pour tous, quel que soit le sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-063",
+        "shortId": "Q-B3CD25",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Au nom de qui la justice est-elle rendue dans les tribunaux français ?",
+        "choices": [
+          {
+            "text": "Au nom du Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de l'Ordre des avocats de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom de la religion majoritaire du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nom du Peuple français",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La justice est une fonction souveraine exercée au nom de la Nation entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-010",
+        "shortId": "Q-C57EC3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la signification du buste de 'Marianne' présent dans les mairies. Que représente-t-elle ?",
+        "choices": [
+          {
+            "text": "Elle est la représentation artistique de la première femme élue députée en France.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est une figure allégorique de la République, symbolisant la liberté et la démocratie.",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle représente la sainte patronne protectrice des communes de France.",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est le portrait officiel de l'épouse du premier Président de la Ve République.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne incarne les valeurs républicaines. Son bonnet phrygien symbolise la liberté conquise face à l'oppression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-042",
+        "shortId": "Q-4C2490",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la parité en politique française ?",
+        "choices": [
+          {
+            "text": "L'égalité d'accès entre les femmes et les hommes aux fonctions politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de représenter toutes les catégories socio-professionnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de rotation des mandats entre les générations",
+            "isCorrect": false
+          },
+          {
+            "text": "La représentation proportionnelle des minorités régionales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La parité vise une représentation équilibrée des sexes dans les assemblées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-038",
+        "shortId": "Q-594DE0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis 2013, le mariage est ouvert en France :",
+        "choices": [
+          {
+            "text": "Uniquement aux personnes nées en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement aux couples de sexe différent",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux couples de même sexe ou de sexe différent",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement aux citoyens de l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi autorise le mariage pour tous les couples, garantissant l'égalité des droits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-048",
+        "shortId": "Q-8BF0C6",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'éco-organisme' (comme Eco-systèmes ou Citeo) ?",
+        "choices": [
+          {
+            "text": "Un label qualité attribué aux produits issus de l'agriculture biologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un organisme public de contrôle sanitaire des aliments",
+            "isCorrect": false
+          },
+          {
+            "text": "Une certification environnementale pour les bâtiments neufs",
+            "isCorrect": false
+          },
+          {
+            "text": "Une structure gérant la collecte et le recyclage des déchets (emballages, appareils électriques)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ces organismes sont financés par l'éco-participation que vous payez lors de l'achat d'un produit pour assurer son futur recyclage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-021",
+        "shortId": "Q-564660",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, l'instruction est obligatoire. De quel âge à quel âge cette obligation s'applique-t-elle ?",
+        "choices": [
+          {
+            "text": "De 3 ans à 16 ans révolus.",
+            "isCorrect": true
+          },
+          {
+            "text": "De 6 ans à 16 ans révolus.",
+            "isCorrect": false
+          },
+          {
+            "text": "De 3 ans à 18 ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "De 6 ans à 18 ans.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la loi du 28 juillet 2019 (loi pour une École de la confiance), l'instruction est obligatoire de 3 à 16 ans. Avant cette loi, l'obligation commençait à 6 ans. À ne pas confondre avec l'obligation de formation (pas d'instruction) qui est étendue jusqu'à 18 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-063",
+        "shortId": "Q-0B000F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte historique a été écrit durant la Révolution française en 1789 ?",
+        "choices": [
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Constitution de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La DDHC, adoptée le 26 août 1789, pose les bases de la liberté et de l'égalité en France et reste intégrée au bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-037",
+        "shortId": "Q-DFFE93",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez vos impôts mais vous refusez de payer sans raison. Que risque-t-il d'arriver ?",
+        "choices": [
+          {
+            "text": "Des pénalités financières (majoration de 10%) et des poursuites",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, l'impôt est facultatif pour les particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous ne pourrez plus voter aux prochaines élections",
+            "isCorrect": false
+          },
+          {
+            "text": "Une interdiction de sortie du territoire immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Payer ses impôts est une obligation pour financer les services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-056",
+        "shortId": "Q-A0597D",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une 'famille recomposée' ?",
+        "choices": [
+          {
+            "text": "Une famille qui a déménagé dans une autre région",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille dont les membres vivent dans des pays différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une famille qui a adopté un enfant étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Un couple vivant avec au moins un enfant né d'une union précédente",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il s'agit d'un foyer où des enfants vivent avec un parent et un beau-parent suite à une séparation ou un veuvage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-069",
+        "shortId": "Q-DF4104",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous explique que tous les citoyens sont égaux. Mais le Président a-t-il plus de droits ?",
+        "choices": [
+          {
+            "text": "Oui, le Président est au-dessus des lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le Président peut être jugé pour des crimes graves",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président ne peut pas être puni, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président décide lui-même s'il doit obéir à la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Personne n'est au-dessus de la loi en France. Le Président peut être jugé par la Haute Cour pour des actes très graves."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-029",
+        "shortId": "Q-3FEA33",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est chargé de protéger la sécurité des personnes et des biens ?",
+        "choices": [
+          {
+            "text": "Le juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les forces de l'ordre assurent la sécurité publique et le respect de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-065",
+        "shortId": "Q-DD66FA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez changer de médecin traitant. Avez-vous le droit ?",
+        "choices": [
+          {
+            "text": "Non, le médecin traitant est désigné par la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, seulement une fois par an",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, vous êtes libre de choisir votre médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si vous déménagez",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Chaque patient a le droit de choisir librement son médecin traitant et d'en changer quand il veut."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-019",
+        "shortId": "Q-D91CEA",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel est l'âge minimum pour être juré lors d'un procès aux Assises ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "23 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour être juré, il faut être de nationalité française, avoir au moins 23 ans, savoir lire et écrire en français et jouir de ses droits politiques, civils et de famille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-012",
+        "shortId": "Q-F4FA2A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Justice, Paix, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Liberté, Égalité, Fraternité, c'est le triptyque fondamental inscrit dans la Constitution et sur le fronton des édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-021",
+        "shortId": "Q-825279",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi servent principalement les impôts payés par les citoyens ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés auprès de la Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des fonctionnaires européens",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics (écoles, hôpitaux, police)",
+            "isCorrect": true
+          },
+          {
+            "text": "À constituer des réserves budgétaires pour les années de crise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les impôts sont une contribution obligatoire pour faire fonctionner le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-058",
+        "shortId": "Q-5D744D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous propose d'acheter une carte d'identité volée. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "C'est de l'usurpation d'identité (prison)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un acte autorisé si vous rendez la carte à la police dans les 24 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contravention mineure sanctionnée par un simple avertissement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une petite amende de 5 euros",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'usurpation d'identité est un délit puni de 5 ans d'emprisonnement et 75 000 € d'amende (article 226-4-1 du Code pénal). Acheter ou utiliser les papiers d'autrui est un acte criminel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-031",
+        "shortId": "Q-D69E26",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'état civil ?",
+        "choices": [
+          {
+            "text": "La liste des personnes ayant payé leurs impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des règles pour se comporter poliment en public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le service qui enregistre les naissances, mariages et décès",
+            "isCorrect": true
+          },
+          {
+            "text": "Un diplôme de fin d'études secondaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil définit l'identité d'une personne auprès de l'administration via des actes officiels dressés par les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-014",
+        "shortId": "Q-E4F518",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quelle année l'école publique est-elle gratuite ?",
+        "choices": [
+          {
+            "text": "Depuis 1881",
+            "isCorrect": true
+          },
+          {
+            "text": "Depuis 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1960",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école publique primaire est gratuite en France depuis 1881 grâce aux lois Jules Ferry. Cette gratuité s'est progressivement étendue à tous les niveaux d'enseignement public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-016",
+        "shortId": "Q-19C898",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était le roi de France au moment de la Révolution française ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Louis XV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVIII",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI était le roi de France en 1789 lors du début de la Révolution. Il a été arrêté, jugé pour haute trahison et exécuté en 1793."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-017",
+        "shortId": "Q-9EDA00",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a fondé la Ve République ?",
+        "choices": [
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles de Gaulle a fondé la Ve République en 1958 en rédigeant une nouvelle Constitution. Il l'a fait pour renforcer le pouvoir exécutif et stabiliser le système politique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-018",
+        "shortId": "Q-8B0E9B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que célèbre-t-on le 14 juillet ?",
+        "choices": [
+          {
+            "text": "La proclamation de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armistice mettant fin à la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'adoption de la Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fête nationale du 14 juillet renvoie à deux événements: la prise de la Bastille en 1789 et la Fête de la Fédération en 1790. Elle commémore à la fois la rupture révolutionnaire et l'unité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-019",
+        "shortId": "Q-EA83BC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Guerre de Cent Ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guerre de 1870",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle a opposé les puissances alliées (France, Royaume-Uni, Russie, puis États-Unis) aux puissances centrales (Allemagne, Autriche-Hongrie)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-020",
+        "shortId": "Q-B9568A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "Abolition de l'esclavage",
+            "isCorrect": false
+          },
+          {
+            "text": "Création de la Ve République et nouvelle Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Lois Jules Ferry sur l'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "Fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En 1958, Charles de Gaulle a créé la Ve République avec une nouvelle Constitution qui renforce le pouvoir exécutif et institue la présidence de la République élue au suffrage universel (depuis 1962)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-021",
+        "shortId": "Q-44043F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel fleuve coule en France ?",
+        "choices": [
+          {
+            "text": "Le Danube",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pô",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Plusieurs grands fleuves coulent en France : la Loire (plus long fleuve français), la Seine (fleuve de Paris), la Garonne, le Rhône (vers la Méditerranée) et la Meuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-022",
+        "shortId": "Q-0AB926",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est française ?",
+        "choices": [
+          {
+            "text": "Cologne",
+            "isCorrect": false
+          },
+          {
+            "text": "Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Charleroi",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une grande ville française et une métropole régionale importante."
+      }
+    }
+  ]
+}

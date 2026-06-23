@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-11",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-073",
+        "shortId": "Q-15B21B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pendant une grève des transports, un usager dit que le droit de grève ne devrait pas exister car il gêne les citoyens. Que répond le droit ?",
+        "choices": [
+          {
+            "text": "Le droit de grève est absolu et ne peut être limité d'aucune manière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève est un droit constitutionnel qui s'exerce dans le cadre des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de grève n'existe que pour les employés du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État peut interdire toute grève dans les services publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est reconnu par le Préambule de 1946. Il s'exerce dans le cadre des lois qui le réglementent, notamment pour assurer la continuité des services essentiels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-085",
+        "shortId": "Q-528E51",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 15 de la DDHC de 1789 fonde le droit de contrôle des citoyens sur l'action publique en disposant que :",
+        "choices": [
+          {
+            "text": "La société a le droit de demander compte à tout agent public de son administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout citoyen peut refuser d'obéir à une loi qu'il juge injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense est un droit absolu de l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Les fonctionnaires sont nommés à vie sans possibilité de révocation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe est le socle de la transparence démocratique et de la responsabilité des agents publics devant la collectivité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-023",
+        "shortId": "Q-BD5A93",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la condition principale pour qu'un citoyen puisse exercer son droit de vote ?",
+        "choices": [
+          {
+            "text": "Être propriétaire de son logement principal depuis au moins deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir payé ses impôts sur le revenu l'année précédant le scrutin",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les listes électorales et jouir de ses droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir effectué son service militaire ou national complet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel, égal et secret. Pour voter, il faut être majeur, de nationalité française et ne pas être frappé d'une peine d'inéligibilité ou de privation de droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-079",
+        "shortId": "Q-C27DFA",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime de violences conjugales. Le médecin peut-il briser le secret médical pour vous signaler ?",
+        "choices": [
+          {
+            "text": "Non, le secret médical est absolu sauf pour les mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si la victime donne son accord écrit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la victime est en danger immédiat et sous emprise (Loi de 2020), il peut prévenir le Procureur",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement en cas de blessures nécessitant plus de 8 jours d'ITT",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi a évolué pour protéger les victimes. Le médecin peut désormais signaler des violences conjugales au procureur s'il estime que la vie de la victime est en danger immédiat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-044",
+        "shortId": "Q-DCDE54",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe assure la représentation des Français de l'étranger ?",
+        "choices": [
+          {
+            "text": "L'Assemblée des départements de France",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée des Français de l'étranger (AFE)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministère de la Défense",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'AFE est l'instance consultative qui défend les intérêts des expatriés français auprès des autorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-067",
+        "shortId": "Q-1EBC4C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez créer une association loi 1901 pour jouer aux échecs. Est-ce compliqué ?",
+        "choices": [
+          {
+            "text": "Oui, il faut au minimum 7 membres fondateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut présenter un budget prévisionnel à la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est gratuit (ou presque), il suffit de déclarer les statuts en préfecture (ou en ligne)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais il faut obligatoirement ouvrir un compte bancaire dédié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'association permet de créer très facilement une structure juridique avec une simple déclaration administrative."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-006",
+        "shortId": "Q-C085DF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le cadre de la laïcité, quelle est la règle concernant les aumôneries dans les prisons ou les hôpitaux ?",
+        "choices": [
+          {
+            "text": "Elles sont formellement interdites par la loi de 1905",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles sont autorisées pour garantir le libre exercice du culte",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ne sont autorisées que pour le culte catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles doivent être financées par des pays étrangers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 1905 prévoit que l'État peut financer des services d'aumônerie dans les lieux fermés (lycées, hôpitaux, prisons) pour permettre aux usagers d'exercer leur religion."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-018",
+        "shortId": "Q-258ED9",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Le Service National Universel (SNU) est-il obligatoire ?",
+        "choices": [
+          {
+            "text": "Oui, pour tous les garçons",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour tous les jeunes de 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il est basé sur le volontariat (pour l'instant)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, pour ceux qui ont quitté l'école",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le SNU s'adresse aux jeunes volontaires de 15 à 17 ans pour renforcer la cohésion nationale. Son caractère obligatoire est débattu mais pas en vigueur."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-078",
+        "shortId": "Q-58C321",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Préfet dans un département français ?",
+        "choices": [
+          {
+            "text": "Diriger la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les impôts locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice au nom de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Représenter l'État et coordonner les services administratifs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet veille à l'application des lois, au maintien de l'ordre et à la sécurité publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-011",
+        "shortId": "Q-B181A0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes interdit de traiter différemment deux citoyens placés dans la même situation ?",
+        "choices": [
+          {
+            "text": "La liberté d'entreprendre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe d'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de décentralisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité devant la loi signifie que tous les individus, quelles que soient leurs origines ou croyances, sont soumis aux mêmes règles et bénéficient des mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-029",
+        "shortId": "Q-A3F893",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez construire une cabane de jardin de 15m². Faut-il une autorisation ?",
+        "choices": [
+          {
+            "text": "Non, les constructions légères sont dispensées de formalités",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, un permis de construire est obligatoire dès 10m²",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si la construction est démontable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une déclaration préalable de travaux est obligatoire (entre 5 et 20m²)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toute construction nouvelle de plus de 5m² nécessite une autorisation. Jusqu'à 20m², une déclaration préalable suffit. Au-delà, c'est un permis."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-074",
+        "shortId": "Q-C91546",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme de science, d'origine polonaise, a reçu deux prix Nobel pour ses travaux sur la radioactivité ?",
+        "choices": [
+          {
+            "text": "Irène Joliot-Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Rosalind Franklin",
+            "isCorrect": false
+          },
+          {
+            "text": "Ada Lovelace",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ses découvertes du radium et du polonium ont ouvert la voie à la physique nucléaire moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-063",
+        "shortId": "Q-49827D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une patiente à l'hôpital public demande à être soignée exclusivement par des femmes pour des raisons religieuses. Quelle est la réponse de l'établissement ?",
+        "choices": [
+          {
+            "text": "L'hôpital doit toujours satisfaire cette demande par respect de la diversité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital refuse automatiquement car la religion est interdite en milieu hospitalier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hôpital peut essayer de s'adapter si l'organisation le permet, mais ne peut garantir ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin-chef décide seul sans tenir compte des souhaits de la patiente",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le service public hospitalier doit traiter tous les patients de façon égale. Il peut tenter de s'adapter dans la limite du bon fonctionnement du service, mais aucun droit opposable n'existe."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-072",
+        "shortId": "Q-D79503",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Londres",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Francfort (Allemagne)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le siège de la Banque centrale européenne est situé à Francfort-sur-le-Main, en Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-011",
+        "shortId": "Q-8A5C1E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À vélo, le feu est rouge mais il n'y a personne. Pouvez-vous passer ?",
+        "choices": [
+          {
+            "text": "Oui, car le feu rouge ne s'applique qu'aux véhicules motorisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, car les vélos ne sont pas soumis aux mêmes règles que les voitures",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le code de la route s'applique aussi aux cyclistes (sauf panneau M12 spécifique)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, après avoir marqué un arrêt complet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les cyclistes doivent respecter les feux rouges. Seul le panneau triangulaire « Cédez-le-passage cycliste au feu » (M12) permet de passer avec prudence."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-088",
+        "shortId": "Q-2E2C7A",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a mené la France lors de la guerre de Sept Ans, perdant la majeure partie du premier empire colonial ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIII",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le traité de Paris de 1763 a acté la perte du Canada et de l'Inde au profit de l'Angleterre sous son règne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-003",
+        "shortId": "Q-C241A0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne distribue dans la rue des prospectus invitant les passants à découvrir sa religion. Quelle est la réponse la plus exacte ?",
+        "choices": [
+          {
+            "text": "Cette diffusion est interdite, car l'espace public doit rester neutre sur le plan religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Cette diffusion est licite en principe au titre de la liberté d'expression et de conscience, sous réserve du respect de l'ordre public et de l'absence de pression sur autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Cette diffusion n'est possible qu'après autorisation préalable du maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Cette diffusion n'est autorisée que pour les associations cultuelles déclarées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une personne privée peut donc, en principe, distribuer des prospectus religieux au titre de la liberté d'expression et de la liberté de conscience, tant qu'elle ne trouble pas l'ordre public et n'exerce pas de pression abusive sur les passants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-075",
+        "shortId": "Q-653306",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être candidat aux élections européennes en France si on est Allemand habitant en France ?",
+        "choices": [
+          {
+            "text": "Oui, sous conditions (résidence, âge, non privé de droits)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, il faut être Français",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut se présenter en Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement comme remplaçant",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, tout citoyen de l'Union résidant en France peut être candidat aux élections européennes en France, aux mêmes conditions que les Français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-042",
+        "shortId": "Q-F0CDCC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunit l'Assemblée nationale pour délibérer et voter les lois ?",
+        "choices": [
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais Bourbon",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale siège au Palais Bourbon. Le Palais du Luxembourg est le siège du Sénat, Matignon celui du Premier ministre et l'Élysée celui du Président."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-014",
+        "shortId": "Q-402F47",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1936, quel gouvernement a instauré les congés payés et la semaine de 40 heures après d'importantes grèves ?",
+        "choices": [
+          {
+            "text": "Le Front populaire",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Union nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Cartel des gauches",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Bloc National",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dirigé par Léon Blum, le Front populaire a signé les accords de Matignon, marquant une avancée sociale sans précédent dans l'histoire de France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-051",
+        "shortId": "Q-384559",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui prépare le budget de l'État chaque année ?",
+        "choices": [
+          {
+            "text": "Le Parlement seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "La Banque centrale européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil économique et social",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Gouvernement prépare le projet de loi de finances, mais c'est le Parlement qui doit l'examiner et le voter."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-095",
+        "shortId": "Q-F621C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont prises la plupart des décisions au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "À l'unanimité (pour tout)",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement par les pays fondateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "À la majorité qualifiée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité qualifiée (55% des États représentant 65% de la population) est devenue le mode de décision ordinaire pour éviter les blocages de l'unanimité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-060",
+        "shortId": "Q-D20133",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Déclaration des Droits de l'Homme et du Citoyen de 1789 dispose que la souveraineté :",
+        "choices": [
+          {
+            "text": "Réside essentiellement dans la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "Appartient au Président de la République par délégation",
+            "isCorrect": false
+          },
+          {
+            "text": "Est détenue par les représentants élus exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Découle du droit divin accordé aux gouvernants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 3 de la DDHC marque la fin de la monarchie absolue en affirmant que le principe de toute souveraineté réside dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-072",
+        "shortId": "Q-DBDE0B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain français, surnommé le 'Roi-Chevalier', fut fait prisonnier à la bataille de Pavie en 1525 ?",
+        "choices": [
+          {
+            "text": "Louis XII",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri II",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles IX",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "François Ier fut capturé par les troupes de Charles Quint et dut signer le traité de Madrid."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-046",
+        "shortId": "Q-14646D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'examen obligatoire pour une voiture de plus de 4 ans à effectuer tous les 2 ans ?",
+        "choices": [
+          {
+            "text": "La révision constructeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrôle technique",
+            "isCorrect": true
+          },
+          {
+            "text": "Le passage au banc d'essai",
+            "isCorrect": false
+          },
+          {
+            "text": "La vidange annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le contrôle technique vérifie les points de sécurité et de pollution du véhicule."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-074",
+        "shortId": "Q-7DC4C8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen estime qu'une loi votée par le Parlement viole ses droits fondamentaux. Peut-il la contester ?",
+        "choices": [
+          {
+            "text": "Non, une loi votée par le Parlement est toujours légitime et intouchable",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il peut soulever une Question Prioritaire de Constitutionnalité (QPC) devant un tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement s'il obtient 10 000 signatures de soutien",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Président de la République peut contester une loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, tout justiciable peut soulever une QPC pour contester la conformité d'une loi aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-073",
+        "shortId": "Q-78ABFF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôle les finances et le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour des comptes européenne contrôle la bonne gestion financière de l'UE. Elle vérifie que les fonds européens sont collectés et dépensés légalement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-049",
+        "shortId": "Q-F46A0B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution est à la fois le conseiller juridique du gouvernement et la plus haute juridiction de l'ordre administratif ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil d'État a un double rôle : il rend des avis obligatoires sur les projets de loi (rôle consultatif) et il juge en dernier ressort les actes de l'administration (rôle juridictionnel)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-073",
+        "shortId": "Q-6BFEC3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naissant en Suisse traverse les Alpes avant de se jeter dans la Méditerranée par un vaste delta ?",
+        "choices": [
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Danube",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Escaut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Rhône est le fleuve français au débit le plus puissant, utilisé pour l'énergie hydroélectrique et le transport fluvial."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-008",
+        "shortId": "Q-277921",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Recensement citoyen' obligatoire pour les jeunes Français ?",
+        "choices": [
+          {
+            "text": "Un examen de santé général",
+            "isCorrect": false
+          },
+          {
+            "text": "Une inscription sur les listes électorales des consulats",
+            "isCorrect": false
+          },
+          {
+            "text": "Un impôt spécifique pour les jeunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une démarche à effectuer à 16 ans pour participer à la Journée Défense et Citoyenneté",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tout Français doit se faire recenser à la mairie de son domicile dès ses 16 ans. C'est indispensable pour passer des examens (bac, permis)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-009",
+        "shortId": "Q-5F67B9",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En tant qu'agent public (fonctionnaire), à quelle obligation majeure êtes-vous soumis concernant vos convictions religieuses ?",
+        "choices": [
+          {
+            "text": "Le principe de neutralité, interdisant toute manifestation de ses croyances dans l'exercice de ses fonctions",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de réserve, qui interdit d'avoir une religion personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait en cas de désaccord avec la hiérarchie sur des points moraux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de prosélytisme républicain au sein des services",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le principe de neutralité s'applique à tout agent concourant à un service public. L'agent ne doit porter aucun signe religieux ni manifester ses opinions politiques ou religieuses pour garantir l'impartialité du service devant l'usager."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-064",
+        "shortId": "Q-00A16A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés européens ?",
+        "choices": [
+          {
+            "text": "Par les gouvernements nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens européens",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés européens sont élus au suffrage universel direct par les citoyens de chaque pays de l'Union européenne tous les 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-022",
+        "shortId": "Q-84BB46",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit à l'instruction est un droit fondamental en France. Jusqu'à quel âge l'instruction est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "12 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire de 3 à 16 ans révolus. Depuis 2020, une obligation de formation (scolarité, apprentissage ou emploi) est étendue jusqu'à 18 ans, mais il ne faut pas confondre « instruction » et « formation »."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-040",
+        "shortId": "Q-1E1AEE",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1713 a mis fin à la guerre de Succession d'Espagne, affaiblissant la puissance française face à l'Angleterre ?",
+        "choices": [
+          {
+            "text": "Le traité de Nimègue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Utrecht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Ryswick",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Aix-la-Chapelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France a dû céder des territoires en Amérique du Nord (Terre-Neuve, Acadie) au profit de l'Angleterre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-016",
+        "shortId": "Q-9A6EC0",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif de l'examen médical appelé 'bilan de santé' proposé gratuitement tous les 5 ans par l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Vérifier si l'assuré peut travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier la validité des vaccins pour voyager",
+            "isCorrect": false
+          },
+          {
+            "text": "Remplacer la consultation chez le médecin traitant",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser des actions de prévention et de dépistage",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'examen périodique de santé (EPS) est un examen de prévention personnalisé proposé par l'Assurance Maladie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-004",
+        "shortId": "Q-694574",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte historique définit les principes de la « République sociale », notamment le droit à la santé et au repos ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordonnance de Villers-Cotterêts",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte de l'environnement de 2004",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Préambule de 1946 (intégré à notre Constitution actuelle) a instauré les droits économiques et sociaux, comme le droit d'obtenir de la collectivité des moyens convenables d'existence."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-033",
+        "shortId": "Q-5D7572",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui contrôle la légalité des actes des collectivités territoriales ?",
+        "choices": [
+          {
+            "text": "Le député de la circonscription",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens par vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet (contrôle de légalité) et le juge administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le contrôle de légalité est exercé a posteriori par le Préfet. Il vérifie que les actes des collectivités respectent la loi, sans juger de leur opportunité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-010",
+        "shortId": "Q-7DC41E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : La banque vous verse 500 € par erreur. Devez-vous les rendre ?",
+        "choices": [
+          {
+            "text": "Non, le délai de prescription bancaire est de 24h",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement la moitié (partage de responsabilité)",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, si vous les avez déjà dépensés de bonne foi",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est un « paiement de l'indu » que vous devez rembourser légalement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En droit français, celui qui reçoit par erreur une somme qui ne lui est pas due doit la restituer (article 1302-1 du Code civil). Garder l'argent peut entraîner des poursuites."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-018",
+        "shortId": "Q-461634",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1830, surnommé 'Les Trois Glorieuses', a entraîné la chute de Charles X et l'avènement de Louis-Philippe ?",
+        "choices": [
+          {
+            "text": "La Révolution de Juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution de Février",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le coup d'État de Brumaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette insurrection populaire a mis fin à la Restauration et instauré la Monarchie de Juillet, un régime plus libéral."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-027",
+        "shortId": "Q-FE0FF1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité est compétente pour régler les problèmes d'insalubrité grave d'un logement (Arrêté de péril) ?",
+        "choices": [
+          {
+            "text": "Le syndic de copropriété",
+            "isCorrect": false
+          },
+          {
+            "text": "La caisse d'assurance maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le maire ou le préfet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le maire ou le préfet peuvent prendre des arrêtés d'insalubrité ou de péril pour protéger les occupants."
+      }
+    }
+  ]
+}

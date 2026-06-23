@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-5",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-056",
+        "shortId": "Q-5DE823",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut demander la démission du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale via la motion de censure",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat par un vote solennel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est l'expression du contrôle du Parlement sur l'exécutif : le Gouvernement est responsable devant l'Assemblée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-077",
+        "shortId": "Q-F7487F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter le plan cadastral de votre commune pour voir les limites d'un terrain. Est-ce payant ?",
+        "choices": [
+          {
+            "text": "Non, la consultation du cadastre est gratuite en mairie ou sur internet (cadastre.gouv.fr)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, un forfait de 15 euros par consultation est appliqué",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sauf pour les propriétaires du terrain concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais les copies certifiées conformes sont payantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le cadastre est un document administratif public accessible gratuitement à tous les citoyens pour connaître la propriété foncière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-026",
+        "shortId": "Q-9ABDE4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'affichage d'un drapeau étranger sur la façade d'une habitation privée est :",
+        "choices": [
+          {
+            "text": "Strictement interdit par le Code pénal en dehors des fêtes nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Libre, tant qu'il n'est pas assorti de propos ou d'actes provoquant à la haine ou au trouble de l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumis à une taxe annuelle d'occupation visuelle de l'espace urbain",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé uniquement pendant la durée officielle des compétitions sportives",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression s'étend au domicile privé. L'affichage d'un drapeau est légal, sauf s'il est utilisé comme un outil de provocation à la violence ou de trouble manifeste à la tranquillité publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-023",
+        "shortId": "Q-96C92E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité exerce le commandement de la Gendarmerie nationale lors de missions de sécurité intérieure ?",
+        "choices": [
+          {
+            "text": "Le ministère de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère des Armées exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de la Transition écologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de l'Intérieur",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bien que les gendarmes aient un statut militaire, la Gendarmerie nationale est rattachée au ministère de l'Intérieur depuis 2009 pour ses missions de sécurité publique et de police judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-004",
+        "shortId": "Q-D70EFA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'article 2 de la Constitution de 1958 dispose que 'La langue de la République est le français'. Quel est l'enjeu juridique de ce principe dans les relations avec l'administration ?",
+        "choices": [
+          {
+            "text": "L'administration a l'interdiction d'utiliser des termes étrangers, même techniques",
+            "isCorrect": false
+          },
+          {
+            "text": "L'usage des langues régionales est proscrit dans l'espace privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français est la seule langue autorisée pour les échanges commerciaux entre particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français est la langue obligatoire de tout document administratif et de tout agent public dans l'exercice de ses fonctions",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 2 garantit l'unité de la Nation et l'égalité d'accès au droit. Cela implique que l'administration doit s'exprimer en français et que les usagers ne peuvent exiger de l'État l'usage d'une autre langue pour des actes officiels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-070",
+        "shortId": "Q-C4FA47",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une contravention mais ce n'était pas vous au volant (votre voiture a été prêtée). Que faire ?",
+        "choices": [
+          {
+            "text": "Contester l'amende en désignant le véritable conducteur (ou en prouvant que ce n'était pas vous)",
+            "isCorrect": true
+          },
+          {
+            "text": "Payer l'amende car le titulaire de la carte grise est toujours responsable",
+            "isCorrect": false
+          },
+          {
+            "text": "Ignorer l'amende car sans photo du conducteur, elle est nulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire opposition au prélèvement auprès de votre banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Vous pouvez contester une infraction. Si vous désignez le vrai conducteur, l'amende et le retrait de points lui seront transférés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-016",
+        "shortId": "Q-5D7D6B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « fraternité » a été reconnu par le Conseil constitutionnel en 2018 comme :",
+        "choices": [
+          {
+            "text": "Un simple slogan sans valeur juridique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation de loger les sans-abri chez soi",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe à valeur constitutionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une règle réservée aux relations familiales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La décision du Conseil a conféré une portée juridique à la fraternité, permettant notamment de protéger l'aide humanitaire désintéressée apportée à autrui."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-062",
+        "shortId": "Q-4C99FF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez des propos racistes ou antisémites sur un forum public. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Contacter directement l'hébergeur du site pour demander le retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "Capturer l'écran et déposer une plainte au commissariat",
+            "isCorrect": false
+          },
+          {
+            "text": "Les signaler sur la plateforme Pharos (internet-signalement.gouv.fr)",
+            "isCorrect": true
+          },
+          {
+            "text": "Signaler le contenu au modérateur du forum uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'incitation à la haine raciale n'est pas une opinion mais un délit. La plateforme Pharos permet de signaler ces contenus illicites aux autorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-042",
+        "shortId": "Q-C77384",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale source de revenus du département d'outre-mer de la Guyane, hors fonds publics ?",
+        "choices": [
+          {
+            "text": "L'exportation de bois précieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secteur spatial (Centre Spatial Guyanais)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'orpaillage légal",
+            "isCorrect": false
+          },
+          {
+            "text": "La pêche industrielle au thon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CSG à Kourou est un moteur économique vital qui génère de nombreux emplois indirects et stimule l'innovation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-044",
+        "shortId": "Q-544C48",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pourquoi le drapeau européen est-il arboré aux côtés du drapeau français sur les bâtiments publics ?",
+        "choices": [
+          {
+            "text": "Il indique la fin de l'indépendance diplomatique de la France au profit de Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une obligation purement esthétique pour uniformiser les façades des préfectures",
+            "isCorrect": false
+          },
+          {
+            "text": "Il symbolise l'obligation légale de payer les impôts locaux en monnaie européenne uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il marque l'appartenance de la France à l'Union européenne et le partage de valeurs démocratiques communes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est un État membre fondateur de l'UE. Les deux drapeaux côte à côte symbolisent la double citoyenneté et la solidarité continentale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-053",
+        "shortId": "Q-8608A2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous demande de travailler le dimanche sans que cela soit prévu dans votre contrat ni la convention collective. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Oui, le travail du dimanche est en principe exceptionnel et nécessite souvent l'accord du salarié (ou volontariat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'employeur peut modifier les horaires dans le cadre de son pouvoir de direction",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous avez des obligations familiales documentées",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais vous perdez la prime de présence pour la semaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Sauf dérogations spécifiques (commerces alimentaires, zones touristiques), le travail du dimanche repose sur le volontariat et doit être compensé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-015",
+        "shortId": "Q-0A98C6",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel courant artistique, né à la fin du XIXe siècle, cherchait à capter les variations de la lumière par de petites touches de couleur juxtaposées ?",
+        "choices": [
+          {
+            "text": "L'impressionnisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fauvisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le classicisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbolisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Porté par Monet, Renoir et Sisley, l'impressionnisme a rompu avec l'académisme pour privilégier la perception visuelle immédiate."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-001",
+        "shortId": "Q-E08701",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans un établissement public du second degré, un élève se présente en classe avec un couvre-chef manifestant ostensiblement une appartenance religieuse. Quelle est la base légale de l'interdiction opposée par l'administration ?",
+        "choices": [
+          {
+            "text": "La loi du 15 mars 2004 encadrant le port de signes ou de tenues manifestant une appartenance religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Le règlement intérieur de l'établissement, souverain en matière de discipline",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe constitutionnel de la liberté de conscience des enseignants",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de la laïcité à l'école, qui a valeur de loi organique depuis 2013",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 15 mars 2004 interdit le port de signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse dans les écoles, collèges et lycées publics. Elle vise à protéger la sérénité du cadre pédagogique et la liberté de conscience des mineurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-009",
+        "shortId": "Q-6AAE21",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la définition de la démocratie selon la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre public garanti par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection des frontières nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement du peuple, par le peuple et pour le peuple",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 2 de la Constitution définit le principe de la République comme étant le « gouvernement du peuple, par le peuple et pour le peuple ». Cette citation est empruntée à Abraham Lincoln."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-051",
+        "shortId": "Q-EEA33C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, la garde à vue est une mesure de privation de liberté qui doit obligatoirement être :",
+        "choices": [
+          {
+            "text": "Décidée par le maire de la commune où a eu lieu l'infraction",
+            "isCorrect": false
+          },
+          {
+            "text": "D'une durée minimale de 7 jours renouvelable",
+            "isCorrect": false
+          },
+          {
+            "text": "Appliquée à tout témoin d'un accident de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "Placée sous le contrôle permanent d'un magistrat (Procureur ou Juge)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La garde à vue est une mesure de police judiciaire. Elle est strictement encadrée par le Code de procédure pénale et s'exerce sous la surveillance du procureur de la République pour garantir les droits du suspect."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-011",
+        "shortId": "Q-15237B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel département d'outre-mer possède la plus longue frontière terrestre de la France avec un pays étranger ?",
+        "choices": [
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          },
+          {
+            "text": "Mayotte",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Guyane partage une frontière de 730 km avec le Brésil, ce qui constitue la plus longue frontière terrestre de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-046",
+        "shortId": "Q-8DF995",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la « libre administration des collectivités territoriales » ?",
+        "choices": [
+          {
+            "text": "Qu'elles ne sont pas soumises aux lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elles gèrent leurs propres affaires par des conseils élus",
+            "isCorrect": true
+          },
+          {
+            "text": "Qu'elles peuvent avoir leur propre armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elles ne paient aucun impôt à l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les mairies, départements et régions s'administrent librement sous le contrôle de légalité exercé par le Préfet."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-005",
+        "shortId": "Q-6603C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés ?",
+        "choices": [
+          {
+            "text": "Par les grands électeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommés par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par les citoyens français lors des élections législatives. Le scrutin est majoritaire à deux tours."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-040",
+        "shortId": "Q-2E6BDF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre médecin refuse de vous donner votre dossier médical. Que faire ?",
+        "choices": [
+          {
+            "text": "Saisir la CADA ou l'Ordre des médecins, car l'accès au dossier est un droit fondamental du patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Demander à son Ordre professionnel de lui envoyer un rappel",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire une demande par courrier recommandé avec accusé de réception",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter votre caisse d'assurance maladie pour obtenir le dossier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le refus de communication du dossier médical est illégal. Des recours existent pour forcer l'établissement ou le praticien à respecter ce droit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-050",
+        "shortId": "Q-C10D92",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain naturaliste a décrit les mutations sociales de la fin du XIXe siècle dans la série des 'Rougon-Macquart' ?",
+        "choices": [
+          {
+            "text": "Alphonse Daudet",
+            "isCorrect": false
+          },
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Jules Vallès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Zola a appliqué une méthode expérimentale au roman pour étudier l'hérédité et l'influence du milieu sur l'individu."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-019",
+        "shortId": "Q-59B1B0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le Code de déontologie de la Police et de la Gendarmerie nationale impose aux forces de l'ordre :",
+        "choices": [
+          {
+            "text": "L'usage d'un langage autoritaire pour affirmer l'autorité de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obéissance aveugle aux ordres, même s'ils sont manifestement illégaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le respect absolu de la dignité humaine et le vouvoiement des personnes contrôlées",
+            "isCorrect": true
+          },
+          {
+            "text": "La tolérance zéro envers toute forme de contestation verbale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article R434-11 du Code de la sécurité intérieure impose aux forces de l'ordre d'être au service de la population, d'avoir un comportement exemplaire et d'user du vouvoiement envers le public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-057",
+        "shortId": "Q-24D454",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de commissaires européens ?",
+        "choices": [
+          {
+            "text": "720",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "27 (un par État membre)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il y a un commissaire européen par État membre, soit 27 commissaires. Ils forment le « Collège » et sont tenus à l'indépendance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-004",
+        "shortId": "Q-56E1D2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe distingue les droits sociaux (2ème génération) des libertés civiles ?",
+        "choices": [
+          {
+            "text": "Ils sont absolus et ne peuvent jamais être limités par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils ne s'appliquent qu'aux salariés du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils exigent une prestation positive de l'État (droits-créances)",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils sont inscrits exclusivement dans le Code civil de 1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement aux libertés civiles qui demandent à l'État de ne pas intervenir (abstention), les droits sociaux obligent l'État à agir (fournir des services, des aides) pour garantir l'accès à la santé, à l'éducation ou à la protection sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-023",
+        "shortId": "Q-08C517",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans le cadre de l'organisation territoriale, quel organe délibérant dirige un département français ?",
+        "choices": [
+          {
+            "text": "Le conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil départemental",
+            "isCorrect": true
+          },
+          {
+            "text": "La préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil municipal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil départemental gère les compétences d'action sociale, les collèges et les routes départementales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-055",
+        "shortId": "Q-8EA2BB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, les médicaments prescrits sur ordonnance peuvent être substitués par le pharmacien par :",
+        "choices": [
+          {
+            "text": "Des vitamines",
+            "isCorrect": false
+          },
+          {
+            "text": "Des remèdes naturels uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Des médicaments génériques (mêmes principes actifs)",
+            "isCorrect": true
+          },
+          {
+            "text": "Des produits cosmétiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pharmacien peut proposer un générique, moins cher pour la collectivité, sauf si le médecin a indiqué 'non substituable' sur l'ordonnance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-013",
+        "shortId": "Q-B398D6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, qu'est-ce que le « principe de précaution » ?",
+        "choices": [
+          {
+            "text": "L'obligation de porter une ceinture de sécurité",
+            "isCorrect": false
+          },
+          {
+            "text": "La prudence nécessaire avant de signer un contrat",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anticipation des risques graves pour l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "La vérification systématique de l'identité des usagers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Inscrit dans la Charte de l'environnement, il impose aux autorités publiques de prendre des mesures face à des risques de dommages graves et irréversibles pour l'environnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-054",
+        "shortId": "Q-71DBA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Sénat peut-il être dissous ?",
+        "choices": [
+          {
+            "text": "Oui, par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les sénateurs démissionnent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le Sénat ne peut pas être dissous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, le Sénat ne peut jamais être dissous. Il assure la permanence des institutions et la continuité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-086",
+        "shortId": "Q-8537A8",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la suspension du service militaire obligatoire en 1997, quelle étape du « parcours de citoyenneté » demeure obligatoire pour les jeunes Français ?",
+        "choices": [
+          {
+            "text": "La Journée Défense et Citoyenneté (JDC)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un service civique obligatoire de six mois auprès des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'adhésion obligatoire à une association de secourisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement à la mairie dès l'âge de 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le parcours comprend : l'enseignement de la défense, le recensement (à 16 ans) et la JDC. L'attestation de JDC est nécessaire pour s'inscrire aux examens (Bac, permis) avant 25 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-020",
+        "shortId": "Q-0A7D2C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe du XVIIIe siècle est l'auteur du 'Contrat Social', ouvrage prônant la souveraineté du peuple ?",
+        "choices": [
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": true
+          },
+          {
+            "text": "Diderot",
+            "isCorrect": false
+          },
+          {
+            "text": "D'Alembert",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Rousseau y soutient que la loi doit être l'expression de la volonté générale et que le peuple est le seul détenteur légitime du pouvoir."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-004",
+        "shortId": "Q-7FBD82",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité d'un Pacte Civil de Solidarité (PACS) par rapport au concubinage (union libre) ?",
+        "choices": [
+          {
+            "text": "Il n'impose aucune obligation d'aide mutuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Il permet d'adopter l'enfant du partenaire sans procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est automatiquement dissous en cas de déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il crée des obligations matérielles et une solidarité pour les dettes de la vie courante",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le PACS est un contrat qui impose aux partenaires une aide matérielle proportionnelle à leurs facultés et une solidarité pour les dépenses du quotidien."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-003",
+        "shortId": "Q-24B258",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En vertu du principe de neutralité, qu'est-il interdit à un agent public dans l'exercice de ses fonctions ?",
+        "choices": [
+          {
+            "text": "De voter lors des élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "De manifester ses convictions religieuses ou politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "D'adhérer à un syndicat professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "De pratiquer sa religion dans sa sphère privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La neutralité impose aux agents de l'État et des collectivités de ne pas afficher de signes religieux ou politiques afin de traiter chaque usager de manière égale et impartiale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-071",
+        "shortId": "Q-0E9334",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "1992",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": false
+          },
+          {
+            "text": "1998",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La BCE a été créée en 1998 et est devenue pleinement opérationnelle avec le lancement de l'Euro."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-031",
+        "shortId": "Q-6B064E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le numéro 3919 est dédié à l'écoute et à l'orientation :",
+        "choices": [
+          {
+            "text": "Des personnes victimes de discrimination au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Des femmes victimes de toutes formes de violences",
+            "isCorrect": true
+          },
+          {
+            "text": "Des usagers en conflit avec l'administration fiscale",
+            "isCorrect": false
+          },
+          {
+            "text": "Des témoins de maltraitance animale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 3919 (Violences Femmes Info) est le numéro de référence national. Il offre une écoute anonyme et oriente vers des dispositifs d'accompagnement ou de mise à l'abri."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-087",
+        "shortId": "Q-2894A7",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale caractéristique hydrographique de la Seine, fleuve traversant Paris ?",
+        "choices": [
+          {
+            "text": "Son débit est marqué par des crues cévenoles violentes en automne",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est le seul fleuve français navigable par des paquebots marins jusqu'à sa source",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle présente un régime torrentiel sans aucun barrage de régulation",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle possède un régime pluvial très régulier grâce à l'influence océanique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La régularité de son débit a historiquement favorisé son rôle d'axe de transport vital pour le Bassin parisien."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-053",
+        "shortId": "Q-17E544",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est compétent pour verser les indemnités chômage ?",
+        "choices": [
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CAF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CPAM",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "France Travail gère à la fois l'accompagnement des demandeurs d'emploi et l'indemnisation chômage."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-065",
+        "shortId": "Q-A9760C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un collégien porte un petit pendentif discret avec une croix religieuse. L'établissement peut-il lui demander de le retirer ?",
+        "choices": [
+          {
+            "text": "Oui, tout symbole religieux est interdit dans un établissement public",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car ce n'est pas un signe religieux ostensible au sens de la loi de 2004",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le professeur principal n'est pas d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si l'élève en parle à ses camarades",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 2004 interdit les signes 'ostensibles' (voile, kippa, grande croix). Les signes discrets (petits pendentifs, bijoux) sont autorisés s'ils ne font pas l'objet de prosélytisme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-001",
+        "shortId": "Q-55B4CF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet de garantir que les pouvoirs publics n'agissent pas de manière arbitraire ?",
+        "choices": [
+          {
+            "text": "La centralisation administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": true
+          },
+          {
+            "text": "Le cumul des mandats",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté parlementaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des pouvoirs est un principe fondamental de la démocratie qui empêche la concentration du pouvoir entre les mains d'une seule personne ou autorité. Elle assure l'indépendance et l'équilibre entre les pouvoirs législatif, exécutif et judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-074",
+        "shortId": "Q-79FA69",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous être pris en flagrant délit de taguer un mur public. La peine peut-elle inclure de nettoyer ?",
+        "choices": [
+          {
+            "text": "Non, seules des peines d'amende ou de prison sont prévues",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, cela s'appelle un Travail d'Intérêt Général (TIG)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, la réparation est toujours à la charge de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pour les mineurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juge peut condamner à un TIG (avec l'accord du prévenu) comme peine alternative ou complémentaire, souvent pour réparer les dégâts commis."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-006",
+        "shortId": "Q-8B0849",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain réaliste a entrepris de peindre la société française du XIXe siècle dans une œuvre monumentale intitulée 'La Comédie humaine' ?",
+        "choices": [
+          {
+            "text": "Honoré de Balzac",
+            "isCorrect": true
+          },
+          {
+            "text": "Guy de Maupassant",
+            "isCorrect": false
+          },
+          {
+            "text": "Stendhal",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Balzac a classé ses romans en 'Études de mœurs', 'Études philosophiques' et 'Études analytiques' pour analyser de manière quasi scientifique les mécanismes sociaux de son temps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-006",
+        "shortId": "Q-EC1FF0",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) que signent les étrangers primo-arrivants ?",
+        "choices": [
+          {
+            "text": "Un engagement à respecter les principes de la République et à suivre des formations civiques et linguistiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un contrat de travail obligatoire pour obtenir un titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Une assurance maladie spécifique aux étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord de cohabitation avec une famille française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le CIR engage l'étranger à respecter les valeurs de la République (liberté, égalité, fraternité, laïcité) et à suivre une formation civique et, si besoin, linguistique. C'est une étape clé de l'intégration."
+      }
+    }
+  ]
+}

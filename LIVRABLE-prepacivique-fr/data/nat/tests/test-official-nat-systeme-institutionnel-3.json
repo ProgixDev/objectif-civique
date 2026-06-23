@@ -1,0 +1,553 @@
+{
+  "slug": "test-official-nat-systeme-institutionnel-3",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 16,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-official-047",
+        "shortId": "Q-D8DC8C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège de la Commission européenne ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Commission européenne, organe exécutif de l'Union européenne, a son siège à Bruxelles (Belgique). Elle propose les lois européennes, veille à l'application des traités et met en œuvre les politiques de l'Union. Strasbourg est le siège du Parlement européen pour les sessions plénières, Luxembourg accueille certaines institutions et services administratifs, et Francfort est le siège de la Banque centrale européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-027",
+        "shortId": "Q-F61B2C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui gère les collèges publics ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les collèges publics sont gérés par le département, qui est responsable de leur construction, de leur entretien et de leur fonctionnement matériel. Les communes gèrent les écoles maternelles et élémentaires, tandis que les régions sont compétentes pour les lycées. L’État, quant à lui, recrute et rémunère les enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-001",
+        "shortId": "Q-337A1E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment est désigné le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Il est désigné par le Conseil Constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est nommé par le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est choisi par le président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu au suffrage universel direct",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président nomme le Premier ministre (art. 8 de la Constitution). Bien qu'il tienne compte de la majorité parlementaire, c'est une nomination, pas une élection."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-008",
+        "shortId": "Q-57EDE4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces autorités, laquelle est élue ?",
+        "choices": [
+          {
+            "text": "Le maire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recteur d'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le maire est un élu local. Les autres (préfet, recteur, procureur) sont nommés par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-024",
+        "shortId": "Q-0DF9F3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui dirige l'action du gouvernement ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président PRÉSIDE le Conseil des ministres, mais selon la Constitution, c'est le Premier ministre qui DIRIGE l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-038",
+        "shortId": "Q-93C542",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Président de la République ?",
+        "choices": [
+          {
+            "text": "Il est le garant de l'indépendance nationale et de la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Il nomme les maires des grandes villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il gère les affaires courantes de l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Il vote les lois à la place du Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon l’article 5 de la Constitution du 4 octobre 1958, le Président de la République veille au respect de la Constitution et assure la continuité de l’État. Il est le garant de l’indépendance nationale, de l’intégrité du territoire et du respect des traités. En vertu de l’article 15, il est le chef des armées. Il nomme le Premier ministre (article 8), peut dissoudre l’Assemblée nationale (article 12) et recourir au référendum (article 11)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-019",
+        "shortId": "Q-C0AF0A",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+        "choices": [
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le maire et les conseillers municipaux sont élus pour un mandat de 6 ans au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-042",
+        "shortId": "Q-5489F8",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le dernier État à avoir intégré l'Union européenne, en 2013 ?",
+        "choices": [
+          {
+            "text": "La Bulgarie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Croatie",
+            "isCorrect": true
+          },
+          {
+            "text": "La Roumanie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Croatie a rejoint l'Union européenne le 1er juillet 2013, devenant le 28e État membre (27 depuis le retrait du Royaume-Uni en 2020). La Bulgarie et la Roumanie ont adhéré en 2007, et la Pologne en 2004."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-030",
+        "shortId": "Q-2F1520",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La région est responsable de l'organisation et du financement des transports ferroviaires régionaux (TER) ainsi que des transports interurbains. Elle définit l’offre de transport sur son territoire. Les communes gèrent les transports urbains, tandis que l’État est compétent pour les grandes infrastructures nationales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-029",
+        "shortId": "Q-B548AF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment sont désignés les maires ?",
+        "choices": [
+          {
+            "text": "Élus par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Nommés par le préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Élus directement par les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une élection indirecte : les citoyens élisent les conseillers, qui élisent le maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-055",
+        "shortId": "Q-646635",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui élit les députés européens ?",
+        "choices": [
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens des pays de l'Union européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Les parlements nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est une élection au suffrage universel direct dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-032",
+        "shortId": "Q-3AF587",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui assure l'intérim du président de la République en cas de décès ?",
+        "choices": [
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président du Sénat est le deuxième personnage de l'État dans l'ordre protocolaire. L'article 7 de la Constitution prévoit cette suppléance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-028",
+        "shortId": "Q-306AAA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui gère les écoles primaires et maternelles publiques ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": true
+          },
+          {
+            "text": "La région",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les écoles maternelles et élémentaires publiques sont gérées par la commune. La mairie est responsable des locaux, de l’entretien, du matériel et du personnel non enseignant. L’État, par l’intermédiaire de l’Éducation nationale, recrute et rémunère les enseignants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-054",
+        "shortId": "Q-6A7449",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quoi est composé le drapeau européen ?",
+        "choices": [
+          {
+            "text": "De bandes multicolores",
+            "isCorrect": false
+          },
+          {
+            "text": "De 27 étoiles représentant les états membres",
+            "isCorrect": false
+          },
+          {
+            "text": "D'une croix blanche sur fond bleu",
+            "isCorrect": false
+          },
+          {
+            "text": "D'un cercle de 12 étoiles d'or sur fond bleu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le nombre d'étoiles est fixe (12), symbole de perfection et d'unité. Il ne change pas quand le nombre de pays membres change."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-041",
+        "shortId": "Q-3CD367",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+        "choices": [
+          {
+            "text": "1957, par le traité de Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "1986, par l'Acte unique européen",
+            "isCorrect": false
+          },
+          {
+            "text": "1992, par le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "2007, par le traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté européenne a été instituée par le traité de Maastricht, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993. Elle confère aux ressortissants des États membres des droits spécifiques, notamment le droit de circuler et de séjourner librement dans l'UE, le droit de vote et d'éligibilité aux élections municipales et européennes dans l'État de résidence. Le traité de Rome (1957) a fondé la CEE, l'Acte unique (1986) a créé le marché unique, et le traité de Lisbonne (2007) a réformé les institutions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-031",
+        "shortId": "Q-A6FCE9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+        "choices": [
+          {
+            "text": "Le référendum ou le vote du Parlement réuni en Congrès",
+            "isCorrect": true
+          },
+          {
+            "text": "Un décret du Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pétition citoyenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une décision du Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La révision de la Constitution est prévue par l’article 89 de la Constitution de 1958. Après adoption du projet ou de la proposition de révision par les deux assemblées, le texte peut être approuvé soit par référendum, soit par le Parlement réuni en Congrès à Versailles, à la majorité des trois cinquièmes des suffrages exprimés. Un décret présidentiel, une pétition ou une décision du Conseil constitutionnel ne permettent pas de modifier la Constitution."
+      }
+    }
+  ]
+}

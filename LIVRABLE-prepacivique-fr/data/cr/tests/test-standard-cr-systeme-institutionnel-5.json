@@ -1,0 +1,723 @@
+{
+  "slug": "test-standard-cr-systeme-institutionnel-5",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 21,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-standard-028",
+        "shortId": "Q-C0BE23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel statut particulier a la ville de Paris ?",
+        "choices": [
+          {
+            "text": "Elle est une région à elle seule",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est à la fois commune et département",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est dirigée par un préfet uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne fait pas partie de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2019, la Ville de Paris est une collectivité unique exerçant à la fois les compétences d'une commune et celles d'un département. Le Conseil de Paris vote les délibérations pour les deux niveaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-064",
+        "shortId": "Q-00A16A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés européens ?",
+        "choices": [
+          {
+            "text": "Par les gouvernements nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens européens",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés européens sont élus au suffrage universel direct par les citoyens de chaque pays de l'Union européenne tous les 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-026",
+        "shortId": "Q-EB6A75",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de promulgation de la loi par le Président ?",
+        "choices": [
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "15 jours",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président de la République dispose d'un délai de 15 jours pour promulguer la loi une fois qu'elle a été définitivement adoptée (et validée par le Conseil constitutionnel si saisi)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-099",
+        "shortId": "Q-7B3FA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Constitutionnel ?",
+        "choices": [
+          {
+            "text": "Faire les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier que les lois sont conformes à la Constitution et contrôler la régularité des élections",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les criminels",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger l'armée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel est le gardien de la Constitution. Il peut censurer une loi votée par le Parlement si elle ne respecte pas les principes fondamentaux de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-063",
+        "shortId": "Q-5C56D7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "751",
+            "isCorrect": false
+          },
+          {
+            "text": "720",
+            "isCorrect": true
+          },
+          {
+            "text": "705",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour la législature 2024-2029, le Parlement européen compte 720 députés représentant les citoyens des 27 États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-088",
+        "shortId": "Q-2E8C67",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être à la fois député national (Assemblée nationale) et député européen ?",
+        "choices": [
+          {
+            "text": "Oui, c'est fréquent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le cumul est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les sénateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si on est maire aussi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Non, le cumul des mandats est interdit. On ne peut pas être député national (ou maire exécutif) et député européen en même temps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-008",
+        "shortId": "Q-0FD930",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De quoi s'occupe la justice administrative ?",
+        "choices": [
+          {
+            "text": "Des conflits de voisinage",
+            "isCorrect": false
+          },
+          {
+            "text": "Des divorces",
+            "isCorrect": false
+          },
+          {
+            "text": "Des litiges entre les citoyens et l'État ou les collectivités publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Des crimes et délits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice administrative est compétente pour trancher les litiges opposant les citoyens à l'administration (État, collectivités locales, hôpitaux publics). Elle veille à ce que l'administration respecte le droit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-052",
+        "shortId": "Q-BC26F7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le regroupement de communes autour de Lyon ?",
+        "choices": [
+          {
+            "text": "La Métropole de Lyon",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune de Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Grand Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département du Rhône",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Métropole de Lyon est une collectivité à statut particulier qui remplace, sur son territoire, le département du Rhône et la communauté urbaine, exerçant toutes leurs compétences."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-006",
+        "shortId": "Q-DC0913",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'aide juridictionnelle ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour permettre à chacun d'être défendu",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide pour payer ses amendes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une formation en droit gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour devenir juge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'aide juridictionnelle est une prise en charge par l'État des frais de justice (avocat, huissier) pour les personnes aux revenus modestes. Elle garantit l'accès de tous au droit et à la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-090",
+        "shortId": "Q-BE4DD9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la citoyenneté européenne ?",
+        "choices": [
+          {
+            "text": "Paris (1951)",
+            "isCorrect": false
+          },
+          {
+            "text": "Maastricht (1992)",
+            "isCorrect": true
+          },
+          {
+            "text": "Rome (1957)",
+            "isCorrect": false
+          },
+          {
+            "text": "Vienne (1815)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté européenne a été instituée par le traité de Maastricht en 1992. Elle complète la citoyenneté nationale sans la remplacer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-035",
+        "shortId": "Q-590A85",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le sigle RSA ?",
+        "choices": [
+          {
+            "text": "Revenu de Solidarité Active",
+            "isCorrect": true
+          },
+          {
+            "text": "Rente Sociale Annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Retraite Sans Assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Revenu Supplémentaire d'Activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RSA (Revenu de Solidarité Active) assure un revenu minimum aux personnes sans ressources. Sa gestion et son financement relèvent du Conseil départemental."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-030",
+        "shortId": "Q-99AF6D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité est responsable des transports scolaires (hors agglomération) ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi NOTRe, la région est responsable de l'organisation des transports scolaires interurbains, assurant le déplacement des élèves hors agglomérations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-051",
+        "shortId": "Q-3A3201",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôle la conformité des lois à la Constitution ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Conseil constitutionnel vérifie que les lois votées par le Parlement sont conformes à la Constitution. S'il déclare une loi inconstitutionnelle, elle ne peut pas être appliquée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-076",
+        "shortId": "Q-27BA61",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le mode de scrutin des élections européennes en France ?",
+        "choices": [
+          {
+            "text": "Vote à main levée",
+            "isCorrect": false
+          },
+          {
+            "text": "Scrutin de liste à la représentation proportionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Scrutin majoritaire à deux tours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les élections européennes en France se déroulent au scrutin de liste à la représentation proportionnelle. Cela permet une représentation fidèle des divers courants politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-025",
+        "shortId": "Q-EC4927",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut saisir le Conseil constitutionnel pour vérifier la conformité d'une loi ?",
+        "choices": [
+          {
+            "text": "Le maire de sa commune",
+            "isCorrect": false
+          },
+          {
+            "text": "60 députés ou 60 sénateurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Un juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "N'importe quel citoyen (avant promulgation)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil constitutionnel peut être saisi par le Président, le Premier ministre, les présidents des assemblées, ou par 60 députés ou 60 sénateurs pour vérifier la conformité d'une loi à la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-018",
+        "shortId": "Q-DB53FD",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par le Gouvernement ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un décret",
+            "isCorrect": false
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ordonnance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un projet de loi est un texte législatif déposé par le Gouvernement après avis du Conseil d'État et délibération en Conseil des ministres. C'est la source de la majorité des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-034",
+        "shortId": "Q-9FDB92",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le représentant de l'État dans le département ?",
+        "choices": [
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet (de département ou de région) est le représentant direct de l'État et des ministres. Il veille à l'application des lois et des décisions gouvernementales sur le territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-073",
+        "shortId": "Q-78ABFF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôle les finances et le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour des comptes européenne contrôle la bonne gestion financière de l'UE. Elle vérifie que les fonds européens sont collectés et dépensés légalement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-021",
+        "shortId": "Q-C18AF0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un amendement ?",
+        "choices": [
+          {
+            "text": "Un veto du Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de seconde lecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Un renvoi au Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une modification proposée au texte de loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un amendement est une modification proposée au texte de loi en discussion. Le Gouvernement et les parlementaires ont le droit d'amendement pour enrichir ou corriger la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-041",
+        "shortId": "Q-8804CC",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté fondamentale a été renforcée par le traité de Maastricht ?",
+        "choices": [
+          {
+            "text": "Le droit de porter une arme",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": false
+          },
+          {
+            "text": "La libre circulation des personnes, des marchandises et des capitaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Maastricht a renforcé le marché intérieur et garanti les quatre libertés de circulation : libre circulation des biens, des services, des personnes et des capitaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-084",
+        "shortId": "Q-32C38D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Cour de justice peut-elle sanctionner un État membre ?",
+        "choices": [
+          {
+            "text": "Seulement si l'État est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si l'État ne respecte pas le droit européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, elle n'a aucun pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement par une lettre d'avertissement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Oui, la Cour de justice peut condamner un État membre à de lourdes sanctions financières s'il ne respecte pas le droit de l'Union (procédure d'infraction)."
+      }
+    }
+  ]
+}

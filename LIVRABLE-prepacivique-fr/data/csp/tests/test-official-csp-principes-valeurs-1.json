@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-csp-principes-valeurs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-official-027",
+        "shortId": "Q-1D08DA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est ce qui est traditionnellement organisé sur les Champs Élysées le 14 juillet pour célébrer la fête nationale ?",
+        "choices": [
+          {
+            "text": "Un défilé militaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Un bal populaire avec feux d'artifice",
+            "isCorrect": false
+          },
+          {
+            "text": "Une course cycliste (Tour de France)",
+            "isCorrect": false
+          },
+          {
+            "text": "Une cérémonie de remise de la Légion d'honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 1880, un défilé militaire est organisé sur les Champs-Élysées le 14 juillet, présidé par le chef de l'État. Des feux d'artifice ont lieu le soir à la Tour Eiffel et dans les communes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-009",
+        "shortId": "Q-947EDC",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces symboles représente officiellement la République française ?",
+        "choices": [
+          {
+            "text": "Marianne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le coq gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 2 de la Constitution retient trois symboles officiels : le drapeau tricolore, l'hymne national (La Marseillaise) et la devise « Liberté, Égalité, Fraternité ». Marianne, le coq gaulois et la Tour Eiffel sont des repères symboliques/culturels, mais ne font pas partie de cette liste constitutionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-033",
+        "shortId": "Q-1CD699",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel droit est garanti par la laïcité ?",
+        "choices": [
+          {
+            "text": "Le droit de pratiquer sa religion dans les bâtiments publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de porter des signes religieux au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'imposer ses convictions religieuses à autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience : croire, ne pas croire ou changer de religion. Elle n'autorise pas le prosélytisme ni l'imposition de ses convictions. Les signes religieux sont encadrés dans le secteur public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-028",
+        "shortId": "Q-6F41FB",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est Marianne ?",
+        "choices": [
+          {
+            "text": "Une héroïne de la Résistance française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le symbole de la République française",
+            "isCorrect": true
+          },
+          {
+            "text": "La fondatrice de la Croix-Rouge française",
+            "isCorrect": false
+          },
+          {
+            "text": "Une reine de France célèbre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est une allégorie de la République française, pas une personne réelle. Elle incarne les valeurs de Liberté, Égalité, Fraternité. Son buste est présent dans toutes les mairies et sur les timbres-poste."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-002",
+        "shortId": "Q-59D7CD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l’un des symboles de la République française ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": true
+          },
+          {
+            "text": "La fleur de lys",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aigle impérial",
+            "isCorrect": false
+          },
+          {
+            "text": "La croix de Lorraine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le drapeau bleu, blanc, rouge est l'emblème national de la France, défini par l'article 2 de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-015",
+        "shortId": "Q-99DC7B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel animal est un symbole de la France ?",
+        "choices": [
+          {
+            "text": "L'aigle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le lion",
+            "isCorrect": false
+          },
+          {
+            "text": "Le coq",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le coq gaulois est un symbole traditionnellement associé à la France, notamment dans les représentations sportives et commémoratives. Il relève d'un usage historique et culturel, même s'il n'est pas l'emblème officiel unique de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-008",
+        "shortId": "Q-78F969",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le régime de la France est :",
+        "choices": [
+          {
+            "text": "Un régime parlementaire fédéral",
+            "isCorrect": false
+          },
+          {
+            "text": "Une République démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Une Monarchie constitutionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime présidentiel pur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est une République indivisible, laïque, démocratique et sociale (Article 1er de la Constitution)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-003",
+        "shortId": "Q-1ECB9B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le principe d’égalité signifie que :",
+        "choices": [
+          {
+            "text": "Les citoyens d'origine française ont plus de droits que les naturalisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens ont les mêmes droits et devoirs, sans distinction",
+            "isCorrect": true
+          },
+          {
+            "text": "Les droits varient selon la région de résidence",
+            "isCorrect": false
+          },
+          {
+            "text": "Les droits augmentent avec l'ancienneté de la nationalité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité est un principe constitutionnel : la loi est la même pour tous, sans distinction d'origine, de race ou de religion."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-030",
+        "shortId": "Q-35BCA1",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "\"La France est une République indivisible, ..., démocratique et sociale\". Complétez cette phrase extraite de l'article 1er de la Constitution :",
+        "choices": [
+          {
+            "text": "décentralisée",
+            "isCorrect": false
+          },
+          {
+            "text": "fédérale",
+            "isCorrect": false
+          },
+          {
+            "text": "souveraine",
+            "isCorrect": false
+          },
+          {
+            "text": "laïque",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 1er de la Constitution qualifie la France de République \"indivisible, laïque, démocratique et sociale\". Le terme attendu est donc \"laïque\", qui exprime la neutralité de l'État à l'égard des religions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-016",
+        "shortId": "Q-8F692D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l’un des rôles des associations ?",
+        "choices": [
+          {
+            "text": "Permettre l'engagement citoyen et la solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Représenter les citoyens au Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Lever des impôts pour financer leurs activités",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice en cas de litige",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 1901 permet à toute personne de créer une association à but non lucratif pour des activités culturelles, sportives, caritatives ou de défense d'intérêts. Les associations ne peuvent ni siéger au Parlement, ni lever d'impôts, ni rendre la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-004",
+        "shortId": "Q-AE692E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "\"Liberté, égalité, fraternité\", c’est :",
+        "choices": [
+          {
+            "text": "Le préambule de la Constitution",
+            "isCorrect": false
+          },
+          {
+            "text": "Une loi votée sous la IIIe République",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hymne national français",
+            "isCorrect": false
+          },
+          {
+            "text": "La devise de la République française",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Cette devise héritée de la Révolution française est inscrite dans la Constitution et sur les frontons des mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-026",
+        "shortId": "Q-FEEC7E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Marseillaise ?",
+        "choices": [
+          {
+            "text": "Un chant patriotique utilisé lors de cérémonies locales",
+            "isCorrect": false
+          },
+          {
+            "text": "L'hymne national français",
+            "isCorrect": true
+          },
+          {
+            "text": "Un poème civique du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chant militaire réservé à l'armée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Marseillaise est l'hymne national de la République française. Même si elle est née dans le contexte révolutionnaire, son statut actuel est celui d'un symbole national officiel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-037",
+        "shortId": "Q-30F004",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+        "choices": [
+          {
+            "text": "Non, la France reste de tradition chrétienne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais cela doit rester privé et non exprimé publiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement à partir de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté de conscience inclut le droit de ne pas croire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté de conscience, garantie par la laïcité, inclut le droit de croire, de ne pas croire (athéisme), ou de douter (agnosticisme). Ce droit s'applique à tous, quel que soit l'âge, et peut être exprimé librement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-021",
+        "shortId": "Q-F23296",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la langue officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Le français et l'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Les langues régionales ont un statut égal au français",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le français mais les langues régionales sont co-officielles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution stipule : \"La langue de la République est le français.\""
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-023",
+        "shortId": "Q-0401B5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle liberté permet à chacun d’exprimer ses idées ?",
+        "choices": [
+          {
+            "text": "La liberté de réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de conscience",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression permet de dire, écrire et publier sa pensée, sauf abus prévus par la loi (diffamation, incitation à la haine...)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-024",
+        "shortId": "Q-350B63",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle proposition est correcte ? La liberté d'expression :",
+        "choices": [
+          {
+            "text": "Autorise de critiquer les personnalités politiques sans limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Permet de critiquer le gouvernement mais pas d'inciter à la haine",
+            "isCorrect": true
+          },
+          {
+            "text": "S'applique uniquement aux médias et journalistes professionnels",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdit toute critique des institutions religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "On peut critiquer les idées, les religions ou le pouvoir, mais on ne peut pas appeler à la haine contre des personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-014",
+        "shortId": "Q-4C5E42",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie le mot \"fraternité\" dans la devise française ?",
+        "choices": [
+          {
+            "text": "L'égalité des salaires",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité entre les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Le respect des traditions familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unité nationale face aux ennemis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité invite les citoyens à s'entraider et à vivre ensemble dans le respect mutuel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-017",
+        "shortId": "Q-BA17D4",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le nom de l'hymne national ?",
+        "choices": [
+          {
+            "text": "Le Chant du départ",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hymne à la joie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Marseillaise, écrite en 1792, est l'hymne national de la France. Elle a été adoptée une première fois en 1795, puis définitivement réaffirmée comme hymne officiel sous la IIIe République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-013",
+        "shortId": "Q-E9C58A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie la liberté ?",
+        "choices": [
+          {
+            "text": "Le pouvoir d'agir sans nuire à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de faire tout ce qu'on veut sans restriction",
+            "isCorrect": false
+          },
+          {
+            "text": "L'absence de toute contrainte imposée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de s'opposer aux décisions du gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon l'article 4 de la DDHC de 1789 : 'La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui'. La liberté n'est donc pas absolue, elle s'arrête là où commence celle des autres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-official-012",
+        "shortId": "Q-EAB2A2",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que l’égalité ?",
+        "choices": [
+          {
+            "text": "L'absence de distinction de droits entre les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "L'uniformité des revenus et des conditions de vie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à un logement pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "L'identité de traitement dans les procédures judiciaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité en droit signifie que la loi est la même pour tous, sans distinction d'origine, de sexe ou de religion. Les autres options décrivent des politiques sociales, pas le principe constitutionnel d'égalité."
+      }
+    }
+  ]
+}

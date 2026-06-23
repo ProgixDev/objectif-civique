@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-principes-valeurs-3",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-002",
+        "shortId": "Q-F540E7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le fait que la République française est qualifiée de 'laïque' ?",
+        "choices": [
+          {
+            "text": "L'obligation de suivre une religion d'État pour devenir citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction totale de pratiquer un culte dans le cadre privé",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État et la séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le financement des bâtiments religieux par le budget national",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience : l'État ne privilégie aucune religion et chacun est libre de croire ou de ne pas croire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-009",
+        "shortId": "Q-567700",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, comment appelle-t-on le fait de traiter quelqu'un moins bien en raison de sa religion ?",
+        "choices": [
+          {
+            "text": "Un choix administratif légitime",
+            "isCorrect": false
+          },
+          {
+            "text": "Une discrimination punie par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une opinion protégée par la liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Une tradition culturelle tolérée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La discrimination est un délit. La loi garantit l'égalité de tous, indépendamment de la religion, du sexe ou de l'origine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-046",
+        "shortId": "Q-BDB926",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle valeur complète 'Liberté' et 'Égalité' dans la devise française ?",
+        "choices": [
+          {
+            "text": "Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Fraternité invite à la solidarité entre tous les membres de la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-033",
+        "shortId": "Q-1DB637",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement français ?",
+        "choices": [
+          {
+            "text": "Il désigne les préfets et organise les élections locales",
+            "isCorrect": false
+          },
+          {
+            "text": "Il vote les lois et contrôle l'action du Gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "Il négocie les traités internationaux au nom de la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Il nomme les magistrats et dirige l'autorité judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement (Assemblée nationale et Sénat) représente les citoyens et exerce le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-047",
+        "shortId": "Q-99C58E",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'âge de la majorité civile en France ?",
+        "choices": [
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À 18 ans, on devient pleinement responsable de ses actes et on acquiert tous les droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-037",
+        "shortId": "Q-674EF3",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument rend hommage aux morts pour la France ?",
+        "choices": [
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe (avec la tombe du Soldat inconnu)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce monument historique célèbre les victoires et honore la mémoire des combattants tombés pour la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-052",
+        "shortId": "Q-B0B6C8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où sont débattues les lois en France ?",
+        "choices": [
+          {
+            "text": "Au sein des tribunaux administratifs régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "En conseil des ministres à l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les commissions départementales de concertation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-036",
+        "shortId": "Q-675125",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité hommes-femmes au travail ?",
+        "choices": [
+          {
+            "text": "À travail égal, salaire égal et mêmes droits de carrière",
+            "isCorrect": true
+          },
+          {
+            "text": "Les hommes doivent obligatoirement gagner plus que les femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les femmes ne peuvent pas travailler dans les bureaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur choisit le salaire selon le sexe du salarié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi interdit toute discrimination fondée sur le sexe pour le recrutement, la rémunération ou la promotion."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-019",
+        "shortId": "Q-CF2776",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le principe de solidarité qui aide les plus démunis ?",
+        "choices": [
+          {
+            "text": "L'anarchie administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Le capitalisme libéral",
+            "isCorrect": false
+          },
+          {
+            "text": "Le centralisme démocratique",
+            "isCorrect": false
+          },
+          {
+            "text": "La République sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République est sociale car elle organise la protection sociale (santé, chômage) pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-039",
+        "shortId": "Q-36207D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le service public ?",
+        "choices": [
+          {
+            "text": "Une entreprise privée qui cherche à faire le plus de profit",
+            "isCorrect": false
+          },
+          {
+            "text": "Un service réservé uniquement aux personnes de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Une activité d'intérêt général gérée ou contrôlée par l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Un service accessible uniquement sur inscription annuelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le service public désigne toute activité d'intérêt général assurée ou contrôlée par une personne publique (État, collectivités) pour répondre aux besoins de la population."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-024",
+        "shortId": "Q-A0559F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté permet de choisir son orientation professionnelle ?",
+        "choices": [
+          {
+            "text": "La liberté d'entreprendre et de choisir son métier",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de ne jamais travailler de sa vie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de rester dans la même entreprise 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser tout contrat de travail proposé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Chacun est libre de choisir son activité économique et son parcours professionnel dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-051",
+        "shortId": "Q-9E1258",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que permet le don d'organes ?",
+        "choices": [
+          {
+            "text": "De bénéficier d'une réduction d'impôts pour le donneur",
+            "isCorrect": false
+          },
+          {
+            "text": "De sauver des vies de manière gratuite et anonyme",
+            "isCorrect": true
+          },
+          {
+            "text": "De recevoir une compensation financière de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "De faciliter l'accès aux soins médicaux pour le donneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le don repose sur la solidarité humaine et l'absence de profit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-059",
+        "shortId": "Q-3A6FD5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le mariage homosexuel a été autorisé en :",
+        "choices": [
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "2013 (Loi Taubira)",
+            "isCorrect": true
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "2000",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France reconnaît le mariage pour tous les couples de même sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-032",
+        "shortId": "Q-948760",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 14 juillet en France ?",
+        "choices": [
+          {
+            "text": "La fête nationale, symbole de l'unité et de la liberté",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "La journée de la Libération de Paris en 1944",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette date commémore la prise de la Bastille (1789) et la fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-003",
+        "shortId": "Q-65636C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi Marianne est-elle représentée avec un bonnet phrygien sur les timbres et dans les mairies ?",
+        "choices": [
+          {
+            "text": "Il s'agit d'un accessoire de mode historique sans signification",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est le symbole de la royauté française du XVIIIe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un chapeau traditionnel porté uniquement par les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il symbolise la liberté conquise, en référence aux esclaves affranchis",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le bonnet phrygien est un symbole fort de la Révolution française, représentant la libération du peuple face à l'oppression."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-012",
+        "shortId": "Q-F4FA2A",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Travail, Famille, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Justice, Paix, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Liberté, Égalité, Fraternité, c'est le triptyque fondamental inscrit dans la Constitution et sur le fronton des édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-004",
+        "shortId": "Q-49877B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet à une personne étrangère de rejoindre un groupement pour un projet culturel ou sportif ?",
+        "choices": [
+          {
+            "text": "La liberté d'association (loi de 1901)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de vote aux élections législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Le privilège de résidence diplomatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'intégration militaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'association est ouverte à tous en France, quelle que soit la nationalité, pourvu que le but soit légal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-022",
+        "shortId": "Q-6850DD",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle fondamental de l'école publique en France ?",
+        "choices": [
+          {
+            "text": "Préparer les élèves aux concours de la fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la garde des enfants pendant les horaires de travail des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Transmettre des savoirs et former des citoyens libres et éclairés",
+            "isCorrect": true
+          },
+          {
+            "text": "Enseigner les langues régionales et préserver le patrimoine local",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école de la République vise à donner à chaque enfant les outils de l'esprit critique et de l'autonomie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-042",
+        "shortId": "Q-663D5D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le principe selon lequel personne n'est au-dessus de la loi ?",
+        "choices": [
+          {
+            "text": "Le privilège de juridiction",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État de droit",
+            "isCorrect": true
+          },
+          {
+            "text": "La monarchie constitutionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le régime autoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans un État de droit, les citoyens comme les gouvernants sont soumis aux mêmes règles juridiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-005",
+        "shortId": "Q-43AC79",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Sur quel fondement repose le système de retraite en France ?",
+        "choices": [
+          {
+            "text": "L'épargne individuelle placée sur des marchés boursiers",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité intergénérationnelle (les actifs paient pour les retraités)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le financement exclusif par les entreprises étrangères",
+            "isCorrect": false
+          },
+          {
+            "text": "La charité privée organisée par les mairies",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le système par répartition est une expression concrète de la fraternité : les travailleurs actuels financent les pensions de leurs aînés."
+      }
+    }
+  ]
+}

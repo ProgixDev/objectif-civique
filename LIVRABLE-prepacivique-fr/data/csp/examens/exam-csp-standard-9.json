@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-csp-standard-9",
+  "level": "CSP",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-standard-025",
+        "shortId": "Q-24B5D5",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le fait que la République est 'indivisible' ?",
+        "choices": [
+          {
+            "text": "La répartition des pouvoirs entre les régions autonomes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unité du territoire et l'application de la même loi pour tous",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation d'avoir une seule et unique religion nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de diviser le pouvoir entre le Président et les ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'indivisibilité garantit l'unité de l'État et l'égalité des citoyens sur l'ensemble du territoire français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-015",
+        "shortId": "Q-FBEE80",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge le recensement citoyen à la mairie devient-il obligatoire ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le recensement est obligatoire pour tous les jeunes Français ; il permet d'être convoqué à la JDC."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-021",
+        "shortId": "Q-22A250",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le port du voile intégral dans l'espace public ?",
+        "choices": [
+          {
+            "text": "Il est recommandé pour la protection de la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit par la loi pour des raisons de sécurité et de vie sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire durant les périodes de grand froid",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé partout sans aucune restriction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les exigences de la vie en société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-004",
+        "shortId": "Q-B902A7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un enfant est victime de harcèlement dans son collège. Quelle est la meilleure action ?",
+        "choices": [
+          {
+            "text": "Contacter directement les parents des harceleurs pour régler le problème entre familles",
+            "isCorrect": false
+          },
+          {
+            "text": "Changer immédiatement l'enfant d'école sans prévenir personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander à l'enfant de résoudre le problème lui-même pour le rendre plus autonome",
+            "isCorrect": false
+          },
+          {
+            "text": "Alerter la direction de l'établissement ou appeler le 3020",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le harcèlement scolaire est un délit puni par la loi. Il faut alerter la direction de l'établissement, le référent harcèlement de l'Éducation nationale, ou appeler le 3020 (numéro national contre le harcèlement)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-034",
+        "shortId": "Q-F0A482",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, qui est chargé de veiller au respect de la Constitution et de la régularité des élections nationales ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel.",
+            "isCorrect": true
+          },
+          {
+            "text": "La Gendarmerie nationale.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat réuni en Haute Cour.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le syndicat des magistrats.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil constitutionnel est le 'juge des élections'. Il vérifie que le vote des citoyens est respecté et sincère."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-012",
+        "shortId": "Q-DA172D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous employez une personne pour faire le ménage chez vous. Devez-vous la déclarer ?",
+        "choices": [
+          {
+            "text": "Seulement si elle travaille plus de 20 heures par semaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un arrangement privé entre particuliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si elle demande à être déclarée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pour qu'elle ait une protection sociale et une assurance",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tout travail salarié doit être déclaré (ex: CESU). Cela protège l'employé (droits sociaux) et l'employeur (accident du travail)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-008",
+        "shortId": "Q-233940",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1789 protège le droit de posséder des biens ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le règlement intérieur de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code de la consommation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Déclaration de 1789 considère la propriété comme un droit 'inviolable et sacré'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-056",
+        "shortId": "Q-D5ACF6",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment le racisme et l'antisémitisme sont-ils qualifiés par la loi ?",
+        "choices": [
+          {
+            "text": "Comme des traditions culturelles anciennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des opinions protégées par la liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des désaccords privés sans importance",
+            "isCorrect": false
+          },
+          {
+            "text": "Comme des délits punis par la loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Discriminer ou inciter à la haine contre un groupe est une infraction pénale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-021",
+        "shortId": "Q-3C5C57",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a eu lieu le Débarquement allié en Normandie pour libérer la France ?",
+        "choices": [
+          {
+            "text": "1944",
+            "isCorrect": true
+          },
+          {
+            "text": "1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 6 juin 1944, les Alliés ont débarqué sur les plages normandes pour mettre fin à l'occupation nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-043",
+        "shortId": "Q-F3442B",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le droit à l'intégrité physique ?",
+        "choices": [
+          {
+            "text": "Le droit de choisir librement son domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de ne subir aucune violence sur son corps",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de pratiquer un sport de défense",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de travailler dans des métiers manuels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce droit fondamental protège contre les tortures et les mauvais traitements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-020",
+        "shortId": "Q-1EB755",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe d'égalité devant la loi ?",
+        "choices": [
+          {
+            "text": "La règle est la même pour tous, sans distinction de titre ou d'origine",
+            "isCorrect": true
+          },
+          {
+            "text": "Chaque citoyen a le droit de voter deux fois aux élections",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit donner le même salaire à tous les travailleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lois ne s'appliquent qu'aux personnes majeures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité juridique garantit qu'aucune personne ne bénéficie de privilèges devant les tribunaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-051",
+        "shortId": "Q-BB06CB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 11 novembre en France ?",
+        "choices": [
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre est un jour de mémoire pour tous les soldats morts pour la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-029",
+        "shortId": "Q-FD6E98",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : En France, peut-on obliger une personne majeure à se marier sans son consentement libre ?",
+        "choices": [
+          {
+            "text": "Non, le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage.",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le contrat de mariage a été signé par les parents devant un notaire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage forcé est autorisé uniquement pour des raisons de regroupement familial.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le consentement n'est nécessaire que pour l'époux, pas pour l'épouse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mariage forcé est un délit puni par la loi française. Le consentement libre et éclairé des deux futurs époux est une condition impérative du mariage civil, garantissant le respect de la liberté individuelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-026",
+        "shortId": "Q-05D034",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de choisir son métier en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet attribue les postes selon les besoins régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur détermine le métier en fonction du diplôme",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers d'orientation imposent le choix professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté professionnelle est un droit pour tous les travailleurs en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-002",
+        "shortId": "Q-B81F46",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité indépendante protège vos droits face à l'administration ?",
+        "choices": [
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Défenseur des droits est une institution que tout usager peut saisir gratuitement en cas de litige avec un service public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-058",
+        "shortId": "Q-457804",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument à Paris a été construit pour célébrer les victoires de Napoléon ?",
+        "choices": [
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sacré-Cœur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Arc de Triomphe est situé sur la place de l'Étoile. Il abrite la tombe du Soldat inconnu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-014",
+        "shortId": "Q-43729C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous interroge sur le rôle du Premier ministre. Quelle est sa principale mission constitutionnelle ?",
+        "choices": [
+          {
+            "text": "Il représente la France auprès des instances internationales en lieu et place du Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige l'action du Gouvernement et assure l'exécution des lois.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il préside le Conseil constitutionnel et nomme les magistrats de la Cour de cassation.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a le pouvoir exclusif de dissoudre l'Assemblée nationale en cas de crise.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre est le chef de l'administration et du gouvernement. Il met en œuvre la politique de la Nation votée par le Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-019",
+        "shortId": "Q-4D5947",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure féminine symbolise la République française ?",
+        "choices": [
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marianne est l'allégorie de la République, présente sur les timbres et dans les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-003",
+        "shortId": "Q-2672DB",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous trouvez un sac avec de l'argent et des papiers d'identité par terre. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Chercher le propriétaire vous-même grâce aux papiers d'identité et le contacter directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Laisser le sac sur place pour ne pas être accusé de vol",
+            "isCorrect": false
+          },
+          {
+            "text": "Rapporter le sac au commissariat ou au service des objets trouvés",
+            "isCorrect": true
+          },
+          {
+            "text": "Le laisser sur place en espérant que le propriétaire reviendra le chercher",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Garder un objet trouvé sans chercher le propriétaire est considéré comme un vol par le Code pénal. Le réflexe citoyen est de le remettre aux autorités compétentes (commissariat, gendarmerie ou mairie)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-018",
+        "shortId": "Q-1B818D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle mer borde le sud de la France et la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": true
+          },
+          {
+            "text": "La Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Méditerranée est célèbre pour ses paysages, son climat ensoleillé et ses ports comme Marseille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-031",
+        "shortId": "Q-D69239",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen français est arrêté par la police. Quel droit fondamental lui permet d'être assisté immédiatement ?",
+        "choices": [
+          {
+            "text": "Le droit de vote par procuration depuis son lieu de garde à vue.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de demander une grâce présidentielle immédiate avant l'interrogatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à l'assistance d'un avocat et le droit de garder le silence pour préparer sa défense.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'immunité diplomatique accordée à tout citoyen résidant en France.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à la défense est un pilier de la démocratie. Il garantit que personne n'est condamné sans avoir pu s'expliquer avec l'aide d'un professionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-036",
+        "shortId": "Q-B3A46F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la charge de la gestion des lycées ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil régional s'occupe de la construction et de l'entretien des lycées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-049",
+        "shortId": "Q-6EE890",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le tri des déchets est considéré comme :",
+        "choices": [
+          {
+            "text": "Une punition pour les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Une activité payante à domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Un geste citoyen pour l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de consommer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le tri permet de recycler les matériaux et de réduire la pollution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-011",
+        "shortId": "Q-0B117E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a organisé la Résistance française depuis Londres pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Clemenceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le général de Gaulle a lancé l'Appel du 18 juin 1940 pour inciter les Français à refuser la défaite et à poursuivre le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-029",
+        "shortId": "Q-2C67C7",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée de validité habituelle d'une ordonnance pour des lunettes (pour un adulte de 16 à 42 ans) ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "1 an",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour les adultes entre 16 et 42 ans, l'ordonnance de l'ophtalmologiste reste valable 5 ans, permettant à l'opticien de renouveler les verres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-044",
+        "shortId": "Q-4E7FB0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un policier demande à un citoyen de circuler lors d'un rassemblement non autorisé. Quelle obligation a le citoyen ?",
+        "choices": [
+          {
+            "text": "Il peut rester sur place s'il estime la mesure excessive",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut différer l'ordre jusqu'à l'arrivée d'un supérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut négocier un délai avant de se déplacer",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a l'obligation d'obtempérer aux ordres légaux des forces de l'ordre pour garantir la sécurité publique.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lorsqu'un ordre de police est légal, il doit être exécuté immédiatement pour préserver l'ordre public. Une contestation sur la légalité se fait ensuite devant l'autorité compétente, et non par un refus sur place."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-020",
+        "shortId": "Q-C72D85",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de s'exprimer librement dans la presse ou sur internet ?",
+        "choices": [
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de passage",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est une liberté fondamentale protégée par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-077",
+        "shortId": "Q-766665",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez envoyer votre enfant dans une école privée. Devez-vous payer ?",
+        "choices": [
+          {
+            "text": "Non, toutes les écoles sont gratuites en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car les écoles privées sous contrat sont financées intégralement par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les écoles privées sont payantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, les frais sont pris en charge par la CAF sous conditions de ressources",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les écoles privées sont payantes. Seule l'école publique est gratuite en France. Les écoles privées sous contrat reçoivent une aide de l'État mais facturent des frais de scolarité aux familles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-036",
+        "shortId": "Q-3C9D21",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a écrit les 'Fables' (comme 'Le Corbeau et le Renard') ?",
+        "choices": [
+          {
+            "text": "Charles Perrault",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Jean de La Fontaine a utilisé des animaux pour critiquer avec humour les comportements humains."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-033",
+        "shortId": "Q-95A1BE",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document contient les règles de vie commune dans un immeuble ?",
+        "choices": [
+          {
+            "text": "Le règlement de copropriété ou le règlement intérieur",
+            "isCorrect": true
+          },
+          {
+            "text": "Le code de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "La constitution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce document précise ce qui est autorisé ou interdit dans les parties communes et privées d'un immeuble (usage du balcon, bruits, stockage dans les couloirs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-051",
+        "shortId": "Q-1C7877",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un maire veut interdire l'installation d'un boucher dans sa ville car il ne partage pas son régime alimentaire. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Le maire peut choisir les commerces en fonction de ses goûts personnels et de ceux de sa famille.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commerce est libre : un maire ne peut s'opposer à une installation commerciale sans motif d'urbanisme ou de sécurité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les commerces vendant des produits typiquement français sont autorisés dans les villages.",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute nouvelle boucherie doit obtenir l'autorisation de l'évêque du diocèse local.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de commerce et d'industrie est un principe juridique. L'administration ne peut pas interférer avec les choix économiques privés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-059",
+        "shortId": "Q-B1D9B0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la responsabilité de l'entretien des écoles élémentaires ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commune est responsable de la construction, de l'entretien et du fonctionnement matériel des écoles élémentaires et maternelles sur son territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-035",
+        "shortId": "Q-D54F6E",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous propose un sac de marque pour 10 euros dans la rue. Quel est le risque ?",
+        "choices": [
+          {
+            "text": "C'est légal si le produit est d'occasion et non une copie",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est autorisé pour un usage personnel, pas pour la revente",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est de la contrefaçon ou du recel, c'est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est légal si vous payez en espèces",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Acheter des produits contrefaits ou des objets volés est une infraction pénale (recel ou détention de contrefaçon). L'acheteur risque jusqu'à 300 000 € d'amende et 3 ans d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-032",
+        "shortId": "Q-9EC46C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le chef du Gouvernement en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Premier ministre est nommé par le Président de la République pour diriger l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-034",
+        "shortId": "Q-6F1F63",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du 'CDD' (Contrat à Durée Déterminée) ?",
+        "choices": [
+          {
+            "text": "Il ne peut être rompu que par l'employeur à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Il comporte une date de fin précise et n'est utilisé que pour des tâches temporaires",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est réservé aux cadres supérieurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne donne pas droit aux congés payés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CDD est un contrat dont la fin est fixée à l'avance. Il ne peut être utilisé que pour remplacer un salarié absent ou pour un surcroît d'activité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-standard-002",
+        "shortId": "Q-F540E7",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le fait que la République française est qualifiée de 'laïque' ?",
+        "choices": [
+          {
+            "text": "L'obligation de suivre une religion d'État pour devenir citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction totale de pratiquer un culte dans le cadre privé",
+            "isCorrect": false
+          },
+          {
+            "text": "La neutralité de l'État et la séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le financement des bâtiments religieux par le budget national",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience : l'État ne privilégie aucune religion et chacun est libre de croire ou de ne pas croire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-033",
+        "shortId": "Q-8AF454",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le drapeau de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "La bannière étoilée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau bleu aux 12 étoiles d'or",
+            "isCorrect": true
+          },
+          {
+            "text": "L'emblème de la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il représente l'unité et la solidarité entre les peuples d'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-situational-039",
+        "shortId": "Q-FE145F",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voyez un enfant seul qui pleure au supermarché. Que faites-vous ?",
+        "choices": [
+          {
+            "text": "Vous l'accompagnez vous-même à l'extérieur pour chercher ses parents",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous attendez quelques minutes avant d'intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous prévenez un agent de sécurité ou allez à l'accueil du magasin",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous appelez directement la police pour signaler un enfant abandonné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Alerter le personnel du lieu est le geste le plus sûr et le plus approprié. Ils disposent des moyens pour retrouver les parents (annonce sonore) sans risque pour l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-047",
+        "shortId": "Q-2B04AE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel célèbre dramaturge a écrit 'L'Avare' et 'Le Malade imaginaire' au XVIIe siècle ?",
+        "choices": [
+          {
+            "text": "Jean Racine",
+            "isCorrect": false
+          },
+          {
+            "text": "Pierre Corneille",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Molière est l'auteur le plus joué au théâtre en France. Il critiquait les défauts de la société de son époque."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-017",
+        "shortId": "Q-CB5EA9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'autorité parentale partagée ?",
+        "choices": [
+          {
+            "text": "Les deux parents ont les mêmes droits et devoirs envers l'enfant, même s'ils sont séparés",
+            "isCorrect": true
+          },
+          {
+            "text": "L'enfant décide lui-même de ses règles de vie dès l'âge de 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seul le parent qui a la garde physique peut prendre des décisions importantes",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État remplace les parents pour l'éducation religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs. Sauf décision contraire d'un juge, elle appartient aux deux parents pour protéger l'enfant dans sa sécurité, sa santé et sa moralité."
+      }
+    }
+  ]
+}

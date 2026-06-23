@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-histoire-geographie-culture-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-histoire-standard-062",
+        "shortId": "Q-A29528",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel compositeur français, maître de l'orchestration, est l'auteur du célèbre 'Boléro' créé en 1928 ?",
+        "choices": [
+          {
+            "text": "Gabriel Fauré",
+            "isCorrect": false
+          },
+          {
+            "text": "Camille Saint-Saëns",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Francis Poulenc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Boléro est une œuvre singulière fondée sur un crescendo ininterrompu, mondialement célèbre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-071",
+        "shortId": "Q-563AEC",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, quelle loi a instauré la séparation des Églises et de l'État, fondant la laïcité française ?",
+        "choices": [
+          {
+            "text": "La loi de la liberté de conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur les cultes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le régime du Concordat",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 9 décembre 1905",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Cette loi garantit la liberté de culte mais impose la neutralité de l'État en cessant de financer les religions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-085",
+        "shortId": "Q-5FDF66",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel sculpteur du XIXe siècle est l'auteur du 'Penseur' et du 'Baiser', révolutionnant la représentation du corps humain ?",
+        "choices": [
+          {
+            "text": "Jean-Baptiste Carpeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Frédéric Auguste Bartholdi",
+            "isCorrect": false
+          },
+          {
+            "text": "Aristide Maillol",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Rodin a rompu avec l'académisme par l'expressivité et le réalisme psychologique de ses sculptures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-072",
+        "shortId": "Q-DBDE0B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain français, surnommé le 'Roi-Chevalier', fut fait prisonnier à la bataille de Pavie en 1525 ?",
+        "choices": [
+          {
+            "text": "Louis XII",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri II",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles IX",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "François Ier fut capturé par les troupes de Charles Quint et dut signer le traité de Madrid."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-021",
+        "shortId": "Q-047C00",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel préfet de la Seine a transformé Paris sous le Second Empire en perçant de larges boulevards et en créant de nombreux parcs ?",
+        "choices": [
+          {
+            "text": "Le Baron Haussmann",
+            "isCorrect": true
+          },
+          {
+            "text": "Eugène Belgrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Charles Alphand",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les travaux d'Haussmann ont modernisé Paris pour des raisons d'hygiène et de sécurité, donnant à la ville son visage actuel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-086",
+        "shortId": "Q-FDBA98",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe est chargé de la nomination des magistrats du siège et veille à l'indépendance de la justice ?",
+        "choices": [
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le ministère de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Défenseur des droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil supérieur de la magistrature",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le CSM est un garant constitutionnel de l'impartialité et de l'indépendance du pouvoir judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-065",
+        "shortId": "Q-244F0B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi de 1944 a accordé le droit de vote et d'éligibilité aux femmes françaises ?",
+        "choices": [
+          {
+            "text": "La Constitution de la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le programme du CNR",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordonnance du 21 avril 1944 prise à Alger",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Veil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette décision tardive a mis fin à une longue exclusion des femmes de la citoyenneté politique active. Elles ont voté pour la première fois aux élections municipales du 29 avril 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-011",
+        "shortId": "Q-15237B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel département d'outre-mer possède la plus longue frontière terrestre de la France avec un pays étranger ?",
+        "choices": [
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          },
+          {
+            "text": "Mayotte",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Guyane partage une frontière de 730 km avec le Brésil, ce qui constitue la plus longue frontière terrestre de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-053",
+        "shortId": "Q-AAD15B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre français, maître du néoclassicisme, a immortalisé le 'Sacre de Napoléon' dans une œuvre monumentale ?",
+        "choices": [
+          {
+            "text": "Jean-Auguste-Dominique Ingres",
+            "isCorrect": false
+          },
+          {
+            "text": "Antoine-Jean Gros",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques-Louis David",
+            "isCorrect": true
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "David a mis son talent au service de l'Empire, créant une iconographie puissante pour légitimer le pouvoir impérial."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-041",
+        "shortId": "Q-6F9E49",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel compositeur de l'époque baroque a dirigé la musique à la cour de Louis XIV et inventé l'opéra à la française ?",
+        "choices": [
+          {
+            "text": "François Couperin",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean-Baptiste Lully",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Philippe Rameau",
+            "isCorrect": false
+          },
+          {
+            "text": "Marc-Antoine Charpentier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lully a dominé la vie musicale française du XVIIe siècle en créant la 'tragédie lyrique'."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-030",
+        "shortId": "Q-44B3A1",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale ressource agricole de l'île de La Réunion, historiquement liée à l'économie de plantation ?",
+        "choices": [
+          {
+            "text": "Le café arabica",
+            "isCorrect": false
+          },
+          {
+            "text": "La canne à sucre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le giroflier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le poivre noir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La canne à sucre reste le moteur de l'agriculture réunionnaise, utilisée pour la production de sucre et de rhum."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-026",
+        "shortId": "Q-59E453",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Alsace et la Lorraine ont-elles été restituées à la France après la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1919",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1924",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le traité de Versailles de 1919 a acté le retour de ces territoires perdus en 1871 au profit de l'Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-082",
+        "shortId": "Q-4D8058",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de la haute juridiction chargée de trancher les litiges en matière de droit privé (civil, commercial, social) ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal des conflits",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle ne rejuge pas les faits mais vérifie la bonne application de la loi par les tribunaux et cours d'appel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-009",
+        "shortId": "Q-E4922E",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1992 a transformé la Communauté économique européenne en Union européenne et créé la monnaie unique ?",
+        "choices": [
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Acte unique européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Amsterdam",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le traité de Maastricht a instauré la citoyenneté européenne et posé les bases de l'Union économique et monétaire (UEM)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-004",
+        "shortId": "Q-6708B7",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi de 1881, pilier de la démocratie française, a supprimé l'autorisation préalable pour la publication de journaux ?",
+        "choices": [
+          {
+            "text": "La loi du 29 juillet sur la liberté de la presse",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi Falloux sur l'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Waldeck-Rousseau sur les syndicats",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Naquet sur le divorce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi fondamentale a instauré un régime de liberté quasi-totale pour la presse, ne prévoyant de sanctions qu'en cas d'injure, de diffamation ou d'incitation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-010",
+        "shortId": "Q-7385D0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du bassin hydrographique de l'Adour par rapport aux autres grands fleuves français ?",
+        "choices": [
+          {
+            "text": "Il présente un régime pluvio-nival avec une forte influence océanique",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est le seul fleuve dont l'embouchure a été déviée artificiellement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne possède aucun affluent majeur prenant sa source en Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est entièrement canalisé sur la totalité de son parcours navigable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Adour draine les eaux du Piémont pyrénéen. Son débit est marqué par la fonte des neiges et les fortes précipitations atlantiques, causant des crues rapides."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-087",
+        "shortId": "Q-2894A7",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale caractéristique hydrographique de la Seine, fleuve traversant Paris ?",
+        "choices": [
+          {
+            "text": "Son débit est marqué par des crues cévenoles violentes en automne",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est le seul fleuve français navigable par des paquebots marins jusqu'à sa source",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle présente un régime torrentiel sans aucun barrage de régulation",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle possède un régime pluvial très régulier grâce à l'influence océanique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La régularité de son débit a historiquement favorisé son rôle d'axe de transport vital pour le Bassin parisien."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-003",
+        "shortId": "Q-4A1740",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs (exécutif, législatif, judiciaire) dans son ouvrage 'De l'esprit des lois' ?",
+        "choices": [
+          {
+            "text": "Montesquieu",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Denis Diderot",
+            "isCorrect": false
+          },
+          {
+            "text": "Condorcet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Montesquieu préconise que 'le pouvoir arrête le pouvoir'. Sa théorie a directement influencé la rédaction des constitutions modernes, notamment celle des États-Unis et de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-059",
+        "shortId": "Q-FACBF0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement philosophique, marqué par l'utilisation de la raison et le refus de l'obscurantisme, a dominé le XVIIIe siècle ?",
+        "choices": [
+          {
+            "text": "L'humanisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'existentialisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Lumières",
+            "isCorrect": true
+          },
+          {
+            "text": "Le positivisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les Lumières ont préparé les esprits à la Révolution française en remettant en cause l'absolutisme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-025",
+        "shortId": "Q-730EB6",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1946, intégré au bloc de constitutionnalité, a reconnu pour la première fois les droits économiques et sociaux (santé, travail, repos) ?",
+        "choices": [
+          {
+            "text": "La Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce texte consacre des principes indispensables à notre temps, comme le droit à la protection de la santé et la garantie de moyens convenables d'existence."
+      }
+    }
+  ]
+}

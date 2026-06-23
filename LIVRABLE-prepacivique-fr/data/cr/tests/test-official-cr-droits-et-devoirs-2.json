@@ -1,0 +1,621 @@
+{
+  "slug": "test-official-cr-droits-et-devoirs-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 18,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-official-015",
+        "shortId": "Q-A49A3F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+        "choices": [
+          {
+            "text": "Oui, elle a le même droit de vote que tout citoyen français majeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement aux élections municipales",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à condition d'être inscrite sur les listes électorales depuis au moins 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais son vote est comptabilisé différemment",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, une femme majeure de nationalité française a exactement les mêmes droits de vote qu'un homme. L'égalité de droits est un principe fondamental de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-024",
+        "shortId": "Q-B57882",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle proposition constitue une obligation ?",
+        "choices": [
+          {
+            "text": "Voter aux élections",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter la loi et contribuer à la défense du pays si nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Pratiquer une religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les obligations principales sont : respecter la loi, ne pas porter atteinte à la sécurité d'autrui, contribuer à la défense nationale, et pour les parents, assurer l'éducation de leurs enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-036",
+        "shortId": "Q-9A59CE",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle proposition représente un exemple de délit ?",
+        "choices": [
+          {
+            "text": "Un vol, une agression, une fraude",
+            "isCorrect": true
+          },
+          {
+            "text": "Une infraction mineure au code de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "Un retard de paiement de loyer",
+            "isCorrect": false
+          },
+          {
+            "text": "Un stationnement en double file",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un délit est une infraction sérieuse mais moins grave qu'un crime. Exemples : vol, agression, fraude, conduite en état d'ivresse. Les délits sont jugés par le tribunal correctionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-035",
+        "shortId": "Q-C65AF7",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle proposition représente un exemple de crime ?",
+        "choices": [
+          {
+            "text": "Un retard au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Une bagarre et des coups",
+            "isCorrect": false
+          },
+          {
+            "text": "Un stationnement en double file",
+            "isCorrect": false
+          },
+          {
+            "text": "Un homicide volontaire ou un viol",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un crime est l'infraction la plus grave. Exemples : homicide, viol, terrorisme, braquage. Les crimes sont jugés par la Cour d'assises."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-009",
+        "shortId": "Q-830E60",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel texte est le plus difficile à modifier ?",
+        "choices": [
+          {
+            "text": "Une circulaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une loi ordinaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Un décret",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Constitution est le texte le plus difficile à modifier. Elle nécessite une procédure solennelle (révision constitutionnelle) et souvent un vote du Parlement réuni en Congrès ou un référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-027",
+        "shortId": "Q-F05576",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jeter un mégot par terre est :",
+        "choices": [
+          {
+            "text": "Interdit et constitue une infraction à l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Autorisé",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple manie",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement interdit pour les fumeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Jeter un mégot par terre est une infraction à l'ordre public et à la propreté. C'est polluer l'environnement et peut entraîner une amende."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-013",
+        "shortId": "Q-67F135",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le recours à l'avortement est-il autorisé ?",
+        "choices": [
+          {
+            "text": "Uniquement sur autorisation médicale d'un comité d'éthique",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement en cas de danger pour la mère",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le droit à l'avortement est garanti par la loi et depuis 2024 par la Constitution",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Oui, le droit à l'avortement (IVG) est garanti en France depuis 1975 (loi Veil). Depuis le 8 mars 2024, ce droit est inscrit dans la Constitution française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-014",
+        "shortId": "Q-409601",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut demander à avorter ?",
+        "choices": [
+          {
+            "text": "Toute femme de nationalité française résidant en France métropolitaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute femme majeure ayant obtenu l'accord de son médecin traitant",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne ayant commencé une grossesse, sans considération d'état civil, âge, nationalité ou situation au regard du séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "Toute femme résidant en France depuis au moins un an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Toute personne ayant commencé une grossesse peut demander un avortement, indépendamment de l'état civil, l'âge, la nationalité ou la situation au regard du séjour en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-003",
+        "shortId": "Q-8B3AFB",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La peine de mort est :",
+        "choices": [
+          {
+            "text": "Toujours utilisée en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Abolie en France depuis 1981",
+            "isCorrect": true
+          },
+          {
+            "text": "Appliquée avec restriction",
+            "isCorrect": false
+          },
+          {
+            "text": "Réservée aux crimes les plus graves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La peine de mort a été abolie en France le 18 septembre 1981. C'est l'une des premières nations à l'avoir fait. Elle est interdite en Europe par la Convention européenne des droits de l'homme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-002",
+        "shortId": "Q-13209D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+        "choices": [
+          {
+            "text": "De la protection des intérêts économiques des entreprises françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "De critères économiques liés au déficit budgétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "De la conformité aux traités internationaux uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'intérêt général et de la protection de l'ordre public",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'État peut limiter les droits au nom de l'intérêt général, de l'ordre public, de la santé publique, ou de la sécurité des personnes et biens."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-007",
+        "shortId": "Q-88FAD8",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le droit de grève ?",
+        "choices": [
+          {
+            "text": "Le droit de ne jamais travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'arrêter le travail pour défendre ses droits ou revendications",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de bloquer le commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de quitter son emploi sans raison",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de grève est le droit d'arrêter collectivement le travail pour défendre des droits ou revendications. Il est un droit fondamental mais peut être limité par la loi (services essentiels)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-019",
+        "shortId": "Q-19C3BC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "On peut écrire n'importe quoi sans conséquence",
+            "isCorrect": false
+          },
+          {
+            "text": "Les réseaux sociaux sont au-dessus de la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'existe aucune règle",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression s'applique mais elle a des limites (pas d'insultes, diffamation, harceleurs, incitation à la haine)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Sur les réseaux sociaux, la liberté d'expression est protégée mais elle a des limites : pas d'insultes, diffamation, harcèlement, incitation à la haine. Les personnes restent responsables pénalement de ce qu'elles écrivent."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-001",
+        "shortId": "Q-800F29",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle liberté la PMA fait-elle référence ?",
+        "choices": [
+          {
+            "text": "À la liberté religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "À la liberté de circulation",
+            "isCorrect": false
+          },
+          {
+            "text": "À la liberté de former une famille et à la maîtrise de sa fécondité",
+            "isCorrect": true
+          },
+          {
+            "text": "À la liberté d'expression",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La PMA (Procréation Médicalement Assistée) fait référence à la liberté de former une famille et à la maîtrise de sa fécondité. Elle est un droit fondamental."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-028",
+        "shortId": "Q-6ED155",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire une victime de violences ?",
+        "choices": [
+          {
+            "text": "Tenter de se venger",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne rien faire",
+            "isCorrect": false
+          },
+          {
+            "text": "Dénoncer auprès de la police, gendarmerie, ou d'une personne de confiance",
+            "isCorrect": true
+          },
+          {
+            "text": "Accepter la situation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une victime de violences doit signaler l'infraction à la police ou gendarmerie, à un magistrat, ou à une personne de confiance. Elle peut aussi appeler le 119 ou le 3919 pour une aide."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-008",
+        "shortId": "Q-7E85FC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Constitution ?",
+        "choices": [
+          {
+            "text": "Une simple loi ordinaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un ensemble de règlements administratifs",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord entre les partis politiques du Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le texte fondamental qui définit l'organisation du pouvoir et les droits/devoirs fondamentaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Constitution est le texte fondamental d'un État. Elle définit l'organisation des pouvoirs, les droits et libertés fondamentaux, et les principes du régime politique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-029",
+        "shortId": "Q-F4CFC2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est un exemple d'assistance à personne en danger ?",
+        "choices": [
+          {
+            "text": "Attendre l'arrivée des pompiers sans intervenir",
+            "isCorrect": false
+          },
+          {
+            "text": "Prévenir la famille de la victime avant d'appeler les secours",
+            "isCorrect": false
+          },
+          {
+            "text": "Transporter la victime à l'hôpital avec son véhicule personnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler les secours pour une personne souffrant d'une crise cardiaque",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'assistance à personne en danger signifie : appeler les secours (SAMU, pompiers), donner de l'aide ou des premiers secours, ou chercher de l'aide. Ne pas aider peut être punissable."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-022",
+        "shortId": "Q-946228",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour quel motif peut-on limiter la liberté d'expression ?",
+        "choices": [
+          {
+            "text": "La diffamation, l'injure, l'incitation à la haine, la violence, ou les menaces",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour aucune raison, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Si on critique le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Si les propos sont publiés sur internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté d'expression peut être limitée légalement pour : la diffamation, l'injure, l'incitation à la haine, la violence, les menaces, ou l'atteinte à la vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-official-034",
+        "shortId": "Q-5CB270",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+        "choices": [
+          {
+            "text": "Respecter la loi et contribuer à l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Être citoyen français",
+            "isCorrect": false
+          },
+          {
+            "text": "Parler le français parfaitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter aux élections",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Toute personne résidant en France, quelle que soit sa nationalité, doit respecter la loi et contribuer à l'ordre public. C'est une obligation fondamentale."
+      }
+    }
+  ]
+}

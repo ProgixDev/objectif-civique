@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-nat-droits-et-devoirs-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-situational-001",
+        "shortId": "Q-A0B6A8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Placé en garde à vue, vous demandez l'assistance d'un avocat. Quelle est la règle applicable concernant sa présence ?",
+        "choices": [
+          {
+            "text": "L'avocat peut être présent dès la première heure pour les auditions et confrontations",
+            "isCorrect": true
+          },
+          {
+            "text": "L'avocat ne peut intervenir qu'après la 24ème heure de garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "La présence de l'avocat est obligatoire uniquement pour les crimes, pas pour les délits",
+            "isCorrect": false
+          },
+          {
+            "text": "L'officier de police judiciaire peut refuser l'avocat si l'enquête l'exige",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la réforme de la garde à vue, la personne a le droit d'être assistée par un avocat dès le début de la mesure (première heure) et lors de toutes les auditions et confrontations."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-002",
+        "shortId": "Q-074655",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre employeur ne verse pas votre salaire. Avant de saisir le fond du Conseil de prud'hommes, quelle procédure d'urgence pouvez-vous engager ?",
+        "choices": [
+          {
+            "text": "Le dépôt de plainte pour vol auprès du commissariat",
+            "isCorrect": false
+          },
+          {
+            "text": "La saisie du référé prud'homal pour obtenir une ordonnance de paiement",
+            "isCorrect": true
+          },
+          {
+            "text": "La demande d'intervention de l'inspection du travail pour saisie sur compte",
+            "isCorrect": false
+          },
+          {
+            "text": "La rupture conventionnelle unilatérale immédiate",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le référé prud'homal est une procédure d'urgence qui permet, lorsque l'obligation n'est pas sérieusement contestable (comme un salaire impayé), d'obtenir rapidement une condamnation de l'employeur à payer."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-003",
+        "shortId": "Q-2879EB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Tiré au sort comme juré d'assises, vous souhaitez être dispensé. Quel motif est légalement recevable ?",
+        "choices": [
+          {
+            "text": "Le refus par conviction personnelle de juger autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contrainte professionnelle simple",
+            "isCorrect": false
+          },
+          {
+            "text": "L'âge supérieur à 70 ans ou un motif grave empêchant la comparution",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de ne pas avoir la nationalité française depuis plus de 10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Être juré est une obligation citoyenne. Les dispenses sont restrictives : être âgé de plus de 70 ans, ne plus résider dans le département, ou avoir un motif grave (maladie, impératif familial majeur). Le travail seul n'est pas une excuse automatique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-004",
+        "shortId": "Q-51840E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Si aucune banque n'accepte de vous ouvrir un compte, quelle procédure devez-vous activer ?",
+        "choices": [
+          {
+            "text": "Saisir le tribunal judiciaire pour forcer la banque",
+            "isCorrect": false
+          },
+          {
+            "text": "Ouvrir obligatoirement un compte à la Banque Postale qui ne peut refuser",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Médiateur de la République pour discrimination",
+            "isCorrect": false
+          },
+          {
+            "text": "Utiliser la procédure du 'Droit au compte' auprès de la Banque de France",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de refus d'ouverture de compte, vous pouvez exercer votre 'Droit au compte' auprès de la Banque de France, qui désignera d'office un établissement bancaire tenu de vous fournir les services de base."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-005",
+        "shortId": "Q-AF3131",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Dans le cadre d'une 'enquête préliminaire' (hors flagrant délit), la police souhaite perquisitionner votre domicile. Quelle est la condition impérative ?",
+        "choices": [
+          {
+            "text": "La police peut entrer de force si le procureur l'autorise",
+            "isCorrect": false
+          },
+          {
+            "text": "Votre assentiment manuscrit est obligatoire pour que la perquisition soit légale",
+            "isCorrect": true
+          },
+          {
+            "text": "La présence de deux témoins suffit pour valider l'entrée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'état d'urgence autorise toutes les perquisitions sans condition",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En enquête préliminaire, une perquisition ne peut être effectuée qu'avec l'assentiment exprès de la personne (écrit de sa main). Sans cet accord, il faut une décision du Juge des libertés et de la détention (JLD)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-006",
+        "shortId": "Q-9380E8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre propriétaire pénètre chez vous en votre absence pour vérifier l'état des lieux sans votre accord. Comment cet acte est-il qualifié juridiquement ?",
+        "choices": [
+          {
+            "text": "Un droit de visite légitime du bailleur",
+            "isCorrect": false
+          },
+          {
+            "text": "Une atteinte à la vie privée civile uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une violation de domicile pénalement répréhensible",
+            "isCorrect": true
+          },
+          {
+            "text": "Une clause résolutoire du bail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le domicile est inviolable. Même le propriétaire ne peut y pénétrer sans l'accord du locataire. Le faire constitue le délit de violation de domicile (art. 226-4 du Code pénal), passible d'un an d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-007",
+        "shortId": "Q-FD28E5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un appareil électroménager tombe en panne 18 mois après l'achat. Quelle garantie pouvez-vous invoquer sans avoir à prouver l'existence du défaut au moment de l'achat ?",
+        "choices": [
+          {
+            "text": "La garantie des vices cachés",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie commerciale facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie légale de conformité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La garantie légale de conformité dure 2 ans. Pour les biens neufs, le défaut est présumé exister au moment de l'achat durant cette période, dispensant le consommateur d'apporter la preuve technique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-008",
+        "shortId": "Q-AA42CC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Cité comme témoin devant une Cour d'assises, vous refusez de comparaître. Que risquez-vous ?",
+        "choices": [
+          {
+            "text": "Rien, le témoignage est un acte civique volontaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple amende administrative de 135 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être amené par la force publique et condamné à une amende de 3 750 euros",
+            "isCorrect": true
+          },
+          {
+            "text": "D'être poursuivi pour complicité de crime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage est une obligation légale. En cas de non-comparution sans motif légitime, le témoin peut être contraint par la force publique sur ordre de la Cour et condamné à une amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-009",
+        "shortId": "Q-8174E9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le non-paiement de la pension alimentaire fixée par un juge constitue un délit pénal. Lequel ?",
+        "choices": [
+          {
+            "text": "L'abus de confiance",
+            "isCorrect": false
+          },
+          {
+            "text": "L'organisation frauduleuse d'insolvabilité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abandon de famille",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vol domestique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le fait de ne pas verser la pension alimentaire pendant plus de deux mois est qualifié d'abandon de famille (art. 227-3 du Code pénal), passible de 2 ans d'emprisonnement et 15 000 € d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-010",
+        "shortId": "Q-8A7BFB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pour contester une amende forfaitaire majorée sans la payer immédiatement, quelle procédure est requise ?",
+        "choices": [
+          {
+            "text": "Envoyer une lettre simple au préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Déposer une réclamation auprès du médiateur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Effectuer une consignation du montant de l'amende",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre la saisie sur salaire pour contester",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour que la contestation d'une amende forfaitaire majorée soit recevable, le contrevenant doit généralement s'acquitter d'une consignation (somme bloquée) équivalente au montant de l'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-011",
+        "shortId": "Q-57CC09",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre enfant mineur cause un dommage à autrui. Sur quel fondement votre responsabilité est-elle engagée ?",
+        "choices": [
+          {
+            "text": "La responsabilité pour faute prouvée des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité pénale par substitution",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité de l'État pour défaut d'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "La responsabilité de plein droit du fait des mineurs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 1242 alinéa 4 du Code civil, les parents sont responsables de plein droit (sans qu'il soit nécessaire de prouver une faute de leur part) des dommages causés par leurs enfants mineurs habitant avec eux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-012",
+        "shortId": "Q-74FD40",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Victime d'une escroquerie bancaire en ligne (phishing), la banque refuse de vous rembourser en invoquant votre 'négligence grave'. Qui a la charge de la preuve ?",
+        "choices": [
+          {
+            "text": "C'est à la banque de prouver votre négligence grave",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est à vous de prouver que vous n'avez pas été négligent",
+            "isCorrect": false
+          },
+          {
+            "text": "La preuve est partagée équitablement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit diligenter une enquête pour établir la preuve",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon le Code monétaire et financier, c'est à l'établissement bancaire d'apporter la preuve que l'utilisateur a commis une négligence grave (ex: donner volontairement ses codes) pour refuser le remboursement d'une opération non autorisée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-013",
+        "shortId": "Q-F46321",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'aide juridictionnelle (AJ) permet la prise en charge des frais de justice par l'État. Quelle est sa condition principale d'attribution ?",
+        "choices": [
+          {
+            "text": "Avoir la nationalité française exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas dépasser un certain plafond de ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Être sans emploi depuis plus de 6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'aide juridictionnelle est attribuée sous conditions de ressources (revenus et patrimoine). Elle peut être totale ou partielle selon le niveau de revenus du demandeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-014",
+        "shortId": "Q-373D12",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans un magasin, un vigile vous demande de vider vos poches et de le suivre dans un local. Quels sont vos droits ?",
+        "choices": [
+          {
+            "text": "Oui, s'il est assermenté par la préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous pouvez refuser la fouille et exiger l'intervention de la police",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vigile peut vous retenir pendant 2 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez accepter car vous êtes sur une propriété privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un agent de sécurité privé n'a pas le pouvoir de fouiller une personne ni de la retenir de force. Seule la police a ce pouvoir. Vous pouvez refuser toute fouille et demander l'intervention des forces de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-015",
+        "shortId": "Q-FBD78C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Votre voisin a construit un mur qui empiète de 10 cm sur votre terrain. Que pouvez-vous exiger en justice ?",
+        "choices": [
+          {
+            "text": "Une indemnité annuelle d'occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "La mitoyenneté forcée du mur",
+            "isCorrect": false
+          },
+          {
+            "text": "La démolition de la partie du mur qui empiète",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, car l'empiétement est minime",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit de propriété est absolu. La Cour de cassation juge constamment que tout empiétement, même minime, justifie la démolition de l'ouvrage sur demande du propriétaire lésé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-016",
+        "shortId": "Q-569A07",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En cas de violences conjugales avérées, le Juge aux Affaires Familiales peut délivrer une mesure d'urgence sous 6 jours. Laquelle ?",
+        "choices": [
+          {
+            "text": "Un jugement de divorce pour faute",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ordonnance de protection",
+            "isCorrect": true
+          },
+          {
+            "text": "Une médiation familiale obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une déchéance de l'autorité parentale définitive",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'ordonnance de protection est une mesure d'urgence délivrée par le JAF (souvent en moins de 6 jours) pour protéger la victime (éviction du conjoint violent, interdiction de contact, etc.) avant même un jugement pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-017",
+        "shortId": "Q-365DC5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un huissier de justice (commissaire de justice) se présente à votre domicile pour une saisie. Dans quelle tranche horaire peut-il légalement intervenir ?",
+        "choices": [
+          {
+            "text": "Uniquement entre 6 heures et 21 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "À toute heure du jour et de la nuit si le montant est élevé",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pendant les heures d'ouverture des tribunaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Entre 8 heures et 20 heures, jours ouvrables seulement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'exécution des mesures d'expulsion ou de saisie ne peut avoir lieu qu'entre 6 heures et 21 heures (sauf autorisation spéciale du juge en cas de nécessité impérieuse)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-018",
+        "shortId": "Q-50C229",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'employeur peut-il consulter les fichiers stockés sur votre ordinateur professionnel ?",
+        "choices": [
+          {
+            "text": "Non, jamais sans votre présence",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, car ils sont présumés professionnels, sauf s'ils sont identifiés comme 'personnels'",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, tous les fichiers appartiennent à l'entreprise sans exception",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est une violation du RGPD",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La jurisprudence établit que les dossiers et fichiers créés par un salarié sur l'ordinateur de l'entreprise sont présumés professionnels. L'employeur peut donc les ouvrir hors de sa présence, sauf s'ils sont explicitement identifiés comme personnels."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-019",
+        "shortId": "Q-1F082D",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La 'trêve hivernale' interdit les expulsions locatives. Quelle est la période exacte d'application ?",
+        "choices": [
+          {
+            "text": "Du 1er décembre au 1er mars",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 15 octobre au 15 avril",
+            "isCorrect": false
+          },
+          {
+            "text": "Durant toute la période où la température est inférieure à 5°C",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 1er novembre au 31 mars",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La trêve hivernale, durant laquelle les locataires ne peuvent être expulsés (même avec une décision de justice), s'étend légalement du 1er novembre au 31 mars de l'année suivante."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-020",
+        "shortId": "Q-FDB54E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un contrôle routier standard (vérification des papiers), la police peut-elle exiger l'ouverture de votre coffre ?",
+        "choices": [
+          {
+            "text": "Oui, c'est un pouvoir discrétionnaire de la police",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de flagrant délit ou sur réquisition du procureur de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le véhicule est utilitaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul un douanier a ce pouvoir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En dehors des douanes, la police ne peut fouiller un véhicule (visite) qu'en cas de flagrant délit, d'enquête préliminaire avec accord du conducteur, ou sur réquisition écrite du procureur dans un périmètre et temps donnés."
+      }
+    }
+  ]
+}

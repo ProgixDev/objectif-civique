@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-cr-vivre-en-france-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-official-020",
+        "shortId": "Q-1EF2BD",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans une entreprise, le droit de grève autorise :",
+        "choices": [
+          {
+            "text": "Le refus individuel de travailler sans revendication professionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "La suspension définitive du contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La fermeture de l'entreprise décidée par l'employeur",
+            "isCorrect": false
+          },
+          {
+            "text": "La cessation collective et concertée du travail pour appuyer des revendications professionnelles",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de grève correspond à une cessation collective et concertée du travail pour soutenir des revendications professionnelles. Le contrat de travail est suspendu pendant la grève, mais il n'est pas rompu pour autant."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-028",
+        "shortId": "Q-1A1BAD",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À l'école, il est interdit aux parents de :",
+        "choices": [
+          {
+            "text": "Demander un rendez-vous à un enseignant",
+            "isCorrect": false
+          },
+          {
+            "text": "Adopter un comportement injurieux, menaçant ou violent envers le personnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Participer à l'élection des représentants de parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Signer un document de liaison demandé par l'école",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les parents font partie de la communauté éducative, mais ils doivent respecter les personnels et le règlement de l'établissement. Les injures, menaces ou violences envers les personnels scolaires sont interdites et peuvent constituer des infractions pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-017",
+        "shortId": "Q-7D389F",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans le contrat de travail :",
+        "choices": [
+          {
+            "text": "C'est toujours interdit, même avec l'accord du salarié",
+            "isCorrect": false
+          },
+          {
+            "text": "Il s'agit d'heures supplémentaires ou complémentaires qui doivent donner lieu à contrepartie",
+            "isCorrect": true
+          },
+          {
+            "text": "L'employeur peut l'imposer sans trace tant que le salaire mensuel reste identique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salarié doit l'accepter gratuitement au nom de l'obligation de loyauté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Quand un salarié travaille au-delà de la durée prévue, il s'agit d'heures supplémentaires ou, pour certains temps partiels, d'heures complémentaires. Ces heures doivent être rémunérées selon les règles applicables ou compensées par du repos; elles ne peuvent pas être exigées gratuitement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-021",
+        "shortId": "Q-C03FBF",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les conditions pour toucher les allocations chômage ?",
+        "choices": [
+          {
+            "text": "Être sans emploi, même sans activité professionnelle antérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir quitté volontairement son emploi sans motif légitime et s'inscrire à France Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir travaillé suffisamment et avoir perdu involontairement son emploi",
+            "isCorrect": true
+          },
+          {
+            "text": "Être déjà retraité tout en continuant de chercher un emploi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour percevoir l'allocation d'aide au retour à l'emploi, il faut notamment avoir travaillé suffisamment et être privé involontairement d'emploi, par exemple après un licenciement ou une fin de CDD. L'absence totale d'activité antérieure ou une démission sans motif légitime n'ouvrent pas, en principe, ce droit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-014",
+        "shortId": "Q-652148",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut demander un congé parental d'éducation ?",
+        "choices": [
+          {
+            "text": "Uniquement la mère après un congé maternité",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout salarié, père ou mère, après une naissance ou une adoption, s'il remplit la condition d'ancienneté",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout parent sans condition d'ancienneté dès l'arrivée de l'enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement le parent qui perçoit les allocations familiales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le congé parental d'éducation peut être demandé par le père ou la mère salarié après une naissance ou une adoption, à condition de justifier de l'ancienneté requise. Il n'est donc ni réservé à la mère ni ouvert sans condition."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-004",
+        "shortId": "Q-F24D3B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+        "choices": [
+          {
+            "text": "Le revenu de solidarité active (RSA)",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie Visale",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection juridique d'une assurance privée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aide juridictionnelle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'aide juridictionnelle permet, sous conditions de ressources, une prise en charge totale ou partielle des frais de justice, notamment les honoraires d'avocat. C'est le dispositif public prévu pour les personnes ayant de faibles revenus."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-018",
+        "shortId": "Q-DAE0B2",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la mission de France Travail (anciennement Pôle emploi) ?",
+        "choices": [
+          {
+            "text": "Calculer et recouvrer les impôts des salariés",
+            "isCorrect": false
+          },
+          {
+            "text": "Accompagner les demandeurs d'emploi et verser, selon les droits, les allocations chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "Gérer les pensions de retraite de base",
+            "isCorrect": false
+          },
+          {
+            "text": "Homologuer les licenciements et les ruptures conventionnelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "France Travail est le service public de l'emploi. Il accompagne les demandeurs d'emploi dans leurs démarches, facilite le retour à l'emploi et verse les allocations chômage lorsque les conditions d'indemnisation sont remplies."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-019",
+        "shortId": "Q-84A3C4",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans une entreprise, le droit syndical permet :",
+        "choices": [
+          {
+            "text": "Aux salariés d'adhérer à un syndicat et d'agir collectivement pour défendre leurs intérêts professionnels",
+            "isCorrect": true
+          },
+          {
+            "text": "D'imposer à tous les salariés l'adhésion au syndicat majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "De se substituer aux représentants élus du personnel dans toutes les décisions",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'employeur de désigner librement les représentants syndicaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit syndical repose sur la liberté syndicale. Les salariés peuvent adhérer au syndicat de leur choix et agir collectivement pour défendre leurs intérêts professionnels, sans que l'employeur puisse leur imposer un syndicat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-012",
+        "shortId": "Q-FC48ED",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?",
+        "choices": [
+          {
+            "text": "Le secret médical, qui protège les informations de santé du patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Le partage automatique du dossier de santé avec l'employeur",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction absolue de tout échange d'information entre soignants",
+            "isCorrect": false
+          },
+          {
+            "text": "La libre communication des informations médicales à la famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le principe de confidentialité repose sur le secret médical. Les professionnels de santé ne peuvent pas divulguer les informations concernant un patient, sauf exceptions prévues par la loi; ils peuvent en revanche échanger les données strictement nécessaires à la prise en charge entre professionnels concernés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-027",
+        "shortId": "Q-F91527",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'âge de la majorité ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "17 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La majorité civile est fixée à 18 ans en France. À partir de cet âge, une personne exerce pleinement ses droits civils et assume seule les actes de la vie juridique, sauf cas particuliers prévus par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-023",
+        "shortId": "Q-A0FA35",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+        "choices": [
+          {
+            "text": "Le certificat de formation générale, pour tous les élèves de 3e",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Diplôme national du brevet (DNB)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le CAP",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Baccalauréat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À la fin du collège, l'examen national passé par les élèves de 3e est le diplôme national du brevet. Le CAP et le baccalauréat correspondent à d'autres diplômes et à d'autres étapes de la scolarité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-013",
+        "shortId": "Q-9FC9F1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'inscription à l'Assurance maladie est :",
+        "choices": [
+          {
+            "text": "Obligatoire pour toute personne qui travaille ou réside en France de manière stable et régulière",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée aux salariés en contrat à durée indéterminée",
+            "isCorrect": false
+          },
+          {
+            "text": "Facultative si l'on a déjà une mutuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Réservée aux citoyens français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'affiliation à l'Assurance maladie relève de la protection sociale obligatoire pour les personnes qui travaillent ou résident en France de manière stable et régulière. Une mutuelle complète les remboursements, mais ne remplace pas cette affiliation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-007",
+        "shortId": "Q-A4051A",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Un bail locatif est valide s'il est :",
+        "choices": [
+          {
+            "text": "Enregistré à la mairie du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Signé uniquement par le locataire lors de l'entrée dans les lieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Conclu oralement si un témoin est présent",
+            "isCorrect": false
+          },
+          {
+            "text": "Établi par écrit et signé par le bailleur et le locataire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le bail d'habitation doit être rédigé par écrit et signé par le bailleur et le locataire. Un accord oral ou un document signé par une seule partie ne suffit pas à constituer le contrat écrit exigé pour ce type de location."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-011",
+        "shortId": "Q-4E9253",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À qui est accessible la contraception ?",
+        "choices": [
+          {
+            "text": "Uniquement aux personnes majeures ou émancipées",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement aux femmes sur prescription d'un gynécologue",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux femmes et aux hommes, y compris aux mineurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement aux personnes mariées ou pacsées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La contraception est accessible aux femmes comme aux hommes, y compris aux mineurs. Certaines consultations, examens et contraceptifs sont en outre pris en charge de manière confidentielle pour les mineures, sans autorisation parentale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-009",
+        "shortId": "Q-5E586E",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler la police ?",
+        "choices": [
+          {
+            "text": "Le 15",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 114",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 17 (et le 112 en cas d'urgence)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 17 permet de joindre Police secours ou la gendarmerie en cas d'urgence. Le 112 est le numéro d'urgence européen, qui peut également orienter l'appel vers la police."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-003",
+        "shortId": "Q-215BF3",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En cas de divorce, qui exerce l'autorité parentale ?",
+        "choices": [
+          {
+            "text": "Le parent chez qui l'enfant réside habituellement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les deux parents conjointement, sauf décision contraire du juge",
+            "isCorrect": true
+          },
+          {
+            "text": "Le juge aux affaires familiales jusqu'à la majorité de l'enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Le parent qui verse la pension alimentaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le divorce ou la séparation ne supprime pas en principe l'autorité parentale. Elle continue d'être exercée conjointement par les deux parents, sauf si le juge décide autrement dans l'intérêt de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-032",
+        "shortId": "Q-75A95D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À l'école, un enfant en situation de handicap :",
+        "choices": [
+          {
+            "text": "Ne peut être scolarisé en milieu ordinaire que si aucun aménagement n'est nécessaire",
+            "isCorrect": false
+          },
+          {
+            "text": "A droit à une scolarisation, avec si besoin des aides humaines ou des aménagements adaptés",
+            "isCorrect": true
+          },
+          {
+            "text": "Doit être orienté systématiquement vers un établissement spécialisé",
+            "isCorrect": false
+          },
+          {
+            "text": "Est dispensé d'instruction si son handicap est reconnu",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout enfant en situation de handicap a droit à une scolarisation, prioritairement en milieu ordinaire, avec les aides et aménagements nécessaires, comme un AESH ou du matériel adapté. Le handicap ne supprime donc ni le droit à l'école ni l'obligation d'instruction."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-025",
+        "shortId": "Q-395A45",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut manger à la cantine scolaire ?",
+        "choices": [
+          {
+            "text": "Tous les élèves de la commune, même s'ils ne sont pas scolarisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les enfants dont les deux parents travaillent",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les enfants bénéficiant d'une bourse",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout enfant scolarisé, lorsque la commune organise ce service de restauration",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La restauration scolaire n'est pas un service obligatoire pour la commune, mais lorsqu'elle existe, elle est ouverte aux enfants scolarisés. L'accès à la cantine ne peut pas dépendre de la situation professionnelle ou sociale des parents."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-001",
+        "shortId": "Q-FA63AA",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel mariage est reconnu par l'État ?",
+        "choices": [
+          {
+            "text": "Le mariage coutumier célébré selon la tradition familiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le PACS enregistré en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage civil célébré devant l'officier de l'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "Le mariage religieux célébré sans mariage civil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, seul le mariage civil célébré devant l'officier de l'état civil produit des effets juridiques en tant que mariage. Une cérémonie religieuse ou une union de fait ne remplace pas ce mariage civil."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-026",
+        "shortId": "Q-F5C3CB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quel âge commence l'instruction obligatoire des enfants ?",
+        "choices": [
+          {
+            "text": "À partir de 2 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "À partir de 3 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "À partir de 5 ans révolus",
+            "isCorrect": false
+          },
+          {
+            "text": "À partir de l'entrée au CP, donc 6 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la rentrée 2019, l'instruction est obligatoire dès l'âge de 3 ans pour les enfants résidant en France. Elle peut être assurée à l'école ou, dans des conditions très encadrées, par l'instruction en famille."
+      }
+    }
+  ]
+}

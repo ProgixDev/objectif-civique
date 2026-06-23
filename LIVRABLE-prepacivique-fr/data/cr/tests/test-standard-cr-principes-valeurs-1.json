@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-principes-valeurs-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-061",
+        "shortId": "Q-97D824",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'autorité parentale ?",
+        "choices": [
+          {
+            "text": "L'obligation pour l'enfant d'obéir jusqu'à 30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Un ensemble de droits et devoirs dans l'intérêt de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de punir physiquement son enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide financière versée par la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Elle appartient aux parents pour protéger l'enfant dans sa santé, sa sécurité et sa moralité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-054",
+        "shortId": "Q-A6DCE9",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit à un environnement équilibré et respectueux de la santé est inscrit dans :",
+        "choices": [
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement intégrée à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi organique relative aux lois de finances (LOLF)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2004, l'environnement a une valeur constitutionnelle en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-026",
+        "shortId": "Q-745BD2",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'école est obligatoire en France de 3 à 16 ans. Que garantit précisément ce droit à l'instruction ?",
+        "choices": [
+          {
+            "text": "L'accès aux études supérieures pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix libre du professeur par les parents",
+            "isCorrect": false
+          },
+          {
+            "text": "L'acquisition d'un socle commun de connaissances et de valeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obtention automatique d'un emploi en fin d'études",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le droit à l'éducation vise à former le citoyen en lui transmettant les savoirs fondamentaux et les valeurs de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-043",
+        "shortId": "Q-AFAEC0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe de « Fraternité » a pour traduction concrète dans la loi :",
+        "choices": [
+          {
+            "text": "Le droit de vote à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de porter secours (non-assistance à personne en danger)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction des syndicats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix d'une religion d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité s'exprime par le devoir d'aider une personne dont la vie est menacée sans prendre de risque pour soi-même."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-053",
+        "shortId": "Q-9B0766",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté d'association permet de créer un groupement de personnes :",
+        "choices": [
+          {
+            "text": "Uniquement après avoir payé une taxe d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Sans autorisation préalable de l'administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si le Président l'accepte",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour faire du sport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 1901, il n'est pas nécessaire de demander une autorisation pour créer une association, c'est une liberté publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-027",
+        "shortId": "Q-9BA7F1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe d'Indivisibilité de la République (Art. 1 de la Constitution) s'oppose à :",
+        "choices": [
+          {
+            "text": "La création de conseils régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'existence de groupes ayant des droits collectifs spécifiques",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de culte dans l'espace privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'usage des langues régionales dans la vie culturelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'indivisibilité signifie qu'il n'y a qu'un seul Peuple français ; la République ne reconnaît aucune communauté séparée au sein de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-035",
+        "shortId": "Q-4BB362",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de conflit entre un usager et une administration de l'État, quel est l'ordre de juridiction compétent ?",
+        "choices": [
+          {
+            "text": "L'ordre judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil de prud'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le contentieux administratif est traité par les tribunaux administratifs, les cours administratives d'appel et le Conseil d'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-023",
+        "shortId": "Q-22EF1F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes interdit à un employeur de refuser un candidat en raison de son âge ou de son sexe ?",
+        "choices": [
+          {
+            "text": "La liberté contractuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La lutte contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code du travail interdit toute distinction entre les candidats basée sur des critères subjectifs (sexe, âge, origine, handicap, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-032",
+        "shortId": "Q-B248FD",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Loi de 1905 ne concerne pas seulement la séparation, elle garantit aussi :",
+        "choices": [
+          {
+            "text": "Le droit de vote pour tous les étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "La gratuité des transports pour les religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le libre exercice des cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le port obligatoire de signes religieux dans la rue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 1 de la loi de 1905 dispose que « la République assure la liberté de conscience. Elle garantit le libre exercice des cultes »."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-041",
+        "shortId": "Q-9E63B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le secret médical ?",
+        "choices": [
+          {
+            "text": "Il n'existe pas dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est absolu et protège les informations confiées par le patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Il ne s'applique qu'aux maladies contagieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut être levé sur simple demande de l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le secret médical garantit au patient que ses informations de santé ne seront pas divulguées, protégeant ainsi sa dignité et sa vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-012",
+        "shortId": "Q-08624D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée délibérante chargée de gérer les intérêts d'un département ?",
+        "choices": [
+          {
+            "text": "Le Conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil départemental",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil municipal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil départemental est l'assemblée élue qui gère les compétences du département, notamment l'action sociale (RSA, APA) et les collèges."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-068",
+        "shortId": "Q-77A954",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil municipal ?",
+        "choices": [
+          {
+            "text": "Voter le budget et gérer les affaires de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Choisir le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Définir les orientations du plan local d'urbanisme (PLU)",
+            "isCorrect": false
+          },
+          {
+            "text": "Écrire les arrêtés préfectoraux de sécurité pour le département",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil municipal est l'assemblée élue par les citoyens de la commune pour décider de la politique locale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-021",
+        "shortId": "Q-49AF82",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République française ?",
+        "choices": [
+          {
+            "text": "Quatre ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Cinq ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Six ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Sept ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis le référendum de l'an 2000, le Président est élu pour cinq ans (le quinquennat) au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-036",
+        "shortId": "Q-92C56C",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe juridique impose que nul ne peut être puni pour une loi qui n'existait pas au moment du délit ?",
+        "choices": [
+          {
+            "text": "La présomption d'innocence",
+            "isCorrect": false
+          },
+          {
+            "text": "La non-rétroactivité de la loi pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le secret de l'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'aller et venir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La non-rétroactivité de la loi pénale, c'est un principe de sécurité juridique : on ne peut pas être condamné pour une action qui était légale au moment où elle a été accomplie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-049",
+        "shortId": "Q-A387F5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Ministère de l'Intérieur ?",
+        "choices": [
+          {
+            "text": "Superviser les relations commerciales avec l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'ordre public, la sécurité et l'administration territoriale",
+            "isCorrect": true
+          },
+          {
+            "text": "Coordonner la politique éducative et la recherche scientifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer le contrôle budgétaire des collectivités locales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il est responsable de la sécurité intérieure, des élections et du lien entre l'État et les collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-067",
+        "shortId": "Q-3E9A95",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'école publique est gratuite pour les familles. Comment est-elle financée ?",
+        "choices": [
+          {
+            "text": "Par les cotisations sociales versées par les employeurs du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la redistribution des impôts payés par les contribuables",
+            "isCorrect": true
+          },
+          {
+            "text": "Par les frais d'inscription versés à chaque rentrée scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Par les subventions accordées par l'Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est le principe de solidarité nationale : l'effort collectif des contribuables permet d'éduquer gratuitement la jeunesse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-058",
+        "shortId": "Q-16B031",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juridictionnel tranche les litiges entre les usagers et le service public ?",
+        "choices": [
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil de prud'hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La cour d'appel pénale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les tribunaux administratifs sont spécialisés dans le contentieux impliquant les administrations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-065",
+        "shortId": "Q-7E59F4",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un citoyen français ou étranger peut-il créer un syndicat ?",
+        "choices": [
+          {
+            "text": "Non, seuls les Français peuvent le faire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté syndicale est reconnue à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement s'il travaille dans une très grande usine",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement s'il a l'accord du Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit d'adhérer à un syndicat et d'en créer un est un droit fondamental pour tous les travailleurs résidant en France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-046",
+        "shortId": "Q-8DF995",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la « libre administration des collectivités territoriales » ?",
+        "choices": [
+          {
+            "text": "Qu'elles ne sont pas soumises aux lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elles gèrent leurs propres affaires par des conseils élus",
+            "isCorrect": true
+          },
+          {
+            "text": "Qu'elles peuvent avoir leur propre armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elles ne paient aucun impôt à l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les mairies, départements et régions s'administrent librement sous le contrôle de légalité exercé par le Préfet."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-001",
+        "shortId": "Q-42DAB6",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel organe est spécifiquement chargé de conseiller le Gouvernement sur la rédaction des projets de loi ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil supérieur de la magistrature",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil d'État a une fonction de conseil juridique : il examine les projets de loi du Gouvernement avant qu'ils ne soient déposés au Parlement pour s'assurer de leur régularité juridique."
+      }
+    }
+  ]
+}

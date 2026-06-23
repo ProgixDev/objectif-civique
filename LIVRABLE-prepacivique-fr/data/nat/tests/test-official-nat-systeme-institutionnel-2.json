@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-systeme-institutionnel-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-official-022",
+        "shortId": "Q-44E835",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée du mandat des députés ?",
+        "choices": [
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le mandat de député dure 5 ans, sauf dissolution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-007",
+        "shortId": "Q-166AC1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+        "choices": [
+          {
+            "text": "Avoir au moins 21 ans et être domicilié dans la commune depuis un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir 18 ans révolus et être électeur de la commune ou y être inscrit au rôle des contributions directes",
+            "isCorrect": true
+          },
+          {
+            "text": "Être citoyen français ou de l'Union européenne et avoir obtenu 100 parrainages d'élus locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Être domicilié dans la commune et ne pas exercer de fonction publique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour être candidat aux élections municipales, il faut avoir au moins 18 ans et avoir une attache avec la commune : y être électeur inscrit ou y payer des impôts locaux (contributions directes). Les citoyens de l'Union européenne résidant en France peuvent également se présenter aux élections municipales. Aucune condition de durée de résidence ou de diplôme n'est imposée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-051",
+        "shortId": "Q-F1B66C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel traité concerne la construction de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de l'Atlantique Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pacte de Varsovie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Traité de Maastricht (1992) est fondateur : il a transformé la Communauté Européenne en 'Union Européenne' et a créé la citoyenneté européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-004",
+        "shortId": "Q-ED8567",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections municipales ?",
+        "choices": [
+          {
+            "text": "Le maire directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les citoyens élisent le conseil municipal. C'est ensuite ce conseil qui élit le maire en son sein."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-010",
+        "shortId": "Q-8B9B6F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut se présenter aux élections présidentielles ?",
+        "choices": [
+          {
+            "text": "Seuls les chefs de partis politiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout résident en France depuis 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout citoyen français ayant plus de 21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout citoyen français de plus de 18 ans ayant obtenu 500 parrainages d'élus",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il faut être français, majeur, jouir de ses droits civiques et surtout obtenir les 500 signatures d'élus."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-015",
+        "shortId": "Q-938DEA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment sont désignés les députés ?",
+        "choices": [
+          {
+            "text": "Élus au suffrage universel direct",
+            "isCorrect": true
+          },
+          {
+            "text": "Nommés par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Élus par les grands électeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les députés sont élus par les citoyens lors des élections législatives, au suffrage universel direct. L’élection se déroule selon un scrutin majoritaire à deux tours dans chaque circonscription."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-048",
+        "shortId": "Q-4D4162",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui siège au Parlement européen ?",
+        "choices": [
+          {
+            "text": "Les ministres des pays membres",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés européens (eurodéputés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Les juges européens",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement européen est composé de députés européens (eurodéputés), élus au suffrage universel direct par les citoyens des États membres pour un mandat de cinq ans. Ils représentent les citoyens de l'Union européenne et participent à l'adoption des lois européennes ainsi qu'au contrôle des autres institutions. Les ministres siègent au Conseil de l'UE, les chefs d'État au Conseil européen, et les juges à la Cour de justice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-005",
+        "shortId": "Q-A3B46E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'inscription sur les listes électorales est :",
+        "choices": [
+          {
+            "text": "Facultative et payante",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire pour pouvoir voter (automatique à 18 ans pour les jeunes recensés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Automatique pour tout le monde sans exception",
+            "isCorrect": false
+          },
+          {
+            "text": "Réservée aux propriétaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inscription est nécessaire. Elle est automatique pour les jeunes de 18 ans qui ont fait leur recensement, mais volontaire pour les autres (déménagement, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-013",
+        "shortId": "Q-353628",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, est-ce obligatoire de voter ?",
+        "choices": [
+          {
+            "text": "Oui, mais seulement pour les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit et un devoir moral, mais ce n'est pas obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, l'abstention est punie d'une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les élections européennes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement à la Belgique ou au Luxembourg, le vote n'est pas obligatoire en France (sauf pour les élections sénatoriales qui concernent les grands électeurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-011",
+        "shortId": "Q-906310",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales pour pouvoir voter aux prochaines élections politiques. Où peut-elle s'inscrire ?",
+        "choices": [
+          {
+            "text": "À la poste",
+            "isCorrect": false
+          },
+          {
+            "text": "Au tribunal d'instance",
+            "isCorrect": false
+          },
+          {
+            "text": "En se rendant à la mairie de son domicile",
+            "isCorrect": true
+          },
+          {
+            "text": "Au commissariat de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'inscription se fait principalement en mairie (ou par courrier/internet)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-046",
+        "shortId": "Q-3B8ED1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège de la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "Francfort",
+            "isCorrect": true
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Banque centrale européenne (BCE) a son siège à Francfort-sur-le-Main, en Allemagne. Elle est chargée de la politique monétaire de la zone euro et de la stabilité des prix. Strasbourg accueille le Parlement européen pour ses sessions plénières, Bruxelles est le siège de la Commission européenne et du Conseil, et Luxembourg abrite la Cour de justice de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-053",
+        "shortId": "Q-98E587",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'hymne de l'Union Européenne ?",
+        "choices": [
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la Joie",
+            "isCorrect": true
+          },
+          {
+            "text": "God Save the King",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-036",
+        "shortId": "Q-E862B0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment est organisé le découpage administratif de la France ?",
+        "choices": [
+          {
+            "text": "Provinces, Cantons, Paroisses",
+            "isCorrect": false
+          },
+          {
+            "text": "Arrondissements uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Communes, Départements, Régions",
+            "isCorrect": true
+          },
+          {
+            "text": "États, Comtés, Villes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Communes, départements et régions forment l'organisation territoriale de la République française, souvent qualifiée de 'mille-feuille administratif'."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-035",
+        "shortId": "Q-32805C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de départements en France ?",
+        "choices": [
+          {
+            "text": "96",
+            "isCorrect": false
+          },
+          {
+            "text": "101",
+            "isCorrect": true
+          },
+          {
+            "text": "110",
+            "isCorrect": false
+          },
+          {
+            "text": "22",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte 101 départements : 96 situés en métropole (sur le territoire européen) et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les départements constituent un niveau de collectivité territoriale entre la commune et la région."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-040",
+        "shortId": "Q-82421D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Contrôler la constitutionnalité des lois votées par le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Assister le gouvernement dans la rédaction des projets de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Représenter l'État dans chaque département et veiller à l'ordre public",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les droits des citoyens face à l'administration et lutter contre les discriminations",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une autorité indépendante chargée de protéger vos droits si vous êtes victime de discrimination ou de dysfonctionnement du service public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-020",
+        "shortId": "Q-9BDBF4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections législatives ?",
+        "choices": [
+          {
+            "text": "Les députés",
+            "isCorrect": true
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Lors des élections législatives, les citoyens élisent les députés. Ceux-ci siègent à l’Assemblée nationale et exercent le pouvoir législatif, notamment en votant la loi et en contrôlant l’action du Gouvernement. Les maires, conseillers régionaux et sénateurs sont élus lors d’autres scrutins."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-037",
+        "shortId": "Q-2796AC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui représente l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet représente l’État dans le département. Il est nommé par le Gouvernement en Conseil des ministres. Il veille à l’application des lois, dirige les services de l’État dans le département et assure le contrôle de légalité des actes des collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-033",
+        "shortId": "Q-1D042F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Conseil constitutionnel ?",
+        "choices": [
+          {
+            "text": "Contrôler la conformité des lois à la Constitution et veiller à la régularité des élections nationales",
+            "isCorrect": true
+          },
+          {
+            "text": "Contrôler l'action du Gouvernement et voter la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre des décisions administratives contre l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger la politique de la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil constitutionnel veille au respect de la Constitution. Il contrôle la conformité des lois et assure la régularité des élections nationales et des référendums. Le contrôle de l’action du Gouvernement relève du Parlement, le contentieux administratif relève du Conseil d’État, et la conduite de la politique de la Nation appartient au Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-044",
+        "shortId": "Q-30BD4F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a composé l'hymne de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Wagner",
+            "isCorrect": false
+          },
+          {
+            "text": "Mozart",
+            "isCorrect": false
+          },
+          {
+            "text": "Rouget de Lisle",
+            "isCorrect": false
+          },
+          {
+            "text": "Beethoven",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-026",
+        "shortId": "Q-A01DD4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-droits-et-devoirs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-standard-006",
+        "shortId": "Q-114032",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi le paiement des impôts est-il une obligation pour les citoyens ?",
+        "choices": [
+          {
+            "text": "Pour participer au financement des services publics et de la solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour financer exclusivement les organisations internationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour rembourser la dette publique contractée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Parce que c'est une taxe facultative pour les personnes riches",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'impôt permet à l'État et aux collectivités d'assurer l'éducation, la santé, la police et les infrastructures."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-034",
+        "shortId": "Q-6B875C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le 14 juillet commémore historiquement :",
+        "choices": [
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille et la Fête de la Fédération",
+            "isCorrect": true
+          },
+          {
+            "text": "Le sacre de l'Empereur Napoléon Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indépendance de la France vis-à-vis de l'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "C'est la fête nationale qui célèbre l'unité et la liberté de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-050",
+        "shortId": "Q-DC6F0B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel but est organisée la solidarité nationale (République sociale) ?",
+        "choices": [
+          {
+            "text": "Pour garantir l'égalité des chances à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour contrôler la vie privée des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour aider les plus démunis et protéger contre les risques",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour financer exclusivement les projets militaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'État social assure à chacun des conditions de vie dignes par la redistribution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-019",
+        "shortId": "Q-680D9B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de propriété permet de :",
+        "choices": [
+          {
+            "text": "Posséder des biens et en disposer librement dans le respect de la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Prendre les objets de ses voisins sans leur accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas payer de taxes sur ses revenus immobiliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Construire n'importe où sans autorisation de la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de propriété est un droit inviolable qui permet de jouir de ses biens personnels."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-001",
+        "shortId": "Q-BC2243",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1789 définit les droits naturels comme la liberté et la propriété ?",
+        "choices": [
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil des Français",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce texte fondamental adopté pendant la Révolution française pose les principes d'égalité et de liberté qui guident encore la Constitution actuelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-062",
+        "shortId": "Q-8BB4C9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle principal du Parlement (Assemblée nationale et Sénat) ?",
+        "choices": [
+          {
+            "text": "Diriger la police et l'armée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les juges des tribunaux de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer le budget personnel du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler le Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement détient le pouvoir législatif et représente les citoyens et les territoires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-054",
+        "shortId": "Q-4E9429",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le numéro 3919 est réservé à l'aide pour :",
+        "choices": [
+          {
+            "text": "Les urgences liées au gaz et à l'électricité",
+            "isCorrect": false
+          },
+          {
+            "text": "Les renseignements administratifs de la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Les réservations de transports publics nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les femmes victimes de violences",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le 3919 est le numéro national pour écouter et orienter les femmes victimes de violences."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-011",
+        "shortId": "Q-E8C09B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la langue de la République d'après la Constitution ?",
+        "choices": [
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "L'anglais et le français",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les langues régionales à égalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a pas de langue officielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 2 de la Constitution stipule que la langue de la République est le français, ciment de l'unité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-033",
+        "shortId": "Q-7A72C3",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel symbole de la République porte un bonnet phrygien ?",
+        "choices": [
+          {
+            "text": "La statue de la Liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est l'allégorie de la République, présente dans toutes les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-059",
+        "shortId": "Q-75708D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la date de la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1958",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle a été voulue par le général de Gaulle pour stabiliser les institutions françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-025",
+        "shortId": "Q-9A986B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits politiques spécifiques aux citoyens de nationalité française ?",
+        "choices": [
+          {
+            "text": "Le droit de travailler et de circuler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote et d'être élu aux élections nationales",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se marier et d'avoir des enfants",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'accéder aux soins hospitaliers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté liée à la nationalité permet de participer à l'exercice de la souveraineté nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-040",
+        "shortId": "Q-48D469",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un enfant né à l'étranger de parents français, quelle démarche est nécessaire ?",
+        "choices": [
+          {
+            "text": "Un test de langue française immédiat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de naturalisation simplifiée",
+            "isCorrect": false
+          },
+          {
+            "text": "La transcription de l'acte de naissance à l'état civil",
+            "isCorrect": true
+          },
+          {
+            "text": "L'inscription obligatoire à l'armée française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La transcription permet d'enregistrer la naissance dans les registres français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-030",
+        "shortId": "Q-B34307",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'égalité entre les femmes et les hommes s'applique à :",
+        "choices": [
+          {
+            "text": "Principalement dans le domaine de l'éducation et de la santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les domaines (travail, politique, famille)",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement au montant du salaire minimum",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le secteur public mais pas dans le secteur privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi favorise l'égal accès aux mandats électoraux et aux responsabilités professionnelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-061",
+        "shortId": "Q-09E029",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment est désigné le maire d'une commune ?",
+        "choices": [
+          {
+            "text": "Il est nommé directement par le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est choisi par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par les députés du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est élu par le conseil municipal",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les citoyens élisent les conseillers municipaux, qui élisent ensuite le maire parmi eux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-007",
+        "shortId": "Q-4457C2",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le principe de la présomption d'innocence ?",
+        "choices": [
+          {
+            "text": "L'accusé est considéré comme innocent tant qu'il n'est pas jugé coupable",
+            "isCorrect": true
+          },
+          {
+            "text": "La police décide seule de qui est coupable avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accusé doit obligatoirement prouver qu'il n'a rien fait",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'est pas nécessaire d'avoir un procès en cas de flagrant délit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La présomption d'innocence est un principe fondamental de justice : c'est à l'accusation d'apporter la preuve de la faute devant un tribunal indépendant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-043",
+        "shortId": "Q-5B1A6C",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les châtiments corporels sur les enfants (gifles, fessées) sont :",
+        "choices": [
+          {
+            "text": "Conseillés par les médecins",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisés si l'enfant désobéit",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdits par la loi pour protéger l'intégrité de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Tolérés si les parents sont d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'éducation doit se faire sans violence, dans le respect des droits de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-021",
+        "shortId": "Q-381DAE",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle loi célèbre de 1905 définit la laïcité française ?",
+        "choices": [
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur le droit de vote des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'instruction obligatoire à 3 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi créant la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi établit que la République ne reconnaît ni ne subventionne aucun culte, tout en garantissant la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-045",
+        "shortId": "Q-8FED6B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le consentement sexuel est défini comme :",
+        "choices": [
+          {
+            "text": "Une absence de refus explicite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation liée au mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord libre, mutuel et révocable",
+            "isCorrect": true
+          },
+          {
+            "text": "La décision prise par le chef de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Sans consentement libre, l'acte est qualifié d'agression ou de viol par la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-046",
+        "shortId": "Q-24B98B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le numéro d'appel d'urgence national pour l'enfance en danger ?",
+        "choices": [
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "17",
+            "isCorrect": false
+          },
+          {
+            "text": "119",
+            "isCorrect": true
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 119 est gratuit, anonyme et ouvert 24h/24 pour protéger les enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-standard-031",
+        "shortId": "Q-4824D1",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que risque une personne en cas de non-assistance à personne en danger ?",
+        "choices": [
+          {
+            "text": "La perte temporaire de son permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Des poursuites pénales et une possible amende ou prison",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction de circuler dans la commune pendant un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Un avertissement officiel inscrit au casier judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Porter secours ou alerter est une obligation légale quand cela ne présente pas de danger pour soi."
+      }
+    }
+  ]
+}

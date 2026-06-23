@@ -1,0 +1,485 @@
+{
+  "slug": "test-official-csp-vivre-en-france-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 14,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-official-011",
+        "shortId": "Q-468294",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée légale du temps de travail par semaine en France ?",
+        "choices": [
+          {
+            "text": "35 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "37 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "39 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "40 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La durée légale du travail pour un salarié à temps complet est de 35 heures par semaine. Au-delà, il peut s'agir d'heures supplémentaires donnant lieu à une contrepartie selon les règles applicables."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-001",
+        "shortId": "Q-553D7A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le SMIC ?",
+        "choices": [
+          {
+            "text": "Une allocation versée aux salariés à faibles revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salaire minimum légal en dessous duquel un employeur ne peut pas rémunérer un salarié",
+            "isCorrect": true
+          },
+          {
+            "text": "Le salaire moyen versé dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de salaire facultatif fixé par l'entreprise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le SMIC est le salaire minimum légal en France. Un employeur ne peut pas rémunérer un salarié en dessous de ce seuil, sous réserve des règles particulières prévues pour certains contrats ou certaines situations."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-016",
+        "shortId": "Q-291098",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "choices": [
+          {
+            "text": "Au service des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement au professionnel de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Assurance maladie, puis à la mutuelle si on en a une",
+            "isCorrect": true
+          },
+          {
+            "text": "À la mairie ou à la préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le remboursement de base des soins relève de l'Assurance maladie. Si la personne dispose d'une complémentaire santé, la mutuelle peut ensuite prendre en charge tout ou partie du reste à payer selon le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-030",
+        "shortId": "Q-7C881B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les enfants qui ne parlent pas français :",
+        "choices": [
+          {
+            "text": "Ont droit à la scolarisation et peuvent bénéficier d'un accompagnement pour apprendre le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Doivent attendre de maîtriser le français avant d'être scolarisés",
+            "isCorrect": false
+          },
+          {
+            "text": "Doivent être orientés exclusivement vers des structures séparées",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne peuvent être admis à l'école publique qu'après un test de français",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tous les enfants ont droit à la scolarisation, même s'ils ne parlent pas encore français. Des dispositifs d'accompagnement existent pour les élèves allophones afin de faciliter l'apprentissage du français et l'intégration scolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-017",
+        "shortId": "Q-96AF48",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Tous les résidents en France ont accès aux soins de santé, même sans moyens financiers",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les citoyens français peuvent accéder aux soins",
+            "isCorrect": false
+          },
+          {
+            "text": "L'accès aux soins dépend d'abord du niveau de revenu",
+            "isCorrect": false
+          },
+          {
+            "text": "Les soins sont réservés aux personnes qui cotisent depuis plusieurs années",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'accès aux soins est un droit garanti en France. Tous les résidents, même sans moyens financiers, peuvent accéder aux soins essentiels. C'est le rôle du système de santé public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-028",
+        "shortId": "Q-7CC912",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+        "choices": [
+          {
+            "text": "Directement au lycée",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'université",
+            "isCorrect": false
+          },
+          {
+            "text": "Au collège, puis au lycée",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans un établissement secondaire unique sans distinction de cycles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Après l'école élémentaire, les élèves poursuivent d'abord leur scolarité au collège, puis au lycée. Le collège et le lycée correspondent à deux étapes distinctes de l'enseignement secondaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-027",
+        "shortId": "Q-DB3DF4",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel diplôme obtient-on à la fin du lycée ?",
+        "choices": [
+          {
+            "text": "Le diplôme national du brevet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le baccalauréat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le brevet de technicien supérieur (BTS)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat d'aptitude professionnelle (CAP), quel que soit le parcours suivi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "À la fin du lycée, le diplôme national de référence est le baccalauréat. Le brevet est obtenu à la fin du collège, tandis que le BTS et le CAP correspondent à d'autres parcours ou à d'autres étapes de formation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-022",
+        "shortId": "Q-C2810C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À prouver son affiliation à l'Assurance maladie et à faciliter le remboursement des soins",
+            "isCorrect": true
+          },
+          {
+            "text": "À servir de pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À remplacer une ordonnance médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "À garantir la gratuité de tous les soins",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La carte Vitale permet d'identifier l'assuré auprès de l'Assurance maladie et de transmettre plus facilement les informations nécessaires au remboursement. Elle n'a pas la valeur générale d'une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-019",
+        "shortId": "Q-EA564C",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du médecin traitant ?",
+        "choices": [
+          {
+            "text": "Délivrer uniquement des arrêts de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Intervenir seulement en cas d'urgence vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer le suivi du patient et coordonner son parcours de soins",
+            "isCorrect": true
+          },
+          {
+            "text": "Remplacer tous les médecins spécialistes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le médecin traitant suit le patient dans la durée, centralise les informations utiles et l'oriente vers des spécialistes lorsque c'est nécessaire. Il joue donc un rôle de coordination dans le parcours de soins."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-025",
+        "shortId": "Q-DCA92A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'autorité parentale prévoit l'obligation :",
+        "choices": [
+          {
+            "text": "De financer tous les loisirs choisis par l'enfant jusqu'à sa majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "D'assurer sa sécurité, sa santé, son éducation et son développement dans le respect de sa personne",
+            "isCorrect": true
+          },
+          {
+            "text": "De choisir seul son orientation professionnelle future",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'inscrire obligatoirement dans l'enseignement privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs exercés dans l'intérêt de l'enfant. Elle oblige notamment les parents à protéger sa sécurité et sa santé, à assurer son éducation et à veiller à son développement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-018",
+        "shortId": "Q-019728",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?",
+        "choices": [
+          {
+            "text": "Directement aux urgences de l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "À la pharmacie uniquement, sans consulter de médecin",
+            "isCorrect": false
+          },
+          {
+            "text": "Au médecin traitant, ou à défaut à un autre médecin généraliste",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de problème de santé non urgent, il faut d'abord consulter son médecin traitant ou, si l'on n'en a pas, un autre médecin généraliste. Les urgences hospitalières sont réservées aux situations graves ou à danger immédiat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-021",
+        "shortId": "Q-BE4281",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'objectif des vaccinations obligatoires ?",
+        "choices": [
+          {
+            "text": "Réduire avant tout les dépenses publiques de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "Permettre l'inscription scolaire, qui constitue leur objectif principal",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniformiser les calendriers sanitaires européens",
+            "isCorrect": false
+          },
+          {
+            "text": "Protéger la santé individuelle et collective en prévenant les maladies graves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les vaccinations obligatoires ont pour but de protéger la personne vaccinée contre des maladies graves et de limiter leur circulation dans la population. Elles participent donc à la protection individuelle et collective."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-026",
+        "shortId": "Q-397D1F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour qui l'école est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "Pour tous les enfants résidant en France, français et étrangers, de 3 à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les enfants de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants de plus de 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement pour les enfants dont les parents travaillent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'instruction est obligatoire pour tous les enfants résidant en France de 3 à 16 ans, qu'ils soient français ou étrangers. La nationalité ne conditionne donc pas cette obligation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-official-023",
+        "shortId": "Q-BA9E72",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert une mutuelle santé ?",
+        "choices": [
+          {
+            "text": "À remplacer l'Assurance maladie obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer uniquement les soins non prescrits",
+            "isCorrect": false
+          },
+          {
+            "text": "À compléter les remboursements de l'Assurance maladie selon le contrat",
+            "isCorrect": true
+          },
+          {
+            "text": "À rendre automatiquement tous les soins gratuits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une mutuelle santé est une complémentaire: elle rembourse tout ou partie des frais restant après l'intervention de l'Assurance maladie, selon les garanties du contrat. Elle complète donc le régime obligatoire sans le remplacer."
+      }
+    }
+  ]
+}

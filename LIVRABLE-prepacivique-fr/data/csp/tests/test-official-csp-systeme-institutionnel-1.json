@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-csp-systeme-institutionnel-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-institutions-official-013",
+        "shortId": "Q-8FA1E5",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand sont élus les sénateurs ?",
+        "choices": [
+          {
+            "text": "Le Sénat est renouvelé par moitié tous les 3 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 5 ans au suffrage universel direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 6 ans en renouvellement intégral",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans après dissolution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les sénateurs ont un mandat de six ans, mais l'élection a lieu par renouvellement de moitié tous les trois ans. La bonne réponse porte donc sur la périodicité effective du scrutin sénatorial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-015",
+        "shortId": "Q-732B42",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections présidentielles ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Lors de l’élection présidentielle, les citoyens élisent le Président de la République au suffrage universel direct pour un mandat de cinq ans. Cette élection, organisée en principe tous les cinq ans au scrutin majoritaire à deux tours, est prévue par la Constitution de la Ve République. Le Premier ministre est nommé par le Président, tandis que les présidents des assemblées sont élus par leurs pairs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-009",
+        "shortId": "Q-3393B8",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'autorité judiciaire est exercée par :",
+        "choices": [
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges et les tribunaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les tribunaux et les magistrats rendent la justice au nom du peuple français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-038",
+        "shortId": "Q-C7DF83",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le régime politique de la France aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Un régime présidentiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime semi-présidentiel",
+            "isCorrect": true
+          },
+          {
+            "text": "Une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est une République dotée d’un régime semi-présidentiel sous la Constitution du 4 octobre 1958 (Ve République). Le Président de la République est élu au suffrage universel direct et dispose de pouvoirs propres importants, tandis que le Gouvernement est responsable devant le Parlement. Ce système combine des éléments du régime présidentiel et du régime parlementaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-028",
+        "shortId": "Q-A97EE9",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-034",
+        "shortId": "Q-4BD47A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui dirige la commune ?",
+        "choices": [
+          {
+            "text": "Le maire, élu par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Le préfet, nommé pour administrer la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président du conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre par délégation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La direction politique et administrative de la commune relève du maire, élu par le conseil municipal. Le préfet représente l'État dans le département, mais ne dirige pas la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-017",
+        "shortId": "Q-44B5C6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps est élu le président de la République française ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis le référendum de 2000, le mandat présidentiel dure 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-005",
+        "shortId": "Q-6268CB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit de ne pas respecter une loi ?",
+        "choices": [
+          {
+            "text": "Oui, si elle n’est pas conforme à ses convictions personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle semble injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une loi en vigueur s’impose à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle a été votée il y a longtemps",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non. Toute loi régulièrement adoptée et entrée en vigueur s’impose à tous. En France, le principe « nul n’est censé ignorer la loi » signifie que chacun doit la respecter, quelles que soient ses opinions personnelles. Le respect de la loi garantit l’égalité devant la loi et le bon fonctionnement de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-027",
+        "shortId": "Q-AB0BFC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui possède le pouvoir législatif ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement par voie réglementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pouvoir de faire la loi appartient au Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-019",
+        "shortId": "Q-59A1FE",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps sont élus les sénateurs ?",
+        "choices": [
+          {
+            "text": "9 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans (renouvellement par moitié tous les 3 ans). Les députés sont élus pour 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-004",
+        "shortId": "Q-FCB732",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les dirigeants sont élus par les citoyens dans :",
+        "choices": [
+          {
+            "text": "Une dictature",
+            "isCorrect": false
+          },
+          {
+            "text": "Une oligarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Une monarchie absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Une démocratie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Dans une démocratie comme la France, la souveraineté appartient au peuple qui l'exerce par ses représentants élus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-025",
+        "shortId": "Q-0214D0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle des députés ?",
+        "choices": [
+          {
+            "text": "Nommer les préfets",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice et sanctionner les infractions",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger les services municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler l'action du Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés siègent à l’Assemblée nationale. Ils examinent, amendent et votent les lois. Ils contrôlent également l’action du Gouvernement par différents moyens (questions, commissions d’enquête, vote de la motion de censure). Ils n’exercent ni le pouvoir exécutif ni le pouvoir judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-036",
+        "shortId": "Q-398BDD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est le préfet ?",
+        "choices": [
+          {
+            "text": "Le chef des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge suprême du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président du Conseil Départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le représentant de l'État dans le département ou la région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet est un haut fonctionnaire nommé par le Président. Il représente l'État (le gouvernement) sur le territoire, il ne faut pas le confondre avec les élus locaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-023",
+        "shortId": "Q-BE6B9E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie « suffrage universel » ?",
+        "choices": [
+          {
+            "text": "Le vote est réservé aux personnes payant des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens majeurs ont le droit de vote sans distinction de sexe, de richesse ou d'origine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote est public et contrôlé par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote est obligatoire pour tous les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage universel signifie que tous les citoyens majeurs disposent du droit de vote, sans condition de richesse, de sexe ou d'origine. En France, le suffrage universel masculin a été instauré en 1848 et le droit de vote des femmes en 1944. Il constitue un principe fondamental de la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-002",
+        "shortId": "Q-EC7D48",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le Parlement est composé :",
+        "choices": [
+          {
+            "text": "De l'Assemblée nationale et du Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Du Gouvernement et de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Du Sénat et du Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement français est bicaméral, composé de l'Assemblée nationale (députés) et du Sénat (sénateurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-037",
+        "shortId": "Q-F92D62",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Parlement ?",
+        "choices": [
+          {
+            "text": "Rendre la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Gouverner le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter la loi et contrôler l'action du Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement, composé de l’Assemblée nationale et du Sénat, exerce le pouvoir législatif. Il vote la loi, contrôle l’action du Gouvernement et évalue les politiques publiques. Il ne rend pas la justice (pouvoir judiciaire) et ne dirige pas l’exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-008",
+        "shortId": "Q-7CA4C7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pouvoir détient un juge ? Le pouvoir :",
+        "choices": [
+          {
+            "text": "Exécutif",
+            "isCorrect": false
+          },
+          {
+            "text": "Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juge appartient à l'autorité judiciaire, distincte des fonctions législative et exécutive. Cette séparation garantit l'indépendance de la justice dans l'application du droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-045",
+        "shortId": "Q-E0867D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui élit les députés européens ?",
+        "choices": [
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens des pays de l'Union européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Les parlements nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est une élection au suffrage universel direct dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-006",
+        "shortId": "Q-102275",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui doit respecter la loi ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes majeures",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens, y compris les élus et le Président",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement les citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les personnes résidant en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le principe d’égalité devant la loi signifie que la loi s’impose à tous, sans distinction. Nul n’est au-dessus des lois, y compris les élus et le Président de la République. Ce principe est fondamental dans un État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-024",
+        "shortId": "Q-26E758",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant les partis politiques, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Ils sont dirigés par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils concourent à l'expression du suffrage",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils ne peuvent présenter des candidats qu'aux élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont autorisés uniquement pendant les campagnes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 4 de la Constitution dispose que les partis et groupements politiques concourent à l'expression du suffrage. Ils sont libres de se constituer et d'agir, sous réserve du respect des principes démocratiques."
+      }
+    }
+  ]
+}

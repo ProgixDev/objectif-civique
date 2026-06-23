@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-vivre-en-france-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-vivre-official-037",
+        "shortId": "Q-B7F88E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "15 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "17 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'instruction est obligatoire jusqu'à 16 ans révolus. Entre 16 et 18 ans, il existe une obligation de formation, mais cela ne prolonge pas l'instruction obligatoire au sens strict."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-019",
+        "shortId": "Q-F25F1F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le tiers payant ?",
+        "choices": [
+          {
+            "text": "Le paiement direct des soins par l'employeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de ne régler qu'un tiers du tarif de la consultation",
+            "isCorrect": false
+          },
+          {
+            "text": "La dispense d'avance des frais couverts par l'Assurance maladie et parfois la mutuelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Le paiement fractionné des soins en trois échéances",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le tiers payant permet au patient de ne pas avancer les sommes prises en charge par l'Assurance maladie et, selon les cas, par la mutuelle. Il ne s'agit ni d'une réduction du tarif ni d'un paiement échelonné."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-033",
+        "shortId": "Q-5DF9F1",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'instruction des enfants est obligatoire de :",
+        "choices": [
+          {
+            "text": "6 ans à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans à 16 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis 2019, l'instruction est obligatoire dès l'âge de 3 ans et jusqu'à 16 ans révolus. Cette obligation concerne tous les enfants résidant en France, quelle que soit leur nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-041",
+        "shortId": "Q-024EE9",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+        "choices": [
+          {
+            "text": "Ils doivent attendre de parler français avant d'aller à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont scolarisés avec un accompagnement spécifique, notamment en UPE2A, pour apprendre le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils suivent un enseignement uniquement en langue étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils ne sont pas soumis à l'obligation d'instruction",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les enfants allophones ont droit à la scolarisation. Ils peuvent bénéficier d'un accompagnement spécifique, notamment en UPE2A, afin d'apprendre le français tout en étant progressivement intégrés à la classe ordinaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-025",
+        "shortId": "Q-63AF4B",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée légale du temps de travail par semaine ?",
+        "choices": [
+          {
+            "text": "32 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "35 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "37 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "39 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La durée légale du travail à temps plein est fixée à 35 heures par semaine. Au-delà, il peut s'agir d'heures supplémentaires ouvrant droit à une contrepartie selon les règles applicables."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-030",
+        "shortId": "Q-C14904",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+        "choices": [
+          {
+            "text": "Les conflits entre salarié et employeur (secteur privé)",
+            "isCorrect": true
+          },
+          {
+            "text": "Les infractions routières",
+            "isCorrect": false
+          },
+          {
+            "text": "Les crimes et délits pénaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les divorces et les questions d'autorité parentale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le conseil de prud'hommes règle les litiges individuels liés à l'exécution ou à la rupture du contrat de travail dans le secteur privé. Il ne traite ni les affaires pénales ni les conflits familiaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-017",
+        "shortId": "Q-C72B8F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quoi sert la carte Vitale ?",
+        "choices": [
+          {
+            "text": "À remplacer une pièce d'identité générale",
+            "isCorrect": false
+          },
+          {
+            "text": "À obtenir automatiquement la gratuité des médicaments",
+            "isCorrect": false
+          },
+          {
+            "text": "À accéder gratuitement aux transports publics",
+            "isCorrect": false
+          },
+          {
+            "text": "À transmettre les informations nécessaires au remboursement des soins",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La carte Vitale permet de transmettre plus facilement les informations utiles à l'Assurance maladie et d'accélérer le remboursement des soins. Elle ne remplace pas une pièce d'identité et ne rend pas les soins automatiquement gratuits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-001",
+        "shortId": "Q-737C2B",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où faut-il déclarer la naissance d'un enfant ?",
+        "choices": [
+          {
+            "text": "À la préfecture du département",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie du domicile des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie du lieu de naissance",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La naissance doit être déclarée à la mairie du lieu de naissance de l'enfant. Ce n'est ni la mairie du domicile des parents ni un autre organisme administratif qui établit l'acte de naissance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-031",
+        "shortId": "Q-71B4CA",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a le droit de se syndiquer ?",
+        "choices": [
+          {
+            "text": "Uniquement les salariés de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les agents publics titulaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout salarié, quelle que soit sa nationalité",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les représentants élus du personnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté syndicale est un droit fondamental reconnu aux salariés. L'adhésion à un syndicat n'est pas réservée à une nationalité, à un statut particulier ou à une fonction de représentation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-005",
+        "shortId": "Q-A8F37D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Si une machine à laver est cassée, il est possible de :",
+        "choices": [
+          {
+            "text": "La déposer en déchetterie ou la faire enlever par un service d'encombrants prévu localement",
+            "isCorrect": true
+          },
+          {
+            "text": "La déposer dans un conteneur de tri sélectif classique",
+            "isCorrect": false
+          },
+          {
+            "text": "La laisser dans le local à poubelles de l'immeuble en attendant le ramassage",
+            "isCorrect": false
+          },
+          {
+            "text": "La déposer sur le trottoir sans déclaration préalable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Une machine à laver est un déchet d'équipement électrique et électronique. Elle doit être déposée en déchetterie ou collectée selon les règles locales prévues pour les encombrants, et non abandonnée avec les déchets ordinaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-027",
+        "shortId": "Q-5FF698",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne étrangère, en situation régulière, peut créer son entreprise :",
+        "choices": [
+          {
+            "text": "Non, sauf si elle est mariée à une personne française",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la nationalité française est obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si son séjour et, le cas échéant, son autorisation de travail le permettent",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement dans certains secteurs d'activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une personne étrangère en situation régulière peut créer une entreprise en France, sous réserve de respecter les conditions liées à son titre de séjour et à l'exercice de l'activité envisagée. La nationalité française n'est pas exigée en tant que telle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-044",
+        "shortId": "Q-36B0B2",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce possible de punir physiquement ses enfants ?",
+        "choices": [
+          {
+            "text": "Oui, si la punition reste modérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les punitions physiques sont interdites",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, lorsqu'elles ont lieu dans le cadre familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elles sont décidées d'un commun accord entre les parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale doit s'exercer sans violences physiques ou psychologiques. La loi interdit donc les violences éducatives, même lorsqu'elles sont présentées comme un moyen d'éducation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-002",
+        "shortId": "Q-865170",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+        "choices": [
+          {
+            "text": "Abattre une cloison pour modifier la distribution du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Repeindre les murs et faire de petits aménagements non structurels",
+            "isCorrect": true
+          },
+          {
+            "text": "Sous-louer le logement à une autre personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Transformer le logement d'habitation en local professionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le locataire peut effectuer de simples aménagements, comme repeindre ou poser des équipements légers, sans demander d'autorisation. En revanche, les transformations importantes ou le changement d'usage du logement exigent l'accord du propriétaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-024",
+        "shortId": "Q-5B4E0B",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+        "choices": [
+          {
+            "text": "S'inscrire à France Travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Faire une demande à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre d'être contacté par un employeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir l'inspection du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription à France Travail permet d'accéder à l'accompagnement du service public de l'emploi, aux offres et, selon la situation, à certains droits comme l'indemnisation chômage. C'est la démarche administrative de référence pour débuter une recherche encadrée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-006",
+        "shortId": "Q-16B50F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+        "choices": [
+          {
+            "text": "Seulement pour le premier enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents sont mariés",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si les parents sont de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire pour tous les enfants",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La déclaration de naissance est obligatoire pour tout enfant né en France. Cette obligation ne dépend ni du mariage des parents, ni de leur nationalité, ni du rang de naissance de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-004",
+        "shortId": "Q-D0112D",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le stationnement sur une place réservée aux personnes handicapées :",
+        "choices": [
+          {
+            "text": "Est autorisé lorsqu'on transporte une personne handicapée, même sans présenter de carte de stationnement",
+            "isCorrect": false
+          },
+          {
+            "text": "Est autorisé la nuit si la place n'est pas occupée",
+            "isCorrect": false
+          },
+          {
+            "text": "Est interdit sauf si l'on possède la carte mobilité inclusion (CMI) stationnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Est autorisé pour un arrêt très bref",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ces places sont réservées aux titulaires de la carte mobilité inclusion mention stationnement, ou d'un titre équivalent reconnu. Sans ce droit, le stationnement y est interdit, même pour une courte durée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-034",
+        "shortId": "Q-F0A54A",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+        "choices": [
+          {
+            "text": "Une simple mise en garde administrative sans sanction pénale possible",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression automatique des allocations familiales comme seule sanction",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois d'emprisonnement et 7 500 euros d'amende",
+            "isCorrect": true
+          },
+          {
+            "text": "Une interdiction définitive d'exercer l'autorité parentale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le fait de soustraire un enfant à l'obligation d'instruction peut constituer un délit. La sanction pénale maximale indiquée par les textes est de 6 mois d'emprisonnement et 7 500 euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-023",
+        "shortId": "Q-861C7F",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le SMIC ?",
+        "choices": [
+          {
+            "text": "Le salaire plafond applicable dans les entreprises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salaire moyen observé dans les métiers qualifiés",
+            "isCorrect": false
+          },
+          {
+            "text": "Le salaire minimum légal en dessous duquel un salarié ne peut pas être rémunéré",
+            "isCorrect": true
+          },
+          {
+            "text": "Une allocation destinée aux jeunes actifs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le SMIC est le salaire minimum légal. Un employeur ne peut pas rémunérer un salarié en dessous de ce seuil, sauf règles particulières prévues pour certaines situations spécifiques."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-014",
+        "shortId": "Q-D47046",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+        "choices": [
+          {
+            "text": "La mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor public",
+            "isCorrect": false
+          },
+          {
+            "text": "La mutuelle uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assurance maladie (CPAM), puis éventuellement la mutuelle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La part obligatoire des remboursements relève de l'Assurance maladie, généralement via la CPAM pour le régime général. Si la personne a une complémentaire santé, la mutuelle peut ensuite compléter le remboursement selon le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-040",
+        "shortId": "Q-3D59DF",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En tant que parent d'élève, il est possible de :",
+        "choices": [
+          {
+            "text": "Choisir l'enseignant de son enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Modifier les programmes d'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "Fixer le calendrier des vacances scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Se présenter aux élections des représentants de parents d'élèves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les parents d'élèves peuvent participer à la vie de l'établissement en élisant leurs représentants et en se présentant à ces élections. En revanche, ils ne choisissent pas les enseignants et ne fixent pas eux-mêmes les programmes ou le calendrier scolaire."
+      }
+    }
+  ]
+}

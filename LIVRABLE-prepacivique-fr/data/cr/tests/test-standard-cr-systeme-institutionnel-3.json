@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-systeme-institutionnel-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-standard-058",
+        "shortId": "Q-968DD3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution réunit les chefs d'État ou de gouvernement des pays membres ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État ou de gouvernement des pays membres. C'est le sommet politique qui donne les impulsions majeures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-092",
+        "shortId": "Q-E7D797",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les règlements européens s'appliquent-ils directement dans les États membres ?",
+        "choices": [
+          {
+            "text": "Uniquement s'ils sont validés par le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut voter une loi nationale pour chaque règlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, dès leur entrée en vigueur",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Oui, un règlement européen est obligatoire dans tous ses éléments et directement applicable dans tout État membre dès sa publication, sans transposition."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-083",
+        "shortId": "Q-BB4DA7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Commission exécute-t-elle le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "Oui, elle gère et exécute le budget",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est chaque pays",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Commission exécute le budget voté par le Parlement et le Conseil. Elle gère les fonds structurels et les programmes (Erasmus, PAC...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-017",
+        "shortId": "Q-FD3E41",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui possède l'initiative de la loi en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre (Gouvernement) et les parlementaires (Députés et Sénateurs)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'initiative de la loi est partagée : elle appartient au Premier ministre (projets de loi) et aux parlementaires (propositions de loi). C'est un équilibre entre exécutif et législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-001",
+        "shortId": "Q-55B4CF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet de garantir que les pouvoirs publics n'agissent pas de manière arbitraire ?",
+        "choices": [
+          {
+            "text": "La centralisation administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": true
+          },
+          {
+            "text": "Le cumul des mandats",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté parlementaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des pouvoirs est un principe fondamental de la démocratie qui empêche la concentration du pouvoir entre les mains d'une seule personne ou autorité. Elle assure l'indépendance et l'équilibre entre les pouvoirs législatif, exécutif et judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-019",
+        "shortId": "Q-F75D16",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par un député ou un sénateur ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une motion",
+            "isCorrect": false
+          },
+          {
+            "text": "Un arrêté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une proposition de loi est un texte législatif déposé par un ou plusieurs parlementaires (députés ou sénateurs). Elle reflète l'initiative du pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-010",
+        "shortId": "Q-030CE1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les trois piliers du vote en France ?",
+        "choices": [
+          {
+            "text": "Secret ; Libre ; Personnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oral",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le vote en France repose sur trois principes majeurs : il est personnel (ou par procuration), libre (sans pression) et secret (garanti par l'isoloir)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-038",
+        "shortId": "Q-40CA23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la CECA (Communauté européenne du charbon et de l'acier) ?",
+        "choices": [
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1951",
+            "isCorrect": true
+          },
+          {
+            "text": "1989",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CECA (Communauté européenne du charbon et de l'acier) a été créée par le traité de Paris en 1951. C'est la première étape concrète de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-037",
+        "shortId": "Q-FB50DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des lycées ?",
+        "choices": [
+          {
+            "text": "La commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La région est propriétaire des lycées. Elle assure leur construction, leur équipement (y compris numérique) et le fonctionnement matériel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-054",
+        "shortId": "Q-71DBA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Sénat peut-il être dissous ?",
+        "choices": [
+          {
+            "text": "Oui, par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les sénateurs démissionnent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le Sénat ne peut pas être dissous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, le Sénat ne peut jamais être dissous. Il assure la permanence des institutions et la continuité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-067",
+        "shortId": "Q-74C270",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les députés européens sont-ils regroupés par nationalité ?",
+        "choices": [
+          {
+            "text": "Oui, par langue",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par ordre alphabétique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par affinités politiques (groupes politiques)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, ils sont assis par pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés ne siègent pas par pays, mais par affinités politiques dans des groupes transnationaux (ex: PPE, S&D, Renew...), favorisant une vision européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-069",
+        "shortId": "Q-3314CE",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Cour de justice de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "À Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour de justice de l'Union européenne (CJUE) siège à Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-095",
+        "shortId": "Q-F621C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont prises la plupart des décisions au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "À l'unanimité (pour tout)",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement par les pays fondateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "À la majorité qualifiée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité qualifiée (55% des États représentant 65% de la population) est devenue le mode de décision ordinaire pour éviter les blocages de l'unanimité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-004",
+        "shortId": "Q-4CC9F7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels texte l'État de droit doit-il toujours respecter ?",
+        "choices": [
+          {
+            "text": "La Constitution française ; La Déclaration des droits de l'homme et du citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "Le programme du parti au pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions des organisations internationales non ratifiées",
+            "isCorrect": false
+          },
+          {
+            "text": "Les coutumes régionales uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'État de droit repose sur le respect de la hiérarchie des normes, au sommet de laquelle se trouve la Constitution. Celle-ci intègre la Déclaration des droits de l'homme et du citoyen de 1789, socle des libertés fondamentales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-071",
+        "shortId": "Q-0E9334",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "1992",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": false
+          },
+          {
+            "text": "1998",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La BCE a été créée en 1998 et est devenue pleinement opérationnelle avec le lancement de l'Euro."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-086",
+        "shortId": "Q-ED2DD2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont deux des trois piliers de la « méthode communautaire » ?",
+        "choices": [
+          {
+            "text": "Codécision Parlement/Conseil ; Initiative de la Commission",
+            "isCorrect": true
+          },
+          {
+            "text": "Vote à l'unanimité obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Décision par le seul Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Vote par acclamation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La méthode communautaire repose sur le monopole de l'initiative de la Commission, la codécision du Parlement et du Conseil, et le vote à la majorité qualifiée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-091",
+        "shortId": "Q-41C2FF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La charte des droits fondamentaux de l'UE a-t-elle une valeur juridique ?",
+        "choices": [
+          {
+            "text": "Non, c'est juste un texte décoratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le Pape la signe",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, elle a la même valeur que les traités",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, la Charte des droits fondamentaux a acquis la même valeur juridique que les traités avec le traité de Lisbonne (2009). Elle s'impose aux institutions et aux États."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-081",
+        "shortId": "Q-A3A663",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Assemblée européenne est-elle devenue le Parlement européen ?",
+        "choices": [
+          {
+            "text": "1979",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1986",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Assemblée parlementaire européenne a pris le nom de Parlement européen en 1962 pour affirmer son rôle politique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-077",
+        "shortId": "Q-EB1BA4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vote-t-on pour une personne ou pour une liste aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Pour une personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour un président",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour une liste",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour un maire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "On vote pour une liste bloquée de candidats. Les sièges sont répartis entre les listes selon leur score (au-dessus de 5%)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-101",
+        "shortId": "Q-6FD46D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui élit les Sénateurs ?",
+        "choices": [
+          {
+            "text": "Les citoyens directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les grands électeurs (députés, conseillers régionaux, départementaux, municipaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat représente les collectivités territoriales. Il est élu au suffrage universel indirect par environ 162 000 grands électeurs, principalement des élus locaux."
+      }
+    }
+  ]
+}

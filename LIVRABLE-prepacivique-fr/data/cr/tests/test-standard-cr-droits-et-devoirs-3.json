@@ -1,0 +1,927 @@
+{
+  "slug": "test-standard-cr-droits-et-devoirs-3",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 27,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-standard-010",
+        "shortId": "Q-8E4DE1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la loi du 21 février 2022, quelles sont les conditions d'âge pour une adoption par une personne seule ou un couple ?",
+        "choices": [
+          {
+            "text": "Avoir au moins 35 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir au moins 26 ans ou justifier de 1 an de vie commune",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi a abaissé l'âge requis pour adopter de 28 à 26 ans. Pour les couples (mariés, pacsés ou concubins), la durée de vie commune exigée est passée de 2 ans à 1 an."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-030",
+        "shortId": "Q-9F9BF8",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Au sens du Code pénal, lequel de ces actes constitue l'infraction de proxénétisme ?",
+        "choices": [
+          {
+            "text": "Le fait de tirer profit de la prostitution d'autrui ou de la favoriser",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait d'avoir des rapports sexuels tarifés avec une personne majeure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de se prostituer de manière indépendante dans son propre logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait de militer pour la reconnaissance du travail du sexe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le proxénétisme inclut le fait d'aider, d'assister ou de protéger la prostitution d'autrui, d'en tirer profit ou de recruter des personnes en vue de la prostitution. C'est un crime ou un délit selon les circonstances."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-048",
+        "shortId": "Q-2F31BF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la mission principale des tribunaux administratifs ?",
+        "choices": [
+          {
+            "text": "Juger les litiges entre commerçants et banques",
+            "isCorrect": false
+          },
+          {
+            "text": "Trancher les conflits liés aux contrats de travail privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Prononcer des peines de prison pour les délits financiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Régler les litiges entre les citoyens et les administrations publiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France connaît une dualité juridictionnelle. L'ordre administratif est compétent dès qu'une personne publique (État, commune) est en cause ou qu'une décision administrative est contestée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-013",
+        "shortId": "Q-84D686",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel principe constitutionnel se rattache le devoir de porter secours à autrui et de contribuer aux charges publiques ?",
+        "choices": [
+          {
+            "text": "Le principe de liberté individuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de subsidiarité territoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de fraternité et de solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de hiérarchie des normes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité, devise de la République, a acquis une valeur constitutionnelle (décision du Conseil constitutionnel de 2018). Elle fonde le devoir de solidarité, notamment à travers l'impôt et l'assistance aux personnes vulnérables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-003",
+        "shortId": "Q-C6AA9F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Parmi les libertés suivantes, laquelle est définie comme une liberté « physique » de première génération ?",
+        "choices": [
+          {
+            "text": "Le droit au repos et aux loisirs",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'aller et venir",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'obtenir un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection du patrimoine génétique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'aller et venir est une composante de la liberté individuelle de première génération. Elle protège l'individu contre les arrestations ou détentions arbitraires et garantit le droit de circuler librement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-053",
+        "shortId": "Q-5034E3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Contrat d'Intégration Républicaine (CIR) signé par les étrangers admis pour la première fois au séjour contient un engagement à :",
+        "choices": [
+          {
+            "text": "Respecter les principes et valeurs de la société française et de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Renoncer définitivement à leur nationalité d'origine dans les deux ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Exercer obligatoirement une profession dans un secteur en tension",
+            "isCorrect": false
+          },
+          {
+            "text": "Adhérer à un parti politique représenté au Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le CIR est un socle de l'intégration. L'étranger s'engage à suivre des formations (civique, linguistique) et à respecter les valeurs fondamentales comme la laïcité et l'égalité femmes-hommes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-060",
+        "shortId": "Q-D20133",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Déclaration des Droits de l'Homme et du Citoyen de 1789 dispose que la souveraineté :",
+        "choices": [
+          {
+            "text": "Réside essentiellement dans la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "Appartient au Président de la République par délégation",
+            "isCorrect": false
+          },
+          {
+            "text": "Est détenue par les représentants élus exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Découle du droit divin accordé aux gouvernants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 3 de la DDHC marque la fin de la monarchie absolue en affirmant que le principe de toute souveraineté réside dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-095",
+        "shortId": "Q-6B42DA",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe régit l'exercice de l'autorité parentale en cas de séparation des parents ?",
+        "choices": [
+          {
+            "text": "Le parent ayant le revenu le plus élevé décide seul de l'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité parentale reste conjointe sauf décision contraire d'un juge",
+            "isCorrect": true
+          },
+          {
+            "text": "Le parent qui n'a pas la garde perd tout droit de regard sur la scolarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Les grands-parents paternels deviennent les tuteurs légaux par défaut",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation est sans incidence sur les règles de dévolution de l'autorité parentale. Les deux parents doivent continuer à prendre ensemble les décisions importantes (santé, religion, scolarité) pour l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-045",
+        "shortId": "Q-597E3A",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'élection des sénateurs en France se distingue de celle des députés car elle se fait :",
+        "choices": [
+          {
+            "text": "Au suffrage universel direct par tous les citoyens inscrits",
+            "isCorrect": false
+          },
+          {
+            "text": "Par un collège électoral composé uniquement de ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel indirect par des grands électeurs (élus locaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Par tirage au sort parmi les citoyens âgés de plus de 40 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus par environ 160 000 grands électeurs (députés, conseillers régionaux, départementaux et surtout délégués des conseils municipaux), ce qui assure la représentation des territoires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-080",
+        "shortId": "Q-FADD52",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Pacte Civil de Solidarité (PACS) diffère du mariage notamment parce que :",
+        "choices": [
+          {
+            "text": "Il est conclu par une déclaration conjointe sans cérémonie républicaine obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Il interdit aux partenaires de posséder des biens en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est réservé exclusivement aux couples de même sexe",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne crée aucune obligation d'aide matérielle entre les partenaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le PACS est un contrat enregistré en mairie ou chez un notaire. Contrairement au mariage, il n'y a pas de célébration publique obligatoire, et sa dissolution est beaucoup plus simple et rapide."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-007",
+        "shortId": "Q-859C83",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière d'Interruption Volontaire de Grossesse (IVG) pour une mineure non émancipée, quelle est la règle concernant le secret ?",
+        "choices": [
+          {
+            "text": "L'accord écrit d'au moins un parent est juridiquement indispensable",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret peut être gardé vis-à-vis des parents si la mineure est accompagnée d'un majeur de son choix",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin est obligé de signaler l'acte au procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "L'acte doit obligatoirement être validé par un juge des contentieux de la protection",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi permet à une mineure de demander le secret sur son IVG. Si elle souhaite que ses parents ne soient pas informés, elle doit être accompagnée dans sa démarche par une personne majeure de son choix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-017",
+        "shortId": "Q-709F61",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas une personne peut-elle saisir le Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Pour contester une amende de stationnement déjà payée",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour obtenir une aide financière d'urgence du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour dénoncer une discrimination ou un non-respect de la déontologie par des forces de sécurité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour demander l'annulation d'un mariage civil jugé non valide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits a des compétences larges : lutte contre les discriminations, protection des droits de l'enfant, respect de la déontologie par les professionnels de la sécurité et défense des droits des usagers des services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-042",
+        "shortId": "Q-F0CDCC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunit l'Assemblée nationale pour délibérer et voter les lois ?",
+        "choices": [
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais Bourbon",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale siège au Palais Bourbon. Le Palais du Luxembourg est le siège du Sénat, Matignon celui du Premier ministre et l'Élysée celui du Président."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-004",
+        "shortId": "Q-56E1D2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe distingue les droits sociaux (2ème génération) des libertés civiles ?",
+        "choices": [
+          {
+            "text": "Ils sont absolus et ne peuvent jamais être limités par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils ne s'appliquent qu'aux salariés du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils exigent une prestation positive de l'État (droits-créances)",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils sont inscrits exclusivement dans le Code civil de 1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Contrairement aux libertés civiles qui demandent à l'État de ne pas intervenir (abstention), les droits sociaux obligent l'État à agir (fournir des services, des aides) pour garantir l'accès à la santé, à l'éducation ou à la protection sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-002",
+        "shortId": "Q-EE7C1E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans la classification doctrinale des droits de l'homme, à quelle « génération » de droits rattache-t-on les droits de solidarité tels que le droit à la paix ou au développement ?",
+        "choices": [
+          {
+            "text": "La première génération (libertés-autonomie)",
+            "isCorrect": false
+          },
+          {
+            "text": "La deuxième génération (droits-créances)",
+            "isCorrect": false
+          },
+          {
+            "text": "La troisième génération (droits de solidarité)",
+            "isCorrect": true
+          },
+          {
+            "text": "La quatrième génération (droits numériques)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les droits de troisième génération concernent des domaines où l'action individuelle ne suffit pas et nécessite une coopération collective ou internationale, comme l'environnement, la paix ou le patrimoine commun de l'humanité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-005",
+        "shortId": "Q-93F0DF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte à valeur constitutionnelle consacre spécifiquement les droits de troisième génération en France ?",
+        "choices": [
+          {
+            "text": "Le Code de l'action sociale et des familles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement de 2004",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Charte de l'environnement de 2004 a introduit dans le bloc de constitutionnalité des droits et devoirs liés à la préservation de la nature, illustrant l'émergence des droits de solidarité envers les générations futures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-063",
+        "shortId": "Q-03F72E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 9 décembre 1905 concernant la séparation des Églises et de l'État dispose que :",
+        "choices": [
+          {
+            "text": "Toute pratique religieuse est interdite dans le domaine privé",
+            "isCorrect": false
+          },
+          {
+            "text": "La République reconnaît, salarie et subventionne les quatre cultes principaux",
+            "isCorrect": false
+          },
+          {
+            "text": "La République assure la liberté de conscience et garantit le libre exercice des cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "L'enseignement religieux est obligatoire dans toutes les écoles publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 1er garantit la liberté de conscience et de culte. L'article 2 précise que l'État ne reconnaît ni ne salarie aucun culte, instaurant ainsi la neutralité de l'État (laïcité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-062",
+        "shortId": "Q-5F2480",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon l'article 4 de la DDHC de 1789, la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. Qui est chargé de déterminer les « bornes » de cette liberté ?",
+        "choices": [
+          {
+            "text": "Chaque individu selon sa propre conscience",
+            "isCorrect": false
+          },
+          {
+            "text": "Les chefs religieux de chaque communauté",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loi seule",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République par ordonnance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 4 précise que l'exercice des droits naturels n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits, et que ces bornes ne peuvent être déterminées que par la Loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-085",
+        "shortId": "Q-528E51",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 15 de la DDHC de 1789 fonde le droit de contrôle des citoyens sur l'action publique en disposant que :",
+        "choices": [
+          {
+            "text": "La société a le droit de demander compte à tout agent public de son administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout citoyen peut refuser d'obéir à une loi qu'il juge injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense est un droit absolu de l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Les fonctionnaires sont nommés à vie sans possibilité de révocation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe est le socle de la transparence démocratique et de la responsabilité des agents publics devant la collectivité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-104",
+        "shortId": "Q-9AC746",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Une manifestation sur la voie publique peut être légalement interdite par le préfet si :",
+        "choices": [
+          {
+            "text": "Elle présente un risque de trouble grave à l'ordre public que la police ne peut contenir",
+            "isCorrect": true
+          },
+          {
+            "text": "Les revendications des manifestants déplaisent à la majorité du gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le nombre prévu de participants est inférieur à cent personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle a lieu un jour de fête nationale ou un dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'interdiction est une mesure exceptionnelle qui doit être motivée par des impératifs de sécurité. Elle peut être contestée devant le juge administratif en référé-liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-051",
+        "shortId": "Q-EEA33C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, la garde à vue est une mesure de privation de liberté qui doit obligatoirement être :",
+        "choices": [
+          {
+            "text": "Décidée par le maire de la commune où a eu lieu l'infraction",
+            "isCorrect": false
+          },
+          {
+            "text": "D'une durée minimale de 7 jours renouvelable",
+            "isCorrect": false
+          },
+          {
+            "text": "Appliquée à tout témoin d'un accident de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "Placée sous le contrôle permanent d'un magistrat (Procureur ou Juge)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La garde à vue est une mesure de police judiciaire. Elle est strictement encadrée par le Code de procédure pénale et s'exerce sous la surveillance du procureur de la République pour garantir les droits du suspect."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-061",
+        "shortId": "Q-752392",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 2 de la DDHC de 1789 énumère quatre droits naturels et imprescriptibles. Lequel de ces termes en fait partie ?",
+        "choices": [
+          {
+            "text": "La Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "La Laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Égalité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Résistance à l'oppression",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les quatre droits cités à l'article 2 sont : la liberté, la propriété, la sûreté, et la résistance à l'oppression. Ce dernier justifiait philosophiquement la Révolution contre l'absolutisme."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-067",
+        "shortId": "Q-677A4D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on les infractions les moins graves, qui ne sont jamais sanctionnées par une peine de prison ?",
+        "choices": [
+          {
+            "text": "Les délits mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Les incivilités administratives",
+            "isCorrect": false
+          },
+          {
+            "text": "Les contraventions",
+            "isCorrect": true
+          },
+          {
+            "text": "Les fautes de comportement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La classification tripartie des infractions est : contraventions (tribunal de police), délits (tribunal correctionnel), crimes (cour d'assises). Seuls les délits et crimes peuvent entraîner l'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-071",
+        "shortId": "Q-EE3F63",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 10 juillet 2019, dite loi « anti-fessée », a pour objectif :",
+        "choices": [
+          {
+            "text": "De retirer systématiquement la garde des enfants aux parents sévères",
+            "isCorrect": false
+          },
+          {
+            "text": "D'interdire l'instruction en famille pour tous les mineurs",
+            "isCorrect": false
+          },
+          {
+            "text": "De prohiber les violences éducatives ordinaires (physiques ou verbales)",
+            "isCorrect": true
+          },
+          {
+            "text": "De rendre obligatoire un certificat de parentalité auprès du juge des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi inscrit dans le Code civil que l'autorité parentale s'exerce sans violences physiques ou psychologiques. Elle vise un changement pédagogique et culturel dans l'éducation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-011",
+        "shortId": "Q-EF86C3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi de bioéthique du 2 août 2021 a ouvert l'accès à la Procréation Médicalement Assistée (PMA) :",
+        "choices": [
+          {
+            "text": "Aux couples de femmes et aux femmes célibataires",
+            "isCorrect": true
+          },
+          {
+            "text": "Aux hommes célibataires par recours à la GPA",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement aux femmes justifiant d'une infertilité médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux couples mariés depuis plus de deux ans exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi constitue une avancée majeure en ouvrant la PMA à toutes les femmes, qu'elles soient seules ou en couple avec une autre femme, supprimant le critère médical de l'infertilité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-072",
+        "shortId": "Q-E51338",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'excision (mutilation sexuelle féminine) peut-elle être jugée en France si elle a été commise à l'étranger ?",
+        "choices": [
+          {
+            "text": "Non, la loi française ne s'applique qu'au territoire national",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la victime est française ou réside habituellement en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si le pays où l'acte a été commis demande l'aide de la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'auteur de l'acte est un médecin diplômé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En vertu du principe d'extra-territorialité pour les crimes graves sur mineurs, la justice française peut poursuivre ces actes commis hors de France pour protéger les victimes résidant sur son sol."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-009",
+        "shortId": "Q-4809DE",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la procédure légale permettant de mettre fin unilatéralement à un Pacte Civil de Solidarité (PACS) ?",
+        "choices": [
+          {
+            "text": "Le recours obligatoire à un avocat pour saisir le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obtention d'un acte de répudiation auprès d'un notaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La signification par commissaire de justice suivie d'une déclaration à la mairie ou au notaire",
+            "isCorrect": true
+          },
+          {
+            "text": "La signature d'un acte de divorce par consentement mutuel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Un partenaire peut rompre un PACS seul en faisant signifier sa décision à l'autre par un commissaire de justice (ex-huissier). Une copie est ensuite transmise à l'autorité (mairie ou notaire) ayant enregistré le contrat initial."
+      }
+    }
+  ]
+}

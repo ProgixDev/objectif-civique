@@ -1,0 +1,3850 @@
+{
+  "level": "CSP",
+  "section": "systeme-institutionnel",
+  "sectionLabel": "Système institutionnel et politique",
+  "count": 113,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-institutions-official-001",
+        "shortId": "Q-C672FB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Les citoyens par vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une compétence propre du Président de la République (Article 8 de la Constitution)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-002",
+        "shortId": "Q-EC7D48",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le Parlement est composé :",
+        "choices": [
+          {
+            "text": "De l'Assemblée nationale et du Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Du Gouvernement et de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Du Sénat et du Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement français est bicaméral, composé de l'Assemblée nationale (députés) et du Sénat (sénateurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-003",
+        "shortId": "Q-6D9576",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le pouvoir exécutif ? Le pouvoir :",
+        "choices": [
+          {
+            "text": "De juger les infractions",
+            "isCorrect": false
+          },
+          {
+            "text": "De faire appliquer les lois",
+            "isCorrect": true
+          },
+          {
+            "text": "De contrôler le budget uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "De voter les lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le pouvoir exécutif (Président et Gouvernement) exécute les lois votées par le pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-004",
+        "shortId": "Q-FCB732",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les dirigeants sont élus par les citoyens dans :",
+        "choices": [
+          {
+            "text": "Une dictature",
+            "isCorrect": false
+          },
+          {
+            "text": "Une oligarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Une monarchie absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Une démocratie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Dans une démocratie comme la France, la souveraineté appartient au peuple qui l'exerce par ses représentants élus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-005",
+        "shortId": "Q-6268CB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit de ne pas respecter une loi ?",
+        "choices": [
+          {
+            "text": "Oui, si elle n’est pas conforme à ses convictions personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle semble injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une loi en vigueur s’impose à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle a été votée il y a longtemps",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non. Toute loi régulièrement adoptée et entrée en vigueur s’impose à tous. En France, le principe « nul n’est censé ignorer la loi » signifie que chacun doit la respecter, quelles que soient ses opinions personnelles. Le respect de la loi garantit l’égalité devant la loi et le bon fonctionnement de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-006",
+        "shortId": "Q-102275",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui doit respecter la loi ?",
+        "choices": [
+          {
+            "text": "Seulement les personnes majeures",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens, y compris les élus et le Président",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement les citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les personnes résidant en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le principe d’égalité devant la loi signifie que la loi s’impose à tous, sans distinction. Nul n’est au-dessus des lois, y compris les élus et le Président de la République. Ce principe est fondamental dans un État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-007",
+        "shortId": "Q-6D8086",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle de l'autorité judiciaire ?",
+        "choices": [
+          {
+            "text": "De nommer les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "De diriger la police",
+            "isCorrect": false
+          },
+          {
+            "text": "De créer les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "De veiller au respect des lois et de sanctionner les infractions",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L’autorité judiciaire est chargée d’appliquer la loi, de trancher les litiges entre les personnes et de sanctionner les infractions pénales. Elle est indépendante des pouvoirs exécutif et législatif, ce qui garantit l’impartialité des décisions et le respect de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-008",
+        "shortId": "Q-7CA4C7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pouvoir détient un juge ? Le pouvoir :",
+        "choices": [
+          {
+            "text": "Exécutif",
+            "isCorrect": false
+          },
+          {
+            "text": "Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Administratif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juge appartient à l'autorité judiciaire, distincte des fonctions législative et exécutive. Cette séparation garantit l'indépendance de la justice dans l'application du droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-009",
+        "shortId": "Q-3393B8",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'autorité judiciaire est exercée par :",
+        "choices": [
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges et les tribunaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les tribunaux et les magistrats rendent la justice au nom du peuple français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-010",
+        "shortId": "Q-0EBF16",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+        "choices": [
+          {
+            "text": "Il ne peut être jugé qu'après la fin de ses fonctions",
+            "isCorrect": false
+          },
+          {
+            "text": "Il bénéficie d'une immunité totale liée à sa fonction",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est responsable pénalement et peut être poursuivi en justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est uniquement responsable politiquement devant le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les ministres sont responsables pénalement des actes accomplis dans l'exercice de leurs fonctions (jugés par la Cour de justice de la République) et comme des citoyens normaux pour le reste."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-011",
+        "shortId": "Q-DC58B7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections législatives ?",
+        "choices": [
+          {
+            "text": "Les conseillers régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": true
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les élections législatives permettent d'élire les 577 députés qui siègent à l'Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-012",
+        "shortId": "Q-02B125",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de députés composent l’Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "101",
+            "isCorrect": false
+          },
+          {
+            "text": "925",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct pour 5 ans. Ils représentent la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-013",
+        "shortId": "Q-8FA1E5",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand sont élus les sénateurs ?",
+        "choices": [
+          {
+            "text": "Le Sénat est renouvelé par moitié tous les 3 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 5 ans au suffrage universel direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 6 ans en renouvellement intégral",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans après dissolution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les sénateurs ont un mandat de six ans, mais l'élection a lieu par renouvellement de moitié tous les trois ans. La bonne réponse porte donc sur la périodicité effective du scrutin sénatorial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-014",
+        "shortId": "Q-AD963F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections municipales ?",
+        "choices": [
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux (qui élisent ensuite le maire)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Lors des élections municipales, les électeurs élisent les conseillers municipaux. Après l’élection, le conseil municipal se réunit et élit en son sein le maire et les adjoints. Le Président de la République et les députés sont élus lors d’autres scrutins, et le préfet est nommé par l’État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-015",
+        "shortId": "Q-732B42",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est élu lors des élections présidentielles ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Lors de l’élection présidentielle, les citoyens élisent le Président de la République au suffrage universel direct pour un mandat de cinq ans. Cette élection, organisée en principe tous les cinq ans au scrutin majoritaire à deux tours, est prévue par la Constitution de la Ve République. Le Premier ministre est nommé par le Président, tandis que les présidents des assemblées sont élus par leurs pairs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-016",
+        "shortId": "Q-9E37D2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À partir de quel âge a-t-on le droit de voter ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans pour tous les citoyens français jouissant de leurs droits civils."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-017",
+        "shortId": "Q-44B5C6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps est élu le président de la République française ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis le référendum de 2000, le mandat présidentiel dure 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-018",
+        "shortId": "Q-E9DD37",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps sont élus les députés ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mandat des députés est de 5 ans, sauf en cas de dissolution de l'Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-019",
+        "shortId": "Q-59A1FE",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps sont élus les sénateurs ?",
+        "choices": [
+          {
+            "text": "9 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans (renouvellement par moitié tous les 3 ans). Les députés sont élus pour 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-020",
+        "shortId": "Q-0B253F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui possède le pouvoir exécutif ?",
+        "choices": [
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République et le Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'exécutif est bicéphale en France : le Chef de l'État et le Gouvernement dirigé par le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-021",
+        "shortId": "Q-AF69F1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+        "choices": [
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Justifier d'une résidence ininterrompue de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir signé la Charte des droits et devoirs du citoyen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription sur les listes électorales est obligatoire. Elle est automatique pour les jeunes à 18 ans, mais nécessite une démarche volontaire en cas de déménagement ou d'acquisition de la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-022",
+        "shortId": "Q-EEA8CA",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut voter aux élections en France ?",
+        "choices": [
+          {
+            "text": "Toute personne résidant en France et payant des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne née en France, quel que soit son âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout salarié titulaire d'un contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de vote aux scrutins nationaux exige la nationalité française, la majorité légale et la jouissance des droits civils et politiques. Les citoyens de l'Union européenne résidant en France votent seulement aux élections municipales et européennes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-023",
+        "shortId": "Q-BE6B9E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie « suffrage universel » ?",
+        "choices": [
+          {
+            "text": "Le vote est réservé aux personnes payant des impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens majeurs ont le droit de vote sans distinction de sexe, de richesse ou d'origine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote est public et contrôlé par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote est obligatoire pour tous les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le suffrage universel signifie que tous les citoyens majeurs disposent du droit de vote, sans condition de richesse, de sexe ou d'origine. En France, le suffrage universel masculin a été instauré en 1848 et le droit de vote des femmes en 1944. Il constitue un principe fondamental de la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-024",
+        "shortId": "Q-26E758",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant les partis politiques, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Ils sont dirigés par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils concourent à l'expression du suffrage",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils ne peuvent présenter des candidats qu'aux élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils sont autorisés uniquement pendant les campagnes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 4 de la Constitution dispose que les partis et groupements politiques concourent à l'expression du suffrage. Ils sont libres de se constituer et d'agir, sous réserve du respect des principes démocratiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-025",
+        "shortId": "Q-0214D0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle des députés ?",
+        "choices": [
+          {
+            "text": "Nommer les préfets",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice et sanctionner les infractions",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger les services municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler l'action du Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés siègent à l’Assemblée nationale. Ils examinent, amendent et votent les lois. Ils contrôlent également l’action du Gouvernement par différents moyens (questions, commissions d’enquête, vote de la motion de censure). Ils n’exercent ni le pouvoir exécutif ni le pouvoir judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-026",
+        "shortId": "Q-FA5379",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif et Régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif et Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire et Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Militaire et Judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de séparation des pouvoirs distingue trois fonctions de l’État : le pouvoir législatif (qui vote la loi), le pouvoir exécutif (qui met en œuvre la loi) et le pouvoir judiciaire (qui applique la loi et tranche les litiges). Ce principe, théorisé notamment par Montesquieu, vise à éviter la concentration des pouvoirs entre les mains d’une seule autorité et constitue un fondement essentiel de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-027",
+        "shortId": "Q-AB0BFC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui possède le pouvoir législatif ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement par voie réglementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pouvoir de faire la loi appartient au Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-028",
+        "shortId": "Q-A97EE9",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-029",
+        "shortId": "Q-997EFA",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui élit les députés ?",
+        "choices": [
+          {
+            "text": "Les citoyens français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers municipaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sénateurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les députés sont élus par les citoyens français lors des élections législatives, au suffrage universel direct. Ils siègent à l’Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-030",
+        "shortId": "Q-00D83D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui vote les lois ?",
+        "choices": [
+          {
+            "text": "Le Gouvernement seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale et le Sénat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les lois sont votées par le Parlement, composé de l’Assemblée nationale et du Sénat. Les deux chambres examinent et adoptent les textes selon la procédure législative. Le Gouvernement peut proposer des projets de loi, mais il ne vote pas les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-031",
+        "shortId": "Q-F38BC4",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui réside au palais de l'Élysée ?",
+        "choices": [
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Élysée est le siège de la présidence de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-032",
+        "shortId": "Q-73EB54",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de départements en France ?",
+        "choices": [
+          {
+            "text": "96",
+            "isCorrect": false
+          },
+          {
+            "text": "101",
+            "isCorrect": true
+          },
+          {
+            "text": "110",
+            "isCorrect": false
+          },
+          {
+            "text": "22",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte 101 départements : 96 situés en métropole (sur le territoire européen) et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les départements constituent un niveau de collectivité territoriale entre la commune et la région."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-033",
+        "shortId": "Q-23F887",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui représente l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet représente l’État dans le département. Il est nommé par le Gouvernement en Conseil des ministres. Il veille à l’application des lois, dirige les services de l’État dans le département et assure le contrôle de légalité des actes des collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-034",
+        "shortId": "Q-4BD47A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui dirige la commune ?",
+        "choices": [
+          {
+            "text": "Le maire, élu par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Le préfet, nommé pour administrer la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président du conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre par délégation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La direction politique et administrative de la commune relève du maire, élu par le conseil municipal. Le préfet représente l'État dans le département, mais ne dirige pas la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-035",
+        "shortId": "Q-FFD56A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce que le président de la République a tous les pouvoirs ?",
+        "choices": [
+          {
+            "text": "Oui, car l'élection au suffrage universel lui confère une légitimité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en tant que Chef des Armées, il peut imposer ses décisions",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il ne possède que des pouvoirs honorifiques et symboliques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le pouvoir est partagé et limité par la Constitution (Parlement, Conseil Constitutionnel, Justice)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bien que le Président dispose de pouvoirs importants (dissolution, article 16...), il doit respecter la Constitution. Son action est contrôlée par le Parlement (qui peut censurer le gouvernement) et par le Conseil Constitutionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-036",
+        "shortId": "Q-398BDD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est le préfet ?",
+        "choices": [
+          {
+            "text": "Le chef des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge suprême du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président du Conseil Départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le représentant de l'État dans le département ou la région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet est un haut fonctionnaire nommé par le Président. Il représente l'État (le gouvernement) sur le territoire, il ne faut pas le confondre avec les élus locaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-037",
+        "shortId": "Q-F92D62",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Parlement ?",
+        "choices": [
+          {
+            "text": "Rendre la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Gouverner le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter la loi et contrôler l'action du Gouvernement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Parlement, composé de l’Assemblée nationale et du Sénat, exerce le pouvoir législatif. Il vote la loi, contrôle l’action du Gouvernement et évalue les politiques publiques. Il ne rend pas la justice (pouvoir judiciaire) et ne dirige pas l’exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-038",
+        "shortId": "Q-C7DF83",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le régime politique de la France aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Un régime présidentiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime semi-présidentiel",
+            "isCorrect": true
+          },
+          {
+            "text": "Une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est une République dotée d’un régime semi-présidentiel sous la Constitution du 4 octobre 1958 (Ve République). Le Président de la République est élu au suffrage universel direct et dispose de pouvoirs propres importants, tandis que le Gouvernement est responsable devant le Parlement. Ce système combine des éléments du régime présidentiel et du régime parlementaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-039",
+        "shortId": "Q-70CC72",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+        "choices": [
+          {
+            "text": "28",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "text": "27",
+            "isCorrect": true
+          },
+          {
+            "text": "32",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'UE compte 27 pays membres depuis le départ du Royaume-Uni."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-040",
+        "shortId": "Q-9AB345",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État n'est pas membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Irlande",
+            "isCorrect": false
+          },
+          {
+            "text": "La Suisse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Suède",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Suisse est au cœur de l'Europe mais ne fait pas partie de l'UE (tout comme la Norvège)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-041",
+        "shortId": "Q-2E7C7A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis au moins cinq ans sans interruption",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obtenu au préalable un titre de séjour de longue durée",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen d'un pays membre de l'UE et être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir signé le Contrat d'Intégration Républicaine (CIR) depuis au moins un an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Tout citoyen de l'UE résidant en France peut voter aux élections européennes (et municipales) s'il est inscrit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-042",
+        "shortId": "Q-536707",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle fréquence les élections européennes sont-elles organisées ?",
+        "choices": [
+          {
+            "text": "Tous les 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés au Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Les élections européennes ont lieu simultanément dans tous les États membres de l'Union européenne, selon des règles communes fixées au niveau européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-043",
+        "shortId": "Q-099CB0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays est un pays fondateur de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Allemagne (RFA à l'époque) fait partie des 6 membres fondateurs de 1957 avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-044",
+        "shortId": "Q-3C5B62",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la monnaie utilisée en France ?",
+        "choices": [
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "La Livre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Dollar",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'euro est la monnaie unique européenne utilisée en France depuis 2002."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-045",
+        "shortId": "Q-E0867D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui élit les députés européens ?",
+        "choices": [
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens des pays de l'Union européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Les parlements nationaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est une élection au suffrage universel direct dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-official-046",
+        "shortId": "Q-137A4B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand célèbre-t-on la journée de l'Europe ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Journée de l'Europe est célébrée le 9 mai, date de la déclaration Schuman de 1950. Cette initiative a lancé la construction européenne autour de la coopération entre États."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-001",
+        "shortId": "Q-8D0106",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui possède le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil syndical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission est de débattre et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-002",
+        "shortId": "Q-B9234C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a l'autorité pour nommer le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Les citoyens par un vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République choisit le Premier ministre, qui dirige ensuite le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-003",
+        "shortId": "Q-06D48F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Sécurité, Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Paix, Progrès, Solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise Liberté, Égalité, Fraternité est inscrite dans la Constitution et symbolise l'union des citoyens français autour de trois valeurs fondamentales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-004",
+        "shortId": "Q-1D5366",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe le siège officiel de la Présidence de la République ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Palais de l'Élysée est le lieu de travail et la résidence officielle du Chef de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-005",
+        "shortId": "Q-B9FB58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat présidentiel dure 5 ans, on l'appelle le quinquennat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-006",
+        "shortId": "Q-726C58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe garantit que l'État ne favorise aucune religion ?",
+        "choices": [
+          {
+            "text": "La fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité assure la neutralité de l'État et la liberté de conscience pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-007",
+        "shortId": "Q-AE0390",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle monnaie est utilisée pour les échanges en France depuis 2002 ?",
+        "choices": [
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Dollar",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Florin",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Euro est la monnaie commune à la majorité des pays de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-008",
+        "shortId": "Q-967047",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on lors de la fête nationale du 14 juillet ?",
+        "choices": [
+          {
+            "text": "La fête de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de 1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-009",
+        "shortId": "Q-A42B98",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui représente l'autorité de l'État dans un département ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Juge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Commissaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Préfet est nommé par le Gouvernement pour assurer l'ordre et l'application des lois localement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-010",
+        "shortId": "Q-348F2D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de l'hymne national de la France ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chant du départ",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "L'hymne des régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise est le chant patriotique officiel de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-011",
+        "shortId": "Q-2D036A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge un citoyen français acquiert-il le droit de vote ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité légale et le droit de vote sont fixés à 18 ans révolus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-012",
+        "shortId": "Q-B668A4",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le pouvoir qui fait appliquer les lois ?",
+        "choices": [
+          {
+            "text": "Le pouvoir exécutif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir médiatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le pouvoir exécutif est détenu par le Président de la République et le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-013",
+        "shortId": "Q-206587",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dirige l'action du Gouvernement et des ministres ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre coordonne le travail des ministres pour appliquer la politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-014",
+        "shortId": "Q-946B0D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet d'aider les personnes malades ou sans ressources ?",
+        "choices": [
+          {
+            "text": "La laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La solidarité est à la base de la protection sociale et de la Sécurité sociale en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-015",
+        "shortId": "Q-A42468",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel texte sont inscrits les droits et les devoirs des citoyens ?",
+        "choices": [
+          {
+            "text": "La Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil de 1804",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Constitution est le texte suprême qui définit l'organisation de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-016",
+        "shortId": "Q-4EE5F5",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle principal d'un juge ?",
+        "choices": [
+          {
+            "text": "Écrire les nouvelles lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre la justice en appliquant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Diriger la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget de la ville",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le juge arbitre les conflits et sanctionne les infractions en suivant les codes de loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-017",
+        "shortId": "Q-BCB31E",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui sont les électeurs qui choisissent les députés ?",
+        "choices": [
+          {
+            "text": "Les conseillers municipaux et les maires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les ministres du gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens français inscrits sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les grands électeurs désignés par le Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par l'ensemble des citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-018",
+        "shortId": "Q-B399C7",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés ?",
+        "choices": [
+          {
+            "text": "Le Conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie centrale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale est l'une des deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-019",
+        "shortId": "Q-4D5947",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure féminine symbolise la République française ?",
+        "choices": [
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marianne est l'allégorie de la République, présente sur les timbres et dans les mairies."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-020",
+        "shortId": "Q-C72D85",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de s'exprimer librement dans la presse ou sur internet ?",
+        "choices": [
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de passage",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est une liberté fondamentale protégée par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-021",
+        "shortId": "Q-825279",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi servent principalement les impôts payés par les citoyens ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés auprès de la Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des fonctionnaires européens",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics (écoles, hôpitaux, police)",
+            "isCorrect": true
+          },
+          {
+            "text": "À constituer des réserves budgétaires pour les années de crise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les impôts sont une contribution obligatoire pour faire fonctionner le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-022",
+        "shortId": "Q-71C0DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le changement d'une règle de loi ?",
+        "choices": [
+          {
+            "text": "Une démission",
+            "isCorrect": false
+          },
+          {
+            "text": "Une élection",
+            "isCorrect": false
+          },
+          {
+            "text": "Une nomination",
+            "isCorrect": false
+          },
+          {
+            "text": "Une réforme",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une réforme est une modification législative pour adapter les règles à la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-023",
+        "shortId": "Q-B79D29",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe interdit la discrimination entre les hommes et les femmes ?",
+        "choices": [
+          {
+            "text": "L'égalité",
+            "isCorrect": true
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'égalité devant la loi est la même pour tous, quel que soit le sexe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-024",
+        "shortId": "Q-019026",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel bâtiment abrite les services de la mairie ?",
+        "choices": [
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Ville",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Palais de Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Hôtel de Ville (ou la mairie) est le centre administratif de la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-025",
+        "shortId": "Q-1BB3BC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution s'occupe de la gestion des collèges ?",
+        "choices": [
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Université",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le conseil départemental a la responsabilité de l'entretien des collèges."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-026",
+        "shortId": "Q-05D034",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de choisir son métier en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet attribue les postes selon les besoins régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur détermine le métier en fonction du diplôme",
+            "isCorrect": false
+          },
+          {
+            "text": "Les conseillers d'orientation imposent le choix professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Chaque personne librement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté professionnelle est un droit pour tous les travailleurs en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-027",
+        "shortId": "Q-675E7C",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte réunit l'ensemble des droits civils, politiques, économiques et sociaux des citoyens de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Charte des droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration de Philadelphie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention de Genève",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Charte des droits fondamentaux de l'UE a la même valeur juridique que les traités et garantit les droits des citoyens européens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-028",
+        "shortId": "Q-39C81B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document prouve l'identité d'un citoyen ?",
+        "choices": [
+          {
+            "text": "Le carnet de santé",
+            "isCorrect": false
+          },
+          {
+            "text": "La carte nationale d'identité",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte de transport",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bulletin de salaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La carte d'identité ou le passeport sont les documents officiels pour justifier de son identité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-029",
+        "shortId": "Q-3FEA33",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est chargé de protéger la sécurité des personnes et des biens ?",
+        "choices": [
+          {
+            "text": "Le juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "La police et la gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les forces de l'ordre assurent la sécurité publique et le respect de l'ordre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-030",
+        "shortId": "Q-419345",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet aux citoyens d'aider les autres ?",
+        "choices": [
+          {
+            "text": "L'autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fraternité encourage l'entraide et le respect entre tous les citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-031",
+        "shortId": "Q-2D2EBB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du conseil municipal ?",
+        "choices": [
+          {
+            "text": "Gérer les affaires de la commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander l'armée de terre",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les criminels",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le conseil municipal s'occupe des projets locaux (écoles, routes, espaces verts)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-032",
+        "shortId": "Q-58A3DC",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunissent les sénateurs pour travailler ?",
+        "choices": [
+          {
+            "text": "Au Palais de l'Élysée",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À l'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "À la Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat siège au Palais du Luxembourg à Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-033",
+        "shortId": "Q-8AF454",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le drapeau de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "La bannière étoilée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau bleu aux 12 étoiles d'or",
+            "isCorrect": true
+          },
+          {
+            "text": "L'emblème de la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il représente l'unité et la solidarité entre les peuples d'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-034",
+        "shortId": "Q-CF370A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal juge les délits comme les vols ou les agressions ?",
+        "choices": [
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal correctionnel",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le tribunal correctionnel traite les infractions moyennes appelées délits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-035",
+        "shortId": "Q-2DAB64",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie être 'citoyen' ?",
+        "choices": [
+          {
+            "text": "Avoir des droits et des devoirs envers son pays",
+            "isCorrect": true
+          },
+          {
+            "text": "Résider de manière permanente sur le territoire national",
+            "isCorrect": false
+          },
+          {
+            "text": "Être inscrit sur les registres de l'état civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Posséder un titre de séjour en cours de validité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté donne le droit de participer à la vie politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-036",
+        "shortId": "Q-B3A46F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la charge de la gestion des lycées ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil régional s'occupe de la construction et de l'entretien des lycées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-037",
+        "shortId": "Q-300699",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil des ministres le mercredi ?",
+        "choices": [
+          {
+            "text": "Organiser des élections",
+            "isCorrect": false
+          },
+          {
+            "text": "Rendre des jugements",
+            "isCorrect": false
+          },
+          {
+            "text": "Prendre les décisions politiques importantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil des ministres est la réunion hebdomadaire, présidée par le Président, où le Gouvernement prend les décisions politiques importantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-038",
+        "shortId": "Q-106271",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de manifester pour défendre ses idées ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de manifestation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Manifester pacifiquement est une liberté garantie par la loi française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-039",
+        "shortId": "Q-AF01AD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le chef suprême des armées françaises ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 15 de la Constitution confère au Président de la République le titre de chef des armées, lui donnant autorité sur les forces militaires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-040",
+        "shortId": "Q-4901BD",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité garantit le respect de la Constitution ?",
+        "choices": [
+          {
+            "text": "La police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la ville",
+            "isCorrect": false
+          },
+          {
+            "text": "Les députés européens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il vérifie que les nouvelles lois ne contredisent pas les principes de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-041",
+        "shortId": "Q-245EC2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le but des élections municipales ?",
+        "choices": [
+          {
+            "text": "Choisir le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Élire les députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les préfets",
+            "isCorrect": false
+          },
+          {
+            "text": "Élire les conseillers municipaux et le maire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les élections municipales permettent aux citoyens de choisir les conseillers municipaux, qui éliront ensuite le maire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-042",
+        "shortId": "Q-4C2490",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la parité en politique française ?",
+        "choices": [
+          {
+            "text": "L'égalité d'accès entre les femmes et les hommes aux fonctions politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de représenter toutes les catégories socio-professionnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de rotation des mandats entre les générations",
+            "isCorrect": false
+          },
+          {
+            "text": "La représentation proportionnelle des minorités régionales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La parité vise une représentation équilibrée des sexes dans les assemblées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-043",
+        "shortId": "Q-0C129D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service public s'occupe de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "L'Assurance Maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "France Travail (anciennement Pôle Emploi) est l'organisme public chargé d'accompagner les demandeurs d'emploi et de faciliter leur retour au travail."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-044",
+        "shortId": "Q-DD8284",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le texte qui organise les droits de l'homme depuis 1789 ?",
+        "choices": [
+          {
+            "text": "Le code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat social",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Adoptée le 26 août 1789, la DDHC est un texte historique fondamental qui définit les libertés individuelles et a inspiré les constitutions françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-045",
+        "shortId": "Q-F06640",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour voter lors des élections ?",
+        "choices": [
+          {
+            "text": "Le vote est nominatif et enregistré publiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote est facultatif et peut se faire par correspondance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote se fait obligatoirement par voie électronique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote est secret dans l'isoloir",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le secret du vote garantit la liberté de choix de chaque citoyen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-046",
+        "shortId": "Q-88F3AE",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme les ministres sur proposition du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le doyen de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Président de la République est le Chef de l'État et nomme les ministres sur proposition du Premier ministre, validant ainsi la composition du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-047",
+        "shortId": "Q-BBB0D6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se trouve le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "À Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés européens se réunissent à Strasbourg pour les sessions plénières."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-048",
+        "shortId": "Q-4FC46B",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes appartient à la devise de la France ?",
+        "choices": [
+          {
+            "text": "La discipline",
+            "isCorrect": false
+          },
+          {
+            "text": "L'honneur",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La devise est : Liberté, Égalité, Fraternité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-049",
+        "shortId": "Q-ED35A3",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'organisme qui gère l'assurance santé ?",
+        "choices": [
+          {
+            "text": "La Poste",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Éducation Nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sécurité Sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle permet le remboursement des soins médicaux et des médicaments."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-050",
+        "shortId": "Q-D76244",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de circuler librement en France ?",
+        "choices": [
+          {
+            "text": "Toute personne résidant légalement sur le territoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement les membres du Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement les personnes nées en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne ne peut circuler librement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La liberté de circulation est un principe fondamental dans l'espace républicain."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-051",
+        "shortId": "Q-84B631",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du conseil départemental ?",
+        "choices": [
+          {
+            "text": "Voter le budget de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'action sociale et les routes départementales",
+            "isCorrect": true
+          },
+          {
+            "text": "Diriger la police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le département s'occupe notamment du RSA et de l'aide aux personnes âgées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-052",
+        "shortId": "Q-50EE11",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le mot 'laïque' pour une école publique ?",
+        "choices": [
+          {
+            "text": "L'enseignement religieux est obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école est réservée aux garçons",
+            "isCorrect": false
+          },
+          {
+            "text": "L'enseignement est neutre et indépendant des religions",
+            "isCorrect": true
+          },
+          {
+            "text": "L'école est payante",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'école publique ne privilégie aucune croyance et accueille tous les enfants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-053",
+        "shortId": "Q-AD1961",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le vote d'une loi par les deux chambres du Parlement ?",
+        "choices": [
+          {
+            "text": "Une démission",
+            "isCorrect": false
+          },
+          {
+            "text": "Un procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Une élection",
+            "isCorrect": false
+          },
+          {
+            "text": "La navette parlementaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le texte circule entre l'Assemblée et le Sénat jusqu'à être adopté à l'identique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-054",
+        "shortId": "Q-FE79E1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut demander la nationalité française par naturalisation ?",
+        "choices": [
+          {
+            "text": "Toute personne étrangère remplissant les conditions de résidence et d'intégration",
+            "isCorrect": true
+          },
+          {
+            "text": "Tout ressortissant européen résidant en France depuis un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne ayant un contrat de travail en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout étranger titulaire d'un visa de long séjour",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La naturalisation est un mode d'acquisition de la nationalité sous certaines conditions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-055",
+        "shortId": "Q-2B8FAB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le jour férié qui célèbre la fin de la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 15 août",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 11 novembre commémore l'Armistice signé le 11 novembre 1918, mettant fin aux combats de la Première Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-056",
+        "shortId": "Q-C3D0E6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juge les conflits entre les citoyens et l'administration ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de prud'hommes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La police municipale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le juge administratif vérifie que l'État et les communes respectent la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-057",
+        "shortId": "Q-CA6701",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de fois un Président peut-il être réélu consécutivement ?",
+        "choices": [
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Trois fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Une seule fois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un Président peut faire au maximum deux mandats de suite (10 ans au total)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-058",
+        "shortId": "Q-64F9E2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes garantit que personne n'est au-dessus de la loi ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La hiérarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout citoyen, même puissant, doit respecter les règles de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-059",
+        "shortId": "Q-B1D9B0",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la responsabilité de l'entretien des écoles élémentaires ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commune est responsable de la construction, de l'entretien et du fonctionnement matériel des écoles élémentaires et maternelles sur son territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-060",
+        "shortId": "Q-B83242",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle pour les fonctionnaires concernant la religion au travail ?",
+        "choices": [
+          {
+            "text": "Ils doivent porter un signe religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils choisissent ce qu'ils veulent",
+            "isCorrect": false
+          },
+          {
+            "text": "Ils doivent rester neutres et ne pas montrer leur religion",
+            "isCorrect": true
+          },
+          {
+            "text": "Ils ne doivent pas travailler le dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe de laïcité impose aux agents du service public une stricte neutralité religieuse dans l'exercice de leurs fonctions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-061",
+        "shortId": "Q-D42ECF",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le mot 'Souveraineté' ?",
+        "choices": [
+          {
+            "text": "La capacité de l'État à lever des impôts sur son territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit des collectivités locales à gérer leurs propres affaires",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indépendance du pouvoir judiciaire face au gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir suprême d'une Nation de décider pour elle-même",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est souveraine car elle décide librement de ses lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-062",
+        "shortId": "Q-A6EAA1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du budget de l'État ?",
+        "choices": [
+          {
+            "text": "Il le vote et l'autorise chaque année",
+            "isCorrect": true
+          },
+          {
+            "text": "Il le propose mais le Président l'adopte seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Il en délègue le contrôle à la Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il le valide uniquement en cas de déficit public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement contrôle la manière dont l'argent public est utilisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-063",
+        "shortId": "Q-0B000F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte historique a été écrit durant la Révolution française en 1789 ?",
+        "choices": [
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Constitution de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La DDHC, adoptée le 26 août 1789, pose les bases de la liberté et de l'égalité en France et reste intégrée au bloc de constitutionnalité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-064",
+        "shortId": "Q-62B5D5",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal s'occupe des divorces et des affaires de famille ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de police",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le tribunal judiciaire traite les litiges civils entre les personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-065",
+        "shortId": "Q-7CE06F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction d'un député européen ?",
+        "choices": [
+          {
+            "text": "Gérer une mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget d'un département",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander la gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois européennes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ils représentent les citoyens de l'Union européenne au Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-066",
+        "shortId": "Q-ABB825",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces actes est obligatoire pour un citoyen ?",
+        "choices": [
+          {
+            "text": "S'inscrire sur les listes électorales dès 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Appartenir à un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Contribuer aux charges publiques (impôts)",
+            "isCorrect": true
+          },
+          {
+            "text": "Participer à la Journée Défense et Citoyenneté chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Payer ses impôts est une obligation légale pour financer la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-067",
+        "shortId": "Q-66382A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 12 de la Constitution confère au Président de la République le pouvoir de dissoudre l'Assemblée nationale, provoquant ainsi de nouvelles élections législatives."
+      }
+    }
+  ]
+}

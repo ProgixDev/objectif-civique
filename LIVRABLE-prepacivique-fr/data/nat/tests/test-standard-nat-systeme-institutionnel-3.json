@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-3",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-121",
+        "shortId": "Q-9AD5DF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe peut censurer le Gouvernement et le forcer à démissionner ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil municipal de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Par le vote d'une motion de censure, les députés peuvent renverser le Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-014",
+        "shortId": "Q-82F285",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Cour de justice de l'Union européenne (CJUE) ?",
+        "choices": [
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CJUE siège à Luxembourg. Elle veille à ce que la législation de l'UE soit interprétée et appliquée de la même manière dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-010",
+        "shortId": "Q-E7FDD4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Au niveau européen, qui détient le « monopole de l'initiative législative » (proposer les lois) ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Seule la Commission européenne peut proposer de nouveaux textes législatifs européens. Le Parlement et le Conseil les discutent et les votent ensuite."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-013",
+        "shortId": "Q-C55CE4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Le véhicule du Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Le va-et-vient d'un texte de loi entre l'Assemblée nationale et le Sénat jusqu'à l'adoption d'un texte identique",
+            "isCorrect": true
+          },
+          {
+            "text": "Le transport des députés entre Paris et Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Une commission d'enquête",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour qu'une loi soit adoptée, elle doit être votée en termes identiques par les deux chambres. En cas de désaccord persistant, l'Assemblée nationale a le dernier mot (si le gouvernement le demande)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-097",
+        "shortId": "Q-26B541",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient le pouvoir exécutif au niveau de la commune ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procureur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Maire est à la fois le chef de l'administration communale et un agent de l'État dans la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-082",
+        "shortId": "Q-E26541",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui détient la souveraineté nationale en France ?",
+        "choices": [
+          {
+            "text": "Le peuple français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon la Constitution, la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-085",
+        "shortId": "Q-27051D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pendant combien d'années les conseillers municipaux et le Maire sont-ils élus ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mandat municipal est de 6 ans pour permettre une gestion de long terme de la ville."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-062",
+        "shortId": "Q-BF5D82",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel titre historique porte le Ministre de la Justice en France ?",
+        "choices": [
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Grand Chancelier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procureur général",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce titre vient de la mission historique de conserver les sceaux servant à authentifier les actes officiels."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-002",
+        "shortId": "Q-148012",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour réviser la Constitution par la voie du Congrès (réunion de l'Assemblée et du Sénat), quelle majorité est requise ?",
+        "choices": [
+          {
+            "text": "La majorité absolue (50% + 1 voix)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'unanimité des suffrages exprimés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les deux tiers des suffrages exprimés",
+            "isCorrect": false
+          },
+          {
+            "text": "Les trois cinquièmes des suffrages exprimés",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 89, la révision doit être votée par les 3/5èmes des suffrages exprimés au Congrès (à Versailles). Sinon, elle doit être approuvée par référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-019",
+        "shortId": "Q-6301F9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité verse le RSA (Revenu de Solidarité Active) et l'APA (Allocation Personnalisée d'Autonomie) ?",
+        "choices": [
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": true
+          },
+          {
+            "text": "La Sécurité Sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Département est le chef de file de l'action sociale et des solidarités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-110",
+        "shortId": "Q-42AAFC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert principalement l'impôt en France ?",
+        "choices": [
+          {
+            "text": "À financer les services publics et la solidarité",
+            "isCorrect": true
+          },
+          {
+            "text": "À enrichir personnellement les élus",
+            "isCorrect": false
+          },
+          {
+            "text": "À prêter de l'argent aux pays étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un don facultatif pour les associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'impôt finance l'école, les routes, les hôpitaux et la sécurité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-076",
+        "shortId": "Q-F90F42",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel juge est compétent pour annuler une décision prise par une administration (Mairie, État) ?",
+        "choices": [
+          {
+            "text": "Le juge pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge d'instance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le juge des enfants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice administrative arbitre les conflits entre les citoyens et les pouvoirs publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-071",
+        "shortId": "Q-C4C996",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quel texte de 1905 définit les relations entre l'État et les cultes ?",
+        "choices": [
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-075",
+        "shortId": "Q-DDA8A6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la Constitution actuelle de la France ?",
+        "choices": [
+          {
+            "text": "La Constitution de la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de 1958",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Constitution du 4 octobre 1958 a fondé la Ve République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-102",
+        "shortId": "Q-56AF53",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le suffrage universel ?",
+        "choices": [
+          {
+            "text": "Le droit de vote accordé à tous les citoyens majeurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote réservé aux personnes ayant fait des études",
+            "isCorrect": false
+          },
+          {
+            "text": "Le choix du chef de l'État par les plus riches",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de ne pas respecter les résultats électoraux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Universel signifie qu'il n'y a pas de distinction de fortune, de sexe ou de religion pour voter."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-090",
+        "shortId": "Q-E18B21",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet d'aider les citoyens en difficulté par le biais de la Sécurité sociale ?",
+        "choices": [
+          {
+            "text": "La solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "La charité privée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'épargne individuelle obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le parrainage associatif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La France est une République sociale où chacun contribue selon ses moyens pour aider ceux qui en ont besoin."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-114",
+        "shortId": "Q-16FDA9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'congrès' du Parlement ?",
+        "choices": [
+          {
+            "text": "La réunion des députés et des sénateurs à Versailles",
+            "isCorrect": true
+          },
+          {
+            "text": "Les vacances annuelles des ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Un match de football entre élus",
+            "isCorrect": false
+          },
+          {
+            "text": "Le nom d'un parti politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement se réunit en Congrès pour voter les révisions de la Constitution ou écouter le Président."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-043",
+        "shortId": "Q-7B688D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe assure la neutralité de l'État vis-à-vis des convictions religieuses ?",
+        "choices": [
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La laïcité sépare l'État des organisations religieuses, garantissant la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-086",
+        "shortId": "Q-296ECE",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle cour est chargée d'unifier l'interprétation de la loi en France (le plus haut niveau judiciaire) ?",
+        "choices": [
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal des conflits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour de cassation ne rejuge pas les faits, mais vérifie que la loi a été correctement appliquée par les tribunaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-015",
+        "shortId": "Q-C6DC48",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Président nomme le Premier ministre (Article 8). En pratique, il choisit une personnalité issue de la majorité parlementaire pour éviter la censure immédiate."
+      }
+    }
+  ]
+}

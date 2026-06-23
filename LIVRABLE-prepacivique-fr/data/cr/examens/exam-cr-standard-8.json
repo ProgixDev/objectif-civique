@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-8",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-012",
+        "shortId": "Q-CF967F",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un élu municipal peut-il arborer un signe religieux lors d'une séance du conseil municipal ?",
+        "choices": [
+          {
+            "text": "Non, car il représente l'État et doit être neutre en permanence",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement s'il est membre de l'opposition et non de la majorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le port de signes religieux est interdit dans tous les bâtiments publics pour toute personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, car il dispose d'un mandat électif et n'est pas un agent de l'État soumis au devoir de neutralité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les élus ne sont pas des agents publics mais des représentants de la souveraineté populaire. À ce titre, ils jouissent d'une liberté d'expression religieuse, sauf lorsqu'ils agissent en tant qu'officiers d'état civil (cérémonies)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-039",
+        "shortId": "Q-501658",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez prendre le nom de famille de votre mère à la place de celui de votre père. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, le nom est définitif",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, une procédure simplifiée en mairie permet de changer de nom une fois dans sa vie pour prendre celui d'un parent",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais c'est très cher",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le père est d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 1er juillet 2022, toute personne majeure peut changer de nom de famille une fois dans sa vie par simple déclaration en mairie pour prendre le nom de sa mère, de son père ou les deux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-078",
+        "shortId": "Q-145CAB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une entreprise privée refuse de servir un client en raison de son origine ethnique. Cet acte est-il légal ?",
+        "choices": [
+          {
+            "text": "Oui, la liberté du commerce permet de refuser une vente sans justification",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le refus de vente discriminatoire est un délit pénal (Code pénal)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sauf si le client est un fonctionnaire ou un élu",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais uniquement si le refus est signifié par écrit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe d'égalité interdit toute discrimination fondée sur l'origine, la religion ou l'ethnie, y compris dans les relations privées. C'est un délit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-104",
+        "shortId": "Q-9AC746",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Une manifestation sur la voie publique peut être légalement interdite par le préfet si :",
+        "choices": [
+          {
+            "text": "Elle présente un risque de trouble grave à l'ordre public que la police ne peut contenir",
+            "isCorrect": true
+          },
+          {
+            "text": "Les revendications des manifestants déplaisent à la majorité du gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le nombre prévu de participants est inférieur à cent personnes",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle a lieu un jour de fête nationale ou un dimanche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'interdiction est une mesure exceptionnelle qui doit être motivée par des impératifs de sécurité. Elle peut être contestée devant le juge administratif en référé-liberté."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-027",
+        "shortId": "Q-9BA7F1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le principe d'Indivisibilité de la République (Art. 1 de la Constitution) s'oppose à :",
+        "choices": [
+          {
+            "text": "La création de conseils régionaux",
+            "isCorrect": false
+          },
+          {
+            "text": "L'existence de groupes ayant des droits collectifs spécifiques",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté de culte dans l'espace privé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'usage des langues régionales dans la vie culturelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'indivisibilité signifie qu'il n'y a qu'un seul Peuple français ; la République ne reconnaît aucune communauté séparée au sein de la Nation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-005",
+        "shortId": "Q-93F0DF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte à valeur constitutionnelle consacre spécifiquement les droits de troisième génération en France ?",
+        "choices": [
+          {
+            "text": "Le Code de l'action sociale et des familles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement de 2004",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Charte de l'environnement de 2004 a introduit dans le bloc de constitutionnalité des droits et devoirs liés à la préservation de la nature, illustrant l'émergence des droits de solidarité envers les générations futures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-049",
+        "shortId": "Q-A387F5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Ministère de l'Intérieur ?",
+        "choices": [
+          {
+            "text": "Superviser les relations commerciales avec l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'ordre public, la sécurité et l'administration territoriale",
+            "isCorrect": true
+          },
+          {
+            "text": "Coordonner la politique éducative et la recherche scientifique",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer le contrôle budgétaire des collectivités locales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il est responsable de la sécurité intérieure, des élections et du lien entre l'État et les collectivités territoriales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-078",
+        "shortId": "Q-1F26F4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez 16 ans. Vous voulez travailler cet été. Avez-vous besoin de l'accord de vos parents ?",
+        "choices": [
+          {
+            "text": "Non, à partir de 16 ans vous pouvez signer seul un contrat de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'autorisation des représentants légaux est obligatoire pour un mineur",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, si le contrat est un contrat d'apprentissage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le contrat de travail entraîne l'émancipation automatique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le mineur de plus de 16 ans peut travailler, mais il doit obligatoirement avoir l'autorisation écrite de ses parents ou tuteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-051",
+        "shortId": "Q-D04977",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale industrie de la région Île-de-France, contribuant massivement à son PIB ?",
+        "choices": [
+          {
+            "text": "L'industrie minière",
+            "isCorrect": false
+          },
+          {
+            "text": "La construction navale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secteur tertiaire (services, luxe, finance)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'industrie du bois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris et sa région constituent l'un des pôles économiques les plus dynamiques au monde, concentrant les sièges sociaux et la recherche."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-035",
+        "shortId": "Q-C2312A",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un maire refuse de célébrer un mariage civil entre deux personnes de même sexe pour des motifs religieux personnels. Quelle est la règle ?",
+        "choices": [
+          {
+            "text": "Le maire exerce son droit légal à l'objection de conscience républicaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage doit obligatoirement être célébré par un prêtre à la place",
+            "isCorrect": false
+          },
+          {
+            "text": "Il commet une faute grave et un acte discriminatoire passible de sanctions pénales",
+            "isCorrect": true
+          },
+          {
+            "text": "Il peut déléguer indéfiniment le mariage à une commune voisine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En tant qu'officier d'état civil, le maire représente l'État. Il doit appliquer la loi de la République (loi de 2013) sans discrimination. Il n'existe pas de clause de conscience pour les maires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-025",
+        "shortId": "Q-2C8EA1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes étranger résidant en France. Pouvez-vous participer au Conseil de Quartier ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une instance de démocratie participative ouverte à tous les habitants",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, c'est réservé aux électeurs français",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si vous êtes propriétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous êtes européen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les conseils de quartier permettent à tous les résidents, quelle que soit leur nationalité, de s'impliquer dans la vie locale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-026",
+        "shortId": "Q-59E453",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Alsace et la Lorraine ont-elles été restituées à la France après la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1919",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1924",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le traité de Versailles de 1919 a acté le retour de ces territoires perdus en 1871 au profit de l'Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-059",
+        "shortId": "Q-7BDD44",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité a le pouvoir de nommer les ambassadeurs de France ?",
+        "choices": [
+          {
+            "text": "Le Ministre des Affaires étrangères",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président de la République nomme aux emplois civils et militaires supérieurs de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-098",
+        "shortId": "Q-4E48F3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La zone Euro comprend-elle tous les pays de l'UE ?",
+        "choices": [
+          {
+            "text": "Non, seulement la France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, depuis 1957",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, certains pays ont gardé leur monnaie (ex: Pologne, Suède)",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, la zone euro compte 20 membres (en 2024). Certains pays ont une dérogation (Danemark) ou ne remplissent pas encore les critères (Pologne, Hongrie...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-019",
+        "shortId": "Q-C5E565",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous habitez en logement social (HLM). Pouvez-vous le sous-louer sur Airbnb ?",
+        "choices": [
+          {
+            "text": "Oui, pour obtenir un complément de revenus déclaré aux impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si la durée ne dépasse pas 120 jours par an",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la sous-location de logement social est strictement interdite (risque de résiliation du bail et amende)",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pendant les vacances",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le logement social est une aide publique soumise à conditions de ressources. En tirer un profit personnel est illégal et sévèrement sanctionné."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-019",
+        "shortId": "Q-8E5ECB",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale caractéristique de la culture du riz en France, principalement située en Camargue ?",
+        "choices": [
+          {
+            "text": "Elle nécessite une submersion des parcelles par l'eau du Rhône pour réguler la salinité",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle utilise exclusivement des variétés de riz noir importées d'Asie",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est la seule culture française pratiquée sans aucun intrant chimique",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle se fait par semis direct dans des sols arides sans irrigation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La riziculture camarguaise est essentielle pour maintenir l'équilibre écologique du delta du Rhône en luttant contre les remontées de sel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-014",
+        "shortId": "Q-3422B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 4 de la Déclaration de 1789 dispose que la liberté consiste à :",
+        "choices": [
+          {
+            "text": "Faire tout ce que l'on veut sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "Pouvoir faire tout ce qui ne nuit pas à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "N'obéir qu'à sa propre conscience personnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter uniquement les lois religieuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Cet article fonde les limites de la liberté : l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-082",
+        "shortId": "Q-D50A74",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis quand les députés européens sont-ils élus au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1979",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est en 1979 qu'ont eu lieu les premières élections du Parlement européen au suffrage universel direct, renforçant sa légitimité démocratique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-016",
+        "shortId": "Q-8892A4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la procédure permettant à un justiciable de contester la constitutionnalité d'une loi déjà en vigueur lors d'un procès ?",
+        "choices": [
+          {
+            "text": "L'appel en cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recours pour excès de pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "La Question Prioritaire de Constitutionnalité (QPC)",
+            "isCorrect": true
+          },
+          {
+            "text": "La saisine pour avis du Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La QPC, instaurée en 2008, permet à toute personne partie à un procès de soutenir qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-092",
+        "shortId": "Q-75F9EE",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain du XVIIIe siècle a coordonné l'écriture de l' 'Encyclopédie' pour diffuser les connaissances et les idées des Lumières ?",
+        "choices": [
+          {
+            "text": "D'Alembert",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Denis Diderot",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Diderot a consacré vingt ans à cette œuvre monumentale qui a défié la censure et favorisé l'esprit critique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-008",
+        "shortId": "Q-7BA557",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, un agent public victime de menaces ou d'insultes dans son travail bénéficie de :",
+        "choices": [
+          {
+            "text": "L'immunité diplomatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une augmentation de salaire automatique",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection fonctionnelle de son administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se faire justice lui-même",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La protection fonctionnelle oblige l'administration à protéger ses agents contre les attaques dont ils sont victimes dans l'exercice de leurs fonctions et à réparer le préjudice subi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-031",
+        "shortId": "Q-6323D8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence « partagée » entre les collectivités ?",
+        "choices": [
+          {
+            "text": "Une compétence où la commune, le département et la région peuvent intervenir ensemble (ex: culture, sport, tourisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une compétence gérée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence interdite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les compétences partagées (culture, sport, tourisme, éducation populaire) permettent à chaque niveau de collectivité (commune, département, région) d'intervenir selon ses priorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-099",
+        "shortId": "Q-351E60",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe régit l'extradition d'un ressortissant français par la France vers un État étranger (hors Union européenne) ?",
+        "choices": [
+          {
+            "text": "La France n'extrade jamais ses propres nationaux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'extradition est automatique sur simple demande de l'État étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est possible moyennant le paiement d'une caution diplomatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est obligatoire pour tous les délits de droit commun",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est un principe ancien : la France refuse d'extrader ses nationaux. Elle préfère les juger elle-même pour les faits commis à l'étranger s'ils constituent une infraction en France. Dans l'UE, le Mandat d'arrêt européen a toutefois assoupli cette règle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-005",
+        "shortId": "Q-04F931",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1648, mettant fin à la guerre de Trente Ans, a consacré la prépondérance française en Europe et le morcellement de l'Empire germanique ?",
+        "choices": [
+          {
+            "text": "Le traité de Westphalie",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité des Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité d'Utrecht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Nimègue",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les traités de Westphalie ont redessiné la carte de l'Europe, accordant à la France des territoires en Alsace et en Lorraine, et affaiblissant durablement les Habsbourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-013",
+        "shortId": "Q-FE19C5",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel type d'assurance est strictement obligatoire pour tout conducteur d'un véhicule à moteur ?",
+        "choices": [
+          {
+            "text": "L'assurance responsabilité civile (au tiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'assurance 'tous risques'",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance contre le vol uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance 'bris de glace'",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi impose au minimum la garantie responsabilité civile, qui couvre les dommages causés à autrui lors d'un accident."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-037",
+        "shortId": "Q-F970AB",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un particulier installe une caméra de surveillance chez lui. Quelle est la limite imposée par le droit à la vie privée ?",
+        "choices": [
+          {
+            "text": "La caméra ne doit filmer que l'intérieur de sa propriété et ne jamais pointer sur la voie publique",
+            "isCorrect": true
+          },
+          {
+            "text": "Il peut filmer tout le quartier s'il prévient ses voisins par courrier recommandé",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit obtenir l'autorisation de la CNIL pour filmer son propre jardin privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Les images doivent être diffusées sur un serveur public pour prouver l'absence de vol",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit à l'image et le respect de la vie privée interdisent aux particuliers de filmer l'espace public ou les propriétés voisines sans consentement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-028",
+        "shortId": "Q-C0BE23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel statut particulier a la ville de Paris ?",
+        "choices": [
+          {
+            "text": "Elle est une région à elle seule",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est à la fois commune et département",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est dirigée par un préfet uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne fait pas partie de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2019, la Ville de Paris est une collectivité unique exerçant à la fois les compétences d'une commune et celles d'un département. Le Conseil de Paris vote les délibérations pour les deux niveaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-059",
+        "shortId": "Q-AEA324",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes arrêté pour excès de vitesse. Vous refusez de signer le procès-verbal. Que se passe-t-il ?",
+        "choices": [
+          {
+            "text": "Votre refus de signature invalide la procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Le policier peut vous placer en garde à vue pour obstruction",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela ne change rien, le PV est quand même valable et envoyé",
+            "isCorrect": true
+          },
+          {
+            "text": "L'amende est majorée de 50% pour non-coopération",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Signer le PV signifie que vous reconnaissez l'infraction. Refuser ne l'annule pas, mais indique que vous ne reconnaissez pas forcément les faits."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-013",
+        "shortId": "Q-E8A145",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain a publié 'J'accuse...!' dans le journal L'Aurore pour défendre le capitaine Dreyfus contre l'antisémitisme ?",
+        "choices": [
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Anatole France",
+            "isCorrect": false
+          },
+          {
+            "text": "Marcel Proust",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La lettre ouverte d'Émile Zola au Président de la République a provoqué une crise politique majeure et a conduit à la révision du procès Dreyfus."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-051",
+        "shortId": "Q-CE63E3",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document est indispensable pour inscrire un enfant à la cantine scolaire ou au centre de loisirs ?",
+        "choices": [
+          {
+            "text": "L'attestation d'assurance responsabilité civile scolaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le dernier avis d'imposition sur le revenu",
+            "isCorrect": false
+          },
+          {
+            "text": "Un certificat de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret militaire des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assurance scolaire couvre les dommages causés par l'enfant ou subis par lui pendant les activités périscolaires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-038",
+        "shortId": "Q-DB5338",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "En France, la dignité de la personne humaine est juridiquement considérée comme :",
+        "choices": [
+          {
+            "text": "Une notion philosophique intéressante mais sans aucune valeur contraignante",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe à valeur constitutionnelle qui s'impose même contre la volonté de la personne concernée",
+            "isCorrect": true
+          },
+          {
+            "text": "Un droit d'usage réservé exclusivement aux citoyens majeurs et capables",
+            "isCorrect": false
+          },
+          {
+            "text": "Une option laissée à l'entière appréciation des juges du tribunal de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La dignité humaine est un socle du droit français (PFRLR). Elle interdit des pratiques dégradantes, même si l'individu y consent, car cela porte atteinte à l'humanité en tant que telle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-093",
+        "shortId": "Q-B22F65",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le 'gouvernement' de l'Europe ?",
+        "choices": [
+          {
+            "text": "L'ONU",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce terme est impropre, mais la Commission en a certaines fonctions exécutives",
+            "isCorrect": true
+          },
+          {
+            "text": "La France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il n'y a pas de gouvernement unique. La fonction exécutive est assurée principalement par la Commission, mais sous l'impulsion politique du Conseil européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-052",
+        "shortId": "Q-5140B0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la théorie de la séparation des pouvoirs, le pouvoir exécutif a pour fonction principale :",
+        "choices": [
+          {
+            "text": "De voter le budget de l'État et de lever l'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "De veiller à l'exécution des lois et de conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "D'interpréter les textes obscurs pour rendre la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "De modifier la Constitution par décret en Conseil des ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le pouvoir exécutif (Président et Gouvernement) met en œuvre les lois votées par le Parlement et dispose de l'administration et de la force armée pour assurer le fonctionnement du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-025",
+        "shortId": "Q-730EB6",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte de 1946, intégré au bloc de constitutionnalité, a reconnu pour la première fois les droits économiques et sociaux (santé, travail, repos) ?",
+        "choices": [
+          {
+            "text": "La Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": true
+          },
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce texte consacre des principes indispensables à notre temps, comme le droit à la protection de la santé et la garantie de moyens convenables d'existence."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-035",
+        "shortId": "Q-0CAE17",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit du travail, qu'est-ce que l'inaptitude ?",
+        "choices": [
+          {
+            "text": "Le fait de ne pas avoir les diplômes requis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de travailler le dimanche",
+            "isCorrect": false
+          },
+          {
+            "text": "La décision d'un médecin du travail constatant qu'un salarié ne peut plus occuper son poste",
+            "isCorrect": true
+          },
+          {
+            "text": "L'incapacité de parler français correctement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'inaptitude médicale est prononcée par le médecin du travail si l'état de santé du salarié est incompatible avec son poste."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-050",
+        "shortId": "Q-19E2D5",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La Fraternité, valeur de la devise républicaine, s'incarne concrètement par :",
+        "choices": [
+          {
+            "text": "L'obligation de voter pour le candidat ayant le programme le plus social",
+            "isCorrect": false
+          },
+          {
+            "text": "Les systèmes de protection sociale et de redistribution basés sur la solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le port d'un uniforme vestimentaire identique pour tous les citoyens français",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute forme d'association ou de club privé restreint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La fraternité se traduit par des droits sociaux (santé, retraite, aides) financés par la contribution de tous pour soutenir les plus vulnérables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-011",
+        "shortId": "Q-551AA5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits civiques et politiques liés au citoyen ?",
+        "choices": [
+          {
+            "text": "Droit d'être éligible (se présenter aux élections) ; Droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Droit de ne pas payer d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de servir dans l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de conduire sans permis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté française confère le droit de vote et d'éligibilité (se faire élire). Elle implique aussi des devoirs comme le respect de la loi et la participation à la défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-038",
+        "shortId": "Q-1AECF1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous contestez une amende. Devez-vous payer d'abord ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'amende est annulée si on paie",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, contester suspend tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, il faut souvent payer une « consignation » (somme bloquée) pour que la contestation soit examinée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pour éviter les contestations dilatoires, la loi impose souvent de consigner le montant de l'amende forfaitaire avant d'examiner la réclamation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-077",
+        "shortId": "Q-5780FA",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre du XXe siècle, chef de file du fauvisme, utilisait des couleurs pures et vives pour exprimer l'émotion ?",
+        "choices": [
+          {
+            "text": "André Derain",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice de Vlaminck",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Braque",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri Matisse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Matisse est connu pour sa maîtrise de la couleur et ses compositions simplifiées qui ont marqué l'art moderne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-064",
+        "shortId": "Q-BDA523",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où peut-on se procurer des médicaments en France ?",
+        "choices": [
+          {
+            "text": "En supermarché",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans n'importe quel magasin de sport",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "En pharmacie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La vente de médicaments est strictement réservée aux pharmaciens pour garantir la sécurité des patients."
+      }
+    }
+  ]
+}

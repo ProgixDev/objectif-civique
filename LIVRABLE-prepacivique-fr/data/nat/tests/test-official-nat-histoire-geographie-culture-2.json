@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-histoire-geographie-culture-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-official-005",
+        "shortId": "Q-8251DB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "C'est l'année de la naissance de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle correspond à la création de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est l'année où les femmes ont obtenu le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle marque la fin de la guerre d'Algérie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En 1958, une nouvelle Constitution a été adoptée par référendum, marquant la fin de la IVe République et le début de la Ve République sous l'impulsion du général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-062",
+        "shortId": "Q-ECDE66",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel musée est situé à Paris ?",
+        "choices": [
+          {
+            "text": "Le MuCEM",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée des Confluences",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée Guggenheim",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le musée d'Orsay, célèbre pour ses collections impressionnistes, est situé à Paris. Le MuCEM est à Marseille, Confluences à Lyon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-053",
+        "shortId": "Q-DC0169",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Charles Baudelaire ?",
+        "choices": [
+          {
+            "text": "Un poète du XIXe siècle, auteur des Fleurs du mal",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dramaturge classique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier naturaliste",
+            "isCorrect": false
+          },
+          {
+            "text": "Un philosophe existentialiste",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Charles Baudelaire est un poète majeur du XIXe siècle, célèbre pour son recueil *Les Fleurs du mal*."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-060",
+        "shortId": "Q-6F4772",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était un célèbre compositeur français ?",
+        "choices": [
+          {
+            "text": "Ludwig van Beethoven",
+            "isCorrect": false
+          },
+          {
+            "text": "Giuseppe Verdi",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Ravel",
+            "isCorrect": true
+          },
+          {
+            "text": "Wolfgang Amadeus Mozart",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Maurice Ravel (1875-1937) est un compositeur français mondialement connu, notamment pour son Boléro."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-026",
+        "shortId": "Q-4E12FE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Philippe Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Pierre Laval",
+            "isCorrect": false
+          },
+          {
+            "text": "Maurice Papon",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Jean Moulin a été chargé par le général de Gaulle d'unifier les mouvements de la Résistance en France. Il est mort sous la torture en 1943."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-057",
+        "shortId": "Q-63907F",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Marguerite Yourcenar ?",
+        "choices": [
+          {
+            "text": "La première femme élue à l'Académie française",
+            "isCorrect": true
+          },
+          {
+            "text": "Une chanteuse d'opéra",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre sculptrice",
+            "isCorrect": false
+          },
+          {
+            "text": "Une scientifique, Prix Nobel de médecine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marguerite Yourcenar, écrivaine, est devenue en 1980 la première femme élue membre de l'Académie française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-050",
+        "shortId": "Q-D15F63",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle occasion a été construite la Tour Eiffel ?",
+        "choices": [
+          {
+            "text": "Pour célébrer la victoire de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour les Jeux Olympiques de 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour l'Exposition universelle de 1889",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Tour Eiffel a été construite par Gustave Eiffel pour l'Exposition universelle de Paris de 1889, qui célébrait le centenaire de la Révolution française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-036",
+        "shortId": "Q-527A25",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lors de la seconde guerre mondiale, à quelle date la ville de Paris a-t-elle été libérée ?",
+        "choices": [
+          {
+            "text": "Mai 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Juin 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Août 1944",
+            "isCorrect": true
+          },
+          {
+            "text": "Juin 1940",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris a été libérée fin août 1944 (le 25 août marque la reddition allemande)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-031",
+        "shortId": "Q-D6E26A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quelle année l'école publique est-elle gratuite ?",
+        "choices": [
+          {
+            "text": "1905",
+            "isCorrect": false
+          },
+          {
+            "text": "1881",
+            "isCorrect": true
+          },
+          {
+            "text": "1936",
+            "isCorrect": false
+          },
+          {
+            "text": "1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi du 16 juin 1881 a établi la gratuité de l'enseignement primaire public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-072",
+        "shortId": "Q-F8CF20",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île est un département d'outre-mer français ?",
+        "choices": [
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint-Pierre-et-Miquelon",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint-Barthélemy",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Guadeloupe est un DROM (Département et Région d'Outre-Mer). Les autres sont des collectivités d'outre-mer (COM) avec des statuts différents."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-059",
+        "shortId": "Q-36E949",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Auguste Rodin ?",
+        "choices": [
+          {
+            "text": "Un poète du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sculpteur du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un peintre du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un architecte du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Auguste Rodin est considéré comme l'un des plus grands sculpteurs français (Le Penseur, Le Baiser)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-064",
+        "shortId": "Q-0F92C5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+        "choices": [
+          {
+            "text": "Troyes",
+            "isCorrect": false
+          },
+          {
+            "text": "Limoges",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Poitiers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bordeaux est l'une des plus grandes métropoles françaises en termes de population, avec Paris, Marseille, Lyon, Toulouse, Nice, Nantes, etc."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-075",
+        "shortId": "Q-6F75CA",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le principal port maritime de France ?",
+        "choices": [
+          {
+            "text": "La Rochelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Brest",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Grand port maritime de Marseille est le premier port français (et l'un des plus grands de la Méditerranée) en termes de trafic total."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-028",
+        "shortId": "Q-DBCE76",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "choices": [
+          {
+            "text": "La capitulation de l'Allemagne en 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête de l'armée française",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armistice de 1918 mettant fin aux combats de la Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de la Résistance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre commémore l'armistice signé en 1918, marquant la fin des combats de la Première Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-041",
+        "shortId": "Q-0743C6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Marie Curie ?",
+        "choices": [
+          {
+            "text": "Une scientifique lauréate du Prix Nobel",
+            "isCorrect": true
+          },
+          {
+            "text": "Une reine de France au XVIIIe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une chanteuse célèbre du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une femme politique de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Marie Curie (1867-1934), née en Pologne et naturalisée française, est la première femme à avoir reçu le Prix Nobel, et la seule à en avoir reçu deux dans des disciplines différentes (physique en 1903, chimie en 1911)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-048",
+        "shortId": "Q-BEEDAC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que symbolise le 1er mai ?",
+        "choices": [
+          {
+            "text": "L'arrivée du printemps",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête des Mères",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête du Travail",
+            "isCorrect": true
+          },
+          {
+            "text": "La victoire de 1945",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 1er mai est la Fête du Travail, un jour férié chômé où l'on offre traditionnellement du muguet."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-035",
+        "shortId": "Q-BC68BA",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'euro est-il devenu la monnaie officielle (fiduciaire) de la France ?",
+        "choices": [
+          {
+            "text": "1999",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": true
+          },
+          {
+            "text": "1992",
+            "isCorrect": false
+          },
+          {
+            "text": "2005",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les pièces et billets en euros ont été mis en circulation le 1er janvier 2002 (bien que la monnaie existait virtuellement depuis 1999)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-049",
+        "shortId": "Q-6E15CD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Rouget de Lisle ?",
+        "choices": [
+          {
+            "text": "L'auteur de La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Un général de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le premier maire de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Un révolutionnaire guillotiné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Claude Joseph Rouget de Lisle a composé le Chant de guerre pour l'armée du Rhin en 1792, devenu ensuite l'hymne national sous le nom de La Marseillaise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-020",
+        "shortId": "Q-2AA0BB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'Union européenne a-t-elle été fondée ?",
+        "choices": [
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "En 2002",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1992",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Union européenne (UE) en tant que telle a été créée par le traité de Maastricht signé en 1992 (entré en vigueur en 1993). La CEE datait de 1957."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-069",
+        "shortId": "Q-B88C24",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel département français a une frontière avec le Brésil ?",
+        "choices": [
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Guyane, située en Amérique du Sud, partage sa frontière avec le Brésil (c'est la plus longue frontière terrestre de la France)."
+      }
+    }
+  ]
+}

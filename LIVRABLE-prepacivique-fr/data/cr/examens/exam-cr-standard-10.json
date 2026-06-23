@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-10",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-situational-051",
+        "shortId": "Q-5431E0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Une commune refuse d'entretenir un bâtiment religieux construit avant 1905 dont elle est propriétaire. En a-t-elle le droit ?",
+        "choices": [
+          {
+            "text": "Oui, car la laïcité de l'État interdit strictement de dépenser l'argent public pour le culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si le bâtiment n'est pas répertorié au titre des monuments historiques protégés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les communes sont légalement responsables de l'entretien des édifices cultuels dont elles ont la propriété",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais elle doit alors procéder à la destruction immédiate de l'édifice pour raison de sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi de 1905 a transféré la propriété des églises aux communes. Celles-ci ont l'obligation d'assurer la conservation de ces bâtiments mis à disposition gratuite des cultes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-021",
+        "shortId": "Q-600050",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous achetez un drone de loisir. Pouvez-vous le faire voler au-dessus d'un parc public bondé ?",
+        "choices": [
+          {
+            "text": "Oui, si le drone pèse moins de 800 grammes",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous êtes enregistré sur AlphaTango",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le survol de personnes et des zones urbaines est interdit pour les drones de loisir",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous maintenez une altitude inférieure à 50 mètres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour des raisons de sécurité, l'utilisation de drones en agglomération ou au-dessus de rassemblements de personnes est interdite sans autorisation préfectorale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-070",
+        "shortId": "Q-3B2FD9",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité est compétente pour rendre la justice au nom du Peuple français ?",
+        "choices": [
+          {
+            "text": "La police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (magistrats)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire de la commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le pouvoir judiciaire qui, en toute indépendance, est chargé d'appliquer la loi et de protéger les droits individuels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-013",
+        "shortId": "Q-9707C3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre règlement de copropriété interdit les barbecues sur les balcons. Pouvez-vous quand même en faire un petit ?",
+        "choices": [
+          {
+            "text": "Oui, si c'est électrique sans flamme ni fumée",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous obtenez l'accord écrit de vos voisins directs",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le règlement de copropriété s'impose à tous les occupants",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si vous respectez les horaires de tranquillité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le règlement de copropriété a force de loi entre les habitants de l'immeuble. L'interdiction vise souvent la sécurité (incendie) et les nuisances (odeurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-032",
+        "shortId": "Q-158068",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le droit de grève est un principe de valeur constitutionnelle. Quelle catégorie d'agents peut s'en voir privée ?",
+        "choices": [
+          {
+            "text": "Les enseignants du premier degré public",
+            "isCorrect": false
+          },
+          {
+            "text": "Les employés des banques de réseau privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Les personnels des services de nettoyage urbain",
+            "isCorrect": false
+          },
+          {
+            "text": "Les forces de l'ordre (Police, Militaires) et certains magistrats",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Certains corps de l'État dont la mission est vitale pour la continuité de la Nation et la sécurité publique n'ont pas le droit de grève afin de garantir l'ordre républicain."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-073",
+        "shortId": "Q-46B09C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un démarcheur vient chez vous et vous force un peu la main pour signer un contrat. Pouvez-vous annuler ?",
+        "choices": [
+          {
+            "text": "Oui, pour le démarchage à domicile, vous avez 14 jours pour vous rétracter",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, une fois signé, le contrat vous engage définitivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement si le montant dépasse 200 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si vous prouvez un vice du consentement devant un juge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le démarchage à domicile est strictement encadré (abus de faiblesse). Le délai de rétractation de 14 jours s'applique obligatoirement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-054",
+        "shortId": "Q-3AB58E",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le droit d'asile est garanti constitutionnellement en France pour toute personne :",
+        "choices": [
+          {
+            "text": "Souhaitant immigrer pour des raisons purement économiques ou professionnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Persécutée en raison de son action pour la liberté ou pour ses origines/croyances",
+            "isCorrect": true
+          },
+          {
+            "text": "Désirant simplement changer de cadre de vie pour des raisons climatiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Ayant été condamnée pour des crimes de guerre ou des actes de terrorisme avérés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit d'asile est une valeur protectrice de la République. La France protège ceux dont la vie ou la liberté est menacée dans leur pays d'origine pour des motifs politiques ou identitaires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-030",
+        "shortId": "Q-2F7DED",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous voulez héberger un ami non-européen pour les vacances. La mairie peut-elle refuser de valider l'attestation d'accueil ?",
+        "choices": [
+          {
+            "text": "Non, c'est une simple formalité administrative obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le logement est trop petit ou insalubre, ou si vous n'avez pas les ressources suffisantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si le visiteur a déjà fait l'objet d'un refus de visa",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement pour les séjours de plus de 3 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le maire vérifie les conditions d'accueil (surface, confort) et les ressources de l'hébergeant pour éviter l'habitat indigne ou l'immigration irrégulière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-046",
+        "shortId": "Q-992901",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain carolingien fut couronné Empereur d'Occident à Rome le jour de Noël de l'an 800 ?",
+        "choices": [
+          {
+            "text": "Pépin le Bref",
+            "isCorrect": false
+          },
+          {
+            "text": "Clovis",
+            "isCorrect": false
+          },
+          {
+            "text": "Charlemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "Charles le Chauve",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Son couronnement a marqué la restauration de l'idée impériale en Europe et a favorisé une renaissance culturelle et religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-058",
+        "shortId": "Q-4B5B99",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le terme 'laïcité positive', bien que débattu, désigne généralement :",
+        "choices": [
+          {
+            "text": "Une conception ouverte favorisant le dialogue avec les cultes sans modifier la loi de 1905",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réforme concordataire étendant le régime d'Alsace-Moselle à tout le territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation pour l'État de financer les nouveaux édifices religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression de la neutralité des agents publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette notion politique évoque une approche plus ouverte du dialogue entre l'État et les cultes. Juridiquement, la France reste régie par la loi de 1905 fondée sur la séparation et la neutralité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-095",
+        "shortId": "Q-6B42DA",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe régit l'exercice de l'autorité parentale en cas de séparation des parents ?",
+        "choices": [
+          {
+            "text": "Le parent ayant le revenu le plus élevé décide seul de l'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité parentale reste conjointe sauf décision contraire d'un juge",
+            "isCorrect": true
+          },
+          {
+            "text": "Le parent qui n'a pas la garde perd tout droit de regard sur la scolarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Les grands-parents paternels deviennent les tuteurs légaux par défaut",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation est sans incidence sur les règles de dévolution de l'autorité parentale. Les deux parents doivent continuer à prendre ensemble les décisions importantes (santé, religion, scolarité) pour l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-037",
+        "shortId": "Q-C5D927",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre du XIXe siècle est célèbre pour ses représentations de la vie nocturne parisienne et ses affiches pour le Moulin Rouge ?",
+        "choices": [
+          {
+            "text": "Henri Matisse",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri de Toulouse-Lautrec",
+            "isCorrect": true
+          },
+          {
+            "text": "Paul Gauguin",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Seurat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ses œuvres capturent l'effervescence de la Belle Époque à Montmartre avec un style graphique novateur."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-007",
+        "shortId": "Q-54D2CF",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une élection au suffrage universel, l'utilisation de l'isoloir est :",
+        "choices": [
+          {
+            "text": "Facultative si l'électeur affiche clairement son choix",
+            "isCorrect": false
+          },
+          {
+            "text": "Interdite pour les personnes handicapées",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire pour garantir la sincérité du scrutin et protéger l'électeur de toute pression",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservée uniquement aux scrutins de liste",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Code électoral (Art. L62) rend le passage par l'isoloir obligatoire. Cette mesure protège le secret du vote, condition sine qua non de la liberté individuelle de l'électeur et de la validité de la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-063",
+        "shortId": "Q-5C56D7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "751",
+            "isCorrect": false
+          },
+          {
+            "text": "720",
+            "isCorrect": true
+          },
+          {
+            "text": "705",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour la législature 2024-2029, le Parlement européen compte 720 députés représentant les citoyens des 27 États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-041",
+        "shortId": "Q-2871F0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, la liberté d'expression permet de critiquer une religion. Quelle est la limite pénale à cette liberté ?",
+        "choices": [
+          {
+            "text": "Toute critique de textes sacrés est assimilée à un trouble à l'ordre public",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit d'offenser les sentiments religieux des croyants",
+            "isCorrect": false
+          },
+          {
+            "text": "Le blasphème est puni d'une amende de troisième classe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'injure ou l'incitation à la haine envers les personnes en raison de leur appartenance religieuse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi protège les personnes, pas les idées ou les dogmes. On peut critiquer ou caricaturer une religion (liberté de blasphème), mais on ne peut pas insulter des individus ou appeler à la violence contre eux pour leur foi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-080",
+        "shortId": "Q-4DE396",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel souverain a promulgué l'Édit de Fontainebleau en 1685, révoquant l'Édit de Nantes ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIII",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La révocation de l'Édit de Nantes par Louis XIV a entraîné l'exil de nombreux protestants français et affaibli économiquement le royaume."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-041",
+        "shortId": "Q-9E63B8",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la règle concernant le secret médical ?",
+        "choices": [
+          {
+            "text": "Il n'existe pas dans les hôpitaux publics",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est absolu et protège les informations confiées par le patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Il ne s'applique qu'aux maladies contagieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut être levé sur simple demande de l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le secret médical garantit au patient que ses informations de santé ne seront pas divulguées, protégeant ainsi sa dignité et sa vie privée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-058",
+        "shortId": "Q-968DD3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution réunit les chefs d'État ou de gouvernement des pays membres ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État ou de gouvernement des pays membres. C'est le sommet politique qui donne les impulsions majeures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-048",
+        "shortId": "Q-2F31BF",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la mission principale des tribunaux administratifs ?",
+        "choices": [
+          {
+            "text": "Juger les litiges entre commerçants et banques",
+            "isCorrect": false
+          },
+          {
+            "text": "Trancher les conflits liés aux contrats de travail privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Prononcer des peines de prison pour les délits financiers",
+            "isCorrect": false
+          },
+          {
+            "text": "Régler les litiges entre les citoyens et les administrations publiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France connaît une dualité juridictionnelle. L'ordre administratif est compétent dès qu'une personne publique (État, commune) est en cause ou qu'une décision administrative est contestée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-035",
+        "shortId": "Q-C1BC4B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom de la haute assemblée qui représente les collectivités territoriales de la République ?",
+        "choices": [
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil économique, social et environnemental",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat examine les lois et assure la représentation des territoires ruraux et urbains au niveau national."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-035",
+        "shortId": "Q-4BB362",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de conflit entre un usager et une administration de l'État, quel est l'ordre de juridiction compétent ?",
+        "choices": [
+          {
+            "text": "L'ordre judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil de prud'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le contentieux administratif est traité par les tribunaux administratifs, les cours administratives d'appel et le Conseil d'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-035",
+        "shortId": "Q-590A85",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le sigle RSA ?",
+        "choices": [
+          {
+            "text": "Revenu de Solidarité Active",
+            "isCorrect": true
+          },
+          {
+            "text": "Rente Sociale Annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Retraite Sans Assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Revenu Supplémentaire d'Activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RSA (Revenu de Solidarité Active) assure un revenu minimum aux personnes sans ressources. Sa gestion et son financement relèvent du Conseil départemental."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-055",
+        "shortId": "Q-5739B1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous achetez un produit sur Internet. Vous changez d'avis. De combien de temps disposez-vous pour le renvoyer ?",
+        "choices": [
+          {
+            "text": "7 jours ouvrés à compter de la réception",
+            "isCorrect": false
+          },
+          {
+            "text": "30 jours pour les produits de plus de 500 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "14 jours (droit de rétractation)",
+            "isCorrect": true
+          },
+          {
+            "text": "21 jours si le paiement a été effectué par carte bancaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour la vente à distance, le consommateur bénéficie d'un délai légal de rétractation de 14 jours pour retourner le produit sans justification."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-036",
+        "shortId": "Q-17DD8A",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Algérie a-t-elle accédé à l'indépendance après huit ans de guerre ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1954",
+            "isCorrect": false
+          },
+          {
+            "text": "1960",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les accords d'Évian ont mis fin au conflit et marqué la fin de l'empire colonial français au Maghreb."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-038",
+        "shortId": "Q-75B135",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas un salarié peut-il exercer son 'droit de retrait' ?",
+        "choices": [
+          {
+            "text": "S'il n'a pas reçu son salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il a une situation de danger grave et imminent pour sa vie ou sa santé",
+            "isCorrect": true
+          },
+          {
+            "text": "S'il veut partir en vacances plus tôt",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il n'aime pas ses nouveaux collègues",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le salarié peut se retirer d'une situation de travail s'il a un motif raisonnable de penser qu'elle présente un danger grave pour lui."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-002",
+        "shortId": "Q-DAF40D",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du régime des cultes en Alsace et en Moselle par rapport au reste de la France ?",
+        "choices": [
+          {
+            "text": "La laïcité y est plus stricte et interdit toute procession",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens y votent pour choisir la religion locale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Concordat de 1801 y est toujours en vigueur pour certains cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "Il n'y a aucune différence avec les autres départements",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Alsace-Moselle était sous administration allemande en 1905 lors du vote de la loi de séparation. Elle a conservé un régime spécifique où quatre cultes sont reconnus et financés par l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-090",
+        "shortId": "Q-BE4DD9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la citoyenneté européenne ?",
+        "choices": [
+          {
+            "text": "Paris (1951)",
+            "isCorrect": false
+          },
+          {
+            "text": "Maastricht (1992)",
+            "isCorrect": true
+          },
+          {
+            "text": "Rome (1957)",
+            "isCorrect": false
+          },
+          {
+            "text": "Vienne (1815)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté européenne a été instituée par le traité de Maastricht en 1992. Elle complète la citoyenneté nationale sans la remplacer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-038",
+        "shortId": "Q-8EDB34",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la signification historique initiale du drapeau tricolore adopté lors de la Révolution française ?",
+        "choices": [
+          {
+            "text": "La fusion des couleurs des trois ordres (Clergé, Noblesse, Tiers-État)",
+            "isCorrect": false
+          },
+          {
+            "text": "La représentation des trois continents de l'empire colonial de l'époque",
+            "isCorrect": false
+          },
+          {
+            "text": "L'alliance symbolique du blanc (la monarchie) et du bleu et rouge (les couleurs de Paris)",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration des trois jours de la prise de la Bastille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le blanc était la couleur du Roi. Le bleu et le rouge étaient les couleurs de la garde bourgeoise de Paris. Le mélange symbolisait l'union de la nation et du roi sous le régime de la monarchie constitutionnelle naissante."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-047",
+        "shortId": "Q-176684",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la caractéristique climatique principale de la côte méditerranéenne française ?",
+        "choices": [
+          {
+            "text": "Un climat subtropical avec des étés humides",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat montagnard avec des hivers doux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat méditerranéen avec des étés chauds et secs",
+            "isCorrect": true
+          },
+          {
+            "text": "Un climat tempéré avec des précipitations uniformes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce climat se distingue par une forte luminosité, une sécheresse estivale marquée et des vents parfois violents comme le Mistral."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-040",
+        "shortId": "Q-72FE68",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'trêve hivernale' concernant le logement ?",
+        "choices": [
+          {
+            "text": "Une période de réduction d'impôt pour les propriétaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un dispositif d'aide au paiement des factures d'énergie",
+            "isCorrect": false
+          },
+          {
+            "text": "La fermeture annuelle des services du logement",
+            "isCorrect": false
+          },
+          {
+            "text": "Une période durant laquelle les expulsions locatives sont suspendues",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La trêve hivernale dure généralement du 1er novembre au 31 mars."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-036",
+        "shortId": "Q-D5DA0B",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'organisation d'une manifestation sur la voie publique nécessite légalement :",
+        "choices": [
+          {
+            "text": "L'autorisation préalable écrite du Premier Ministre après avis du préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le paiement d'une redevance d'occupation de l'espace pour les manifestants",
+            "isCorrect": false
+          },
+          {
+            "text": "Rien, la liberté de manifester est absolue et ne souffre d'aucune formalité",
+            "isCorrect": false
+          },
+          {
+            "text": "Une déclaration préalable en mairie ou préfecture précisant le parcours",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La manifestation est un droit, mais elle doit être déclarée pour permettre aux autorités d'assurer la sécurité et le maintien de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-039",
+        "shortId": "Q-4E363E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la CEE (Communauté économique européenne) en 1957 ?",
+        "choices": [
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le traité de Rome, signé le 25 mars 1957, a créé la Communauté Économique Européenne (CEE) pour établir un marché commun généralisé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-043",
+        "shortId": "Q-8F8F79",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Sur un ticket de caisse, vous voyez « TVA 20% ». Qui paie réellement cette taxe ?",
+        "choices": [
+          {
+            "text": "Le consommateur final (vous)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le détaillant qui répercute la taxe sur sa marge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fournisseur grossiste en amont de la chaîne commerciale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État la compense directement auprès des entreprises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La TVA est un impôt indirect supporté par le consommateur. Les entreprises ne font que la collecter pour l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-052",
+        "shortId": "Q-75841C",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1815, quelle défaite militaire définitive a mis un terme définitif au règne de Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "La bataille de Leipzig",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Borodino",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Waterloo",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille de Trafalgar",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Vaincu par les troupes britanniques et prussiennes à Waterloo, Napoléon a définitivement abdiqué et a été exilé à Sainte-Hélène, où il est mort en 1821."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-039",
+        "shortId": "Q-C6A42D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme gère les dossiers de demande de retraite du secteur privé ?",
+        "choices": [
+          {
+            "text": "L'Assurance Retraite (CNAV)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "La Direction des Finances Publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Caisse Nationale d'Assurance Vieillesse (CNAV) est l'organisme qui gère la retraite de base des salariés du secteur privé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-053",
+        "shortId": "Q-9B0766",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La liberté d'association permet de créer un groupement de personnes :",
+        "choices": [
+          {
+            "text": "Uniquement après avoir payé une taxe d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Sans autorisation préalable de l'administration",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si le Président l'accepte",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour faire du sport",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 1901, il n'est pas nécessaire de demander une autorisation pour créer une association, c'est une liberté publique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-100",
+        "shortId": "Q-8852D9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui gère les lycées et les transports régionaux ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Régional (la Région)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le cadre de la décentralisation, la Région a la compétence des lycées (construction, entretien) et l'organisation des transports régionaux (TER, cars)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-013",
+        "shortId": "Q-84D686",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel principe constitutionnel se rattache le devoir de porter secours à autrui et de contribuer aux charges publiques ?",
+        "choices": [
+          {
+            "text": "Le principe de liberté individuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de subsidiarité territoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de fraternité et de solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de hiérarchie des normes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité, devise de la République, a acquis une valeur constitutionnelle (décision du Conseil constitutionnel de 2018). Elle fonde le devoir de solidarité, notamment à travers l'impôt et l'assistance aux personnes vulnérables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-010",
+        "shortId": "Q-7385D0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du bassin hydrographique de l'Adour par rapport aux autres grands fleuves français ?",
+        "choices": [
+          {
+            "text": "Il présente un régime pluvio-nival avec une forte influence océanique",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est le seul fleuve dont l'embouchure a été déviée artificiellement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne possède aucun affluent majeur prenant sa source en Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est entièrement canalisé sur la totalité de son parcours navigable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Adour draine les eaux du Piémont pyrénéen. Son débit est marqué par la fonte des neiges et les fortes précipitations atlantiques, causant des crues rapides."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-062",
+        "shortId": "Q-7924A9",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'examen que l'on passe à la fin du lycée pour obtenir le grade de bachelier ?",
+        "choices": [
+          {
+            "text": "Le Brevet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Baccalauréat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Master",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Doctorat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Baccalauréat est le diplôme qui termine les études secondaires et permet l'accès à l'enseignement supérieur."
+      }
+    }
+  ]
+}

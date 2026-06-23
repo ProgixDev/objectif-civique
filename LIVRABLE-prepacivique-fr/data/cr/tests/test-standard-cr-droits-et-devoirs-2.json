@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-droits-et-devoirs-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-droits-standard-081",
+        "shortId": "Q-9D91BC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Jusqu'à quelle réforme législative une femme mariée avait-elle besoin de l'autorisation de son mari pour ouvrir un compte bancaire en son nom propre ?",
+        "choices": [
+          {
+            "text": "La loi de 1901 sur les associations",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 13 juillet 1965",
+            "isCorrect": true
+          },
+          {
+            "text": "Le décret-loi de 1944 sur le vote des femmes",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi Veil de 1975",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 1965 a profondément modifié les régimes matrimoniaux, permettant aux femmes de travailler sans l'accord de leur mari et de gérer librement leurs comptes et leurs biens propres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-098",
+        "shortId": "Q-569E53",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, quelle autorité indépendante est chargée de veiller à ce que l'informatique ne porte atteinte ni à l'identité humaine, ni à la vie privée ?",
+        "choices": [
+          {
+            "text": "La Haute Autorité pour la transparence de la vie publique (HATVP)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission Nationale de l'Informatique et des Libertés (CNIL)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Supérieur de l'Audiovisuel (devenu ARCOM)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Créée en 1978, la CNIL informe, accompagne et contrôle l'usage des données personnelles par les entreprises et les administrations, et peut prononcer des sanctions."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-026",
+        "shortId": "Q-DA17D3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le service national d'accueil téléphonique pour l'enfance en danger, accessible via le numéro 119, présente la caractéristique suivante :",
+        "choices": [
+          {
+            "text": "Il est facturé au prix d'un appel local",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est gratuit et n'apparaît pas sur les factures téléphoniques",
+            "isCorrect": true
+          },
+          {
+            "text": "Il impose de décliner son identité complète dès le début de l'appel",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est réservé exclusivement aux professionnels de santé et de l'éducation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 119 est gratuit, disponible 24h/24 et 7j/7. Pour protéger l'appelant (notamment l'enfant), l'appel est confidentiel et invisible sur les factures détaillées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-022",
+        "shortId": "Q-84BB46",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit à l'instruction est un droit fondamental en France. Jusqu'à quel âge l'instruction est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "12 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire de 3 à 16 ans révolus. Depuis 2020, une obligation de formation (scolarité, apprentissage ou emploi) est étendue jusqu'à 18 ans, mais il ne faut pas confondre « instruction » et « formation »."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-101",
+        "shortId": "Q-5AA789",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le vote est-il obligatoire en France ?",
+        "choices": [
+          {
+            "text": "Oui, sous peine d'une amende de 150 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais c'est un devoir civique fortement encouragé",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, uniquement pour les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, et il n'est même pas recommandé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le vote n'est pas obligatoire (contrairement à la Belgique). Cependant, il est considéré comme un devoir civique essentiel pour faire vivre la démocratie et exprimer la volonté du peuple."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-049",
+        "shortId": "Q-F46A0B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution est à la fois le conseiller juridique du gouvernement et la plus haute juridiction de l'ordre administratif ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil d'État a un double rôle : il rend des avis obligatoires sur les projets de loi (rôle consultatif) et il juge en dernier ressort les actes de l'administration (rôle juridictionnel)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-094",
+        "shortId": "Q-94C75A",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'obligation d'instruction en France signifie que :",
+        "choices": [
+          {
+            "text": "L'État peut imposer une religion officielle aux élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "L'école est interdite aux enfants ne possédant pas la nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contenu de l'enseignement est défini par les maires de chaque commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Les parents doivent assurer l'instruction de l'enfant à l'école ou par autorisation en famille",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'instruction est un droit et un devoir. Si la scolarisation dans un établissement est la règle, l'instruction en famille est strictement encadrée et nécessite une autorisation préalable fondée sur des motifs précis (santé, handicap, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-064",
+        "shortId": "Q-C11128",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le numéro d'appel d'urgence 112 est utilisable :",
+        "choices": [
+          {
+            "text": "Uniquement en France métropolitaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans tous les pays de l'Union européenne et certains pays voisins",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement pour les urgences médicales, hors incendies ou accidents",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement par les titulaires d'une nationalité de l'UE",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 112 est le numéro d'urgence européen unique, gratuit et accessible même depuis un téléphone verrouillé ou sans carte SIM (selon les réseaux), partout dans l'UE."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-086",
+        "shortId": "Q-8537A8",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la suspension du service militaire obligatoire en 1997, quelle étape du « parcours de citoyenneté » demeure obligatoire pour les jeunes Français ?",
+        "choices": [
+          {
+            "text": "La Journée Défense et Citoyenneté (JDC)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un service civique obligatoire de six mois auprès des armées",
+            "isCorrect": false
+          },
+          {
+            "text": "L'adhésion obligatoire à une association de secourisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recensement à la mairie dès l'âge de 14 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le parcours comprend : l'enseignement de la défense, le recensement (à 16 ans) et la JDC. L'attestation de JDC est nécessaire pour s'inscrire aux examens (Bac, permis) avant 25 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-044",
+        "shortId": "Q-185B67",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 39 de la Constitution dispose que l'initiative des lois appartient concurremment :",
+        "choices": [
+          {
+            "text": "Au Premier ministre et aux membres du Parlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République et au Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Conseil constitutionnel et au peuple français",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux préfets de région et aux maires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "On distingue les « projets de loi » (issus du Premier ministre) des « propositions de loi » (issues des députés ou sénateurs). Le Président n'a pas l'initiative directe, il passe par le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-016",
+        "shortId": "Q-8892A4",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la procédure permettant à un justiciable de contester la constitutionnalité d'une loi déjà en vigueur lors d'un procès ?",
+        "choices": [
+          {
+            "text": "L'appel en cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recours pour excès de pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "La Question Prioritaire de Constitutionnalité (QPC)",
+            "isCorrect": true
+          },
+          {
+            "text": "La saisine pour avis du Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La QPC, instaurée en 2008, permet à toute personne partie à un procès de soutenir qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-078",
+        "shortId": "Q-1E26B1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la source juridique garantissant le droit de grève en France ?",
+        "choices": [
+          {
+            "text": "Le Code du travail de 1910",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 21 mars 1884 autorisant les syndicats professionnels",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préambule de 1946 dispose que « le droit de grève s'exerce dans le cadre des lois qui le réglementent ». Il a une valeur constitutionnelle supérieure aux simples lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-024",
+        "shortId": "Q-61D36F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle condition est impérative pour pouvoir être inscrit sur la liste annuelle des jurés d'assises ?",
+        "choices": [
+          {
+            "text": "Exercer une profession juridique (avocat, notaire)",
+            "isCorrect": false
+          },
+          {
+            "text": "Savoir lire et écrire le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge de toute mention",
+            "isCorrect": false
+          },
+          {
+            "text": "Être âgé de plus de 30 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour être juré, il faut être de nationalité française, âgé d'au moins 23 ans, savoir lire et écrire le français, et ne pas se trouver dans un cas d'incapacité ou d'incompatibilité (ex: condamnation pour crime)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-040",
+        "shortId": "Q-F23DAD",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En application du principe de laïcité, quelle est l'obligation d'un agent du service public ?",
+        "choices": [
+          {
+            "text": "Doit être athée ou agnostique pour exercer ses fonctions",
+            "isCorrect": false
+          },
+          {
+            "text": "Peut porter un signe religieux discret s'il n'est pas en contact avec le public",
+            "isCorrect": false
+          },
+          {
+            "text": "Est tenu à une stricte neutralité et ne doit manifester aucune conviction religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "Doit prêter serment de respecter les lois religieuses de sa propre confession",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La neutralité est le corollaire de la laïcité pour l'État. L'agent public représente l'État, qui ne reconnaît aucun culte ; il doit donc traiter tous les citoyens de la même manière, sans afficher ses propres croyances."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-052",
+        "shortId": "Q-5140B0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la théorie de la séparation des pouvoirs, le pouvoir exécutif a pour fonction principale :",
+        "choices": [
+          {
+            "text": "De voter le budget de l'État et de lever l'impôt",
+            "isCorrect": false
+          },
+          {
+            "text": "De veiller à l'exécution des lois et de conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "D'interpréter les textes obscurs pour rendre la justice",
+            "isCorrect": false
+          },
+          {
+            "text": "De modifier la Constitution par décret en Conseil des ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le pouvoir exécutif (Président et Gouvernement) met en œuvre les lois votées par le Parlement et dispose de l'administration et de la force armée pour assurer le fonctionnement du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-034",
+        "shortId": "Q-EDC94C",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 1er de la Constitution de 1958 définit la France comme une République « sociale ». Qu'est-ce que cela implique ?",
+        "choices": [
+          {
+            "text": "Que l'État garantit la protection sociale et la solidarité envers les plus démunis",
+            "isCorrect": true
+          },
+          {
+            "text": "Que la propriété privée est interdite au profit de la propriété collective",
+            "isCorrect": false
+          },
+          {
+            "text": "Que les syndicats ont le pouvoir de voter les lois de finance",
+            "isCorrect": false
+          },
+          {
+            "text": "Que le droit de propriété est subordonné à l'intérêt collectif dans tous les cas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le caractère « social » signifie que la République ne se contente pas de garantir des libertés, mais qu'elle organise la solidarité nationale (santé, retraites, aides sociales) pour corriger les inégalités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-039",
+        "shortId": "Q-84D96F",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La loi du 15 mars 2004 interdit, dans les écoles, collèges et lycées publics :",
+        "choices": [
+          {
+            "text": "Le port de signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse",
+            "isCorrect": true
+          },
+          {
+            "text": "L'enseignement de l'histoire des religions lors des cours d'histoire-géographie",
+            "isCorrect": false
+          },
+          {
+            "text": "La présence de menus de substitution dans les cantines scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute critique de la politique gouvernementale par les enseignants",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Cette loi vise à protéger la neutralité de l'espace scolaire et la liberté de conscience des élèves contre les pressions communautaires. Elle ne s'applique pas aux universités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-075",
+        "shortId": "Q-8666F3",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon l'article 89 de la Constitution, une révision constitutionnelle est définitive après avoir été approuvée par référendum ou, sur décision du Président :",
+        "choices": [
+          {
+            "text": "Par le Conseil d'État réuni en assemblée générale",
+            "isCorrect": false
+          },
+          {
+            "text": "Par une commission paritaire de 14 membres",
+            "isCorrect": false
+          },
+          {
+            "text": "Par le Parlement réuni en Congrès à la majorité des trois cinquièmes",
+            "isCorrect": true
+          },
+          {
+            "text": "Par le Conseil constitutionnel à l'unanimité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour les projets de révision (origine gouvernementale), le Président peut choisir la voie du Congrès (réunion des députés et sénateurs à Versailles) pour éviter un référendum, à condition d'obtenir une majorité qualifiée de 3/5."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-041",
+        "shortId": "Q-2871F0",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, la liberté d'expression permet de critiquer une religion. Quelle est la limite pénale à cette liberté ?",
+        "choices": [
+          {
+            "text": "Toute critique de textes sacrés est assimilée à un trouble à l'ordre public",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est interdit d'offenser les sentiments religieux des croyants",
+            "isCorrect": false
+          },
+          {
+            "text": "Le blasphème est puni d'une amende de troisième classe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'injure ou l'incitation à la haine envers les personnes en raison de leur appartenance religieuse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi protège les personnes, pas les idées ou les dogmes. On peut critiquer ou caricaturer une religion (liberté de blasphème), mais on ne peut pas insulter des individus ou appeler à la violence contre eux pour leur foi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-057",
+        "shortId": "Q-2CCF2B",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit français, constituer un fichier mentionnant l'origine ethnique ou les opinions politiques des personnes est :",
+        "choices": [
+          {
+            "text": "Une pratique administrative standard et obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un droit réservé exclusivement aux employeurs du secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "Un délit puni de peines de prison et de fortes amendes (sauf exceptions légales)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une recommandation de la CNIL pour favoriser la diversité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi « Informatique et Libertés » et le RGPD interdisent de collecter ou de traiter des données dites « sensibles » (race, opinions, religion, santé) afin de prévenir les discriminations et le fichage abusif."
+      }
+    }
+  ]
+}

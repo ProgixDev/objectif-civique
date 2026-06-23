@@ -1,0 +1,621 @@
+{
+  "slug": "test-official-nat-principes-valeurs-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 18,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-official-019",
+        "shortId": "Q-1BBF4A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'une liberté ?",
+        "choices": [
+          {
+            "text": "Le droit de faire tout ce que la loi n'interdit pas explicitement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de faire tout ce qui ne nuit pas à autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit naturel qui prévaut sur toute législation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'imposer ses opinions aux autres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui (DDHC 1789). Elle est bornée par le respect de la loi et la liberté des autres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-023",
+        "shortId": "Q-C7F320",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne peut-elle changer librement de religion en France ?",
+        "choices": [
+          {
+            "text": "Non, sauf si l'on quitte le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la liberté de conscience garantit ce droit",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement après une déclaration en mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à condition d'avoir plus de 18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le droit de changer de religion est un élément fondamental de la liberté de conscience en France. Aucune formalité n'est nécessaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-036",
+        "shortId": "Q-780966",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À l'école, la charte de la laïcité permet de :",
+        "choices": [
+          {
+            "text": "Interdire tout échange pédagogique portant sur les faits religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire de l'athéisme une norme imposée par l'institution scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Expliquer les règles de la laïcité, du vivre-ensemble et du respect des convictions",
+            "isCorrect": true
+          },
+          {
+            "text": "Organiser l'enseignement en fonction des appartenances religieuses des élèves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Charte de la laïcité à l'école a pour objectif de rappeler les principes républicains applicables dans l'enseignement public. Elle vise à garantir la liberté de conscience, l'égalité de tous les élèves et le respect mutuel, tout en assurant la neutralité de l'institution scolaire. Elle n'interdit ni l'étude des faits religieux ni le dialogue, mais encadre le vivre-ensemble."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-009",
+        "shortId": "Q-812FB7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où peut-on voir la devise de la République ?",
+        "choices": [
+          {
+            "text": "Sur les bâtiments religieux construits après 1905",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur la façade de toutes les entreprises françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les avions de la compagnie Air France",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les frontons des mairies et des écoles publiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La devise 'Liberté, Égalité, Fraternité' est inscrite sur les bâtiments publics (mairies, écoles, palais de justice) et la monnaie. Elle ne figure pas obligatoirement sur les documents d'identité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-002",
+        "shortId": "Q-1921CE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+        "choices": [
+          {
+            "text": "Ses compétences professionnelles et son expérience",
+            "isCorrect": true
+          },
+          {
+            "text": "Son affiliation syndicale ou politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Sa situation familiale et son nombre d'enfants",
+            "isCorrect": false
+          },
+          {
+            "text": "Son état de santé général",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'employeur ne peut poser que des questions en lien direct avec le poste. La situation familiale, la santé (sauf médecine du travail) ou les opinions sont des motifs de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-028",
+        "shortId": "Q-04614C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que dit la loi de 1905 ?",
+        "choices": [
+          {
+            "text": "La France est une République chrétienne mais ouverte aux autres cultes",
+            "isCorrect": false
+          },
+          {
+            "text": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte",
+            "isCorrect": true
+          },
+          {
+            "text": "Le catholicisme est la religion officielle de l'État français",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État finance équitablement toutes les religions pour garantir l'égalité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi de 1905 (Article 2) pose le principe de séparation : 'La République ne reconnaît, ne salarie ni ne subventionne aucun culte'. C'est la fin du financement public des religions (sauf cas particuliers comme les aumôneries)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-037",
+        "shortId": "Q-DAC95B",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+        "choices": [
+          {
+            "text": "Les entreprises privées agissant en dehors de toute mission de service public",
+            "isCorrect": false
+          },
+          {
+            "text": "Les usagers des services publics dans l'expression de leurs convictions personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Les visiteurs et touristes présents sur le territoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Les fonctionnaires et l'ensemble des agents chargés d'une mission de service public",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le principe de laïcité impose une obligation de neutralité religieuse aux fonctionnaires et aux agents publics dans l'exercice de leurs fonctions. Ce devoir garantit l'égalité de traitement des usagers et la neutralité de l'État, tandis que les usagers bénéficient de la liberté de conscience, sous réserve du respect de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-016",
+        "shortId": "Q-62683A",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+        "choices": [
+          {
+            "text": "Le coq gaulois",
+            "isCorrect": true
+          },
+          {
+            "text": "La fleur de lys",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Bien que n'étant pas un symbole constitutionnel, le Coq est l'emblème sportif de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-021",
+        "shortId": "Q-7904BF",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sur quel document peut-on voir Marianne ?",
+        "choices": [
+          {
+            "text": "Sur les billets de train",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les timbres-poste",
+            "isCorrect": true
+          },
+          {
+            "text": "Sur les cartes de transport en commun",
+            "isCorrect": false
+          },
+          {
+            "text": "Sur les factures d'électricité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne figure traditionnellement sur les timbres-poste. Elle ne figure pas sur des documents commerciaux ou privés comme les factures ou les transports."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-004",
+        "shortId": "Q-783093",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Les impôts sont payés uniquement par les entreprises pour financer l'économie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'impôt sur le revenu est la seule source de revenus de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts servent uniquement à rembourser la dette de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Les impôts financent les services publics (éducation, santé, sécurité, justice)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les impôts (TVA, impôt sur le revenu, etc.) financent l'ensemble des services publics et la solidarité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-005",
+        "shortId": "Q-B71CF8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La liberté d'association est :",
+        "choices": [
+          {
+            "text": "Réservée aux citoyens de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Limitée aux associations sportives et culturelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Un droit fondamental permettant de créer une association sans autorisation préalable",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumise à l'autorisation du Préfet avant création",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Selon la loi de 1901, la constitution d'une association est libre et ne nécessite pas d'autorisation préalable de l'État, seulement une déclaration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-007",
+        "shortId": "Q-F16FCE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces prénoms évoque un symbole de la République ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          },
+          {
+            "text": "Sainte Geneviève",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est la figure allégorique (symbolique) de la République. Les autres sont des personnages historiques réels (héroïne, reine, sainte) mais ne représentent pas le régime républicain."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-038",
+        "shortId": "Q-C519F0",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne déclare ne croire en aucun dieu. On peut dire :",
+        "choices": [
+          {
+            "text": "Qu'elle doit adopter une religion pour participer à la vie publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elle a les mêmes droits et devoirs que les autres citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Qu'elle ne peut pas exprimer d'opinion sur les religions",
+            "isCorrect": false
+          },
+          {
+            "text": "Qu'elle enfreint le principe de laïcité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, la laïcité garantit l'égalité de tous les citoyens quelles que soient leurs convictions religieuses ou philosophiques. Le fait de ne croire en aucun dieu n'entraîne aucune différence de droits ou de devoirs : chacun peut participer pleinement à la vie publique dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-024",
+        "shortId": "Q-C4DBC5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Selon le principe de laïcité, que signifie la neutralité de l'État ?",
+        "choices": [
+          {
+            "text": "L'État impose l'athéisme à tous les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État n'aide aucune religion et ne discrimine aucune religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État interdit la pratique religieuse dans la rue",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État reconnaît uniquement la religion majoritaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La neutralité signifie que l'État ne reconnaît, ne salarie ni ne subventionne aucun culte (Loi de 1905). Il est arbitre et garant de la liberté de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-031",
+        "shortId": "Q-A27008",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+        "choices": [
+          {
+            "text": "Uniquement une croix catholique",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les signes, c'est la liberté",
+            "isCorrect": false
+          },
+          {
+            "text": "Des signes discrets seulement",
+            "isCorrect": true
+          },
+          {
+            "text": "Aucun signe, même invisible",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi de 2004 interdit les signes *ostensibles* (visibles de loin) mais tolère les signes *discrets*."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-035",
+        "shortId": "Q-83F2CC",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la laïcité ?",
+        "choices": [
+          {
+            "text": "Un principe de tolérance générale laissant l'État intervenir dans les affaires religieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "La promotion par l'État d'une religion ou d'une tradition spirituelle particulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Une idéologie visant à exclure toute expression religieuse de la société",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe républicain garantissant la neutralité de l'État et la liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité est un principe fondamental de la République française qui garantit la liberté de conscience et de religion, tout en imposant la neutralité de l'État à l'égard de toutes les convictions. Elle ne constitue ni une religion, ni une opinion, ni une idéologie antireligieuse, mais un cadre juridique assurant l'égalité et la coexistence pacifique des croyances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-027",
+        "shortId": "Q-1C0DFE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "choices": [
+          {
+            "text": "1905",
+            "isCorrect": true
+          },
+          {
+            "text": "1908",
+            "isCorrect": false
+          },
+          {
+            "text": "1881",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi du 9 décembre 1905 est le pilier de la laïcité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-001",
+        "shortId": "Q-94FE17",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+        "choices": [
+          {
+            "text": "...marchons vers la victoire !",
+            "isCorrect": false
+          },
+          {
+            "text": "...formez vos bataillons !",
+            "isCorrect": false
+          },
+          {
+            "text": "...le jour de gloire est arrivé !",
+            "isCorrect": true
+          },
+          {
+            "text": "...l'étendard sanglant est levé !",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise commence par « Allons enfants de la patrie, le jour de gloire est arrivé ! ». « L'étendard sanglant » et « Formez vos bataillons » sont des vers qui viennent ensuite."
+      }
+    }
+  ]
+}

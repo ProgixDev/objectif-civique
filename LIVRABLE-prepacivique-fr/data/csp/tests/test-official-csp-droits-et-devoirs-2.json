@@ -1,0 +1,349 @@
+{
+  "slug": "test-official-csp-droits-et-devoirs-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 10,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-official-014",
+        "shortId": "Q-6AB546",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La peine de mort est :",
+        "choices": [
+          {
+            "text": "Abolie en 1981 et interdite par la Constitution depuis 2007",
+            "isCorrect": true
+          },
+          {
+            "text": "Suspendue depuis 1981 mais rétablissable par décret",
+            "isCorrect": false
+          },
+          {
+            "text": "Maintenue uniquement pour les crimes terroristes",
+            "isCorrect": false
+          },
+          {
+            "text": "Remplacée automatiquement par une peine de sûreté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La peine de mort a été abolie par la loi du 9 octobre 1981. Depuis la révision constitutionnelle de 2007, la Constitution interdit explicitement son rétablissement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-022",
+        "shortId": "Q-358108",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que risque une personne qui ne respecte pas la loi ?",
+        "choices": [
+          {
+            "text": "Aucune conséquence si l'infraction est de faible gravité",
+            "isCorrect": false
+          },
+          {
+            "text": "Des sanctions prévues par la loi, selon la nature et la gravité des faits",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement un avertissement oral sans suite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une perte automatique de la nationalité française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le non-respect de la loi expose à des sanctions proportionnées, qui peuvent être pénales, administratives ou civiles selon les cas. Elles sont déterminées par les textes et l'autorité compétente."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-028",
+        "shortId": "Q-9F3601",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quoi consiste la traite des êtres humains ?",
+        "choices": [
+          {
+            "text": "La fraude aux prestations sociales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le recrutement et l'exploitation de personnes par contrainte, fraude ou abus de vulnérabilité",
+            "isCorrect": true
+          },
+          {
+            "text": "Le travail non déclaré sans contrainte ni captation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'emploi d'un étranger sans titre, sans exploitation organisée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La traite des êtres humains implique l'exploitation d'une personne (sexuelle, travail forcé, servitude, etc.) par des moyens de contrainte, de fraude ou d'abus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-008",
+        "shortId": "Q-EBDF8D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel droit permet à une personne de se défendre devant la justice ?",
+        "choices": [
+          {
+            "text": "Le droit à un procès équitable et à l'assistance d'un avocat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de choisir les magistrats chargés de juger l'affaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de refuser toute comparution sans justification",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de reporter indéfiniment l'audience",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de se défendre repose sur les droits de la défense: accès à un tribunal impartial, contradiction des preuves et assistance d'un avocat. Les autres propositions ne correspondent pas à des garanties procédurales reconnues."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-009",
+        "shortId": "Q-251A8D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+        "choices": [
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution du 4 octobre 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention européenne des droits de l'homme de 1950",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La DDHC de 1789 est le texte fondateur en France pour les libertés publiques et l'égalité civique. Les autres textes sont importants, mais ils sont postérieurs ou de nature différente."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-025",
+        "shortId": "Q-A9C441",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce qu'une infraction ?",
+        "choices": [
+          {
+            "text": "Tout manquement à une règle morale, même sans texte légal",
+            "isCorrect": false
+          },
+          {
+            "text": "Une erreur administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "Une impolitesse",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte interdit par la loi et sanctionné par une peine",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Une infraction est définie par un texte pénal qui interdit un comportement et prévoit une sanction. Sans base légale pénale, il ne s'agit pas d'une infraction au sens du droit pénal."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-023",
+        "shortId": "Q-2DFE11",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle de la gendarmerie ?",
+        "choices": [
+          {
+            "text": "Rendre les décisions de justice pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois de sécurité intérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité publique, la police judiciaire et le maintien de l'ordre, notamment en zone gendarmerie",
+            "isCorrect": true
+          },
+          {
+            "text": "Gérer l'état civil des communes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La gendarmerie nationale exerce des missions de sécurité, d'enquête judiciaire et de maintien de l'ordre. Elle n'adopte pas la loi et ne rend pas les jugements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-020",
+        "shortId": "Q-3BB20B",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire une personne en cas d'accident ?",
+        "choices": [
+          {
+            "text": "Porter assistance: sécuriser la zone si possible, alerter les secours et aider sans se mettre en danger",
+            "isCorrect": true
+          },
+          {
+            "text": "Attendre les secours sans agir, même si un danger immédiat persiste",
+            "isCorrect": false
+          },
+          {
+            "text": "Prévenir son assurance avant d'appeler les numéros d'urgence",
+            "isCorrect": false
+          },
+          {
+            "text": "Déplacer systématiquement la victime, même en cas de traumatisme suspecté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En cas d'accident, il faut protéger, alerter et secourir selon ses capacités. L'obligation porte au minimum sur l'alerte aux secours et l'assistance raisonnable, sans s'exposer soi-même à un danger grave."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-016",
+        "shortId": "Q-2BE318",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "choices": [
+          {
+            "text": "Non, la polygamie est interdite",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si les unions ont été célébrées à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord écrit de toutes les personnes concernées",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, uniquement dans le cadre d'une union religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit français du mariage repose sur la monogamie. Contracter ou maintenir plusieurs mariages simultanés est contraire au droit civil et pénal français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-026",
+        "shortId": "Q-A3185D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment peut-on réduire ses déchets ?",
+        "choices": [
+          {
+            "text": "En mélangeant tous les déchets pour simplifier la collecte",
+            "isCorrect": false
+          },
+          {
+            "text": "En brûlant ses déchets ménagers à domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "En privilégiant les produits jetables a usage unique",
+            "isCorrect": false
+          },
+          {
+            "text": "En triant les déchets, en recyclant et en compostant les biodéchets",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La réduction des déchets repose sur la prévention, le tri, le recyclage et le compostage. Ces pratiques diminuent les volumes résiduels et améliorent la valorisation des matières."
+      }
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "slug": "test-official-nat-histoire-geographie-culture-4",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 23,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-official-046",
+        "shortId": "Q-6D3A2D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel peintre célèbre a peint les Nymphéas ?",
+        "choices": [
+          {
+            "text": "Paul Gauguin",
+            "isCorrect": false
+          },
+          {
+            "text": "Edouard Manet",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Renoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les Nymphéas sont une série de peintures à l'huile réalisées par Claude Monet à la fin de sa vie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-051",
+        "shortId": "Q-59F945",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+        "choices": [
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie (ainsi que la Suisse)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-016",
+        "shortId": "Q-BDE340",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Shoah ?",
+        "choices": [
+          {
+            "text": "La bataille décisive pour la libération de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exode des Français en 1940 face à l'avancée allemande",
+            "isCorrect": false
+          },
+          {
+            "text": "L'extermination systématique des Juifs par les nazis",
+            "isCorrect": true
+          },
+          {
+            "text": "Le nom de code du débarquement en Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Shoah désigne le génocide des Juifs perpétré par le régime nazi et ses collaborateurs pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-039",
+        "shortId": "Q-7AABF6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel peintre est français ?",
+        "choices": [
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Salvador Dalí",
+            "isCorrect": false
+          },
+          {
+            "text": "Vincent Van Gogh",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Claude Monet est un peintre français, chef de file de l'impressionnisme. Picasso et Dalí étaient espagnols, Van Gogh était néerlandais."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-082",
+        "shortId": "Q-34C369",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle région française est réputée pour ses stations de ski ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pays de la Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre-Val de Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Auvergne-Rhône-Alpes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La région Auvergne-Rhône-Alpes abrite la majorité des grandes stations de ski françaises (dans les Alpes du Nord)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-022",
+        "shortId": "Q-A9FF26",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1789 - 1799",
+            "isCorrect": false
+          },
+          {
+            "text": "1939 - 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1870 - 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1914 - 1918",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-003",
+        "shortId": "Q-BECEDF",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie la date du 14 juillet pour les Français ?",
+        "choices": [
+          {
+            "text": "L'avènement de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête nationale symbolisant la prise de la Bastille",
+            "isCorrect": true
+          },
+          {
+            "text": "La libération de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 14 juillet célèbre la Fête nationale, en commémoration de la prise de la Bastille (1789) et de la Fête de la Fédération (1790), symboles de la fin de la monarchie absolue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-030",
+        "shortId": "Q-3EB5DD",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a aboli l'esclavage en France en 1848 ?",
+        "choices": [
+          {
+            "text": "Toussaint Louverture",
+            "isCorrect": false
+          },
+          {
+            "text": "Léon Gambetta",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Schœlcher",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Victor Schœlcher, sous-secrétaire d'État, a joué un rôle déterminant dans le décret d'abolition de l'esclavage de 1848."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-071",
+        "shortId": "Q-34D32C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle mer ou océan borde la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "La mer Baltique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan Atlantique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'océan Pacifique",
+            "isCorrect": false
+          },
+          {
+            "text": "La mer Noire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France métropolitaine est bordée à l'ouest par l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-070",
+        "shortId": "Q-4BD98D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quelle ville française décolle la fusée Ariane ?",
+        "choices": [
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Cayenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Kourou",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Centre Spatial Guyanais est situé à Kourou, en Guyane française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-067",
+        "shortId": "Q-409E58",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la plus haute montagne de France ?",
+        "choices": [
+          {
+            "text": "La Barre des Écrins",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont Blanc",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Pic du Midi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Puy de Dôme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Mont Blanc, situé dans les Alpes, est le point culminant de la France (et de l'Europe occidentale) avec environ 4807 mètres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-078",
+        "shortId": "Q-EFBC57",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+        "choices": [
+          {
+            "text": "Grenoble",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint-Étienne",
+            "isCorrect": false
+          },
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lyon est le chef-lieu (préfecture) de la région Auvergne-Rhône-Alpes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-015",
+        "shortId": "Q-8E0CD7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quand date l'appel à la résistance du général de Gaulle ?",
+        "choices": [
+          {
+            "text": "Du 8 mai 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 18 juin 1940",
+            "isCorrect": true
+          },
+          {
+            "text": "Du 6 juin 1944",
+            "isCorrect": false
+          },
+          {
+            "text": "Du 11 novembre 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 18 juin 1940, depuis Londres, le général de Gaulle a lancé un appel sur la BBC invitant les Français à refuser la défaite et à continuer le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-006",
+        "shortId": "Q-2C5960",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Simone Veil est une figure importante de l’histoire française. Elle a notamment :",
+        "choices": [
+          {
+            "text": "Été la première femme Présidente de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédigé la Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Fondé le mouvement de la Résistance intérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Fait adopter la loi légalisant l'interruption volontaire de grossesse (IVG)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Simone Veil, en tant que ministre de la Santé, a porté la loi de 1975 dépénalisant l'interruption volontaire de grossesse (IVG). Elle fut aussi la première présidente du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-076",
+        "shortId": "Q-ECA4D2",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "22",
+            "isCorrect": false
+          },
+          {
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "text": "13",
+            "isCorrect": true
+          },
+          {
+            "text": "96",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions (au lieu de 22 auparavant)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-080",
+        "shortId": "Q-CC237C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille est le chef-lieu de la région Provence-Alpes-Côte d'Azur (PACA)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-056",
+        "shortId": "Q-AF58F8",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Albert Camus ?",
+        "choices": [
+          {
+            "text": "Un célèbre architecte du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un réalisateur de la Nouvelle Vague",
+            "isCorrect": false
+          },
+          {
+            "text": "Un écrivain et philosophe du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un homme politique de la IVe République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Albert Camus (1913-1960) était un écrivain, dramaturge et philosophe engagé, lauréat du prix Nobel de littérature en 1957."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-073",
+        "shortId": "Q-24450C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la France d'outre-mer ?",
+        "choices": [
+          {
+            "text": "Les territoires de la République française situés hors du continent européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Les anciennes colonies devenues indépendantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Les pays francophones d'Afrique",
+            "isCorrect": false
+          },
+          {
+            "text": "Les bases militaires françaises à l'étranger",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Outre-mer désigne l'ensemble des territoires sous souveraineté française situés hors de la métropole européenne (DROM-COM)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-011",
+        "shortId": "Q-CDECB1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+        "choices": [
+          {
+            "text": "Charles X",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI a été condamné à mort et guillotiné le 21 janvier 1793 sur la place de la Révolution (actuelle place de la Concorde)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-068",
+        "shortId": "Q-24410A",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île française est située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "Tahiti",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nouvelle-Calédonie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion (et Mayotte) se situe dans l'océan Indien. La Guadeloupe est dans les Caraïbes, Tahiti et la Nouvelle-Calédonie dans le Pacifique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-025",
+        "shortId": "Q-904078",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la première étape de la construction européenne en 1951 ?",
+        "choices": [
+          {
+            "text": "La Communauté Européenne du Charbon et de l'Acier (CECA)",
+            "isCorrect": true
+          },
+          {
+            "text": "La création de l'Euro",
+            "isCorrect": false
+          },
+          {
+            "text": "La Communauté Économique Européenne (CEE)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Espace Schengen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La première étape fut la création de la CECA en 1951, plaçant la production de charbon et d'acier de la France et de l'Allemagne (et 4 autres pays) sous une autorité commune."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-063",
+        "shortId": "Q-F5CBDB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel monument historique se trouve sur une île en Normandie ?",
+        "choices": [
+          {
+            "text": "La cathédrale de Reims",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont-Saint-Michel",
+            "isCorrect": true
+          },
+          {
+            "text": "La citadelle de Carcassonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le château de Chenonceau",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Mont-Saint-Michel et sa baie sont situés en Normandie (bien que proche de la Bretagne) et classés au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-008",
+        "shortId": "Q-BB67CC",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+        "choices": [
+          {
+            "text": "En Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "En Nouvelle-Aquitaine",
+            "isCorrect": false
+          },
+          {
+            "text": "En Normandie",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans les Hauts-de-France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le débarquement allié du 6 juin 1944 a eu lieu sur les plages de Normandie (Utah, Omaha, Gold, Juno, Sword)."
+      }
+    }
+  ]
+}

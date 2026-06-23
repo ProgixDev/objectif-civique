@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-histoire-geographie-culture-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-histoire-standard-037",
+        "shortId": "Q-69D541",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est le plus grand port de commerce de France et la deuxième plus grande ville du pays ?",
+        "choices": [
+          {
+            "text": "Le Havre",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fondée par les Grecs (Massalia), Marseille est une métropole méditerranéenne majeure et la plus ancienne ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-012",
+        "shortId": "Q-D5F4BE",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité de 1957 a fondé la Communauté Économique Européenne (ancêtre de l'UE) ?",
+        "choices": [
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est l'un des six pays fondateurs (avec l'Allemagne, l'Italie et le Benelux) de la construction européenne via le Traité de Rome."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-014",
+        "shortId": "Q-B5D524",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île est devenue française en 1768, juste un an avant la naissance de Napoléon Bonaparte sur son sol ?",
+        "choices": [
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Gênes a cédé la Corse à la France en 1768. Napoléon est né Français à Ajaccio en 1769."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-009",
+        "shortId": "Q-394A29",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui commandait les forces alliées lors du Débarquement en Normandie le 6 juin 1944 ?",
+        "choices": [
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Eisenhower",
+            "isCorrect": true
+          },
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le général américain Dwight D. Eisenhower qui a dirigé l'opération Overlord, permettant la libération de la France et de l'Europe de l'Ouest."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-016",
+        "shortId": "Q-738E5B",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le point culminant de la France et de l'Europe occidentale (4807 m) ?",
+        "choices": [
+          {
+            "text": "Le Mont Ventoux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont Blanc",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Pic du Midi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Puy de Sancy",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Situé dans les Alpes, à la frontière franco-italienne, le Mont Blanc est le toit de l'Europe occidentale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-038",
+        "shortId": "Q-FEF1A3",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Roquefort est un fromage à pâte persillée fabriqué à partir de lait de :",
+        "choices": [
+          {
+            "text": "Vache",
+            "isCorrect": false
+          },
+          {
+            "text": "Chèvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Brebis",
+            "isCorrect": true
+          },
+          {
+            "text": "Bufflonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Roquefort bénéficie d'une Appellation d'Origine Protégée (AOP). Il doit être affiné dans les caves naturelles de Roquefort-sur-Soulzon."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-033",
+        "shortId": "Q-5F43B1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Jean-Paul Sartre et Simone de Beauvoir sont les figures de proue de quel courant philosophique ?",
+        "choices": [
+          {
+            "text": "L'Existentialisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Marxisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Structuralisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Libéralisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'existentialisme postule que l'être humain est libre et se définit par ses actions (« L'existence précède l'essence »)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-004",
+        "shortId": "Q-3FC42E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi Charles de Gaulle est-il une figure historique majeure ?",
+        "choices": [
+          {
+            "text": "Il a créé la Sécurité sociale et réformé l'éducation nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a été le chef de la France Libre en 1940, puis le fondateur et premier Président de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a dirigé la France pendant la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a signé le traité de l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Appel du 18 juin 1940, la Libération, et la Constitution de 1958 font de lui l'homme d'État français le plus important du XXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-002",
+        "shortId": "Q-02645E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel rôle majeur Jean Moulin a-t-il joué dans l'Histoire de France ?",
+        "choices": [
+          {
+            "text": "Il a unifié les mouvements de la Résistance au sein du CNR (Conseil National de la Résistance)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a été le premier Premier ministre de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a rédigé la Déclaration des Droits de l'Homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a commandé le débarquement de Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Envoyé par de Gaulle, Jean Moulin a réussi à unifier les différents mouvements de résistance intérieure. Arrêté et torturé par la Gestapo, il est mort sans parler. Il est une figure héroïque nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-013",
+        "shortId": "Q-EE0D8C",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe des Lumières est célèbre pour son combat contre l'intolérance religieuse et l'affaire Calas ?",
+        "choices": [
+          {
+            "text": "Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Montesquieu",
+            "isCorrect": false
+          },
+          {
+            "text": "Descartes",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Voltaire (XVIIIe siècle) a défendu la liberté de penser et la tolérance religieuse. Il est une figure majeure de l'esprit critique français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-047",
+        "shortId": "Q-46E741",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Guyane est un territoire français situé :",
+        "choices": [
+          {
+            "text": "En Afrique",
+            "isCorrect": false
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": true
+          },
+          {
+            "text": "En Asie",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Guyane est le plus grand département français (en superficie). Elle abrite la base spatiale européenne de Kourou et une partie de la forêt amazonienne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-018",
+        "shortId": "Q-819C45",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se trouve le tombeau de Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Au Château de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "Sous le dôme des Invalides à Paris",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon repose aux Invalides depuis le retour de ses cendres en 1840. Le site abrite aussi le Musée de l'Armée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-026",
+        "shortId": "Q-0DA8E5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel café parisien fondé en 1686 a été le lieu de rencontre des philosophes des Lumières ?",
+        "choices": [
+          {
+            "text": "Le Fouquet's",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Café de la Paix",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procope",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Deux Magots",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Procope est considéré comme le plus vieux café de Paris. Voltaire, Rousseau, Diderot et plus tard les Révolutionnaires s'y réunissaient."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-025",
+        "shortId": "Q-666808",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe la Nouvelle-Calédonie ?",
+        "choices": [
+          {
+            "text": "Dans l'Océan Indien",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans les Caraïbes",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Pacifique",
+            "isCorrect": true
+          },
+          {
+            "text": "En Amérique du Sud",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Nouvelle-Calédonie est un archipel d'Océanie, situé dans le Pacifique Sud. C'est une collectivité française à statut particulier."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-006",
+        "shortId": "Q-749394",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel type de climat domine en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "Un climat polaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat tempéré",
+            "isCorrect": true
+          },
+          {
+            "text": "Un climat tropical humide",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat aride",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Située à l'ouest de l'Europe, la France bénéficie d'un climat tempéré, favorable à l'agriculture, avec des hivers modérés et des étés chauds."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-008",
+        "shortId": "Q-3FE1A7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction actuelle du Panthéon à Paris ?",
+        "choices": [
+          {
+            "text": "Une église pour les mariages royaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un musée d'art moderne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le siège du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une nécropole laïque honorant les grands personnages de la Nation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Sur son fronton est inscrit : « Aux grands hommes, la patrie reconnaissante ». Voltaire, Rousseau, Victor Hugo, Marie Curie ou encore Simone Veil y reposent."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-042",
+        "shortId": "Q-218564",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est mondialement réputée pour ses vins rouges prestigieux et ses châteaux viticoles ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "La région de Bordeaux",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Auvergne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le vignoble bordelais produit des vins parmi les plus chers et réputés du monde (Saint-Émilion, Médoc, Pomerol)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-019",
+        "shortId": "Q-3A1185",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme de lettres du XIXe siècle a pris un pseudonyme masculin pour écrire librement ?",
+        "choices": [
+          {
+            "text": "Colette",
+            "isCorrect": false
+          },
+          {
+            "text": "Simone de Beauvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "George Sand",
+            "isCorrect": true
+          },
+          {
+            "text": "Marie de Sévigné",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "George Sand était une romancière prolifique et engagée, figure de l'émancipation féminine et du romantisme."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-015",
+        "shortId": "Q-4A641E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La grotte de Lascaux (Dordogne) est mondialement connue pour :",
+        "choices": [
+          {
+            "text": "Ses formations de cristaux géants",
+            "isCorrect": false
+          },
+          {
+            "text": "Ses peintures rupestres préhistoriques (art pariétal)",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir abrité les premiers rois de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Être le plus profond gouffre d'Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Surnommée la « Chapelle Sixtine de la Préhistoire », elle abrite des peintures d'animaux datant d'environ 18 000 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-027",
+        "shortId": "Q-C4F75F",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel mouvement pictural, né en France vers 1870, privilégie la lumière et l'impression visuelle ?",
+        "choices": [
+          {
+            "text": "Le Cubisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Romantisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Impressionnisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Surréalisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Claude Monet, Auguste Renoir, Camille Pissarro sont des maîtres de l'Impressionnisme, qui a révolutionné la peinture moderne."
+      }
+    }
+  ]
+}

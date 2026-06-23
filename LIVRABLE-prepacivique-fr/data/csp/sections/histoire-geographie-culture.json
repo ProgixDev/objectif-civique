@@ -1,0 +1,3646 @@
+{
+  "level": "CSP",
+  "section": "histoire-geographie-culture",
+  "sectionLabel": "Histoire, géographie et culture",
+  "count": 107,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-histoire-official-001",
+        "shortId": "Q-B700B8",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a débuté la Révolution française ?",
+        "choices": [
+          {
+            "text": "En 1792",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1815",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1848",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Révolution française débute en 1789, notamment avec la réunion des États généraux puis la prise de la Bastille. Cette rupture ouvre la fin de l'Ancien Régime et la transformation politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-002",
+        "shortId": "Q-C15D70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Un général qui a créé l'Empire français (1804-1814)",
+            "isCorrect": true
+          },
+          {
+            "text": "Un roi de France du Moyen Âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Un savant français célèbre",
+            "isCorrect": false
+          },
+          {
+            "text": "Un évêque important",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Napoléon Bonaparte (1769-1821) était un général militaire qui a pris le pouvoir en 1799. Il s'est proclamé empereur en 1804 et a gouverné la France de manière autoritaire, créant le Premier Empire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-003",
+        "shortId": "Q-45BB2E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces personnages historiques est français ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques Brel",
+            "isCorrect": false
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Victor Hugo est français. Jacques Brel est belge. Jean-Jacques Rousseau est né à Genève (Suisse). Pablo Picasso est espagnol (bien qu'il ait vécu en France)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-004",
+        "shortId": "Q-9B5088",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle République est-on aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Dans la IIIe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans une monarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la Ve République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est aujourd'hui dans la Ve République depuis 1958. Elle a été fondée par Charles de Gaulle avec une nouvelle Constitution qui renforce le pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-005",
+        "shortId": "Q-9F8BFC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la Shoah ?",
+        "choices": [
+          {
+            "text": "Une révolte paysanne au Moyen Âge",
+            "isCorrect": false
+          },
+          {
+            "text": "Le génocide des Juifs organisé par l'Allemagne nazie",
+            "isCorrect": true
+          },
+          {
+            "text": "Une période de la Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Une guerre civile en Europe de l'Est",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Shoah est le génocide systématique des Juifs par le régime nazi et ses collaborateurs. Environ 6 millions de Juifs ont été assassinés. C'est un crime contre l'humanité reconnu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-006",
+        "shortId": "Q-FCBD9F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays ou région du monde a été colonisé par la France ?",
+        "choices": [
+          {
+            "text": "L'Afrique du Nord (Algérie, Maroc, Tunisie), l'Afrique sub-saharienne, l'Indochine",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Afrique du Sud et le Congo",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Inde et l'Australie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Amérique du Sud (Brésil, Argentine)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La France a été une puissance coloniale majeure. Elle a colonisé des territoires en Afrique du Nord, en Afrique sub-saharienne, en Indochine (Vietnam, Cambodge, Laos), aux Caraïbes et ailleurs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-007",
+        "shortId": "Q-DD6F64",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+        "choices": [
+          {
+            "text": "Robespierre",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Jules Ferry",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les lois Jules Ferry de 1881-1882 ont rendu l'école primaire gratuite, laïque et obligatoire en France. Cela a créé l'école républicaine qui transmet les valeurs de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-008",
+        "shortId": "Q-FDD93E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "De 1870 à 1871",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1914 à 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1939 à 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "De 1945 à 1950",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. L'Allemagne nazie, dirigée par Adolf Hitler, a lancé une guerre d'agression qui a tué environ 70 millions de personnes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-009",
+        "shortId": "Q-281DCB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand a eu lieu la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "De 1914 à 1918",
+            "isCorrect": true
+          },
+          {
+            "text": "De 1914 à 1921",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1939 à 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "De 1918 à 1922",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Première Guerre mondiale s'étend de 1914 à 1918. Les dates 1870-1871 correspondent à la guerre franco-prussienne, et 1939-1945 à la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-010",
+        "shortId": "Q-5D66A9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+        "choices": [
+          {
+            "text": "En 1992",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1975",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1957",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Communauté Économique Européenne (CEE) a été créée en 1957 par le Traité de Rome. Elle est devenue l'Union européenne (UE) en 1993."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-011",
+        "shortId": "Q-7D925F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+        "choices": [
+          {
+            "text": "À la fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "À la fête nationale du 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'armistice de 1918, fin de la Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "À la Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre marque l'anniversaire de l'armistice du 11 novembre 1918 qui a mis fin à la Première Guerre mondiale. C'est un jour de commémoration en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-012",
+        "shortId": "Q-3E24DC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a été le premier Président élu sous la Ve République ?",
+        "choices": [
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Charles de Gaulle a été le fondateur et le premier Président de la Ve République (1959-1969). Il a créé une nouvelle Constitution en 1958 qui renforce le pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-013",
+        "shortId": "Q-723E15",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+        "choices": [
+          {
+            "text": "En 1848",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1789",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1920",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'esclavage a été aboli définitivement en France en 1848 par le Gouvernement provisoire de la IIe République. Avant cela, il avait été aboli une première fois en 1794 puis rétabli par Napoléon en 1802."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-014",
+        "shortId": "Q-E4F518",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quelle année l'école publique est-elle gratuite ?",
+        "choices": [
+          {
+            "text": "Depuis 1881",
+            "isCorrect": true
+          },
+          {
+            "text": "Depuis 1945",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1900",
+            "isCorrect": false
+          },
+          {
+            "text": "Depuis 1960",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école publique primaire est gratuite en France depuis 1881 grâce aux lois Jules Ferry. Cette gratuité s'est progressivement étendue à tous les niveaux d'enseignement public."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-015",
+        "shortId": "Q-362E1B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il eu de républiques en France ?",
+        "choices": [
+          {
+            "text": "Trois",
+            "isCorrect": false
+          },
+          {
+            "text": "Cinq",
+            "isCorrect": true
+          },
+          {
+            "text": "Deux",
+            "isCorrect": false
+          },
+          {
+            "text": "Sept",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France a connu cinq régimes républicains : Ière République (1792-1804), IIe République (1848-1852), IIIe République (1870-1940), IVe République (1946-1958) et Ve République (1958-aujourd'hui)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-016",
+        "shortId": "Q-19C898",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était le roi de France au moment de la Révolution française ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVI",
+            "isCorrect": true
+          },
+          {
+            "text": "Louis XV",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XVIII",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XVI était le roi de France en 1789 lors du début de la Révolution. Il a été arrêté, jugé pour haute trahison et exécuté en 1793."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-017",
+        "shortId": "Q-9EDA00",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a fondé la Ve République ?",
+        "choices": [
+          {
+            "text": "François Mitterrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles de Gaulle a fondé la Ve République en 1958 en rédigeant une nouvelle Constitution. Il l'a fait pour renforcer le pouvoir exécutif et stabiliser le système politique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-018",
+        "shortId": "Q-8B0E9B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que célèbre-t-on le 14 juillet ?",
+        "choices": [
+          {
+            "text": "La proclamation de la Ve République",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armistice mettant fin à la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'adoption de la Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "La prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La fête nationale du 14 juillet renvoie à deux événements: la prise de la Bastille en 1789 et la Fête de la Fédération en 1790. Elle commémore à la fois la rupture révolutionnaire et l'unité nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-019",
+        "shortId": "Q-EA83BC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Guerre de Cent Ans",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guerre de 1870",
+            "isCorrect": false
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle a opposé les puissances alliées (France, Royaume-Uni, Russie, puis États-Unis) aux puissances centrales (Allemagne, Autriche-Hongrie)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-020",
+        "shortId": "Q-B9568A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "Abolition de l'esclavage",
+            "isCorrect": false
+          },
+          {
+            "text": "Création de la Ve République et nouvelle Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Lois Jules Ferry sur l'éducation",
+            "isCorrect": false
+          },
+          {
+            "text": "Fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En 1958, Charles de Gaulle a créé la Ve République avec une nouvelle Constitution qui renforce le pouvoir exécutif et institue la présidence de la République élue au suffrage universel (depuis 1962)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-021",
+        "shortId": "Q-44043F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel fleuve coule en France ?",
+        "choices": [
+          {
+            "text": "Le Danube",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pô",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Plusieurs grands fleuves coulent en France : la Loire (plus long fleuve français), la Seine (fleuve de Paris), la Garonne, le Rhône (vers la Méditerranée) et la Meuse."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-022",
+        "shortId": "Q-0AB926",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est française ?",
+        "choices": [
+          {
+            "text": "Cologne",
+            "isCorrect": false
+          },
+          {
+            "text": "Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "Charleroi",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une grande ville française et une métropole régionale importante."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-023",
+        "shortId": "Q-C0DD91",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel océan borde la côte ouest française ?",
+        "choices": [
+          {
+            "text": "L'Océan Pacifique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Indien",
+            "isCorrect": false
+          },
+          {
+            "text": "La Méditerranée",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Océan Atlantique borde la côte ouest de la France. Les côtes atlantiques incluent la Bretagne, la Vendée et la Nouvelle-Aquitaine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-024",
+        "shortId": "Q-1C884F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que Paris ?",
+        "choices": [
+          {
+            "text": "La plus grande région de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La capitale de la France, grande ville sur la Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège du Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ville portuaire sur la Méditerranée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est la plus grande ville française, le siège du gouvernement et un centre culturel majeur mondial."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-025",
+        "shortId": "Q-668DB7",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la capitale de la France ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paris est la capitale de la France depuis le Moyen Âge. Elle est le siège du gouvernement, du Parlement, et la plus grande ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-026",
+        "shortId": "Q-A78A90",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sur quel continent se situe la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "L'Europe",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Afrique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Asie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Amérique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La France métropolitaine est située en Europe occidentale. Les territoires d'outre-mer se trouvent sur d'autres continents, mais la question vise spécifiquement la métropole."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-027",
+        "shortId": "Q-5C81E4",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île est un département d'outre-mer français ?",
+        "choices": [
+          {
+            "text": "Cuba",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": true
+          },
+          {
+            "text": "Haïti",
+            "isCorrect": false
+          },
+          {
+            "text": "Porto Rico",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Guadeloupe est un département et région d'outre-mer (DROM) situé dans les Caraïbes. Avec la Martinique, elle forme les Antilles françaises."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-028",
+        "shortId": "Q-45C2A9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "13 régions",
+            "isCorrect": true
+          },
+          {
+            "text": "22 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "18 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "27 régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Il y a 13 régions en France métropolitaine depuis 2016. Au total, la France compte 18 régions (13 métropolitaines et 5 d'outre-mer)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-029",
+        "shortId": "Q-8C734F",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est un grand port maritime ?",
+        "choices": [
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille, Le Havre, Dunkerque, Nantes",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marseille, Le Havre, Dunkerque et Nantes sont des grands ports maritimes français. Marseille est le plus grand port de France en Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-030",
+        "shortId": "Q-08E6EE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la mer au sud de la France métropolitaine ?",
+        "choices": [
+          {
+            "text": "La Mer Baltique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "La Méditerranée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Méditerranée borde le sud de la France métropolitaine. Elle sépare la France de l'Afrique du Nord et est un centre culturel et économique important."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-031",
+        "shortId": "Q-4A5858",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle ville est située au bord de la mer Méditerranée ?",
+        "choices": [
+          {
+            "text": "Avignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Aix-en-Provence",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Nice est située directement sur la côte Méditerranéenne. Avignon et Aix-en-Provence sont dans le sud mais à l'intérieur des terres. Bordeaux est proche de l'océan Atlantique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-032",
+        "shortId": "Q-A80205",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où se situe la Corse ?",
+        "choices": [
+          {
+            "text": "En Méditerranée, île française au sud-est",
+            "isCorrect": true
+          },
+          {
+            "text": "En Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans l'Océan Atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "Au nord de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Corse est une île française en Méditerranée, située à l'est des côtes françaises et au sud de la Riviera. C'est une région de France avec un patrimoine culturel distinct."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-033",
+        "shortId": "Q-49855A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie. C'est la plus haute chaîne de montagnes d'Europe, avec le Mont-Blanc comme plus haut sommet (4 808 m)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-034",
+        "shortId": "Q-176BB8",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Molière ?",
+        "choices": [
+          {
+            "text": "Un mémorialiste de la cour de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Un philosophe des Lumières",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier naturaliste du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un auteur dramatique français célèbre du XVIIe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Molière (1622-1673) est l'un des grands dramaturges du XVIIe siècle. Ses comédies, comme Tartuffe ou Le Misanthrope, ont marqué durablement le théâtre et la langue française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-035",
+        "shortId": "Q-3F49C6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Charles Baudelaire ?",
+        "choices": [
+          {
+            "text": "Un historien de la Révolution de XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier réaliste de la fin du XVe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un poète français du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dramaturge symboliste du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Charles Baudelaire (1821-1867) est un poète majeur du XIXe siècle, auteur notamment des Fleurs du Mal. Son œuvre a fortement influencé la modernité poétique française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-036",
+        "shortId": "Q-27CE18",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était George Sand ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une écrivaine française du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une sculptrice française du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compositrice française du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "George Sand (1804-1876) était une écrivaine française importante du XIXe siècle et une féministe engagée. Elle a écrit de nombreux romans et a défendu les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-037",
+        "shortId": "Q-2B4FD9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Simone de Beauvoir ?",
+        "choices": [
+          {
+            "text": "Une écrivaine et philosophe française du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une physicienne française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une historienne française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une politicienne française du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone de Beauvoir (1908-1986) était une écrivaine et philosophe française du XXe siècle. Son ouvrage 'Le Deuxième Sexe' est un classique du féminisme et de la philosophie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-038",
+        "shortId": "Q-215821",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Albert Camus ?",
+        "choices": [
+          {
+            "text": "Un historien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un politicien français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un journaliste français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un écrivain et philosophe français du XXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Albert Camus (1913-1960) était un écrivain et philosophe français majeur du XXe siècle. Il a reçu le prix Nobel de littérature en 1957 pour ses œuvres philosophiques et littéraires."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-039",
+        "shortId": "Q-7CBB0B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Paul Cézanne ?",
+        "choices": [
+          {
+            "text": "Un écrivain français du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sculpteur français du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre français du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un architecte français du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Paul Cézanne (1839-1906) était un peintre français révolutionnaire qui a transformé l'art occidental. Il est considéré comme un fondateur de l'art moderne, influençant le cubisme."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-040",
+        "shortId": "Q-F3E744",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Marc Chagall ?",
+        "choices": [
+          {
+            "text": "Un compositeur d'opéras français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un romancier existentialiste français",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sculpteur français du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un peintre français du XXe siècle",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marc Chagall (1887-1985) est un peintre majeur du XXe siècle, reconnu pour son univers poétique et coloré. Il a réalisé une part importante de son œuvre en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-041",
+        "shortId": "Q-D3CEE0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Joséphine Baker ?",
+        "choices": [
+          {
+            "text": "Une actrice française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une écrivaine française du XXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Une chanteuse et danseuse du XXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Une peintre française du XXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice afro-américaine qui est devenue une superstar à Paris dans les années 1920. Elle a aussi été engagée dans la Résistance pendant la Seconde Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-042",
+        "shortId": "Q-543445",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était une chanteuse française célèbre ?",
+        "choices": [
+          {
+            "text": "Barbara",
+            "isCorrect": false
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": true
+          },
+          {
+            "text": "Dalida",
+            "isCorrect": false
+          },
+          {
+            "text": "Françoise Hardy",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Édith Piaf (1915-1963) est la chanteuse française la plus célèbre dans le monde. Surnommée 'la Môme', elle est connue pour 'La Vie en rose' et 'Non, je ne regrette rien'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-043",
+        "shortId": "Q-2B7B47",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le Louvre ?",
+        "choices": [
+          {
+            "text": "Le plus grand musée d'art du monde, situé à Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Le siège du gouvernement français",
+            "isCorrect": false
+          },
+          {
+            "text": "La plus grande bibliothèque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le palais présidentiel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Louvre est le plus grand musée du monde, situé à Paris. Ancienne résidence des rois de France, il abrite des collections d'art exceptionnelles, dont la Joconde de Léonard de Vinci."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-044",
+        "shortId": "Q-5F66C1",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Jean de la Fontaine ?",
+        "choices": [
+          {
+            "text": "Un auteur de tragédies classiques sous Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Un philosophe encyclopédiste du XVIIIe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un poète et fabuliste français du XVIIe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un compositeur baroque de la cour de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean de La Fontaine (1621-1695) est surtout connu pour ses Fables, qui associent récit bref et portée morale. Son œuvre en fait une référence majeure de la littérature française classique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-045",
+        "shortId": "Q-9B925E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel écrivain est français ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles Dickens",
+            "isCorrect": false
+          },
+          {
+            "text": "Miguel de Cervantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Victor Hugo est un célèbre écrivain français. Claude Monet est un peintre français. Charles Dickens est un écrivain anglais. Miguel de Cervantes est un écrivain espagnol."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-046",
+        "shortId": "Q-8539EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Dans quelle ville se trouve la tour Eiffel ?",
+        "choices": [
+          {
+            "text": "Paris",
+            "isCorrect": true
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La tour Eiffel est un monument emblématique situé à Paris. Construite en 1889 pour l'Exposition Universelle, elle est devenue le symbole de Paris et de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-official-047",
+        "shortId": "Q-C9A97D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand célèbre-t-on Noël ?",
+        "choices": [
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 25 décembre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Noël est célébré le 25 décembre en France et dans la plupart des pays chrétiens. C'est une fête religieuse et culturelle importante marquée par la famille et les traditions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-001",
+        "shortId": "Q-D6E8EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement majeur de 1789 marque symboliquement le début de la Révolution française ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": true
+          },
+          {
+            "text": "La convocation des États généraux à Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition des privilèges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet 1789, le peuple parisien prend la prison de la Bastille. Cet événement symbolise la fin du pouvoir absolu du roi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-002",
+        "shortId": "Q-9FC3BB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain français du XIXe siècle est l'auteur du célèbre roman 'Les Misérables' ?",
+        "choices": [
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a écrit 'Les Misérables' et s'est battu pour la justice sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-003",
+        "shortId": "Q-B91175",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise de la République française inscrite sur le fronton des mairies ?",
+        "choices": [
+          {
+            "text": "Paix, Travail, Famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Progrès",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Justice, Solidarité, Honneur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Héritée de la Révolution, cette devise définit les valeurs fondamentales partagées par tous les citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-004",
+        "shortId": "Q-97C97B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le sommet le plus élevé de France, situé dans les Alpes ?",
+        "choices": [
+          {
+            "text": "Le Puy de Sancy",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pic du Midi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Crêt de la Neige",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Mont Blanc",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Mont Blanc culmine à 4 807 mètres. C'est le point le plus haut d'Europe occidentale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-005",
+        "shortId": "Q-F9D6E3",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve traverse la capitale de la France, Paris ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Seine traverse Paris et sépare la ville en deux : la rive gauche et la rive droite."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-006",
+        "shortId": "Q-D1279E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monarque français est surnommé le 'Roi-Soleil' et a fait construire le château de Versailles ?",
+        "choices": [
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis XIV",
+            "isCorrect": true
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Louis XIV a eu le plus long règne de l'histoire de France. Il a symbolisé la monarchie absolue depuis Versailles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-007",
+        "shortId": "Q-A942C0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les trois couleurs du drapeau national français ?",
+        "choices": [
+          {
+            "text": "Rouge, Jaune, Vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Jaune",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert, Blanc, Rouge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore est l'emblème national de la République. Il est né de la réunion des couleurs de Paris et du blanc de la royauté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-008",
+        "shortId": "Q-F9C23B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel océan borde la façade ouest de la France (Bretagne, Nouvelle-Aquitaine) ?",
+        "choices": [
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer du Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Océan Atlantique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Océan Atlantique s'étend sur toute la côte ouest, offrant de grandes plages et des ports de commerce importants."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-009",
+        "shortId": "Q-82FC06",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme politique française a fait adopter la loi sur l'interruption volontaire de grossesse (IVG) en 1975 ?",
+        "choices": [
+          {
+            "text": "Simone Veil",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Cresson",
+            "isCorrect": false
+          },
+          {
+            "text": "Louise Michel",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone Veil, rescapée de la Shoah et ministre de la Santé, est une figure majeure de la lutte pour les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-010",
+        "shortId": "Q-473B61",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel musée parisien, le plus visité au monde, peut-on voir la Joconde ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Louvre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Centre Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Musée du Quai Branly",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ancien palais des rois, le Louvre abrite des milliers d'œuvres d'art, de l'Antiquité jusqu'au XIXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-011",
+        "shortId": "Q-0B117E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a organisé la Résistance française depuis Londres pendant la Seconde Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Napoléon III",
+            "isCorrect": false
+          },
+          {
+            "text": "Georges Clemenceau",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le général de Gaulle a lancé l'Appel du 18 juin 1940 pour inciter les Français à refuser la défaite et à poursuivre le combat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-012",
+        "shortId": "Q-EF410D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle figure allégorique portant un bonnet phrygien représente la République française ?",
+        "choices": [
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie-Antoinette",
+            "isCorrect": false
+          },
+          {
+            "text": "La Semeuse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Marianne est présente dans toutes les mairies de France. Elle symbolise la liberté et la démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-013",
+        "shortId": "Q-155E4E",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Espagne ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Pyrénées s'étendent de la Méditerranée à l'Océan Atlantique et séparent la France de la péninsule ibérique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-014",
+        "shortId": "Q-944DB6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chanteuse française est mondialement connue pour 'La Vie en rose' et 'L'Hymne à l'amour' ?",
+        "choices": [
+          {
+            "text": "Dalida",
+            "isCorrect": false
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": true
+          },
+          {
+            "text": "Barbara",
+            "isCorrect": false
+          },
+          {
+            "text": "Mylène Farmer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Édith Piaf, surnommée 'la Môme', reste l'une des artistes françaises les plus célèbres à l'international."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-015",
+        "shortId": "Q-D667A2",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental, adopté en 1789, affirme que 'les hommes naissent et demeurent libres et égaux en droits' ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des Droits de l'Homme et du Citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte est la base de la démocratie française et a inspiré de nombreuses déclarations internationales."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-016",
+        "shortId": "Q-CAE6AC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a instauré le Premier Empire en France et a fait rédiger le Code civil en 1804 ?",
+        "choices": [
+          {
+            "text": "Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "Louis-Philippe",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Napoléon Bonaparte",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Napoléon Ier a réorganisé l'administration française (préfets, lycées, Code civil) après la Révolution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-017",
+        "shortId": "Q-4DBD70",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville française, située dans le Grand Est, est le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Strasbourg est un symbole de la réconciliation entre la France et l'Allemagne et une capitale de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-018",
+        "shortId": "Q-1B818D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle mer borde le sud de la France et la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": true
+          },
+          {
+            "text": "La Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Méditerranée est célèbre pour ses paysages, son climat ensoleillé et ses ports comme Marseille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-019",
+        "shortId": "Q-B81E0A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel héros de la Résistance a unifié les mouvements clandestins avant d'être arrêté en 1943 ?",
+        "choices": [
+          {
+            "text": "Philippe Leclerc",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean Moulin",
+            "isCorrect": true
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Jean Moulin a fondé le Conseil National de la Résistance (CNR). Il est enterré au Panthéon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-020",
+        "shortId": "Q-0A28B5",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel territoire français est situé en Amérique du Sud et abrite la base de lancement de fusées d'Europe ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Guyane est un département d'outre-mer. Elle accueille le centre spatial de Kourou."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-021",
+        "shortId": "Q-3C5C57",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a eu lieu le Débarquement allié en Normandie pour libérer la France ?",
+        "choices": [
+          {
+            "text": "1944",
+            "isCorrect": true
+          },
+          {
+            "text": "1918",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1804",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 6 juin 1944, les Alliés ont débarqué sur les plages normandes pour mettre fin à l'occupation nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-022",
+        "shortId": "Q-EBE113",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+        "choices": [
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Opéra Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conçue par Gustave Eiffel, elle devait être détruite après l'exposition mais est devenue le symbole de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-023",
+        "shortId": "Q-5EBC55",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le jour de la fête nationale française ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet célèbre la Nation française et commémore notamment la Fête de la Fédération de 1790."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-024",
+        "shortId": "Q-791C73",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces massifs est un massif de montagnes anciennes situé au centre de la France ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Massif central est connu pour ses volcans éteints, comme ceux de la chaîne des Puys."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-025",
+        "shortId": "Q-64654C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel hymne national français a été composé par Rouget de Lisle en 1792 ?",
+        "choices": [
+          {
+            "text": "La Marseillaise",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la joie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Temps des cerises",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "À l'origine chant de guerre, la Marseillaise est devenue l'hymne national de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-026",
+        "shortId": "Q-DFF87A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument abrite les tombes des 'grands hommes' (et femmes) ayant marqué la France ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": true
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Petit Palais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Au Panthéon reposent des personnalités comme Voltaire, Victor Hugo, Marie Curie ou Simone Veil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-027",
+        "shortId": "Q-870BD1",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fromage de Normandie est mondialement connu et protégé par une boîte en bois ronde ?",
+        "choices": [
+          {
+            "text": "Le Roquefort",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Comté",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Camembert",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Reblochon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Camembert de Normandie est l'un des emblèmes de la gastronomie française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-028",
+        "shortId": "Q-280145",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays partage la plus longue frontière terrestre avec la France (via la Guyane) ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Belgique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brésil",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une particularité géographique : la France partage plus de 700 km de frontière avec le Brésil en Amérique du Sud."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-029",
+        "shortId": "Q-2FC593",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui était Jeanne d'Arc ?",
+        "choices": [
+          {
+            "text": "Une héroïne médiévale qui a combattu pour libérer la France au XVe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "La femme de Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre écrivaine du Siècle des Lumières",
+            "isCorrect": false
+          },
+          {
+            "text": "La fondatrice de l'Académie française au XVIIe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Jeanne d'Arc a aidé le roi Charles VII à reprendre le trône contre les Anglais pendant la guerre de Cent Ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-030",
+        "shortId": "Q-217505",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région est célèbre pour ses nombreux châteaux de la Renaissance (Chambord, Chenonceau) ?",
+        "choices": [
+          {
+            "text": "Le Grand Est",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Centre-Val de Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La vallée de la Loire était le lieu de résidence privilégié des rois de France aux XVe et XVIe siècles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-031",
+        "shortId": "Q-B6D4FC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces départements d'outre-mer est une île située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion est un département français célèbre pour son volcan, le Piton de la Fournaise."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-032",
+        "shortId": "Q-9EC46C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le chef du Gouvernement en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Premier ministre est nommé par le Président de la République pour diriger l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-033",
+        "shortId": "Q-3CBA98",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel conflit mondial s'est déroulé entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La guerre d'Algérie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Aussi appelée la 'Grande Guerre', elle a marqué la France par les combats dans les tranchées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-034",
+        "shortId": "Q-5A8E95",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel massif montagneux peut-on trouver des volcans éteints en Auvergne ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La chaîne des Puys, dans le Massif central, est inscrite au patrimoine mondial de l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-035",
+        "shortId": "Q-09A1F6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande ville du sud de la France est le premier port de commerce du pays ?",
+        "choices": [
+          {
+            "text": "Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Fondée par les Grecs, Marseille est une ville carrefour entre l'Europe et la Méditerranée."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-036",
+        "shortId": "Q-3C9D21",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a écrit les 'Fables' (comme 'Le Corbeau et le Renard') ?",
+        "choices": [
+          {
+            "text": "Charles Perrault",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Jean de La Fontaine a utilisé des animaux pour critiquer avec humour les comportements humains."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-037",
+        "shortId": "Q-FE4134",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année la Constitution actuelle de la France (Ve République) a-t-elle été adoptée ?",
+        "choices": [
+          {
+            "text": "1958",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": false
+          },
+          {
+            "text": "1905",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Ve République a été instaurée pour donner plus de stabilité au pouvoir exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-038",
+        "shortId": "Q-EB42B6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel ouvrage de transport relie la France au Royaume-Uni sous la mer ?",
+        "choices": [
+          {
+            "text": "Le Pont de Normandie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tunnel sous la Manche",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Viaduc de Millau",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tunnel du Mont-Blanc",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Inauguré en 1994, ce tunnel permet de relier Paris à Londres en train (Eurostar) très rapidement."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-039",
+        "shortId": "Q-128114",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la langue de la République d'après la Constitution française ?",
+        "choices": [
+          {
+            "text": "L'anglais et le français",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les langues régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le latin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'article 2 de la Constitution stipule que 'La langue de la République est le français'."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-040",
+        "shortId": "Q-690A5B",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel roi a mis fin aux guerres de religion en France en signant l'Édit de Nantes ?",
+        "choices": [
+          {
+            "text": "Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint Louis",
+            "isCorrect": false
+          },
+          {
+            "text": "François Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "Henri IV",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En 1598, Henri IV a autorisé la liberté de culte pour les protestants, apportant la paix au royaume."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-041",
+        "shortId": "Q-56A906",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel peintre est considéré comme le chef de file de l'Impressionnisme (auteur des 'Nymphéas') ?",
+        "choices": [
+          {
+            "text": "Claude Monet",
+            "isCorrect": true
+          },
+          {
+            "text": "Pablo Picasso",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": false
+          },
+          {
+            "text": "Auguste Rodin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Monet a révolutionné la peinture en essayant de capturer la lumière et les couleurs changeantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-042",
+        "shortId": "Q-43D7AD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle île française est surnommée l'Île de Beauté ?",
+        "choices": [
+          {
+            "text": "L'île de Ré",
+            "isCorrect": false
+          },
+          {
+            "text": "La Corse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "Belle-Île-en-Mer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Corse est située en Méditerranée. Elle est célèbre pour ses montagnes et ses plages."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-043",
+        "shortId": "Q-FDF197",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la spécialité culinaire de la Bretagne à base de farine de sarrasin ?",
+        "choices": [
+          {
+            "text": "La bouillabaisse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le cassoulet",
+            "isCorrect": false
+          },
+          {
+            "text": "La galette de sarrasin",
+            "isCorrect": true
+          },
+          {
+            "text": "La choucroute",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La galette bretonne est un plat populaire souvent accompagné de cidre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-044",
+        "shortId": "Q-064444",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle grande manifestation culturelle gratuite a lieu le 21 juin chaque année ?",
+        "choices": [
+          {
+            "text": "Les Journées du Patrimoine",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nuit des Musées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Festival de Cannes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lancée en 1982, elle permet à tous les musiciens de jouer dans les rues et les parcs."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-045",
+        "shortId": "Q-17FC02",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1945 marque la fin de la Seconde Guerre mondiale en Europe ?",
+        "choices": [
+          {
+            "text": "La victoire du 8 mai 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Appel du 18 juin",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature de l'Armistice de 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 8 mai est un jour férié en France pour commémorer la capitulation de l'Allemagne nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-046",
+        "shortId": "Q-160A6D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naît en Suisse et se jette dans la mer à Marseille ?",
+        "choices": [
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          },
+          {
+            "text": "La Loire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Rhône est un fleuve puissant utilisé pour la production d'électricité et le transport."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-047",
+        "shortId": "Q-2B04AE",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel célèbre dramaturge a écrit 'L'Avare' et 'Le Malade imaginaire' au XVIIe siècle ?",
+        "choices": [
+          {
+            "text": "Jean Racine",
+            "isCorrect": false
+          },
+          {
+            "text": "Pierre Corneille",
+            "isCorrect": false
+          },
+          {
+            "text": "Molière",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean Jaurès",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Molière est l'auteur le plus joué au théâtre en France. Il critiquait les défauts de la société de son époque."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-048",
+        "shortId": "Q-50BA15",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés à Paris ?",
+        "choices": [
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés sont élus par les citoyens pour voter les lois et contrôler le Gouvernement au Palais Bourbon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-049",
+        "shortId": "Q-EAC674",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle période de l'histoire de France est marquée par les 'Poilus' et les tranchées ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale (1914-1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le règne de Louis XIV",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Moyen Âge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les 'Poilus' étaient les soldats français combattant courageusement dans des conditions très difficiles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-050",
+        "shortId": "Q-72DBE4",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle région française est située à l'extrême nord et possède une frontière avec la Belgique ?",
+        "choices": [
+          {
+            "text": "La Bretagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Hauts-de-France",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Occitanie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Nouvelle-Aquitaine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Hauts-de-France regroupent les anciennes régions Nord-Pas-de-Calais et Picardie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-051",
+        "shortId": "Q-BB06CB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on le 11 novembre en France ?",
+        "choices": [
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Armistice de la Première Guerre mondiale (1918)",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 11 novembre est un jour de mémoire pour tous les soldats morts pour la France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-052",
+        "shortId": "Q-DBB0FF",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la capitale mondiale de l'aéronautique et le siège d'Airbus ?",
+        "choices": [
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Toulouse",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Toulouse est une ville dynamique d'Occitanie, surnommée la 'Ville rose' pour ses briques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-053",
+        "shortId": "Q-830B9A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit fondamental a été accordé aux femmes françaises en 1944 ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'aller à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les femmes ont voté pour la première fois en France lors des élections municipales de 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-054",
+        "shortId": "Q-8507BA",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel massif montagneux sépare la France de l'Italie et de la Suisse ?",
+        "choices": [
+          {
+            "text": "Le Massif central",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Alpes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les Alpes abritent de célèbres stations de ski et le sommet du Mont Blanc."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-055",
+        "shortId": "Q-5E14FD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, une loi très importante a été votée concernant les religions. Laquelle ?",
+        "choices": [
+          {
+            "text": "La loi sur le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'école gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur la liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi fonde la laïcité française : l'État est neutre et garantit la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-056",
+        "shortId": "Q-9C13D0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est la préfecture de la région Nouvelle-Aquitaine et célèbre pour son vin ?",
+        "choices": [
+          {
+            "text": "Toulouse",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": false
+          },
+          {
+            "text": "Lille",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bordeaux possède une architecture magnifique du XVIIIe siècle classée à l'UNESCO."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-057",
+        "shortId": "Q-4CF637",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve est le plus long de France (environ 1000 km) ?",
+        "choices": [
+          {
+            "text": "La Loire",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seine",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": false
+          },
+          {
+            "text": "La Garonne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Loire est célèbre pour ses paysages naturels et ses châteaux royaux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-058",
+        "shortId": "Q-457804",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument à Paris a été construit pour célébrer les victoires de Napoléon ?",
+        "choices": [
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pyramide du Louvre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sacré-Cœur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Arc de Triomphe est situé sur la place de l'Étoile. Il abrite la tombe du Soldat inconnu."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-059",
+        "shortId": "Q-E6B0E3",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel savant français (et sa femme) a découvert le radium et reçu deux prix Nobel ?",
+        "choices": [
+          {
+            "text": "Louis Pasteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Antoine de Lavoisier",
+            "isCorrect": false
+          },
+          {
+            "text": "Marie Curie",
+            "isCorrect": true
+          },
+          {
+            "text": "Blaise Pascal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marie Curie est une icône de la science mondiale. Elle est la première femme à être entrée au Panthéon pour ses mérites."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-060",
+        "shortId": "Q-573BF9",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays européen est séparé de la France par la Manche ?",
+        "choices": [
+          {
+            "text": "L'Italie",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "On peut traverser la Manche en bateau ou en train via le tunnel sous la Manche."
+      }
+    }
+  ]
+}

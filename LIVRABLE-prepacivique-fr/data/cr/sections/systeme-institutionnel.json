@@ -1,0 +1,5142 @@
+{
+  "level": "CR",
+  "section": "systeme-institutionnel",
+  "sectionLabel": "Système institutionnel et politique",
+  "count": 151,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-institutions-official-001",
+        "shortId": "Q-845106",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'État de droit ?",
+        "choices": [
+          {
+            "text": "Un régime politique dirigé par des juges non élus",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système où la puissance publique est soumise au droit, garantissant les libertés individuelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Une situation temporaire d'urgence sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où la police a tous les pouvoirs pour maintenir l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit est un système où tout le monde, y compris l'État et le Président, doit respecter la loi. Il garantit les droits fondamentaux et l'égalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-002",
+        "shortId": "Q-024156",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Il est immédiatement arrêté par la police comme n'importe quel citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'est pas au-dessus des lois, mais bénéficie d'une inviolabilité durant son mandat (sauf destitution)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il bénéficie d'une impunité totale et définitive",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne peut être jugé que par le peuple par référendum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président n'est pas au-dessus des lois, mais il ne peut être poursuivi durant son mandat pour garantir la stabilité de l'État (sauf en cas de Haute Trahison ou devant la Cour Pénale Internationale). Il redevient justiciable après son mandat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-003",
+        "shortId": "Q-43ECC3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La loi est l'expression de :",
+        "choices": [
+          {
+            "text": "La morale religieuse",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La volonté générale",
+            "isCorrect": true
+          },
+          {
+            "text": "La volonté du Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Selon la Déclaration de 1789, 'La loi est l'expression de la volonté générale'. Elle est votée par les représentants du peuple (le Parlement)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-004",
+        "shortId": "Q-88B7B6",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+        "choices": [
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le maire et les conseillers municipaux sont élus pour un mandat de 6 ans au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-005",
+        "shortId": "Q-68C665",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit l’État de droit ?",
+        "choices": [
+          {
+            "text": "L'absence totale de criminalité",
+            "isCorrect": false
+          },
+          {
+            "text": "La primauté de la Constitution et le respect des droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir absolu de l'administration pour protéger les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "La stabilité économique et le plein emploi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit garantit que la puissance publique agit conformément aux lois et à la Constitution, protégeant ainsi les citoyens contre l'arbitraire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-006",
+        "shortId": "Q-9127A4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne peut-elle voter à la place d'une autre ?",
+        "choices": [
+          {
+            "text": "Oui, si elle présente la carte d'identité de l'autre personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, contre paiement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le vote est strictement personnel (sauf procuration officielle)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si c'est un membre de sa famille proche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le vote est personnel. On ne peut voter pour autrui que via une 'procuration' établie officiellement en gendarmerie ou commissariat, mais on ne peut pas simplement voter 'à la place' de quelqu'un."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-007",
+        "shortId": "Q-268AA7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce que le vote est obligatoire ?",
+        "choices": [
+          {
+            "text": "Oui, mais seulement pour les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un droit et un devoir moral, mais ce n'est pas obligatoire",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, l'abstention est punie d'une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement pour les fonctionnaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Contrairement à la Belgique ou au Luxembourg, le vote n'est pas obligatoire en France (sauf pour les élections sénatoriales qui concernent les grands électeurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-008",
+        "shortId": "Q-536CB9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",
+        "choices": [
+          {
+            "text": "Non, il doit remettre ses pouvoirs en jeu lors d'une élection démocratique",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par référendum d'auto-prolongation",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il estime que la situation l'exige",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si le Premier ministre est d'accord",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat est fixe (5 ans). Pour rester au pouvoir, le Président doit impérativement être réélu au suffrage universel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-009",
+        "shortId": "Q-8FA49D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui dirige l'action du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président PRÉSIDE le Conseil des ministres, mais selon la Constitution, c'est le Premier ministre qui DIRIGE l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-010",
+        "shortId": "Q-EF275E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui nomme le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Les citoyens par vote direct",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une compétence propre du Président de la République (Article 8 de la Constitution)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-011",
+        "shortId": "Q-E8F9AF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'organisation administrative de la France ?",
+        "choices": [
+          {
+            "text": "Confédération de régions autonomes",
+            "isCorrect": false
+          },
+          {
+            "text": "État unitaire décentralisé composé de collectivités territoriales : commune, département et région",
+            "isCorrect": true
+          },
+          {
+            "text": "Système de cantons souverains",
+            "isCorrect": false
+          },
+          {
+            "text": "État fédéral (États, comtés, villes)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France est un État unitaire : elle ne partage pas la souveraineté entre plusieurs entités comme dans un État fédéral. Toutefois, conformément à l’article 1er de la Constitution de 1958, son organisation est décentralisée. Les collectivités territoriales principales sont la commune, le département et la région."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-012",
+        "shortId": "Q-BA161C",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que le pouvoir législatif ? Le pouvoir :",
+        "choices": [
+          {
+            "text": "De modifier la Constitution seul",
+            "isCorrect": false
+          },
+          {
+            "text": "De trancher les litiges et punir les crimes",
+            "isCorrect": false
+          },
+          {
+            "text": "De discuter et voter la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "De faire appliquer les lois et diriger la police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pouvoir législatif (le Parlement) vote la loi. L'exécutif l'applique. Le judiciaire la fait respecter."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-013",
+        "shortId": "Q-BB11AB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+        "choices": [
+          {
+            "text": "Pour donner tous les pouvoirs au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour empêcher les abus de pouvoir et garantir les libertés fondamentales",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour que l'administration soit plus rapide et efficace",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour confier la justice aux parlementaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Ce principe garantit qu'une seule personne ou institution ne détient pas tous les pouvoirs. En séparant ceux qui font la loi (Législatif), ceux qui l'exécutent (Exécutif) et ceux qui la jugent (Judiciaire), on protège les libertés fondamentales contre l'arbitraire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-014",
+        "shortId": "Q-5C8D80",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui sanctionne l'auteur d'un vol ?",
+        "choices": [
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorité judiciaire (les juges)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La police arrête les suspects, mais seule la Justice (les juges/tribunaux) a le pouvoir de décider de la culpabilité et de la sanction (peine)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-015",
+        "shortId": "Q-59ABB7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du gouvernement ?",
+        "choices": [
+          {
+            "text": "De voter le budget de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "De déterminer et conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "De juger les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "De contrôler la constitutionnalité des lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Gouvernement détermine et conduit la politique de la Nation (art. 20 de la Constitution). C'est le Parlement (Assemblée nationale et Sénat) qui vote le budget et contrôle l'action du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-016",
+        "shortId": "Q-4AA42D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+        "choices": [
+          {
+            "text": "Il ne peut être jugé qu'après la fin de ses fonctions",
+            "isCorrect": false
+          },
+          {
+            "text": "Il bénéficie d'une immunité totale liée à sa fonction",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est responsable pénalement et peut être poursuivi en justice",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est uniquement responsable politiquement devant le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les ministres sont responsables pénalement des actes accomplis dans l'exercice de leurs fonctions (jugés par la Cour de justice de la République) et comme des citoyens normaux pour le reste."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-017",
+        "shortId": "Q-14BB00",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de députés composent l’Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "101",
+            "isCorrect": false
+          },
+          {
+            "text": "925",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Assemblée nationale compte 577 députés élus au suffrage universel direct pour 5 ans. Ils représentent la Nation tout entière."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-018",
+        "shortId": "Q-C27E5A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut voter aux élections en France ?",
+        "choices": [
+          {
+            "text": "Tous les résidents en France depuis plus de 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne née sur le sol français",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens ayant un contrat de travail à durée indéterminée (CDI)",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français majeurs jouissant de leurs droits civils et politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pour voter, il faut remplir trois conditions : être français, être majeur (18 ans) et jouir de ses droits civils et politiques (ne pas en être privé par un juge). Les citoyens de l'UE peuvent aussi voter, mais uniquement aux élections municipales et européennes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-019",
+        "shortId": "Q-2B0F21",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pour combien de temps sont élus les sénateurs ?",
+        "choices": [
+          {
+            "text": "9 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans (renouvellement par moitié tous les 3 ans). Les députés sont élus pour 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-020",
+        "shortId": "Q-4DB993",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif, Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif, Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire, Économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Présidentiel, Parlementaire, Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les trois pouvoirs classiques de la démocratie : Législatif (faire la loi), Exécutif (appliquer la loi), Judiciaire (trancher les litiges)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-021",
+        "shortId": "Q-5E7618",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce que le président de la République a tous les pouvoirs ?",
+        "choices": [
+          {
+            "text": "Oui, car l'élection au suffrage universel lui confère une légitimité absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, en tant que Chef des Armées, il peut imposer ses décisions",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il ne possède que des pouvoirs honorifiques et symboliques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le pouvoir est partagé et limité par la Constitution (Parlement, Conseil Constitutionnel, Justice)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bien que le Président dispose de pouvoirs importants (dissolution, article 16...), il doit respecter la Constitution. Son action est contrôlée par le Parlement (qui peut censurer le gouvernement) et par le Conseil Constitutionnel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-022",
+        "shortId": "Q-E471B5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est le préfet ?",
+        "choices": [
+          {
+            "text": "Le représentant du département élu par les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le représentant de l'État dans le département ou la région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le responsable de l'administration communale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président de l'Assemblée départementale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le préfet est un haut fonctionnaire nommé par le Gouvernement en Conseil des ministres. Il représente l’État dans le département ou la région. Il veille à l’application des lois, dirige les services déconcentrés de l’État et exerce un contrôle de légalité sur les actes des collectivités territoriales. Il ne s’agit pas d’un élu local."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-023",
+        "shortId": "Q-82EB70",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections ?",
+        "choices": [
+          {
+            "text": "Être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Justifier d'une résidence ininterrompue de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire totalement vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir signé la Charte des droits et devoirs du citoyen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'inscription sur les listes électorales est obligatoire. Elle est automatique pour les jeunes à 18 ans, mais nécessite une démarche volontaire en cas de déménagement ou d'acquisition de la nationalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-024",
+        "shortId": "Q-1A2DD8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui dirige la commune ?",
+        "choices": [
+          {
+            "text": "Le maire, élu par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Le préfet, représentant de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le président du conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La commune est dirigée par le maire. Il est élu par le conseil municipal parmi ses membres. Le maire exerce à la fois des fonctions exécutives au nom de la commune et certaines fonctions au nom de l'État (état civil, police)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-025",
+        "shortId": "Q-349DE2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le régime politique de la France aujourd'hui ?",
+        "choices": [
+          {
+            "text": "Un régime présidentiel",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime parlementaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un régime semi-présidentiel",
+            "isCorrect": true
+          },
+          {
+            "text": "Une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La France est une République dotée d’un régime semi-présidentiel sous la Constitution du 4 octobre 1958 (Ve République). Le Président de la République est élu au suffrage universel direct et dispose de pouvoirs propres importants, tandis que le Gouvernement est responsable devant le Parlement. Ce système combine des éléments du régime présidentiel et du régime parlementaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-026",
+        "shortId": "Q-B96852",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'Hôtel de Matignon ?",
+        "choices": [
+          {
+            "text": "Le siège de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le siège du Ministère de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La résidence du Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La résidence et le lieu de travail du Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Hôtel de Matignon, situé à Paris, est la résidence officielle et le lieu de travail du Premier ministre. Le Président de la République réside quant à lui au Palais de l'Élysée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-027",
+        "shortId": "Q-553736",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le Parlement est composé :",
+        "choices": [
+          {
+            "text": "De l'Assemblée nationale et du Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Du Sénat et du Conseil Économique et Social",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'Assemblée nationale et du Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "De l'Assemblée nationale uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Parlement est bicaméral (deux chambres) : l'Assemblée nationale (députés) et le Sénat (sénateurs)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-028",
+        "shortId": "Q-0CC817",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du président de la République ?",
+        "choices": [
+          {
+            "text": "Il est le garant de l'indépendance nationale et de la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Il nomme les maires des grandes villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il gère les affaires courantes de l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Il vote les lois à la place du Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon l’article 5 de la Constitution du 4 octobre 1958, le Président de la République veille au respect de la Constitution et assure la continuité de l’État. Il est le garant de l’indépendance nationale, de l’intégrité du territoire et du respect des traités. En vertu de l’article 15, il est le chef des armées. Il nomme le Premier ministre (article 8), peut dissoudre l’Assemblée nationale (article 12) et recourir au référendum (article 11)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-029",
+        "shortId": "Q-CD50B0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Il dirige les débats au tribunal",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige l’action du Gouvernement et assure l’exécution des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Il remplace le Président de la République en cas d’absence temporaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Il préside l’Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l’article 21 de la Constitution du 4 octobre 1958, le Premier ministre dirige l’action du Gouvernement et assure l’exécution des lois. En vertu de l’article 20, le Gouvernement détermine et conduit la politique de la Nation et est responsable devant le Parlement. Le Premier ministre dispose du pouvoir réglementaire et dirige l’administration. En revanche, il ne préside ni les juridictions ni l’Assemblée nationale, et l’intérim du Président de la République est assuré par le Président du Sénat (article 7)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-030",
+        "shortId": "Q-9E431A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui est le chef du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministre de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Distinction importante : Le Président est Chef de l'État. Le Premier ministre est Chef du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-031",
+        "shortId": "Q-6BF2E9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien y a-t-il de régions en France ?",
+        "choices": [
+          {
+            "text": "18 régions",
+            "isCorrect": true
+          },
+          {
+            "text": "13 régions",
+            "isCorrect": false
+          },
+          {
+            "text": "22 régions métropolitaines",
+            "isCorrect": false
+          },
+          {
+            "text": "12 régions",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la réforme territoriale entrée en vigueur le 1er janvier 2016, la France compte 18 régions : 13 en métropole et 5 en outre-mer (Guadeloupe, Martinique, Guyane, La Réunion et Mayotte). Les anciennes 22 régions métropolitaines ont été fusionnées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-032",
+        "shortId": "Q-3CF7F1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Contrôler la constitutionnalité des lois votées par le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Assister le gouvernement dans la rédaction des projets de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Représenter l'État dans chaque département et veiller à l'ordre public",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les droits des citoyens face à l'administration et lutter contre les discriminations",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une autorité indépendante chargée de protéger vos droits si vous êtes victime de discrimination ou de dysfonctionnement du service public."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-033",
+        "shortId": "Q-12E083",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Depuis quand l'euro est-elle la monnaie unique ?",
+        "choices": [
+          {
+            "text": "1999",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": true
+          },
+          {
+            "text": "1995",
+            "isCorrect": false
+          },
+          {
+            "text": "1991",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les pièces et billets en euro ont été mis en circulation le 1er janvier 2002. À partir de cette date, l’euro devient la seule monnaie utilisée en France, remplaçant définitivement le franc."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-034",
+        "shortId": "Q-467EF9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle principal du département ?",
+        "choices": [
+          {
+            "text": "Le développement économique et l'aménagement du territoire régional",
+            "isCorrect": false
+          },
+          {
+            "text": "L'action sociale (RSA, APA, aide aux personnes en situation de handicap) et la gestion des collèges",
+            "isCorrect": true
+          },
+          {
+            "text": "L'état civil, l'urbanisme et la police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "La conduite de la politique de la Nation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La compétence principale du département est l’action sociale : RSA, allocation personnalisée d’autonomie (APA), aide aux personnes en situation de handicap et protection de l’enfance. Il est également responsable des collèges. Le développement économique relève principalement de la région, l’état civil et l’urbanisme relèvent des communes, et la politique de la Nation relève du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-035",
+        "shortId": "Q-C26656",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle principal des communes ?",
+        "choices": [
+          {
+            "text": "L'état civil, les écoles maternelles et élémentaires, et l'urbanisme local",
+            "isCorrect": true
+          },
+          {
+            "text": "L'action sociale (RSA, APA) et la gestion des collèges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le développement économique régional et les lycées",
+            "isCorrect": false
+          },
+          {
+            "text": "La politique monétaire et les relations internationales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La commune est la collectivité territoriale de proximité. Elle est compétente en matière d’état civil (naissances, mariages, décès), d’urbanisme (permis de construire) et de gestion des écoles maternelles et élémentaires. L’action sociale et les collèges relèvent principalement du département, les lycées et le développement économique de la région, et la politique monétaire ainsi que les relations internationales relèvent de l’État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-036",
+        "shortId": "Q-D2E04D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien de communes environ existe-t-il en France ?",
+        "choices": [
+          {
+            "text": "Environ 10 000",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 35 000",
+            "isCorrect": true
+          },
+          {
+            "text": "Environ 100 000",
+            "isCorrect": false
+          },
+          {
+            "text": "Environ 5 000",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La France compte environ 35 000 communes, ce qui en fait le pays européen ayant le plus grand nombre de communes. Ce nombre diminue légèrement au fil des années en raison des fusions de communes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-037",
+        "shortId": "Q-986E26",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel traité concerne la construction de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de l'Atlantique Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pacte de Varsovie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Traité de Maastricht (1992) est fondateur : il a transformé la Communauté Européenne en 'Union Européenne' et a créé la citoyenneté européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-038",
+        "shortId": "Q-2A5502",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État a quitté l'Union européenne en 2020 ?",
+        "choices": [
+          {
+            "text": "La Lettonie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Slovénie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": true
+          },
+          {
+            "text": "La Bulgarie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Royaume-Uni a officiellement quitté l'Union européenne le 31 janvier 2020, à la suite du référendum de 2016 (Brexit)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-039",
+        "shortId": "Q-10AC96",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la devise de l’Union européenne ?",
+        "choices": [
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          },
+          {
+            "text": "Unie dans la diversité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "'Unie dans la diversité' signifie que les Européens s'unissent pour la paix tout en gardant leurs différentes cultures et langues."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-040",
+        "shortId": "Q-BC911D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est l'hymne de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Chant des Partisans",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Ode à la Joie (Beethoven)",
+            "isCorrect": true
+          },
+          {
+            "text": "God Save the King",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marseillaise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-041",
+        "shortId": "Q-A8D73D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quoi est composé le drapeau européen ?",
+        "choices": [
+          {
+            "text": "De bandes multicolores",
+            "isCorrect": false
+          },
+          {
+            "text": "De 27 étoiles représentant les états membres",
+            "isCorrect": false
+          },
+          {
+            "text": "D'une croix blanche sur fond bleu",
+            "isCorrect": false
+          },
+          {
+            "text": "D'un cercle de 12 étoiles d'or sur fond bleu",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le nombre d'étoiles est fixe (12), symbole de perfection et d'unité. Il ne change pas quand le nombre de pays membres change."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-042",
+        "shortId": "Q-901582",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quelle couleur est le drapeau européen ?",
+        "choices": [
+          {
+            "text": "Bleu avec des étoiles jaunes (or)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert avec des étoiles jaunes",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Blanc avec des étoiles bleues",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le drapeau européen est composé d’un fond bleu azur sur lequel figure un cercle de 12 étoiles d’or. Le bleu symbolise le ciel et l’unité, tandis que les 12 étoiles représentent l’harmonie et la solidarité entre les peuples d’Europe. Le nombre d’étoiles ne correspond pas au nombre d’États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-043",
+        "shortId": "Q-C972BE",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+        "choices": [
+          {
+            "text": "2002",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          },
+          {
+            "text": "1992",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le traité de Maastricht a été signé le 7 février 1992 et est entré en vigueur le 1er novembre 1993. Il institue officiellement l'Union européenne et introduit notamment la citoyenneté européenne ainsi que le projet de monnaie unique. L’année 1957 correspond au traité de Rome, qui a créé la Communauté économique européenne (CEE)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-044",
+        "shortId": "Q-F6007D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le siège officiel du Parlement européen est situé à Strasbourg, en France. Les sessions plénières s’y tiennent. Toutefois, une partie des travaux parlementaires a également lieu à Bruxelles, et le secrétariat général est installé à Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-045",
+        "shortId": "Q-D850DE",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège de la Commission européenne ?",
+        "choices": [
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Commission européenne, organe exécutif de l'Union européenne, a son siège à Bruxelles (Belgique). Elle propose les lois européennes, veille à l'application des traités et met en œuvre les politiques de l'Union. Strasbourg est le siège du Parlement européen pour les sessions plénières, Luxembourg accueille certaines institutions et services administratifs, et Francfort est le siège de la Banque centrale européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-046",
+        "shortId": "Q-7A3A4F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État n'est pas membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Irlande",
+            "isCorrect": false
+          },
+          {
+            "text": "La Suisse",
+            "isCorrect": true
+          },
+          {
+            "text": "La Suède",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autriche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Suisse est au cœur de l'Europe mais ne fait pas partie de l'UE (tout comme la Norvège)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-047",
+        "shortId": "Q-A7539C",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand célèbre-t-on la journée de l'Europe ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La journée de l'Europe est célébrée le 9 mai, en référence à la Déclaration Schuman du 9 mai 1950. Dans cette déclaration, le ministre français des Affaires étrangères Robert Schuman proposa la mise en commun des productions de charbon et d’acier, initiative qui conduisit à la création de la Communauté européenne du charbon et de l'acier (CECA) et marqua le début de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-048",
+        "shortId": "Q-B0B3E1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quelle fréquence les élections européennes sont-elles organisées ?",
+        "choices": [
+          {
+            "text": "Tous les 4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les 6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les 7 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés au Parlement européen sont élus au suffrage universel direct pour un mandat de cinq ans. Les élections européennes ont lieu simultanément dans tous les États membres de l'Union européenne, selon des règles communes fixées au niveau européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-049",
+        "shortId": "Q-5DCFB9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis au moins cinq ans sans interruption",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir obtenu au préalable un titre de séjour de longue durée",
+            "isCorrect": false
+          },
+          {
+            "text": "Être citoyen d'un pays membre de l'UE et être inscrit sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Avoir signé le Contrat d'Intégration Républicaine (CIR) depuis au moins un an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Tout citoyen de l'UE résidant en France peut voter aux élections européennes (et municipales) s'il est inscrit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-official-050",
+        "shortId": "Q-B5F790",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel pays est un pays fondateur de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Pologne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Allemagne (RFA à l'époque) fait partie des 6 membres fondateurs de 1957 avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-001",
+        "shortId": "Q-55B4CF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe permet de garantir que les pouvoirs publics n'agissent pas de manière arbitraire ?",
+        "choices": [
+          {
+            "text": "La centralisation administrative",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": true
+          },
+          {
+            "text": "Le cumul des mandats",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté parlementaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des pouvoirs est un principe fondamental de la démocratie qui empêche la concentration du pouvoir entre les mains d'une seule personne ou autorité. Elle assure l'indépendance et l'équilibre entre les pouvoirs législatif, exécutif et judiciaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-002",
+        "shortId": "Q-2345A5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les six principes définissant l'État de droit ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi ; La séparation des pouvoirs ; La primauté du droit",
+            "isCorrect": true
+          },
+          {
+            "text": "L'autorité unique du chef de l'État et la soumission du Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "La surveillance généralisée et le contrôle de l'information",
+            "isCorrect": false
+          },
+          {
+            "text": "L'absence de recours juridictionnel contre l'administration",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les six principes définissant l'État de droit garantissent que l'administration agit légalement et que les citoyens sont protégés contre l'arbitraire. Ils incluent notamment la hiérarchie des normes, l'égalité devant la loi et la séparation des pouvoirs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-003",
+        "shortId": "Q-101CF1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie la « primauté du droit » ?",
+        "choices": [
+          {
+            "text": "Les juges créent les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit ne s'applique qu'aux citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président est au-dessus du droit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit s'impose à tous, y compris à l'État",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La primauté du droit signifie que la loi est supérieure à tout pouvoir politique ou administratif. Aucune décision ne peut être prise en violation des règles de droit établies, garantissant ainsi l'égalité de tous."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-004",
+        "shortId": "Q-4CC9F7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels texte l'État de droit doit-il toujours respecter ?",
+        "choices": [
+          {
+            "text": "La Constitution française ; La Déclaration des droits de l'homme et du citoyen de 1789",
+            "isCorrect": true
+          },
+          {
+            "text": "Le programme du parti au pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions des organisations internationales non ratifiées",
+            "isCorrect": false
+          },
+          {
+            "text": "Les coutumes régionales uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'État de droit repose sur le respect de la hiérarchie des normes, au sommet de laquelle se trouve la Constitution. Celle-ci intègre la Déclaration des droits de l'homme et du citoyen de 1789, socle des libertés fondamentales."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-005",
+        "shortId": "Q-6603C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés ?",
+        "choices": [
+          {
+            "text": "Par les grands électeurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens",
+            "isCorrect": true
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommés par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés sont élus au suffrage universel direct par les citoyens français lors des élections législatives. Le scrutin est majoritaire à deux tours."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-006",
+        "shortId": "Q-DC0913",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'aide juridictionnelle ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour permettre à chacun d'être défendu",
+            "isCorrect": true
+          },
+          {
+            "text": "Une aide pour payer ses amendes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une formation en droit gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide pour devenir juge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'aide juridictionnelle est une prise en charge par l'État des frais de justice (avocat, huissier) pour les personnes aux revenus modestes. Elle garantit l'accès de tous au droit et à la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-007",
+        "shortId": "Q-612E47",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux grands ordres de juridiction en France ?",
+        "choices": [
+          {
+            "text": "La justice locale et la justice nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire et l'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre civil et l'ordre militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La justice des mineurs et la justice des majeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le système judiciaire français est divisé en deux ordres distincts : l'ordre judiciaire (litiges entre personnes, pénal) et l'ordre administratif (litiges impliquant l'administration)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-008",
+        "shortId": "Q-0FD930",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De quoi s'occupe la justice administrative ?",
+        "choices": [
+          {
+            "text": "Des conflits de voisinage",
+            "isCorrect": false
+          },
+          {
+            "text": "Des divorces",
+            "isCorrect": false
+          },
+          {
+            "text": "Des litiges entre les citoyens et l'État ou les collectivités publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Des crimes et délits",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice administrative est compétente pour trancher les litiges opposant les citoyens à l'administration (État, collectivités locales, hôpitaux publics). Elle veille à ce que l'administration respecte le droit."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-009",
+        "shortId": "Q-6AAE21",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la définition de la démocratie selon la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre public garanti par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection des frontières nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement du peuple, par le peuple et pour le peuple",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 2 de la Constitution définit le principe de la République comme étant le « gouvernement du peuple, par le peuple et pour le peuple ». Cette citation est empruntée à Abraham Lincoln."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-010",
+        "shortId": "Q-030CE1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les trois piliers du vote en France ?",
+        "choices": [
+          {
+            "text": "Secret ; Libre ; Personnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Public",
+            "isCorrect": false
+          },
+          {
+            "text": "Oral",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le vote en France repose sur trois principes majeurs : il est personnel (ou par procuration), libre (sans pression) et secret (garanti par l'isoloir)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-011",
+        "shortId": "Q-551AA5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les droits civiques et politiques liés au citoyen ?",
+        "choices": [
+          {
+            "text": "Droit d'être éligible (se présenter aux élections) ; Droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Droit de ne pas payer d'impôts",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de servir dans l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Droit de conduire sans permis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La citoyenneté française confère le droit de vote et d'éligibilité (se faire élire). Elle implique aussi des devoirs comme le respect de la loi et la participation à la défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-012",
+        "shortId": "Q-97DE5E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle élection se fait au suffrage universel indirect ?",
+        "choices": [
+          {
+            "text": "Les élections présidentielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections sénatoriales",
+            "isCorrect": true
+          },
+          {
+            "text": "Les élections législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections municipales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les élections sénatoriales se déroulent au suffrage universel indirect. Les citoyens élisent des « grands électeurs » (maires, conseillers...) qui, à leur tour, élisent les sénateurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-013",
+        "shortId": "Q-8655CB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la pluralité des partis politiques garantit ?",
+        "choices": [
+          {
+            "text": "La stabilité gouvernementale absolue",
+            "isCorrect": false
+          },
+          {
+            "text": "La victoire automatique du parti majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction des coalitions",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression des opinions politiques",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le pluralisme politique garantit la libre compétition entre plusieurs partis et idées. La liberté d'expression des opinions politiques, c'est une condition essentielle de la démocratie qui permet aux citoyens d'avoir un véritable choix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-014",
+        "shortId": "Q-C12E62",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les médias doivent-ils être équitables entre les partis politiques ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une obligation légale",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pendant la présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, ils doivent soutenir le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, ils font ce qu'ils veulent",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ARCOM veille au respect de l'équité des temps de parole entre les partis politiques dans les médias audiovisuels. Cette obligation légale assure que toutes les opinions démocratiques peuvent s'exprimer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-015",
+        "shortId": "Q-F90420",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe garantit que la loi est claire et ne change pas tout le temps ?",
+        "choices": [
+          {
+            "text": "La laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "La sécurité juridique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité",
+            "isCorrect": false
+          },
+          {
+            "text": "La fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La sécurité juridique garantit que la loi est accessible, claire et stable (non-rétroactive). Elle permet aux citoyens de connaître les règles et de prévoir les conséquences de leurs actes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-016",
+        "shortId": "Q-83A7E1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être privé de ses droits civiques ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si on quitte le pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, par une condamnation pénale",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si on ne vote pas",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, la privation des droits civiques (droit de vote, d'éligibilité) peut être prononcée par un juge comme peine complémentaire lors d'une condamnation pénale grave."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-017",
+        "shortId": "Q-FD3E41",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui possède l'initiative de la loi en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens par pétition uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les juges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre (Gouvernement) et les parlementaires (Députés et Sénateurs)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'initiative de la loi est partagée : elle appartient au Premier ministre (projets de loi) et aux parlementaires (propositions de loi). C'est un équilibre entre exécutif et législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-018",
+        "shortId": "Q-DB53FD",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par le Gouvernement ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Un décret",
+            "isCorrect": false
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ordonnance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un projet de loi est un texte législatif déposé par le Gouvernement après avis du Conseil d'État et délibération en Conseil des ministres. C'est la source de la majorité des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-019",
+        "shortId": "Q-F75D16",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par un député ou un sénateur ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une motion",
+            "isCorrect": false
+          },
+          {
+            "text": "Un arrêté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Une proposition de loi est un texte législatif déposé par un ou plusieurs parlementaires (députés ou sénateurs). Elle reflète l'initiative du pouvoir législatif."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-020",
+        "shortId": "Q-04E744",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la première étape de l'examen d'un texte de loi au Parlement ?",
+        "choices": [
+          {
+            "text": "La promulgation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "L'examen en commission parlementaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le vote solennel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Avant d'être débattu en séance publique, tout projet ou proposition de loi est examiné par une commission parlementaire spécialisée. Elle peut modifier le texte par des amendements."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-021",
+        "shortId": "Q-C18AF0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un amendement ?",
+        "choices": [
+          {
+            "text": "Un veto du Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de seconde lecture",
+            "isCorrect": false
+          },
+          {
+            "text": "Un renvoi au Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Une modification proposée au texte de loi",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un amendement est une modification proposée au texte de loi en discussion. Le Gouvernement et les parlementaires ont le droit d'amendement pour enrichir ou corriger la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-022",
+        "shortId": "Q-D9EE68",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « navette parlementaire » ?",
+        "choices": [
+          {
+            "text": "Le va-et-vient du texte entre l'Assemblée nationale et le Sénat",
+            "isCorrect": true
+          },
+          {
+            "text": "Le trajet entre l'Élysée et Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'échange de documents entre ministères",
+            "isCorrect": false
+          },
+          {
+            "text": "Le vote final de la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La « navette parlementaire » est le va-et-vient d'un texte de loi entre l'Assemblée nationale et le Sénat. Elle continue jusqu'à ce que les deux chambres votent un texte identique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-023",
+        "shortId": "Q-72FA5B",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que se passe-t-il si l'Assemblée nationale et le Sénat ne sont pas d'accord sur un texte ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre tranche",
+            "isCorrect": false
+          },
+          {
+            "text": "Une commission mixte paritaire (CMP) est convoquée",
+            "isCorrect": true
+          },
+          {
+            "text": "Le texte est abandonné",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président décide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En cas de désaccord persistant, une Commission Mixte Paritaire (7 députés, 7 sénateurs) est réunie pour tenter de trouver un compromis sur les articles restants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-024",
+        "shortId": "Q-F47334",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le « dernier mot » lors du vote d'une loi en cas d'échec de la commission mixte paritaire ?",
+        "choices": [
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Gouvernement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Si la Commission Mixte Paritaire échoue, le Gouvernement peut demander à l'Assemblée nationale de statuer définitivement. C'est elle qui a le « dernier mot » politique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-025",
+        "shortId": "Q-EC4927",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui peut saisir le Conseil constitutionnel pour vérifier la conformité d'une loi ?",
+        "choices": [
+          {
+            "text": "Le maire de sa commune",
+            "isCorrect": false
+          },
+          {
+            "text": "60 députés ou 60 sénateurs",
+            "isCorrect": true
+          },
+          {
+            "text": "Un juge d'instruction",
+            "isCorrect": false
+          },
+          {
+            "text": "N'importe quel citoyen (avant promulgation)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil constitutionnel peut être saisi par le Président, le Premier ministre, les présidents des assemblées, ou par 60 députés ou 60 sénateurs pour vérifier la conformité d'une loi à la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-026",
+        "shortId": "Q-EB6A75",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le délai de promulgation de la loi par le Président ?",
+        "choices": [
+          {
+            "text": "3 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "15 jours",
+            "isCorrect": true
+          },
+          {
+            "text": "1 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Président de la République dispose d'un délai de 15 jours pour promulguer la loi une fois qu'elle a été définitivement adoptée (et validée par le Conseil constitutionnel si saisi)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-027",
+        "shortId": "Q-9E6046",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une collectivité à statut particulier ?",
+        "choices": [
+          {
+            "text": "Une collectivité qui a des règles spécifiques adaptées à sa situation (ex: Paris, Corse)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une zone économique spéciale",
+            "isCorrect": false
+          },
+          {
+            "text": "Un territoire géré directement par l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Une collectivité dirigée par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les collectivités à statut particulier (comme Paris, la Corse ou la Métropole de Lyon) ont une organisation spécifique adaptée à leurs besoins locaux, dérogeant au droit commun."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-028",
+        "shortId": "Q-C0BE23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel statut particulier a la ville de Paris ?",
+        "choices": [
+          {
+            "text": "Elle est une région à elle seule",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle est à la fois commune et département",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle est dirigée par un préfet uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle ne fait pas partie de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2019, la Ville de Paris est une collectivité unique exerçant à la fois les compétences d'une commune et celles d'un département. Le Conseil de Paris vote les délibérations pour les deux niveaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-029",
+        "shortId": "Q-7D3084",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel domaine les collectivités d'outre-mer (COM) ont-elles des particularités ?",
+        "choices": [
+          {
+            "text": "L'adaptation des lois locales",
+            "isCorrect": true
+          },
+          {
+            "text": "La langue officielle (le français n'est pas obligatoire)",
+            "isCorrect": false
+          },
+          {
+            "text": "La monnaie (elles n'ont pas l'Euro)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'armée (elles ont leur propre armée)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les Collectivités d'Outre-Mer (COM) disposent d'une autonomie plus large, leur permettant d'adapter certaines lois nationales à leurs spécificités locales, contrairement aux départements et régions d'outre-mer (DROM)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-030",
+        "shortId": "Q-99AF6D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité est responsable des transports scolaires (hors agglomération) ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi NOTRe, la région est responsable de l'organisation des transports scolaires interurbains, assurant le déplacement des élèves hors agglomérations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-031",
+        "shortId": "Q-6323D8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence « partagée » entre les collectivités ?",
+        "choices": [
+          {
+            "text": "Une compétence où la commune, le département et la région peuvent intervenir ensemble (ex: culture, sport, tourisme)",
+            "isCorrect": true
+          },
+          {
+            "text": "Une compétence gérée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence interdite",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence privée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les compétences partagées (culture, sport, tourisme, éducation populaire) permettent à chaque niveau de collectivité (commune, département, région) d'intervenir selon ses priorités."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-032",
+        "shortId": "Q-03FFFB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le principe de « libre administration » des collectivités ?",
+        "choices": [
+          {
+            "text": "Les collectivités peuvent refuser d'appliquer les lois nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités s'administrent librement par des conseils élus",
+            "isCorrect": true
+          },
+          {
+            "text": "Les collectivités déterminent elles-mêmes leurs compétences sans la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Les collectivités peuvent créer leurs propres impôts sans limites",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe constitutionnel de libre administration signifie que les collectivités s'autogèrent via des conseils élus, sans tutelle directe de l'État sur leurs décisions (sauf contrôle de légalité)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-033",
+        "shortId": "Q-5D7572",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui contrôle la légalité des actes des collectivités territoriales ?",
+        "choices": [
+          {
+            "text": "Le député de la circonscription",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens par vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Le préfet (contrôle de légalité) et le juge administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le contrôle de légalité est exercé a posteriori par le Préfet. Il vérifie que les actes des collectivités respectent la loi, sans juger de leur opportunité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-034",
+        "shortId": "Q-9FDB92",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le représentant de l'État dans le département ?",
+        "choices": [
+          {
+            "text": "Le Député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Préfet (de département ou de région) est le représentant direct de l'État et des ministres. Il veille à l'application des lois et des décisions gouvernementales sur le territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-035",
+        "shortId": "Q-590A85",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le sigle RSA ?",
+        "choices": [
+          {
+            "text": "Revenu de Solidarité Active",
+            "isCorrect": true
+          },
+          {
+            "text": "Rente Sociale Annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Retraite Sans Assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Revenu Supplémentaire d'Activité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RSA (Revenu de Solidarité Active) assure un revenu minimum aux personnes sans ressources. Sa gestion et son financement relèvent du Conseil départemental."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-036",
+        "shortId": "Q-981BE4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des collèges ?",
+        "choices": [
+          {
+            "text": "La région",
+            "isCorrect": false
+          },
+          {
+            "text": "L'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le département a la responsabilité des collèges. Il construit et entretient les bâtiments, et gère la restauration scolaire et le personnel technique (ATTEE)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-037",
+        "shortId": "Q-FB50DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité gère la construction et l'entretien des lycées ?",
+        "choices": [
+          {
+            "text": "La commune",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La région est propriétaire des lycées. Elle assure leur construction, leur équipement (y compris numérique) et le fonctionnement matériel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-038",
+        "shortId": "Q-40CA23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la CECA (Communauté européenne du charbon et de l'acier) ?",
+        "choices": [
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1951",
+            "isCorrect": true
+          },
+          {
+            "text": "1989",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CECA (Communauté européenne du charbon et de l'acier) a été créée par le traité de Paris en 1951. C'est la première étape concrète de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-039",
+        "shortId": "Q-4E363E",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la CEE (Communauté économique européenne) en 1957 ?",
+        "choices": [
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Rome",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le traité de Rome, signé le 25 mars 1957, a créé la Communauté Économique Européenne (CEE) pour établir un marché commun généralisé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-040",
+        "shortId": "Q-4167DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a officiellement créé l'Union européenne en 1992 ?",
+        "choices": [
+          {
+            "text": "Le traité d'Amsterdam",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Nice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le traité de Maastricht, signé en 1992, a créé officiellement l'Union européenne, ajoutant une dimension politique et monétaire à la communauté économique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-041",
+        "shortId": "Q-8804CC",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle liberté fondamentale a été renforcée par le traité de Maastricht ?",
+        "choices": [
+          {
+            "text": "Le droit de porter une arme",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de la presse",
+            "isCorrect": false
+          },
+          {
+            "text": "La libre circulation des personnes, des marchandises et des capitaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté religieuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Maastricht a renforcé le marché intérieur et garanti les quatre libertés de circulation : libre circulation des biens, des services, des personnes et des capitaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-042",
+        "shortId": "Q-CB979D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Espagne et le Portugal ont-ils rejoint la CEE (future Union européenne) ?",
+        "choices": [
+          {
+            "text": "1986",
+            "isCorrect": true
+          },
+          {
+            "text": "2004",
+            "isCorrect": false
+          },
+          {
+            "text": "1995",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Espagne et le Portugal, sortis de dictatures, ont rejoint la CEE en 1986, consolidant la démocratie dans le sud de l'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-043",
+        "shortId": "Q-CCE4C5",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité récent (2007) a adapté les règles pour une meilleure coordination ?",
+        "choices": [
+          {
+            "text": "Le traité de Trianon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Londres",
+            "isCorrect": false
+          },
+          {
+            "text": "Le traité de Lisbonne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le traité de Lisbonne, entré en vigueur en 2009, a réformé les institutions pour rendre l'UE plus efficace et démocratique après l'élargissement à l'Est."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-044",
+        "shortId": "Q-FBF27A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel objectif a été ajouté à l'UE par le traité de Lisbonne ?",
+        "choices": [
+          {
+            "text": "Le renforcement de la coopération militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La création d'une armée européenne unique",
+            "isCorrect": false
+          },
+          {
+            "text": "La politique agricole commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La lutte contre le changement climatique",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lisbonne a inscrit la lutte contre le changement climatique et le développement durable comme des objectifs majeurs de l'Union."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-045",
+        "shortId": "Q-AA92EB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les collectivités d'outre-mer (comme la Polynésie) font-elles partie de l'organisation décentralisée ?",
+        "choices": [
+          {
+            "text": "Oui",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement pour les questions économiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elles ont un statut d'association",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elles sont indépendantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, les collectivités d'outre-mer font partie intégrante de la République française décentralisée, avec des statuts parfois adaptés (autonomie)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-046",
+        "shortId": "Q-28E3A8",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une compétence régalienne (restée à l'État) ?",
+        "choices": [
+          {
+            "text": "L'organisation des transports scolaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une compétence liée à la souveraineté (armée, justice, diplomatie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le développement économique local",
+            "isCorrect": false
+          },
+          {
+            "text": "La gestion des équipements sportifs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les compétences régaliennes (Armée, Justice, Police, Diplomatie) sont celles qui touchent à la souveraineté. Elles restent le monopole de l'État et ne sont pas décentralisées."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-047",
+        "shortId": "Q-0F04E9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année 10 nouveaux pays ont-ils rejoint l'UE d'un coup (grand élargissement) ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "2010",
+            "isCorrect": false
+          },
+          {
+            "text": "1999",
+            "isCorrect": false
+          },
+          {
+            "text": "2004",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En 2004, l'UE a connu son plus grand élargissement avec l'adhésion de 10 nouveaux pays (Chypre, Estonie, Hongrie, Lettonie, Lituanie, Malte, Pologne, République tchèque, Slovaquie, Slovénie)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-048",
+        "shortId": "Q-AF3153",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Martinique est-elle une région française ?",
+        "choices": [
+          {
+            "text": "Non, c'est un territoire d'outre-mer (TOM)",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est une région d'outre-mer",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un département mais pas une région",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle a un statut d'autonomie renforcée hors UE",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Martinique est une Collectivité Territoriale Unique qui exerce à la fois les compétences d'un département et d'une région d'outre-mer (DROM). Elle fait pleinement partie de l'UE (région ultrapériphérique)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-049",
+        "shortId": "Q-87772F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays a rejoint l'UE en 1981 ?",
+        "choices": [
+          {
+            "text": "L'Italie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Grèce",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Portugal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Turquie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Grèce a rejoint les Communautés européennes en 1981, confortant la démocratie retrouvée après la dictature des colonels."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-050",
+        "shortId": "Q-071708",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'Autriche, la Finlande et la Suède ont rejoint l'UE en quelle année ?",
+        "choices": [
+          {
+            "text": "1986",
+            "isCorrect": false
+          },
+          {
+            "text": "2004",
+            "isCorrect": false
+          },
+          {
+            "text": "1995",
+            "isCorrect": true
+          },
+          {
+            "text": "1973",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Autriche, la Suède et la Finlande ont rejoint l'UE en 1995. C'est « l'élargissement aux neutres » après la Guerre froide."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-051",
+        "shortId": "Q-3A3201",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôle la conformité des lois à la Constitution ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Conseil constitutionnel vérifie que les lois votées par le Parlement sont conformes à la Constitution. S'il déclare une loi inconstitutionnelle, elle ne peut pas être appliquée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-052",
+        "shortId": "Q-BC26F7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le regroupement de communes autour de Lyon ?",
+        "choices": [
+          {
+            "text": "La Métropole de Lyon",
+            "isCorrect": true
+          },
+          {
+            "text": "La commune de Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Grand Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département du Rhône",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Métropole de Lyon est une collectivité à statut particulier qui remplace, sur son territoire, le département du Rhône et la communauté urbaine, exerçant toutes leurs compétences."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-053",
+        "shortId": "Q-46395D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Président de la République peut, après consultation du PM et des présidents d'assemblées, prononcer la dissolution de l'Assemblée nationale, provoquant de nouvelles élections législatives."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-054",
+        "shortId": "Q-71DBA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Sénat peut-il être dissous ?",
+        "choices": [
+          {
+            "text": "Oui, par le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si les sénateurs démissionnent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le Sénat ne peut pas être dissous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, le Sénat ne peut jamais être dissous. Il assure la permanence des institutions et la continuité de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-055",
+        "shortId": "Q-B82031",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui succède au Président de la République en cas de décès ou démission ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat (par intérim)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "La femme du Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En cas de vacance de la Présidence (décès, démission), c'est le Président du Sénat qui assure l'intérim jusqu'à l'élection du nouveau Président."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-056",
+        "shortId": "Q-0274DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution représente l'intérêt général de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'UE",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Commission européenne est l'institution qui représente et défend l'intérêt général de l'Union européenne dans son ensemble, indépendamment des intérêts nationaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-057",
+        "shortId": "Q-24D454",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de commissaires européens ?",
+        "choices": [
+          {
+            "text": "720",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "27 (un par État membre)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il y a un commissaire européen par État membre, soit 27 commissaires. Ils forment le « Collège » et sont tenus à l'indépendance."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-058",
+        "shortId": "Q-968DD3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution réunit les chefs d'État ou de gouvernement des pays membres ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État ou de gouvernement des pays membres. C'est le sommet politique qui donne les impulsions majeures."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-059",
+        "shortId": "Q-9D2DEF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Conseil européen ?",
+        "choices": [
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": true
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Conseil européen siège à Bruxelles dans le bâtiment Europa."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-060",
+        "shortId": "Q-6B2F7F",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la différence entre le Conseil européen et le Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil européen est l'organe législatif, le Conseil de l'UE l'exécutif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'UE siège à Strasbourg uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la même chose",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen réunit les chefs d'État, le Conseil de l'UE réunit les ministres",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Conseil européen réunit les chefs d'État pour définir les stratégies. Le Conseil de l'Union européenne (ou Conseil) réunit les ministres pour voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-061",
+        "shortId": "Q-5032FC",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui vote les lois européennes ?",
+        "choices": [
+          {
+            "text": "Le Parlement européen ; Le Conseil de l'Union européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune de ces réponses n'est correcte",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les lois européennes sont votées conjointement par le Parlement européen (élus des citoyens) et le Conseil de l'Union européenne (ministres des États). C'est la codécision."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-062",
+        "shortId": "Q-424426",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège le Parlement européen pour ses sessions plénières ?",
+        "choices": [
+          {
+            "text": "À Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg (France)",
+            "isCorrect": true
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Berlin",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Parlement européen tient ses sessions plénières mensuelles à Strasbourg, qui est son siège officiel, symbole de la réconciliation franco-allemande."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-063",
+        "shortId": "Q-5C56D7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien y a-t-il de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "751",
+            "isCorrect": false
+          },
+          {
+            "text": "720",
+            "isCorrect": true
+          },
+          {
+            "text": "705",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour la législature 2024-2029, le Parlement européen compte 720 députés représentant les citoyens des 27 États membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-064",
+        "shortId": "Q-00A16A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont élus les députés européens ?",
+        "choices": [
+          {
+            "text": "Par les gouvernements nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Par la Commission européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Au suffrage universel direct par les citoyens européens",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés européens sont élus au suffrage universel direct par les citoyens de chaque pays de l'Union européenne tous les 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-065",
+        "shortId": "Q-C2C9B4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un eurodéputé ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mandat des députés européens est de 5 ans, renouvelable."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-066",
+        "shortId": "Q-5FD1B6",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien la France a-t-elle de députés européens (depuis 2024) ?",
+        "choices": [
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "81",
+            "isCorrect": true
+          },
+          {
+            "text": "74",
+            "isCorrect": false
+          },
+          {
+            "text": "79",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis les élections de 2024, la France élit 81 députés européens."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-067",
+        "shortId": "Q-74C270",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les députés européens sont-ils regroupés par nationalité ?",
+        "choices": [
+          {
+            "text": "Oui, par langue",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par ordre alphabétique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, par affinités politiques (groupes politiques)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, ils sont assis par pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés ne siègent pas par pays, mais par affinités politiques dans des groupes transnationaux (ex: PPE, S&D, Renew...), favorisant une vision européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-068",
+        "shortId": "Q-2E42B0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution assure le respect du droit européen ?",
+        "choices": [
+          {
+            "text": "La Cour internationale de justice (CIJ)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour européenne des droits de l'homme (CEDH)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal de grande instance",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice de l'Union européenne (CJUE)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Cour de justice de l'Union européenne (CJUE) veille à ce que le droit européen soit interprété et appliqué de la même manière dans tous les pays membres."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-069",
+        "shortId": "Q-3314CE",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Cour de justice de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "À Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "À La Haye",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour de justice de l'Union européenne (CJUE) siège à Luxembourg."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-070",
+        "shortId": "Q-7857C1",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution gère l'Euro et la politique monétaire ?",
+        "choices": [
+          {
+            "text": "La Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque centrale européenne (BCE)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Fonds monétaire international",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Banque centrale européenne (BCE) gère l'Euro et définit la politique monétaire de la zone euro, avec pour objectif principal la stabilité des prix."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-071",
+        "shortId": "Q-0E9334",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "1992",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": false
+          },
+          {
+            "text": "1998",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La BCE a été créée en 1998 et est devenue pleinement opérationnelle avec le lancement de l'Euro."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-072",
+        "shortId": "Q-D79503",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Banque centrale européenne ?",
+        "choices": [
+          {
+            "text": "À Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "À Londres",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Francfort (Allemagne)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le siège de la Banque centrale européenne est situé à Francfort-sur-le-Main, en Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-073",
+        "shortId": "Q-78ABFF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôle les finances et le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Trésor Public",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour des comptes européenne contrôle la bonne gestion financière de l'UE. Elle vérifie que les fonds européens sont collectés et dépensés légalement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-074",
+        "shortId": "Q-CFF766",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année le Conseil européen est-il devenu une institution officielle ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "2009 (Traité de Lisbonne)",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1992",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen a obtenu le statut officiel d'institution de l'Union avec l'entrée en vigueur du traité de Lisbonne en 2009."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-075",
+        "shortId": "Q-653306",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être candidat aux élections européennes en France si on est Allemand habitant en France ?",
+        "choices": [
+          {
+            "text": "Oui, sous conditions (résidence, âge, non privé de droits)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, il faut être Français",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut se présenter en Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement comme remplaçant",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Oui, tout citoyen de l'Union résidant en France peut être candidat aux élections européennes en France, aux mêmes conditions que les Français."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-076",
+        "shortId": "Q-27BA61",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le mode de scrutin des élections européennes en France ?",
+        "choices": [
+          {
+            "text": "Vote à main levée",
+            "isCorrect": false
+          },
+          {
+            "text": "Scrutin de liste à la représentation proportionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "Tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Scrutin majoritaire à deux tours",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les élections européennes en France se déroulent au scrutin de liste à la représentation proportionnelle. Cela permet une représentation fidèle des divers courants politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-077",
+        "shortId": "Q-EB1BA4",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Vote-t-on pour une personne ou pour une liste aux élections européennes ?",
+        "choices": [
+          {
+            "text": "Pour une personne",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour un président",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour une liste",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour un maire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "On vote pour une liste bloquée de candidats. Les sièges sont répartis entre les listes selon leur score (au-dessus de 5%)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-078",
+        "shortId": "Q-75EA38",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a initié la CECA ?",
+        "choices": [
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          },
+          {
+            "text": "Charles de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Robert Schuman et Jean Monnet",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Robert Schuman (Ministre français) et Jean Monnet (Commissaire au Plan) sont les pères fondateurs à l'origine de la CECA et de la méthode communautaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-079",
+        "shortId": "Q-149D26",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle était l'institution ancêtre de la Commission européenne en 1951 ?",
+        "choices": [
+          {
+            "text": "La Haute Autorité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Directoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Haut Conseil",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Haute Autorité était l'organe exécutif supranational de la CECA. Elle est l'ancêtre direct de l'actuelle Commission européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-080",
+        "shortId": "Q-3BE873",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution contrôlait démocratiquement la Haute Autorité en 1951 ?",
+        "choices": [
+          {
+            "text": "Le Conseil des ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée commune",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le peuple par référendum",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Assemblée commune, composée de délégués des parlements nationaux, exerçait un contrôle démocratique sur la Haute Autorité. Elle est l'ancêtre du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-081",
+        "shortId": "Q-A3A663",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Assemblée européenne est-elle devenue le Parlement européen ?",
+        "choices": [
+          {
+            "text": "1979",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": true
+          },
+          {
+            "text": "1986",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'Assemblée parlementaire européenne a pris le nom de Parlement européen en 1962 pour affirmer son rôle politique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-082",
+        "shortId": "Q-D50A74",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis quand les députés européens sont-ils élus au suffrage universel direct ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "1962",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1979",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est en 1979 qu'ont eu lieu les premières élections du Parlement européen au suffrage universel direct, renforçant sa légitimité démocratique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-083",
+        "shortId": "Q-BB4DA7",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Commission exécute-t-elle le budget de l'UE ?",
+        "choices": [
+          {
+            "text": "Oui, elle gère et exécute le budget",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est chaque pays",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est la banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Commission exécute le budget voté par le Parlement et le Conseil. Elle gère les fonds structurels et les programmes (Erasmus, PAC...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-084",
+        "shortId": "Q-32C38D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Cour de justice peut-elle sanctionner un État membre ?",
+        "choices": [
+          {
+            "text": "Seulement si l'État est d'accord",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si l'État ne respecte pas le droit européen",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, elle n'a aucun pouvoir",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais seulement par une lettre d'avertissement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Oui, la Cour de justice peut condamner un État membre à de lourdes sanctions financières s'il ne respecte pas le droit de l'Union (procédure d'infraction)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-085",
+        "shortId": "Q-E0C582",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui choisit les ministres siégeant au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La Commission",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les gouvernements nationaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Les électeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les membres du Conseil de l'Union européenne sont les ministres des gouvernements nationaux de chaque pays membre, en fonction du sujet traité (Agriculture, Finances...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-086",
+        "shortId": "Q-ED2DD2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont deux des trois piliers de la « méthode communautaire » ?",
+        "choices": [
+          {
+            "text": "Codécision Parlement/Conseil ; Initiative de la Commission",
+            "isCorrect": true
+          },
+          {
+            "text": "Vote à l'unanimité obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Décision par le seul Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Vote par acclamation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La méthode communautaire repose sur le monopole de l'initiative de la Commission, la codécision du Parlement et du Conseil, et le vote à la majorité qualifiée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-087",
+        "shortId": "Q-F42846",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La France a-t-elle plus de députés que l'Allemagne au Parlement européen ?",
+        "choices": [
+          {
+            "text": "Non, l'Allemagne en a plus car elle est plus peuplée",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car la France est fondatrice",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est le même nombre",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela change chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Non, les sièges sont répartis selon la population (digressivement). L'Allemagne, pays le plus peuplé, a le plus grand nombre de députés (96)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-088",
+        "shortId": "Q-2E8C67",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être à la fois député national (Assemblée nationale) et député européen ?",
+        "choices": [
+          {
+            "text": "Oui, c'est fréquent",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le cumul est interdit",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement pour les sénateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si on est maire aussi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Non, le cumul des mandats est interdit. On ne peut pas être député national (ou maire exécutif) et député européen en même temps."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-089",
+        "shortId": "Q-76B474",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Suisse est-elle membre de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Oui",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement la partie francophone",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle va le devenir bientôt",
+            "isCorrect": false
+          },
+          {
+            "text": "Non",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Non, la Suisse n'est pas membre de l'UE. Elle a rejeté l'adhésion par référendum mais participe au marché unique via des accords bilatéraux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-090",
+        "shortId": "Q-BE4DD9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel traité a créé la citoyenneté européenne ?",
+        "choices": [
+          {
+            "text": "Paris (1951)",
+            "isCorrect": false
+          },
+          {
+            "text": "Maastricht (1992)",
+            "isCorrect": true
+          },
+          {
+            "text": "Rome (1957)",
+            "isCorrect": false
+          },
+          {
+            "text": "Vienne (1815)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La citoyenneté européenne a été instituée par le traité de Maastricht en 1992. Elle complète la citoyenneté nationale sans la remplacer."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-091",
+        "shortId": "Q-41C2FF",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La charte des droits fondamentaux de l'UE a-t-elle une valeur juridique ?",
+        "choices": [
+          {
+            "text": "Non, c'est juste un texte décoratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le Pape la signe",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, elle a la même valeur que les traités",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, la Charte des droits fondamentaux a acquis la même valeur juridique que les traités avec le traité de Lisbonne (2009). Elle s'impose aux institutions et aux États."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-092",
+        "shortId": "Q-E7D797",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Les règlements européens s'appliquent-ils directement dans les États membres ?",
+        "choices": [
+          {
+            "text": "Uniquement s'ils sont validés par le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut voter une loi nationale pour chaque règlement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, dès leur entrée en vigueur",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Oui, un règlement européen est obligatoire dans tous ses éléments et directement applicable dans tout État membre dès sa publication, sans transposition."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-093",
+        "shortId": "Q-B22F65",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui est le 'gouvernement' de l'Europe ?",
+        "choices": [
+          {
+            "text": "L'ONU",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce terme est impropre, mais la Commission en a certaines fonctions exécutives",
+            "isCorrect": true
+          },
+          {
+            "text": "La France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il n'y a pas de gouvernement unique. La fonction exécutive est assurée principalement par la Commission, mais sous l'impulsion politique du Conseil européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-094",
+        "shortId": "Q-30B83C",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Parlement européen peut-il censurer la Commission ?",
+        "choices": [
+          {
+            "text": "Non, jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est l'inverse",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, par une motion de censure",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais seulement le Président",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui, le Parlement européen peut voter une motion de censure qui oblige la Commission à démissionner collectivement. C'est son pouvoir de contrôle ultime."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-095",
+        "shortId": "Q-F621C0",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont prises la plupart des décisions au Conseil de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "À l'unanimité (pour tout)",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement par les pays fondateurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "À la majorité qualifiée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité qualifiée (55% des États représentant 65% de la population) est devenue le mode de décision ordinaire pour éviter les blocages de l'unanimité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-096",
+        "shortId": "Q-6A470B",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'Espace Schengen ?",
+        "choices": [
+          {
+            "text": "Un espace de libre circulation des personnes sans contrôle aux frontières",
+            "isCorrect": true
+          },
+          {
+            "text": "Une zone de libre-échange commercial",
+            "isCorrect": false
+          },
+          {
+            "text": "Une union douanière exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord de coopération policière uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'espace Schengen est une zone de libre circulation où les contrôles aux frontières intérieures ont été supprimés pour les voyageurs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-097",
+        "shortId": "Q-8C383A",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Tous les pays de l'UE sont-ils dans l'Espace Schengen ?",
+        "choices": [
+          {
+            "text": "Non, seule la France y est",
+            "isCorrect": false
+          },
+          {
+            "text": "Non (ex: Irlande, Chypre)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, ainsi que le Royaume-Uni",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est obligatoire pour tous les États membres dès l'adhésion",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Non, certains pays de l'UE ne sont pas (ou pas encore) dans Schengen (Irlande, Chypre) et des pays hors UE comme la Suisse ou la Norvège y sont associés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-098",
+        "shortId": "Q-4E48F3",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La zone Euro comprend-elle tous les pays de l'UE ?",
+        "choices": [
+          {
+            "text": "Non, seulement la France et l'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, depuis 1957",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, certains pays ont gardé leur monnaie (ex: Pologne, Suède)",
+            "isCorrect": true
+          },
+          {
+            "text": "Tous les pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non, la zone euro compte 20 membres (en 2024). Certains pays ont une dérogation (Danemark) ou ne remplissent pas encore les critères (Pologne, Hongrie...)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-099",
+        "shortId": "Q-7B3FA2",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Constitutionnel ?",
+        "choices": [
+          {
+            "text": "Faire les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier que les lois sont conformes à la Constitution et contrôler la régularité des élections",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les criminels",
+            "isCorrect": false
+          },
+          {
+            "text": "Diriger l'armée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel est le gardien de la Constitution. Il peut censurer une loi votée par le Parlement si elle ne respecte pas les principes fondamentaux de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-100",
+        "shortId": "Q-8852D9",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui gère les lycées et les transports régionaux ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Régional (la Région)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le cadre de la décentralisation, la Région a la compétence des lycées (construction, entretien) et l'organisation des transports régionaux (TER, cars)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-101",
+        "shortId": "Q-6FD46D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui élit les Sénateurs ?",
+        "choices": [
+          {
+            "text": "Les citoyens directement",
+            "isCorrect": false
+          },
+          {
+            "text": "Les grands électeurs (députés, conseillers régionaux, départementaux, municipaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Ministres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Sénat représente les collectivités territoriales. Il est élu au suffrage universel indirect par environ 162 000 grands électeurs, principalement des élus locaux."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-csp-droits-et-devoirs-1",
+  "level": "CSP",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-droits-official-007",
+        "shortId": "Q-945297",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu’est-ce que la liberté d’expression ?",
+        "choices": [
+          {
+            "text": "Le droit d'exprimer uniquement des opinions validées par l'administration",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de publier sans responsabilité en cas de diffamation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit d'exprimer ses opinions et informations, dans les limites prévues par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une liberté réservée aux journalistes et aux élus",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'expression protège la communication des idées et des informations. Elle n'est pas absolue: des limites légales existent, notamment contre la diffamation, l'injure ou l'incitation à la haine."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-003",
+        "shortId": "Q-25D44D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant les droits individuels, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Les droits fondamentaux sont réservés aux seules personnes de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Les droits fondamentaux varient selon le niveau de revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous bénéficient des mêmes droits fondamentaux, sans discrimination",
+            "isCorrect": true
+          },
+          {
+            "text": "Une administration peut supprimer un droit fondamental sans base légale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le principe d'égalité impose que les droits fondamentaux s'appliquent sans discrimination. Ils ne dépendent ni de la richesse ni de décisions arbitraires de l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-011",
+        "shortId": "Q-75B4FA",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+        "choices": [
+          {
+            "text": "La liberté d'association",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de conscience",
+            "isCorrect": true
+          },
+          {
+            "text": "La liberté d'opinion politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté de conscience protège le choix de croire, de changer de croyance ou de ne pas croire. La liberté de culte concerne la pratique d'une religion, ce qui est plus spécifique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-002",
+        "shortId": "Q-33DE37",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+        "choices": [
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen (1789)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préambule de la Constitution de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          },
+          {
+            "text": "La Convention européenne des droits de l'homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La DDHC de 1789 est le texte de référence qui formule les grands principes des droits et devoirs en France. Les autres textes complètent la protection des droits, mais ne remplacent pas ce texte fondateur."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-019",
+        "shortId": "Q-93F9F1",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+        "choices": [
+          {
+            "text": "Pour garantir la sécurité, l'ordre public et les droits d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour permettre à l'administration d'agir sans contrôle juridictionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour uniformiser les opinions et les comportements des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour réduire les coûts de fonctionnement des services publics",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les restrictions aux libertés ne sont légitimes que si elles poursuivent un objectif légal, comme la protection de l'ordre public et des droits d'autrui, et restent proportionnées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-017",
+        "shortId": "Q-5A15CF",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Faut-il réduire ses déchets ?",
+        "choices": [
+          {
+            "text": "Seulement pour les entreprises soumises à des obligations sectorielles",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement dans les communes ayant une taxe incitative",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est un devoir civique lié à la protection de l'environnement",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, cela relève uniquement d'un choix individuel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La réduction des déchets participe à la protection de l'environnement et à l'intérêt général. Les règles de tri et de gestion des déchets s'imposent aux particuliers comme aux acteurs économiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-006",
+        "shortId": "Q-BCB570",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution (et son bloc de constitutionnalité)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code du travail",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Constitution est la norme suprême qui protège les libertés publiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-012",
+        "shortId": "Q-099888",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une femme peut avorter :",
+        "choices": [
+          {
+            "text": "Oui, mais uniquement en cas de danger vital immédiat",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, seulement avec l'autorisation du conjoint",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'IVG est un droit garanti par la loi dans le délai légal",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf autorisation d'un tribunal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En France, l'IVG est autorisée par la loi et relève du choix de la femme dans le cadre légal et médical prévu. Elle n'est pas conditionnée à l'accord du conjoint."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-015",
+        "shortId": "Q-8FE7A7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "Elles sont absolues et ne peuvent jamais être limitées",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles peuvent être encadrées par la loi pour protéger l'ordre public et les droits d'autrui",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles ne peuvent être limitées que pour les personnes non françaises",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles peuvent être suspendues par décision d'un acteur privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les libertés individuelles sont protégées, mais la loi peut en fixer les limites nécessaires et proportionnées pour concilier sécurité, ordre public et respect des droits d'autrui."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-027",
+        "shortId": "Q-D7B7C0",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Déposer une machine à laver cassée sur le trottoir est :",
+        "choices": [
+          {
+            "text": "Un dépôt sauvage interdit, sauf dépôt organisé selon les règles locales de collecte",
+            "isCorrect": true
+          },
+          {
+            "text": "Un dépôt autorisé si l'appareil est hors d'usage",
+            "isCorrect": false
+          },
+          {
+            "text": "Un abandon toléré si le trottoir reste praticable",
+            "isCorrect": false
+          },
+          {
+            "text": "Une pratique légale si l'objet est laissé pour don",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Déposer un appareil électroménager sur le trottoir en dehors d'un dispositif municipal constitue un dépôt sauvage. Les encombrants doivent être déposés en déchetterie ou présentés selon les consignes de la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-010",
+        "shortId": "Q-3241F7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel texte a été adopté pendant la Révolution française ?",
+        "choices": [
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Constitution de 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préambule de 1946",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte de l'environnement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée en 1789 pendant la Révolution française. Les autres textes appartiennent à des périodes ultérieures."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-030",
+        "shortId": "Q-17E913",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'infraction la plus grave ?",
+        "choices": [
+          {
+            "text": "La contravention",
+            "isCorrect": false
+          },
+          {
+            "text": "Le délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Le crime",
+            "isCorrect": true
+          },
+          {
+            "text": "La faute disciplinaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En droit pénal français, les infractions sont classées par gravité: contravention, délit, crime. Le crime est la catégorie la plus grave et relève de peines criminelles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-024",
+        "shortId": "Q-0B5DA7",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle de la police ?",
+        "choices": [
+          {
+            "text": "Prononcer les peines décidées par les tribunaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Assurer la sécurité des personnes et des biens, prévenir les infractions et enquêter en zone police",
+            "isCorrect": true
+          },
+          {
+            "text": "Adopter les règlements nationaux en matière pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Percevoir les impôts locaux liés à la sécurité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La police nationale veille au respect de la loi, maintient l'ordre public et recherche les auteurs d'infractions."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-013",
+        "shortId": "Q-211685",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-il toujours possible de divorcer ?",
+        "choices": [
+          {
+            "text": "Seulement en cas de faute reconnue par le juge",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement après une durée minimale de mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le mariage civil est indissoluble",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le divorce est prévu par la loi selon plusieurs procédures",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le divorce est un droit en droit civil français et peut prendre plusieurs formes (consentement mutuel, acceptation du principe de la rupture, altération définitive du lien conjugal, faute)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-018",
+        "shortId": "Q-3BDB69",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jeter une bouteille dans la rue est :",
+        "choices": [
+          {
+            "text": "Une infraction passible d'une amende pour dépôt de déchet sur la voie publique",
+            "isCorrect": true
+          },
+          {
+            "text": "Un comportement toléré hors des centres-villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorise déjà dans certaines villes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un acte autorisé si la bouteille est vide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le jet de déchets sur la voie publique est sanctionné par une contravention (jusqu'à 135€)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-005",
+        "shortId": "Q-D0CF4D",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces droits est un droit fondamental ?",
+        "choices": [
+          {
+            "text": "Le droit d'obtenir automatiquement un emploi public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à une hausse annuelle du salaire imposée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit à l'effacement automatique des dettes personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'expression est une liberté fondamentale reconnue par les textes constitutionnels et internationaux. Les autres propositions décrivent des mécanismes non reconnus comme droits fondamentaux généraux."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-029",
+        "shortId": "Q-E9DDB9",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que doit faire une victime de violences ?",
+        "choices": [
+          {
+            "text": "Régler le conflit en privé sans faire appel aux autorités",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre d'avoir des preuves matérielles avant de signaler",
+            "isCorrect": false
+          },
+          {
+            "text": "Porter plainte, faire constater les faits médicalement et demander un accompagnement adapté",
+            "isCorrect": true
+          },
+          {
+            "text": "Contacter uniquement un médecin pour obtenir un certificat médical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Une victime de violences doit être protégée rapidement: signalement aux autorités, constat médical et accompagnement spécialisé permettent de sécuriser la personne et d'engager les démarches judiciaires utiles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-004",
+        "shortId": "Q-BC0740",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "De quelle année date la Déclaration des droits de l’homme et du citoyen ?",
+        "choices": [
+          {
+            "text": "1776",
+            "isCorrect": false
+          },
+          {
+            "text": "1791",
+            "isCorrect": false
+          },
+          {
+            "text": "1848",
+            "isCorrect": false
+          },
+          {
+            "text": "1789",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août 1789, au début de la Révolution française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-001",
+        "shortId": "Q-61D1FC",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment s’appelle la Constitution actuelle de la France ?",
+        "choices": [
+          {
+            "text": "La Constitution de 1791",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "La Constitution de la IVe République",
+            "isCorrect": false
+          },
+          {
+            "text": "La Charte constitutionnelle de 1814",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le texte constitutionnel actuellement en vigueur est celui du 4 octobre 1958, qui fonde la Ve République. Les autres propositions renvoient à d'anciens régimes constitutionnels."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-droits-official-021",
+        "shortId": "Q-651486",
+        "level": "CSP",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que permet la citoyenneté française ?",
+        "choices": [
+          {
+            "text": "D'accéder automatiquement à tous les emplois publics sans condition",
+            "isCorrect": false
+          },
+          {
+            "text": "D'être exonéré des impôts nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "De voter et d'être éligible aux élections ouvertes aux citoyens français",
+            "isCorrect": true
+          },
+          {
+            "text": "D'obtenir automatiquement toutes les prestations sociales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté française ouvre principalement des droits politiques, notamment le vote et l'éligibilité selon les scrutins prévus par la loi."
+      }
+    }
+  ]
+}

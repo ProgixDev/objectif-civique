@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-nat-droits-et-devoirs-3",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-situational-041",
+        "shortId": "Q-1C0EA1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes témoin d'un cambriolage en cours dans l'appartement de votre voisin absent. Que devez-vous faire ?",
+        "choices": [
+          {
+            "text": "Intervenir physiquement pour interpeller les cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Filmer la scène comme preuve puis appeler la police après le départ des cambrioleurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Appeler immédiatement le 17 (police secours) et ne pas intervenir directement",
+            "isCorrect": true
+          },
+          {
+            "text": "Prévenir le gardien de l'immeuble qui contactera les forces de l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En cas de flagrant délit, le réflexe citoyen est d'alerter immédiatement les forces de l'ordre (17) sans se mettre en danger en intervenant soi-même."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-042",
+        "shortId": "Q-EE0F67",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes convoqué devant le tribunal correctionnel. Pouvez-vous refuser de vous présenter ?",
+        "choices": [
+          {
+            "text": "Oui, votre présence est facultative si vous êtes représenté par un avocat",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous contestez la compétence territoriale du tribunal",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le tribunal peut vous juger par défaut et émettre un mandat d'arrêt",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, mais vous pouvez demander un renvoi de l'audience sans limite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "En matière correctionnelle, le prévenu peut être représenté par un avocat. Mais s'il ne comparaît pas et n'est pas représenté, il sera jugé par défaut."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-043",
+        "shortId": "Q-ED8534",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant est victime de harcèlement scolaire. L'établissement ne réagit pas. Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Porter plainte au commissariat et saisir le rectorat par courrier recommandé",
+            "isCorrect": true
+          },
+          {
+            "text": "Retirer immédiatement votre enfant de l'école sans procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter uniquement l'association de parents d'élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Attendre la fin de l'année scolaire pour changer d'établissement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Face à l'inaction d'un établissement, les parents peuvent porter plainte (le harcèlement scolaire est un délit) et saisir le rectorat pour engager la responsabilité de l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-044",
+        "shortId": "Q-D9C3EA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur modifie unilatéralement un élément essentiel de votre contrat de travail (lieu de travail éloigné). Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Refuser la modification et prendre acte de la rupture aux torts de l'employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Accepter tacitement si vous continuez à travailler pendant un mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement les prud'hommes sans autre démarche",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander une indemnité compensatoire forfaitaire de 3 mois de salaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La modification d'un élément essentiel du contrat nécessite l'accord du salarié. En cas de refus, l'employeur peut engager un licenciement, mais le salarié peut aussi prendre acte de la rupture."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-045",
+        "shortId": "Q-DAE980",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'un préjudice causé par un produit défectueux. Contre qui pouvez-vous agir en responsabilité ?",
+        "choices": [
+          {
+            "text": "Contre le producteur, l'importateur ou le distributeur ayant mis le produit sur le marché",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement contre le fabricant du produit",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement contre le vendeur final",
+            "isCorrect": false
+          },
+          {
+            "text": "Contre l'organisme de certification du produit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La responsabilité du fait des produits défectueux permet d'agir contre tout professionnel de la chaîne de distribution (producteur, importateur, fournisseur)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-046",
+        "shortId": "Q-83F20A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter les documents relatifs à une enquête publique (projet d'urbanisme). Ce droit est-il garanti ?",
+        "choices": [
+          {
+            "text": "Non, seuls les élus locaux ont accès à ces documents",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement aux propriétaires des terrains concernés",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation expresse du préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les documents d'enquête publique sont communicables à toute personne pendant la durée de l'enquête",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Pendant la durée de l'enquête publique, tout citoyen peut consulter le dossier et formuler des observations. C'est un principe de participation du public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-047",
+        "shortId": "Q-FD70B1",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en litige avec votre assureur qui refuse une indemnisation. Avant de saisir le juge, que devez-vous tenter ?",
+        "choices": [
+          {
+            "text": "Déposer une plainte auprès de l'ACPR (Autorité de contrôle)",
+            "isCorrect": false
+          },
+          {
+            "text": "Adresser une mise en demeure par huissier",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter la DGCCRF pour signalement",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le médiateur de l'assurance désigné par votre contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de litige avec son assureur, le recours au médiateur de l'assurance est une étape préalable recommandée et souvent prévue au contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-048",
+        "shortId": "Q-3FBA9F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été licencié pour faute grave. Avez-vous droit à un préavis et à une indemnité de licenciement ?",
+        "choices": [
+          {
+            "text": "Non, la faute grave prive le salarié de préavis et d'indemnité de licenciement",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, la faute grave ne supprime que l'indemnité de licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais réduits de moitié",
+            "isCorrect": false
+          },
+          {
+            "text": "Non pour le préavis, mais l'indemnité de licenciement reste due",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le licenciement pour faute grave entraîne la perte du droit au préavis et à l'indemnité de licenciement. Seule l'indemnité compensatrice de congés payés reste due."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-049",
+        "shortId": "Q-DB3BB9",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez exprimer vos opinions politiques sur les réseaux sociaux. Quelles limites devez-vous respecter ?",
+        "choices": [
+          {
+            "text": "La liberté d'expression est totale sur Internet, sans aucune limite",
+            "isCorrect": false
+          },
+          {
+            "text": "L'injure, la diffamation et l'incitation à la haine sont interdites, même en ligne",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les propos contre le gouvernement sont interdits",
+            "isCorrect": false
+          },
+          {
+            "text": "Les opinions politiques ne sont pas protégées sur Internet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression s'applique en ligne, mais avec les mêmes limites que dans la vie réelle : l'injure, la diffamation, l'incitation à la haine raciale ou la provocation à la violence restent des délits."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-050",
+        "shortId": "Q-264B4B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez obtenir la nationalité française par naturalisation. Quelle est la condition de résidence habituelle en France ?",
+        "choices": [
+          {
+            "text": "5 ans de résidence habituelle en France au moment de la demande",
+            "isCorrect": true
+          },
+          {
+            "text": "3 ans de résidence continue",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans de résidence pour les non-francophones",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans de résidence légale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour être naturalisé français, il faut justifier d'une résidence habituelle en France pendant les 5 années précédant la demande, sauf cas de réduction."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-051",
+        "shortId": "Q-01926F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été condamné à une peine de prison avec sursis. Dans quel cas le sursis peut-il être révoqué ?",
+        "choices": [
+          {
+            "text": "Uniquement si vous commettez le même type d'infraction",
+            "isCorrect": false
+          },
+          {
+            "text": "Automatiquement si vous ne payez pas les dommages et intérêts",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais, le sursis est définitivement acquis une fois prononcé",
+            "isCorrect": false
+          },
+          {
+            "text": "Si vous commettez une nouvelle infraction pendant le délai d'épreuve",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le sursis simple peut être révoqué si la personne commet une nouvelle infraction (crime ou délit) pendant le délai d'épreuve."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-052",
+        "shortId": "Q-959BBF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes salarié protégé (délégué syndical). Votre employeur veut vous licencier. Quelle autorisation est nécessaire ?",
+        "choices": [
+          {
+            "text": "L'accord du comité social et économique (CSE)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'avis favorable du médecin du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorisation préalable de l'inspecteur du travail",
+            "isCorrect": true
+          },
+          {
+            "text": "La validation du tribunal judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le licenciement d'un salarié protégé (représentant du personnel, délégué syndical) nécessite l'autorisation préalable de l'inspecteur du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-053",
+        "shortId": "Q-BCDAE2",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime d'une infraction pénale. Vous souhaitez obtenir réparation. Quelle voie choisir ?",
+        "choices": [
+          {
+            "text": "Porter plainte avec constitution de partie civile devant le juge d'instruction",
+            "isCorrect": true
+          },
+          {
+            "text": "Uniquement saisir le tribunal civil après la condamnation pénale",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander réparation auprès de la CIVI dans tous les cas",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Défenseur des droits pour indemnisation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La constitution de partie civile permet à la victime de se joindre à l'action publique pour demander réparation de son préjudice devant les juridictions pénales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-054",
+        "shortId": "Q-D760D3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes en désaccord avec une décision de la CAF (allocations familiales). Quel est le premier recours à exercer ?",
+        "choices": [
+          {
+            "text": "Adresser un recours amiable à la commission de recours amiable (CRA) de la CAF",
+            "isCorrect": true
+          },
+          {
+            "text": "Saisir directement le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Défenseur des droits",
+            "isCorrect": false
+          },
+          {
+            "text": "Contester auprès du médiateur de la Sécurité sociale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Avant tout recours contentieux, il faut obligatoirement saisir la commission de recours amiable (CRA) de l'organisme concerné dans un délai de 2 mois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-055",
+        "shortId": "Q-529733",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes enceinte et votre employeur veut vous licencier pendant votre grossesse. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, si le licenciement est pour motif économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la salariée enceinte bénéficie d'une protection absolue contre le licenciement",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, pendant la période d'essai uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf en cas de faute grave non liée à la grossesse ou d'impossibilité de maintenir le contrat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La salariée enceinte bénéficie d'une protection renforcée contre le licenciement, mais celui-ci reste possible en cas de faute grave non liée à la grossesse ou d'impossibilité de maintenir le contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-056",
+        "shortId": "Q-85DCEE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter votre dossier médical détenu par un hôpital. L'établissement peut-il refuser ?",
+        "choices": [
+          {
+            "text": "Oui, le dossier médical appartient à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'accès à son dossier médical est un droit fondamental du patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le médecin estime que les informations sont trop sensibles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais uniquement par l'intermédiaire d'un avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi Kouchner de 2002, tout patient a le droit d'accéder directement à son dossier médical. L'établissement doit communiquer le dossier dans un délai de 8 jours (ou 2 mois pour les archives)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-057",
+        "shortId": "Q-0AB779",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été victime d'une erreur médicale dans un hôpital public. Devant quelle juridiction devez-vous agir pour obtenir réparation ?",
+        "choices": [
+          {
+            "text": "Le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le conseil de l'Ordre des médecins",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tribunal administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "La commission de conciliation et d'indemnisation (CCI) exclusivement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les litiges concernant le fonctionnement des services publics hospitaliers relèvent de la compétence du tribunal administratif."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-058",
+        "shortId": "Q-239DC0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous propose une rupture conventionnelle. Disposez-vous d'un délai de rétractation ?",
+        "choices": [
+          {
+            "text": "Non, la signature est définitive",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, 15 jours calendaires pour vous rétracter après la signature de la convention",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, 7 jours ouvrables",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf accord contraire dans la convention",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après la signature d'une rupture conventionnelle, chaque partie dispose d'un délai de rétractation de 15 jours calendaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-059",
+        "shortId": "Q-9F9903",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes placé en garde à vue. Après combien de temps la garde à vue initiale peut-elle être prolongée ?",
+        "choices": [
+          {
+            "text": "24 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "12 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "36 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La garde à vue initiale est de 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-060",
+        "shortId": "Q-2FD974",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre propriétaire vous réclame le paiement de travaux d'amélioration. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, le locataire doit participer aux travaux d'amélioration",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, à hauteur de 50% du coût",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si les travaux augmentent la surface habitable",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les travaux d'amélioration sont à la charge exclusive du propriétaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les travaux d'amélioration (double vitrage, isolation, etc.) sont à la charge du propriétaire. Seules les réparations locatives incombent au locataire."
+      }
+    }
+  ]
+}

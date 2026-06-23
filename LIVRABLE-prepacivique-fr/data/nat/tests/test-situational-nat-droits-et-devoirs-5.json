@@ -1,0 +1,349 @@
+{
+  "slug": "test-situational-nat-droits-et-devoirs-5",
+  "level": "NAT",
+  "kind": "section",
+  "section": "droits-et-devoirs",
+  "count": 10,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-droits-situational-081",
+        "shortId": "Q-B65B51",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez des difficultés à payer vos dettes et risquez le surendettement. Quelle instance pouvez-vous saisir ?",
+        "choices": [
+          {
+            "text": "Le tribunal judiciaire pour une procédure d'insolvabilité civile",
+            "isCorrect": false
+          },
+          {
+            "text": "La commission de surendettement de la Banque de France",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médiateur du crédit pour une renégociation globale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse des Dépôts et Consignations pour un moratoire légal",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commission de surendettement de la Banque de France aide les particuliers surendettés à trouver des solutions (rééchelonnement, effacement partiel des dettes)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-082",
+        "shortId": "Q-FECA12",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous propose de travailler le dimanche. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Non, si l'entreprise a obtenu une dérogation préfectorale au repos dominical",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le travail dominical nécessite l'accord exprès du salarié (sauf secteurs dérogatoires)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le refus constitue une faute professionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous avez plus de 50 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le repos dominical est le principe. Le travail le dimanche sur les zones dérogatoires nécessite généralement le volontariat du salarié, sauf pour les commerces alimentaires et autres dérogations de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-083",
+        "shortId": "Q-6525F2",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes majeur protégé sous curatelle. Pouvez-vous voter aux élections ?",
+        "choices": [
+          {
+            "text": "Non, la mise sous curatelle entraîne automatiquement la privation du droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les majeurs protégés conservent leur droit de vote depuis la loi de 2019",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement avec l'accord du curateur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf décision contraire du juge des tutelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 23 mars 2019, tous les majeurs protégés (sous tutelle ou curatelle) conservent leur droit de vote. La privation automatique a été supprimée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-084",
+        "shortId": "Q-BB292E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez faire reconnaître un handicap pour bénéficier d'aides. Quelle instance devez-vous saisir ?",
+        "choices": [
+          {
+            "text": "La CPAM (Caisse Primaire d'Assurance Maladie)",
+            "isCorrect": false
+          },
+          {
+            "text": "La MDPH (Maison Départementale des Personnes Handicapées)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le médecin du travail de votre entreprise",
+            "isCorrect": false
+          },
+          {
+            "text": "La CAF (Caisse d'Allocations Familiales)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La MDPH est l'interlocuteur unique pour les demandes de reconnaissance de handicap (RQTH), les aides (AAH, PCH) et l'orientation professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-085",
+        "shortId": "Q-AA2E9C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre logement présente des problèmes de salubrité (humidité, moisissures). Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Arrêter de payer le loyer immédiatement sans autre démarche",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler les désordres au propriétaire par courrier recommandé, puis saisir la mairie ou l'ARS si nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Quitter le logement sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser vous-même les travaux et déduire le coût du loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le propriétaire doit fournir un logement décent. En cas de désordres, il faut d'abord le mettre en demeure, puis saisir les autorités (mairie, ARS) qui peuvent prendre des arrêtés d'insalubrité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-086",
+        "shortId": "Q-0440C6",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes victime de violences psychologiques dans votre couple. Ce type de violence est-il reconnu par la loi ?",
+        "choices": [
+          {
+            "text": "Non, seules les violences physiques sont punissables",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les violences psychologiques au sein du couple sont un délit depuis 2010",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement si elles durent plus d'un an",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il faut d'abord une reconnaissance médicale du préjudice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2010, les violences psychologiques au sein du couple (répétées, ayant pour objet de dégrader les conditions de vie) sont un délit puni de 3 ans d'emprisonnement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-087",
+        "shortId": "Q-0C12C3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes retraité et souhaitez cumuler votre pension avec une activité salariée. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Non, le cumul emploi-retraite est interdit en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le cumul est possible sous certaines conditions (plafond de revenus ou cumul intégral)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement pour les professions libérales",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf autorisation spéciale de la CNAV",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le cumul emploi-retraite est autorisé. Il peut être intégral (sans plafond) si toutes les pensions ont été liquidées, ou plafonné dans certains cas."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-088",
+        "shortId": "Q-8D372B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez commandé un produit sur Internet et souhaitez le retourner. De quel délai disposez-vous pour vous rétracter ?",
+        "choices": [
+          {
+            "text": "7 jours à compter de la réception",
+            "isCorrect": false
+          },
+          {
+            "text": "14 jours à compter de la réception du bien",
+            "isCorrect": true
+          },
+          {
+            "text": "30 jours pour les achats supérieurs à 500 euros",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucun droit de rétractation pour les achats en ligne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le consommateur dispose d'un délai de 14 jours pour se rétracter d'un achat en ligne, sans avoir à justifier de motif ni à payer de pénalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-089",
+        "shortId": "Q-817C0F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes mineur émancipé. Pouvez-vous voter et passer le permis de conduire ?",
+        "choices": [
+          {
+            "text": "Oui pour le permis, mais le droit de vote s'acquiert uniquement à 18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui pour les deux, l'émancipation donne tous les droits d'un majeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non pour les deux, l'émancipation ne concerne que les actes civils",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui pour le vote, mais le permis reste interdit avant 18 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'émancipation peut être accordée à partir de 16 ans passés et rend le mineur largement capable sur le plan civil, mais elle ne donne pas le droit de vote avant 18 ans. Elle ne modifie pas non plus les conditions d'âge du permis B : l'inscription à l'examen est possible dès 16 ans, mais l'obtention du permis et la conduite en autonomie ne sont possibles qu'à partir de 17 ans. La bonne réponse est donc : oui pour le permis, non pour le vote."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-090",
+        "shortId": "Q-0C7055",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes fonctionnaire et souhaitez créer une entreprise en parallèle. Est-ce autorisé ?",
+        "choices": [
+          {
+            "text": "Non, les fonctionnaires ont une interdiction absolue de cumul d'activités",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, sous réserve d'une déclaration préalable à l'autorité hiérarchique et du respect de certaines conditions",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, sans aucune restriction depuis 2020",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pour les enseignants du secondaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les fonctionnaires peuvent exercer une activité accessoire ou créer une entreprise sous conditions. Une déclaration préalable est obligatoire et certaines activités sont interdites."
+      }
+    }
+  ]
+}

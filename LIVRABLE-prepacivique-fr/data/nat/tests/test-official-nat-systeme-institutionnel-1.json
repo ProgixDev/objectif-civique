@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-systeme-institutionnel-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-official-023",
+        "shortId": "Q-A5A3A8",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée du mandat des sénateurs ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans (renouvellement par moitié tous les 3 ans). Les députés sont élus pour 5 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-017",
+        "shortId": "Q-7E49B5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+        "choices": [
+          {
+            "text": "Législatif, Exécutif, Administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Législatif, Exécutif, Judiciaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Exécutif, Judiciaire, Économique",
+            "isCorrect": false
+          },
+          {
+            "text": "Présidentiel, Parlementaire, Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les trois pouvoirs classiques de la démocratie : Législatif (faire la loi), Exécutif (appliquer la loi), Judiciaire (trancher les litiges)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-034",
+        "shortId": "Q-BBE573",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+        "choices": [
+          {
+            "text": "Avoir exercé au moins un mandat électif auparavant",
+            "isCorrect": false
+          },
+          {
+            "text": "Obtenir 500 parrainages d'élus provenant d'au moins 30 départements ou collectivités d'outre-mer",
+            "isCorrect": true
+          },
+          {
+            "text": "Être obligatoirement membre d'un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir résidé en France de manière continue pendant au moins dix ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour se présenter à l'élection présidentielle, il faut notamment obtenir 500 parrainages (signatures) d'élus provenant d'au moins 30 départements ou collectivités d'outre-mer, sans qu'un même département puisse fournir plus d'un dixième des signatures. Aucune condition de mandat préalable, d'appartenance à un parti ou de durée minimale de résidence n'est imposée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-039",
+        "shortId": "Q-7F81A4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le rôle du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Il dirige les débats au tribunal",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige l’action du Gouvernement et assure l’exécution des lois",
+            "isCorrect": true
+          },
+          {
+            "text": "Il remplace le Président de la République en cas d’absence temporaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Il préside l’Assemblée nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Selon l’article 21 de la Constitution du 4 octobre 1958, le Premier ministre dirige l’action du Gouvernement et assure l’exécution des lois. En vertu de l’article 20, le Gouvernement détermine et conduit la politique de la Nation et est responsable devant le Parlement. Le Premier ministre dispose du pouvoir réglementaire et dirige l’administration. En revanche, il ne préside ni les juridictions ni l’Assemblée nationale, et l’intérim du Président de la République est assuré par le Président du Sénat (article 7)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-045",
+        "shortId": "Q-41BF87",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand est célébrée la journée de l'Europe ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La journée de l'Europe est célébrée le 9 mai, en référence à la Déclaration Schuman du 9 mai 1950. Dans cette déclaration, le ministre français des Affaires étrangères Robert Schuman proposa la mise en commun des productions de charbon et d’acier, initiative qui conduisit à la création de la Communauté européenne du charbon et de l'acier (CECA) et marqua le début de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-049",
+        "shortId": "Q-5A2E1B",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+        "choices": [
+          {
+            "text": "27",
+            "isCorrect": true
+          },
+          {
+            "text": "26",
+            "isCorrect": false
+          },
+          {
+            "text": "28",
+            "isCorrect": false
+          },
+          {
+            "text": "29",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Au 1er janvier 2025, l'Union européenne compte 27 États membres. Ce nombre est passé de 28 à 27 après le retrait du Royaume-Uni le 31 janvier 2020 (Brexit). La Croatie, dernier pays à avoir adhéré en 2013, porte le nombre à 27 depuis le départ britannique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-050",
+        "shortId": "Q-ED1A7E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+        "choices": [
+          {
+            "text": "2002",
+            "isCorrect": false
+          },
+          {
+            "text": "1981",
+            "isCorrect": false
+          },
+          {
+            "text": "1992",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le traité de Maastricht a été signé le 7 février 1992 et est entré en vigueur le 1er novembre 1993. Il institue officiellement l'Union européenne et introduit notamment la citoyenneté européenne ainsi que le projet de monnaie unique. L’année 1957 correspond au traité de Rome, qui a créé la Communauté économique européenne (CEE)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-012",
+        "shortId": "Q-08D850",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À quel âge peut-on devenir électeur ?",
+        "choices": [
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans depuis 1974."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-025",
+        "shortId": "Q-A2DFAB",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, est-ce possible d'adhérer à un parti politique ?",
+        "choices": [
+          {
+            "text": "Non, seuls les candidats aux élections peuvent adhérer",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si l'on exerce une fonction publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, librement, dans le respect des principes démocratiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'appartenance politique est strictement encadrée par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Oui. L’article 4 de la Constitution de 1958 dispose que les partis et groupements politiques se forment et exercent leur activité librement. Cette liberté s’inscrit dans le cadre du pluralisme politique et du respect des principes démocratiques."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-009",
+        "shortId": "Q-D519CC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les fonctions du maire ?",
+        "choices": [
+          {
+            "text": "Il représente l'État dans le département et contrôle la légalité des actes administratifs",
+            "isCorrect": false
+          },
+          {
+            "text": "Il dirige les services déconcentrés de l'État et nomme les fonctionnaires territoriaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est l'exécutif de la commune et agent de l'État (officier d'état civil, police administrative)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il vote les lois applicables à sa commune et fixe les impôts locaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le maire exerce une double fonction : en tant qu'exécutif de la commune, il met en œuvre les décisions du conseil municipal et dirige l'administration communale. En tant qu'agent de l'État, il est officier d'état civil (mariages, naissances, décès), officier de police judiciaire et responsable de l'organisation des élections. La représentation de l'État dans le département relève du préfet."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-052",
+        "shortId": "Q-FD3DDF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel État a quitté l'Union Européenne en 2020 ?",
+        "choices": [
+          {
+            "text": "La Suisse",
+            "isCorrect": false
+          },
+          {
+            "text": "La Grèce",
+            "isCorrect": false
+          },
+          {
+            "text": "La Norvège",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Royaume-Uni",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Royaume-Uni a quitté l'UE le 31 janvier 2020, un processus connu sous le nom de Brexit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-016",
+        "shortId": "Q-BDC645",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui vote les lois ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens par sondage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le pouvoir législatif (voter la loi) appartient au Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-043",
+        "shortId": "Q-3C739F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la devise de l’Union européenne ?",
+        "choices": [
+          {
+            "text": "In God We Trust",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "L'union fait la force",
+            "isCorrect": false
+          },
+          {
+            "text": "Unie dans la diversité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "'Unie dans la diversité' signifie que les Européens s'unissent pour la paix tout en gardant leurs différentes cultures et langues."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-003",
+        "shortId": "Q-5C0E37",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "À qui appartient la souveraineté nationale ?",
+        "choices": [
+          {
+            "text": "Aux partis politiques",
+            "isCorrect": false
+          },
+          {
+            "text": "Au peuple, qui l'exerce par ses représentants et par la voie du référendum",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 3 de la Constitution : \"La souveraineté nationale appartient au peuple\". Il l'exerce par ses représentants élus et par la voie du référendum."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-021",
+        "shortId": "Q-E791CF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la durée du mandat du Président de la République française ?",
+        "choices": [
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis le référendum du 24 septembre 2000, le mandat présidentiel dure 5 ans (quinquennat), contre 7 ans auparavant (septennat). Cette réforme constitutionnelle, entrée en vigueur en 2002, vise à rapprocher le calendrier présidentiel de celui des élections législatives et à renforcer la responsabilité démocratique du Président."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-002",
+        "shortId": "Q-43BF98",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui peut se présenter aux élections législatives ?",
+        "choices": [
+          {
+            "text": "Tout résident en France depuis 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout citoyen français âgé d’au moins 18 ans et jouissant de ses droits civiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les membres d’un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Tout citoyen de l’Union européenne résidant en France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Peut se présenter aux élections législatives tout citoyen français âgé d’au moins 18 ans, jouissant de ses droits civiques. Il n’est pas nécessaire d’être membre d’un parti politique. Les citoyens de l’Union européenne peuvent voter aux élections municipales et européennes, mais ne peuvent pas être élus députés en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-006",
+        "shortId": "Q-B59A4B",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+        "choices": [
+          {
+            "text": "Être citoyen de l'Union européenne et résider en France depuis au moins cinq ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Être de nationalité française, majeur et jouir de ses droits civils et politiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Être inscrit sur les listes électorales et résider en France depuis au moins dix ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Être majeur et résider en France, quelle que soit sa nationalité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour voter aux élections présidentielles, il faut impérativement posséder la nationalité française, être majeur (18 ans) et jouir de ses droits civils et politiques. Contrairement aux élections municipales et européennes, auxquelles les citoyens de l'Union européenne résidant en France peuvent participer, l'élection présidentielle est réservée aux seuls citoyens français. Aucune condition de durée de résidence n'est imposée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-018",
+        "shortId": "Q-0FACC4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'État de droit ?",
+        "choices": [
+          {
+            "text": "Un régime politique dirigé par des juges non élus",
+            "isCorrect": false
+          },
+          {
+            "text": "Un système où la puissance publique est soumise au droit, garantissant les libertés individuelles",
+            "isCorrect": true
+          },
+          {
+            "text": "Une situation temporaire d'urgence sécuritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un État où la police a tous les pouvoirs pour maintenir l'ordre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État de droit est un système où tout le monde, y compris l'État et le Président, doit respecter la loi. Il garantit les droits fondamentaux et l'égalité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-014",
+        "shortId": "Q-3E000F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit de ne pas respecter une loi ?",
+        "choices": [
+          {
+            "text": "Oui, si elle n’est pas conforme à ses convictions personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle semble injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une loi en vigueur s’impose à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle a été votée il y a longtemps",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non. Toute loi régulièrement adoptée et entrée en vigueur s’impose à tous. En France, le principe « nul n’est censé ignorer la loi » signifie que chacun doit la respecter, quelles que soient ses opinions personnelles. Le respect de la loi garantit l’égalité devant la loi et le bon fonctionnement de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-056",
+        "shortId": "Q-F6450E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où est le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le siège officiel du Parlement européen est situé à Strasbourg, en France. Les sessions plénières s’y tiennent. Toutefois, une partie des travaux parlementaires a également lieu à Bruxelles, et le secrétariat général est installé à Luxembourg."
+      }
+    }
+  ]
+}

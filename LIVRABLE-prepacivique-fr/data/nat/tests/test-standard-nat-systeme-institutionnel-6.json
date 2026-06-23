@@ -1,0 +1,859 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-6",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 25,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-046",
+        "shortId": "Q-824623",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que commémore officiellement la France lors de la fête nationale du 14 juillet ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille et la Fête de la Fédération",
+            "isCorrect": true
+          },
+          {
+            "text": "L'armistice de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le sacre de Napoléon Ier",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature du traité de Versailles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La prise de la Bastille et la Fête de la Fédération date célèbre la fin de l'absolutisme (1789) et l'union de la nation (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-091",
+        "shortId": "Q-383757",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où siège la Cour de justice de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Berlin",
+            "isCorrect": false
+          },
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour de justice de l'Union européenne siège à Luxembourg. À ne pas confondre avec le Parlement européen, dont le siège officiel est à Strasbourg."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-051",
+        "shortId": "Q-6E7D4A",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un sénateur en France ?",
+        "choices": [
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "9 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les sénateurs sont élus pour 6 ans, avec un renouvellement de la moitié de l'assemblée tous les 3 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-116",
+        "shortId": "Q-1A825A",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le droit pour un député de ne pas être poursuivi pour ses opinions exprimées en séance ?",
+        "choices": [
+          {
+            "text": "Le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'immunité parlementaire",
+            "isCorrect": true
+          },
+          {
+            "text": "La grâce présidentielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le permis de parole",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'immunité parlementaire garantit la liberté de débat au sein du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-048",
+        "shortId": "Q-39A8CD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe assure la discipline et garantit l'indépendance des magistrats ?",
+        "choices": [
+          {
+            "text": "L'Ordre des avocats",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministère de l'Intérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil supérieur de la magistrature (CSM)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le CSM veille à ce que les juges puissent exercer sans pressions politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-032",
+        "shortId": "Q-CAF501",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat d'un député siégeant à l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "3 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les députés sont élus pour une durée de 5 ans, sauf en cas de dissolution de l'Assemblée nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-040",
+        "shortId": "Q-976FE9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel nom porte le pouvoir chargé de diriger l'administration et d'appliquer les lois ?",
+        "choices": [
+          {
+            "text": "Le pouvoir législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir exécutif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir constituant",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pouvoir exécutif, composé du Président et du Gouvernement, assure la conduite de la politique nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-018",
+        "shortId": "Q-CE6827",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Préfet est le représentant de :",
+        "choices": [
+          {
+            "text": "Du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'État et du Gouvernement dans le département ou la région",
+            "isCorrect": true
+          },
+          {
+            "text": "Des maires du département",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Nommé par le Président en Conseil des ministres, le préfet a la charge des intérêts nationaux, du contrôle administratif et du respect des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-069",
+        "shortId": "Q-8B534F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe républicain garantit l'indépendance mutuelle du Gouvernement, du Parlement et de la Justice ?",
+        "choices": [
+          {
+            "text": "La centralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le suffrage universel",
+            "isCorrect": false
+          },
+          {
+            "text": "La hiérarchie des normes",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation des pouvoirs évite la concentration du pouvoir entre les mains d'une seule autorité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-044",
+        "shortId": "Q-C1DB66",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité est compétente pour trancher les litiges et sanctionner les infractions ?",
+        "choices": [
+          {
+            "text": "La Police municipale",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          },
+          {
+            "text": "L'institution judiciaire (les tribunaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La justice est un pouvoir indépendant garantissant l'application impartiale de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-117",
+        "shortId": "Q-BE37F1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment sont nommés les ministres du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Par les citoyens lors des législatives",
+            "isCorrect": false
+          },
+          {
+            "text": "Par le Premier ministre seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Par un vote de confiance du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Par le Président de la République sur proposition du Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Par le Président de la République sur proposition du Premier ministre, c'est une décision partagée entre les deux têtes de l'exécutif."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-066",
+        "shortId": "Q-4EDAAE",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la langue officielle de la République d'après la Constitution ?",
+        "choices": [
+          {
+            "text": "Le français",
+            "isCorrect": true
+          },
+          {
+            "text": "Le français et l'anglais",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les langues régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a pas de langue officielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 2 de la Constitution stipule explicitement que la langue de la République est le français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-096",
+        "shortId": "Q-EA55A5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Parmi ces propositions, laquelle est un devoir du citoyen ?",
+        "choices": [
+          {
+            "text": "Partir en vacances chaque année",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir une opinion politique identique au Maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Respecter les lois et contribuer aux charges publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Pratiquer une religion d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La citoyenneté implique des droits, mais aussi des obligations comme le respect des règles communes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-093",
+        "shortId": "Q-6B7B78",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les conditions pour voter à l'élection présidentielle en France ?",
+        "choices": [
+          {
+            "text": "Être résident en France depuis 10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Posséder un bien immobilier en France",
+            "isCorrect": false
+          },
+          {
+            "text": "Être un citoyen de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Être de nationalité française, majeur et inscrit sur les listes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'élection présidentielle est un acte de souveraineté nationale réservé aux citoyens français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-087",
+        "shortId": "Q-D572C1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À qui s'applique prioritairement le devoir de neutralité religieuse lié à la laïcité ?",
+        "choices": [
+          {
+            "text": "Aux clients des commerces privés",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux agents des services publics (fonctionnaires)",
+            "isCorrect": true
+          },
+          {
+            "text": "À tous les citoyens dans la rue",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux touristes étrangers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les agents publics doivent être neutres pour traiter tous les usagers de la même manière, sans distinction de religion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-006",
+        "shortId": "Q-C2838D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que se passe-t-il si une motion de censure est votée par la majorité absolue de l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "L'Assemblée nationale est dissoute automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République doit démissionner",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre doit remettre la démission de son gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi est rejetée mais le gouvernement reste en place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le seul moyen pour l'Assemblée de renverser le gouvernement. Le Premier ministre est alors contraint de démissionner (Article 50)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-034",
+        "shortId": "Q-715B9D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle œuvre musicale constitue l'hymne officiel de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "L'Ode à la joie (Beethoven)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Boléro (Ravel)",
+            "isCorrect": false
+          },
+          {
+            "text": "La Marche triomphale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Messie (Haendel)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Ode à la joie, issue de la 9e symphonie de Beethoven, symbolise l'idéal de fraternité européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-124",
+        "shortId": "Q-6F7551",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Peut-on être sanctionné pour avoir critiqué le Gouvernement dans la presse ?",
+        "choices": [
+          {
+            "text": "Oui, c'est interdit par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'on est un étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, au nom de la liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement durant les périodes électorales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La liberté d'expression et de la presse est un droit fondamental en démocratie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-123",
+        "shortId": "Q-3293D4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité gère le Revenu de Solidarité Active (RSA) au quotidien ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil départemental",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "La Banque de France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Département est le chef de file de l'action sociale en France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-074",
+        "shortId": "Q-0FFC77",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la responsabilité de voter le budget de l'État (recettes et dépenses) chaque année ?",
+        "choices": [
+          {
+            "text": "Le Parlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Gouverneur de la Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le vote du budget est une prérogative essentielle du Parlement pour contrôler l'action publique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-083",
+        "shortId": "Q-1072F3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du porte-parole du Gouvernement ?",
+        "choices": [
+          {
+            "text": "Rédiger les lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Communiquer les décisions prises en Conseil des ministres",
+            "isCorrect": true
+          },
+          {
+            "text": "Représenter la France à l'ONU",
+            "isCorrect": false
+          },
+          {
+            "text": "Commander la police nationale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Il explique à la presse et aux citoyens les actions et les choix du Gouvernement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-118",
+        "shortId": "Q-C5EE21",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des conditions pour devenir député ?",
+        "choices": [
+          {
+            "text": "Avoir la nationalité française",
+            "isCorrect": true
+          },
+          {
+            "text": "Être nommé par un maire",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir plus de 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Être propriétaire d'un terrain",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour être éligible, il faut être citoyen français, avoir 18 ans et jouir de ses droits civiques."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-012",
+        "shortId": "Q-AF5DA0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le pouvoir de dissoudre l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Selon l'article 12, le Président peut dissoudre l'Assemblée nationale après consultation du Premier ministre et des présidents des assemblées. De nouvelles élections législatives ont alors lieu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-068",
+        "shortId": "Q-A0AA31",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment le Maire d'une commune est-il désigné ?",
+        "choices": [
+          {
+            "text": "Par élection directe des citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Par nomination du Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Par élection au sein du conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Par tirage au sort",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les citoyens élisent les conseillers municipaux, qui élisent ensuite le Maire parmi eux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-120",
+        "shortId": "Q-DEAF69",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la naturalisation ?",
+        "choices": [
+          {
+            "text": "Une technique de jardinage public",
+            "isCorrect": false
+          },
+          {
+            "text": "Le retour vers son pays d'origine",
+            "isCorrect": false
+          },
+          {
+            "text": "L'acquisition de la nationalité française par un étranger",
+            "isCorrect": true
+          },
+          {
+            "text": "La perte de ses papiers d'identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est une décision de l'autorité publique qui accorde la nationalité sous certaines conditions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "slug": "test-official-nat-principes-valeurs-1",
+  "level": "NAT",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-official-010",
+        "shortId": "Q-FAD11C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lesquels sont des symboles officiels de la République française ?",
+        "choices": [
+          {
+            "text": "La Marseillaise, le drapeau tricolore et la devise « Liberté, Égalité, Fraternité »",
+            "isCorrect": true
+          },
+          {
+            "text": "La Marseillaise, le drapeau tricolore et La Tour Eiffel",
+            "isCorrect": false
+          },
+          {
+            "text": "Marianne, le drapeau tricolore et le coq gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "La devise, le drapeau tricolore et le coq gaulois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 2 de la Constitution retient trois symboles officiels : le drapeau tricolore, l'hymne national (La Marseillaise) et la devise « Liberté, Égalité, Fraternité ». Marianne, le coq gaulois et la Tour Eiffel sont des repères symboliques/culturels, mais ne font pas partie de cette liste constitutionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-014",
+        "shortId": "Q-696348",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que porte Marianne sur la tête ?",
+        "choices": [
+          {
+            "text": "Un foulard tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bonnet phrygien",
+            "isCorrect": true
+          },
+          {
+            "text": "Un casque gaulois",
+            "isCorrect": false
+          },
+          {
+            "text": "Une couronne de lauriers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est coiffée d'un bonnet phrygien. Ce bonnet rouge est un symbole de liberté, porté par les esclaves affranchis dans l'Antiquité puis par les révolutionnaires de 1789."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-015",
+        "shortId": "Q-3FC122",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que signifie le mot \"fraternité\" dans la devise française ?",
+        "choices": [
+          {
+            "text": "La liberté de s'associer avec qui l'on veut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le devoir de charité envers les plus pauvres",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité nationale et la cohésion sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "L'égalité des chances pour tous les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité se distingue de la charité (religieuse/privée) ou de la simple liberté d'association. Elle fonde la solidarité nationale (impôt, sécurité sociale) et la cohésion entre citoyens."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-017",
+        "shortId": "Q-855F65",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la devise de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Solidarité",
+            "isCorrect": false
+          },
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Liberté, Justice, Fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Égalité, Fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La devise officielle est exactement 'Liberté, Égalité, Fraternité'. Attention aux variantes qui mélangent des mots corrects avec des mots incorrects."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-030",
+        "shortId": "Q-0F8F37",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
+        "choices": [
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 15 août",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 décembre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité est officiellement célébrée le 9 décembre, en référence à la loi du 9 décembre 1905 qui établit la séparation des Églises et de l'État. Cette loi garantit la liberté de conscience, assure la neutralité de l'État et interdit le financement public des cultes, tout en protégeant l'exercice des convictions religieuses dans le respect de l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-011",
+        "shortId": "Q-4CB3F4",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Peut-on brûler publiquement un drapeau français ?",
+        "choices": [
+          {
+            "text": "Oui, si le drapeau nous appartient",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est dans le cadre d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit (outrage au drapeau) puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, cela relève de la liberté artistique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage public au drapeau tricolore est sanctionné par le Code pénal (amende de 1 500 €), surtout s'il trouble l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-013",
+        "shortId": "Q-179E5D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que commémore la fête nationale ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille (1789) et la Fête de la Fédération (1790)",
+            "isCorrect": true
+          },
+          {
+            "text": "La proclamation de la République en 1792",
+            "isCorrect": false
+          },
+          {
+            "text": "La fin de la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition de l'esclavage",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une double commémoration : la fin de l'absolutisme (1789) et l'union de la nation (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-026",
+        "shortId": "Q-2AF3D7",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En France, il est possible pour l'État de financer :",
+        "choices": [
+          {
+            "text": "La construction ou l'entretien de bâtiments affectés à un culte, sous certaines conditions prévues par la loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fonctionnement des écoles publiques et des hôpitaux",
+            "isCorrect": true
+          },
+          {
+            "text": "La publicité pour une religion",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement direct et exclusif de la campagne électorale d’un parti politique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'État finance les services publics essentiels comme l'éducation et la santé. En application du principe de laïcité et de la loi de 1905, il ne finance pas l'exercice des cultes, sauf exceptions patrimoniales, ni les dépenses privées des citoyens ou le financement partisan des campagnes électorales."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-018",
+        "shortId": "Q-6CEA95",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la liberté d'association ?",
+        "choices": [
+          {
+            "text": "Le droit de créer ou rejoindre des associations, syndicats et partis",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de se réunir sur la voie publique sans autorisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de créer des entreprises commerciales sans taxes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de lever des impôts avec son groupe d'amis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 1901 garantit à tous le droit de créer des associations, partis politiques ou syndicats. Ce droit est distinct de la liberté de réunion (manifestations)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-032",
+        "shortId": "Q-E7DD74",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+        "choices": [
+          {
+            "text": "Le sionisme",
+            "isCorrect": false
+          },
+          {
+            "text": "L'antisémitisme",
+            "isCorrect": true
+          },
+          {
+            "text": "L'apartheid",
+            "isCorrect": false
+          },
+          {
+            "text": "La xénophobie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'antisémitisme désigne la haine, les préjugés ou les discriminations visant les personnes juives en raison de leur religion réelle ou supposée, de leur origine ou de leur identité. Il s'agit d'une forme spécifique de racisme, condamnée par les principes républicains et réprimée par le droit pénal français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-034",
+        "shortId": "Q-C0FF63",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle institution française doit rester neutre en matière de religion ?",
+        "choices": [
+          {
+            "text": "Les chaînes de télévision privées, dans le cadre de leur ligne éditoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'École publique et l'ensemble des administrations de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "Les partis politiques dans l'expression de leurs convictions",
+            "isCorrect": false
+          },
+          {
+            "text": "Les commerces et entreprises privées ouverts au public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le principe de laïcité impose une neutralité religieuse aux institutions publiques, notamment à l'École publique et aux administrations de l'État. Les agents publics doivent exercer leurs fonctions sans manifester de convictions religieuses. En revanche, les acteurs privés et la société civile bénéficient de la liberté de conscience et d'expression, dans le respect de la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-029",
+        "shortId": "Q-FDB939",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "La liberté de conscience et l'égalité de traitement quelle que soit la religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction de parler de religion au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de construire de nouveaux lieux de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement égal de toutes les religions par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience, l'égalité de traitement et la neutralité de l'État. Elle n'interdit ni les fêtes ni les lieux de culte."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-003",
+        "shortId": "Q-983647",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Déclarer ses revenus aux services fiscaux est :",
+        "choices": [
+          {
+            "text": "Facultatif pour les personnes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation pour tous les résidents fiscaux, même sans revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservé aux propriétaires immobiliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire uniquement si on paie des impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déclaration est obligatoire pour toute personne résidant en France, même si elle n'est pas imposable (cela permet d'obtenir un avis de non-imposition)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-012",
+        "shortId": "Q-F1F8F8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand la sécurité sociale a-t-elle été établie en France ?",
+        "choices": [
+          {
+            "text": "En 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "En 1968",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1958",
+            "isCorrect": false
+          },
+          {
+            "text": "En 1936",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Sécurité sociale a été fondée par les ordonnances de 1945, issue du programme du Conseil national de la Résistance (CNR)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-033",
+        "shortId": "Q-152D60",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+        "choices": [
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Concordat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code Civil",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi du 9 décembre 1905",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Bien que la Déclaration de 1789 en pose les prémices, c'est la loi de 1905 qui structure la laïcité actuelle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-008",
+        "shortId": "Q-0E4E84",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Lequel de ces symboles représente la République française ?",
+        "choices": [
+          {
+            "text": "Le drapeau blanc à fleur de lys",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau tricolore bleu, blanc, rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "L'aigle impérial doré",
+            "isCorrect": false
+          },
+          {
+            "text": "La croix de Lorraine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Parmi les propositions, seul le drapeau tricolore est un symbole officiel de la République (art. 2 de la Constitution). Le drapeau blanc symbolise la monarchie, l'aigle l'Empire, et la Croix de Lorraine la Résistance."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-006",
+        "shortId": "Q-679784",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "La liberté d'expression sur les réseaux sociaux en France est :",
+        "choices": [
+          {
+            "text": "Réservée aux personnes majeures identifiées",
+            "isCorrect": false
+          },
+          {
+            "text": "Garantie mais limitée par la loi (interdiction de la haine, diffamation, injure)",
+            "isCorrect": true
+          },
+          {
+            "text": "Soumise à la validation d'un modérateur de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Totale et absolue, car Internet est une zone de non-droit",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi française s'applique sur Internet : l'incitation à la haine, le racisme, ou la diffamation sont des délits punissables, même en ligne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-020",
+        "shortId": "Q-BA2FF8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Selon la Constitution, la France est une République ...",
+        "choices": [
+          {
+            "text": "Indivisible, laïque, démocratique et fédérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Une et indivisible, laïque, sociale et libérale",
+            "isCorrect": false
+          },
+          {
+            "text": "Démocratique, laïque, sociale et décentralisée",
+            "isCorrect": false
+          },
+          {
+            "text": "Indivisible, laïque, démocratique et sociale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France est une République indivisible, laïque, démocratique et sociale (Article 1er de la Constitution). 'Fédérale', 'Libérale' ou 'Décentralisée' ne sont pas dans sa définition."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-025",
+        "shortId": "Q-A75A30",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que peut faire un usager du service public dans une mairie ?",
+        "choices": [
+          {
+            "text": "Choisir l'agent qui le servira selon ses préférences personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander un traitement différent pour motif religieux",
+            "isCorrect": false
+          },
+          {
+            "text": "Exiger d'être servi en priorité s'il habite la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Accéder aux services dans les mêmes conditions que tous les autres usagers",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'usager a droit à l'égalité d'accès aux services publics. Il ne peut ni choisir son interlocuteur, ni exiger un traitement prioritaire ou différent. Le service public traite tous les usagers de manière égale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-022",
+        "shortId": "Q-58CA90",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+        "choices": [
+          {
+            "text": "Tous les citoyens doivent avoir les mêmes revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi peut accorder des privilèges selon le statut social",
+            "isCorrect": false
+          },
+          {
+            "text": "Chacun a droit à un traitement différent selon ses besoins",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous les citoyens ont les mêmes droits devant la loi, sans distinction",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'égalité républicaine signifie l'égalité en droits et devant la loi (article 1 DDHC). Elle interdit les privilèges et discriminations. Ce n'est pas l'égalité économique (des revenus) ni le traitement différencié."
+      }
+    }
+  ]
+}

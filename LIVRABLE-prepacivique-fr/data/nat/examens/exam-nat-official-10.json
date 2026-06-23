@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-official-10",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-official-035",
+        "shortId": "Q-83F2CC",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que la laïcité ?",
+        "choices": [
+          {
+            "text": "Un principe de tolérance générale laissant l'État intervenir dans les affaires religieuses",
+            "isCorrect": false
+          },
+          {
+            "text": "La promotion par l'État d'une religion ou d'une tradition spirituelle particulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Une idéologie visant à exclure toute expression religieuse de la société",
+            "isCorrect": false
+          },
+          {
+            "text": "Un principe républicain garantissant la neutralité de l'État et la liberté de conscience",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La laïcité est un principe fondamental de la République française qui garantit la liberté de conscience et de religion, tout en imposant la neutralité de l'État à l'égard de toutes les convictions. Elle ne constitue ni une religion, ni une opinion, ni une idéologie antireligieuse, mais un cadre juridique assurant l'égalité et la coexistence pacifique des croyances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-005",
+        "shortId": "Q-A73EDC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que dit l'article 1er de la Constitution française ?",
+        "choices": [
+          {
+            "text": "La France est une République indivisible, laïque, démocratique et sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "La souveraineté nationale appartient au peuple",
+            "isCorrect": false
+          },
+          {
+            "text": "La langue de la République est le français",
+            "isCorrect": false
+          },
+          {
+            "text": "La devise de la République est Liberté, Égalité, Fraternité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Bien que toutes ces phrases soient dans la Constitution, l'Article 1er définit précisément la nature de la République (Indivisible, Laïque, Démocratique, Sociale)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-011",
+        "shortId": "Q-4CB3F4",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Peut-on brûler publiquement un drapeau français ?",
+        "choices": [
+          {
+            "text": "Oui, si le drapeau nous appartient",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si c'est dans le cadre d'une manifestation politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit (outrage au drapeau) puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, cela relève de la liberté artistique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'outrage public au drapeau tricolore est sanctionné par le Code pénal (amende de 1 500 €), surtout s'il trouble l'ordre public."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-082",
+        "shortId": "Q-FECA12",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous propose de travailler le dimanche. Pouvez-vous refuser ?",
+        "choices": [
+          {
+            "text": "Non, si l'entreprise a obtenu une dérogation préfectorale au repos dominical",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le travail dominical nécessite l'accord exprès du salarié (sauf secteurs dérogatoires)",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le refus constitue une faute professionnelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais uniquement si vous avez plus de 50 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le repos dominical est le principe. Le travail le dimanche sur les zones dérogatoires nécessite généralement le volontariat du salarié, sauf pour les commerces alimentaires et autres dérogations de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-052",
+        "shortId": "Q-18B177",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un riche homme d'affaires et un chômeur commettent le même excès de vitesse. Reçoivent-ils la même amende ?",
+        "choices": [
+          {
+            "text": "Non, l'amende doit être proportionnelle aux revenus",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le principe d'égalité devant la loi impose la même sanction pour la même infraction",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, le riche doit payer plus pour réparer l'injustice sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, le chômeur doit être dispensé en raison de sa situation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'égalité devant la loi (article 1er DDHC 1789) signifie que les mêmes règles s'appliquent à tous, sans distinction de fortune ou de statut social."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-004",
+        "shortId": "Q-51840E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Si aucune banque n'accepte de vous ouvrir un compte, quelle procédure devez-vous activer ?",
+        "choices": [
+          {
+            "text": "Saisir le tribunal judiciaire pour forcer la banque",
+            "isCorrect": false
+          },
+          {
+            "text": "Ouvrir obligatoirement un compte à la Banque Postale qui ne peut refuser",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Médiateur de la République pour discrimination",
+            "isCorrect": false
+          },
+          {
+            "text": "Utiliser la procédure du 'Droit au compte' auprès de la Banque de France",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "En cas de refus d'ouverture de compte, vous pouvez exercer votre 'Droit au compte' auprès de la Banque de France, qui désignera d'office un établissement bancaire tenu de vous fournir les services de base."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-001",
+        "shortId": "Q-94FE17",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Complétez les paroles de la Marseillaise \"Allons enfants de la patrie...\"",
+        "choices": [
+          {
+            "text": "...marchons vers la victoire !",
+            "isCorrect": false
+          },
+          {
+            "text": "...formez vos bataillons !",
+            "isCorrect": false
+          },
+          {
+            "text": "...le jour de gloire est arrivé !",
+            "isCorrect": true
+          },
+          {
+            "text": "...l'étendard sanglant est levé !",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Marseillaise commence par « Allons enfants de la patrie, le jour de gloire est arrivé ! ». « L'étendard sanglant » et « Formez vos bataillons » sont des vers qui viennent ensuite."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-037",
+        "shortId": "Q-1A19B3",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation. Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+        "choices": [
+          {
+            "text": "elle perd sa nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "elle ne peut pas voter ni se présenter à une élection",
+            "isCorrect": true
+          },
+          {
+            "text": "elle ne peut plus travailler dans le secteur privé",
+            "isCorrect": false
+          },
+          {
+            "text": "elle est assignée à résidence",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La privation des droits civiques et politiques retire le droit de vote et d'éligibilité. Elle n'empêche pas de travailler (sauf fonction publique parfois) ni de circuler."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-077",
+        "shortId": "Q-55BF22",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle île française se trouve au sud-est du continent africain ?",
+        "choices": [
+          {
+            "text": "Mayotte",
+            "isCorrect": true
+          },
+          {
+            "text": "Saint-Martin",
+            "isCorrect": false
+          },
+          {
+            "text": "Clipperton",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Mayotte (comme La Réunion) est située dans l'océan Indien, au sud-est de l'Afrique, dans l'archipel des Comores."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-019",
+        "shortId": "Q-5B3D13",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'une discussion, quelqu'un nie l'existence des chambres à gaz pendant la Seconde Guerre mondiale. Est-ce une opinion libre ?",
+        "choices": [
+          {
+            "text": "Oui, chacun peut réécrire l'histoire",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est une opinion choquante mais légale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, c'est un délit de négationnisme puni par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela dépend si les propos sont tenus en public ou en privé",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La loi Gayssot (1990) fait du négationnisme (contestation des crimes contre l'humanité jugés à Nuremberg) un délit pénal, et non une simple opinion."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-020",
+        "shortId": "Q-65ED4A",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quoi consiste le devoir de solidarité ?",
+        "choices": [
+          {
+            "text": "À faire du bénévolat obligatoire",
+            "isCorrect": false
+          },
+          {
+            "text": "À héberger des personnes sans domicile",
+            "isCorrect": false
+          },
+          {
+            "text": "Participer au financement de la protection sociale par l'impôt et les cotisations",
+            "isCorrect": true
+          },
+          {
+            "text": "À donner de l'argent aux associations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La solidarité nationale n'est pas juste morale, elle est institutionnelle : chacun contribue selon ses moyens (impôts, cotisations) pour que tous reçoivent selon leurs besoins (santé, chômage)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-023",
+        "shortId": "Q-D26F34",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Sous quel président a été abolie la peine de mort en France ?",
+        "choices": [
+          {
+            "text": "Jacques Chirac",
+            "isCorrect": false
+          },
+          {
+            "text": "François Mitterrand",
+            "isCorrect": true
+          },
+          {
+            "text": "Georges Pompidou",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La peine de mort a été abolie en 1981, peu après l'élection de François Mitterrand, grâce à la loi portée par Robert Badinter."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-024",
+        "shortId": "Q-546264",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors de l'inscription à la cantine scolaire, la mairie demande de prouver que vous ne mangez pas de porc. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Oui, pour éviter le gaspillage",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'administration ne peut pas constituer de fichiers basés sur les pratiques religieuses",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, c'est une mesure de laïcité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du règlement de la cantine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Recenser les élèves selon leur régime alimentaire confessionnel (sans porc, halal, etc.) est interdit car cela revient à constituer un fichier ethnique ou religieux, contraire à la loi Informatique et Libertés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-044",
+        "shortId": "Q-30BD4F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a composé l'hymne de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Wagner",
+            "isCorrect": false
+          },
+          {
+            "text": "Mozart",
+            "isCorrect": false
+          },
+          {
+            "text": "Rouget de Lisle",
+            "isCorrect": false
+          },
+          {
+            "text": "Beethoven",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Ode à la Joie est la mélodie de la 9e Symphonie de Beethoven, adoptée comme hymne européen en 1985. C'est un hymne sans paroles officielles."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-052",
+        "shortId": "Q-959BBF",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes salarié protégé (délégué syndical). Votre employeur veut vous licencier. Quelle autorisation est nécessaire ?",
+        "choices": [
+          {
+            "text": "L'accord du comité social et économique (CSE)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'avis favorable du médecin du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'autorisation préalable de l'inspecteur du travail",
+            "isCorrect": true
+          },
+          {
+            "text": "La validation du tribunal judiciaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le licenciement d'un salarié protégé (représentant du personnel, délégué syndical) nécessite l'autorisation préalable de l'inspecteur du travail."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-035",
+        "shortId": "Q-BC68BA",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En quelle année l'euro est-il devenu la monnaie officielle (fiduciaire) de la France ?",
+        "choices": [
+          {
+            "text": "1999",
+            "isCorrect": false
+          },
+          {
+            "text": "2002",
+            "isCorrect": true
+          },
+          {
+            "text": "1992",
+            "isCorrect": false
+          },
+          {
+            "text": "2005",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les pièces et billets en euros ont été mis en circulation le 1er janvier 2002 (bien que la monnaie existait virtuellement depuis 1999)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-029",
+        "shortId": "Q-FDB939",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Que garantit le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "La liberté de conscience et l'égalité de traitement quelle que soit la religion",
+            "isCorrect": true
+          },
+          {
+            "text": "L'interdiction de parler de religion au travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de construire de nouveaux lieux de culte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement égal de toutes les religions par l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La laïcité garantit la liberté de conscience, l'égalité de traitement et la neutralité de l'État. Elle n'interdit ni les fêtes ni les lieux de culte."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-051",
+        "shortId": "Q-F1B66C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel traité concerne la construction de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Traité de Maastricht",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Traité de Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Traité de l'Atlantique Nord",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Pacte de Varsovie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Traité de Maastricht (1992) est fondateur : il a transformé la Communauté Européenne en 'Union Européenne' et a créé la citoyenneté européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-013",
+        "shortId": "Q-F46321",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "L'aide juridictionnelle (AJ) permet la prise en charge des frais de justice par l'État. Quelle est sa condition principale d'attribution ?",
+        "choices": [
+          {
+            "text": "Avoir la nationalité française exclusivement",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir un casier judiciaire vierge",
+            "isCorrect": false
+          },
+          {
+            "text": "Ne pas dépasser un certain plafond de ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Être sans emploi depuis plus de 6 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'aide juridictionnelle est attribuée sous conditions de ressources (revenus et patrimoine). Elle peut être totale ou partielle selon le niveau de revenus du demandeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-059",
+        "shortId": "Q-36E949",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui était Auguste Rodin ?",
+        "choices": [
+          {
+            "text": "Un poète du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un sculpteur du XIXe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "Un peintre du XIXe siècle",
+            "isCorrect": false
+          },
+          {
+            "text": "Un architecte du XIXe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Auguste Rodin est considéré comme l'un des plus grands sculpteurs français (Le Penseur, Le Baiser)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-official-003",
+        "shortId": "Q-983647",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Déclarer ses revenus aux services fiscaux est :",
+        "choices": [
+          {
+            "text": "Facultatif pour les personnes de moins de 25 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une obligation pour tous les résidents fiscaux, même sans revenus",
+            "isCorrect": true
+          },
+          {
+            "text": "Réservé aux propriétaires immobiliers",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire uniquement si on paie des impôts",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déclaration est obligatoire pour toute personne résidant en France, même si elle n'est pas imposable (cela permet d'obtenir un avis de non-imposition)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-036",
+        "shortId": "Q-E862B0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment est organisé le découpage administratif de la France ?",
+        "choices": [
+          {
+            "text": "Provinces, Cantons, Paroisses",
+            "isCorrect": false
+          },
+          {
+            "text": "Arrondissements uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Communes, Départements, Régions",
+            "isCorrect": true
+          },
+          {
+            "text": "États, Comtés, Villes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Communes, départements et régions forment l'organisation territoriale de la République française, souvent qualifiée de 'mille-feuille administratif'."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-021",
+        "shortId": "Q-AB84A0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+        "choices": [
+          {
+            "text": "Oui, si la religion le permet",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la polygamie est interdite en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si les mariages ont eu lieu à l'étranger",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, avec l'accord du premier conjoint",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La monogamie est une règle d'ordre public en France. La polygamie est une infraction pénale et un motif d'annulation du mariage ou de retrait de titre de séjour."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-042",
+        "shortId": "Q-1C1F5D",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a peint \"La liberté guidant le peuple\" ?",
+        "choices": [
+          {
+            "text": "Théodore Géricault",
+            "isCorrect": false
+          },
+          {
+            "text": "Jacques-Louis David",
+            "isCorrect": false
+          },
+          {
+            "text": "Gustave Courbet",
+            "isCorrect": false
+          },
+          {
+            "text": "Eugène Delacroix",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ce célèbre tableau représentant la Révolution de Juillet 1830 a été peint par Eugène Delacroix."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-037",
+        "shortId": "Q-B7F88E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "15 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "17 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'instruction est obligatoire jusqu'à 16 ans révolus. Entre 16 et 18 ans, il existe une obligation de formation, mais cela ne prolonge pas l'instruction obligatoire au sens strict."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-021",
+        "shortId": "Q-35C6E6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un employeur vous propose de vous payer uniquement en espèces sans fiche de paie pour 'éviter les charges'. Pourquoi est-ce dangereux pour vous ?",
+        "choices": [
+          {
+            "text": "C'est du travail dissimulé : vous ne cotisez pas pour la retraite, le chômage ni la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est avantageux, vous gagnez plus",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal si le contrat est oral",
+            "isCorrect": false
+          },
+          {
+            "text": "Le risque est uniquement pour l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail au noir (dissimulé) prive le salarié de toute protection sociale (accident du travail, maladie, retraite) et constitue une fraude fiscale et sociale sévèrement punie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-014",
+        "shortId": "Q-3E000F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "A-t-on le droit de ne pas respecter une loi ?",
+        "choices": [
+          {
+            "text": "Oui, si elle n’est pas conforme à ses convictions personnelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si elle semble injuste",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une loi en vigueur s’impose à tous",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si elle a été votée il y a longtemps",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Non. Toute loi régulièrement adoptée et entrée en vigueur s’impose à tous. En France, le principe « nul n’est censé ignorer la loi » signifie que chacun doit la respecter, quelles que soient ses opinions personnelles. Le respect de la loi garantit l’égalité devant la loi et le bon fonctionnement de l’État de droit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-official-026",
+        "shortId": "Q-5BEF9D",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Le non-respect du code de la route est :",
+        "choices": [
+          {
+            "text": "Un manquement sanctionné uniquement par l'assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Une infraction sanctionnée par la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une faute relevant exclusivement du droit civil",
+            "isCorrect": false
+          },
+          {
+            "text": "Une irrégularité administrative sans conséquence pénale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Code de la route est un ensemble de lois et règlements. Les infractions sont des contraventions ou des délits (alcool, grand excès de vitesse)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-078",
+        "shortId": "Q-EFBC57",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+        "choices": [
+          {
+            "text": "Grenoble",
+            "isCorrect": false
+          },
+          {
+            "text": "Saint-Étienne",
+            "isCorrect": false
+          },
+          {
+            "text": "Clermont-Ferrand",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lyon est le chef-lieu (préfecture) de la région Auvergne-Rhône-Alpes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-029",
+        "shortId": "Q-675480",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quels sont les textes qui définissent les règles au travail ?",
+        "choices": [
+          {
+            "text": "Le Code civil et le Code pénal uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Les décisions du maire de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Code du travail, les conventions collectives, le contrat de travail et le règlement intérieur",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les règles applicables au travail résultent notamment du Code du travail, des conventions collectives, du contrat de travail et du règlement intérieur lorsqu'il existe. Elles ne se limitent donc ni au seul contrat ni à des décisions locales extérieures à l'entreprise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-041",
+        "shortId": "Q-7AD189",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une élève d'un lycée public se présente en cours avec un voile couvrant ses cheveux. Le proviseur lui demande de le retirer. Est-ce conforme à la loi ?",
+        "choices": [
+          {
+            "text": "Non, l'école doit respecter la liberté vestimentaire des élèves",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, la loi de 2004 interdit le port de signes manifestant ostensiblement une appartenance religieuse dans les écoles publiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, sauf si le voile dissimule le visage (loi de 2010)",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le règlement intérieur l'interdit spécifiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi du 15 mars 2004 interdit, dans les écoles, collèges et lycées publics, le port de signes ou tenues par lesquels les élèves manifestent ostensiblement une appartenance religieuse."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-005",
+        "shortId": "Q-A3B46E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'inscription sur les listes électorales est :",
+        "choices": [
+          {
+            "text": "Facultative et payante",
+            "isCorrect": false
+          },
+          {
+            "text": "Obligatoire pour pouvoir voter (automatique à 18 ans pour les jeunes recensés)",
+            "isCorrect": true
+          },
+          {
+            "text": "Automatique pour tout le monde sans exception",
+            "isCorrect": false
+          },
+          {
+            "text": "Réservée aux propriétaires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'inscription est nécessaire. Elle est automatique pour les jeunes de 18 ans qui ont fait leur recensement, mais volontaire pour les autres (déménagement, etc.)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-058",
+        "shortId": "Q-239DC0",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur vous propose une rupture conventionnelle. Disposez-vous d'un délai de rétractation ?",
+        "choices": [
+          {
+            "text": "Non, la signature est définitive",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, 15 jours calendaires pour vous rétracter après la signature de la convention",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, 7 jours ouvrables",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf accord contraire dans la convention",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Après la signature d'une rupture conventionnelle, chaque partie dispose d'un délai de rétractation de 15 jours calendaires."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-005",
+        "shortId": "Q-8251DB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "C'est l'année de la naissance de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle correspond à la création de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est l'année où les femmes ont obtenu le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle marque la fin de la guerre d'Algérie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En 1958, une nouvelle Constitution a été adoptée par référendum, marquant la fin de la IVe République et le début de la Ve République sous l'impulsion du général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-035",
+        "shortId": "Q-9FDC12",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est la définition de l'autorité parentale ?",
+        "choices": [
+          {
+            "text": "Le pouvoir de décider seul de tous les choix de vie de l'enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Un ensemble de droits et de devoirs exercés dans l'intérêt de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'imposer à l'enfant une obéissance sans limite",
+            "isCorrect": false
+          },
+          {
+            "text": "La faculté de recourir à des violences éducatives",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant. Elle vise notamment à protéger sa sécurité, sa santé et son éducation, et non à exercer une domination sans limite."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-074",
+        "shortId": "Q-BD4582",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelqu'un affirme que le Président de la République peut modifier la Constitution seul. Est-ce vrai ?",
+        "choices": [
+          {
+            "text": "Oui, car il est le chef de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, toute révision constitutionnelle nécessite l'accord du Parlement puis un référendum ou le Congrès",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par ordonnance en cas d'urgence",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Conseil constitutionnel peut modifier la Constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La procédure de révision (article 89) impose un vote identique des deux chambres parlementaires, puis une approbation par référendum ou par le Congrès à la majorité des 3/5."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-official-029",
+        "shortId": "Q-B548AF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Comment sont désignés les maires ?",
+        "choices": [
+          {
+            "text": "Élus par le conseil municipal",
+            "isCorrect": true
+          },
+          {
+            "text": "Nommés par le préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Tirés au sort",
+            "isCorrect": false
+          },
+          {
+            "text": "Élus directement par les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "C'est une élection indirecte : les citoyens élisent les conseillers, qui élisent le maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-003",
+        "shortId": "Q-2879EB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Tiré au sort comme juré d'assises, vous souhaitez être dispensé. Quel motif est légalement recevable ?",
+        "choices": [
+          {
+            "text": "Le refus par conviction personnelle de juger autrui",
+            "isCorrect": false
+          },
+          {
+            "text": "Une contrainte professionnelle simple",
+            "isCorrect": false
+          },
+          {
+            "text": "L'âge supérieur à 70 ans ou un motif grave empêchant la comparution",
+            "isCorrect": true
+          },
+          {
+            "text": "Le fait de ne pas avoir la nationalité française depuis plus de 10 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Être juré est une obligation citoyenne. Les dispenses sont restrictives : être âgé de plus de 70 ans, ne plus résider dans le département, ou avoir un motif grave (maladie, impératif familial majeur). Le travail seul n'est pas une excuse automatique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-079",
+        "shortId": "Q-69C999",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel est le chef-lieu de la région Bretagne ?",
+        "choices": [
+          {
+            "text": "Brest",
+            "isCorrect": false
+          },
+          {
+            "text": "Rennes",
+            "isCorrect": true
+          },
+          {
+            "text": "Lorient",
+            "isCorrect": false
+          },
+          {
+            "text": "Quimper",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Rennes est le chef-lieu (préfecture) de la région de la région Bretagne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-033",
+        "shortId": "Q-5DF9F1",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "L'instruction des enfants est obligatoire de :",
+        "choices": [
+          {
+            "text": "6 ans à 16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans à 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "3 ans à 16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "4 ans à 16 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis 2019, l'instruction est obligatoire dès l'âge de 3 ans et jusqu'à 16 ans révolus. Cette obligation concerne tous les enfants résidant en France, quelle que soit leur nationalité."
+      }
+    }
+  ]
+}

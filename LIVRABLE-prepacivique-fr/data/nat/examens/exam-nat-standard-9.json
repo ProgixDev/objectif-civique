@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-9",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-standard-006",
+        "shortId": "Q-0A0125",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du « Défenseur des droits » ?",
+        "choices": [
+          {
+            "text": "Défendre l'État contre les citoyens",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect des droits et libertés et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Défendre la France en cas de guerre",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les avocats",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Institution indépendante créée en 2011, le Défenseur des droits peut être saisi gratuitement par toute personne s'estimant lésée par une administration ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-001",
+        "shortId": "Q-B80D51",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée légale de la garde à vue pour une infraction de droit commun (vol, dégradations) ?",
+        "choices": [
+          {
+            "text": "12 heures maximum",
+            "isCorrect": false
+          },
+          {
+            "text": "24 heures, renouvelable une fois (soit 48 heures au total)",
+            "isCorrect": true
+          },
+          {
+            "text": "48 heures sans renouvellement possible",
+            "isCorrect": false
+          },
+          {
+            "text": "72 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La garde à vue dure initialement 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République. Elle peut durer jusqu'à 96h pour terrorisme ou trafic de stupéfiants."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-033",
+        "shortId": "Q-E1992C",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La présomption d'innocence signifie que :",
+        "choices": [
+          {
+            "text": "Le coupable est toujours pardonné",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne accusée est considérée innocente tant qu'elle n'a pas été déclarée coupable par un tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "On ne met jamais personne en prison avant le procès",
+            "isCorrect": false
+          },
+          {
+            "text": "La police ne peut arrêter personne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La présomption d'innocence est un droit fondamental. C'est à l'accusation d'apporter la preuve de la culpabilité. Le doute doit profiter à l'accusé."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-044",
+        "shortId": "Q-D9C3EA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre employeur modifie unilatéralement un élément essentiel de votre contrat de travail (lieu de travail éloigné). Que pouvez-vous faire ?",
+        "choices": [
+          {
+            "text": "Refuser la modification et prendre acte de la rupture aux torts de l'employeur",
+            "isCorrect": true
+          },
+          {
+            "text": "Accepter tacitement si vous continuez à travailler pendant un mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir directement les prud'hommes sans autre démarche",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander une indemnité compensatoire forfaitaire de 3 mois de salaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La modification d'un élément essentiel du contrat nécessite l'accord du salarié. En cas de refus, l'employeur peut engager un licenciement, mais le salarié peut aussi prendre acte de la rupture."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-004",
+        "shortId": "Q-20769D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que porte Marianne sur la tête et que symbolise cet objet ?",
+        "choices": [
+          {
+            "text": "Une couronne de lauriers, symbole de victoire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chapeau haut-de-forme, symbole de la bourgeoisie",
+            "isCorrect": false
+          },
+          {
+            "text": "Un voile, symbole de pudeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un bonnet phrygien, symbole de la liberté et de l'affranchissement des esclaves",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le bonnet phrygien (rouge) était porté par les esclaves affranchis à Rome. Il a été repris par les Révolutionnaires pour symboliser la liberté retrouvée du peuple."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-012",
+        "shortId": "Q-74FD40",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Victime d'une escroquerie bancaire en ligne (phishing), la banque refuse de vous rembourser en invoquant votre 'négligence grave'. Qui a la charge de la preuve ?",
+        "choices": [
+          {
+            "text": "C'est à la banque de prouver votre négligence grave",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est à vous de prouver que vous n'avez pas été négligent",
+            "isCorrect": false
+          },
+          {
+            "text": "La preuve est partagée équitablement",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit diligenter une enquête pour établir la preuve",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Selon le Code monétaire et financier, c'est à l'établissement bancaire d'apporter la preuve que l'utilisateur a commis une négligence grave (ex: donner volontairement ses codes) pour refuser le remboursement d'une opération non autorisée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-004",
+        "shortId": "Q-9C1642",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous souhaitez fonder une association loi 1901. L'administration peut-elle vous refuser ce droit a priori ?",
+        "choices": [
+          {
+            "text": "Oui, si l'objet de l'association n'est pas d'utilité publique",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'association s'exerce sans autorisation préalable",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, il faut obtenir l'agrément du préfet avant de commencer",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous n'êtes pas de nationalité française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi de 1901, la constitution d'une association est libre et ne nécessite aucune autorisation préalable de l'État (sauf cas très spécifiques). Une simple déclaration en préfecture suffit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-016",
+        "shortId": "Q-9E4E36",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « Recours pour excès de pouvoir » ?",
+        "choices": [
+          {
+            "text": "Une procédure pour destituer le Président",
+            "isCorrect": false
+          },
+          {
+            "text": "Une action en justice pour faire annuler une décision administrative illégale",
+            "isCorrect": true
+          },
+          {
+            "text": "Une plainte contre un policier violent",
+            "isCorrect": false
+          },
+          {
+            "text": "Une demande de grâce présidentielle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le recours pour excès de pouvoir est le recours contentieux le plus courant devant le juge administratif. Il permet à tout citoyen de demander l'annulation d'un acte administratif (arrêté, décret) contraire à la loi."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-009",
+        "shortId": "Q-394A29",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui commandait les forces alliées lors du Débarquement en Normandie le 6 juin 1944 ?",
+        "choices": [
+          {
+            "text": "Le Général de Gaulle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maréchal Pétain",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Général Eisenhower",
+            "isCorrect": true
+          },
+          {
+            "text": "Winston Churchill",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le général américain Dwight D. Eisenhower qui a dirigé l'opération Overlord, permettant la libération de la France et de l'Europe de l'Ouest."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-001",
+        "shortId": "Q-518D39",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Lors d'un débat public, un participant affirme que le droit de vote devrait être réservé aux chefs de famille. Quel principe constitutionnel fondamental cette affirmation viole-t-elle ?",
+        "choices": [
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indivisibilité de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "La souveraineté nationale et le suffrage universel égal",
+            "isCorrect": true
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le suffrage est universel, égal et secret (art. 3 de la Constitution). Restreindre le vote aux chefs de famille violerait l'égalité politique entre les citoyens, hommes et femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-083",
+        "shortId": "Q-6525F2",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes majeur protégé sous curatelle. Pouvez-vous voter aux élections ?",
+        "choices": [
+          {
+            "text": "Non, la mise sous curatelle entraîne automatiquement la privation du droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, les majeurs protégés conservent leur droit de vote depuis la loi de 2019",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement avec l'accord du curateur",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf décision contraire du juge des tutelles",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi du 23 mars 2019, tous les majeurs protégés (sous tutelle ou curatelle) conservent leur droit de vote. La privation automatique a été supprimée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-033",
+        "shortId": "Q-5F43B1",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Jean-Paul Sartre et Simone de Beauvoir sont les figures de proue de quel courant philosophique ?",
+        "choices": [
+          {
+            "text": "L'Existentialisme",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Marxisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Structuralisme",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Libéralisme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'existentialisme postule que l'être humain est libre et se définit par ses actions (« L'existence précède l'essence »)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-045",
+        "shortId": "Q-0FBCC2",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une association caritative aide des migrants sans papiers à se nourrir et se loger. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Non, toute aide aux étrangers en situation irrégulière est un délit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'aide humanitaire désintéressée est protégée par le principe constitutionnel de fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Seulement si l'association est agréée par l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf pendant les périodes de grand froid",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil Constitutionnel a reconnu en 2018 la valeur constitutionnelle du principe de fraternité, protégeant l'aide humanitaire désintéressée même envers des personnes en situation irrégulière."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-078",
+        "shortId": "Q-263451",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Un amendement législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ordonnance souveraine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un 'projet' émane du Gouvernement, alors qu'une 'proposition' émane d'un député ou d'un sénateur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-019",
+        "shortId": "Q-A6F127",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle juridiction est spécialisée pour juger les délits commis par des mineurs ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de Police",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'Assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal pour Enfants",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil de Prud'hommes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Tribunal pour Enfants juge les délits (vols, violences) commis par les mineurs. Il est présidé par un Juge des Enfants. L'audience n'est pas publique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-037",
+        "shortId": "Q-69D541",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle ville est le plus grand port de commerce de France et la deuxième plus grande ville du pays ?",
+        "choices": [
+          {
+            "text": "Le Havre",
+            "isCorrect": false
+          },
+          {
+            "text": "Bordeaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "Marseille",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fondée par les Grecs (Massalia), Marseille est une métropole méditerranéenne majeure et la plus ancienne ville de France."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-038",
+        "shortId": "Q-E66192",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Selon la Constitution, qui est le Chef des Armées ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministre de la Défense",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Chef d'État-Major",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 15 de la Constitution fait du Président de la République le chef des armées. Il préside les conseils de défense nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-007",
+        "shortId": "Q-E03F26",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le double rôle du Conseil d'État ?",
+        "choices": [
+          {
+            "text": "Conseiller juridique du Gouvernement et juge suprême de l'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier les comptes de l'État et juger les ministres",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter les lois et contrôler le gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les magistrats et gérer les prisons",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Conseil d'État donne son avis sur les projets de loi avant qu'ils ne soient présentés en Conseil des ministres, et il est la juridiction ultime pour les litiges avec l'administration."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-012",
+        "shortId": "Q-4536BB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Défenseur des droits est une institution indépendante chargée de :",
+        "choices": [
+          {
+            "text": "Défendre les intérêts de l'État en justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Défendre les droits des citoyens face aux administrations et lutter contre les discriminations",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédiger les nouvelles lois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Défenseur des droits (inscrit dans la Constitution) peut être saisi gratuitement par toute personne s'estimant lésée par le fonctionnement d'un service public ou victime de discrimination."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-045",
+        "shortId": "Q-216205",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La ville de Lyon est réputée pour sa gastronomie et pour sa fête annuelle :",
+        "choices": [
+          {
+            "text": "La Fête de la Musique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Fête des Lumières",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Carnaval de Nice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Braderie de Lille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Chaque année autour du 8 décembre, Lyon s'illumine. Cette tradition religieuse (remerciement à la Vierge Marie) est devenue un grand événement artistique attirant des millions de visiteurs."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-043",
+        "shortId": "Q-FDA5B5",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pendant une cérémonie officielle, une personne refuse de se lever pour La Marseillaise. Est-elle passible d'une sanction ?",
+        "choices": [
+          {
+            "text": "Oui, c'est un outrage aux symboles nationaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté de conscience permet ce refus tant qu'il n'y a pas de trouble à l'ordre public",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, elle peut être expulsée de la salle",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais elle sera fichée par les services de renseignement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le respect des symboles nationaux est attendu mais ne peut être imposé par la force. La liberté de conscience protège le refus silencieux de participer, tant qu'il ne s'accompagne pas de trouble."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-077",
+        "shortId": "Q-5D9AB2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle date célèbre-t-on la 'Journée de l'Europe' ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle commémore la déclaration Schuman de 1950, considérée comme l'acte de naissance de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-056",
+        "shortId": "Q-85DCEE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez consulter votre dossier médical détenu par un hôpital. L'établissement peut-il refuser ?",
+        "choices": [
+          {
+            "text": "Oui, le dossier médical appartient à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'accès à son dossier médical est un droit fondamental du patient",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, si le médecin estime que les informations sont trop sensibles",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais uniquement par l'intermédiaire d'un avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi Kouchner de 2002, tout patient a le droit d'accéder directement à son dossier médical. L'établissement doit communiquer le dossier dans un délai de 8 jours (ou 2 mois pour les archives)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-011",
+        "shortId": "Q-008B44",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle bataille de 1916 a été la plus meurtrière et la plus symbolique de la Première Guerre mondiale pour la France ?",
+        "choices": [
+          {
+            "text": "La bataille de Verdun",
+            "isCorrect": true
+          },
+          {
+            "text": "La bataille d'Austerlitz",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Waterloo",
+            "isCorrect": false
+          },
+          {
+            "text": "La bataille de Normandie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Verdun (« L'enfer de Verdun ») est le symbole de la ténacité des soldats français (les Poilus) face à l'armée allemande. Elle a fait plus de 300 000 morts."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-003",
+        "shortId": "Q-F4C64E",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Concernant le « Prélèvement à la source » de l'impôt sur le revenu :",
+        "choices": [
+          {
+            "text": "Il dispense totalement de faire une déclaration de revenus annuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne s'applique qu'aux fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il supprime le quotient familial",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne dispense pas de la déclaration annuelle obligatoire pour régulariser la situation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Même si l'impôt est prélevé chaque mois sur le salaire, la déclaration de revenus annuelle reste obligatoire pour ajuster le taux et prendre en compte les crédits d'impôt ou changements de situation."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-072",
+        "shortId": "Q-B53A1F",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Une personne affirme que la France n'est plus une démocratie car le gouvernement prend des décisions impopulaires. Cette affirmation est-elle exacte ?",
+        "choices": [
+          {
+            "text": "Oui, la démocratie impose de suivre l'opinion publique sur tout",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la démocratie représentative permet aux élus de prendre des décisions au nom du peuple, même impopulaires",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, car le peuple aurait dû être consulté par référendum",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, car la France est une monarchie constitutionnelle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans une démocratie représentative, les citoyens délèguent le pouvoir à leurs élus. Ces derniers prennent des décisions en leur nom et sont responsables devant eux lors des élections."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-085",
+        "shortId": "Q-27051D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pendant combien d'années les conseillers municipaux et le Maire sont-ils élus ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mandat municipal est de 6 ans pour permettre une gestion de long terme de la ville."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-040",
+        "shortId": "Q-48C36E",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de vote est accordé aux citoyens français majeurs. Pour les élections municipales, qui d'autre peut voter ?",
+        "choices": [
+          {
+            "text": "Tous les résidents étrangers en situation régulière",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Les personnes payant des impôts locaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Personne d'autre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les citoyens de l'Union européenne résidant en France peuvent voter et être élus conseillers municipaux lors des élections municipales (et européennes), mais ne peuvent pas être Maire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-004",
+        "shortId": "Q-3FC42E",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pourquoi Charles de Gaulle est-il une figure historique majeure ?",
+        "choices": [
+          {
+            "text": "Il a créé la Sécurité sociale et réformé l'éducation nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a été le chef de la France Libre en 1940, puis le fondateur et premier Président de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Il a dirigé la France pendant la Première Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a signé le traité de l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Appel du 18 juin 1940, la Libération, et la Constitution de 1958 font de lui l'homme d'État français le plus important du XXe siècle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-001",
+        "shortId": "Q-59DB61",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'« abandon de poste » (absence injustifiée prolongée), quelle est la nouvelle conséquence pour le salarié ?",
+        "choices": [
+          {
+            "text": "Il est licencié pour faute grave et touche le chômage",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est considéré comme démissionnaire et perd ses droits à l'assurance chômage",
+            "isCorrect": true
+          },
+          {
+            "text": "L'employeur doit obligatoirement attendre 3 mois avant d'agir",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est mis en congé sans solde automatiquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2023, le salarié qui abandonne son poste sans justification après une mise en demeure est présumé démissionnaire. Il ne bénéficie donc plus des allocations chômage, contrairement au licenciement pour faute."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-023",
+        "shortId": "Q-A794D6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Pour obtenir un logement social, un candidat fournit de faux bulletins de salaire. Quelles sont les conséquences ?",
+        "choices": [
+          {
+            "text": "Une simple demande de régularisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Aucune si le logement est attribué",
+            "isCorrect": false
+          },
+          {
+            "text": "Une interdiction de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "L'annulation de la demande et des poursuites pour faux et usage de faux",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Fournir de faux documents administratifs est un délit de 'faux et usage de faux', passible de 3 ans d'emprisonnement et 45 000 euros d'amende."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-069",
+        "shortId": "Q-8B534F",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe républicain garantit l'indépendance mutuelle du Gouvernement, du Parlement et de la Justice ?",
+        "choices": [
+          {
+            "text": "La centralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le suffrage universel",
+            "isCorrect": false
+          },
+          {
+            "text": "La hiérarchie des normes",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des pouvoirs",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation des pouvoirs évite la concentration du pouvoir entre les mains d'une seule autorité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-051",
+        "shortId": "Q-01926F",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous avez été condamné à une peine de prison avec sursis. Dans quel cas le sursis peut-il être révoqué ?",
+        "choices": [
+          {
+            "text": "Uniquement si vous commettez le même type d'infraction",
+            "isCorrect": false
+          },
+          {
+            "text": "Automatiquement si vous ne payez pas les dommages et intérêts",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais, le sursis est définitivement acquis une fois prononcé",
+            "isCorrect": false
+          },
+          {
+            "text": "Si vous commettez une nouvelle infraction pendant le délai d'épreuve",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le sursis simple peut être révoqué si la personne commet une nouvelle infraction (crime ou délit) pendant le délai d'épreuve."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-006",
+        "shortId": "Q-749394",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel type de climat domine en France métropolitaine ?",
+        "choices": [
+          {
+            "text": "Un climat polaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat tempéré",
+            "isCorrect": true
+          },
+          {
+            "text": "Un climat tropical humide",
+            "isCorrect": false
+          },
+          {
+            "text": "Un climat aride",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Située à l'ouest de l'Europe, la France bénéficie d'un climat tempéré, favorable à l'agriculture, avec des hivers modérés et des étés chauds."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-006",
+        "shortId": "Q-50B0F5",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour un logement vide (non meublé), quel est le montant maximum du dépôt de garantie ?",
+        "choices": [
+          {
+            "text": "1 mois de loyer hors charges",
+            "isCorrect": true
+          },
+          {
+            "text": "2 mois de loyer hors charges",
+            "isCorrect": false
+          },
+          {
+            "text": "1 mois de loyer charges comprises",
+            "isCorrect": false
+          },
+          {
+            "text": "3 mois de loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi limite le dépôt de garantie à 1 mois de loyer hors charges pour les locations nues. Pour les meublés, le plafond est de 2 mois hors charges."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-036",
+        "shortId": "Q-0984D8",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la Question Prioritaire de Constitutionnalité (QPC) ?",
+        "choices": [
+          {
+            "text": "À saisir le Président de la République pour demander la grâce d'un condamné",
+            "isCorrect": false
+          },
+          {
+            "text": "À permettre à un citoyen, lors d'un procès, de contester une loi qu'il estime contraire à ses droits fondamentaux",
+            "isCorrect": true
+          },
+          {
+            "text": "À demander un référendum national sur une question de société",
+            "isCorrect": false
+          },
+          {
+            "text": "À obliger le Parlement à réexaminer une proposition de loi rejetée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Introduite en 2008, la QPC permet aux citoyens de saisir indirectement le Conseil constitutionnel pour faire abroger une loi contraire aux droits et libertés garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-057",
+        "shortId": "Q-601D17",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunit le Parlement européen pour ses sessions plénières mensuelles ?",
+        "choices": [
+          {
+            "text": "À Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Strasbourg est le siège officiel du Parlement européen, symbole de la réconciliation franco-allemande."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-059",
+        "shortId": "Q-9F9903",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes placé en garde à vue. Après combien de temps la garde à vue initiale peut-elle être prolongée ?",
+        "choices": [
+          {
+            "text": "24 heures",
+            "isCorrect": true
+          },
+          {
+            "text": "12 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "48 heures",
+            "isCorrect": false
+          },
+          {
+            "text": "36 heures",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La garde à vue initiale est de 24 heures. Elle peut être prolongée de 24 heures supplémentaires sur autorisation du procureur de la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-043",
+        "shortId": "Q-69BEA6",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Grand Palais et le Petit Palais à Paris ont été construits pour :",
+        "choices": [
+          {
+            "text": "L'Exposition Universelle de 1900",
+            "isCorrect": true
+          },
+          {
+            "text": "Le sacre de Napoléon",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Jeux Olympiques de 1924",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Construits pour l'Exposition Universelle de 1900, ces monuments de la Belle Époque témoignent de l'architecture métallique et de l'Art nouveau."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-standard-013",
+        "shortId": "Q-A21179",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'autorité parentale sur un enfant est-elle perdue en cas de divorce ?",
+        "choices": [
+          {
+            "text": "Oui, elle revient au parent qui a la garde",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle continue d'être exercée conjointement par les deux parents (sauf décision grave du juge)",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, le père perd systématiquement l'autorité",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela dépend du revenu des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La séparation des parents est sans effet sur l'autorité parentale. Les décisions importantes (santé, scolarité, religion) doivent toujours être prises à deux."
+      }
+    }
+  ]
+}

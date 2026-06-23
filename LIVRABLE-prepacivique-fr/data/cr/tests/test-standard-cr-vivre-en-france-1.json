@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-cr-vivre-en-france-1",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-standard-027",
+        "shortId": "Q-FE0FF1",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité est compétente pour régler les problèmes d'insalubrité grave d'un logement (Arrêté de péril) ?",
+        "choices": [
+          {
+            "text": "Le syndic de copropriété",
+            "isCorrect": false
+          },
+          {
+            "text": "La caisse d'assurance maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le maire ou le préfet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tribunal de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le maire ou le préfet peuvent prendre des arrêtés d'insalubrité ou de péril pour protéger les occupants."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-069",
+        "shortId": "Q-F52133",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document récapitule l'ensemble des vaccinations d'une personne ?",
+        "choices": [
+          {
+            "text": "La carte d'identité",
+            "isCorrect": false
+          },
+          {
+            "text": "Le permis de conduire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le carnet de santé (ou le carnet de vaccination)",
+            "isCorrect": true
+          },
+          {
+            "text": "La fiche de paie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le carnet de santé est remis à la naissance et permet de suivre l'évolution médicale et vaccinale."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-038",
+        "shortId": "Q-75B135",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas un salarié peut-il exercer son 'droit de retrait' ?",
+        "choices": [
+          {
+            "text": "S'il n'a pas reçu son salaire",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il a une situation de danger grave et imminent pour sa vie ou sa santé",
+            "isCorrect": true
+          },
+          {
+            "text": "S'il veut partir en vacances plus tôt",
+            "isCorrect": false
+          },
+          {
+            "text": "S'il n'aime pas ses nouveaux collègues",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le salarié peut se retirer d'une situation de travail s'il a un motif raisonnable de penser qu'elle présente un danger grave pour lui."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-016",
+        "shortId": "Q-9A6EC0",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est l'objectif de l'examen médical appelé 'bilan de santé' proposé gratuitement tous les 5 ans par l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Vérifier si l'assuré peut travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier la validité des vaccins pour voyager",
+            "isCorrect": false
+          },
+          {
+            "text": "Remplacer la consultation chez le médecin traitant",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser des actions de prévention et de dépistage",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'examen périodique de santé (EPS) est un examen de prévention personnalisé proposé par l'Assurance Maladie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-025",
+        "shortId": "Q-23D07E",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'chèque énergie' envoyé par l'État ?",
+        "choices": [
+          {
+            "text": "Un bon d'achat pour une voiture électrique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une réduction d'impôt pour travaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un chèque pour payer les frais de transport",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide au paiement des factures d'énergie pour les foyers modestes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le chèque énergie aide les ménages à faibles revenus à payer leurs factures d'électricité, de gaz ou de fioul."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-021",
+        "shortId": "Q-1A889B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle instance est chargée d'organiser les élections professionnelles au sein d'une entreprise de plus de 11 salariés ?",
+        "choices": [
+          {
+            "text": "Le syndicat majoritaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Comité Social et Économique (CSE)",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Inspection du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "La Direction des Ressources Humaines seule",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CSE est l'instance de représentation du personnel dans l'entreprise, remplaçant les anciens délégués du personnel."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-033",
+        "shortId": "Q-BEB313",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle autorité doit-on s'adresser pour déclarer une perte de papiers d'identité ?",
+        "choices": [
+          {
+            "text": "À la mairie du domicile lors de la demande de renouvellement",
+            "isCorrect": true
+          },
+          {
+            "text": "Au tribunal judiciaire de la ville",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'ambassade de son pays d'origine uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "À l'agence nationale des titres sécurisés par téléphone",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La déclaration de perte se fait généralement en mairie au moment du dépôt du dossier de renouvellement. S'il s'agit d'un vol, il faut d'abord aller au commissariat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-014",
+        "shortId": "Q-A123D2",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel âge un enfant peut-il commencer un contrat d'apprentissage en France, sous certaines conditions ?",
+        "choices": [
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'apprentissage est accessible dès 15 ans si l'enfant a terminé sa scolarité de collège."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-024",
+        "shortId": "Q-DDECD6",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle démarche doit effectuer un propriétaire avant de vendre un logement concernant la performance énergétique ?",
+        "choices": [
+          {
+            "text": "Faire réaliser un Diagnostic de Performance Énergétique (DPE)",
+            "isCorrect": true
+          },
+          {
+            "text": "Obtenir l'accord de la mairie pour le nouveau prix",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer la taxe d'habitation du futur acquéreur",
+            "isCorrect": false
+          },
+          {
+            "text": "Souscrire une assurance loyers impayés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le DPE est obligatoire pour toute vente ou location immobilière afin d'informer l'acquéreur sur la consommation d'énergie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-060",
+        "shortId": "Q-09FF2F",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, les salariés du secteur privé ont droit à combien de semaines de congés payés minimum par an ?",
+        "choices": [
+          {
+            "text": "2 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "4 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "3 semaines",
+            "isCorrect": false
+          },
+          {
+            "text": "5 semaines",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Tout salarié acquiert 2,5 jours ouvrables de congés par mois de travail effectif, soit 30 jours (5 semaines) par an."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-047",
+        "shortId": "Q-149460",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'accident du travail, dans quel délai le salarié doit-il prévenir son employeur ?",
+        "choices": [
+          {
+            "text": "Dans les 24 heures (sauf cas de force majeure)",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans la semaine qui suit",
+            "isCorrect": false
+          },
+          {
+            "text": "Après la guérison totale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le délai n'a pas d'importance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le salarié doit informer l'employeur le plus rapidement possible pour que ce dernier puisse déclarer l'accident à la CPAM."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-035",
+        "shortId": "Q-0CAE17",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En droit du travail, qu'est-ce que l'inaptitude ?",
+        "choices": [
+          {
+            "text": "Le fait de ne pas avoir les diplômes requis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le refus de travailler le dimanche",
+            "isCorrect": false
+          },
+          {
+            "text": "La décision d'un médecin du travail constatant qu'un salarié ne peut plus occuper son poste",
+            "isCorrect": true
+          },
+          {
+            "text": "L'incapacité de parler français correctement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'inaptitude médicale est prononcée par le médecin du travail si l'état de santé du salarié est incompatible avec son poste."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-017",
+        "shortId": "Q-6DED9C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans une copropriété, quel document définit les règles de vie commune et la répartition des charges ?",
+        "choices": [
+          {
+            "text": "Le règlement de copropriété",
+            "isCorrect": true
+          },
+          {
+            "text": "Le contrat de bail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'attestation d'assurance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat de conformité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le règlement de copropriété est un acte conventionnel qui s'impose à tous les occupants de l'immeuble."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-044",
+        "shortId": "Q-31586C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui doit payer la taxe d'enlèvement des ordures ménagères (TEOM) ?",
+        "choices": [
+          {
+            "text": "Uniquement les commerçants",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État central",
+            "isCorrect": false
+          },
+          {
+            "text": "Les entreprises de nettoyage",
+            "isCorrect": false
+          },
+          {
+            "text": "Le propriétaire du logement (qui peut la récupérer auprès du locataire)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La TEOM finance la collecte des déchets. Elle est payée par le propriétaire avec sa taxe foncière, mais elle fait partie des charges récupérables sur le locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-036",
+        "shortId": "Q-87B160",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du médiateur de la consommation ?",
+        "choices": [
+          {
+            "text": "Fixer le prix des produits dans les magasins",
+            "isCorrect": false
+          },
+          {
+            "text": "Aider à résoudre un litige à l'amiable entre un client et un professionnel",
+            "isCorrect": true
+          },
+          {
+            "text": "Organiser les soldes saisonnières",
+            "isCorrect": false
+          },
+          {
+            "text": "Poursuivre les entreprises en faillite",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout professionnel doit permettre au consommateur d'accéder gratuitement à un dispositif de médiation en cas de litige."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-009",
+        "shortId": "Q-B03981",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pour obtenir le remboursement d'une consultation médicale, quel document doit être présenté au professionnel de santé ?",
+        "choices": [
+          {
+            "text": "La Carte Vitale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'attestation d'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Carte Vitale contient les informations nécessaires à la télétransmission de la feuille de soins électronique vers l'Assurance Maladie."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-064",
+        "shortId": "Q-BDA523",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où peut-on se procurer des médicaments en France ?",
+        "choices": [
+          {
+            "text": "En supermarché",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans n'importe quel magasin de sport",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement à l'hôpital",
+            "isCorrect": false
+          },
+          {
+            "text": "En pharmacie",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La vente de médicaments est strictement réservée aux pharmaciens pour garantir la sécurité des patients."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-039",
+        "shortId": "Q-C6A42D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme gère les dossiers de demande de retraite du secteur privé ?",
+        "choices": [
+          {
+            "text": "L'Assurance Retraite (CNAV)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "La Direction des Finances Publiques",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Caisse Nationale d'Assurance Vieillesse (CNAV) est l'organisme qui gère la retraite de base des salariés du secteur privé."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-051",
+        "shortId": "Q-CE63E3",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document est indispensable pour inscrire un enfant à la cantine scolaire ou au centre de loisirs ?",
+        "choices": [
+          {
+            "text": "L'attestation d'assurance responsabilité civile scolaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le dernier avis d'imposition sur le revenu",
+            "isCorrect": false
+          },
+          {
+            "text": "Un certificat de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret militaire des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assurance scolaire couvre les dommages causés par l'enfant ou subis par lui pendant les activités périscolaires."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-059",
+        "shortId": "Q-78852D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle d'un 'syndic' de copropriété ?",
+        "choices": [
+          {
+            "text": "Vendre les appartements de l'immeuble",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'immeuble, les travaux et les comptes de la copropriété",
+            "isCorrect": true
+          },
+          {
+            "text": "Décider des loyers pour les locataires",
+            "isCorrect": false
+          },
+          {
+            "text": "Faire le ménage dans les parties communes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le syndic exécute les décisions prises en assemblée générale par les copropriétaires."
+      }
+    }
+  ]
+}

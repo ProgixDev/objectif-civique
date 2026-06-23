@@ -1,0 +1,417 @@
+{
+  "slug": "test-official-cr-vivre-en-france-2",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 12,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-official-030",
+        "shortId": "Q-E59538",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+        "choices": [
+          {
+            "text": "Une simple convocation sans sanction pénale possible",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende administrative automatique sans décision de justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La suppression systématique des allocations familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "Jusqu'à 6 mois d'emprisonnement et 7 500 euros d'amende",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Si les parents ne respectent pas la mise en demeure d'inscrire leur enfant dans un établissement scolaire, ils risquent jusqu'à 6 mois d'emprisonnement et 7 500 euros d'amende. Cette réponse est correcte parce qu'elle reprend la sanction pénale maximale prévue par les textes."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-029",
+        "shortId": "Q-194ED9",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel motif d'absence est accepté par l'école ?",
+        "choices": [
+          {
+            "text": "La maladie de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Un départ en vacances en dehors du calendrier scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Une activité de loisir programmée pendant le temps scolaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Un rendez-vous de convenance personnelle non justifié",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assiduité scolaire est obligatoire. Une absence pour maladie constitue un motif légitime, contrairement à une absence pour convenance personnelle, activité de loisir ou départ en vacances hors calendrier scolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-010",
+        "shortId": "Q-D69891",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+        "choices": [
+          {
+            "text": "L'ouverture des droits dépend uniquement du fait d'avoir un emploi",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute personne qui travaille ou réside en France de manière stable et régulière peut être prise en charge",
+            "isCorrect": true
+          },
+          {
+            "text": "Le remboursement des soins urgents suppose toujours 3 mois de résidence préalable",
+            "isCorrect": false
+          },
+          {
+            "text": "L'assurance maladie ne prend en charge que les hospitalisations",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Avec la protection universelle maladie, toute personne qui travaille ou réside en France de manière stable et régulière peut bénéficier de la prise en charge de ses frais de santé. L'accès aux soins ne dépend donc pas du seul fait d'avoir un emploi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-016",
+        "shortId": "Q-7F7E77",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Travailler sans être déclaré est :",
+        "choices": [
+          {
+            "text": "Illégal : c'est du travail dissimulé et le salarié perd une partie de sa protection sociale",
+            "isCorrect": true
+          },
+          {
+            "text": "Toléré si le salarié est d'accord et payé en espèces",
+            "isCorrect": false
+          },
+          {
+            "text": "Autorisé en dessous d'un certain nombre d'heures par mois",
+            "isCorrect": false
+          },
+          {
+            "text": "Une simple irrégularité administrative sans effet sur les droits sociaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail non déclaré constitue du travail dissimulé, qui est interdit. Le salarié perd des droits sociaux importants, notamment en matière de retraite, d'assurance chômage et d'accident du travail, et l'employeur s'expose à des sanctions pénales et financières."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-002",
+        "shortId": "Q-B986CB",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+        "choices": [
+          {
+            "text": "À la mairie de leur domicile",
+            "isCorrect": true
+          },
+          {
+            "text": "À la caisse d'allocations familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "Au rectorat",
+            "isCorrect": false
+          },
+          {
+            "text": "À la préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour une première inscription à l'école publique, les parents s'adressent d'abord à la mairie de leur commune. La mairie vérifie le domicile, indique l'école de secteur et délivre le certificat d'inscription scolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-005",
+        "shortId": "Q-885665",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où faut-il déclarer la naissance d'un enfant ?",
+        "choices": [
+          {
+            "text": "À la mairie du domicile des parents",
+            "isCorrect": false
+          },
+          {
+            "text": "À la caisse d'allocations familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "À la mairie du lieu de naissance",
+            "isCorrect": true
+          },
+          {
+            "text": "Au consulat du pays d'origine des parents",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La déclaration de naissance est obligatoire et doit être faite à la mairie du lieu de naissance dans les 5 jours suivant l'accouchement. Ce n'est ni la mairie du domicile ni l'établissement de santé qui se substituent à cette formalité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-015",
+        "shortId": "Q-812AE3",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+        "choices": [
+          {
+            "text": "Les litiges entre usagers et administrations",
+            "isCorrect": false
+          },
+          {
+            "text": "Les infractions pénales commises sur le lieu de travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Les litiges individuels entre salarié et employeur liés au contrat de travail",
+            "isCorrect": true
+          },
+          {
+            "text": "Les désaccords de voisinage entre particuliers",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le conseil de prud'hommes règle les conflits individuels nés de l'exécution ou de la rupture d'un contrat de travail de droit privé, par exemple sur le salaire, le licenciement ou les heures supplémentaires. Il ne juge ni les infractions pénales ni les litiges administratifs."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-031",
+        "shortId": "Q-F2404B",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quand ont lieu les vacances scolaires de Noël ?",
+        "choices": [
+          {
+            "text": "Au début du mois de décembre",
+            "isCorrect": false
+          },
+          {
+            "text": "À la fin du mois de février",
+            "isCorrect": false
+          },
+          {
+            "text": "Fin décembre - début janvier, pendant environ 2 semaines",
+            "isCorrect": true
+          },
+          {
+            "text": "À la fin du mois d'octobre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les vacances de Noël correspondent aux congés de fin d'année. Elles ont lieu entre la fin décembre et le début janvier et durent environ deux semaines, selon le calendrier scolaire national."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-006",
+        "shortId": "Q-C48374",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+        "choices": [
+          {
+            "text": "Être âgé d'au moins 16 ans, quel que soit le permis demandé",
+            "isCorrect": false
+          },
+          {
+            "text": "Être âgé d'au moins 17 ans pour se présenter à l'épreuve pratique du permis B",
+            "isCorrect": true
+          },
+          {
+            "text": "Être majeur pour obtenir le permis B",
+            "isCorrect": false
+          },
+          {
+            "text": "Avoir déjà assuré un véhicule à son nom",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Pour le permis B, l'épreuve pratique peut être passée à partir de 17 ans. L'inscription à l'auto-école peut intervenir plus tôt, mais l'âge de 17 ans est bien la condition d'âge pour se présenter à l'examen pratique."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-008",
+        "shortId": "Q-967F9D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Où peut-on déposer un lave-vaisselle cassé ?",
+        "choices": [
+          {
+            "text": "Dans la poubelle verte des ordures ménagères",
+            "isCorrect": false
+          },
+          {
+            "text": "En déchetterie ou via la reprise par le vendeur lors de l'achat d'un appareil neuf",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans une borne de tri réservée aux emballages",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans un conteneur destiné au verre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Un lave-vaisselle est un déchet d'équipement électrique et électronique. Il doit être apporté en déchetterie ou repris par le vendeur lors de l'achat d'un appareil neuf afin d'être traité et recyclé correctement."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-024",
+        "shortId": "Q-56B89C",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Les parents d'élève ont le droit de :",
+        "choices": [
+          {
+            "text": "Assister librement aux cours pour contrôler l'enseignement",
+            "isCorrect": false
+          },
+          {
+            "text": "Être informés sur la scolarité de leur enfant et élire leurs représentants",
+            "isCorrect": true
+          },
+          {
+            "text": "Fixer les méthodes pédagogiques employées dans la classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Décider seuls du passage dans la classe supérieure",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les parents sont membres de la communauté éducative. À ce titre, ils sont informés de la scolarité de leur enfant et peuvent élire leurs représentants, mais ils ne décident pas seuls de l'organisation pédagogique ou des décisions d'orientation."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-official-022",
+        "shortId": "Q-8B7245",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qu'est-ce que l'école maternelle ?",
+        "choices": [
+          {
+            "text": "Le premier cycle de la scolarité, qui accueille les enfants à partir de 3 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "Un service périscolaire communal facultatif après la classe",
+            "isCorrect": false
+          },
+          {
+            "text": "Un établissement réservé aux enfants dont les parents travaillent",
+            "isCorrect": false
+          },
+          {
+            "text": "Une structure destinée à préparer un examen d'entrée au CP",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'école maternelle correspond au premier cycle de la scolarité et accueille les enfants à partir de 3 ans. Depuis 2019, l'instruction est obligatoire dès cet âge, ce qui explique que la maternelle ne soit pas un simple service facultatif."
+      }
+    }
+  ]
+}

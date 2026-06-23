@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-5",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-065",
+        "shortId": "Q-A70415",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui coordonne l'action des services de l'État à l'échelle d'une région ?",
+        "choices": [
+          {
+            "text": "Le Président du conseil régional",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Recteur d'académie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Député européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le préfet de région a autorité sur les préfets de département pour les politiques régionales de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-016",
+        "shortId": "Q-32C9E5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de désaccord durable entre l'Assemblée et le Sénat sur une loi, qui peut convoquer une Commission Mixte Paritaire (CMP) ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Président de l'Assemblée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen des députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Premier ministre (ou les présidents des assemblées pour les propositions de loi) peut convoquer une CMP (7 députés, 7 sénateurs) pour trouver un texte de compromis."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-103",
+        "shortId": "Q-67F37C",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on la perte de la nationalité française pour un individu (mesure exceptionnelle) ?",
+        "choices": [
+          {
+            "text": "L'expatriation",
+            "isCorrect": false
+          },
+          {
+            "text": "La déchéance de nationalité",
+            "isCorrect": true
+          },
+          {
+            "text": "La radiation sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exclusion électorale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La déchéance de nationalité, c'est une sanction rare visant des crimes très graves contre les intérêts de l'État."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-064",
+        "shortId": "Q-4244F2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel bâtiment parisien siège le Sénat ?",
+        "choices": [
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "La Sorbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Sénat, chambre haute du Parlement, siège au Palais du Luxembourg depuis 1879."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-023",
+        "shortId": "Q-EC40CF",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe réunit les chefs d'État ou de gouvernement des pays membres de l'UE pour définir les grandes orientations ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil européen",
+            "isCorrect": true
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le « Conseil européen » (les sommets) réunit les chefs d'État/Gouvernement. Ne pas confondre avec le « Conseil de l'UE » (les ministres) ou le « Conseil de l'Europe » (droits de l'homme, hors UE)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-041",
+        "shortId": "Q-59C00D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quels scrutins un citoyen européen résidant en France peut-il participer ?",
+        "choices": [
+          {
+            "text": "Les élections présidentielles uniquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Toutes les élections nationales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections départementales et régionales",
+            "isCorrect": false
+          },
+          {
+            "text": "Les élections municipales et européennes",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La citoyenneté européenne permet de voter aux élections locales et pour le Parlement européen dans son pays de résidence."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-084",
+        "shortId": "Q-4D687E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les trois couleurs officielles du drapeau français ?",
+        "choices": [
+          {
+            "text": "Bleu, Jaune, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Vert, Blanc, Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Noir, Blanc, Rouge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore est né de la réunion des couleurs de Paris (bleu et rouge) et du blanc de la monarchie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-063",
+        "shortId": "Q-D67A0E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se situe le siège de la Banque centrale européenne (BCE) ?",
+        "choices": [
+          {
+            "text": "Bruxelles",
+            "isCorrect": false
+          },
+          {
+            "text": "Francfort",
+            "isCorrect": true
+          },
+          {
+            "text": "Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "Luxembourg",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La BCE, qui gère l'euro et la politique monétaire, est située en Allemagne, à Francfort."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-049",
+        "shortId": "Q-8CA7CC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quoi consiste la 'navette parlementaire' ?",
+        "choices": [
+          {
+            "text": "Le transport des élus vers Strasbourg",
+            "isCorrect": false
+          },
+          {
+            "text": "Le changement régulier de Gouvernement",
+            "isCorrect": false
+          },
+          {
+            "text": "La circulation des courriers officiels",
+            "isCorrect": false
+          },
+          {
+            "text": "L'examen successif d'un texte de loi par l'Assemblée et le Sénat",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un projet de loi doit être adopté en termes identiques par les deux chambres du Parlement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-037",
+        "shortId": "Q-E64374",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée du mandat du Président de la République française ?",
+        "choices": [
+          {
+            "text": "4 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le mandat présidentiel est de 5 ans (quinquennat) depuis le référendum de l'an 2000."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-057",
+        "shortId": "Q-601D17",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se réunit le Parlement européen pour ses sessions plénières mensuelles ?",
+        "choices": [
+          {
+            "text": "À Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Lyon",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Strasbourg est le siège officiel du Parlement européen, symbole de la réconciliation franco-allemande."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-125",
+        "shortId": "Q-386400",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel article de la Constitution affirme que 'La France est une République indivisible, laïque, démocratique et sociale' ?",
+        "choices": [
+          {
+            "text": "L'article 10",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 49",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 20",
+            "isCorrect": false
+          },
+          {
+            "text": "L'article 1",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'article 1er définit les principes fondamentaux de l'État français."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-060",
+        "shortId": "Q-A2AD2B",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité territoriale gère la construction et l'entretien des lycées ?",
+        "choices": [
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Depuis les lois de décentralisation, la Région est compétente pour les lycées."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-070",
+        "shortId": "Q-87F3EC",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction principale du Gouvernement selon la Constitution ?",
+        "choices": [
+          {
+            "text": "Déterminer et conduire la politique de la Nation",
+            "isCorrect": true
+          },
+          {
+            "text": "Juger les litiges administratifs",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédiger la Constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Gouvernement dispose de l'administration et de la force armée pour mener sa politique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-099",
+        "shortId": "Q-36F0E6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie le concept de souveraineté dans un État ?",
+        "choices": [
+          {
+            "text": "La dépendance totale envers les banques",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir de décider librement de son propre destin",
+            "isCorrect": true
+          },
+          {
+            "text": "L'absence totale de lois",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de conquérir d'autres pays",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La souveraineté est l'autorité suprême qui permet à l'État d'agir sans contrainte extérieure indue."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-106",
+        "shortId": "Q-8F9DBD",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui préside les conseils de défense et de sécurité nationale ?",
+        "choices": [
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Chef d'état-major",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Directeur de la Gendarmerie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de police",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Chef de l'État définit les grandes orientations stratégiques de la défense française."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-098",
+        "shortId": "Q-A9EDAE",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le mode d'élection des sénateurs ?",
+        "choices": [
+          {
+            "text": "Le suffrage universel indirect (par les élus locaux)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le suffrage universel direct (par tous les citoyens)",
+            "isCorrect": false
+          },
+          {
+            "text": "La nomination par le Président de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tirage au sort parmi les citoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les sénateurs sont élus par un collège de 'grands électeurs' (députés, conseillers locaux)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-021",
+        "shortId": "Q-0ECD85",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans une commune, qui est officier de police judiciaire et officier d'état civil ?",
+        "choices": [
+          {
+            "text": "Le Maire",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Commissaire de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Directeur Général des Services",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Maire a une double casquette : il est agent exécutif de la commune mais aussi agent de l'État (officier d'état civil pour les mariages, et officier de police judiciaire sous l'autorité du procureur)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-052",
+        "shortId": "Q-3EDA56",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel bâtiment se situent les services administratifs du représentant de l'État ?",
+        "choices": [
+          {
+            "text": "Le Tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de ville",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil départemental",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La préfecture est le siège administratif du préfet de département ou de région."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-072",
+        "shortId": "Q-41CDB0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution européenne siège à Bruxelles et propose les législations ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice de l'UE",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "La Banque centrale européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Commission européenne défend l'intérêt général de l'Union et veille à l'application des traités."
+      }
+    }
+  ]
+}

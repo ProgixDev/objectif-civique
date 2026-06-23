@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-nat-systeme-institutionnel-2",
+  "level": "NAT",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-institutions-standard-054",
+        "shortId": "Q-8F5496",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de la République française ?",
+        "choices": [
+          {
+            "text": "Liberté, Égalité, Fraternité",
+            "isCorrect": true
+          },
+          {
+            "text": "Paix, Justice, Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Unité, Force, Patrie",
+            "isCorrect": false
+          },
+          {
+            "text": "Solidarité, Progrès, Culture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Inscrite dans la Constitution, cette devise figure au fronton de tous les édifices publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-029",
+        "shortId": "Q-233788",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le lieu de résidence et de travail officiel du Président de la République ?",
+        "choices": [
+          {
+            "text": "Le Palais du Luxembourg",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Matignon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Palais de l'Élysée",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Palais de l'Élysée est le siège de la présidence de la République française depuis 1848."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-050",
+        "shortId": "Q-78F369",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui assure la présidence des débats au sein de l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "Le Président de l'Assemblée nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le doyen des députés",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Président de l'Assemblée nationale organise les travaux législatifs et dirige les séances."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-036",
+        "shortId": "Q-7B9944",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité territoriale est principalement responsable des collèges publics ?",
+        "choices": [
+          {
+            "text": "La Commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Département gère la construction, l'entretien et l'équipement des collèges."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-038",
+        "shortId": "Q-77E9F4",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment se définit étymologiquement le terme 'démocratie' ?",
+        "choices": [
+          {
+            "text": "Le pouvoir exercé par le peuple",
+            "isCorrect": true
+          },
+          {
+            "text": "L'autorité d'une élite sélectionnée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commandement d'un chef unique",
+            "isCorrect": false
+          },
+          {
+            "text": "La gestion par l'administration",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le mot vient du grec 'demos' (peuple) et 'kratos' (pouvoir)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-079",
+        "shortId": "Q-600258",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le nom du programme européen qui favorise la mobilité des étudiants et des apprentis ?",
+        "choices": [
+          {
+            "text": "Copernicus",
+            "isCorrect": false
+          },
+          {
+            "text": "Erasmus+",
+            "isCorrect": true
+          },
+          {
+            "text": "Galileo",
+            "isCorrect": false
+          },
+          {
+            "text": "Horizon Europe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Erasmus+ permet aux étudiants, apprentis et enseignants de se former ou de travailler dans un autre pays européen."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-004",
+        "shortId": "Q-E58601",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De combien de sénateurs le Sénat est-il composé ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "300",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": true
+          },
+          {
+            "text": "450",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Sénat compte 348 sénateurs. Ils sont élus au suffrage universel indirect (par les « grands électeurs ») pour un mandat de 6 ans, renouvelable par moitié tous les 3 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-008",
+        "shortId": "Q-437DB3",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Cour de cassation est la juridiction suprême de :",
+        "choices": [
+          {
+            "text": "L'ordre administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre financier",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle ne rejuge pas les faits, mais vérifie que la loi a été correctement appliquée par les tribunaux et les cours d'appel (ordre judiciaire : civil et pénal)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-104",
+        "shortId": "Q-F4D24E",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'une des missions principales du Premier ministre ?",
+        "choices": [
+          {
+            "text": "Présider le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter le budget au Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Coordonner et diriger l'action gouvernementale",
+            "isCorrect": true
+          },
+          {
+            "text": "Rendre la justice au nom du peuple",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Premier ministre assure l'exécution des lois et dirige l'action des ministres."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-061",
+        "shortId": "Q-401DE1",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal est chargé de juger les crimes les plus graves (meurtres, viols) ?",
+        "choices": [
+          {
+            "text": "Le Tribunal de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal administratif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal correctionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Cour d'assises est la seule juridiction française composée de juges et d'un jury populaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-077",
+        "shortId": "Q-5D9AB2",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quelle date célèbre-t-on la 'Journée de l'Europe' ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 9 mai",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Elle commémore la déclaration Schuman de 1950, considérée comme l'acte de naissance de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-092",
+        "shortId": "Q-348143",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel texte fondamental de 1789 est cité dans le préambule de la Constitution française ?",
+        "choices": [
+          {
+            "text": "Le Code pénal",
+            "isCorrect": false
+          },
+          {
+            "text": "La Loi salique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce texte pose les bases des droits inaliénables de chaque individu."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-056",
+        "shortId": "Q-289FF0",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De combien de députés l'Assemblée nationale est-elle composée ?",
+        "choices": [
+          {
+            "text": "348",
+            "isCorrect": false
+          },
+          {
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "text": "577",
+            "isCorrect": true
+          },
+          {
+            "text": "450",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il y a 577 députés, élus dans des circonscriptions législatives au suffrage universel direct."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-109",
+        "shortId": "Q-92E2F8",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où sont consignées les règles de fonctionnement de la Ve République ?",
+        "choices": [
+          {
+            "text": "Dans le Code de la route",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le journal officiel des banques",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans le règlement du Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "Dans la Constitution de 1958",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Constitution est la norme suprême qui organise les pouvoirs publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-024",
+        "shortId": "Q-EB4B53",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui promulgue les lois une fois votées ?",
+        "choices": [
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Président de la République promulgue la loi dans les 15 jours qui suivent la transmission du texte définitivement adopté. C'est l'acte qui rend la loi exécutoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-005",
+        "shortId": "Q-A56BC6",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle juridiction financière indépendante certifie les comptes de l'État et de la Sécurité sociale ?",
+        "choices": [
+          {
+            "text": "La Cour des comptes",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Inspection Générale des Finances (IGF)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil Constitutionnel",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Cour des comptes s'assure du bon emploi de l'argent public et en informe les citoyens. Elle juge également les comptables publics."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-047",
+        "shortId": "Q-90DC58",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité a la charge des écoles primaires (maternelles et élémentaires) ?",
+        "choices": [
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commune (la Mairie)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Ministère de l'Enseignement supérieur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La commune est responsable de la construction, de l'équipement et de l'entretien des écoles publiques de son territoire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-122",
+        "shortId": "Q-34E372",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans un bureau de vote, à quoi sert l'isoloir ?",
+        "choices": [
+          {
+            "text": "À garantir le secret du vote",
+            "isCorrect": true
+          },
+          {
+            "text": "À stocker les bulletins non utilisés",
+            "isCorrect": false
+          },
+          {
+            "text": "À vérifier l'identité de l'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "À compter les voix plus rapidement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le secret du vote est une garantie fondamentale de la liberté de l'électeur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-078",
+        "shortId": "Q-263451",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on un texte de loi proposé par le Premier ministre ?",
+        "choices": [
+          {
+            "text": "Un projet de loi",
+            "isCorrect": true
+          },
+          {
+            "text": "Une proposition de loi",
+            "isCorrect": false
+          },
+          {
+            "text": "Un amendement législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Une ordonnance souveraine",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Un 'projet' émane du Gouvernement, alors qu'une 'proposition' émane d'un député ou d'un sénateur."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-035",
+        "shortId": "Q-2D16BA",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À partir de quel âge un citoyen français obtient-il le droit de vote ?",
+        "choices": [
+          {
+            "text": "16 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "21 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "25 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La majorité électorale est fixée à 18 ans depuis 1974."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-nat-standard-13",
+  "level": "NAT",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "nat-principes-situational-025",
+        "shortId": "Q-579886",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Vous êtes en désaccord avec une loi votée démocratiquement. Quelle forme de contestation est illégale ?",
+        "choices": [
+          {
+            "text": "Détruire du mobilier urbain ou agresser des représentants de l'ordre",
+            "isCorrect": true
+          },
+          {
+            "text": "Signer une pétition demandant son abrogation",
+            "isCorrect": false
+          },
+          {
+            "text": "Manifester pacifiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Voter pour un parti proposant de changer la loi",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie garantit le droit de contestation pacifique (manifestation, vote, pétition). En revanche, la violence et la dégradation de biens sont des délits pénaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-072",
+        "shortId": "Q-C771CA",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Votre enfant de 6 ans n'est pas scolarisé car vous pratiquez l'instruction en famille. L'inspecteur académique peut-il contrôler ce choix ?",
+        "choices": [
+          {
+            "text": "Non, l'instruction en famille est un droit constitutionnel des parents sans contrôle",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, l'instruction en famille est soumise à autorisation préalable et contrôle régulier",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement sur signalement du médecin de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, une simple déclaration annuelle à la mairie suffit sans contrôle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2022, l'instruction en famille est soumise à autorisation de l'académie. Des contrôles réguliers vérifient que l'enfant reçoit une instruction conforme au socle commun."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-074",
+        "shortId": "Q-BD4582",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelqu'un affirme que le Président de la République peut modifier la Constitution seul. Est-ce vrai ?",
+        "choices": [
+          {
+            "text": "Oui, car il est le chef de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, toute révision constitutionnelle nécessite l'accord du Parlement puis un référendum ou le Congrès",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, par ordonnance en cas d'urgence",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, seul le Conseil constitutionnel peut modifier la Constitution",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La procédure de révision (article 89) impose un vote identique des deux chambres parlementaires, puis une approbation par référendum ou par le Congrès à la majorité des 3/5."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-037",
+        "shortId": "Q-A71025",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un témoin cité à comparaître devant un tribunal peut-il refuser de venir ?",
+        "choices": [
+          {
+            "text": "Oui, s'il invoque le secret professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, s'il justifie d'un empêchement professionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il est obligé de venir, de prêter serment et de dire la vérité",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, à condition de fournir une déclaration écrite à la place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage est un devoir civique. Si le témoin ne se présente pas, la force publique peut l'y contraindre. Le faux témoignage est un délit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-026",
+        "shortId": "Q-7C2788",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme célèbre a prêté ses traits aux bustes de Marianne dans les mairies ?",
+        "choices": [
+          {
+            "text": "Marie Curie",
+            "isCorrect": false
+          },
+          {
+            "text": "Jeanne d'Arc",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela varie selon les époques (ex: Brigitte Bardot, Catherine Deneuve, Laetitia Casta)",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Marianne n'a pas de visage officiel unique. Les maires peuvent choisir des bustes représentant des Françaises célèbres incarnant la République."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-070",
+        "shortId": "Q-098BFE",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous constatez qu'une usine voisine pollue un cours d'eau. Quel droit environnemental pouvez-vous exercer ?",
+        "choices": [
+          {
+            "text": "Saisir directement le tribunal correctionnel pour pollution industrielle",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler l'infraction à la DREAL (Direction régionale de l'environnement) et saisir le maire",
+            "isCorrect": true
+          },
+          {
+            "text": "Déposer une plainte auprès de l'Agence de l'eau pour obtenir une inspection",
+            "isCorrect": false
+          },
+          {
+            "text": "Adresser une mise en demeure à l'usine avec copie au procureur de la République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Tout citoyen peut signaler une pollution environnementale aux autorités compétentes (DREAL, préfecture, maire). C'est un droit et un devoir civique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-024",
+        "shortId": "Q-118E4D",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit de grève est-il illimité ?",
+        "choices": [
+          {
+            "text": "Oui, c'est une liberté totale",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, il s'exerce dans le cadre des lois qui le réglementent (ex: service minimum, interdiction pour les policiers)",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est interdit aux fonctionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est limité à 3 jours par an",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Si le droit de grève est constitutionnel, il doit être concilié avec la continuité du service public. Certains corps (militaires, policiers) en sont privés."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-036",
+        "shortId": "Q-EDE8EC",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dès le début de la garde à vue, la personne interpellée a le droit :",
+        "choices": [
+          {
+            "text": "De contacter directement le procureur de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "De demander à voir un avocat et d'être examinée par un médecin",
+            "isCorrect": true
+          },
+          {
+            "text": "De consulter son téléphone portable",
+            "isCorrect": false
+          },
+          {
+            "text": "De refuser de donner son identité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les droits immédiats en garde à vue sont : faire prévenir un proche, voir un médecin, être assisté par un avocat, et garder le silence."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-067",
+        "shortId": "Q-51FB31",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen refuse de participer au jury d'assises car il trouve la justice trop sévère. Son refus est-il recevable ?",
+        "choices": [
+          {
+            "text": "Oui, le jury est basé sur le volontariat",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la participation au jury d'assises est un devoir civique obligatoire, le refus non justifié est sanctionné",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, s'il fournit un certificat médical",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, mais il peut être remplacé par un proche",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le jury d'assises incarne la participation des citoyens à la justice. L'absence sans motif légitime est passible d'une amende de 3 750 euros."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-007",
+        "shortId": "Q-FD28E5",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un appareil électroménager tombe en panne 18 mois après l'achat. Quelle garantie pouvez-vous invoquer sans avoir à prouver l'existence du défaut au moment de l'achat ?",
+        "choices": [
+          {
+            "text": "La garantie des vices cachés",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie commerciale facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "La garantie légale de conformité",
+            "isCorrect": true
+          },
+          {
+            "text": "L'assurance habitation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La garantie légale de conformité dure 2 ans. Pour les biens neufs, le défaut est présumé exister au moment de l'achat durant cette période, dispensant le consommateur d'apporter la preuve technique."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-016",
+        "shortId": "Q-6AC4CE",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Conseil Constitutionnel a pour mission principale de :",
+        "choices": [
+          {
+            "text": "Conseiller le Président sur la politique étrangère",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les conflits entre voisins",
+            "isCorrect": false
+          },
+          {
+            "text": "Vérifier la régularité des élections et la conformité des lois à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Rédiger le budget de l'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il est le garant suprême de la Constitution. Il valide les élections nationales et peut censurer une loi si elle porte atteinte aux droits fondamentaux."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-018",
+        "shortId": "Q-CE6827",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le Préfet est le représentant de :",
+        "choices": [
+          {
+            "text": "Du Conseil départemental",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'État et du Gouvernement dans le département ou la région",
+            "isCorrect": true
+          },
+          {
+            "text": "Des maires du département",
+            "isCorrect": false
+          },
+          {
+            "text": "De l'Union Européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Nommé par le Président en Conseil des ministres, le préfet a la charge des intérêts nationaux, du contrôle administratif et du respect des lois."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-050",
+        "shortId": "Q-264B4B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez obtenir la nationalité française par naturalisation. Quelle est la condition de résidence habituelle en France ?",
+        "choices": [
+          {
+            "text": "5 ans de résidence habituelle en France au moment de la demande",
+            "isCorrect": true
+          },
+          {
+            "text": "3 ans de résidence continue",
+            "isCorrect": false
+          },
+          {
+            "text": "7 ans de résidence pour les non-francophones",
+            "isCorrect": false
+          },
+          {
+            "text": "10 ans de résidence légale",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour être naturalisé français, il faut justifier d'une résidence habituelle en France pendant les 5 années précédant la demande, sauf cas de réduction."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-049",
+        "shortId": "Q-F54A60",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen demande que sa commune finance la construction d'une mosquée. La mairie peut-elle accepter ?",
+        "choices": [
+          {
+            "text": "Oui, si la majorité des habitants sont de confession musulmane",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la loi de 1905 interdit aux collectivités publiques de financer les cultes",
+            "isCorrect": true
+          },
+          {
+            "text": "Oui, mais uniquement via un prêt à taux zéro",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le lieu de culte est classé monument historique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la loi de 1905 pose le principe que la République 'ne reconnaît, ne salarie ni ne subventionne aucun culte'. Le financement direct de lieux de culte par des fonds publics est interdit."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-062",
+        "shortId": "Q-BF5D82",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel titre historique porte le Ministre de la Justice en France ?",
+        "choices": [
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Grand Chancelier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Préfet de la Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Procureur général",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce titre vient de la mission historique de conserver les sceaux servant à authentifier les actes officiels."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-002",
+        "shortId": "Q-E4DF73",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En matière pénale, que signifie le principe « Non bis in idem » ?",
+        "choices": [
+          {
+            "text": "Nul ne peut être poursuivi ou puni pénalement deux fois pour les mêmes faits",
+            "isCorrect": true
+          },
+          {
+            "text": "Un accusé doit toujours être jugé par deux juges différents",
+            "isCorrect": false
+          },
+          {
+            "text": "Une peine de prison ne peut pas être cumulée avec une amende",
+            "isCorrect": false
+          },
+          {
+            "text": "Le silence de l'accusé vaut aveu de culpabilité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Ce principe fondamental interdit de juger une personne une seconde fois pour des faits pour lesquels elle a déjà été définitivement condamnée ou acquittée."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-013",
+        "shortId": "Q-531124",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux piliers de la laïcité en France selon la loi de 1905 ?",
+        "choices": [
+          {
+            "text": "L'interdiction des religions et l'athéisme d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La séparation des Églises et de l'État et la garantie de la liberté de conscience",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de croire en Dieu et la tolérance",
+            "isCorrect": false
+          },
+          {
+            "text": "Le financement des cultes par l'État et le contrôle des prêtres",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte (Séparation), mais elle garantit le libre exercice des cultes (Liberté)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-040",
+        "shortId": "Q-976FE9",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel nom porte le pouvoir chargé de diriger l'administration et d'appliquer les lois ?",
+        "choices": [
+          {
+            "text": "Le pouvoir législatif",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le pouvoir exécutif",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pouvoir constituant",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le pouvoir exécutif, composé du Président et du Gouvernement, assure la conduite de la politique nationale."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-009",
+        "shortId": "Q-35B6EB",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel règlement européen protège les données personnelles des citoyens ?",
+        "choices": [
+          {
+            "text": "Le Traité de Lisbonne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le RGPD (Règlement Général sur la Protection des Données)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Convention de Genève",
+            "isCorrect": false
+          },
+          {
+            "text": "Les accords de Schengen",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RGPD est le texte de référence en matière de protection des données au niveau européen. Il renforce les droits des personnes (accès, oubli, portabilité)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-001",
+        "shortId": "Q-746E23",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Pendant la Seconde Guerre mondiale, qu'appelait-on la « Résistance » ?",
+        "choices": [
+          {
+            "text": "L'armée régulière française qui n'avait pas été vaincue",
+            "isCorrect": false
+          },
+          {
+            "text": "Le gouvernement installé à Vichy",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ensemble des mouvements clandestins luttant contre l'occupation nazie et la collaboration",
+            "isCorrect": true
+          },
+          {
+            "text": "Une ligne de défense fortifiée dans l'Est de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Résistance regroupait les Français qui, clandestinement (maquis, réseaux), ont continué à se battre contre l'occupant allemand et le régime de Vichy, répondant à l'appel du Général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-021",
+        "shortId": "Q-35C6E6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Un employeur vous propose de vous payer uniquement en espèces sans fiche de paie pour 'éviter les charges'. Pourquoi est-ce dangereux pour vous ?",
+        "choices": [
+          {
+            "text": "C'est du travail dissimulé : vous ne cotisez pas pour la retraite, le chômage ni la santé",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est avantageux, vous gagnez plus",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est légal si le contrat est oral",
+            "isCorrect": false
+          },
+          {
+            "text": "Le risque est uniquement pour l'employeur",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le travail au noir (dissimulé) prive le salarié de toute protection sociale (accident du travail, maladie, retraite) et constitue une fraude fiscale et sociale sévèrement punie."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-006",
+        "shortId": "Q-C2838D",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que se passe-t-il si une motion de censure est votée par la majorité absolue de l'Assemblée nationale ?",
+        "choices": [
+          {
+            "text": "L'Assemblée nationale est dissoute automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président de la République doit démissionner",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre doit remettre la démission de son gouvernement",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi est rejetée mais le gouvernement reste en place",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "C'est le seul moyen pour l'Assemblée de renverser le gouvernement. Le Premier ministre est alors contraint de démissionner (Article 50)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-001",
+        "shortId": "Q-A0B6A8",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Placé en garde à vue, vous demandez l'assistance d'un avocat. Quelle est la règle applicable concernant sa présence ?",
+        "choices": [
+          {
+            "text": "L'avocat peut être présent dès la première heure pour les auditions et confrontations",
+            "isCorrect": true
+          },
+          {
+            "text": "L'avocat ne peut intervenir qu'après la 24ème heure de garde à vue",
+            "isCorrect": false
+          },
+          {
+            "text": "La présence de l'avocat est obligatoire uniquement pour les crimes, pas pour les délits",
+            "isCorrect": false
+          },
+          {
+            "text": "L'officier de police judiciaire peut refuser l'avocat si l'enquête l'exige",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis la réforme de la garde à vue, la personne a le droit d'être assistée par un avocat dès le début de la mesure (première heure) et lors de toutes les auditions et confrontations."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-017",
+        "shortId": "Q-3DF255",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et la Suisse ?",
+        "choices": [
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Vosges",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Massif Central",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le massif du Jura s'étend le long de la frontière suisse, au nord des Alpes."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-standard-005",
+        "shortId": "Q-B96C79",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est l'origine historique des couleurs du drapeau tricolore (Bleu, Blanc, Rouge) ?",
+        "choices": [
+          {
+            "text": "Le bleu et le rouge sont les couleurs de Paris, encadrant le blanc, couleur de la Royauté",
+            "isCorrect": true
+          },
+          {
+            "text": "Elles représentent les trois océans qui bordent la France",
+            "isCorrect": false
+          },
+          {
+            "text": "Elles symbolisent la Liberté (Bleu), l'Égalité (Blanc) et la Fraternité (Rouge)",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu et le rouge représentent le sang versé, le blanc la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Né pendant la Révolution, le drapeau symbolise l'union du peuple (Paris : bleu et rouge) et du monarque (Royauté : blanc). Il est devenu l'emblème national officiel."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-105",
+        "shortId": "Q-696DF5",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la devise officielle de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "La paix par le commerce",
+            "isCorrect": false
+          },
+          {
+            "text": "Tous pour un, un pour tous",
+            "isCorrect": false
+          },
+          {
+            "text": "Plus vite, plus haut, plus fort",
+            "isCorrect": false
+          },
+          {
+            "text": "Unie dans la diversité",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Unie dans la diversité devise montre que l'Europe s'enrichit de ses différentes cultures et traditions."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-situational-085",
+        "shortId": "Q-AA2E9C",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire et votre logement présente des problèmes de salubrité (humidité, moisissures). Quels sont vos recours ?",
+        "choices": [
+          {
+            "text": "Arrêter de payer le loyer immédiatement sans autre démarche",
+            "isCorrect": false
+          },
+          {
+            "text": "Signaler les désordres au propriétaire par courrier recommandé, puis saisir la mairie ou l'ARS si nécessaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Quitter le logement sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaliser vous-même les travaux et déduire le coût du loyer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le propriétaire doit fournir un logement décent. En cas de désordres, il faut d'abord le mettre en demeure, puis saisir les autorités (mairie, ARS) qui peuvent prendre des arrêtés d'insalubrité."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-008",
+        "shortId": "Q-3FE1A7",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la fonction actuelle du Panthéon à Paris ?",
+        "choices": [
+          {
+            "text": "Une église pour les mariages royaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Un musée d'art moderne",
+            "isCorrect": false
+          },
+          {
+            "text": "Le siège du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une nécropole laïque honorant les grands personnages de la Nation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Sur son fronton est inscrit : « Aux grands hommes, la patrie reconnaissante ». Voltaire, Rousseau, Victor Hugo, Marie Curie ou encore Simone Veil y reposent."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-principes-situational-062",
+        "shortId": "Q-21CFB6",
+        "level": "NAT",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Marianne figure sur les timbres et documents officiels. Que représente-t-elle ?",
+        "choices": [
+          {
+            "text": "Une reine de France historique",
+            "isCorrect": false
+          },
+          {
+            "text": "La République française et ses valeurs de liberté",
+            "isCorrect": true
+          },
+          {
+            "text": "La fondatrice de la Sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Une sainte patronne catholique de la France",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Marianne est l'allégorie de la République française. Elle incarne les valeurs de liberté et de démocratie, souvent représentée avec un bonnet phrygien symbolisant l'affranchissement."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-institutions-standard-004",
+        "shortId": "Q-E58601",
+        "level": "NAT",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "De combien de sénateurs le Sénat est-il composé ?",
+        "choices": [
+          {
+            "text": "577",
+            "isCorrect": false
+          },
+          {
+            "text": "300",
+            "isCorrect": false
+          },
+          {
+            "text": "348",
+            "isCorrect": true
+          },
+          {
+            "text": "450",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Sénat compte 348 sénateurs. Ils sont élus au suffrage universel indirect (par les « grands électeurs ») pour un mandat de 6 ans, renouvelable par moitié tous les 3 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-droits-standard-020",
+        "shortId": "Q-829C8B",
+        "level": "NAT",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Un salarié estime que sa situation de travail présente un danger grave et imminent. Quel droit peut-il exercer ?",
+        "choices": [
+          {
+            "text": "Le droit de démissionner sans préavis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de grève",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de réserve",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le droit de retrait permet au salarié de cesser le travail s'il a un motif raisonnable de penser qu'il court un danger grave et imminent pour sa vie ou sa santé. Aucune sanction ne peut être prise."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-standard-036",
+        "shortId": "Q-8CC329",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Avec son article « J'accuse...! », quel écrivain a défendu le capitaine Dreyfus, injustement condamné ?",
+        "choices": [
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          },
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Gustave Flaubert",
+            "isCorrect": false
+          },
+          {
+            "text": "Marcel Proust",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Publié en 1898, cet article a relancé l'Affaire Dreyfus, symbole de la lutte contre l'antisémitisme et pour la justice."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-001",
+        "shortId": "Q-3F9BC5",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+        "choices": [
+          {
+            "text": "Le Code civil",
+            "isCorrect": true
+          },
+          {
+            "text": "La Déclaration des droits de l'homme et du citoyen",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Édit de Nantes",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution de la Ve République",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Code civil (ou Code Napoléon) a été promulgué en 1804. Il unifie les lois civiles françaises et reste le fondement du droit civil français aujourd'hui."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-009",
+        "shortId": "Q-E737B0",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+        "choices": [
+          {
+            "text": "Le 18",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 17",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 15",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 3919",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 15 permet de joindre le SAMU pour une urgence médicale. Le 112 est le numéro d'urgence européen, mais le numéro spécifique du SAMU est bien le 15."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-002",
+        "shortId": "Q-2D2C25",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Qui a été président de la Ve République ?",
+        "choices": [
+          {
+            "text": "Jules Ferry",
+            "isCorrect": false
+          },
+          {
+            "text": "René Coty",
+            "isCorrect": false
+          },
+          {
+            "text": "Léon Blum",
+            "isCorrect": false
+          },
+          {
+            "text": "Valéry Giscard d'Estaing",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Valéry Giscard d'Estaing a été président de 1974 à 1981 sous la Ve République. René Coty était le dernier président de la IVe République, et Léon Blum une figure du Front Populaire (IIIe République)."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-010",
+        "shortId": "Q-2C3C55",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Auprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?",
+        "choices": [
+          {
+            "text": "À la mairie de leur domicile",
+            "isCorrect": true
+          },
+          {
+            "text": "Au rectorat",
+            "isCorrect": false
+          },
+          {
+            "text": "Auprès de la Caisse d'Allocations Familiales (CAF)",
+            "isCorrect": false
+          },
+          {
+            "text": "À la préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Pour une première inscription à l'école publique, les parents effectuent d'abord la démarche auprès de la mairie de leur commune. La mairie vérifie les pièces et délivre le document permettant l'inscription scolaire."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-005",
+        "shortId": "Q-8251DB",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Pourquoi l’année 1958 est importante pour la France ?",
+        "choices": [
+          {
+            "text": "C'est l'année de la naissance de la Ve République",
+            "isCorrect": true
+          },
+          {
+            "text": "Elle correspond à la création de l'Union européenne",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est l'année où les femmes ont obtenu le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "Elle marque la fin de la guerre d'Algérie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En 1958, une nouvelle Constitution a été adoptée par référendum, marquant la fin de la IVe République et le début de la Ve République sous l'impulsion du général de Gaulle."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-011",
+        "shortId": "Q-1663AE",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "En cas de divorce, qui exerce l'autorité parentale ?",
+        "choices": [
+          {
+            "text": "Le parent chez qui l'enfant réside",
+            "isCorrect": false
+          },
+          {
+            "text": "Le parent qui verse la pension alimentaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Le juge aux affaires familiales jusqu'à la majorité de l'enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Les deux parents, sauf décision contraire du juge",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La séparation ou le divorce n'entraîne pas, en principe, la perte de l'autorité parentale. Elle continue d'être exercée conjointement par les deux parents, sauf si le juge décide autrement dans l'intérêt de l'enfant."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-histoire-official-006",
+        "shortId": "Q-2C5960",
+        "level": "NAT",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Simone Veil est une figure importante de l’histoire française. Elle a notamment :",
+        "choices": [
+          {
+            "text": "Été la première femme Présidente de la République",
+            "isCorrect": false
+          },
+          {
+            "text": "Rédigé la Déclaration universelle des droits de l'homme",
+            "isCorrect": false
+          },
+          {
+            "text": "Fondé le mouvement de la Résistance intérieure",
+            "isCorrect": false
+          },
+          {
+            "text": "Fait adopter la loi légalisant l'interruption volontaire de grossesse (IVG)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Simone Veil, en tant que ministre de la Santé, a porté la loi de 1975 dépénalisant l'interruption volontaire de grossesse (IVG). Elle fut aussi la première présidente du Parlement européen."
+      }
+    },
+    {
+      "question": {
+        "id": "nat-vivre-official-012",
+        "shortId": "Q-7A8911",
+        "level": "NAT",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "OFFICIAL",
+        "statement": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+        "choices": [
+          {
+            "text": "L'allocation personnalisée au logement (APL)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'aide juridictionnelle",
+            "isCorrect": true
+          },
+          {
+            "text": "La protection universelle maladie (PUMA)",
+            "isCorrect": false
+          },
+          {
+            "text": "La complémentaire santé solidaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'aide juridictionnelle permet, sous conditions de ressources, la prise en charge totale ou partielle des frais de justice, notamment les honoraires d'avocat. Les autres dispositifs proposés n'ont pas cet objet."
+      }
+    }
+  ]
+}

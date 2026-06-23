@@ -1,0 +1,1369 @@
+{
+  "slug": "exam-cr-standard-16",
+  "level": "CR",
+  "kind": "exam",
+  "section": null,
+  "count": 40,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-principes-standard-061",
+        "shortId": "Q-97D824",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'autorité parentale ?",
+        "choices": [
+          {
+            "text": "L'obligation pour l'enfant d'obéir jusqu'à 30 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Un ensemble de droits et devoirs dans l'intérêt de l'enfant",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de punir physiquement son enfant",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide financière versée par la mairie",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Elle appartient aux parents pour protéger l'enfant dans sa santé, sa sécurité et sa moralité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-008",
+        "shortId": "Q-E6C73D",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes au chômage et touchez l'ARE. Avez-vous le droit d'être bénévole dans une association ?",
+        "choices": [
+          {
+            "text": "Oui, tant que cela ne vous empêche pas de chercher activement un emploi",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, cela est considéré comme du travail dissimulé",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, vous devez être disponible 24h/24",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais vos allocations seront réduites",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le bénévolat est autorisé. La seule condition est que l'activité ne se substitue pas à un emploi salarié et que le chômeur reste disponible pour ses recherches d'emploi."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-006",
+        "shortId": "Q-BC1795",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Parmi ces affirmations concernant le drapeau tricolore, laquelle est juridiquement exacte selon la Constitution de la Ve République ?",
+        "choices": [
+          {
+            "text": "Il peut être modifié par simple décret du Premier ministre",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est l'unique emblème national de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "Sa présence est facultative sur le fronton des mairies",
+            "isCorrect": false
+          },
+          {
+            "text": "Le bleu doit obligatoirement être un bleu 'roi'",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'article 2 de la Constitution dispose que 'L'emblème national est le drapeau tricolore, bleu, blanc, rouge'. Il symbolise l'unité nationale et ne peut être altéré sans une révision constitutionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-016",
+        "shortId": "Q-721E2E",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous êtes locataire. Pouvez-vous repeindre les murs en noir ?",
+        "choices": [
+          {
+            "text": "Non, c'est interdit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, le propriétaire ne peut rien dire",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement avec un accord écrit",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, mais le propriétaire pourra exiger une remise en état (couleur neutre) à votre départ à vos frais",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le locataire peut décorer son logement. Cependant, des couleurs excentriques (empêchant une relocation normale) peuvent justifier une retenue sur le dépôt de garantie pour repeindre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-014",
+        "shortId": "Q-55A696",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "La Journée Défense et Citoyenneté (JDC) s'inscrit dans quel cadre institutionnel ?",
+        "choices": [
+          {
+            "text": "Le service militaire obligatoire rétabli en 2024",
+            "isCorrect": false
+          },
+          {
+            "text": "Le parcours de citoyenneté obligatoire pour tout jeune de nationalité française",
+            "isCorrect": true
+          },
+          {
+            "text": "Le recrutement exclusif de l'armée de terre",
+            "isCorrect": false
+          },
+          {
+            "text": "Une option facultative pour obtenir des points au baccalauréat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La JDC est la troisième étape du 'Parcours de citoyenneté' (recensement, enseignement de défense, JDC). Elle est obligatoire pour tous les Français, filles et garçons, avant 25 ans."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-047",
+        "shortId": "Q-E5F8C1",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous venez d'avoir 18 ans et vous avez fait votre recensement à 16 ans. Pour voter :",
+        "choices": [
+          {
+            "text": "Vous êtes inscrit d'office (automatiquement) sur les listes électorales",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous devez faire une démarche en ligne sur le site de l'ANTS",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez vous rendre en mairie avec un justificatif de domicile récent",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez d'abord accomplir la Journée Défense et Citoyenneté",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Grâce au recensement citoyen effectué à 16 ans, l'inscription sur les listes électorales est automatique à la majorité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-024",
+        "shortId": "Q-2750F1",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le don du sang en France est régi par le principe de :",
+        "choices": [
+          {
+            "text": "Vente régulée par l'État pour financer les hôpitaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Priorité nationale stricte pour les donneurs de nationalité française",
+            "isCorrect": false
+          },
+          {
+            "text": "Sélection des donneurs par appartenance religieuse ou philosophique",
+            "isCorrect": false
+          },
+          {
+            "text": "Anonymat, bénévolat et absence de profit",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le corps humain est hors commerce. Le don de sang est un acte de solidarité fraternelle qui doit rester gratuit et anonyme pour éviter toute exploitation commerciale de la santé humaine."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-013",
+        "shortId": "Q-84D686",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quel principe constitutionnel se rattache le devoir de porter secours à autrui et de contribuer aux charges publiques ?",
+        "choices": [
+          {
+            "text": "Le principe de liberté individuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de subsidiarité territoriale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le principe de fraternité et de solidarité nationale",
+            "isCorrect": true
+          },
+          {
+            "text": "Le principe de hiérarchie des normes",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La fraternité, devise de la République, a acquis une valeur constitutionnelle (décision du Conseil constitutionnel de 2018). Elle fonde le devoir de solidarité, notamment à travers l'impôt et l'assistance aux personnes vulnérables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-073",
+        "shortId": "Q-6BFEC3",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel fleuve naissant en Suisse traverse les Alpes avant de se jeter dans la Méditerranée par un vaste delta ?",
+        "choices": [
+          {
+            "text": "Le Rhin",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Danube",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Escaut",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Rhône",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Rhône est le fleuve français au débit le plus puissant, utilisé pour l'énergie hydroélectrique et le transport fluvial."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-024",
+        "shortId": "Q-B0CAB0",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la « Question Prioritaire de Constitutionnalité » (QPC) ?",
+        "choices": [
+          {
+            "text": "Un examen pour devenir magistrat",
+            "isCorrect": false
+          },
+          {
+            "text": "Une question posée par un citoyen à son député",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de contester la conformité d'une loi déjà en vigueur à la Constitution",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réunion secrète des ministres à l'Élysée",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Introduite en 2010, la QPC permet à tout citoyen lors d'un procès de soutenir qu'une disposition législative porte atteinte aux droits garantis par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-029",
+        "shortId": "Q-653687",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Depuis la loi du 13 avril 2016, quelle est la position de la France concernant la prostitution ?",
+        "choices": [
+          {
+            "text": "La légalisation des maisons closes sous contrôle de l'État",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indifférence juridique totale face à l'acte sexuel tarifé",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de l'activité pour la personne prostituée (délit de racolage)",
+            "isCorrect": false
+          },
+          {
+            "text": "La pénalisation du client et l'accompagnement des personnes prostituées",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La France a adopté un modèle abolitionniste : l'achat d'un acte sexuel est interdit (sanctionné par une amende), tandis que la personne prostituée est considérée comme une victime à protéger et non plus comme une délinquante."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-030",
+        "shortId": "Q-44B3A1",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la principale ressource agricole de l'île de La Réunion, historiquement liée à l'économie de plantation ?",
+        "choices": [
+          {
+            "text": "Le café arabica",
+            "isCorrect": false
+          },
+          {
+            "text": "La canne à sucre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le giroflier",
+            "isCorrect": false
+          },
+          {
+            "text": "Le poivre noir",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La canne à sucre reste le moteur de l'agriculture réunionnaise, utilisée pour la production de sucre et de rhum."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-076",
+        "shortId": "Q-4B87AA",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un journal publie une caricature qui critique sévèrement une religion. Des fidèles demandent l'interdiction du journal. Que dit le droit ?",
+        "choices": [
+          {
+            "text": "Le journal peut être poursuivi s'il trouble l'ordre public, mais l'interdiction est rare",
+            "isCorrect": false
+          },
+          {
+            "text": "La critique des religions est protégée par la liberté d'expression, seule l'incitation à la haine est illicite",
+            "isCorrect": true
+          },
+          {
+            "text": "Le journal doit obtenir une autorisation préalable du culte concerné",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État doit saisir systématiquement les exemplaires pour vérification",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "En France, le blasphème n'est pas un délit. La critique des idées et des croyances est protégée par la liberté d'expression. Seules l'injure, la diffamation ou l'incitation à la haine dirigées contre des personnes ou des groupes sont punissables."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-030",
+        "shortId": "Q-99AF6D",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle collectivité est responsable des transports scolaires (hors agglomération) ?",
+        "choices": [
+          {
+            "text": "Le département",
+            "isCorrect": false
+          },
+          {
+            "text": "La région",
+            "isCorrect": true
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La commune",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis la loi NOTRe, la région est responsable de l'organisation des transports scolaires interurbains, assurant le déplacement des élèves hors agglomérations."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-044",
+        "shortId": "Q-185B67",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'article 39 de la Constitution dispose que l'initiative des lois appartient concurremment :",
+        "choices": [
+          {
+            "text": "Au Premier ministre et aux membres du Parlement",
+            "isCorrect": true
+          },
+          {
+            "text": "Au Président de la République et au Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Au Conseil constitutionnel et au peuple français",
+            "isCorrect": false
+          },
+          {
+            "text": "Aux préfets de région et aux maires",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "On distingue les « projets de loi » (issus du Premier ministre) des « propositions de loi » (issues des députés ou sénateurs). Le Président n'a pas l'initiative directe, il passe par le Premier ministre."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-003",
+        "shortId": "Q-4A1740",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs (exécutif, législatif, judiciaire) dans son ouvrage 'De l'esprit des lois' ?",
+        "choices": [
+          {
+            "text": "Montesquieu",
+            "isCorrect": true
+          },
+          {
+            "text": "Jean-Jacques Rousseau",
+            "isCorrect": false
+          },
+          {
+            "text": "Denis Diderot",
+            "isCorrect": false
+          },
+          {
+            "text": "Condorcet",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Montesquieu préconise que 'le pouvoir arrête le pouvoir'. Sa théorie a directement influencé la rédaction des constitutions modernes, notamment celle des États-Unis et de la France."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-009",
+        "shortId": "Q-03D679",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "L'inscription au registre d'état civil (acte de naissance) est une obligation qui garantit :",
+        "choices": [
+          {
+            "text": "Le droit à la propriété privée",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection de la vie privée",
+            "isCorrect": false
+          },
+          {
+            "text": "La personnalité juridique et l'accès aux droits de l'individu",
+            "isCorrect": true
+          },
+          {
+            "text": "L'exemption de l'impôt sur le revenu",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil permet d'identifier officiellement une personne devant la loi. Sans acte de naissance, un individu ne peut exercer aucun de ses droits civils ou sociaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-056",
+        "shortId": "Q-0274DB",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution représente l'intérêt général de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le Conseil de l'UE",
+            "isCorrect": false
+          },
+          {
+            "text": "La Commission européenne",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Parlement européen",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de justice",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Commission européenne est l'institution qui représente et défend l'intérêt général de l'Union européenne dans son ensemble, indépendamment des intérêts nationaux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-024",
+        "shortId": "Q-AA7BCC",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : À la campagne, le coq du voisin chante tôt. Pouvez-vous obtenir son interdiction en justice ?",
+        "choices": [
+          {
+            "text": "Oui, si le bruit dépasse les normes de décibels légales",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, si vous étiez installé dans les lieux avant le propriétaire du coq",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, sauf si le coq chante entre 22h et 7h du matin",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, les bruits ruraux (coqs, cloches) sont protégés par la loi sur le « patrimoine sensoriel »",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La loi de 2021 protège les bruits et odeurs caractéristiques des milieux ruraux pour éviter les procès abusifs des néo-ruraux."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-011",
+        "shortId": "Q-15237B",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel département d'outre-mer possède la plus longue frontière terrestre de la France avec un pays étranger ?",
+        "choices": [
+          {
+            "text": "La Guyane",
+            "isCorrect": true
+          },
+          {
+            "text": "Mayotte",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": false
+          },
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La Guyane partage une frontière de 730 km avec le Brésil, ce qui constitue la plus longue frontière terrestre de la République française."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-031",
+        "shortId": "Q-72F373",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organe juridictionnel est chargé d'unifier l'interprétation de la loi judiciaire sur tout le territoire ?",
+        "choices": [
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil constitutionnel",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": true
+          },
+          {
+            "text": "La Cour européenne des droits de l'homme",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Cour de cassation est la plus haute juridiction de l'ordre judiciaire. Elle ne rejuge pas les faits mais vérifie si la loi a été correctement appliquée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-074",
+        "shortId": "Q-CFF766",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année le Conseil européen est-il devenu une institution officielle ?",
+        "choices": [
+          {
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "text": "2009 (Traité de Lisbonne)",
+            "isCorrect": true
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          },
+          {
+            "text": "1992",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Conseil européen a obtenu le statut officiel d'institution de l'Union avec l'entrée en vigueur du traité de Lisbonne en 2009."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-064",
+        "shortId": "Q-E946B2",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous souhaitez vous marier. À la mairie, l'officier suspecte un « mariage blanc » (pour les papiers). Que peut-il faire ?",
+        "choices": [
+          {
+            "text": "Reporter la cérémonie de 30 jours pour vérification",
+            "isCorrect": false
+          },
+          {
+            "text": "Demander des preuves de vie commune avant de célébrer",
+            "isCorrect": false
+          },
+          {
+            "text": "Refuser directement de célébrer le mariage",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir le Procureur de la République pour enquête et éventuellement s'opposer au mariage",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le maire, en tant qu'officier d'état civil, peut saisir le procureur s'il existe des indices sérieux que le mariage n'a pas d'intention matrimoniale réelle."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-026",
+        "shortId": "Q-59E453",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année l'Alsace et la Lorraine ont-elles été restituées à la France après la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "1871",
+            "isCorrect": false
+          },
+          {
+            "text": "1919",
+            "isCorrect": true
+          },
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1924",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le traité de Versailles de 1919 a acté le retour de ces territoires perdus en 1871 au profit de l'Allemagne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-018",
+        "shortId": "Q-72966E",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée de validité du nouveau format 'carte bancaire' du permis de conduire français (catégories A et B) ?",
+        "choices": [
+          {
+            "text": "10 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "15 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "À vie",
+            "isCorrect": false
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le titre de conduite (le document physique) doit être renouvelé tous les 15 ans, sans nouvel examen médical ou de conduite (pour les voitures et motos)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-040",
+        "shortId": "Q-3349E3",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Quelle est la définition républicaine du communautarisme, considéré comme une menace pour l'unité ?",
+        "choices": [
+          {
+            "text": "Le fait de vivre dans un quartier avec des voisins partageant la même origine géographique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'apprentissage d'une langue régionale comme le breton ou l'alsacien à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Le partage de repas traditionnels ou familiaux lors des fêtes de fin d'année",
+            "isCorrect": false
+          },
+          {
+            "text": "La volonté de faire prévaloir les règles d'un groupe spécifique sur les lois communes de la Nation",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La République est 'une et indivisible'. Le communautarisme est critiqué lorsqu'il mène à une sécession civique où l'individu privilégie des normes religieuses ou ethniques au détriment des lois républicaines."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-038",
+        "shortId": "Q-40CA23",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En quelle année a été créée la CECA (Communauté européenne du charbon et de l'acier) ?",
+        "choices": [
+          {
+            "text": "1945",
+            "isCorrect": false
+          },
+          {
+            "text": "1951",
+            "isCorrect": true
+          },
+          {
+            "text": "1989",
+            "isCorrect": false
+          },
+          {
+            "text": "1957",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La CECA (Communauté européenne du charbon et de l'acier) a été créée par le traité de Paris en 1951. C'est la première étape concrète de la construction européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-017",
+        "shortId": "Q-709F61",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Dans quel cas une personne peut-elle saisir le Défenseur des droits ?",
+        "choices": [
+          {
+            "text": "Pour contester une amende de stationnement déjà payée",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour obtenir une aide financière d'urgence du département",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour dénoncer une discrimination ou un non-respect de la déontologie par des forces de sécurité",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour demander l'annulation d'un mariage civil jugé non valide",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le Défenseur des droits a des compétences larges : lutte contre les discriminations, protection des droits de l'enfant, respect de la déontologie par les professionnels de la sécurité et défense des droits des usagers des services publics."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-070",
+        "shortId": "Q-9155BF",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le statut administratif de la Nouvelle-Calédonie au sein de la République française ?",
+        "choices": [
+          {
+            "text": "Département d'outre-mer",
+            "isCorrect": false
+          },
+          {
+            "text": "Région d'outre-mer",
+            "isCorrect": false
+          },
+          {
+            "text": "Territoire d'outre-mer (ancien statut)",
+            "isCorrect": false
+          },
+          {
+            "text": "Collectivité d'outre-mer à statut particulier (sui generis)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La Nouvelle-Calédonie dispose d'une autonomie étendue et d'une citoyenneté propre dans le cadre de l'accord de Nouméa."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-005",
+        "shortId": "Q-2F0595",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la durée maximale légale d'un contrat de travail à durée déterminée (CDD) classique, renouvellements compris ?",
+        "choices": [
+          {
+            "text": "18 mois",
+            "isCorrect": true
+          },
+          {
+            "text": "5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "6 mois",
+            "isCorrect": false
+          },
+          {
+            "text": "12 mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "En règle générale, un CDD ne peut excéder 18 mois, renouvellements inclus. Certaines dérogations existent selon le motif du contrat."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-standard-030",
+        "shortId": "Q-D012AC",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le « délit d'entrave à l'IVG » ?",
+        "choices": [
+          {
+            "text": "Le fait pour une femme de refuser une intervention médicale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le fait d'empêcher, par des pressions ou des menaces, l'accès à l'avortement",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation pour un médecin de pratiquer l'intervention",
+            "isCorrect": false
+          },
+          {
+            "text": "Une taxe imposée sur les cliniques spécialisées",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La loi protège la liberté des femmes en punissant ceux qui tentent de les empêcher d'accéder à l'interruption volontaire de grossesse."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-048",
+        "shortId": "Q-AF3153",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "La Martinique est-elle une région française ?",
+        "choices": [
+          {
+            "text": "Non, c'est un territoire d'outre-mer (TOM)",
+            "isCorrect": false
+          },
+          {
+            "text": "Oui, c'est une région d'outre-mer",
+            "isCorrect": true
+          },
+          {
+            "text": "C'est un département mais pas une région",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, elle a un statut d'autonomie renforcée hors UE",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Martinique est une Collectivité Territoriale Unique qui exerce à la fois les compétences d'un département et d'une région d'outre-mer (DROM). Elle fait pleinement partie de l'UE (région ultrapériphérique)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-situational-001",
+        "shortId": "Q-F9DFA5",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Vous recevez une convocation pour témoigner lors d'un procès. Votre employeur refuse votre absence. Que dit la loi ?",
+        "choices": [
+          {
+            "text": "L'employeur peut refuser si l'activité de l'entreprise est menacée",
+            "isCorrect": false
+          },
+          {
+            "text": "Vous devez poser un jour de congé payé pour y aller",
+            "isCorrect": false
+          },
+          {
+            "text": "L'employeur est obligé de vous libérer pour témoigner, c'est un devoir civique (l'absence est justifiée)",
+            "isCorrect": true
+          },
+          {
+            "text": "Vous pouvez vous faire représenter par un avocat",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le témoignage en justice est une obligation légale. L'employeur ne peut pas s'y opposer et doit autoriser l'absence, qui est considérée comme du temps de travail effectif ou une absence autorisée selon les cas, mais ne peut être sanctionnée."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-010",
+        "shortId": "Q-7385D0",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du bassin hydrographique de l'Adour par rapport aux autres grands fleuves français ?",
+        "choices": [
+          {
+            "text": "Il présente un régime pluvio-nival avec une forte influence océanique",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est le seul fleuve dont l'embouchure a été déviée artificiellement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne possède aucun affluent majeur prenant sa source en Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est entièrement canalisé sur la totalité de son parcours navigable",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'Adour draine les eaux du Piémont pyrénéen. Son débit est marqué par la fonte des neiges et les fortes précipitations atlantiques, causant des crues rapides."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-052",
+        "shortId": "Q-CEC691",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'impôt sur le revenu collecté directement sur le salaire chaque mois ?",
+        "choices": [
+          {
+            "text": "La CSG",
+            "isCorrect": false
+          },
+          {
+            "text": "La taxe sur les salaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Les cotisations patronales",
+            "isCorrect": false
+          },
+          {
+            "text": "Le prélèvement à la source",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Depuis 2019, l'impôt sur le revenu est prélevé au moment du versement du revenu (salaire, retraite)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-principes-situational-018",
+        "shortId": "Q-E33607",
+        "level": "CR",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Le principe de Fraternité a été reconnu comme principe de valeur constitutionnelle par le Conseil Constitutionnel en 2018. Quelles en sont les conséquences ?",
+        "choices": [
+          {
+            "text": "L'obligation pour chaque citoyen de verser 10% de ses revenus à des œuvres caritatives",
+            "isCorrect": false
+          },
+          {
+            "text": "La protection juridique de 'l'aide humanitaire' apportée à autrui dans un but désintéressé, même en situation irrégulière",
+            "isCorrect": true
+          },
+          {
+            "text": "La suppression immédiate de toutes les frontières nationales de la France",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction de toute critique envers les choix de vie de ses concitoyens",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans sa décision sur le 'délit de solidarité', le Conseil Constitutionnel a jugé qu'il découle du principe de fraternité la liberté d'aider autrui dans un but humanitaire, sans considération de la régularité de son séjour."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-institutions-standard-007",
+        "shortId": "Q-612E47",
+        "level": "CR",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quels sont les deux grands ordres de juridiction en France ?",
+        "choices": [
+          {
+            "text": "La justice locale et la justice nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'ordre judiciaire et l'ordre administratif",
+            "isCorrect": true
+          },
+          {
+            "text": "L'ordre civil et l'ordre militaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La justice des mineurs et la justice des majeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le système judiciaire français est divisé en deux ordres distincts : l'ordre judiciaire (litiges entre personnes, pénal) et l'ordre administratif (litiges impliquant l'administration)."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-droits-standard-022",
+        "shortId": "Q-84BB46",
+        "level": "CR",
+        "section": "droits-et-devoirs",
+        "sectionLabel": "Droits et devoirs",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le droit à l'instruction est un droit fondamental en France. Jusqu'à quel âge l'instruction est-elle obligatoire ?",
+        "choices": [
+          {
+            "text": "14 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "16 ans",
+            "isCorrect": true
+          },
+          {
+            "text": "18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "12 ans",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'instruction est obligatoire de 3 à 16 ans révolus. Depuis 2020, une obligation de formation (scolarité, apprentissage ou emploi) est étendue jusqu'à 18 ans, mais il ne faut pas confondre « instruction » et « formation »."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-histoire-standard-013",
+        "shortId": "Q-E8A145",
+        "level": "CR",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain a publié 'J'accuse...!' dans le journal L'Aurore pour défendre le capitaine Dreyfus contre l'antisémitisme ?",
+        "choices": [
+          {
+            "text": "Émile Zola",
+            "isCorrect": true
+          },
+          {
+            "text": "Anatole France",
+            "isCorrect": false
+          },
+          {
+            "text": "Marcel Proust",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La lettre ouverte d'Émile Zola au Président de la République a provoqué une crise politique majeure et a conduit à la révision du procès Dreyfus."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-047",
+        "shortId": "Q-149460",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas d'accident du travail, dans quel délai le salarié doit-il prévenir son employeur ?",
+        "choices": [
+          {
+            "text": "Dans les 24 heures (sauf cas de force majeure)",
+            "isCorrect": true
+          },
+          {
+            "text": "Dans la semaine qui suit",
+            "isCorrect": false
+          },
+          {
+            "text": "Après la guérison totale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le délai n'a pas d'importance",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le salarié doit informer l'employeur le plus rapidement possible pour que ce dernier puisse déclarer l'accident à la CPAM."
+      }
+    }
+  ]
+}

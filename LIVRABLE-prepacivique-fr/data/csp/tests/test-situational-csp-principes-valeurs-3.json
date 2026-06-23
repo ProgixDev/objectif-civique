@@ -1,0 +1,689 @@
+{
+  "slug": "test-situational-csp-principes-valeurs-3",
+  "level": "CSP",
+  "kind": "section",
+  "section": "principes-valeurs",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-principes-situational-041",
+        "shortId": "Q-EFB550",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un témoin lors d'un mariage civil à la mairie refuse de signer l'acte car il ne reconnaît pas l'autorité de l'État. Quel est l'effet sur le mariage ?",
+        "choices": [
+          {
+            "text": "Le mariage ne peut pas être célébré car la présence et la signature de témoins valides sont obligatoires pour l'état civil.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le maire peut signer à la place du témoin sans que cela ne pose de problème légal.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage est validé uniquement si les mariés acceptent de payer une amende pour le témoin.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le mariage civil est automatiquement validé par le maire sans témoin si les mariés signent une décharge.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les actes d'état civil sont des documents légaux stricts. Le respect des procédures est nécessaire pour la validité juridique du mariage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-042",
+        "shortId": "Q-8899A8",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est la différence entre le 'droit de vote' et le 'droit d'éligibilité'.",
+        "choices": [
+          {
+            "text": "Le droit de vote permet de choisir ses représentants, le droit d'éligibilité permet de se présenter soi-même comme candidat.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de vote est acquis à 18 ans, tandis que le droit d'éligibilité est acquis à 25 ans pour toutes les élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de vote s'exerce lors des élections locales uniquement, le droit d'éligibilité concerne les élections nationales.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il n'y a aucune différence, ce sont deux mots pour désigner la même action.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La démocratie permet non seulement de voter mais aussi de participer activement au gouvernement en étant candidat."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-043",
+        "shortId": "Q-3C96E0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si la France est une monarchie. Que répond la Constitution de 1958 ?",
+        "choices": [
+          {
+            "text": "La France est une République indivisible, laïque, démocratique et sociale.",
+            "isCorrect": true
+          },
+          {
+            "text": "La France est un Empire dirigé par un monarque élu pour 5 ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "La France est une fédération de royaumes autonomes sous l'autorité d'un roi.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution ne définit pas la forme de l'État pour rester neutre.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'article 1er définit la nature profonde de l'État français : c'est une République où le pouvoir n'est pas héréditaire."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-044",
+        "shortId": "Q-4E7FB0",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un policier demande à un citoyen de circuler lors d'un rassemblement non autorisé. Quelle obligation a le citoyen ?",
+        "choices": [
+          {
+            "text": "Il peut rester sur place s'il estime la mesure excessive",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut différer l'ordre jusqu'à l'arrivée d'un supérieur",
+            "isCorrect": false
+          },
+          {
+            "text": "Il peut négocier un délai avant de se déplacer",
+            "isCorrect": false
+          },
+          {
+            "text": "Il a l'obligation d'obtempérer aux ordres légaux des forces de l'ordre pour garantir la sécurité publique.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Lorsqu'un ordre de police est légal, il doit être exécuté immédiatement pour préserver l'ordre public. Une contestation sur la légalité se fait ensuite devant l'autorité compétente, et non par un refus sur place."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-045",
+        "shortId": "Q-55EB8D",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Pourquoi l'élection présidentielle en France se déroule-t-elle au 'suffrage universel direct' ?",
+        "choices": [
+          {
+            "text": "Pour que chaque citoyen puisse voter personnellement pour choisir le Chef de l'État.",
+            "isCorrect": true
+          },
+          {
+            "text": "Pour limiter le nombre de votants aux seules personnes ayant fait des études supérieures.",
+            "isCorrect": false
+          },
+          {
+            "text": "Pour que les maires choisissent le Président à la place des citoyens ordinaires.",
+            "isCorrect": false
+          },
+          {
+            "text": "C'est un mode de scrutin où le gagnant est tiré au sort parmi les députés.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Depuis 1962, le Président est élu par tous les citoyens, ce qui lui donne une grande légitimité démocratique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-046",
+        "shortId": "Q-C9F19F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous parle de l'égalité 'femme-homme' en France. Est-elle inscrite dans la Constitution ?",
+        "choices": [
+          {
+            "text": "Oui, la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.",
+            "isCorrect": true
+          },
+          {
+            "text": "Non, l'égalité est un principe uniquement moral qui n'a aucune valeur juridique.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'égalité est réservée uniquement au domaine de la vie privée et familiale.",
+            "isCorrect": false
+          },
+          {
+            "text": "La Constitution prévoit que les hommes ont toujours la priorité pour les postes de direction.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La parité et l'égalité professionnelle sont des objectifs constitutionnels pour lutter contre les discriminations historiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-047",
+        "shortId": "Q-AE0271",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir ce que signifie 'l'indivisibilité' de la République concernant les territoires d'outre-mer.",
+        "choices": [
+          {
+            "text": "Cela signifie que les départements d'outre-mer font partie intégrante de la République française au même titre que l'Hexagone.",
+            "isCorrect": true
+          },
+          {
+            "text": "Cela signifie que les îles n'ont pas le droit d'avoir leurs propres maires.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'indivisibilité interdit aux habitants des îles de parler une autre langue que le français.",
+            "isCorrect": false
+          },
+          {
+            "text": "Cela veut dire que la France ne peut pas vendre d'îles à d'autres pays sans l'accord de l'ONU.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La République est une. Les citoyens d'outre-mer ont les mêmes droits et devoirs que ceux de la métropole."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-048",
+        "shortId": "Q-F1AD3F",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un député est poursuivi pour ses opinions exprimées lors d'un débat à l'Assemblée. Quelle protection possède-t-il ?",
+        "choices": [
+          {
+            "text": "Il peut être emprisonné immédiatement sans jugement par le Président.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il perd ses droits de vote à l'Assemblée pour une durée de dix ans.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer une amende à chaque fois qu'il prend la parole devant ses collègues.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'immunité parlementaire garantit qu'il ne peut être poursuivi pour ses votes ou opinions dans l'exercice de ses fonctions.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'immunité assure que les représentants du peuple peuvent s'exprimer librement sans crainte de pressions judiciaires ou politiques."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-049",
+        "shortId": "Q-A9CE94",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelle est la règle concernant le port du voile intégral (burqa, niqab) dans l'espace public en France ?",
+        "choices": [
+          {
+            "text": "Il est interdit par la loi car la dissimulation du visage entrave les exigences de la sécurité publique et de la vie en société.",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est obligatoire pour toutes les femmes d'origine étrangère par respect pour leurs traditions.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est autorisé uniquement dans les parcs publics et les jardins privés de l'État.",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi l'autorise si la personne porte un badge avec son nom et son adresse.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La loi de 2010 interdit la dissimulation du visage dans l'espace public pour permettre l'identification et garantir les principes de la vie en commun."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-050",
+        "shortId": "Q-F8F357",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si la France peut rétablir la peine de mort par une simple loi. Que répond le droit actuel ?",
+        "choices": [
+          {
+            "text": "Oui, si le Parlement vote à la majorité absolue lors d'une session de nuit.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, l'abolition de la peine de mort est inscrite dans la Constitution et garantie par des traités européens.",
+            "isCorrect": true
+          },
+          {
+            "text": "La peine de mort existe toujours mais elle n'est appliquée que pour les crimes économiques.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le rétablissement est automatique si le taux de criminalité augmente pendant trois ans.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Depuis 2007, l'interdiction de la peine de mort est inscrite à l'article 66-1 de la Constitution française."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-051",
+        "shortId": "Q-1C7877",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un maire veut interdire l'installation d'un boucher dans sa ville car il ne partage pas son régime alimentaire. Est-ce légal ?",
+        "choices": [
+          {
+            "text": "Le maire peut choisir les commerces en fonction de ses goûts personnels et de ceux de sa famille.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le commerce est libre : un maire ne peut s'opposer à une installation commerciale sans motif d'urbanisme ou de sécurité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Seuls les commerces vendant des produits typiquement français sont autorisés dans les villages.",
+            "isCorrect": false
+          },
+          {
+            "text": "Toute nouvelle boucherie doit obtenir l'autorisation de l'évêque du diocèse local.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté de commerce et d'industrie est un principe juridique. L'administration ne peut pas interférer avec les choix économiques privés."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-052",
+        "shortId": "Q-E30AB9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quelle est l'utilité du 'recensement citoyen' à l'âge de 16 ans. Quel est son but principal ?",
+        "choices": [
+          {
+            "text": "Permettre l'inscription automatique sur les listes électorales et la convocation à la Journée Défense et Citoyenneté (JDC).",
+            "isCorrect": true
+          },
+          {
+            "text": "Vérifier que le jeune citoyen a validé ses compétences civiques au collège.",
+            "isCorrect": false
+          },
+          {
+            "text": "Obliger le jeune à faire un stage de découverte dans la fonction publique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Permettre à l'État de planifier les ressources éducatives nécessaires.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le recensement citoyen à 16 ans permet l'inscription automatique sur les listes électorales à 18 ans et la convocation à la Journée Défense et Citoyenneté (JDC)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-053",
+        "shortId": "Q-2F9BAA",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande quel est l'emblème national de la France défini par la Constitution. Lequel est-ce ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore, bleu, blanc, rouge.",
+            "isCorrect": true
+          },
+          {
+            "text": "Le coq gaulois sur fond tricolore.",
+            "isCorrect": false
+          },
+          {
+            "text": "Le sceau royal avec la fleur de lys.",
+            "isCorrect": false
+          },
+          {
+            "text": "La couronne de laurier héritée de l'Empire napoléonien.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le drapeau tricolore est l'unique emblème national défini à l'article 2 de la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-054",
+        "shortId": "Q-315E12",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen veut savoir si la police peut entrer chez lui à n'importe quelle heure. Que prévoit la protection du domicile ?",
+        "choices": [
+          {
+            "text": "Le domicile est inviolable : les perquisitions sont strictement encadrées par la loi et soumises à des horaires précis.",
+            "isCorrect": true
+          },
+          {
+            "text": "La police a les clés de tous les appartements pour assurer la sécurité nationale en temps réel.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les perquisitions sont libres et illimitées pour toute personne n'ayant pas la nationalité française.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'inviolabilité du domicile ne concerne que les maisons individuelles, pas les appartements en location.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La vie privée est protégée. Sauf crime flagrant ou terrorisme, les policiers doivent respecter des cadres légaux stricts (horaires, mandat)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-055",
+        "shortId": "Q-BA06B9",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande pourquoi il est obligatoire de déclarer sa naissance à la mairie. Quelle est la fonction de l'état civil ?",
+        "choices": [
+          {
+            "text": "Permettre à l'État de taxer les parents dès l'arrivée de l'enfant dans le foyer.",
+            "isCorrect": false
+          },
+          {
+            "text": "Informer les banques pour ouvrir automatiquement un compte d'épargne obligatoire.",
+            "isCorrect": false
+          },
+          {
+            "text": "Établir l'existence juridique de la personne et lui garantir ses droits et sa nationalité.",
+            "isCorrect": true
+          },
+          {
+            "text": "Donner au nouveau-né un numéro de sécurité sociale provisoire en attendant sa première vaccination.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état civil est la base de l'identité citoyenne. Sans acte de naissance, une personne n'a pas d'existence légale et ne peut accéder à aucun droit."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-056",
+        "shortId": "Q-850FC4",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Quelle est la mission principale du 'Conseil supérieur de l'audiovisuel' (devenu l'Arcom) concernant la politique ?",
+        "choices": [
+          {
+            "text": "Autoriser ou interdire les chaînes de télévision en fonction de leur ligne éditoriale politique.",
+            "isCorrect": false
+          },
+          {
+            "text": "Vendre des espaces publicitaires aux partis politiques pour financer les élections.",
+            "isCorrect": false
+          },
+          {
+            "text": "Attribuer les fréquences radio et télévision en priorité aux médias de service public.",
+            "isCorrect": false
+          },
+          {
+            "text": "Veiller au respect du pluralisme et de l'égalité de temps de parole des candidats.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Arcom garantit que tous les courants d'opinion peuvent s'exprimer équitablement, évitant qu'un seul parti ne monopolise les médias."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-057",
+        "shortId": "Q-88DB82",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen refuse d'être juré lors d'un procès aux assises car il ne veut pas juger un autre homme. Que risque-t-il ?",
+        "choices": [
+          {
+            "text": "Une amende, car participer au jury d'assises est un devoir citoyen obligatoire pour ceux qui sont tirés au sort.",
+            "isCorrect": true
+          },
+          {
+            "text": "Rien, le service de juré est basé sur le volontariat pur et simple des retraités.",
+            "isCorrect": false
+          },
+          {
+            "text": "Une expulsion immédiate du territoire national pour manque de civisme.",
+            "isCorrect": false
+          },
+          {
+            "text": "Il doit payer le salaire des autres jurés pour compenser son absence.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La justice est rendue 'au nom du peuple français'. Participer au jury est une manière directe pour le citoyen d'exercer sa souveraineté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-058",
+        "shortId": "Q-1D5A3C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : On vous demande ce que signifie la 'laïcité' dans les services publics (hôpitaux, préfectures). Quelle est la règle pour l'usager ?",
+        "choices": [
+          {
+            "text": "L'usager a le droit d'exprimer ses convictions religieuses tant qu'il ne trouble pas l'ordre public et le fonctionnement du service.",
+            "isCorrect": true
+          },
+          {
+            "text": "L'usager est soumis à la même neutralité que l'agent : il doit retirer tout signe religieux avant d'entrer.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'usager doit obligatoirement prêter serment sur la Constitution avant d'être soigné.",
+            "isCorrect": false
+          },
+          {
+            "text": "Les services publics sont réservés uniquement aux personnes déclarant n'avoir aucune religion.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Dans les services publics, les usagers sont libres d'exprimer leurs convictions religieuses tant qu'ils ne troublent pas l'ordre public ni le bon fonctionnement du service."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-059",
+        "shortId": "Q-14F21C",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Dans une mairie, des agents demandent qu'une salle soit réservée à la prière. Quelle réponse respecte le principe de laïcité ?",
+        "choices": [
+          {
+            "text": "La mairie doit obligatoirement créer une salle de prière dès qu'un groupe d'agents le demande.",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie n'a pas à mettre en place un local de prière et les agents publics doivent respecter la laïcité dans le service.",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie doit réserver une salle pour chaque religion représentée parmi les agents.",
+            "isCorrect": false
+          },
+          {
+            "text": "La mairie peut accepter seulement pour la religion majoritaire parmi le personnel.",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Dans le service public, les agents sont soumis à des obligations de neutralité et de laïcité. La mairie doit assurer un service neutre pour tous et n'a pas à organiser un local de prière pour ses agents."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-principes-situational-060",
+        "shortId": "Q-690893",
+        "level": "CSP",
+        "section": "principes-valeurs",
+        "sectionLabel": "Principes et valeurs de la République",
+        "type": "SITUATIONAL",
+        "source": "SITUATIONAL",
+        "statement": "Situation : Un citoyen se demande si l'État peut lui interdire d'appartenir à une association de défense de l'environnement. Est-ce possible ?",
+        "choices": [
+          {
+            "text": "Oui, l'État interdit toute association qui critique ses choix industriels.",
+            "isCorrect": false
+          },
+          {
+            "text": "Seulement si l'association compte plus de 10 membres étrangers.",
+            "isCorrect": false
+          },
+          {
+            "text": "L'interdiction est automatique si l'association demande des subventions publiques.",
+            "isCorrect": false
+          },
+          {
+            "text": "Non, la liberté d'association est un principe fondamental garanti par la loi de 1901 et la Constitution.",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La liberté d'association permet aux citoyens de se regrouper librement pour défendre des causes ou partager des activités."
+      }
+    }
+  ]
+}

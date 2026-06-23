@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-vivre-en-france-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-vivre-standard-048",
+        "shortId": "Q-8BF0C6",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'un 'éco-organisme' (comme Eco-systèmes ou Citeo) ?",
+        "choices": [
+          {
+            "text": "Un label qualité attribué aux produits issus de l'agriculture biologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Un organisme public de contrôle sanitaire des aliments",
+            "isCorrect": false
+          },
+          {
+            "text": "Une certification environnementale pour les bâtiments neufs",
+            "isCorrect": false
+          },
+          {
+            "text": "Une structure gérant la collecte et le recyclage des déchets (emballages, appareils électriques)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Ces organismes sont financés par l'éco-participation que vous payez lors de l'achat d'un produit pour assurer son futur recyclage."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-001",
+        "shortId": "Q-597E2F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a le droit de voter aux élections municipales en France ?",
+        "choices": [
+          {
+            "text": "Les citoyens français et les citoyens de l'Union européenne résidant en France",
+            "isCorrect": true
+          },
+          {
+            "text": "Toutes les personnes résidant en France depuis plus de 5 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement les citoyens nés sur le territoire français",
+            "isCorrect": false
+          },
+          {
+            "text": "Les citoyens français uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le droit de vote aux élections municipales est ouvert aux citoyens français et aux ressortissants des pays membres de l'Union européenne vivant en France."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-010",
+        "shortId": "Q-916FD9",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document atteste de la régularité du séjour et autorise à travailler en France selon les mentions portées dessus ?",
+        "choices": [
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          },
+          {
+            "text": "Le titre de séjour",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte d'électeur",
+            "isCorrect": false
+          },
+          {
+            "text": "Le certificat d'immatriculation",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le titre de séjour est le document officiel délivré par la préfecture permettant de résider légalement en France. Certaines mentions autorisent l'activité professionnelle."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-022",
+        "shortId": "Q-66F04F",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'RSA' (Revenu de Solidarité Active) ?",
+        "choices": [
+          {
+            "text": "Une aide financière pour les retraités ayant travaillé 40 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prestation assurant un revenu minimum aux personnes sans ressources",
+            "isCorrect": true
+          },
+          {
+            "text": "Un prêt à taux zéro pour acheter une voiture",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime versée uniquement aux étudiants en fin de cycle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le RSA est une aide destinée à garantir un niveau minimum de revenus aux personnes disposant de peu ou pas de ressources."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-051",
+        "shortId": "Q-21C003",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Chèque Énergie' ?",
+        "choices": [
+          {
+            "text": "Un crédit d'impôt pour les travaux d'isolation thermique",
+            "isCorrect": false
+          },
+          {
+            "text": "Une subvention pour l'installation de panneaux solaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Une aide versée sous conditions de ressources pour payer les factures d'énergie du logement",
+            "isCorrect": true
+          },
+          {
+            "text": "Une réduction sur l'abonnement au gaz naturel pour les familles nombreuses",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le chèque énergie est envoyé une fois par an aux foyers modestes pour les aider à payer l'électricité, le gaz, le bois ou certains travaux de rénovation."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-003",
+        "shortId": "Q-4A86D5",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que représente la 'période d'essai' dans un contrat de travail ?",
+        "choices": [
+          {
+            "text": "Une période de formation obligatoire non rémunérée",
+            "isCorrect": false
+          },
+          {
+            "text": "Un stage d'observation avant l'entretien d'embauche",
+            "isCorrect": false
+          },
+          {
+            "text": "Une période permettant à l'employeur et au salarié de rompre le contrat plus facilement",
+            "isCorrect": true
+          },
+          {
+            "text": "La durée totale du contrat à durée déterminée (CDD)",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La période d'essai permet d'évaluer les compétences du salarié et, pour le salarié, de vérifier si le poste lui convient. Le contrat peut être rompu sans les procédures classiques de licenciement ou démission."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-018",
+        "shortId": "Q-CE2E05",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que la 'taxe foncière' ?",
+        "choices": [
+          {
+            "text": "Un impôt payé par les locataires pour l'entretien des rues",
+            "isCorrect": false
+          },
+          {
+            "text": "Un impôt dû chaque année par les propriétaires d'un bien immobilier",
+            "isCorrect": true
+          },
+          {
+            "text": "Une taxe sur les revenus issus de la vente de vêtements d'occasion",
+            "isCorrect": false
+          },
+          {
+            "text": "Une amende pour non-respect des règles de tri sélectif",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La taxe foncière est un impôt local perçu par les communes, payé uniquement par les propriétaires de terrains ou d'immeubles."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-034",
+        "shortId": "Q-6F1F63",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité du 'CDD' (Contrat à Durée Déterminée) ?",
+        "choices": [
+          {
+            "text": "Il ne peut être rompu que par l'employeur à tout moment",
+            "isCorrect": false
+          },
+          {
+            "text": "Il comporte une date de fin précise et n'est utilisé que pour des tâches temporaires",
+            "isCorrect": true
+          },
+          {
+            "text": "Il est réservé aux cadres supérieurs",
+            "isCorrect": false
+          },
+          {
+            "text": "Il ne donne pas droit aux congés payés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le CDD est un contrat dont la fin est fixée à l'avance. Il ne peut être utilisé que pour remplacer un salarié absent ou pour un surcroît d'activité."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-037",
+        "shortId": "Q-3C5F6E",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'acronyme 'RIB' ?",
+        "choices": [
+          {
+            "text": "Relevé d'Identité Bancaire",
+            "isCorrect": true
+          },
+          {
+            "text": "Registre des Impôts sur le Bien",
+            "isCorrect": false
+          },
+          {
+            "text": "Référence d'Inscription Budgétaire",
+            "isCorrect": false
+          },
+          {
+            "text": "Remboursement Immédiat de la Banque",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le RIB contient les coordonnées bancaires (IBAN/BIC) permettant de recevoir des virements ou d'autoriser des prélèvements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-059",
+        "shortId": "Q-445B47",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le '13ème mois' en entreprise ?",
+        "choices": [
+          {
+            "text": "Une indemnité de départ versée après 10 ans d'ancienneté",
+            "isCorrect": false
+          },
+          {
+            "text": "Un complément de revenu versé par l'État aux salariés modestes",
+            "isCorrect": false
+          },
+          {
+            "text": "Une prime correspondant à un mois de salaire versée en fin d'année selon les contrats",
+            "isCorrect": true
+          },
+          {
+            "text": "Une gratification versée uniquement aux cadres supérieurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Ce n'est pas une obligation légale, mais de nombreuses conventions collectives prévoient le versement d'un salaire supplémentaire (le 13ème mois) souvent en décembre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-045",
+        "shortId": "Q-D41182",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que signifie l'obligation d'assiduité scolaire ?",
+        "choices": [
+          {
+            "text": "L'obligation pour l'élève de suivre tous les cours prévus à son emploi du temps",
+            "isCorrect": true
+          },
+          {
+            "text": "L'obligation de porter un uniforme à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation d'avoir la moyenne à tous les examens",
+            "isCorrect": false
+          },
+          {
+            "text": "L'obligation de manger à la cantine tous les midis",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'assiduité est une règle fondamentale : l'élève doit être présent et respecter les horaires sous peine de sanctions pour les parents (suspension d'allocations, amendes)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-032",
+        "shortId": "Q-436942",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En cas de déménagement, quand doit-on informer les organismes comme la CAF ou l'Assurance Maladie ?",
+        "choices": [
+          {
+            "text": "Un an après le départ effectif",
+            "isCorrect": false
+          },
+          {
+            "text": "Uniquement si l'on change de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Ce n'est pas nécessaire, la poste le fait automatiquement",
+            "isCorrect": false
+          },
+          {
+            "text": "Dès que possible, idéalement avant ou juste après le déménagement",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Il est crucial de signaler son changement d'adresse rapidement pour éviter la suspension des droits ou des courriers importants perdus."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-057",
+        "shortId": "Q-927D5A",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert le 'médiateur de la consommation' ?",
+        "choices": [
+          {
+            "text": "À résoudre gratuitement un litige entre un client et un professionnel (magasin, artisan)",
+            "isCorrect": true
+          },
+          {
+            "text": "À fixer le prix des fruits et légumes sur les marchés",
+            "isCorrect": false
+          },
+          {
+            "text": "À traduire les contrats de vente en plusieurs langues",
+            "isCorrect": false
+          },
+          {
+            "text": "À surveiller les dates de péremption dans les supermarchés",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout professionnel doit proposer un médiateur à ses clients pour tenter de régler un conflit sans passer devant un juge."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-053",
+        "shortId": "Q-E908B8",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'ADEME ?",
+        "choices": [
+          {
+            "text": "L'agence de la transition écologique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'Agence régionale de santé (ARS)",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Autorité de régulation des transports",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse nationale d'assurance vieillesse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "L'ADEME participe à la mise en œuvre des politiques publiques dans les domaines de l'environnement, de l'énergie et du développement durable."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-028",
+        "shortId": "Q-EA3C80",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce qu'une association 'Loi 1901' ?",
+        "choices": [
+          {
+            "text": "Un syndicat professionnel obligatoire pour tous les artisans",
+            "isCorrect": false
+          },
+          {
+            "text": "Une entreprise qui peut distribuer ses bénéfices à ses actionnaires",
+            "isCorrect": false
+          },
+          {
+            "text": "Un parti politique qui ne se présente qu'aux élections européennes",
+            "isCorrect": false
+          },
+          {
+            "text": "Un groupement de personnes à but non lucratif (qui ne cherche pas à faire de profit)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "La majorité des associations en France fonctionnent sous ce régime : l'argent gagné doit servir au projet de l'association et non à enrichir ses membres."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-021",
+        "shortId": "Q-1FDA8B",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel document de santé est nécessaire pour prouver que l'on a fait les vaccins obligatoires ?",
+        "choices": [
+          {
+            "text": "Le carnet de santé ou un certificat de vaccination",
+            "isCorrect": true
+          },
+          {
+            "text": "La carte Vitale",
+            "isCorrect": false
+          },
+          {
+            "text": "L'attestation de droits de la sécurité sociale",
+            "isCorrect": false
+          },
+          {
+            "text": "Le livret de famille",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le carnet de santé contient l'historique médical et les preuves de vaccination indispensables, notamment pour l'inscription à l'école ou en crèche."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-035",
+        "shortId": "Q-A18CDC",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle institution assure la mission de service public de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "La Croix-Rouge",
+            "isCorrect": false
+          },
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Tribunal de Commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "France Travail accompagne les demandeurs d'emploi dans leur recherche et aide les entreprises dans leurs recrutements."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-044",
+        "shortId": "Q-1CA806",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel recours possède un locataire si son propriétaire refuse de rendre la caution (dépôt de garantie) sans justificatif ?",
+        "choices": [
+          {
+            "text": "Déposer une plainte au commissariat de police",
+            "isCorrect": false
+          },
+          {
+            "text": "Contacter l'administration fiscale pour bloquer les remboursements",
+            "isCorrect": false
+          },
+          {
+            "text": "Saisir la commission départementale de conciliation ou le tribunal",
+            "isCorrect": true
+          },
+          {
+            "text": "Envoyer une lettre recommandée au président de la copropriété",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le propriétaire doit justifier toute retenue sur la caution par des factures ou devis liés aux dégradations notées sur l'état des lieux de sortie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-050",
+        "shortId": "Q-323DDD",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Conseil Municipal ?",
+        "choices": [
+          {
+            "text": "Diriger la police nationale et l'armée",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer les affaires de la commune (budget, écoles primaires, voirie)",
+            "isCorrect": true
+          },
+          {
+            "text": "Voter les lois au niveau du pays",
+            "isCorrect": false
+          },
+          {
+            "text": "Juger les crimes les plus graves",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil municipal représente les habitants de la commune et vote les décisions locales importantes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-vivre-standard-039",
+        "shortId": "Q-CFA429",
+        "level": "CSP",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le 'Contrôle Technique' pour une voiture ?",
+        "choices": [
+          {
+            "text": "Une vérification de la propreté du moteur",
+            "isCorrect": false
+          },
+          {
+            "text": "Un examen de conduite pour les seniors",
+            "isCorrect": false
+          },
+          {
+            "text": "Une vérification obligatoire tous les 2 ans de l'état de sécurité et de pollution du véhicule",
+            "isCorrect": true
+          },
+          {
+            "text": "Une option gratuite proposée par les constructeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Pour les véhicules de plus de 4 ans, un contrôle technique doit être effectué tous les 2 ans pour s'assurer qu'ils ne sont pas dangereux ou trop polluants."
+      }
+    }
+  ]
+}

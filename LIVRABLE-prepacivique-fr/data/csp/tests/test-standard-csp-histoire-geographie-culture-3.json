@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-histoire-geographie-culture-3",
+  "level": "CSP",
+  "kind": "section",
+  "section": "histoire-geographie-culture",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-histoire-standard-023",
+        "shortId": "Q-5EBC55",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le jour de la fête nationale française ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 8 mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 14 juillet",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le 14 juillet célèbre la Nation française et commémore notamment la Fête de la Fédération de 1790."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-031",
+        "shortId": "Q-B6D4FC",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces départements d'outre-mer est une île située dans l'océan Indien ?",
+        "choices": [
+          {
+            "text": "La Guadeloupe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Martinique",
+            "isCorrect": false
+          },
+          {
+            "text": "La Réunion",
+            "isCorrect": true
+          },
+          {
+            "text": "La Guyane",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La Réunion est un département français célèbre pour son volcan, le Piton de la Fournaise."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-033",
+        "shortId": "Q-3CBA98",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel conflit mondial s'est déroulé entre 1914 et 1918 ?",
+        "choices": [
+          {
+            "text": "La Première Guerre mondiale",
+            "isCorrect": true
+          },
+          {
+            "text": "La Seconde Guerre mondiale",
+            "isCorrect": false
+          },
+          {
+            "text": "La guerre d'Algérie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Révolution française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Aussi appelée la 'Grande Guerre', elle a marqué la France par les combats dans les tranchées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-029",
+        "shortId": "Q-2FC593",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui était Jeanne d'Arc ?",
+        "choices": [
+          {
+            "text": "Une héroïne médiévale qui a combattu pour libérer la France au XVe siècle",
+            "isCorrect": true
+          },
+          {
+            "text": "La femme de Napoléon Bonaparte",
+            "isCorrect": false
+          },
+          {
+            "text": "Une célèbre écrivaine du Siècle des Lumières",
+            "isCorrect": false
+          },
+          {
+            "text": "La fondatrice de l'Académie française au XVIIe siècle",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Jeanne d'Arc a aidé le roi Charles VII à reprendre le trône contre les Anglais pendant la guerre de Cent Ans."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-024",
+        "shortId": "Q-791C73",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces massifs est un massif de montagnes anciennes situé au centre de la France ?",
+        "choices": [
+          {
+            "text": "Les Alpes",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Jura",
+            "isCorrect": false
+          },
+          {
+            "text": "Les Pyrénées",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Massif central",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Massif central est connu pour ses volcans éteints, comme ceux de la chaîne des Puys."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-009",
+        "shortId": "Q-82FC06",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle femme politique française a fait adopter la loi sur l'interruption volontaire de grossesse (IVG) en 1975 ?",
+        "choices": [
+          {
+            "text": "Simone Veil",
+            "isCorrect": true
+          },
+          {
+            "text": "Édith Cresson",
+            "isCorrect": false
+          },
+          {
+            "text": "Louise Michel",
+            "isCorrect": false
+          },
+          {
+            "text": "Olympe de Gouges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Simone Veil, rescapée de la Shoah et ministre de la Santé, est une figure majeure de la lutte pour les droits des femmes."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-053",
+        "shortId": "Q-830B9A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit fondamental a été accordé aux femmes françaises en 1944 ?",
+        "choices": [
+          {
+            "text": "Le droit de vote",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit d'aller à l'école",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de travailler",
+            "isCorrect": false
+          },
+          {
+            "text": "Le droit de conduire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Les femmes ont voté pour la première fois en France lors des élections municipales de 1945."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-055",
+        "shortId": "Q-5E14FD",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En 1905, une loi très importante a été votée concernant les religions. Laquelle ?",
+        "choices": [
+          {
+            "text": "La loi sur le droit de vote",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi sur l'école gratuite",
+            "isCorrect": false
+          },
+          {
+            "text": "La loi de séparation des Églises et de l'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La loi sur la liberté de la presse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Cette loi fonde la laïcité française : l'État est neutre et garantit la liberté de conscience."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-048",
+        "shortId": "Q-50BA15",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment s'appelle l'assemblée où siègent les députés à Paris ?",
+        "choices": [
+          {
+            "text": "Le Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Assemblée nationale",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Les députés sont élus par les citoyens pour voter les lois et contrôler le Gouvernement au Palais Bourbon."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-018",
+        "shortId": "Q-1B818D",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle mer borde le sud de la France et la région Provence-Alpes-Côte d'Azur ?",
+        "choices": [
+          {
+            "text": "La Mer Noire",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Méditerranée",
+            "isCorrect": true
+          },
+          {
+            "text": "La Manche",
+            "isCorrect": false
+          },
+          {
+            "text": "La Mer Celtique",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La Méditerranée est célèbre pour ses paysages, son climat ensoleillé et ses ports comme Marseille."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-022",
+        "shortId": "Q-EBE113",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument parisien a été construit pour l'Exposition universelle de 1889 ?",
+        "choices": [
+          {
+            "text": "L'Arc de Triomphe",
+            "isCorrect": false
+          },
+          {
+            "text": "La Tour Eiffel",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Opéra Garnier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Conçue par Gustave Eiffel, elle devait être détruite après l'exposition mais est devenue le symbole de Paris."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-014",
+        "shortId": "Q-944DB6",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle chanteuse française est mondialement connue pour 'La Vie en rose' et 'L'Hymne à l'amour' ?",
+        "choices": [
+          {
+            "text": "Dalida",
+            "isCorrect": false
+          },
+          {
+            "text": "Édith Piaf",
+            "isCorrect": true
+          },
+          {
+            "text": "Barbara",
+            "isCorrect": false
+          },
+          {
+            "text": "Mylène Farmer",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Édith Piaf, surnommée 'la Môme', reste l'une des artistes françaises les plus célèbres à l'international."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-001",
+        "shortId": "Q-D6E8EB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement majeur de 1789 marque symboliquement le début de la Révolution française ?",
+        "choices": [
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": true
+          },
+          {
+            "text": "La convocation des États généraux à Versailles",
+            "isCorrect": false
+          },
+          {
+            "text": "L'exécution de Louis XVI",
+            "isCorrect": false
+          },
+          {
+            "text": "L'abolition des privilèges",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet 1789, le peuple parisien prend la prison de la Bastille. Cet événement symbolise la fin du pouvoir absolu du roi."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-026",
+        "shortId": "Q-DFF87A",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel monument abrite les tombes des 'grands hommes' (et femmes) ayant marqué la France ?",
+        "choices": [
+          {
+            "text": "Le Musée d'Orsay",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Panthéon",
+            "isCorrect": true
+          },
+          {
+            "text": "La Tour Montparnasse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Petit Palais",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Au Panthéon reposent des personnalités comme Voltaire, Victor Hugo, Marie Curie ou Simone Veil."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-028",
+        "shortId": "Q-280145",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel pays partage la plus longue frontière terrestre avec la France (via la Guyane) ?",
+        "choices": [
+          {
+            "text": "L'Espagne",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Allemagne",
+            "isCorrect": false
+          },
+          {
+            "text": "La Belgique",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Brésil",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "C'est une particularité géographique : la France partage plus de 700 km de frontière avec le Brésil en Amérique du Sud."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-045",
+        "shortId": "Q-17FC02",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel événement de 1945 marque la fin de la Seconde Guerre mondiale en Europe ?",
+        "choices": [
+          {
+            "text": "La victoire du 8 mai 1945",
+            "isCorrect": true
+          },
+          {
+            "text": "La prise de la Bastille",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Appel du 18 juin",
+            "isCorrect": false
+          },
+          {
+            "text": "La signature de l'Armistice de 1918",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 8 mai est un jour férié en France pour commémorer la capitulation de l'Allemagne nazie."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-007",
+        "shortId": "Q-A942C0",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelles sont les trois couleurs du drapeau national français ?",
+        "choices": [
+          {
+            "text": "Rouge, Jaune, Vert",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Jaune",
+            "isCorrect": false
+          },
+          {
+            "text": "Bleu, Blanc, Rouge",
+            "isCorrect": true
+          },
+          {
+            "text": "Vert, Blanc, Rouge",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le drapeau tricolore est l'emblème national de la République. Il est né de la réunion des couleurs de Paris et du blanc de la royauté."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-043",
+        "shortId": "Q-FDF197",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la spécialité culinaire de la Bretagne à base de farine de sarrasin ?",
+        "choices": [
+          {
+            "text": "La bouillabaisse",
+            "isCorrect": false
+          },
+          {
+            "text": "Le cassoulet",
+            "isCorrect": false
+          },
+          {
+            "text": "La galette de sarrasin",
+            "isCorrect": true
+          },
+          {
+            "text": "La choucroute",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La galette bretonne est un plat populaire souvent accompagné de cidre."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-002",
+        "shortId": "Q-9FC3BB",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel écrivain français du XIXe siècle est l'auteur du célèbre roman 'Les Misérables' ?",
+        "choices": [
+          {
+            "text": "Jean de La Fontaine",
+            "isCorrect": false
+          },
+          {
+            "text": "Victor Hugo",
+            "isCorrect": true
+          },
+          {
+            "text": "Molière",
+            "isCorrect": false
+          },
+          {
+            "text": "Voltaire",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Victor Hugo est l'un des plus grands écrivains français. Il a écrit 'Les Misérables' et s'est battu pour la justice sociale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-histoire-standard-032",
+        "shortId": "Q-9EC46C",
+        "level": "CSP",
+        "section": "histoire-geographie-culture",
+        "sectionLabel": "Histoire, géographie et culture",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le chef du Gouvernement en France ?",
+        "choices": [
+          {
+            "text": "Le Préfet",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Garde des Sceaux",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le Premier ministre est nommé par le Président de la République pour diriger l'action du Gouvernement."
+      }
+    }
+  ]
+}

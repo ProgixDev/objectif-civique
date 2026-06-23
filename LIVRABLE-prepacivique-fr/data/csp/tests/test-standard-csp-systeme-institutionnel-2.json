@@ -1,0 +1,689 @@
+{
+  "slug": "test-standard-csp-systeme-institutionnel-2",
+  "level": "CSP",
+  "kind": "section",
+  "section": "systeme-institutionnel",
+  "count": 20,
+  "questions": [
+    {
+      "question": {
+        "id": "csp-institutions-standard-062",
+        "shortId": "Q-A6EAA1",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du Parlement vis-à-vis du budget de l'État ?",
+        "choices": [
+          {
+            "text": "Il le vote et l'autorise chaque année",
+            "isCorrect": true
+          },
+          {
+            "text": "Il le propose mais le Président l'adopte seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Il en délègue le contrôle à la Cour des comptes",
+            "isCorrect": false
+          },
+          {
+            "text": "Il le valide uniquement en cas de déficit public",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement contrôle la manière dont l'argent public est utilisé."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-036",
+        "shortId": "Q-B3A46F",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui a la charge de la gestion des lycées ?",
+        "choices": [
+          {
+            "text": "La Mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "La Région",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Département",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le conseil régional s'occupe de la construction et de l'entretien des lycées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-043",
+        "shortId": "Q-0C129D",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service public s'occupe de l'emploi en France ?",
+        "choices": [
+          {
+            "text": "L'Assurance Maladie",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "France Travail (anciennement Pôle Emploi) est l'organisme public chargé d'accompagner les demandeurs d'emploi et de faciliter leur retour au travail."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-066",
+        "shortId": "Q-ABB825",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces actes est obligatoire pour un citoyen ?",
+        "choices": [
+          {
+            "text": "S'inscrire sur les listes électorales dès 18 ans",
+            "isCorrect": false
+          },
+          {
+            "text": "Appartenir à un parti politique",
+            "isCorrect": false
+          },
+          {
+            "text": "Contribuer aux charges publiques (impôts)",
+            "isCorrect": true
+          },
+          {
+            "text": "Participer à la Journée Défense et Citoyenneté chaque année",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Payer ses impôts est une obligation légale pour financer la société."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-021",
+        "shortId": "Q-825279",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi servent principalement les impôts payés par les citoyens ?",
+        "choices": [
+          {
+            "text": "À rembourser les emprunts contractés auprès de la Banque de France",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les retraites des fonctionnaires européens",
+            "isCorrect": false
+          },
+          {
+            "text": "À financer les services publics (écoles, hôpitaux, police)",
+            "isCorrect": true
+          },
+          {
+            "text": "À constituer des réserves budgétaires pour les années de crise",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Les impôts sont une contribution obligatoire pour faire fonctionner le pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-006",
+        "shortId": "Q-726C58",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel principe garantit que l'État ne favorise aucune religion ?",
+        "choices": [
+          {
+            "text": "La fraternité",
+            "isCorrect": false
+          },
+          {
+            "text": "La décentralisation",
+            "isCorrect": false
+          },
+          {
+            "text": "La laïcité",
+            "isCorrect": true
+          },
+          {
+            "text": "La parité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La laïcité assure la neutralité de l'État et la liberté de conscience pour tous."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-055",
+        "shortId": "Q-2B8FAB",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le jour férié qui célèbre la fin de la Première Guerre mondiale ?",
+        "choices": [
+          {
+            "text": "Le 1er mai",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 11 novembre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le 15 août",
+            "isCorrect": false
+          },
+          {
+            "text": "Le 1er janvier",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le 11 novembre commémore l'Armistice signé le 11 novembre 1918, mettant fin aux combats de la Première Guerre mondiale."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-024",
+        "shortId": "Q-019026",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel bâtiment abrite les services de la mairie ?",
+        "choices": [
+          {
+            "text": "Le Palais Bourbon",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Hôtel de Ville",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Palais de Justice",
+            "isCorrect": false
+          },
+          {
+            "text": "La Préfecture",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "L'Hôtel de Ville (ou la mairie) est le centre administratif de la commune."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-001",
+        "shortId": "Q-8D0106",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "En France, qui possède le pouvoir de voter les lois ?",
+        "choices": [
+          {
+            "text": "Le Parlement (Assemblée nationale et Sénat)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Premier ministre seul",
+            "isCorrect": false
+          },
+          {
+            "text": "Les préfets de département",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil syndical",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le Parlement représente les citoyens et les territoires ; sa mission est de débattre et de voter les lois."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-007",
+        "shortId": "Q-AE0390",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle monnaie est utilisée pour les échanges en France depuis 2002 ?",
+        "choices": [
+          {
+            "text": "Le Franc",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Dollar",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Florin",
+            "isCorrect": false
+          },
+          {
+            "text": "L'Euro",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'Euro est la monnaie commune à la majorité des pays de l'Union européenne."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-033",
+        "shortId": "Q-8AF454",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le drapeau de l'Union européenne ?",
+        "choices": [
+          {
+            "text": "Le drapeau tricolore",
+            "isCorrect": false
+          },
+          {
+            "text": "La bannière étoilée",
+            "isCorrect": false
+          },
+          {
+            "text": "Le drapeau bleu aux 12 étoiles d'or",
+            "isCorrect": true
+          },
+          {
+            "text": "L'emblème de la paix",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Il représente l'unité et la solidarité entre les peuples d'Europe."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-020",
+        "shortId": "Q-C72D85",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel droit permet de s'exprimer librement dans la presse ou sur internet ?",
+        "choices": [
+          {
+            "text": "Le droit de retrait",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté d'expression",
+            "isCorrect": true
+          },
+          {
+            "text": "Le droit de passage",
+            "isCorrect": false
+          },
+          {
+            "text": "La liberté de commerce",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "La liberté d'expression est une liberté fondamentale protégée par la Constitution."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-034",
+        "shortId": "Q-CF370A",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel tribunal juge les délits comme les vols ou les agressions ?",
+        "choices": [
+          {
+            "text": "La Cour de cassation",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Conseil d'État",
+            "isCorrect": false
+          },
+          {
+            "text": "La Cour d'assises",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Tribunal correctionnel",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le tribunal correctionnel traite les infractions moyennes appelées délits."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-047",
+        "shortId": "Q-BBB0D6",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Où se trouve le siège du Parlement européen ?",
+        "choices": [
+          {
+            "text": "À Paris",
+            "isCorrect": false
+          },
+          {
+            "text": "À Strasbourg",
+            "isCorrect": true
+          },
+          {
+            "text": "À Rome",
+            "isCorrect": false
+          },
+          {
+            "text": "À Lyon",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Les députés européens se réunissent à Strasbourg pour les sessions plénières."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-051",
+        "shortId": "Q-84B631",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle du conseil départemental ?",
+        "choices": [
+          {
+            "text": "Voter le budget de l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "Gérer l'action sociale et les routes départementales",
+            "isCorrect": true
+          },
+          {
+            "text": "Diriger la police nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "Nommer les professeurs",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le département s'occupe notamment du RSA et de l'aide aux personnes âgées."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-057",
+        "shortId": "Q-CA6701",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Combien de fois un Président peut-il être réélu consécutivement ?",
+        "choices": [
+          {
+            "text": "Illimité",
+            "isCorrect": false
+          },
+          {
+            "text": "Trois fois",
+            "isCorrect": false
+          },
+          {
+            "text": "Jamais",
+            "isCorrect": false
+          },
+          {
+            "text": "Une seule fois",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Un Président peut faire au maximum deux mandats de suite (10 ans au total)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-053",
+        "shortId": "Q-AD1961",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Comment appelle-t-on le vote d'une loi par les deux chambres du Parlement ?",
+        "choices": [
+          {
+            "text": "Une démission",
+            "isCorrect": false
+          },
+          {
+            "text": "Un procès",
+            "isCorrect": false
+          },
+          {
+            "text": "Une élection",
+            "isCorrect": false
+          },
+          {
+            "text": "La navette parlementaire",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le texte circule entre l'Assemblée et le Sénat jusqu'à être adopté à l'identique."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-013",
+        "shortId": "Q-206587",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qui dirige l'action du Gouvernement et des ministres ?",
+        "choices": [
+          {
+            "text": "Le Président du Sénat",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Premier ministre",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Préfet de région",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Maire de Paris",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le Premier ministre coordonne le travail des ministres pour appliquer la politique du pays."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-008",
+        "shortId": "Q-967047",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Que célèbre-t-on lors de la fête nationale du 14 juillet ?",
+        "choices": [
+          {
+            "text": "La fête de la République",
+            "isCorrect": true
+          },
+          {
+            "text": "La commémoration de l'Armistice de 1918",
+            "isCorrect": false
+          },
+          {
+            "text": "La fête du travail",
+            "isCorrect": false
+          },
+          {
+            "text": "L'anniversaire de la Constitution de 1958",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790)."
+      }
+    },
+    {
+      "question": {
+        "id": "csp-institutions-standard-058",
+        "shortId": "Q-64F9E2",
+        "level": "CSP",
+        "section": "systeme-institutionnel",
+        "sectionLabel": "Système institutionnel et politique",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Lequel de ces principes garantit que personne n'est au-dessus de la loi ?",
+        "choices": [
+          {
+            "text": "L'égalité devant la loi",
+            "isCorrect": true
+          },
+          {
+            "text": "La hiérarchie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le secret défense",
+            "isCorrect": false
+          },
+          {
+            "text": "La solidarité",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Tout citoyen, même puissant, doit respecter les règles de la République."
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "test-standard-cr-vivre-en-france-4",
+  "level": "CR",
+  "kind": "section",
+  "section": "vivre-en-france",
+  "count": 10,
+  "questions": [
+    {
+      "question": {
+        "id": "cr-vivre-standard-049",
+        "shortId": "Q-A06333",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme délivre l'agrément nécessaire pour devenir assistant(e) maternel(le) à domicile ?",
+        "choices": [
+          {
+            "text": "L'Inspection du Travail",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Président du Conseil départemental (via la PMI)",
+            "isCorrect": true
+          },
+          {
+            "text": "La mairie de la commune",
+            "isCorrect": false
+          },
+          {
+            "text": "La Caisse d'Allocations Familiales",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          1
+        ],
+        "explanation": "Le service de Protection Maternelle et Infantile (PMI) du département instruit les demandes d'agrément."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-020",
+        "shortId": "Q-922773",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle autorité est compétente pour délivrer les passeports et les cartes nationales d'identité ?",
+        "choices": [
+          {
+            "text": "Le tribunal judiciaire",
+            "isCorrect": false
+          },
+          {
+            "text": "La gendarmerie nationale",
+            "isCorrect": false
+          },
+          {
+            "text": "La préfecture (via les mairies équipées)",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Ministère des Affaires Étrangères uniquement",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Bien que les dossiers soient déposés en mairie, c'est l'administration préfectorale qui valide et fabrique les titres d'identité."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-058",
+        "shortId": "Q-71156D",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "À quoi sert la 'Carte Européenne d'Assurance Maladie' (CEAM) ?",
+        "choices": [
+          {
+            "text": "À voyager gratuitement dans les trains européens",
+            "isCorrect": false
+          },
+          {
+            "text": "À prouver son identité dans toute l'Europe",
+            "isCorrect": false
+          },
+          {
+            "text": "À attester de ses droits à l'assurance maladie lors de séjours temporaires en Europe",
+            "isCorrect": true
+          },
+          {
+            "text": "À obtenir un visa pour les pays hors Union européenne",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "La CEAM permet la prise en charge des soins imprévus lors d'un séjour dans un autre pays européen."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-034",
+        "shortId": "Q-1FEA14",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel service permet de comparer et d'obtenir des soins dentaires ou optiques sans reste à charge ?",
+        "choices": [
+          {
+            "text": "Le panier '100% Santé'",
+            "isCorrect": true
+          },
+          {
+            "text": "La mutuelle d'entreprise facultative",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tiers payant généralisé",
+            "isCorrect": false
+          },
+          {
+            "text": "Le forfait patient urgences",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "La réforme '100% Santé' permet d'accéder à certains équipements (lunettes, prothèses dentaires/auditives) intégralement remboursés."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-004",
+        "shortId": "Q-7FBD82",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quelle est la particularité d'un Pacte Civil de Solidarité (PACS) par rapport au concubinage (union libre) ?",
+        "choices": [
+          {
+            "text": "Il n'impose aucune obligation d'aide mutuelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Il permet d'adopter l'enfant du partenaire sans procédure",
+            "isCorrect": false
+          },
+          {
+            "text": "Il est automatiquement dissous en cas de déménagement",
+            "isCorrect": false
+          },
+          {
+            "text": "Il crée des obligations matérielles et une solidarité pour les dettes de la vie courante",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "Le PACS est un contrat qui impose aux partenaires une aide matérielle proportionnelle à leurs facultés et une solidarité pour les dépenses du quotidien."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-053",
+        "shortId": "Q-17E544",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel organisme est compétent pour verser les indemnités chômage ?",
+        "choices": [
+          {
+            "text": "L'URSSAF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CAF",
+            "isCorrect": false
+          },
+          {
+            "text": "La CPAM",
+            "isCorrect": false
+          },
+          {
+            "text": "France Travail (anciennement Pôle Emploi)",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "France Travail gère à la fois l'accompagnement des demandeurs d'emploi et l'indemnisation chômage."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-028",
+        "shortId": "Q-8B0E17",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Quel est le rôle de la protection juridique incluse dans certains contrats d'assurance ?",
+        "choices": [
+          {
+            "text": "Fournir un garde du corps",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer les amendes de circulation",
+            "isCorrect": false
+          },
+          {
+            "text": "Payer les frais de notaire lors d'un achat",
+            "isCorrect": false
+          },
+          {
+            "text": "Prendre en charge les frais d'avocat et de procédure en cas de litige",
+            "isCorrect": true
+          }
+        ],
+        "correctIndices": [
+          3
+        ],
+        "explanation": "L'assurance protection juridique aide l'assuré à faire valoir ses droits ou à se défendre en cas de conflit avec un tiers."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-006",
+        "shortId": "Q-EC1FF0",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) que signent les étrangers primo-arrivants ?",
+        "choices": [
+          {
+            "text": "Un engagement à respecter les principes de la République et à suivre des formations civiques et linguistiques",
+            "isCorrect": true
+          },
+          {
+            "text": "Un contrat de travail obligatoire pour obtenir un titre de séjour",
+            "isCorrect": false
+          },
+          {
+            "text": "Une assurance maladie spécifique aux étrangers",
+            "isCorrect": false
+          },
+          {
+            "text": "Un accord de cohabitation avec une famille française",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          0
+        ],
+        "explanation": "Le CIR engage l'étranger à respecter les valeurs de la République (liberté, égalité, fraternité, laïcité) et à suivre une formation civique et, si besoin, linguistique. C'est une étape clé de l'intégration."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-048",
+        "shortId": "Q-57ADDE",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Qu'est-ce que l'état des lieux lors de la signature d'un bail ?",
+        "choices": [
+          {
+            "text": "Un dépôt de garantie versé à la mairie",
+            "isCorrect": false
+          },
+          {
+            "text": "Le contrat d'assurance habitation",
+            "isCorrect": false
+          },
+          {
+            "text": "Un document décrivant l'état du logement et des équipements pièce par pièce",
+            "isCorrect": true
+          },
+          {
+            "text": "La quittance de loyer du premier mois",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "L'état des lieux se fait à l'entrée et à la sortie pour comparer l'état du logement et déterminer si des réparations sont à la charge du locataire."
+      }
+    },
+    {
+      "question": {
+        "id": "cr-vivre-standard-015",
+        "shortId": "Q-6D2827",
+        "level": "CR",
+        "section": "vivre-en-france",
+        "sectionLabel": "Vivre dans la société française",
+        "type": "KNOWLEDGE",
+        "source": "STANDARD",
+        "statement": "Le 'droit au logement opposable' (DALO) permet à une personne mal logée d'exercer un recours contre :",
+        "choices": [
+          {
+            "text": "Son agence immobilière",
+            "isCorrect": false
+          },
+          {
+            "text": "Le syndic de copropriété",
+            "isCorrect": false
+          },
+          {
+            "text": "L'État",
+            "isCorrect": true
+          },
+          {
+            "text": "La banque prêteuse",
+            "isCorrect": false
+          }
+        ],
+        "correctIndices": [
+          2
+        ],
+        "explanation": "Le DALO permet aux personnes prioritaires de faire reconnaître leur droit à un logement par l'État si elles n'ont pas reçu de proposition adaptée."
+      }
+    }
+  ]
+}
