@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { View } from "react-native";
+import { Alert, View } from "react-native";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import { SafeAreaProvider } from "react-native-safe-area-context";
@@ -27,6 +27,33 @@ export default function RootLayout() {
       SplashScreen.hideAsync().catch(() => {});
     }
   }, [loaded]);
+
+  // Capteur d'erreur global : transforme une erreur JS fatale (qui sinon ferme
+  // l'app sans message) en alerte lisible — aide à diagnostiquer les crashs
+  // signalés sur appareil réel. (Les crashs purement natifs ne passent pas ici.)
+  useEffect(() => {
+    const g = global as unknown as {
+      ErrorUtils?: {
+        getGlobalHandler: () => (e: unknown, fatal?: boolean) => void;
+        setGlobalHandler: (h: (e: unknown, fatal?: boolean) => void) => void;
+      };
+    };
+    const EU = g.ErrorUtils;
+    if (!EU) return;
+    const prev = EU.getGlobalHandler();
+    EU.setGlobalHandler((error, isFatal) => {
+      try {
+        const err = error as Error;
+        Alert.alert(
+          isFatal ? "Erreur (fatale)" : "Erreur",
+          `${err?.message ?? String(error)}\n\n${(err?.stack ?? "").slice(0, 500)}`
+        );
+      } catch {
+        // ignore
+      }
+      prev?.(error, isFatal);
+    });
+  }, []);
 
   if (!loaded) {
     return <View style={{ flex: 1, backgroundColor: Colors.surface }} />;
