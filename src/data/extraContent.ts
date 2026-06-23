@@ -1,6 +1,45 @@
 import { Category, Question, ThemeId } from "@/types";
 import rawExtra from "./extraContent.json";
+import rawAllQuestions from "../../FULL-DATA/1-questions/_all.json";
 import { resolveExplanation } from "./explanationLookup";
+
+function isThemeId(v: string): v is ThemeId {
+  return (
+    v === "principes-valeurs-republique" ||
+    v === "droits-et-devoirs" ||
+    v === "systeme-institutionnel" ||
+    v === "histoire-geographie-culture" ||
+    v === "vivre-en-societe"
+  );
+}
+
+/** Normalise un énoncé pour le matching (minuscules, sans HTML ni ponctuation). */
+function normStatement(s: string): string {
+  return s
+    .toLowerCase()
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[^a-z0-9àâäéèêëïîôöùûüç]+/gi, " ")
+    .trim();
+}
+
+/**
+ * Index énoncé → thème, construit depuis le pool principal. Sert à récupérer le
+ * thème des questions des Tests/Simulations (qui arrivent sans thème) pour que
+ * le "détail par thème" reste correct.
+ */
+const THEME_BY_STATEMENT: Map<string, ThemeId> = (() => {
+  const map = new Map<string, ThemeId>();
+  for (const q of rawAllQuestions as { statement?: string; theme?: string }[]) {
+    if (q?.statement && q.theme && isThemeId(q.theme)) {
+      const key = normStatement(q.statement);
+      if (!map.has(key)) map.set(key, q.theme);
+    }
+  }
+  return map;
+})();
+
+/** Thème de repli quand l'énoncé n'est pas retrouvé dans le pool. */
+const FALLBACK_THEME: ThemeId = "principes-valeurs-republique";
 
 /**
  * Contenu additionnel compilé depuis les nouveaux dossiers FULL-DATA :
@@ -47,15 +86,32 @@ type RawExtraContent = {
 
 const raw = rawExtra as RawExtraContent;
 
-/** Adapte une question brute au format `Question` de l'app. */
-function adapt(q: RawQuestion): Question | null {
-  if (!q.theme) return null;
+/**
+ * Adapte une question brute au format `Question` de l'app.
+ *
+ * `keepWithoutTheme` : pour les Tests/Simulations dont les questions n'ont pas
+ * de thème en source, on tente de récupérer le thème via l'énoncé, sinon on
+ * applique un thème de repli (au lieu de jeter la question → évite les séries
+ * à 0 question). Pour les flashcards, on garde le comportement strict.
+ */
+function adapt(
+  q: RawQuestion,
+  opts?: { keepWithoutTheme?: boolean }
+): Question | null {
+  let theme = q.theme;
+  if (!theme) {
+    theme = THEME_BY_STATEMENT.get(normStatement(q.statement)) ?? null;
+    if (!theme) {
+      if (!opts?.keepWithoutTheme) return null;
+      theme = FALLBACK_THEME;
+    }
+  }
   const hasChoices = q.choices.length > 0;
   return {
     id: q.id,
     shortId: q.shortId,
     categories: q.categories,
-    theme: q.theme,
+    theme,
     text: q.statement,
     choices: q.choices.map((c) => c.text),
     correctIndex: q.correctIndex,
@@ -80,7 +136,7 @@ function adapt(q: RawQuestion): Question | null {
  * On sépare ensuite selon la présence de choix QCM.
  */
 const EXTRA_ALL: Question[] = raw.flashcards
-  .map(adapt)
+  .map((q) => adapt(q))
   .filter((q): q is Question => q !== null);
 
 /**
@@ -138,7 +194,7 @@ export const TARGETED_TESTS: TargetedTest[] = raw.testsBySubTheme.map((t) => ({
   id: t.id,
   title: SUBTHEME_LABELS[t.id] ?? t.title,
   questions: t.questions
-    .map(adapt)
+    .map((q) => adapt(q, { keepWithoutTheme: true }))
     .filter((q): q is Question => q !== null),
 }));
 
@@ -176,7 +232,7 @@ export const SIMULATION_PACKS: SimulationPack[] = raw.simulationPacks.map(
     slug: p.slug,
     title: PACK_LABELS[p.slug] ?? p.title,
     questions: p.questions
-      .map(adapt)
+      .map((q) => adapt(q, { keepWithoutTheme: true }))
       .filter((q): q is Question => q !== null),
   })
 );
