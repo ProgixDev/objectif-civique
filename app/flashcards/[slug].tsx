@@ -23,6 +23,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { FLASHCARD_QUESTIONS, GOAL_LABELS } from "@/data/questions";
 import { getBank } from "@/data/banks";
 import { getExplanation } from "@/lib/quizEngine";
+import { SERIES_SIZE, seriesCount, seriesSlice } from "@/lib/series";
 import { THEMES } from "@/data/themes";
 import { useProgressStore } from "@/store/progressStore";
 import { useHaptics } from "@/hooks/useHaptics";
@@ -67,10 +68,16 @@ export default function FlashcardDeck() {
   }, [slug]);
 
   const [index, setIndex] = useState(0);
+  // Série courante : les decks de plus de 40 cartes sont découpés en paquets.
+  const [series, setSeries] = useState(0);
   const flip = useSharedValue(0);
   const [flipped, setFlipped] = useState(false);
 
-  const current: Question | undefined = deck[index];
+  const totalCards = deck.length;
+  const totalSeries = seriesCount(totalCards);
+  const seriesCards = useMemo(() => seriesSlice(deck, series), [deck, series]);
+
+  const current: Question | undefined = seriesCards[index];
 
   const onFlip = () => {
     haptics.light();
@@ -84,16 +91,32 @@ export default function FlashcardDeck() {
     setFlipped(false);
   };
 
+  const isLastCard = index >= seriesCards.length - 1;
+  const isLastSeries = series >= totalSeries - 1;
+
   const onNext = () => {
-    if (index < deck.length - 1) {
+    if (!isLastCard) {
       resetFlip();
       setIndex(index + 1);
+    } else if (!isLastSeries) {
+      // Passe à la série suivante (paquet de 40 suivant).
+      resetFlip();
+      setSeries(series + 1);
+      setIndex(0);
+    } else {
+      router.back();
     }
   };
   const onPrev = () => {
     if (index > 0) {
       resetFlip();
       setIndex(index - 1);
+    } else if (series > 0) {
+      // Revient à la fin de la série précédente.
+      const prevLen = seriesSlice(deck, series - 1).length;
+      resetFlip();
+      setSeries(series - 1);
+      setIndex(Math.max(0, prevLen - 1));
     }
   };
 
@@ -155,7 +178,8 @@ export default function FlashcardDeck() {
         <View style={{ flex: 1 }}>
           <Text style={styles.deckTitle}>{title}</Text>
           <Text style={styles.deckProgress}>
-            Carte {index + 1} sur {deck.length}
+            Carte {index + 1} sur {seriesCards.length}
+            {totalSeries > 1 ? ` · Série ${series + 1}/${totalSeries}` : ""}
           </Text>
         </View>
         <Pressable
@@ -224,8 +248,8 @@ export default function FlashcardDeck() {
       <View style={[styles.bottom, { paddingBottom: insets.bottom + 12 }]}>
         <Pressable
           onPress={onPrev}
-          disabled={index === 0}
-          style={[styles.navBtn, index === 0 && { opacity: 0.4 }]}
+          disabled={index === 0 && series === 0}
+          style={[styles.navBtn, index === 0 && series === 0 && { opacity: 0.4 }]}
         >
           <Text style={styles.navLabel}>Précédent</Text>
         </Pressable>
@@ -233,12 +257,10 @@ export default function FlashcardDeck() {
           <RotateCcw size={18} color={Colors.white} />
         </Pressable>
         <PillButton
-          label={index === deck.length - 1 ? "Terminer" : "Suivant"}
+          label={isLastCard && isLastSeries ? "Terminer" : "Suivant"}
           variant="primary"
           size="md"
-          onPress={
-            index === deck.length - 1 ? () => router.back() : onNext
-          }
+          onPress={onNext}
           style={{ flex: 1 }}
         />
       </View>

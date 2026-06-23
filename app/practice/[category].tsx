@@ -36,6 +36,7 @@ import { GOAL_LABELS } from "@/data/questions";
 import { findCivicTest, CivicTestKind } from "@/data/civicTests";
 import { getBank } from "@/data/banks";
 import { getExplanation } from "@/lib/quizEngine";
+import { seriesSlice, SERIES_SIZE } from "@/lib/series";
 
 const LETTERS = ["A", "B", "C", "D"];
 const VALID: Category[] = ["NAT", "CSP", "CR"];
@@ -50,6 +51,7 @@ export default function Practice() {
     subTheme?: string;
     testKind?: string;
     bank?: string;
+    series?: string;
   }>();
   const user = useUserStore((s) => s.user);
 
@@ -84,6 +86,7 @@ export default function Practice() {
   const themeId = params.themeId?.toString() as ThemeId | undefined;
   const themeCat = (params.themeCat?.toString() as ThemeFilter) ?? "Tous";
   const startIndex = params.startIndex ? Number(params.startIndex) : 0;
+  const series = params.series ? Number(params.series) : 0;
 
   const initCategory: Category = useMemo(() => {
     const raw = params.category?.toString();
@@ -97,9 +100,9 @@ export default function Practice() {
    * sinon (navigation entre questions, retour arrière) pour ne pas tout perdre.
    */
   const originKey = isTargetedTest
-    ? `test:${testKind}:${subThemeId}`
+    ? `test:${testKind}:${subThemeId}:${series}`
     : themeId
-    ? `theme:${themeId}:${themeCat}:${startIndex}`
+    ? `theme:${themeId}:${themeCat}:${series}:${startIndex}`
     : bank
     ? `bank:${bank.id}:${initCategory}`
     : `practice:${initCategory}`;
@@ -110,12 +113,17 @@ export default function Practice() {
     if (isTargetedTest && subThemeId) {
       const test = findCivicTest(testKind, subThemeId);
       if (test && test.questions.length > 0) {
-        startTargetedTest(test.title, test.questions, originKey);
+        // Tests longs (> 40) découpés en séries de 40.
+        const total = test.questions.length;
+        const slice = seriesSlice(test.questions, series);
+        const title =
+          total > SERIES_SIZE ? `${test.title} — Série ${series + 1}` : test.title;
+        startTargetedTest(title, slice, originKey);
         return;
       }
     }
     if (themeId) {
-      startThemeReview(themeId, themeCat, startIndex);
+      startThemeReview(themeId, themeCat, startIndex, series);
       return;
     }
     startPractice(initCategory, 20, bank?.sources, originKey);

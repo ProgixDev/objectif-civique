@@ -3,6 +3,7 @@ import { Answer, Category, Question, Session, ThemeId, Recap } from "@/types";
 import { pickQuestions, scoreSession, shuffleChoices } from "@/lib/quizEngine";
 import { QUESTIONS } from "@/data/questions";
 import { createId } from "@/lib/id";
+import { seriesSlice } from "@/lib/series";
 
 /** Filtre d'origine commun aux écrans Thème et Entraînement. */
 export type ThemeFilter = Category | "Tous";
@@ -34,14 +35,16 @@ type SessionState = {
   ) => void;
   startTheme: (themeId: ThemeId, count?: number) => void;
   /**
-   * Révision d'un thème : toutes les questions du thème (pour le cas donné),
-   * dans l'ordre du pool, positionnées sur la question touchée (`startIndex`).
+   * Révision d'un thème : les questions du thème (pour le cas donné), découpées
+   * en séries de 40 max. `seriesIndex` choisit la tranche (0 = questions 1-40,
+   * 1 = 41-80, …). `startIndex` positionne sur une question DANS la série.
    * Type "practice" pour réutiliser l'écran d'entraînement.
    */
   startThemeReview: (
     themeId: ThemeId,
     category: ThemeFilter,
-    startIndex?: number
+    startIndex?: number,
+    seriesIndex?: number
   ) => void;
   /**
    * Démarre une session "test ciblé" avec un set de questions explicite
@@ -108,8 +111,10 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     });
   },
 
-  startThemeReview: (themeId, category, startIndex = 0) => {
-    const questions = themeQuestions(themeId, category).map(shuffleChoices);
+  startThemeReview: (themeId, category, startIndex = 0, seriesIndex = 0) => {
+    // Pool complet du thème, puis on isole la série de 40 demandée.
+    const all = themeQuestions(themeId, category).map(shuffleChoices);
+    const questions = seriesSlice(all, seriesIndex);
     const safeIndex =
       questions.length === 0
         ? 0
@@ -123,9 +128,9 @@ export const useSessionStore = create<SessionState>((set, get) => ({
         questions,
         answers: [],
         startedAt: new Date().toISOString(),
-        // `startIndex` (et non `safeIndex`) pour coller à la clé calculée par
-        // l'écran d'entraînement et éviter une reconstruction au re-rendu.
-        originKey: `theme:${themeId}:${category}:${startIndex}`,
+        // `startIndex`/`seriesIndex` (et non `safeIndex`) pour coller à la clé
+        // calculée par l'écran d'entraînement et éviter une reconstruction.
+        originKey: `theme:${themeId}:${category}:${seriesIndex}:${startIndex}`,
       },
       currentIndex: safeIndex,
     });

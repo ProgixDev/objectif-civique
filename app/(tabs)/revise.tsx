@@ -31,6 +31,7 @@ import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
+import { SERIES_SIZE, seriesCount, seriesRange } from "@/lib/series";
 import { Category } from "@/types";
 
 type FilterKey = "Tous" | Category;
@@ -499,31 +500,78 @@ function ThemesSection({
 /* ───── Tests — par chapitre & par catégories (dossiers FULL-DATA) ───── */
 
 function TargetedTestsSection() {
-  const openTest = (kind: "chapter" | "category", test: CivicTest) => {
+  const openTest = (
+    kind: "chapter" | "category",
+    test: CivicTest,
+    series = 0
+  ) => {
     router.push({
       pathname: "/practice/[category]",
-      params: { category: "test", testKind: kind, subTheme: test.id },
+      params: {
+        category: "test",
+        testKind: kind,
+        subTheme: test.id,
+        series: String(series),
+      },
     });
   };
 
-  const renderTest = (kind: "chapter" | "category", test: CivicTest) => (
-    <Pressable
-      key={`${kind}-${test.id}`}
-      onPress={() => openTest(kind, test)}
-      style={({ pressed }) => [styles.testCard, pressed && { opacity: 0.92 }]}
-    >
-      <View style={styles.testIconWrap}>
-        <Text style={styles.testIconText}>{test.questions.length}</Text>
-      </View>
-      <View style={{ flex: 1 }}>
-        <Text style={styles.testTitle} numberOfLines={1}>
-          {test.title}
-        </Text>
-        <Text style={styles.testSub}>{test.questions.length} questions</Text>
-      </View>
-      <ChevronRight size={16} color={Colors.textTertiary} />
-    </Pressable>
-  );
+  const renderTest = (kind: "chapter" | "category", test: CivicTest) => {
+    const total = test.questions.length;
+
+    // Test long (> 40) : découpé en séries de 40.
+    if (total > SERIES_SIZE) {
+      return (
+        <View key={`${kind}-${test.id}`} style={{ gap: 8 }}>
+          {Array.from({ length: seriesCount(total) }).map((_, s) => {
+            const { start, end } = seriesRange(s, total);
+            return (
+              <Pressable
+                key={s}
+                onPress={() => openTest(kind, test, s)}
+                style={({ pressed }) => [
+                  styles.testCard,
+                  pressed && { opacity: 0.92 },
+                ]}
+              >
+                <View style={styles.testIconWrap}>
+                  <Text style={styles.testIconText}>{end - start}</Text>
+                </View>
+                <View style={{ flex: 1 }}>
+                  <Text style={styles.testTitle} numberOfLines={1}>
+                    {test.title} — Série {s + 1}
+                  </Text>
+                  <Text style={styles.testSub}>
+                    Questions {start + 1}–{end}
+                  </Text>
+                </View>
+                <ChevronRight size={16} color={Colors.textTertiary} />
+              </Pressable>
+            );
+          })}
+        </View>
+      );
+    }
+
+    return (
+      <Pressable
+        key={`${kind}-${test.id}`}
+        onPress={() => openTest(kind, test)}
+        style={({ pressed }) => [styles.testCard, pressed && { opacity: 0.92 }]}
+      >
+        <View style={styles.testIconWrap}>
+          <Text style={styles.testIconText}>{total}</Text>
+        </View>
+        <View style={{ flex: 1 }}>
+          <Text style={styles.testTitle} numberOfLines={1}>
+            {test.title}
+          </Text>
+          <Text style={styles.testSub}>{total} questions</Text>
+        </View>
+        <ChevronRight size={16} color={Colors.textTertiary} />
+      </Pressable>
+    );
+  };
 
   return (
     <View>

@@ -27,6 +27,7 @@ import { THEMES } from "@/data/themes";
 import { QUESTIONS } from "@/data/questions";
 import { LESSONS } from "@/data/lessons";
 import { getExplanation } from "@/lib/quizEngine";
+import { SERIES_SIZE, seriesCount, seriesRange } from "@/lib/series";
 import { useProgressStore } from "@/store/progressStore";
 import { Category, ThemeId } from "@/types";
 import { toast } from "@/store/toastStore";
@@ -76,7 +77,8 @@ export default function ThemeDetail() {
    * thème (pour ce cas), dans le même ordre que la liste affichée ici — d'où
    * la correspondance exacte de `startIndex`.
    */
-  const openThemeAt = (index: number) => {
+  /** Ouvre une série donnée (0-based) au début. */
+  const openSeries = (seriesIndex: number) => {
     if (filtered.length === 0) {
       toast.info("Aucune question dans ce thème pour ce filtre.");
       return;
@@ -87,7 +89,31 @@ export default function ThemeDetail() {
         category: cat === "Tous" ? "NAT" : cat,
         themeId,
         themeCat: cat,
-        startIndex: String(index),
+        series: String(seriesIndex),
+        startIndex: "0",
+      },
+    });
+  };
+
+  /**
+   * Ouvre la révision positionnée sur la question d'index global `index`
+   * (depuis la liste). On déduit la série (paquet de 40) et l'index local.
+   */
+  const openThemeAt = (index: number) => {
+    if (filtered.length === 0) {
+      toast.info("Aucune question dans ce thème pour ce filtre.");
+      return;
+    }
+    const seriesIndex = Math.floor(index / SERIES_SIZE);
+    const local = index % SERIES_SIZE;
+    router.push({
+      pathname: "/practice/[category]",
+      params: {
+        category: cat === "Tous" ? "NAT" : cat,
+        themeId,
+        themeCat: cat,
+        series: String(seriesIndex),
+        startIndex: String(local),
       },
     });
   };
@@ -137,14 +163,36 @@ export default function ThemeDetail() {
             <Text style={styles.percentLabel}>{Math.round(progress)}%</Text>
           </View>
 
-          <PillButton
-            label="Commencer la révision"
-            size="md"
-            variant="primary"
-            fullWidth
-            onPress={() => openThemeAt(0)}
-            style={{ marginTop: 12 }}
-          />
+          {filtered.length <= SERIES_SIZE ? (
+            <PillButton
+              label="Commencer la révision"
+              size="md"
+              variant="primary"
+              fullWidth
+              onPress={() => openSeries(0)}
+              style={{ marginTop: 12 }}
+            />
+          ) : (
+            <View style={{ marginTop: 12, gap: 8 }}>
+              <Text style={styles.seriesHint}>
+                {filtered.length} questions · {seriesCount(filtered.length)} séries
+                de {SERIES_SIZE} max
+              </Text>
+              {Array.from({ length: seriesCount(filtered.length) }).map((_, s) => {
+                const { start, end } = seriesRange(s, filtered.length);
+                return (
+                  <PillButton
+                    key={s}
+                    label={`Série ${s + 1} · Q${start + 1}–${end}`}
+                    size="md"
+                    variant={s === 0 ? "primary" : "secondary"}
+                    fullWidth
+                    onPress={() => openSeries(s)}
+                  />
+                );
+              })}
+            </View>
+          )}
         </GlassCard>
 
         {lesson ? (
@@ -369,6 +417,11 @@ const styles = StyleSheet.create({
     fontFamily: "Inter_700Bold",
     fontSize: 12,
     color: Colors.primary,
+  },
+  seriesHint: {
+    fontFamily: "Inter_500Medium",
+    fontSize: 12,
+    color: Colors.textSecondary,
   },
   bigIcon: {
     width: 46,
