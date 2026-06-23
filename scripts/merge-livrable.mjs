@@ -59,11 +59,25 @@ function cleanMarkdown(raw) {
   });
   let body = lines.join("\n");
   body = body
-    .replace(/Pr[ée]pa\s*Civique/gi, "Objectif Civique")
-    .replace(/prepacivique\.fr/gi, "Objectif Civique")
-    .replace(/prepacivique/gi, "Objectif Civique")
-    // liens markdown vers le site d'origine → garder le texte
-    .replace(/\[([^\]]+)\]\(https?:\/\/[^)]*prepacivique[^)]*\)/gi, "$1")
+    // Liens markdown vers le site d'origine → on garde le texte, on retire l'URL.
+    .replace(
+      /\[([^\]]+)\]\(https?:\/\/[^)]*(prepacivique|test-civique|vercel)[^)]*\)/gi,
+      "$1"
+    )
+    // URLs nues vers le site d'origine.
+    .replace(/https?:\/\/[^\s)]*(prepacivique|test-civique|vercel)[^\s)]*/gi, "")
+    // E-mails de contact du site source.
+    .replace(/[a-z0-9._%+-]+@(prepa|test-)?civique[a-z0-9.-]*\.[a-z]{2,}/gi, "")
+    .replace(/[a-z0-9._%+-]+@prepacivique[a-z0-9.-]*\.[a-z]{2,}/gi, "")
+    // Domaines & marque du site source → marque de l'app.
+    .replace(/www\.\s*pr[ée]pa[\s-]*civique\.[a-z.]+/gi, "Objectif Civique")
+    .replace(/pr[ée]pa[\s-]*civique\.[a-z]{2,}/gi, "Objectif Civique")
+    .replace(/pr[ée]pa[\s-]*civique/gi, "Objectif Civique")
+    .replace(/\bLe\s+Test\s+Civique\b/g, "Objectif Civique")
+    .replace(/\btest-?civique\.[a-z]{2,}/gi, "Objectif Civique")
+    // Nettoyages résiduels.
+    .replace(/\bwww\.\s*/gi, "")
+    .replace(/Objectif Civique(\s+Objectif Civique)+/g, "Objectif Civique")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
   return body;
@@ -176,7 +190,14 @@ function convertQuestion(wrapped) {
     explanation: stripHtml(q.explanation ?? ""),
     type: q.type === "SITUATIONAL" ? "mise-en-situation" : "qcm",
     isOfficial: q.source === "OFFICIAL",
-    source: "prepacivique",
+    // Banque interne neutre (jamais la marque du site source) — rejoint les
+    // banques existantes officielles / mise-en-situation / entraînement.
+    source:
+      q.type === "SITUATIONAL"
+        ? "mise-en-situation"
+        : q.source === "OFFICIAL"
+          ? "officielles"
+          : "entrainement",
   };
 }
 

@@ -502,7 +502,11 @@ function ThemesSection({
 
 /* ───── Tests — par chapitre & par catégories (dossiers FULL-DATA) ───── */
 
+type TestGroup = "chapter" | "category" | "section";
+
 function TargetedTestsSection({ selected }: { selected: FilterKey }) {
+  const [testGroup, setTestGroup] = useState<TestGroup>("chapter");
+
   const openTest = (
     kind: "chapter" | "category" | "livrable",
     test: CivicTest,
@@ -579,47 +583,85 @@ function TargetedTestsSection({ selected }: { selected: FilterKey }) {
     );
   };
 
+  const livTests = LIVRABLE_TESTS.filter(
+    (t) => selected === "Tous" || t.level === selected
+  );
+
+  const GROUPS: { key: TestGroup; label: string }[] = [
+    { key: "chapter", label: "Par chapitre" },
+    { key: "category", label: "Par catégorie" },
+    { key: "section", label: "Par section" },
+  ];
+
   return (
     <View>
-      {/* Test par chapitre */}
-      <View style={styles.sectionHeader}>
-        <Text style={styles.sectionLabel}>Test par chapitre</Text>
-        <Text style={styles.sectionCount}>{CHAPTER_TESTS.length} chapitres</Text>
-      </View>
-      <Text style={styles.testsIntro}>
-        Révisez un chapitre précis du programme (laïcité, droits fondamentaux,
-        institutions…).
-      </Text>
-      <View style={styles.testsList}>
-        {CHAPTER_TESTS.map((t) => renderTest("chapter", t))}
+      {/* Sélecteur : 3 types de tests (au lieu d'une longue liste) */}
+      <View style={styles.testGroupRow}>
+        {GROUPS.map((g) => {
+          const active = testGroup === g.key;
+          const count =
+            g.key === "chapter"
+              ? CHAPTER_TESTS.length
+              : g.key === "category"
+                ? CATEGORY_TESTS.length
+                : livTests.length;
+          return (
+            <Pressable
+              key={g.key}
+              onPress={() => setTestGroup(g.key)}
+              style={[styles.testGroupBtn, active && styles.testGroupBtnActive]}
+            >
+              <Text
+                style={[
+                  styles.testGroupLabel,
+                  active && styles.testGroupLabelActive,
+                ]}
+              >
+                {g.label}
+              </Text>
+              <Text
+                style={[
+                  styles.testGroupCount,
+                  active && { color: "rgba(255,255,255,0.85)" },
+                ]}
+              >
+                {count}
+              </Text>
+            </Pressable>
+          );
+        })}
       </View>
 
-      {/* Test par catégories */}
-      <View style={[styles.sectionHeader, { marginTop: 24 }]}>
-        <Text style={styles.sectionLabel}>Test par catégories</Text>
-        <Text style={styles.sectionCount}>
-          {CATEGORY_TESTS.length} catégories
-        </Text>
-      </View>
-      <Text style={styles.testsIntro}>
-        Tests de l'examen civique regroupés par grande catégorie.
-      </Text>
-      <View style={styles.testsList}>
-        {CATEGORY_TESTS.map((t) => renderTest("category", t))}
-      </View>
+      {testGroup === "chapter" ? (
+        <>
+          <Text style={styles.testsIntro}>
+            Révisez un chapitre précis du programme (laïcité, droits
+            fondamentaux, institutions…).
+          </Text>
+          <View style={styles.testsList}>
+            {CHAPTER_TESTS.map((t) => renderTest("chapter", t))}
+          </View>
+        </>
+      ) : null}
 
-      {/* Tests par section — 2ᵉ base (prepacivique), filtrés sur le cas */}
-      {(() => {
-        const livTests = LIVRABLE_TESTS.filter(
-          (t) => selected === "Tous" || t.level === selected
-        );
-        if (livTests.length === 0) return null;
-        return (
+      {testGroup === "category" ? (
+        <>
+          <Text style={styles.testsIntro}>
+            Tests de l'examen civique regroupés par grande catégorie.
+          </Text>
+          <View style={styles.testsList}>
+            {CATEGORY_TESTS.map((t) => renderTest("category", t))}
+          </View>
+        </>
+      ) : null}
+
+      {testGroup === "section" ? (
+        livTests.length === 0 ? (
+          <Text style={styles.testsIntro}>
+            Aucun test de section pour ce cas.
+          </Text>
+        ) : (
           <>
-            <View style={[styles.sectionHeader, { marginTop: 24 }]}>
-              <Text style={styles.sectionLabel}>Tests par section</Text>
-              <Text style={styles.sectionCount}>{livTests.length} tests</Text>
-            </View>
             <Text style={styles.testsIntro}>
               Tests officiels et d'entraînement par section, par paquets de 20.
             </Text>
@@ -627,8 +669,8 @@ function TargetedTestsSection({ selected }: { selected: FilterKey }) {
               {livTests.map((t) => renderTest("livrable", t))}
             </View>
           </>
-        );
-      })()}
+        )
+      ) : null}
     </View>
   );
 }
@@ -1239,6 +1281,42 @@ const styles = StyleSheet.create({
     fontSize: 12.5,
     color: Colors.textSecondary,
     marginBottom: 12,
+  },
+  testGroupRow: {
+    flexDirection: "row",
+    gap: 8,
+    marginBottom: 14,
+  },
+  testGroupBtn: {
+    flex: 1,
+    alignItems: "center",
+    paddingVertical: 10,
+    paddingHorizontal: 6,
+    borderRadius: 14,
+    backgroundColor: Colors.white,
+    ...cardShadow,
+    shadowOpacity: 0.06,
+    shadowRadius: 10,
+    shadowOffset: { width: 0, height: 4 },
+  },
+  testGroupBtnActive: {
+    backgroundColor: Colors.primary,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.25,
+  },
+  testGroupLabel: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 12,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+    textAlign: "center",
+  },
+  testGroupLabelActive: { color: Colors.white },
+  testGroupCount: {
+    fontFamily: "Inter_600SemiBold",
+    fontSize: 11,
+    color: Colors.textTertiary,
+    marginTop: 2,
   },
   testsList: { gap: 8 },
   testCard: {
