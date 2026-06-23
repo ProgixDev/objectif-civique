@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import {
   Pressable,
   ScrollView,
@@ -13,6 +13,7 @@ import {
   BookOpenCheck,
   ChevronRight,
   Flame,
+  HelpCircle,
   Layers,
   MessageCircle,
   Sparkles,
@@ -30,6 +31,8 @@ import { LIVRABLE_TESTS } from "@/data/livrable";
 import { QCM_BANKS, FLASHCARD_BANKS, bankCount, Bank } from "@/data/banks";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
+import { usePrefsStore } from "@/store/prefsStore";
+import { CoachOverlay, CoachStep } from "@/components/CoachOverlay";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
 import { SERIES_SIZE, seriesCount, seriesRange } from "@/lib/series";
@@ -50,6 +53,40 @@ const FILTERS: { key: FilterKey; label: string }[] = [
   { key: "Tous", label: "Tous" },
 ];
 
+/** Étapes du guide interactif (chaque étape positionne le sous-onglet montré). */
+const GUIDE_STEPS: (CoachStep & { tab: SubTab })[] = [
+  {
+    tab: "officielles",
+    title: "Bienvenue dans Réviser 👋",
+    text: "Tout votre entraînement est regroupé ici, en plusieurs onglets. Je vous les présente en 6 étapes.",
+  },
+  {
+    tab: "officielles",
+    title: "Les banques de questions",
+    text: "« Questions officielles » = les vraies questions de l'examen. « Entraînement » = pour s'exercer librement. « Mise en situation » = cas concrets d'entretien.",
+  },
+  {
+    tab: "themes",
+    title: "Réviser par thème",
+    text: "Travaillez un sujet précis (valeurs, institutions, histoire…). Chaque thème est découpé en séries de 40 questions max.",
+  },
+  {
+    tab: "tests",
+    title: "Les tests",
+    text: "Trois types, sélectionnables par les boutons en haut : par chapitre, par catégorie, ou par section.",
+  },
+  {
+    tab: "flashcards",
+    title: "Les flashcards",
+    text: "Mémorisez vite : la question d'un côté, la réponse de l'autre. Parfait pour réviser en quelques minutes.",
+  },
+  {
+    tab: "officielles",
+    title: "Filtrez par votre cas",
+    text: "Tout en haut, choisissez votre objectif (Naturalisation, CSP, Résident) pour n'afficher que les questions qui vous concernent.",
+  },
+];
+
 export default function Revise() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
@@ -58,6 +95,24 @@ export default function Revise() {
     (userGoal as FilterKey) ?? "Tous"
   );
   const [subTab, setSubTab] = useState<SubTab>("officielles");
+
+  // Guide interactif au 1er lancement (puis rejouable via le bouton « ? »).
+  const [showGuide, setShowGuide] = useState(false);
+  const setReviseGuideSeen = usePrefsStore((s) => s.setReviseGuideSeen);
+  useEffect(() => {
+    const check = () => {
+      if (!usePrefsStore.getState().reviseGuideSeen) setShowGuide(true);
+    };
+    if (usePrefsStore.persist.hasHydrated()) check();
+    else {
+      const unsub = usePrefsStore.persist.onFinishHydration(check);
+      return unsub;
+    }
+  }, []);
+  const finishGuide = () => {
+    setShowGuide(false);
+    setReviseGuideSeen(true);
+  };
 
   const themeProgress = useProgressStore((s) => s.themeProgress);
   const bookmarks = useProgressStore((s) => s.bookmarks);
@@ -143,6 +198,14 @@ export default function Revise() {
               })()}
             </Text>
           </View>
+          <Pressable
+            onPress={() => setShowGuide(true)}
+            style={styles.helpBtn}
+            hitSlop={8}
+            accessibilityLabel="Revoir le guide"
+          >
+            <HelpCircle size={22} color={Colors.primary} />
+          </Pressable>
         </View>
 
         {/* Bandeau de cas — rappel visuel constant */}
@@ -233,6 +296,14 @@ export default function Revise() {
 
         {subTab === "assimilation" ? <AssimilationSection /> : null}
       </ScrollView>
+
+      {showGuide ? (
+        <CoachOverlay
+          steps={GUIDE_STEPS.map((s) => ({ title: s.title, text: s.text }))}
+          onStepChange={(i) => setSubTab(GUIDE_STEPS[i].tab)}
+          onFinish={finishGuide}
+        />
+      ) : null}
     </View>
   );
 }
@@ -812,6 +883,16 @@ const styles = StyleSheet.create({
     alignItems: "center",
     gap: 14,
     marginBottom: 18,
+  },
+  helpBtn: {
+    width: 40,
+    height: 40,
+    borderRadius: 999,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: Colors.white,
+    borderWidth: 1,
+    borderColor: "rgba(0,85,164,0.18)",
   },
   headerIconTile: {
     width: 46,

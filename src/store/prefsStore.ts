@@ -11,8 +11,11 @@ type PrefsState = {
   remindersEnabled: boolean;
   /** Heure du rappel (0-23). */
   reminderHour: number;
+  /** Guide interactif de l'onglet Réviser déjà vu (affiché au 1er lancement). */
+  reviseGuideSeen: boolean;
   setRemindersEnabled: (v: boolean) => void;
   setReminderHour: (h: number) => void;
+  setReviseGuideSeen: (v: boolean) => void;
 };
 
 export const usePrefsStore = create<PrefsState>()(
@@ -20,8 +23,10 @@ export const usePrefsStore = create<PrefsState>()(
     (set) => ({
       remindersEnabled: false,
       reminderHour: 19,
+      reviseGuideSeen: false,
       setRemindersEnabled: (v) => set({ remindersEnabled: v }),
       setReminderHour: (h) => set({ reminderHour: h }),
+      setReviseGuideSeen: (v) => set({ reviseGuideSeen: v }),
     }),
     {
       name: "objectif-civique-prefs",
