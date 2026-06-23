@@ -31,6 +31,7 @@ import {
   SimConfig,
 } from "@/lib/simulations";
 import { SIMULATION_PACKS, SimulationPack } from "@/data/extraContent";
+import { LIVRABLE_EXAMS } from "@/data/livrable";
 
 const TONE: Record<
   SimConfig["tone"],
@@ -57,6 +58,23 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
 
   const simulations = useMemo(
     () => buildSimulations(userGoal),
+    [userGoal]
+  );
+
+  // Examens blancs = packs FULL-DATA + examens de la 2ᵉ base (prepacivique),
+  // filtrés sur le cas de l'utilisateur pour ne pas noyer la liste.
+  const allPacks: SimulationPack[] = useMemo(
+    () => [
+      ...SIMULATION_PACKS,
+      ...LIVRABLE_EXAMS.filter((e) => !userGoal || e.level === userGoal).map(
+        (e) => ({
+          id: e.id,
+          slug: e.slug,
+          title: e.title,
+          questions: e.questions,
+        })
+      ),
+    ],
     [userGoal]
   );
 
@@ -156,18 +174,17 @@ export function SimulationsCatalog({ showBackButton = false }: Props) {
         </View>
 
         {/* Packs pré-construits — Examens blancs officiels */}
-        {SIMULATION_PACKS.length > 0 ? (
+        {allPacks.length > 0 ? (
           <>
             <View style={styles.sectionHeader}>
               <Text style={styles.sectionLabel}>Examens blancs officiels</Text>
               <Text style={styles.sectionSub}>
-                {SIMULATION_PACKS.length} packs sélectionnés — questions
-                soigneusement choisies
+                {allPacks.length} examens blancs de 40 questions
               </Text>
             </View>
 
             <View style={styles.simList}>
-              {SIMULATION_PACKS.map((pack) => {
+              {allPacks.map((pack) => {
                 const packKey = `pack-${pack.slug}`;
                 const locked =
                   isLockedForUser && !FREE_SIM_KEYS.has(packKey);

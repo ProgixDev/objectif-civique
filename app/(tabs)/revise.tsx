@@ -26,6 +26,7 @@ import { EmptyState } from "@/components/EmptyState";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS, GOAL_LABELS } from "@/data/questions";
 import { CHAPTER_TESTS, CATEGORY_TESTS, CivicTest } from "@/data/civicTests";
+import { LIVRABLE_TESTS } from "@/data/livrable";
 import { QCM_BANKS, FLASHCARD_BANKS, bankCount, Bank } from "@/data/banks";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { useUserStore } from "@/store/userStore";
@@ -224,7 +225,9 @@ export default function Revise() {
           />
         ) : null}
 
-        {subTab === "tests" ? <TargetedTestsSection /> : null}
+        {subTab === "tests" ? (
+          <TargetedTestsSection selected={selected} />
+        ) : null}
 
         {subTab === "flashcards" ? <FlashcardsSection /> : null}
 
@@ -499,9 +502,9 @@ function ThemesSection({
 
 /* ───── Tests — par chapitre & par catégories (dossiers FULL-DATA) ───── */
 
-function TargetedTestsSection() {
+function TargetedTestsSection({ selected }: { selected: FilterKey }) {
   const openTest = (
-    kind: "chapter" | "category",
+    kind: "chapter" | "category" | "livrable",
     test: CivicTest,
     series = 0
   ) => {
@@ -516,7 +519,10 @@ function TargetedTestsSection() {
     });
   };
 
-  const renderTest = (kind: "chapter" | "category", test: CivicTest) => {
+  const renderTest = (
+    kind: "chapter" | "category" | "livrable",
+    test: CivicTest
+  ) => {
     const total = test.questions.length;
 
     // Test long (> 40) : découpé en séries de 40.
@@ -601,6 +607,28 @@ function TargetedTestsSection() {
       <View style={styles.testsList}>
         {CATEGORY_TESTS.map((t) => renderTest("category", t))}
       </View>
+
+      {/* Tests par section — 2ᵉ base (prepacivique), filtrés sur le cas */}
+      {(() => {
+        const livTests = LIVRABLE_TESTS.filter(
+          (t) => selected === "Tous" || t.level === selected
+        );
+        if (livTests.length === 0) return null;
+        return (
+          <>
+            <View style={[styles.sectionHeader, { marginTop: 24 }]}>
+              <Text style={styles.sectionLabel}>Tests par section</Text>
+              <Text style={styles.sectionCount}>{livTests.length} tests</Text>
+            </View>
+            <Text style={styles.testsIntro}>
+              Tests officiels et d'entraînement par section, par paquets de 20.
+            </Text>
+            <View style={styles.testsList}>
+              {livTests.map((t) => renderTest("livrable", t))}
+            </View>
+          </>
+        );
+      })()}
     </View>
   );
 }

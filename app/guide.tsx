@@ -26,10 +26,22 @@ import {
   FICHES,
   NOTIONS,
 } from "@/data/guide";
+import {
+  LIVRABLE_GUIDES,
+  LIVRABLE_PREPARATION,
+  LIVRABLE_PAGES,
+} from "@/data/livrable";
 import { THEMES, THEME_LABELS } from "@/data/themes";
 import { ThemeId } from "@/types";
 
-type Section = "livret" | "courses" | "fiches" | "notions";
+type Section =
+  | "livret"
+  | "courses"
+  | "fiches"
+  | "notions"
+  | "guides"
+  | "preparation"
+  | "pages";
 
 const SECTION_META: Record<
   Section,
@@ -54,6 +66,21 @@ const SECTION_META: Record<
     title: "Notions détaillées",
     subtitle: `${NOTIONS.length} questions-réponses`,
     icon: "Lightbulb",
+  },
+  guides: {
+    title: "Guides pratiques",
+    subtitle: `${LIVRABLE_GUIDES.length} guides détaillés`,
+    icon: "BookMarked",
+  },
+  preparation: {
+    title: "Préparation par thème",
+    subtitle: `${LIVRABLE_PREPARATION.length} fiches de préparation`,
+    icon: "NotebookPen",
+  },
+  pages: {
+    title: "Infos & mentions légales",
+    subtitle: `${LIVRABLE_PAGES.length} pages d'information`,
+    icon: "Info",
   },
 };
 
@@ -224,6 +251,9 @@ function SectionView({
         {section === "courses" ? <CoursesList /> : null}
         {section === "fiches" ? <FichesList /> : null}
         {section === "notions" ? <NotionsList /> : null}
+        {section === "guides" ? <GuidesList /> : null}
+        {section === "preparation" ? <PreparationList /> : null}
+        {section === "pages" ? <PagesList /> : null}
       </ScrollView>
     </View>
   );
@@ -382,6 +412,118 @@ function NotionsList() {
                 );
               })}
             </View>
+          </View>
+        );
+      })}
+    </View>
+  );
+}
+
+/* ───── Guides pratiques (2ᵉ base) ───── */
+
+function GuidesList() {
+  const [expanded, setExpanded] = useState<string | null>(null);
+  return (
+    <View style={{ gap: 10 }}>
+      {LIVRABLE_GUIDES.map((g) => {
+        const isOpen = expanded === g.id;
+        return (
+          <View key={g.id} style={styles.contentCard}>
+            <Pressable
+              onPress={() => setExpanded(isOpen ? null : g.id)}
+              style={styles.contentHeader}
+            >
+              <Text style={styles.contentTitle}>{g.title}</Text>
+              <ChevronDown
+                size={18}
+                color={Colors.textTertiary}
+                style={{ transform: [{ rotate: isOpen ? "180deg" : "0deg" }] }}
+              />
+            </Pressable>
+            {isOpen ? (
+              <View style={styles.contentBody}>
+                <MarkdownView source={g.body} />
+              </View>
+            ) : null}
+          </View>
+        );
+      })}
+    </View>
+  );
+}
+
+/* ───── Préparation par thème (2ᵉ base) ───── */
+
+function PreparationList() {
+  const [expanded, setExpanded] = useState<string | null>(null);
+  return (
+    <View style={{ gap: 16 }}>
+      {THEMES.map((theme) => {
+        const items = LIVRABLE_PREPARATION.filter((p) => p.themeId === theme.id);
+        if (items.length === 0) return null;
+        return (
+          <View key={theme.id}>
+            <Text style={styles.themeHeader}>{theme.name}</Text>
+            <View style={{ gap: 8 }}>
+              {items.map((p) => {
+                const isOpen = expanded === p.id;
+                return (
+                  <View key={p.id} style={styles.contentCard}>
+                    <Pressable
+                      onPress={() => setExpanded(isOpen ? null : p.id)}
+                      style={styles.contentHeader}
+                    >
+                      <Text style={styles.contentTitle}>{p.title}</Text>
+                      <ChevronDown
+                        size={18}
+                        color={Colors.textTertiary}
+                        style={{
+                          transform: [{ rotate: isOpen ? "180deg" : "0deg" }],
+                        }}
+                      />
+                    </Pressable>
+                    {isOpen ? (
+                      <View style={styles.contentBody}>
+                        <MarkdownView source={p.body} />
+                      </View>
+                    ) : null}
+                  </View>
+                );
+              })}
+            </View>
+          </View>
+        );
+      })}
+    </View>
+  );
+}
+
+/* ───── Pages d'information & mentions légales (2ᵉ base) ───── */
+
+function PagesList() {
+  const [expanded, setExpanded] = useState<string | null>(null);
+  return (
+    <View style={{ gap: 10 }}>
+      {LIVRABLE_PAGES.map((p) => {
+        const isOpen = expanded === p.id;
+        return (
+          <View key={p.id} style={styles.contentCard}>
+            <Pressable
+              onPress={() => setExpanded(isOpen ? null : p.id)}
+              style={styles.contentHeader}
+            >
+              <Text style={styles.contentTitle}>{p.title}</Text>
+              <ChevronDown
+                size={18}
+                color={Colors.textTertiary}
+                style={{ transform: [{ rotate: isOpen ? "180deg" : "0deg" }] }}
+              />
+            </Pressable>
+            {isOpen ? (
+              <View style={styles.contentBody}>
+                <MarkdownView source={p.body} />
+              </View>
+            ) : null}
           </View>
         );
       })}

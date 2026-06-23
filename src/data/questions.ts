@@ -1,6 +1,7 @@
 import { Category, Question, QuestionType, ThemeId } from "@/types";
 import rawAllQuestions from "../../FULL-DATA/1-questions/_all.json";
 import { EXTRA_FLASHCARDS, EXTRA_QCM } from "./extraContent";
+import { LIVRABLE_QUESTIONS } from "./livrable";
 import { resolveExplanation } from "./explanationLookup";
 
 /**
@@ -128,6 +129,21 @@ for (const q of [...BASE_QUESTIONS, ...EXTRA_QCM]) {
   questionSeen.add(q.id);
   questionAll.push(q);
 }
+
+// 2ᵉ base client (prepacivique) : on n'ajoute que les questions RÉELLEMENT
+// nouvelles, dédupliquées par énoncé normalisé (les id diffèrent entre bases,
+// donc une dédup par id ne suffirait pas).
+const normQ = (s: string) =>
+  s.toLowerCase().replace(/<[^>]+>/g, " ").replace(/[^a-z0-9àâäéèêëïîôöùûüç]+/gi, " ").trim();
+const statementSeen = new Set<string>(questionAll.map((q) => normQ(q.text)));
+for (const q of LIVRABLE_QUESTIONS) {
+  if (q.choices.length < 2 || q.correctIndex < 0) continue;
+  const key = normQ(q.text);
+  if (statementSeen.has(key)) continue;
+  statementSeen.add(key);
+  questionAll.push(q);
+}
+
 export const QUESTIONS: Question[] = questionAll;
 
 /**

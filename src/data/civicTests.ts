@@ -1,5 +1,6 @@
 import { Category, Question, ThemeId } from "@/types";
 import { resolveExplanation, resolveTheme } from "./explanationLookup";
+import { LIVRABLE_TESTS } from "./livrable";
 
 // ── Test par chapitre — FULL-DATA/Tests_test_civique (14 chapitres fins) ──
 import accesAuxSoins from "../../FULL-DATA/Tests_test_civique/acces-aux-soins-all.json";
@@ -149,13 +150,14 @@ export const CATEGORY_TESTS: CivicTest[] = [
   buildTest("vivre", "Vivre en France", catVivre, "vivre-en-societe"),
 ].filter((t) => t.questions.length > 0);
 
-export type CivicTestKind = "chapter" | "category";
+export type CivicTestKind = "chapter" | "category" | "livrable";
 
 /** Retrouve un test par sa nature et son id (pour l'écran d'entraînement). */
 export function findCivicTest(
   kind: CivicTestKind,
   id: string
 ): CivicTest | undefined {
+  if (kind === "livrable") return LIVRABLE_TESTS.find((t) => t.id === id);
   const pool = kind === "chapter" ? CHAPTER_TESTS : CATEGORY_TESTS;
   return pool.find((t) => t.id === id);
 }

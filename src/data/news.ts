@@ -1,4 +1,5 @@
 import rawArticles from "./articles.json";
+import { LIVRABLE_ARTICLES } from "./livrable";
 
 /**
  * 37 articles longs format markdown — base de connaissances autour de
@@ -20,7 +21,15 @@ export type NewsArticle = {
   body: string;
 };
 
-export const NEWS_ARTICLES: NewsArticle[] = rawArticles as NewsArticle[];
+// Articles FULL-DATA + articles de la 2ᵉ base (prepacivique), dédupliqués par
+// slug (les articles existants priment).
+const baseArticles = rawArticles as NewsArticle[];
+const seenSlugs = new Set(baseArticles.map((a) => a.slug));
+const livArticles = (LIVRABLE_ARTICLES as NewsArticle[]).filter(
+  (a) => !seenSlugs.has(a.slug)
+);
+
+export const NEWS_ARTICLES: NewsArticle[] = [...baseArticles, ...livArticles];
 
 /**
  * Catégorisation simple basée sur le slug. Utilisée pour afficher un pill
