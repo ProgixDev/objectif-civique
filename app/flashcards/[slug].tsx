@@ -1,6 +1,7 @@
 import React, { useMemo, useState } from "react";
 import {
   Pressable,
+  ScrollView,
   StyleSheet,
   Text,
   View,
@@ -26,6 +27,8 @@ import { THEMES } from "@/data/themes";
 import { useProgressStore } from "@/store/progressStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { Category, Question, ThemeId } from "@/types";
+
+const CARD_HEIGHT = 420;
 
 export default function FlashcardDeck() {
   const { slug } = useLocalSearchParams<{ slug: string }>();
@@ -169,7 +172,7 @@ export default function FlashcardDeck() {
       </View>
 
       <View style={styles.center}>
-        <Pressable onPress={onFlip} style={{ width: cardWidth, height: 400 }}>
+        <Pressable onPress={onFlip} style={{ width: cardWidth, height: CARD_HEIGHT }}>
           <Animated.View
             style={[
               styles.card,
@@ -179,7 +182,13 @@ export default function FlashcardDeck() {
             ]}
           >
             <Text style={styles.faceLabel}>Question</Text>
-            <Text style={styles.faceText}>{current.text}</Text>
+            <ScrollView
+              style={styles.faceScroll}
+              contentContainerStyle={styles.faceScrollContent}
+              showsVerticalScrollIndicator={false}
+            >
+              <Text style={styles.faceText}>{current.text}</Text>
+            </ScrollView>
             <Text style={styles.hint}>Touchez pour retourner</Text>
           </Animated.View>
 
@@ -194,12 +203,20 @@ export default function FlashcardDeck() {
             <Text style={[styles.faceLabel, { color: Colors.white }]}>
               Réponse
             </Text>
-            {current.correctIndex >= 0 && current.choices[current.correctIndex] ? (
-              <Text style={[styles.faceText, { color: Colors.white }]}>
-                {current.choices[current.correctIndex]}
-              </Text>
-            ) : null}
-            <Text style={styles.explanation}>{getExplanation(current)}</Text>
+            <ScrollView
+              style={styles.faceScroll}
+              contentContainerStyle={styles.faceScrollContent}
+              showsVerticalScrollIndicator={false}
+            >
+              {current.correctIndex >= 0 && current.choices[current.correctIndex] ? (
+                <Text style={[styles.faceText, { color: Colors.white }]}>
+                  {current.choices[current.correctIndex]}
+                </Text>
+              ) : null}
+              {getExplanation(current) ? (
+                <Text style={styles.explanation}>{getExplanation(current)}</Text>
+              ) : null}
+            </ScrollView>
           </Animated.View>
         </Pressable>
       </View>
@@ -267,12 +284,24 @@ const styles = StyleSheet.create({
   card: {
     position: "absolute",
     top: 0,
-    height: 400,
+    height: CARD_HEIGHT,
     borderRadius: Radius.xl,
-    padding: 28,
-    alignItems: "center",
-    justifyContent: "center",
+    paddingHorizontal: 24,
+    paddingTop: 24,
+    paddingBottom: 18,
+    alignItems: "stretch",
+    justifyContent: "flex-start",
+    overflow: "hidden",
     backfaceVisibility: "hidden",
+  },
+  faceScroll: {
+    flex: 1,
+    width: "100%",
+  },
+  faceScrollContent: {
+    flexGrow: 1,
+    justifyContent: "center",
+    paddingVertical: 8,
   },
   cardFront: {
     backgroundColor: Colors.surfaceContainerLowest,
@@ -288,32 +317,30 @@ const styles = StyleSheet.create({
     color: Colors.tertiaryOnSoft,
     letterSpacing: 0.5,
     textTransform: "uppercase",
-    marginBottom: 14,
+    textAlign: "center",
+    marginBottom: 12,
   },
   faceText: {
     fontFamily: "Inter_700Bold",
-    fontSize: 22,
-    lineHeight: 30,
+    fontSize: 20,
+    lineHeight: 28,
     color: Colors.onSurface,
     textAlign: "center",
   },
   hint: {
-    position: "absolute",
-    bottom: 20,
     fontFamily: "Inter_400Regular",
     fontSize: 11,
     color: Colors.textTertiary,
+    textAlign: "center",
+    marginTop: 10,
   },
   explanation: {
-    position: "absolute",
-    bottom: 24,
-    left: 20,
-    right: 20,
     fontFamily: "Inter_400Regular",
-    fontSize: 12,
-    lineHeight: 18,
-    color: "rgba(255,255,255,0.85)",
+    fontSize: 13,
+    lineHeight: 19,
+    color: "rgba(255,255,255,0.9)",
     textAlign: "center",
+    marginTop: 16,
   },
   bottom: {
     flexDirection: "row",

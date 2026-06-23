@@ -33,7 +33,6 @@ import { scoreSession, isPass, getExplanation } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
 import { getNextSimulation, isSimLocked } from "@/lib/simulations";
 import { effectivePlan } from "@/lib/entitlements";
-import { toast } from "@/store/toastStore";
 import { Category, ThemeId } from "@/types";
 import { THEMES } from "@/data/themes";
 import { ProgressBar } from "@/components/ui/ProgressBar";
@@ -267,10 +266,7 @@ export default function Results() {
             {wrongQuestions.slice(0, 5).map(({ q, i }) => (
               <Pressable
                 key={q.id}
-                onPress={() => {
-                  if (mode === "simulation") setOpenDetail(i);
-                  else toast.info("Détails à venir");
-                }}
+                onPress={() => setOpenDetail(i)}
                 style={styles.wrongRow}
               >
                 <View style={styles.wrongIcon}>
@@ -326,6 +322,16 @@ export default function Results() {
         ) : null}
 
         <View style={{ gap: 10, marginTop: 24 }}>
+          <PillButton
+            label="Revoir toutes mes réponses"
+            size="md"
+            variant="secondary"
+            fullWidth
+            rightIcon={<ChevronRight size={16} color={Colors.white} />}
+            // Route réelle (app/review.tsx) ; les types de routes typées
+            // d'expo-router se régénèrent au lancement/build.
+            onPress={() => router.push("/review" as never)}
+          />
           {mode === "simulation" ? (
             <>
               <PillButton

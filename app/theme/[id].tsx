@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import React, { useMemo, useState } from "react";
 import {
   Pressable,
   ScrollView,
@@ -10,6 +10,8 @@ import { router, useLocalSearchParams } from "expo-router";
 import * as LucideIcons from "lucide-react-native";
 import {
   BookOpen,
+  Check,
+  ChevronDown,
   ChevronLeft,
   ChevronRight,
 } from "lucide-react-native";
@@ -24,6 +26,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { THEMES } from "@/data/themes";
 import { QUESTIONS } from "@/data/questions";
 import { LESSONS } from "@/data/lessons";
+import { getExplanation } from "@/lib/quizEngine";
 import { useProgressStore } from "@/store/progressStore";
 import { Category, ThemeId } from "@/types";
 import { toast } from "@/store/toastStore";
@@ -43,6 +46,9 @@ export default function ThemeDetail() {
 
   const themeProgress = useProgressStore((s) => s.themeProgress);
   const sessionsHistory = useProgressStore((s) => s.sessionsHistory);
+
+  // Question dépliée (accordéon) : afficher la réponse directement au clic.
+  const [openId, setOpenId] = useState<string | null>(null);
 
   const filtered = useMemo(
     () =>
@@ -193,39 +199,104 @@ export default function ThemeDetail() {
           <Text style={styles.sectionCount}>{filtered.length}</Text>
         </View>
         <Text style={styles.sectionSub}>
-          Touchez une question pour la réviser dans ce thème.
+          Touchez une question pour voir la réponse.
         </Text>
 
         <View style={{ gap: 8 }}>
-          {filtered.map((q, i) => (
-            <Pressable
-              key={q.id}
-              onPress={() => openThemeAt(i)}
-              style={({ pressed }) => [
-                styles.qRow,
-                pressed && { opacity: 0.85, transform: [{ scale: 0.99 }] },
-              ]}
-              accessibilityRole="button"
-            >
-              <View style={styles.numBadge}>
-                <Text
-                  style={[
-                    Typography.caption,
-                    { color: Colors.onSurface, fontFamily: "Inter_600SemiBold" },
+          {filtered.map((q, i) => {
+            const open = openId === q.id;
+            return (
+              <View key={q.id} style={styles.qRow}>
+                <Pressable
+                  onPress={() => setOpenId(open ? null : q.id)}
+                  style={({ pressed }) => [
+                    styles.qHeader,
+                    pressed && { opacity: 0.85 },
                   ]}
+                  accessibilityRole="button"
                 >
-                  {i + 1}
-                </Text>
+                  <View style={styles.numBadge}>
+                    <Text
+                      style={[
+                        Typography.caption,
+                        {
+                          color: Colors.onSurface,
+                          fontFamily: "Inter_600SemiBold",
+                        },
+                      ]}
+                    >
+                      {i + 1}
+                    </Text>
+                  </View>
+                  <Text
+                    numberOfLines={open ? undefined : 2}
+                    style={[Typography.body, { color: Colors.onSurface, flex: 1 }]}
+                  >
+                    {q.text}
+                  </Text>
+                  {open ? (
+                    <ChevronDown size={18} color={Colors.textTertiary} />
+                  ) : (
+                    <ChevronRight size={18} color={Colors.textTertiary} />
+                  )}
+                </Pressable>
+
+                {open ? (
+                  <View style={styles.answerBlock}>
+                    {q.correctIndex >= 0 ? (
+                      q.choices.map((choice, ci) => {
+                        const isCorrect = ci === q.correctIndex;
+                        return (
+                          <View
+                            key={ci}
+                            style={[
+                              styles.choiceRow,
+                              isCorrect && styles.choiceCorrect,
+                            ]}
+                          >
+                            {isCorrect ? (
+                              <Check size={15} color={Colors.success} />
+                            ) : (
+                              <View style={styles.choiceDot} />
+                            )}
+                            <Text
+                              style={[
+                                styles.choiceText,
+                                isCorrect && {
+                                  color: Colors.success,
+                                  fontFamily: "Inter_600SemiBold",
+                                },
+                              ]}
+                            >
+                              {choice}
+                            </Text>
+                          </View>
+                        );
+                      })
+                    ) : null}
+
+                    {getExplanation(q) ? (
+                      <View style={styles.explainBox}>
+                        <Text style={styles.explainLabel}>Explication</Text>
+                        <Text style={styles.explainText}>
+                          {getExplanation(q)}
+                        </Text>
+                      </View>
+                    ) : null}
+
+                    <Pressable
+                      onPress={() => openThemeAt(i)}
+                      style={styles.reviseLink}
+                    >
+                      <Text style={styles.reviseLinkText}>
+                        Réviser cette question →
+                      </Text>
+                    </Pressable>
+                  </View>
+                ) : null}
               </View>
-              <Text
-                numberOfLines={2}
-                style={[Typography.body, { color: Colors.onSurface, flex: 1 }]}
-              >
-                {q.text}
-              </Text>
-              <ChevronRight size={18} color={Colors.textTertiary} />
-            </Pressable>
-          ))}
+            );
+          })}
         </View>
       </ScrollView>
     </View>
@@ -335,9 +406,72 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surfaceContainerLowest,
     borderWidth: 1,
     borderColor: "rgba(204,199,208,0.25)",
+  },
+  qHeader: {
     flexDirection: "row",
     alignItems: "center",
     gap: 10,
+  },
+  answerBlock: {
+    marginTop: 10,
+    paddingTop: 10,
+    borderTopWidth: 1,
+    borderTopColor: "rgba(204,199,208,0.3)",
+    gap: 6,
+  },
+  choiceRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    paddingVertical: 6,
+    paddingHorizontal: 8,
+    borderRadius: 8,
+    backgroundColor: Colors.surfaceContainerLow,
+  },
+  choiceCorrect: {
+    backgroundColor: "rgba(34,197,94,0.12)",
+  },
+  choiceDot: {
+    width: 15,
+    height: 15,
+    borderRadius: 999,
+    borderWidth: 1.5,
+    borderColor: Colors.outlineVariant,
+  },
+  choiceText: {
+    ...Typography.body,
+    color: Colors.onSurface,
+    flex: 1,
+    fontSize: 13,
+  },
+  explainBox: {
+    marginTop: 4,
+    padding: 10,
+    borderRadius: 8,
+    backgroundColor: Colors.primaryFixed,
+  },
+  explainLabel: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 10,
+    color: Colors.primary,
+    letterSpacing: 0.3,
+    textTransform: "uppercase",
+    marginBottom: 4,
+  },
+  explainText: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 13,
+    lineHeight: 19,
+    color: Colors.onSurface,
+  },
+  reviseLink: {
+    marginTop: 4,
+    alignSelf: "flex-start",
+  },
+  reviseLinkText: {
+    fontFamily: "Inter_600SemiBold",
+    fontSize: 13,
+    color: Colors.primary,
   },
   numBadge: {
     width: 24,
