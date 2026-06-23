@@ -1,6 +1,6 @@
 import React from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
-import { router } from "expo-router";
+import { router, useLocalSearchParams } from "expo-router";
 import { Check, ChevronLeft, X } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
@@ -15,7 +15,19 @@ import { getExplanation } from "@/lib/quizEngine";
  */
 export default function ReviewAnswers() {
   const insets = useSafeAreaInsets();
+  const params = useLocalSearchParams<{ filter?: string }>();
+  const onlyWrong = params.filter === "wrong";
   const session = useSessionStore((s) => s.current);
+
+  const items = (session?.questions ?? [])
+    .map((q, qi) => ({ q, qi }))
+    .filter(({ q }) => {
+      if (!onlyWrong) return true;
+      const pick =
+        session?.answers.find((a) => a.questionId === q.id)?.selectedIndex ??
+        null;
+      return pick !== q.correctIndex; // garde les fausses + sautées
+    });
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -23,16 +35,22 @@ export default function ReviewAnswers() {
         <Pressable onPress={() => router.back()} style={styles.backBtn} hitSlop={6}>
           <ChevronLeft size={20} color={Colors.primary} />
         </Pressable>
-        <Text style={styles.screenTitle}>Revoir mes réponses</Text>
+        <Text style={styles.screenTitle}>
+          {onlyWrong ? "Mes erreurs" : "Toutes les réponses"}
+        </Text>
       </View>
 
-      {!session || session.questions.length === 0 ? (
+      {!session || items.length === 0 ? (
         <View style={styles.empty}>
-          <Text style={styles.emptyText}>Aucune réponse à afficher.</Text>
+          <Text style={styles.emptyText}>
+            {onlyWrong
+              ? "Aucune erreur, bravo ! 🎉"
+              : "Aucune réponse à afficher."}
+          </Text>
         </View>
       ) : (
         <ScrollView contentContainerStyle={{ padding: 16, paddingBottom: 40 }}>
-          {session.questions.map((q, qi) => {
+          {items.map(({ q, qi }) => {
             const userPick =
               session.answers.find((a) => a.questionId === q.id)?.selectedIndex ??
               null;

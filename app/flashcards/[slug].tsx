@@ -344,8 +344,8 @@ const styles = StyleSheet.create({
   },
   faceText: {
     fontFamily: "Inter_700Bold",
-    fontSize: 20,
-    lineHeight: 28,
+    fontSize: 23,
+    lineHeight: 31,
     color: Colors.onSurface,
     textAlign: "center",
   },
@@ -358,9 +358,9 @@ const styles = StyleSheet.create({
   },
   explanation: {
     fontFamily: "Inter_400Regular",
-    fontSize: 13,
-    lineHeight: 19,
-    color: "rgba(255,255,255,0.9)",
+    fontSize: 15,
+    lineHeight: 22,
+    color: "rgba(255,255,255,0.92)",
     textAlign: "center",
     marginTop: 16,
   },

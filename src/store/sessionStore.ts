@@ -1,4 +1,6 @@
 import { create } from "zustand";
+import { persist, createJSONStorage } from "zustand/middleware";
+import { zustandStorage } from "@/lib/storage";
 import { Answer, Category, Question, Session, ThemeId, Recap } from "@/types";
 import { pickQuestions, scoreSession, shuffleChoices } from "@/lib/quizEngine";
 import { QUESTIONS } from "@/data/questions";
@@ -76,7 +78,9 @@ type SessionState = {
   resumeTimer: () => number;
 };
 
-export const useSessionStore = create<SessionState>((set, get) => ({
+export const useSessionStore = create<SessionState>()(
+  persist(
+    (set, get) => ({
   current: null,
   currentIndex: 0,
 
@@ -254,4 +258,14 @@ export const useSessionStore = create<SessionState>((set, get) => ({
     const elapsed = (Date.now() - state.current.startedAtMs) / 1000;
     return Math.max(0, state.current.timerInitialSeconds - Math.floor(elapsed));
   },
-}));
+    }),
+    {
+      // Persistance pour la "reprise là où on s'est arrêté" : on conserve la
+      // session en cours + la position. Repushée telle quelle au redémarrage.
+      name: "objectif-civique-session",
+      storage: createJSONStorage(() => zustandStorage),
+      partialize: (s) => ({ current: s.current, currentIndex: s.currentIndex }),
+      version: 1,
+    }
+  )
+);

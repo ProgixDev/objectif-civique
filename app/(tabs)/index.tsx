@@ -36,10 +36,12 @@ import { GrainyBackground } from "@/components/ui/GrainyBackground";
 import { ProgressBar } from "@/components/ui/ProgressBar";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore, getSuccessRate } from "@/store/progressStore";
+import { useSessionStore } from "@/store/sessionStore";
 import { GOAL_LABELS } from "@/data/questions";
 import { THEMES } from "@/data/themes";
 import { useHaptics } from "@/hooks/useHaptics";
 import { getPresentation } from "@/lib/goalPresentation";
+import { getResumeTarget } from "@/lib/resume";
 import { isPaid } from "@/lib/entitlements";
 
 const TOTAL_QUESTION_BANK = 2500;
@@ -61,6 +63,8 @@ export default function HomeTab() {
   const user = useUserStore((s) => s.user);
   const progress = useProgressStore();
   const haptics = useHaptics();
+  const currentSession = useSessionStore((s) => s.current);
+  const resume = getResumeTarget(currentSession);
 
   const firstName = user?.firstName ?? "Ami";
   const initials = firstName.slice(0, 1).toUpperCase();
@@ -212,6 +216,37 @@ export default function HomeTab() {
             </View>
           </View>
         </View>
+
+        {/* Reprise — série en cours non terminée */}
+        {resume ? (
+          <Pressable
+            onPress={go(() =>
+              router.push({
+                pathname: resume.pathname,
+                params: resume.params,
+              } as never)
+            )}
+            style={({ pressed }) => [
+              styles.resumeBanner,
+              pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel={resume.label}
+          >
+            <View style={styles.resumeIcon}>
+              <Timer size={20} color={Colors.white} strokeWidth={2.2} />
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.resumeTitle}>{resume.label}</Text>
+              <Text style={styles.resumeSub} numberOfLines={2}>
+                Vous avez une série en cours — reprenez là où vous vous êtes
+                arrêté.
+              </Text>
+            </View>
+            <ChevronRight size={18} color={Colors.white} />
+          </Pressable>
+        ) : null}
+
         {/* Forfait CTA — shown only while on free plan */}
         {!isPaid(user) ? (
           <Pressable
@@ -1010,6 +1045,41 @@ const styles = StyleSheet.create({
     letterSpacing: 0.1,
   },
 
+  resumeBanner: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    marginBottom: 14,
+    backgroundColor: Colors.tertiary,
+    shadowColor: Colors.tertiary,
+    shadowOpacity: 0.25,
+    shadowRadius: 14,
+    shadowOffset: { width: 0, height: 8 },
+    elevation: 5,
+  },
+  resumeIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "rgba(255,255,255,0.16)",
+  },
+  resumeTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.white,
+    letterSpacing: -0.1,
+  },
+  resumeSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: "rgba(255,255,255,0.85)",
+    marginTop: 2,
+  },
   forfaitBanner: {
     position: "relative",
     flexDirection: "row",

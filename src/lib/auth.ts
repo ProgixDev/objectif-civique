@@ -3,6 +3,7 @@ import * as Linking from "expo-linking";
 import { supabase, isSupabaseConfigured } from "@/lib/supabase";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
+import { useSessionStore } from "@/store/sessionStore";
 import { pullAll, startSync, stopSync, pushProfile } from "@/lib/sync";
 import { User } from "@/types";
 
@@ -180,6 +181,7 @@ export async function signOut(): Promise<void> {
   }
   useUserStore.getState().clearUser();
   useProgressStore.getState().reset();
+  useSessionStore.getState().reset();
 }
 
 /**

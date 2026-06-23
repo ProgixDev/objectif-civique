@@ -185,7 +185,17 @@ export default function Practice() {
       }
       router.replace({
         pathname: "/results/[sessionId]",
-        params: { sessionId: session.id, mode: "practice", category: initCategory },
+        params: {
+          sessionId: session.id,
+          mode: "practice",
+          category: initCategory,
+          ...(themeId
+            ? { themeId, themeCat: String(themeCat), series: String(series) }
+            : {}),
+          ...(isTargetedTest && subThemeId
+            ? { testKind, subTheme: subThemeId, series: String(series) }
+            : {}),
+        },
       });
     } else {
       goNext();

@@ -33,6 +33,9 @@ import { scoreSession, isPass, getExplanation } from "@/lib/quizEngine";
 import { formatDuration } from "@/lib/formatters";
 import { getNextSimulation, isSimLocked } from "@/lib/simulations";
 import { effectivePlan } from "@/lib/entitlements";
+import { seriesCount } from "@/lib/series";
+import { themeQuestions } from "@/store/sessionStore";
+import { findCivicTest, CivicTestKind } from "@/data/civicTests";
 import { Category, ThemeId } from "@/types";
 import { THEMES } from "@/data/themes";
 import { ProgressBar } from "@/components/ui/ProgressBar";
@@ -44,12 +47,15 @@ export default function Results() {
     mode?: string;
     category?: string;
     themeId?: string;
+    themeCat?: string;
+    testKind?: string;
+    subTheme?: string;
+    series?: string;
   }>();
   const mode = (params.mode ?? "practice") as "practice" | "simulation" | "theme";
 
   const session = useSessionStore((s) => s.current);
   const startPractice = useSessionStore((s) => s.startPractice);
-  const startTheme = useSessionStore((s) => s.startTheme);
   const startSimulation = useSessionStore((s) => s.startSimulation);
   const userGoal = useUserStore((s) => s.user?.goal) ?? null;
   const user = useUserStore((s) => s.user);
@@ -82,6 +88,45 @@ export default function Results() {
 
   const durationMs = session?.durationMs ?? 0;
   const passed = isPass(recap.percent, 80);
+
+  // Contexte "série" (révision thème / test) → propose la série suivante.
+  const series = params.series ? Number(params.series) : 0;
+  const ctxThemeId = params.themeId as ThemeId | undefined;
+  const ctxThemeCat = params.themeCat ?? "Tous";
+  const ctxTestKind = params.testKind as CivicTestKind | undefined;
+  const ctxSubTheme = params.subTheme;
+  const isSeriesContext = !!ctxThemeId || (!!ctxTestKind && !!ctxSubTheme);
+  const contextTotal = ctxThemeId
+    ? themeQuestions(ctxThemeId, ctxThemeCat as any).length
+    : ctxTestKind && ctxSubTheme
+      ? findCivicTest(ctxTestKind, ctxSubTheme)?.questions.length ?? 0
+      : 0;
+  const hasNextSeries =
+    contextTotal > 0 && series + 1 < seriesCount(contextTotal);
+
+  const goSeries = (s: number) => {
+    if (ctxThemeId) {
+      router.replace({
+        pathname: "/practice/[category]",
+        params: {
+          category: (params.category as string) ?? "NAT",
+          themeId: ctxThemeId,
+          themeCat: String(ctxThemeCat),
+          series: String(s),
+        },
+      });
+    } else if (ctxTestKind && ctxSubTheme) {
+      router.replace({
+        pathname: "/practice/[category]",
+        params: {
+          category: "test",
+          testKind: ctxTestKind,
+          subTheme: ctxSubTheme,
+          series: String(s),
+        },
+      });
+    }
+  };
 
   const wrongQuestions =
     session?.questions
@@ -323,7 +368,7 @@ export default function Results() {
 
         <View style={{ gap: 10, marginTop: 24 }}>
           <PillButton
-            label="Revoir toutes mes réponses"
+            label="Voir toutes les réponses"
             size="md"
             variant="secondary"
             fullWidth
@@ -332,6 +377,19 @@ export default function Results() {
             // d'expo-router se régénèrent au lancement/build.
             onPress={() => router.push("/review" as never)}
           />
+          {recap.wrong > 0 ? (
+            <GhostButton
+              label="Voir les erreurs"
+              size="md"
+              fullWidth
+              onPress={() =>
+                router.push({
+                  pathname: "/review",
+                  params: { filter: "wrong" },
+                } as never)
+              }
+            />
+          ) : null}
           {mode === "simulation" ? (
             <>
               <PillButton
@@ -395,36 +453,37 @@ export default function Results() {
             </>
           ) : (
             <>
-              <PillButton
-                label="Questions suivantes"
-                size="md"
-                variant="primary"
-                fullWidth
-                rightIcon={<ChevronRight size={16} color={Colors.white} />}
-                onPress={() => {
-                  const cat = (params.category as Category) ?? "NAT";
-                  if (params.themeId) {
-                    startTheme(params.themeId as ThemeId, 20);
-                  } else {
+              {isSeriesContext ? (
+                <PillButton
+                  label={hasNextSeries ? "Série suivante" : "Recommencer la série"}
+                  size="md"
+                  variant="primary"
+                  fullWidth
+                  rightIcon={<ChevronRight size={16} color={Colors.white} />}
+                  onPress={() => goSeries(hasNextSeries ? series + 1 : series)}
+                />
+              ) : (
+                <PillButton
+                  label="Questions suivantes"
+                  size="md"
+                  variant="primary"
+                  fullWidth
+                  rightIcon={<ChevronRight size={16} color={Colors.white} />}
+                  onPress={() => {
+                    const cat = (params.category as Category) ?? "NAT";
                     startPractice(cat, 20);
-                  }
-                  router.replace({
-                    pathname: "/practice/[category]",
-                    params: params.themeId
-                      ? { category: cat, themeId: params.themeId }
-                      : { category: cat },
-                  });
-                }}
-              />
+                    router.replace({
+                      pathname: "/practice/[category]",
+                      params: { category: cat },
+                    });
+                  }}
+                />
+              )}
               <GhostButton
-                label={recap.wrong > 0 ? "Revoir mes erreurs" : "Voir mes statistiques"}
+                label="Voir mes statistiques"
                 size="md"
                 fullWidth
-                onPress={() =>
-                  recap.wrong > 0
-                    ? router.replace("/(tabs)/revise")
-                    : router.replace("/(tabs)/progress")
-                }
+                onPress={() => router.replace("/(tabs)/progress")}
               />
             </>
           )}
