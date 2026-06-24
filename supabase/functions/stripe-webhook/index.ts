@@ -27,6 +27,7 @@ type ProfilePatch = {
   subscription_plan?: string;
   subscription_status?: string | null;
   subscription_expires_at?: string | null;
+  stripe_customer_id?: string;
 };
 
 async function updateProfile(userId: string, patch: ProfilePatch) {
@@ -88,6 +89,9 @@ async function applySubscription(sub: Stripe.Subscription) {
     subscription_plan: plan,
     subscription_status: status,
     subscription_expires_at: periodEnd,
+    // Mémorise le client Stripe (utile pour l'annulation des abonnés web).
+    stripe_customer_id:
+      typeof sub.customer === "string" ? sub.customer : undefined,
   });
 }
 
@@ -130,6 +134,8 @@ Deno.serve(async (req) => {
             subscription_plan: plan,
             subscription_status: "active",
             subscription_expires_at: expires,
+            stripe_customer_id:
+              typeof pi.customer === "string" ? pi.customer : undefined,
           });
         }
         break;
