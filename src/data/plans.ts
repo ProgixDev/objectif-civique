@@ -1,102 +1,104 @@
 import { Plan } from "@/types";
 
 /**
- * Les 6 forfaits commerciaux. L'ordre = ordre d'affichage dans le paywall.
+ * Les 6 formules commerciales — toutes en **paiement UNIQUE** (aucun
+ * renouvellement automatique). Le candidat achète un accès pour une durée, puis
+ * décide librement de prolonger ou non à la fin.
  *
- * NB : le `price` est l'affichage ; `amountCents` est la source de vérité
- * numérique. Les `id` servent de clé partout (DB, Stripe, gating) — ne pas
- * renommer sans migration.
+ * NB : le `price` est l'affichage ; `amountCents` est la source de vérité.
+ * `accessDays` = durée d'accès (null = à vie). Les `id` servent de clé partout
+ * (DB, Stripe, gating) — ne pas renommer sans migration.
  */
 export const PLANS: Plan[] = [
   {
     id: "discovery",
-    title: "Découverte",
+    title: "Accès 7 jours",
     price: "5,99 €",
-    period: "/ 7 jours",
+    period: "paiement unique",
     amountCents: 599,
     mode: "payment",
     accessDays: 7,
     highlight: false,
     features: [
       "Accès complet pendant 7 jours",
-      "Toutes les questions",
-      "Idéal pour tester l'app",
+      "Toutes les questions officielles",
+      "Idéal pour tester",
     ],
   },
   {
     id: "premium",
-    title: "Premium",
+    title: "Accès 1 mois",
     price: "9,99 €",
-    period: "/ mois",
+    period: "paiement unique",
     amountCents: 999,
-    mode: "subscription",
-    accessDays: null,
+    mode: "payment",
+    accessDays: 30,
     highlight: false,
     features: [
-      "Toutes les questions",
+      "Accès complet pendant 1 mois",
       "Simulations illimitées",
       "Suivi de progression",
     ],
   },
   {
     id: "silver",
-    title: "Argent",
+    title: "Accès 3 mois",
     price: "15,99 €",
-    period: "/ 3 mois",
+    period: "paiement unique",
     amountCents: 1599,
-    mode: "subscription",
-    accessDays: null,
+    mode: "payment",
+    accessDays: 90,
     highlight: false,
     features: [
-      "Tout du plan Premium",
-      "Économisez vs mensuel",
-      "Accompagnement prioritaire",
+      "Accès complet pendant 3 mois",
+      "Toutes les mises en situation",
+      "Plus économique que le mois",
     ],
   },
   {
     id: "gold",
-    title: "Or",
+    title: "Accès 6 mois",
     price: "19,99 €",
-    period: "/ 6 mois",
+    period: "paiement unique",
     amountCents: 1999,
-    mode: "subscription",
-    accessDays: null,
+    mode: "payment",
+    accessDays: 180,
     highlight: true,
     badge: "RECOMMANDÉ",
     features: [
-      "Tout du plan Argent",
+      "Accès complet pendant 6 mois",
       "Meilleur rapport qualité-prix",
-      "Support prioritaire",
+      "Pour une préparation sereine",
     ],
   },
   {
     id: "diamond",
-    title: "Diamant",
+    title: "Accès 1 an",
     price: "29,99 €",
-    period: "/ an",
+    period: "paiement unique",
     amountCents: 2999,
-    mode: "subscription",
-    accessDays: null,
+    mode: "payment",
+    accessDays: 365,
     highlight: false,
     features: [
-      "Tout du plan Or",
-      "Le plus économique sur 1 an",
+      "Accès complet pendant 1 an",
+      "Le plus économique sur la durée",
       "Toutes les futures mises à jour",
     ],
   },
   {
     id: "vip",
-    title: "Accès VIP",
+    title: "Accès à vie",
     price: "39,99 €",
-    period: "à vie",
+    period: "paiement unique",
     amountCents: 3999,
     mode: "payment",
     accessDays: null,
     highlight: false,
     badge: "À VIE",
     features: [
-      "Accès illimité à vie",
-      "Paiement unique, jamais de renouvellement",
+      "Accès illimité, à vie",
+      "Aucun renouvellement, jamais",
       "Toutes les futures mises à jour",
     ],
   },
@@ -104,12 +106,12 @@ export const PLANS: Plan[] = [
 
 export const PLAN_LABELS: Record<string, string> = {
   free: "Gratuit",
-  discovery: "Découverte",
-  premium: "Premium",
-  silver: "Argent",
-  gold: "Or",
-  diamond: "Diamant",
-  vip: "Accès VIP",
+  discovery: "Accès 7 jours",
+  premium: "Accès 1 mois",
+  silver: "Accès 3 mois",
+  gold: "Accès 6 mois",
+  diamond: "Accès 1 an",
+  vip: "Accès à vie",
 };
 
 /** Récupère un forfait par son id. */

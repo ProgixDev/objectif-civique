@@ -17,28 +17,26 @@ import { Radius } from "@/constants/radius";
 import { PillButton } from "@/components/ui/PillButton";
 import { GhostButton } from "@/components/ui/GhostButton";
 import { PaywallPlanCard } from "@/components/PaywallPlanCard";
-import { QuitModal } from "@/components/QuitModal";
 import { useUserStore } from "@/store/userStore";
 import { PLANS, PLAN_LABELS } from "@/data/plans";
 import { usePurchase } from "@/hooks/usePurchase";
 import { effectivePlan } from "@/lib/entitlements";
 import { pullAll } from "@/lib/sync";
-import { supabase } from "@/lib/supabase";
 import { toast } from "@/store/toastStore";
 import { PaidPlanId, SubscriptionPlan } from "@/types";
 
 const FAQ = [
   {
-    q: "Comment annuler mon abonnement ?",
-    a: "Vous pouvez annuler depuis cet écran, en bas de page. L'annulation prend effet immédiatement, vos données restent sauvegardées.",
+    q: "Vais-je être prélevé à nouveau ?",
+    a: "Non. Toutes les formules sont en paiement unique : vous payez une seule fois pour la durée choisie, sans aucun renouvellement automatique.",
   },
   {
-    q: "Suis-je remboursé en cas d'annulation ?",
-    a: "Aucun remboursement prorata temporis n'est effectué, mais votre accès reste actif jusqu'à la fin de la période payée.",
+    q: "Que se passe-t-il à la fin de mon accès ?",
+    a: "À la fin de la période, votre accès revient en version gratuite. Vous décidez librement si vous souhaitez reprendre un accès.",
   },
   {
-    q: "Puis-je changer de formule à tout moment ?",
-    a: "Oui. Le changement de formule est immédiat et la différence est calculée automatiquement.",
+    q: "Puis-je prendre une formule plus longue ?",
+    a: "Oui, à tout moment. Choisissez simplement la durée qui vous convient ci-dessous.",
   },
 ];
 
@@ -52,7 +50,6 @@ export default function Subscription() {
     currentPlan === "free" ? "gold" : currentPlan
   );
   const [expanded, setExpanded] = useState<number | null>(null);
-  const [showCancel, setShowCancel] = useState(false);
   const [busy, setBusy] = useState(false);
 
   const planLabel = PLAN_LABELS[currentPlan];
@@ -69,7 +66,7 @@ export default function Subscription() {
           <ChevronLeft size={22} color={Colors.primary} />
         </Pressable>
         <Text style={[Typography.h1, { color: Colors.onSurface, flex: 1 }]}>
-          Mon abonnement
+          Mon accès
         </Text>
       </View>
 
@@ -100,9 +97,11 @@ export default function Subscription() {
               ? "Accès à vie, sans expiration"
               : currentPlan === "free"
                 ? "Version gratuite limitée"
-                : currentPlan === "discovery"
-                  ? "Accès Découverte (7 jours)"
-                  : "Renouvellement automatique"}
+                : user?.subscriptionExpiresAt
+                  ? `Accès jusqu'au ${new Date(
+                      user.subscriptionExpiresAt
+                    ).toLocaleDateString("fr-FR")} · paiement unique`
+                  : "Paiement unique, sans renouvellement"}
           </Text>
           <View style={{ marginTop: 16, gap: 6 }}>
             {features.map((f) => (
@@ -184,19 +183,6 @@ export default function Subscription() {
               }
             }}
           />
-          <Pressable
-            disabled={currentPlan === "free" || busy}
-            onPress={() => setShowCancel(true)}
-          >
-            <Text
-              style={[
-                Typography.button,
-                { color: Colors.error, textAlign: "center", padding: 12 },
-              ]}
-            >
-              Annuler mon abonnement
-            </Text>
-          </Pressable>
         </View>
 
         <Text style={[Typography.h2, { color: Colors.onSurface, marginTop: 16, marginBottom: 10 }]}>
@@ -234,30 +220,6 @@ export default function Subscription() {
           ))}
         </View>
       </ScrollView>
-
-      <QuitModal
-        visible={showCancel}
-        title="Annuler l'abonnement ?"
-        message="L'abonnement ne sera pas renouvelé. Votre accès reste actif jusqu'à la fin de la période déjà payée."
-        onCancel={() => setShowCancel(false)}
-        onConfirm={async () => {
-          setShowCancel(false);
-          if (!user) return;
-          setBusy(true);
-          try {
-            const { error } = await supabase.functions.invoke(
-              "cancel-subscription"
-            );
-            if (error) throw error;
-            await pullAll(user.id);
-            toast.success("Abonnement annulé. Accès maintenu jusqu'à échéance.");
-          } catch {
-            toast.error("Annulation impossible. Réessayez plus tard.");
-          } finally {
-            setBusy(false);
-          }
-        }}
-      />
     </View>
   );
 }

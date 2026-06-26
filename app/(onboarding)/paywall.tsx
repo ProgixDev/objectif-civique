@@ -41,7 +41,7 @@ export default function Paywall() {
             Choisissez votre formule
           </Text>
           <Text style={[Typography.bodyLarge, { color: Colors.textSecondary, marginTop: 6 }]}>
-            Sans engagement, annulable à tout moment.
+            Paiement unique — aucun renouvellement automatique.
           </Text>
         </View>
 
@@ -63,7 +63,7 @@ export default function Paywall() {
 
         <View style={styles.trustRow}>
           <TrustItem icon={<Shield size={16} color={Colors.primary} />} label="Paiement sécurisé" />
-          <TrustItem icon={<XCircle size={16} color={Colors.primary} />} label="Sans engagement" />
+          <TrustItem icon={<XCircle size={16} color={Colors.primary} />} label="Sans renouvellement" />
           <TrustItem icon={<RotateCw size={16} color={Colors.primary} />} label="Annulable" />
         </View>
       </ScrollView>

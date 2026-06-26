@@ -40,18 +40,19 @@ export default function RootLayout() {
     };
     const EU = g.ErrorUtils;
     if (!EU) return;
-    const prev = EU.getGlobalHandler();
-    EU.setGlobalHandler((error, isFatal) => {
+    // DIAGNOSTIC : on AVALE l'erreur fatale (on n'appelle PAS le handler par
+    // défaut qui fermerait l'app) → l'app reste ouverte et affiche le message,
+    // pour pouvoir le capturer en photo. À retirer une fois le crash identifié.
+    EU.setGlobalHandler((error) => {
       try {
         const err = error as Error;
         Alert.alert(
-          isFatal ? "Erreur (fatale)" : "Erreur",
-          `${err?.message ?? String(error)}\n\n${(err?.stack ?? "").slice(0, 500)}`
+          "Détails de l'erreur (à envoyer au développeur)",
+          `${err?.message ?? String(error)}\n\n${(err?.stack ?? "").slice(0, 700)}`
         );
       } catch {
         // ignore
       }
-      prev?.(error, isFatal);
     });
   }, []);
 
