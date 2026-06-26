@@ -308,6 +308,10 @@ export default function Profile() {
         </Pressable>
 
         <Text style={styles.versionText}>Objectif Civique · v1.0.0</Text>
+        <Text style={styles.disclaimerText}>
+          Application indépendante de préparation à l&apos;examen civique, non
+          affiliée à une administration ou un organisme gouvernemental.
+        </Text>
 
         <QuitModal
           visible={showLogout}
@@ -728,5 +732,14 @@ const styles = StyleSheet.create({
     color: Colors.textTertiary,
     textAlign: "center",
     marginTop: 20,
+  },
+  disclaimerText: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 10.5,
+    lineHeight: 15,
+    color: Colors.textTertiary,
+    textAlign: "center",
+    marginTop: 8,
+    paddingHorizontal: 24,
   },
 });
