@@ -139,6 +139,11 @@ export default function AuthLanding() {
             </Text>
           </Pressable>
         </View>
+
+        <Text style={styles.disclaimer}>
+          Application indépendante, non affiliée à une administration ou un
+          organisme gouvernemental.
+        </Text>
       </View>
     </View>
   );
@@ -229,5 +234,14 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginTop: 4,
+  },
+  disclaimer: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 10.5,
+    lineHeight: 14,
+    color: Colors.textTertiary,
+    textAlign: "center",
+    marginTop: 8,
+    paddingHorizontal: 8,
   },
 });

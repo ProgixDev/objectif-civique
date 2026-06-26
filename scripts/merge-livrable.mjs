@@ -46,19 +46,9 @@ const stripHtml = (s) =>
 const readJson = (p) => JSON.parse(fs.readFileSync(p, "utf-8"));
 const exists = (p) => fs.existsSync(p);
 
-/** Nettoie un markdown de site (artefacts de navigation + marque d'origine). */
-function cleanMarkdown(raw) {
-  let lines = raw.split(/\r?\n/);
-  // Retire les lignes parasites issues du scraping web.
-  lines = lines.filter((l) => {
-    const t = l.trim();
-    if (t === "Aussi utile") return false;
-    if (/→\s*$/.test(t)) return false; // CTA de navigation "… →"
-    if (/^Skip to/i.test(t)) return false;
-    return true;
-  });
-  let body = lines.join("\n");
-  body = body
+/** Remplace toute mention de la marque/site d'origine par Objectif Civique. */
+function cleanBrand(text) {
+  return (text ?? "")
     // Liens markdown vers le site d'origine → on garde le texte, on retire l'URL.
     .replace(
       /\[([^\]]+)\]\(https?:\/\/[^)]*(prepacivique|test-civique|vercel)[^)]*\)/gi,
@@ -78,6 +68,23 @@ function cleanMarkdown(raw) {
     // Nettoyages résiduels.
     .replace(/\bwww\.\s*/gi, "")
     .replace(/Objectif Civique(\s+Objectif Civique)+/g, "Objectif Civique")
+    // Élisions correctes après le remplacement (de/à/le → d'/à l'…).
+    .replace(/\bde Objectif Civique/g, "d'Objectif Civique")
+    .replace(/\bDe Objectif Civique/g, "D'Objectif Civique");
+}
+
+/** Nettoie un markdown de site (artefacts de navigation + marque d'origine). */
+function cleanMarkdown(raw) {
+  let lines = raw.split(/\r?\n/);
+  // Retire les lignes parasites issues du scraping web.
+  lines = lines.filter((l) => {
+    const t = l.trim();
+    if (t === "Aussi utile") return false;
+    if (/→\s*$/.test(t)) return false; // CTA de navigation "… →"
+    if (/^Skip to/i.test(t)) return false;
+    return true;
+  });
+  let body = cleanBrand(lines.join("\n"))
     .replace(/\n{3,}/g, "\n\n")
     .trim();
   return body;
@@ -144,6 +151,8 @@ function parseMd(file, fallbackSlug) {
   // NB : on n'utilise PAS la ligne après "Retour à" (= section parente, pas le
   // titre de la page) → on retombe sur le nom de fichier, fiable et distinct.
   if (!title && fallbackSlug) title = humanize(fallbackSlug);
+  // Le titre aussi doit être débarrassé de la marque du site d'origine.
+  title = cleanBrand(title).trim();
 
   const date = findDate(lines);
 
