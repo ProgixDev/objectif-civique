@@ -65,6 +65,7 @@ export default function HomeTab() {
   const haptics = useHaptics();
   const currentSession = useSessionStore((s) => s.current);
   const resume = getResumeTarget(currentSession);
+  const goalCategory = (user?.goal as "NAT" | "CR" | "CSP") ?? "NAT";
 
   const firstName = user?.firstName ?? "Ami";
   const initials = firstName.slice(0, 1).toUpperCase();
@@ -244,6 +245,38 @@ export default function HomeTab() {
               </Text>
             </View>
             <ChevronRight size={18} color={Colors.white} />
+          </Pressable>
+        ) : null}
+
+        {/* Essai gratuit — 40 questions officielles, sans abonnement */}
+        {!isPaid(user) ? (
+          <Pressable
+            onPress={go(() =>
+              router.push({
+                pathname: "/practice/[category]",
+                params: { category: goalCategory, freeOfficial: "1" },
+              })
+            )}
+            style={({ pressed }) => [
+              styles.freeTrialBanner,
+              pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel="Essai gratuit : 40 questions officielles"
+          >
+            <View style={styles.freeTrialIcon}>
+              <Sparkles size={20} color={Colors.white} strokeWidth={2.2} />
+            </View>
+            <View style={{ flex: 1 }}>
+              <View style={styles.freeBadge}>
+                <Text style={styles.freeBadgeText}>GRATUIT</Text>
+              </View>
+              <Text style={styles.freeTrialTitle}>40 questions officielles</Text>
+              <Text style={styles.freeTrialSub} numberOfLines={2}>
+                Testez gratuitement avant de vous abonner.
+              </Text>
+            </View>
+            <ChevronRight size={18} color={Colors.success} />
           </Pressable>
         ) : null}
 
@@ -1078,6 +1111,52 @@ const styles = StyleSheet.create({
     fontSize: 12,
     lineHeight: 16,
     color: "rgba(255,255,255,0.85)",
+    marginTop: 2,
+  },
+  freeTrialBanner: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    marginBottom: 14,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: Colors.success,
+  },
+  freeTrialIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: Colors.success,
+  },
+  freeBadge: {
+    alignSelf: "flex-start",
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 999,
+    backgroundColor: "rgba(34,197,94,0.15)",
+    marginBottom: 3,
+  },
+  freeBadgeText: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 9.5,
+    letterSpacing: 0.8,
+    color: Colors.success,
+  },
+  freeTrialTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.onSurface,
+    letterSpacing: -0.1,
+  },
+  freeTrialSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: Colors.textSecondary,
     marginTop: 2,
   },
   forfaitBanner: {

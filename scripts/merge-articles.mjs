@@ -88,6 +88,10 @@ for (const folder of folders) {
     .replace(/le\s*test\s*civique\.com/gi, "Objectif Civique")
     .replace(/test-civique\.com/gi, "Objectif Civique")
     .replace(/horizon224\.fr/gi, "Objectif Civique")
+    // Nom de produit/marque de la source → notre marque.
+    .replace(/Horizon\s?224/gi, "Objectif Civique")
+    .replace(/D[ée]marches\s?Civique/gi, "Objectif Civique")
+    .replace(/Pr[ée]pa\s?Civique/gi, "Objectif Civique")
     // Liens markdown vers les comptes sociaux horizon224 : on retire la ligne
     .replace(/^\s*[*-]\s*<https?:\/\/[^>]*horizon22[^>]*>\s*$/gim, "")
     .replace(/<https?:\/\/[^>]*horizon22[^>]*>/gi, "")

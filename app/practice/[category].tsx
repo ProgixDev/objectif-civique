@@ -47,11 +47,12 @@ export default function Practice() {
     category?: string;
     themeId?: string;
     themeCat?: string;
-    startIndex?: string;
+    focusId?: string;
     subTheme?: string;
     testKind?: string;
     bank?: string;
     series?: string;
+    freeOfficial?: string;
   }>();
   const user = useUserStore((s) => s.user);
 
@@ -85,7 +86,7 @@ export default function Practice() {
   // Contexte « révision par thème » : themeId + cas filtré + question touchée.
   const themeId = params.themeId?.toString() as ThemeId | undefined;
   const themeCat = (params.themeCat?.toString() as ThemeFilter) ?? "Tous";
-  const startIndex = params.startIndex ? Number(params.startIndex) : 0;
+  const focusId = params.focusId?.toString();
   const series = params.series ? Number(params.series) : 0;
 
   const initCategory: Category = useMemo(() => {
@@ -99,10 +100,15 @@ export default function Practice() {
    * (nouveau thème, nouvelle banque, autre question touchée) et la conserve
    * sinon (navigation entre questions, retour arrière) pour ne pas tout perdre.
    */
-  const originKey = isTargetedTest
+  // Essai gratuit : 40 questions officielles, accessible sans abonnement.
+  const freeOfficial = !!params.freeOfficial;
+
+  const originKey = freeOfficial
+    ? `free-official:${initCategory}`
+    : isTargetedTest
     ? `test:${testKind}:${subThemeId}:${series}`
     : themeId
-    ? `theme:${themeId}:${themeCat}:${series}:${startIndex}`
+    ? `theme:${themeId}:${themeCat}:${series}:${focusId ?? ""}`
     : bank
     ? `bank:${bank.id}:${initCategory}`
     : `practice:${initCategory}`;
@@ -110,6 +116,10 @@ export default function Practice() {
   useEffect(() => {
     // Conserver la session en cours uniquement si même contexte ET non terminée.
     if (session && session.originKey === originKey && !session.endedAt) return;
+    if (freeOfficial) {
+      startPractice(initCategory, 40, "officielles", originKey);
+      return;
+    }
     if (isTargetedTest && subThemeId) {
       const test = findCivicTest(testKind, subThemeId);
       if (test && test.questions.length > 0) {
@@ -123,7 +133,7 @@ export default function Practice() {
       }
     }
     if (themeId) {
-      startThemeReview(themeId, themeCat, startIndex, series);
+      startThemeReview(themeId, themeCat, focusId, series);
       return;
     }
     startPractice(initCategory, 20, bank?.sources, originKey);

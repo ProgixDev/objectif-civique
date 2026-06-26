@@ -2,7 +2,12 @@ import { create } from "zustand";
 import { persist, createJSONStorage } from "zustand/middleware";
 import { zustandStorage } from "@/lib/storage";
 import { Answer, Category, Question, Session, ThemeId, Recap } from "@/types";
-import { pickQuestions, scoreSession, shuffleChoices } from "@/lib/quizEngine";
+import {
+  pickQuestions,
+  scoreSession,
+  shuffleArray,
+  shuffleChoices,
+} from "@/lib/quizEngine";
 import { QUESTIONS } from "@/data/questions";
 import { createId } from "@/lib/id";
 import { seriesSlice } from "@/lib/series";
@@ -39,13 +44,15 @@ type SessionState = {
   /**
    * Révision d'un thème : les questions du thème (pour le cas donné), découpées
    * en séries de 40 max. `seriesIndex` choisit la tranche (0 = questions 1-40,
-   * 1 = 41-80, …). `startIndex` positionne sur une question DANS la série.
+   * 1 = 41-80, …). La série garde toujours les MÊMES questions, mais leur ordre
+   * est mélangé à chaque lancement (pas deux fois la même suite). `focusId`
+   * positionne éventuellement sur une question précise (lien "réviser celle-ci").
    * Type "practice" pour réutiliser l'écran d'entraînement.
    */
   startThemeReview: (
     themeId: ThemeId,
     category: ThemeFilter,
-    startIndex?: number,
+    focusId?: string,
     seriesIndex?: number
   ) => void;
   /**
@@ -115,14 +122,15 @@ export const useSessionStore = create<SessionState>()(
     });
   },
 
-  startThemeReview: (themeId, category, startIndex = 0, seriesIndex = 0) => {
-    // Pool complet du thème, puis on isole la série de 40 demandée.
+  startThemeReview: (themeId, category, focusId, seriesIndex = 0) => {
+    // Pool complet du thème → on isole la série de 40 (toujours les mêmes
+    // questions), PUIS on mélange leur ordre (suite différente à chaque fois).
     const all = themeQuestions(themeId, category).map(shuffleChoices);
-    const questions = seriesSlice(all, seriesIndex);
-    const safeIndex =
-      questions.length === 0
-        ? 0
-        : Math.max(0, Math.min(startIndex, questions.length - 1));
+    const sliced = seriesSlice(all, seriesIndex);
+    const questions = shuffleArray(sliced);
+    const focusIdx = focusId
+      ? questions.findIndex((q) => q.id === focusId)
+      : -1;
     set({
       current: {
         id: createId("theme"),
@@ -132,11 +140,11 @@ export const useSessionStore = create<SessionState>()(
         questions,
         answers: [],
         startedAt: new Date().toISOString(),
-        // `startIndex`/`seriesIndex` (et non `safeIndex`) pour coller à la clé
-        // calculée par l'écran d'entraînement et éviter une reconstruction.
-        originKey: `theme:${themeId}:${category}:${seriesIndex}:${startIndex}`,
+        // `focusId`/`seriesIndex` (et non l'index) pour coller à la clé calculée
+        // par l'écran d'entraînement et éviter une reconstruction au re-rendu.
+        originKey: `theme:${themeId}:${category}:${seriesIndex}:${focusId ?? ""}`,
       },
-      currentIndex: safeIndex,
+      currentIndex: focusIdx >= 0 ? focusIdx : 0,
     });
   },
 
@@ -145,7 +153,8 @@ export const useSessionStore = create<SessionState>()(
       current: {
         id: createId("test"),
         type: "practice",
-        questions: questions.map(shuffleChoices),
+        // Ordre mélangé à chaque lancement (mêmes questions, suite différente).
+        questions: shuffleArray(questions).map(shuffleChoices),
         answers: [],
         startedAt: new Date().toISOString(),
         originKey,

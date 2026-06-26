@@ -129,11 +129,12 @@ export const COACH_GUARANTEES: CoachGuarantee[] = [
   },
 ];
 
-/** Coordonnées de l'équipe d'accompagnement (alignées avec le site DemarchesCivique). */
+/** Coordonnées de l'équipe d'accompagnement Objectif Civique. */
 export const COACH_CONTACT = {
   phone: "+33 7 51 25 23 09",
   phoneTel: "+33751252309",
-  email: "service.horizon224@gmail.com",
+  // TODO client : remplacer par l'e-mail officiel Objectif Civique.
+  email: "contact@objectif-civique.fr",
   hours: "Lun – Sam : 9h – 20h",
   whatsapp: "+33751252309",
 } as const;

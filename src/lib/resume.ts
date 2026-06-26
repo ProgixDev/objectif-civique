@@ -39,19 +39,21 @@ export function getResumeTarget(
         params: { category: parts[2] || "NAT", bank: parts[1] },
         label: "Reprendre la révision",
       };
-    case "theme":
-      // theme:themeId:themeCat:series:startIndex
+    case "theme": {
+      // theme:themeId:themeCat:series:focusId
+      const params: Record<string, string> = {
+        category: parts[2] === "Tous" ? "NAT" : parts[2] || "NAT",
+        themeId: parts[1],
+        themeCat: parts[2] || "Tous",
+        series: parts[3] ?? "0",
+      };
+      if (parts[4]) params.focusId = parts[4];
       return {
         pathname: "/practice/[category]",
-        params: {
-          category: parts[2] === "Tous" ? "NAT" : parts[2] || "NAT",
-          themeId: parts[1],
-          themeCat: parts[2] || "Tous",
-          series: parts[3] ?? "0",
-          startIndex: parts[4] ?? "0",
-        },
+        params,
         label: "Reprendre la série",
       };
+    }
     case "test":
       // test:testKind:subTheme:series
       return {

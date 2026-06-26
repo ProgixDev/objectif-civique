@@ -77,7 +77,7 @@ export default function ThemeDetail() {
    * thème (pour ce cas), dans le même ordre que la liste affichée ici — d'où
    * la correspondance exacte de `startIndex`.
    */
-  /** Ouvre une série donnée (0-based) au début. */
+  /** Ouvre une série donnée (0-based) au début (ordre mélangé à chaque fois). */
   const openSeries = (seriesIndex: number) => {
     if (filtered.length === 0) {
       toast.info("Aucune question dans ce thème pour ce filtre.");
@@ -90,22 +90,22 @@ export default function ThemeDetail() {
         themeId,
         themeCat: cat,
         series: String(seriesIndex),
-        startIndex: "0",
       },
     });
   };
 
   /**
-   * Ouvre la révision positionnée sur la question d'index global `index`
-   * (depuis la liste). On déduit la série (paquet de 40) et l'index local.
+   * Ouvre la révision positionnée sur une question précise (depuis la liste).
+   * On déduit la série (paquet de 40) depuis l'index global, et on cible la
+   * question par son `id` (l'ordre étant mélangé, on ne peut plus se fier à
+   * l'index local).
    */
-  const openThemeAt = (index: number) => {
+  const openThemeAt = (index: number, qId: string) => {
     if (filtered.length === 0) {
       toast.info("Aucune question dans ce thème pour ce filtre.");
       return;
     }
     const seriesIndex = Math.floor(index / SERIES_SIZE);
-    const local = index % SERIES_SIZE;
     router.push({
       pathname: "/practice/[category]",
       params: {
@@ -113,7 +113,7 @@ export default function ThemeDetail() {
         themeId,
         themeCat: cat,
         series: String(seriesIndex),
-        startIndex: String(local),
+        focusId: qId,
       },
     });
   };
@@ -333,7 +333,7 @@ export default function ThemeDetail() {
                     ) : null}
 
                     <Pressable
-                      onPress={() => openThemeAt(i)}
+                      onPress={() => openThemeAt(i, q.id)}
                       style={styles.reviseLink}
                     >
                       <Text style={styles.reviseLinkText}>
