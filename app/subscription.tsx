@@ -58,7 +58,8 @@ export default function Subscription() {
     if (webLoading) return;
     setWebLoading(true);
     try {
-      await openWebSubscription(selected);
+      const opened = await openWebSubscription(selected);
+      if (!opened) return;
       const plan = await refreshAfterWebCheckout();
       if (plan && plan !== "free") {
         toast.success("Accès activé.");

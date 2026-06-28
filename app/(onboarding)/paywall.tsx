@@ -24,7 +24,8 @@ export default function Paywall() {
     if (webLoading) return;
     setWebLoading(true);
     try {
-      await openWebSubscription(selected ?? undefined);
+      const opened = await openWebSubscription(selected ?? undefined);
+      if (!opened) return;
       const plan = await refreshAfterWebCheckout();
       if (plan && plan !== "free") {
         toast.success("Accès activé. Bienvenue !");
