@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { router } from "expo-router";
-import { RotateCw, Shield, Sparkles, X, XCircle } from "lucide-react-native";
+import { Globe, RotateCw, Shield, Sparkles, X, XCircle } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
@@ -10,6 +10,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { Badge } from "@/components/ui/Badge";
 import { PLANS } from "@/data/plans";
 import { usePurchase } from "@/hooks/usePurchase";
+import { openWebSubscription, refreshAfterWebCheckout } from "@/lib/webCheckout";
 import { toast } from "@/store/toastStore";
 import { PaidPlanId } from "@/types";
 
@@ -17,6 +18,22 @@ export default function Paywall() {
   const insets = useSafeAreaInsets();
   const { purchase, loading } = usePurchase();
   const [selected, setSelected] = useState<PaidPlanId | null>("gold");
+  const [webLoading, setWebLoading] = useState(false);
+
+  const onWeb = async () => {
+    if (webLoading) return;
+    setWebLoading(true);
+    try {
+      await openWebSubscription(selected ?? undefined);
+      const plan = await refreshAfterWebCheckout();
+      if (plan && plan !== "free") {
+        toast.success("Accès activé. Bienvenue !");
+        router.replace("/(tabs)");
+      }
+    } finally {
+      setWebLoading(false);
+    }
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -87,6 +104,23 @@ export default function Paywall() {
             // "canceled" : l'utilisateur a fermé la feuille, on ne fait rien.
           }}
         />
+
+        <Pressable
+          onPress={onWeb}
+          disabled={!selected || webLoading}
+          style={({ pressed }) => [
+            styles.webBtn,
+            (pressed || webLoading) && { opacity: 0.7 },
+          ]}
+          accessibilityRole="button"
+          accessibilityLabel="Payer sur notre site"
+        >
+          <Globe size={16} color={Colors.primary} />
+          <Text style={styles.webBtnLabel}>
+            {webLoading ? "Ouverture du site…" : "Payer sur notre site"}
+          </Text>
+        </Pressable>
+
         <Pressable
           style={{ marginTop: 12 }}
           onPress={() => router.replace("/(tabs)")}
@@ -149,5 +183,22 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surface,
     borderTopWidth: 1,
     borderTopColor: "rgba(204,199,208,0.25)",
+  },
+  webBtn: {
+    marginTop: 10,
+    height: 46,
+    borderRadius: 999,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: Colors.primary,
+  },
+  webBtnLabel: {
+    ...Typography.button,
+    color: Colors.primary,
+    fontSize: 15,
   },
 });

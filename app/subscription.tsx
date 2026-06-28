@@ -7,7 +7,7 @@ import {
   View,
 } from "react-native";
 import { router, Stack } from "expo-router";
-import { Check, ChevronLeft } from "lucide-react-native";
+import { Check, ChevronLeft, Globe } from "lucide-react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { MotiView } from "moti";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
@@ -22,6 +22,7 @@ import { PLANS, PLAN_LABELS } from "@/data/plans";
 import { usePurchase } from "@/hooks/usePurchase";
 import { effectivePlan } from "@/lib/entitlements";
 import { pullAll } from "@/lib/sync";
+import { openWebSubscription, refreshAfterWebCheckout } from "@/lib/webCheckout";
 import { toast } from "@/store/toastStore";
 import { PaidPlanId, SubscriptionPlan } from "@/types";
 
@@ -51,6 +52,21 @@ export default function Subscription() {
   );
   const [expanded, setExpanded] = useState<number | null>(null);
   const [busy, setBusy] = useState(false);
+  const [webLoading, setWebLoading] = useState(false);
+
+  const onWeb = async () => {
+    if (webLoading) return;
+    setWebLoading(true);
+    try {
+      await openWebSubscription(selected);
+      const plan = await refreshAfterWebCheckout();
+      if (plan && plan !== "free") {
+        toast.success("Accès activé.");
+      }
+    } finally {
+      setWebLoading(false);
+    }
+  };
 
   const planLabel = PLAN_LABELS[currentPlan];
   const features = PLANS.find((p) => p.id === currentPlan)?.features ?? [
@@ -167,6 +183,23 @@ export default function Subscription() {
           style={{ marginTop: 16 }}
         />
 
+        <Pressable
+          onPress={onWeb}
+          disabled={selected === currentPlan || webLoading}
+          style={({ pressed }) => [
+            styles.webBtn,
+            (pressed || webLoading) && { opacity: 0.7 },
+            selected === currentPlan && { opacity: 0.4 },
+          ]}
+          accessibilityRole="button"
+          accessibilityLabel="Payer sur notre site"
+        >
+          <Globe size={16} color={Colors.primary} />
+          <Text style={styles.webBtnLabel}>
+            {webLoading ? "Ouverture du site…" : "Payer sur notre site"}
+          </Text>
+        </Pressable>
+
         <View style={{ gap: 10, marginTop: 16 }}>
           <GhostButton
             label="Restaurer mes achats"
@@ -253,5 +286,22 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surfaceContainerLowest,
     borderWidth: 1,
     borderColor: "rgba(204,199,208,0.25)",
+  },
+  webBtn: {
+    marginTop: 10,
+    height: 46,
+    borderRadius: 999,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: Colors.primary,
+  },
+  webBtnLabel: {
+    ...Typography.button,
+    color: Colors.primary,
+    fontSize: 15,
   },
 });

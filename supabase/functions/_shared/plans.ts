@@ -22,11 +22,11 @@ export type PlanConfig = {
 // la date du paiement + accessDays (null = à vie).
 export const PLAN_CONFIG: Record<string, PlanConfig> = {
   discovery: { mode: "payment", amountCents: 599, accessDays: 7 },
-  premium: { mode: "payment", amountCents: 999, accessDays: 30 },
-  silver: { mode: "payment", amountCents: 1599, accessDays: 90 },
-  gold: { mode: "payment", amountCents: 1999, accessDays: 180 },
-  diamond: { mode: "payment", amountCents: 2999, accessDays: 365 },
-  vip: { mode: "payment", amountCents: 3999, accessDays: null },
+  premium: { mode: "payment", amountCents: 1199, accessDays: 30 },
+  silver: { mode: "payment", amountCents: 1799, accessDays: 90 },
+  gold: { mode: "payment", amountCents: 2199, accessDays: 180 },
+  diamond: { mode: "payment", amountCents: 3199, accessDays: 365 },
+  vip: { mode: "payment", amountCents: 4199, accessDays: null },
 };
 
 export const CURRENCY = "eur";
