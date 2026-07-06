@@ -14,11 +14,17 @@ import { Category } from "@/types";
  * simulation gratuite de 40 questions officielles (bouton ci-dessous).
  */
 const INCLUDED = [
-  "3 500+ questions officielles & mises en situation",
-  "Tests par thème et par catégorie",
-  "Flashcards de révision",
-  "Guides, articles et fiches de préparation",
-  "Simulations d'examen chronométrées",
+  "3 500+ questions officielles & mises en situation réelles",
+  "Simulations d'examen chronométrées, comme le jour J",
+  "Tests par thème pour cibler et corriger vos lacunes",
+  "Flashcards, guides et articles rédigés par des experts",
+  "Suivi de progression détaillé pour rester motivé",
+];
+
+const STATS = [
+  { value: "3 500+", label: "questions" },
+  { value: "100+", label: "simulations" },
+  { value: "40", label: "thèmes" },
 ];
 
 export function PremiumGate({ showFreeTrial = true }: { showFreeTrial?: boolean }) {
@@ -44,12 +50,21 @@ export function PremiumGate({ showFreeTrial = true }: { showFreeTrial?: boolean 
         </View>
 
         <Text style={[Typography.display, styles.title]}>
-          Contenu réservé aux membres
+          Mettez toutes les chances de votre côté
         </Text>
         <Text style={[Typography.bodyLarge, styles.subtitle]}>
-          Débloquez l'intégralité d'Objectif Civique en un seul achat, sans
-          abonnement récurrent.
+          Débloquez l'intégralité d'Objectif Civique et préparez votre examen
+          civique sereinement — en un seul paiement, sans abonnement.
         </Text>
+
+        <View style={styles.statsRow}>
+          {STATS.map((s) => (
+            <View key={s.label} style={styles.statItem}>
+              <Text style={styles.statValue}>{s.value}</Text>
+              <Text style={styles.statLabel}>{s.label}</Text>
+            </View>
+          ))}
+        </View>
 
         <View style={styles.card}>
           {INCLUDED.map((f) => (
@@ -71,6 +86,10 @@ export function PremiumGate({ showFreeTrial = true }: { showFreeTrial?: boolean 
           <Crown size={18} color={Colors.white} strokeWidth={2.3} />
           <Text style={styles.ctaLabel}>Débloquer l'accès</Text>
         </Pressable>
+
+        <Text style={styles.reassure}>
+          Paiement unique · Aucun abonnement · Aucun renouvellement
+        </Text>
 
         {showFreeTrial ? (
           <Pressable
@@ -121,6 +140,29 @@ const styles = StyleSheet.create({
   },
   title: { color: Colors.onSurface, marginBottom: 8 },
   subtitle: { color: Colors.textSecondary, marginBottom: 20 },
+  statsRow: {
+    flexDirection: "row",
+    borderRadius: 16,
+    backgroundColor: Colors.primaryContainer,
+    paddingVertical: 14,
+    marginBottom: 20,
+  },
+  statItem: { flex: 1, alignItems: "center" },
+  statValue: {
+    ...Typography.h2,
+    color: Colors.primary,
+  },
+  statLabel: {
+    ...Typography.caption,
+    color: Colors.textSecondary,
+    marginTop: 2,
+  },
+  reassure: {
+    ...Typography.caption,
+    color: Colors.textTertiary,
+    textAlign: "center",
+    marginTop: 10,
+  },
   card: {
     backgroundColor: Colors.surfaceContainerLowest,
     borderRadius: 18,

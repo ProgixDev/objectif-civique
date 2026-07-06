@@ -303,7 +303,7 @@ export default function HomeTab() {
             <View style={{ flex: 1 }}>
               <Text style={styles.forfaitTitle}>Débloquez tout le contenu</Text>
               <Text style={styles.forfaitSub} numberOfLines={2}>
-                Questions illimitées, simulations, accompagnement — à partir de 4,99 €/mois.
+                3 500+ questions, simulations et guides — en un seul paiement, dès 5,99 €.
               </Text>
             </View>
             <ArrowRight size={18} color={Colors.white} />

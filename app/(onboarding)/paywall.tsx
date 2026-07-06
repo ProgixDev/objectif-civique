@@ -44,7 +44,8 @@ export default function Paywall() {
             Choisissez votre formule
           </Text>
           <Text style={[Typography.bodyLarge, { color: Colors.textSecondary, marginTop: 6 }]}>
-            Paiement unique — aucun renouvellement automatique.
+            Accédez à 3 500+ questions, aux simulations et à tout le contenu —
+            en un seul paiement, sans abonnement.
           </Text>
         </View>
 
