@@ -38,7 +38,7 @@ import { toast } from "@/store/toastStore";
 import { useHaptics } from "@/hooks/useHaptics";
 
 /** Site partenaire DemarchesCivique — destination des CTA "Démarrer ma procédure". */
-const SITE_URL = "https://demarchescivique.fr";
+const SITE_URL = "https://demarchescivique.vercel.app";
 
 export default function Coaching() {
   const insets = useSafeAreaInsets();
@@ -130,7 +130,7 @@ export default function Coaching() {
               </Pressable>
               <View style={styles.heroLinkRow}>
                 <ExternalLink size={11} color="rgba(255,255,255,0.75)" />
-                <Text style={styles.heroLinkText}>demarchescivique.fr</Text>
+                <Text style={styles.heroLinkText}>demarchescivique.vercel.app</Text>
               </View>
             </View>
           </View>

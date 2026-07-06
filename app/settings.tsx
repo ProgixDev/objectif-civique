@@ -154,7 +154,7 @@ export default function Settings() {
           <Row label="FAQ" onPress={() => setModal("faq")} />
           <Row
             label="Contacter le support"
-            onPress={() => Linking.openURL("mailto:contact@objectifcivique.fr")}
+            onPress={() => Linking.openURL("mailto:service.horizon224@gmail.com")}
           />
         </Section>
 

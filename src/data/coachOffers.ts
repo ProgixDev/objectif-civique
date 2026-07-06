@@ -58,6 +58,20 @@ export const COACH_SERVICES: CoachService[] = [
     description:
       "Régulariser votre situation administrative en France.",
   },
+  {
+    id: "dcem",
+    icon: "Plane",
+    title: "Document de circulation (DCEM)",
+    description:
+      "Document de circulation pour étranger mineur : permettez à votre enfant de voyager et de revenir en France en toute légalité.",
+  },
+  {
+    id: "taj",
+    icon: "Eraser",
+    title: "Effacement du fichier TAJ",
+    description:
+      "Demande d'effacement ou de rectification de vos données dans le fichier TAJ (Traitement d'Antécédents Judiciaires).",
+  },
 ];
 
 /** Méthode en 4 étapes affichée sur la page Accompagnement. */
@@ -133,8 +147,8 @@ export const COACH_GUARANTEES: CoachGuarantee[] = [
 export const COACH_CONTACT = {
   phone: "+33 7 51 25 23 09",
   phoneTel: "+33751252309",
-  // TODO client : remplacer par l'e-mail officiel Objectif Civique.
-  email: "contact@objectif-civique.fr",
+  // Numéro perso du client (provisoire, à remplacer par le numéro pro).
+  email: "service.horizon224@gmail.com",
   hours: "Lun – Sam : 9h – 20h",
   whatsapp: "+33751252309",
 } as const;
