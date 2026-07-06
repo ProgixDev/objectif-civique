@@ -1,17 +1,27 @@
-import React, { useMemo, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
-import { router } from "expo-router";
+import React, { useCallback, useMemo, useState } from "react";
+import {
+  ActivityIndicator,
+  Pressable,
+  RefreshControl,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from "react-native";
+import { router, useFocusEffect } from "expo-router";
 import {
   ChevronLeft,
   MessageSquare,
   Eye,
   MessagesSquare,
+  Plus,
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { FORUM_THREADS } from "@/data/forum";
+import { ForumThread } from "@/data/forum";
+import { fetchThreads } from "@/lib/forumApi";
 
 const FILTERS = [
   { key: "all", label: "Tous" },
@@ -34,11 +44,33 @@ function timeAgo(iso: string) {
 export default function ForumList() {
   const insets = useSafeAreaInsets();
   const [filter, setFilter] = useState<(typeof FILTERS)[number]["key"]>("all");
+  const [allThreads, setAllThreads] = useState<ForumThread[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [refreshing, setRefreshing] = useState(false);
+
+  const load = useCallback(async () => {
+    const data = await fetchThreads();
+    setAllThreads(data);
+    setLoading(false);
+  }, []);
+
+  // Recharge à chaque fois qu'on revient sur l'écran (après avoir posté).
+  useFocusEffect(
+    useCallback(() => {
+      load();
+    }, [load])
+  );
+
+  const onRefresh = useCallback(async () => {
+    setRefreshing(true);
+    await load();
+    setRefreshing(false);
+  }, [load]);
 
   const threads = useMemo(() => {
-    if (filter === "all") return FORUM_THREADS;
-    return FORUM_THREADS.filter((t) => t.topic === filter);
-  }, [filter]);
+    if (filter === "all") return allThreads;
+    return allThreads.filter((t) => t.topic === filter);
+  }, [filter, allThreads]);
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -58,8 +90,11 @@ export default function ForumList() {
       <ScrollView
         contentContainerStyle={{
           padding: 16,
-          paddingBottom: insets.bottom + 40,
+          paddingBottom: insets.bottom + 96,
         }}
+        refreshControl={
+          <RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor={Colors.primary} />
+        }
       >
         <View style={styles.hero}>
           <View style={styles.heroIcon}>
@@ -129,7 +164,9 @@ export default function ForumList() {
             <View style={styles.footer}>
               <View style={styles.stat}>
                 <MessageSquare size={12} color={Colors.textTertiary} />
-                <Text style={styles.statText}>{t.replies.length}</Text>
+                <Text style={styles.statText}>
+                  {t.replyCount ?? t.replies.length}
+                </Text>
               </View>
               <View style={styles.stat}>
                 <Eye size={12} color={Colors.textTertiary} />
@@ -139,10 +176,26 @@ export default function ForumList() {
           </Pressable>
         ))}
 
-        {threads.length === 0 ? (
+        {loading ? (
+          <ActivityIndicator color={Colors.primary} style={{ marginTop: 30 }} />
+        ) : threads.length === 0 ? (
           <Text style={styles.empty}>Aucune discussion pour ce filtre.</Text>
         ) : null}
       </ScrollView>
+
+      <Pressable
+        onPress={() => router.push("/forum/new")}
+        style={({ pressed }) => [
+          styles.fab,
+          { bottom: insets.bottom + 20 },
+          pressed && { opacity: 0.9 },
+        ]}
+        accessibilityRole="button"
+        accessibilityLabel="Nouvelle discussion"
+      >
+        <Plus size={20} color={Colors.white} strokeWidth={2.6} />
+        <Text style={styles.fabLabel}>Nouvelle discussion</Text>
+      </Pressable>
     </View>
   );
 }
@@ -283,5 +336,26 @@ const styles = StyleSheet.create({
     color: Colors.textSecondary,
     textAlign: "center",
     marginTop: 30,
+  },
+  fab: {
+    position: "absolute",
+    right: 16,
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 8,
+    paddingHorizontal: 18,
+    height: 50,
+    borderRadius: 999,
+    backgroundColor: Colors.primary,
+    shadowColor: Colors.primary,
+    shadowOpacity: 0.35,
+    shadowRadius: 12,
+    shadowOffset: { width: 0, height: 6 },
+    elevation: 6,
+  },
+  fabLabel: {
+    fontFamily: "Inter_700Bold",
+    fontSize: 14,
+    color: Colors.white,
   },
 });

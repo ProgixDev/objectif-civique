@@ -19,6 +19,8 @@ export type ForumThread = {
   createdAt: string;
   views: number;
   replies: ForumReply[];
+  /** Nombre de réponses (renseigné dans la liste, sans charger les réponses). */
+  replyCount?: number;
 };
 
 export const FORUM_THREADS: ForumThread[] = [

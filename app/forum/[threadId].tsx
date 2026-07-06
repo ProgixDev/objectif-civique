@@ -1,12 +1,24 @@
-import React from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import React, { useCallback, useEffect, useState } from "react";
+import {
+  ActivityIndicator,
+  KeyboardAvoidingView,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  TextInput,
+  View,
+} from "react-native";
 import { router, useLocalSearchParams } from "expo-router";
-import { ChevronLeft, ThumbsUp, MessageCircle } from "lucide-react-native";
+import { ChevronLeft, ThumbsUp, MessageCircle, Send } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
-import { FORUM_THREADS } from "@/data/forum";
+import { ForumThread } from "@/data/forum";
+import { fetchThread, createReply } from "@/lib/forumApi";
+import { toast } from "@/store/toastStore";
 
 function formatDate(iso: string) {
   const d = new Date(iso);
@@ -20,17 +32,59 @@ function formatDate(iso: string) {
 export default function ForumThreadScreen() {
   const insets = useSafeAreaInsets();
   const { threadId } = useLocalSearchParams<{ threadId: string }>();
-  const thread = FORUM_THREADS.find((t) => t.id === threadId);
+  const [thread, setThread] = useState<ForumThread | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [reply, setReply] = useState("");
+  const [busy, setBusy] = useState(false);
+
+  const load = useCallback(async () => {
+    if (!threadId) return;
+    const t = await fetchThread(threadId);
+    setThread(t);
+    setLoading(false);
+  }, [threadId]);
+
+  useEffect(() => {
+    load();
+  }, [load]);
+
+  const onSend = async () => {
+    if (reply.trim().length < 2 || busy || !thread) return;
+    setBusy(true);
+    try {
+      const newReply = await createReply(thread.id, reply);
+      setThread((prev) =>
+        prev ? { ...prev, replies: [...prev.replies, newReply] } : prev
+      );
+      setReply("");
+    } catch (e) {
+      toast.error(e instanceof Error ? e.message : "Réponse impossible.");
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  if (loading) {
+    return (
+      <View style={{ flex: 1, backgroundColor: Colors.surface }}>
+        <View style={[styles.topBar, { paddingTop: insets.top + 12 }]}>
+          <Pressable onPress={() => router.back()} style={styles.backBtn} hitSlop={6}>
+            <ChevronLeft size={22} color={Colors.primary} />
+          </Pressable>
+          <Text style={[Typography.h2, { color: Colors.onSurface, flex: 1 }]}>
+            Discussion
+          </Text>
+        </View>
+        <ActivityIndicator color={Colors.primary} style={{ marginTop: 40 }} />
+      </View>
+    );
+  }
 
   if (!thread) {
     return (
       <View style={{ flex: 1, backgroundColor: Colors.surface }}>
         <View style={[styles.topBar, { paddingTop: insets.top + 12 }]}>
-          <Pressable
-            onPress={() => router.back()}
-            style={styles.backBtn}
-            hitSlop={6}
-          >
+          <Pressable onPress={() => router.back()} style={styles.backBtn} hitSlop={6}>
             <ChevronLeft size={22} color={Colors.primary} />
           </Pressable>
           <Text style={[Typography.h2, { color: Colors.onSurface, flex: 1 }]}>
@@ -44,11 +98,7 @@ export default function ForumThreadScreen() {
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
       <View style={[styles.topBar, { paddingTop: insets.top + 12 }]}>
-        <Pressable
-          onPress={() => router.back()}
-          style={styles.backBtn}
-          hitSlop={6}
-        >
+        <Pressable onPress={() => router.back()} style={styles.backBtn} hitSlop={6}>
           <ChevronLeft size={22} color={Colors.primary} />
         </Pressable>
         <Text style={[Typography.h2, { color: Colors.onSurface, flex: 1 }]}>
@@ -56,66 +106,93 @@ export default function ForumThreadScreen() {
         </Text>
       </View>
 
-      <ScrollView
-        contentContainerStyle={{
-          padding: 16,
-          paddingBottom: insets.bottom + 40,
-        }}
+      <KeyboardAvoidingView
+        style={{ flex: 1 }}
+        behavior={Platform.OS === "ios" ? "padding" : undefined}
+        keyboardVerticalOffset={insets.top + 60}
       >
-        <View style={styles.threadCard}>
-          <View style={styles.header}>
-            <View style={styles.avatar}>
-              <Text style={styles.avatarText}>{thread.authorInitials}</Text>
-            </View>
-            <View style={{ flex: 1 }}>
-              <Text style={styles.author}>{thread.author}</Text>
-              <Text style={styles.meta}>
-                {formatDate(thread.createdAt)} · {thread.authorGoal}
-              </Text>
-            </View>
-          </View>
-          <Text style={styles.title}>{thread.title}</Text>
-          <Text style={styles.body}>{thread.body}</Text>
-        </View>
-
-        <View style={styles.repliesHeader}>
-          <MessageCircle size={14} color={Colors.primary} />
-          <Text style={styles.repliesHeaderText}>
-            {thread.replies.length} réponse{thread.replies.length > 1 ? "s" : ""}
-          </Text>
-        </View>
-
-        {thread.replies.map((r) => (
-          <View key={r.id} style={styles.replyCard}>
+        <ScrollView contentContainerStyle={{ padding: 16, paddingBottom: 24 }}>
+          <View style={styles.threadCard}>
             <View style={styles.header}>
-              <View style={[styles.avatar, { backgroundColor: Colors.tertiary }]}>
-                <Text style={[styles.avatarText, { color: Colors.primary }]}>
-                  {r.authorInitials}
-                </Text>
+              <View style={styles.avatar}>
+                <Text style={styles.avatarText}>{thread.authorInitials}</Text>
               </View>
               <View style={{ flex: 1 }}>
-                <Text style={styles.author}>{r.author}</Text>
+                <Text style={styles.author}>{thread.author}</Text>
                 <Text style={styles.meta}>
-                  {formatDate(r.createdAt)} · {r.authorGoal}
+                  {formatDate(thread.createdAt)} · {thread.authorGoal}
                 </Text>
               </View>
             </View>
-            <Text style={styles.body}>{r.body}</Text>
-            <View style={styles.helpfulRow}>
-              <ThumbsUp size={13} color={Colors.textTertiary} />
-              <Text style={styles.helpfulText}>
-                {r.helpful} personne{r.helpful > 1 ? "s" : ""} ont trouvé cela utile
-              </Text>
-            </View>
+            <Text style={styles.title}>{thread.title}</Text>
+            <Text style={styles.body}>{thread.body}</Text>
           </View>
-        ))}
 
-        {thread.replies.length === 0 ? (
-          <Text style={styles.empty}>
-            Soyez le premier à répondre à cette discussion.
-          </Text>
-        ) : null}
-      </ScrollView>
+          <View style={styles.repliesHeader}>
+            <MessageCircle size={14} color={Colors.primary} />
+            <Text style={styles.repliesHeaderText}>
+              {thread.replies.length} réponse{thread.replies.length > 1 ? "s" : ""}
+            </Text>
+          </View>
+
+          {thread.replies.map((r) => (
+            <View key={r.id} style={styles.replyCard}>
+              <View style={styles.header}>
+                <View style={[styles.avatar, { backgroundColor: Colors.tertiary }]}>
+                  <Text style={[styles.avatarText, { color: Colors.primary }]}>
+                    {r.authorInitials}
+                  </Text>
+                </View>
+                <View style={{ flex: 1 }}>
+                  <Text style={styles.author}>{r.author}</Text>
+                  <Text style={styles.meta}>
+                    {formatDate(r.createdAt)} · {r.authorGoal}
+                  </Text>
+                </View>
+              </View>
+              <Text style={styles.body}>{r.body}</Text>
+              {r.helpful > 0 ? (
+                <View style={styles.helpfulRow}>
+                  <ThumbsUp size={13} color={Colors.textTertiary} />
+                  <Text style={styles.helpfulText}>
+                    {r.helpful} personne{r.helpful > 1 ? "s" : ""} ont trouvé cela utile
+                  </Text>
+                </View>
+              ) : null}
+            </View>
+          ))}
+
+          {thread.replies.length === 0 ? (
+            <Text style={styles.empty}>
+              Soyez le premier à répondre à cette discussion.
+            </Text>
+          ) : null}
+        </ScrollView>
+
+        <View style={[styles.composer, { paddingBottom: insets.bottom + 10 }]}>
+          <TextInput
+            value={reply}
+            onChangeText={setReply}
+            placeholder="Écrire une réponse…"
+            placeholderTextColor={Colors.textTertiary}
+            style={styles.composerInput}
+            multiline
+          />
+          <Pressable
+            onPress={onSend}
+            disabled={reply.trim().length < 2 || busy}
+            style={({ pressed }) => [
+              styles.sendBtn,
+              (reply.trim().length < 2 || busy) && { opacity: 0.4 },
+              pressed && { opacity: 0.85 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel="Envoyer la réponse"
+          >
+            <Send size={18} color={Colors.white} />
+          </Pressable>
+        </View>
+      </KeyboardAvoidingView>
     </View>
   );
 }
@@ -228,5 +305,37 @@ const styles = StyleSheet.create({
     color: Colors.textSecondary,
     textAlign: "center",
     marginTop: 20,
+  },
+  composer: {
+    flexDirection: "row",
+    alignItems: "flex-end",
+    gap: 8,
+    paddingHorizontal: 12,
+    paddingTop: 10,
+    borderTopWidth: 1,
+    borderTopColor: Colors.outlineVariant,
+    backgroundColor: Colors.surface,
+  },
+  composerInput: {
+    flex: 1,
+    maxHeight: 120,
+    minHeight: 44,
+    borderRadius: Radius.lg,
+    backgroundColor: Colors.surfaceContainerLowest,
+    borderWidth: 1,
+    borderColor: Colors.outlineVariant,
+    paddingHorizontal: 14,
+    paddingVertical: 10,
+    fontFamily: "Inter_400Regular",
+    fontSize: 14,
+    color: Colors.onSurface,
+  },
+  sendBtn: {
+    width: 44,
+    height: 44,
+    borderRadius: 999,
+    backgroundColor: Colors.primary,
+    alignItems: "center",
+    justifyContent: "center",
   },
 });
