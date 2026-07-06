@@ -73,6 +73,28 @@ function cleanBrand(text) {
     .replace(/\bDe Objectif Civique/g, "D'Objectif Civique");
 }
 
+/**
+ * Dans les pages LÉGALES uniquement : le produit est une APPLICATION, pas un
+ * site. On remplace les références « site » d'origine par « application »
+ * (formes capitalisées et termes définis d'abord, pour garder la casse).
+ */
+function siteToApp(text) {
+  return (text ?? "")
+    .replace(/\bsite (internet|web)\b/gi, "application")
+    .replace(/\bNotre site\b/g, "Notre application")
+    .replace(/\bCe site\b/g, "Cette application")
+    .replace(/\bLe site\b/g, "L'application")
+    .replace(/\ble Site\b/g, "l'Application")
+    .replace(/\bdu Site\b/g, "de l'Application")
+    .replace(/\bau Site\b/g, "à l'Application")
+    .replace(/\bprésent site\b/gi, "présente application")
+    .replace(/\bnotre site\b/gi, "notre application")
+    .replace(/\bce site\b/gi, "cette application")
+    .replace(/\bdu site\b/gi, "de l'application")
+    .replace(/\bau site\b/gi, "à l'application")
+    .replace(/\ble site\b/gi, "l'application");
+}
+
 /** Nettoie un markdown de site (artefacts de navigation + marque d'origine). */
 function cleanMarkdown(raw) {
   let lines = raw.split(/\r?\n/);
@@ -342,14 +364,17 @@ const LEGAL = new Set([
   "politique-remboursement",
   "conditions-generales",
 ]);
+// Pages où « site » doit devenir « application » : les légales + « à propos ».
+const SITE_TO_APP = new Set([...LEGAL, "a-propos"]);
 const pages = [];
 for (const p of readMdDir(path.join(SRC, "pages"))) {
   if (PAGE_SKIP.has(p.slug)) continue;
+  const applySiteToApp = SITE_TO_APP.has(p.slug);
   pages.push({
     id: `liv-page-${p.slug}`,
     slug: p.slug,
-    title: p.title,
-    body: p.body,
+    title: applySiteToApp ? siteToApp(p.title) : p.title,
+    body: applySiteToApp ? siteToApp(p.body) : p.body,
     group: LEGAL.has(p.slug) ? "legal" : "info",
   });
 }
