@@ -29,6 +29,9 @@ import { LESSONS } from "@/data/lessons";
 import { getExplanation } from "@/lib/quizEngine";
 import { SERIES_SIZE, seriesCount, seriesRange } from "@/lib/series";
 import { useProgressStore } from "@/store/progressStore";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 import { Category, ThemeId } from "@/types";
 import { toast } from "@/store/toastStore";
 
@@ -47,6 +50,7 @@ export default function ThemeDetail() {
 
   const themeProgress = useProgressStore((s) => s.themeProgress);
   const sessionsHistory = useProgressStore((s) => s.sessionsHistory);
+  const user = useUserStore((s) => s.user);
 
   // Question dépliée (accordéon) : afficher la réponse directement au clic.
   const [openId, setOpenId] = useState<string | null>(null);
@@ -117,6 +121,10 @@ export default function ThemeDetail() {
       },
     });
   };
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>

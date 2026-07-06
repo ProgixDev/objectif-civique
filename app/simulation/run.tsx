@@ -31,6 +31,9 @@ import { QuitModal } from "@/components/QuitModal";
 import { useSessionStore } from "@/store/sessionStore";
 import { useProgressStore } from "@/store/progressStore";
 import { useHaptics } from "@/hooks/useHaptics";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 import { THEME_LABELS } from "@/data/themes";
 import { formatSeconds } from "@/lib/formatters";
 
@@ -39,6 +42,7 @@ const LETTERS = ["A", "B", "C", "D"];
 export default function SimulationRun() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
+  const user = useUserStore((s) => s.user);
 
   const session = useSessionStore((s) => s.current);
   const currentIndex = useSessionStore((s) => s.currentIndex);
@@ -86,6 +90,10 @@ export default function SimulationRun() {
     const a = session.answers.find((x) => x.questionId === question.id);
     return a?.selectedIndex ?? null;
   }, [session, question]);
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   if (!session || !question) {
     return (

@@ -24,6 +24,9 @@ import { ProgressBar } from "@/components/ui/ProgressBar";
 import { PillButton } from "@/components/ui/PillButton";
 import { GhostButton } from "@/components/ui/GhostButton";
 import { useHaptics } from "@/hooks/useHaptics";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 import { QuitModal } from "@/components/QuitModal";
 import {
   ASSIMILATION_QUESTIONS,
@@ -54,6 +57,7 @@ function shuffle<T>(arr: T[]): T[] {
 export default function AssimilationRun() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
+  const user = useUserStore((s) => s.user);
   const params = useLocalSearchParams<{ topic?: string }>();
 
   const topic =
@@ -82,6 +86,10 @@ export default function AssimilationRun() {
     setPicked(null);
     setRevealed(false);
   }, [index]);
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   if (!question) {
     return (

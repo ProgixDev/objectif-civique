@@ -12,6 +12,9 @@ import {
   categorizeArticle,
 } from "@/data/news";
 import { MarkdownView } from "@/components/MarkdownView";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 
 function formatDate(iso: string | null) {
   if (!iso) return "";
@@ -26,7 +29,12 @@ function formatDate(iso: string | null) {
 export default function NewsArticleScreen() {
   const insets = useSafeAreaInsets();
   const { id } = useLocalSearchParams<{ id: string }>();
+  const user = useUserStore((s) => s.user);
   const article = NEWS_ARTICLES.find((a) => a.id === id);
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   if (!article) {
     return (

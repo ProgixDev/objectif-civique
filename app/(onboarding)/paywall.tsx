@@ -10,6 +10,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { Badge } from "@/components/ui/Badge";
 import { PLANS } from "@/data/plans";
 import { usePurchase } from "@/hooks/usePurchase";
+import { useUserStore } from "@/store/userStore";
 import { toast } from "@/store/toastStore";
 import { PaidPlanId } from "@/types";
 
@@ -17,6 +18,8 @@ export default function Paywall() {
   const insets = useSafeAreaInsets();
   const { purchase, loading } = usePurchase();
   const [selected, setSelected] = useState<PaidPlanId | null>("gold");
+  const goal = useUserStore((s) => s.user?.goal);
+  const freeCategory = (goal as string) ?? "NAT";
 
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
@@ -44,6 +47,23 @@ export default function Paywall() {
             Paiement unique — aucun renouvellement automatique.
           </Text>
         </View>
+
+        <Pressable
+          onPress={() =>
+            router.push({
+              pathname: "/practice/[category]",
+              params: { category: freeCategory, freeOfficial: "1" },
+            })
+          }
+          style={({ pressed }) => [styles.freeTrial, pressed && { opacity: 0.9 }]}
+          accessibilityRole="button"
+          accessibilityLabel="Simuler 40 questions gratuitement"
+        >
+          <Sparkles size={16} color={Colors.success} />
+          <Text style={styles.freeTrialText}>
+            Simuler 40 questions gratuitement
+          </Text>
+        </Pressable>
 
         <View style={{ gap: 18, marginTop: 24, paddingHorizontal: 20 }}>
           {PLANS.map((p) => (
@@ -149,5 +169,23 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surface,
     borderTopWidth: 1,
     borderTopColor: "rgba(204,199,208,0.25)",
+  },
+  freeTrial: {
+    marginTop: 16,
+    marginHorizontal: 20,
+    height: 50,
+    borderRadius: 999,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: Colors.success,
+  },
+  freeTrialText: {
+    ...Typography.button,
+    color: Colors.success,
+    fontSize: 15,
   },
 });

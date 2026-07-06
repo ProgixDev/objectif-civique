@@ -37,6 +37,8 @@ import { findCivicTest, CivicTestKind } from "@/data/civicTests";
 import { getBank } from "@/data/banks";
 import { getExplanation } from "@/lib/quizEngine";
 import { seriesSlice, SERIES_SIZE } from "@/lib/series";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 
 const LETTERS = ["A", "B", "C", "D"];
 const VALID: Category[] = ["NAT", "CSP", "CR"];
@@ -157,6 +159,11 @@ export default function Practice() {
   const question = session?.questions[currentIndex];
   const total = session?.questions.length ?? 0;
   const isLast = currentIndex >= total - 1;
+
+  // Verrou premium : tout est payant, sauf la simulation gratuite de 40 questions.
+  if (!freeOfficial && !isPaid(user)) {
+    return <PremiumGate showFreeTrial={false} />;
+  }
 
   if (!session || !question) {
     return (

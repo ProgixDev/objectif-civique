@@ -17,6 +17,9 @@ import {
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { GrainyBackground } from "@/components/ui/GrainyBackground";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 import { MarkdownView } from "@/components/MarkdownView";
 import {
   GUIDE_INTRO,
@@ -86,7 +89,12 @@ const SECTION_META: Record<
 
 export default function GuideScreen() {
   const insets = useSafeAreaInsets();
+  const user = useUserStore((s) => s.user);
   const [activeSection, setActiveSection] = useState<Section | null>(null);
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   if (activeSection) {
     return (

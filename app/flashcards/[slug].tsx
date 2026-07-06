@@ -28,6 +28,9 @@ import { THEMES } from "@/data/themes";
 import { useProgressStore } from "@/store/progressStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { Category, Question, ThemeId } from "@/types";
+import { useUserStore } from "@/store/userStore";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 
 const CARD_HEIGHT = 420;
 
@@ -38,6 +41,7 @@ export default function FlashcardDeck() {
   const haptics = useHaptics();
   const bookmarks = useProgressStore((s) => s.bookmarks);
   const toggleBookmark = useProgressStore((s) => s.toggleBookmark);
+  const user = useUserStore((s) => s.user);
 
   const { deck, title } = useMemo(() => {
     // Deck par banque (Prépa intense, Référentiel, Apprendre, Livret officiel)
@@ -137,6 +141,10 @@ export default function FlashcardDeck() {
       opacity,
     };
   });
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   if (!current) {
     return (

@@ -34,6 +34,8 @@ import { useUserStore } from "@/store/userStore";
 import { usePrefsStore } from "@/store/prefsStore";
 import { CoachOverlay, CoachStep } from "@/components/CoachOverlay";
 import { useHaptics } from "@/hooks/useHaptics";
+import { isPaid } from "@/lib/entitlements";
+import { PremiumGate } from "@/components/PremiumGate";
 import { getPresentation } from "@/lib/goalPresentation";
 import { SERIES_SIZE, seriesCount, seriesRange } from "@/lib/series";
 import { Category } from "@/types";
@@ -91,6 +93,7 @@ export default function Revise() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
   const userGoal = useUserStore((s) => s.user?.goal);
+  const user = useUserStore((s) => s.user);
   const [selected, setSelected] = useState<FilterKey>(
     (userGoal as FilterKey) ?? "Tous"
   );
@@ -171,6 +174,10 @@ export default function Revise() {
 
   const activeCategory: Category =
     selected === "Tous" ? (userGoal as Category) ?? "NAT" : selected;
+
+  if (!isPaid(user)) {
+    return <PremiumGate />;
+  }
 
   return (
     <View style={{ flex: 1, backgroundColor: "#F3F6FB" }}>

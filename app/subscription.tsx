@@ -7,7 +7,7 @@ import {
   View,
 } from "react-native";
 import { router, Stack } from "expo-router";
-import { Check, ChevronLeft } from "lucide-react-native";
+import { Check, ChevronLeft, Sparkles } from "lucide-react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { MotiView } from "moti";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
@@ -45,6 +45,7 @@ export default function Subscription() {
   const user = useUserStore((s) => s.user);
   const { purchase, loading } = usePurchase();
   const currentPlan: SubscriptionPlan = effectivePlan(user);
+  const freeCategory = (user?.goal as string) ?? "NAT";
 
   const [selected, setSelected] = useState<PaidPlanId>(
     currentPlan === "free" ? "gold" : currentPlan
@@ -122,6 +123,25 @@ export default function Subscription() {
             </Text>
           ) : null}
         </View>
+
+        {currentPlan === "free" ? (
+          <Pressable
+            onPress={() =>
+              router.push({
+                pathname: "/practice/[category]",
+                params: { category: freeCategory, freeOfficial: "1" },
+              })
+            }
+            style={({ pressed }) => [styles.freeTrial, pressed && { opacity: 0.9 }]}
+            accessibilityRole="button"
+            accessibilityLabel="Simuler 40 questions gratuitement"
+          >
+            <Sparkles size={16} color={Colors.success} />
+            <Text style={styles.freeTrialText}>
+              Simuler 40 questions gratuitement
+            </Text>
+          </Pressable>
+        ) : null}
 
         <Text style={[Typography.h2, { color: Colors.onSurface, marginTop: 24, marginBottom: 12 }]}>
           Changer de formule
@@ -253,5 +273,22 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.surfaceContainerLowest,
     borderWidth: 1,
     borderColor: "rgba(204,199,208,0.25)",
+  },
+  freeTrial: {
+    marginTop: 16,
+    height: 50,
+    borderRadius: 999,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
+    backgroundColor: Colors.white,
+    borderWidth: 1.5,
+    borderColor: Colors.success,
+  },
+  freeTrialText: {
+    ...Typography.button,
+    color: Colors.success,
+    fontSize: 15,
   },
 });
