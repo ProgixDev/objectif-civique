@@ -5,6 +5,7 @@ import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
 import { useSessionStore } from "@/store/sessionStore";
 import { pullAll, startSync, stopSync, pushProfile } from "@/lib/sync";
+import { loginRevenueCat, logoutRevenueCat } from "@/lib/revenuecat";
 import { User } from "@/types";
 
 /**
@@ -92,6 +93,7 @@ export async function signUpWithEmail(input: {
   const user = defaultUser(data.user.id, firstName, email);
   useUserStore.getState().setUser(user);
   startSync(user.id);
+  void loginRevenueCat(user.id);
   // S'assure que first_name/email sont bien persistés côté serveur.
   pushProfile(user);
   return user;
@@ -116,6 +118,7 @@ export async function signInWithEmail(input: {
   const user = pulled ?? defaultUser(data.user.id, "", email);
   if (!pulled) useUserStore.getState().setUser(user);
   startSync(user.id);
+  void loginRevenueCat(user.id);
   return user;
 }
 
@@ -169,11 +172,13 @@ export async function signInWithGoogle(): Promise<User | null> {
     );
   if (!pulled) useUserStore.getState().setUser(user);
   startSync(user.id);
+  void loginRevenueCat(user.id);
   return user;
 }
 
 export async function signOut(): Promise<void> {
   stopSync();
+  void logoutRevenueCat();
   try {
     if (isSupabaseConfigured) await supabase.auth.signOut();
   } catch (err) {
@@ -243,6 +248,7 @@ export async function restoreSession(): Promise<void> {
     if (session?.user) {
       await pullAll(session.user.id);
       startSync(session.user.id);
+      void loginRevenueCat(session.user.id);
     } else if (user) {
       // Plus de session valide → on déconnecte localement.
       clearUser();

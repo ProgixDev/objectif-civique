@@ -3,6 +3,7 @@ import { useStripe } from "@stripe/stripe-react-native";
 import { supabase, isSupabaseConfigured } from "@/lib/supabase";
 import { useUserStore } from "@/store/userStore";
 import { pullAll } from "@/lib/sync";
+import { isRevenueCatConfigured, purchasePlan } from "@/lib/revenuecat";
 import { getPlan } from "@/data/plans";
 import { PaidPlanId } from "@/types";
 
@@ -75,6 +76,24 @@ export function usePurchase() {
           status: "error",
           message: "Vous devez être connecté pour souscrire.",
         };
+      }
+
+      // Paiement in-app CONFORME via RevenueCat (Google Play Billing / Apple
+      // IAP) dès qu'une clé RevenueCat est configurée. Le webhook RevenueCat met
+      // à jour le forfait dans Supabase ; on réconcilie ensuite comme pour Stripe.
+      if (isRevenueCatConfigured) {
+        setLoading(true);
+        try {
+          const res = await purchasePlan(planId);
+          if (res.outcome === "canceled") return { status: "canceled" };
+          if (res.outcome === "error") {
+            return { status: "error", message: res.message };
+          }
+          await reconcileAfterPayment(userId);
+          return { status: "success" };
+        } finally {
+          setLoading(false);
+        }
       }
 
       setLoading(true);
