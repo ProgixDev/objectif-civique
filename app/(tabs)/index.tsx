@@ -44,7 +44,7 @@ import { getPresentation } from "@/lib/goalPresentation";
 import { getResumeTarget } from "@/lib/resume";
 import { isPaid } from "@/lib/entitlements";
 
-const TOTAL_QUESTION_BANK = 2500;
+const TOTAL_QUESTION_BANK = 3500;
 const FLASHCARD_TARGET = 50;
 
 type TileDef = {

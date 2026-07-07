@@ -46,8 +46,8 @@ const SLIDES: Slide[] = [
   {
     key: "questions",
     image: Assets.onboarding.questions,
-    eyebrow: "2 500+ questions officielles",
-    title: "2 500+ questions officielles à votre rythme.",
+    eyebrow: "3 500+ questions officielles",
+    title: "3 500+ questions officielles à votre rythme.",
     subtitle:
       "Des questions officielles et des mises en situation pour vous préparer dans les meilleures conditions.",
     accent: "red",

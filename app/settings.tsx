@@ -206,7 +206,7 @@ export default function Settings() {
                 />
                 <FaqItem
                   q="Les questions sont-elles officielles ?"
-                  a="Oui, les 2500+ questions s'inspirent du bank officiel des examens civiques."
+                  a="Oui, les 3500+ questions s'inspirent du bank officiel des examens civiques."
                 />
                 <FaqItem
                   q="Puis-je utiliser l'application hors-ligne ?"
