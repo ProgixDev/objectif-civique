@@ -17,6 +17,7 @@ import {
   Landmark,
   Mic,
   MessageCircle,
+  MessageSquareQuote,
   Scroll,
   Sparkles,
   User,
@@ -84,6 +85,11 @@ export default function AssimilationIndex() {
     router.push("/assimilation/run");
   };
 
+  const onPickFiches = () => {
+    haptics.medium();
+    router.push("/assimilation/fiches");
+  };
+
   return (
     <View style={{ flex: 1, backgroundColor: "#F3F6FB" }}>
       <GrainyBackground />
@@ -127,6 +133,27 @@ export default function AssimilationIndex() {
             <Stat icon={<Award size={14} color={Colors.white} />} value="B2" label="niveau oral" />
           </View>
         </View>
+
+        {/* Fiche : les 100 questions de l'entretien (questions ouvertes) */}
+        <Pressable
+          onPress={onPickFiches}
+          style={({ pressed }) => [
+            styles.fichesCard,
+            pressed && { opacity: 0.96, transform: [{ scale: 0.99 }] },
+          ]}
+        >
+          <View style={styles.fichesIcon}>
+            <MessageSquareQuote size={20} color={Colors.white} />
+          </View>
+          <View style={{ flex: 1 }}>
+            <Text style={styles.fichesTitle}>Les 100 questions de l'entretien</Text>
+            <Text style={styles.fichesSub}>
+              Questions ouvertes + réponse modèle, par thème. À lire et réviser
+              avant le jour J.
+            </Text>
+          </View>
+          <ChevronRight size={18} color={Colors.white} />
+        </Pressable>
 
         {/* Teaser : entretien oral IA — fonctionnalité à venir */}
         <View style={styles.comingSoonCard}>
@@ -333,6 +360,41 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(255,255,255,0.25)",
   },
 
+  fichesCard: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 12,
+    padding: 14,
+    borderRadius: 20,
+    backgroundColor: Colors.secondary,
+    marginBottom: 14,
+    shadowColor: Colors.secondary,
+    shadowOpacity: 0.28,
+    shadowRadius: 16,
+    shadowOffset: { width: 0, height: 8 },
+    elevation: 6,
+  },
+  fichesIcon: {
+    width: 44,
+    height: 44,
+    borderRadius: 14,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "rgba(255,255,255,0.20)",
+  },
+  fichesTitle: {
+    fontFamily: "Satoshi_700Bold",
+    fontSize: 14.5,
+    color: Colors.white,
+    letterSpacing: -0.1,
+  },
+  fichesSub: {
+    fontFamily: "Inter_400Regular",
+    fontSize: 12,
+    lineHeight: 16,
+    color: "rgba(255,255,255,0.88)",
+    marginTop: 2,
+  },
   comingSoonCard: {
     flexDirection: "row",
     alignItems: "flex-start",
