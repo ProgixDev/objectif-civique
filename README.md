@@ -76,3 +76,4 @@ L'utilisateur "vit" entièrement en local. Prêt pour brancher un backend plus t
 ```
 
 À chaque étape : tester sur Expo Go (ou simulateur iOS), valider la UX, puis enchaîner.
+.
