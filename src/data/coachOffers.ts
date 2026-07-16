@@ -26,9 +26,9 @@ export const COACH_SERVICES: CoachService[] = [
   {
     id: "etudiants",
     icon: "GraduationCap",
-    title: "Étudiants (France & Canada)",
+    title: "Étudiants",
     description:
-      "Études en France ou au Canada. Inscription, visa, titre de séjour étudiant.",
+      "Études en France. Inscription, visa, titre de séjour étudiant.",
   },
   {
     id: "titre-sejour",

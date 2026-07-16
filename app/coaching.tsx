@@ -251,8 +251,7 @@ export default function Coaching() {
             </Text>
             <Text style={styles.coverageDesc}>
               Pas de cabinet physique. Un accompagnement entièrement à distance,
-              adapté à votre rythme — depuis la France métropolitaine ou le
-              Canada.
+              adapté à votre rythme — partout en France.
             </Text>
             <View style={styles.coverageList}>
               {[
