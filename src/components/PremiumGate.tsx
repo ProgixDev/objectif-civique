@@ -54,7 +54,8 @@ export function PremiumGate({ showFreeTrial = true }: { showFreeTrial?: boolean 
         </Text>
         <Text style={[Typography.bodyLarge, styles.subtitle]}>
           Débloquez l'intégralité d'Objectif Civique et préparez votre examen
-          civique sereinement — en un seul paiement, sans abonnement.
+          civique et entretien de naturalisation sereinement — en un seul
+          paiement, sans abonnement.
         </Text>
 
         <View style={styles.statsRow}>
