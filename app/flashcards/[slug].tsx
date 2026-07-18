@@ -34,8 +34,12 @@ import { PremiumGate } from "@/components/PremiumGate";
 
 const CARD_HEIGHT = 420;
 
+// Aperçu gratuit : nombre de cartes accessibles sans forfait.
+const FREE_FLASHCARD_LIMIT = 20;
+
 export default function FlashcardDeck() {
-  const { slug } = useLocalSearchParams<{ slug: string }>();
+  const { slug, free } = useLocalSearchParams<{ slug: string; free?: string }>();
+  const isFree = free === "1";
   const insets = useSafeAreaInsets();
   const { width: screenWidth } = useWindowDimensions();
   const haptics = useHaptics();
@@ -44,32 +48,43 @@ export default function FlashcardDeck() {
   const user = useUserStore((s) => s.user);
 
   const { deck, title } = useMemo(() => {
-    // Deck par banque (Prépa intense, Référentiel, Apprendre, Livret officiel)
-    if (slug?.startsWith("bank-")) {
-      const bank = getBank(slug.replace("bank-", ""));
-      if (bank) {
+    const build = (): { deck: Question[]; title: string } => {
+      // Deck par banque (Prépa intense, Référentiel, Apprendre, Livret officiel)
+      if (slug?.startsWith("bank-")) {
+        const bank = getBank(slug.replace("bank-", ""));
+        if (bank) {
+          return {
+            deck: FLASHCARD_QUESTIONS.filter(
+              (q) => q.source != null && bank.sources.includes(q.source)
+            ),
+            title: bank.label,
+          };
+        }
+      }
+      if (slug?.startsWith("theme-")) {
+        const themeId = slug.replace("theme-", "") as ThemeId;
+        const theme = THEMES.find((t) => t.id === themeId);
         return {
-          deck: FLASHCARD_QUESTIONS.filter(
-            (q) => q.source != null && bank.sources.includes(q.source)
-          ),
-          title: bank.label,
+          deck: FLASHCARD_QUESTIONS.filter((q) => q.theme === themeId),
+          title: theme?.name ?? "Thème",
         };
       }
-    }
-    if (slug?.startsWith("theme-")) {
-      const themeId = slug.replace("theme-", "") as ThemeId;
-      const theme = THEMES.find((t) => t.id === themeId);
+      const cat = slug as Category;
       return {
-        deck: FLASHCARD_QUESTIONS.filter((q) => q.theme === themeId),
-        title: theme?.name ?? "Thème",
+        deck: FLASHCARD_QUESTIONS.filter((q) => q.categories.includes(cat)),
+        title: GOAL_LABELS[cat] ?? "Flashcards",
+      };
+    };
+    const base = build();
+    // Aperçu gratuit : on limite à 20 cartes et on bypasse le paywall.
+    if (isFree) {
+      return {
+        deck: base.deck.slice(0, FREE_FLASHCARD_LIMIT),
+        title: "Flashcards gratuites",
       };
     }
-    const cat = slug as Category;
-    return {
-      deck: FLASHCARD_QUESTIONS.filter((q) => q.categories.includes(cat)),
-      title: GOAL_LABELS[cat] ?? "Flashcards",
-    };
-  }, [slug]);
+    return base;
+  }, [slug, isFree]);
 
   const [index, setIndex] = useState(0);
   // Série courante : les decks de plus de 40 cartes sont découpés en paquets.
@@ -142,7 +157,7 @@ export default function FlashcardDeck() {
     };
   });
 
-  if (!isPaid(user)) {
+  if (!isPaid(user) && !isFree) {
     return <PremiumGate />;
   }
 

@@ -280,6 +280,38 @@ export default function HomeTab() {
           </Pressable>
         ) : null}
 
+        {/* Essai gratuit — 20 flashcards, sans abonnement */}
+        {!isPaid(user) ? (
+          <Pressable
+            onPress={go(() =>
+              router.push({
+                pathname: "/flashcards/[slug]",
+                params: { slug: goalCategory, free: "1" },
+              })
+            )}
+            style={({ pressed }) => [
+              styles.freeTrialBanner,
+              pressed && { transform: [{ scale: 0.99 }], opacity: 0.96 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel="Essai gratuit : 20 flashcards"
+          >
+            <View style={styles.freeTrialIcon}>
+              <Layers size={20} color={Colors.white} strokeWidth={2.2} />
+            </View>
+            <View style={{ flex: 1 }}>
+              <View style={styles.freeBadge}>
+                <Text style={styles.freeBadgeText}>GRATUIT</Text>
+              </View>
+              <Text style={styles.freeTrialTitle}>20 flashcards</Text>
+              <Text style={styles.freeTrialSub} numberOfLines={2}>
+                Mémorisez avec 20 cartes offertes.
+              </Text>
+            </View>
+            <ChevronRight size={18} color={Colors.success} />
+          </Pressable>
+        ) : null}
+
         {/* Forfait CTA — shown only while on free plan */}
         {!isPaid(user) ? (
           <Pressable
