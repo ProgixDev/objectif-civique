@@ -30,3 +30,6 @@ expo-env.d.ts
 # @end expo-cli
 # État local du CLI Supabase (généré par "supabase link")
 supabase/.temp/
+
+# Fichier temporaire de clé (ne jamais committer)
+fichier.txt
