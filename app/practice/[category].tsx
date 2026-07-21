@@ -35,7 +35,7 @@ import { THEME_LABELS } from "@/data/themes";
 import { GOAL_LABELS } from "@/data/questions";
 import { findCivicTest, CivicTestKind } from "@/data/civicTests";
 import { getBank } from "@/data/banks";
-import { getExplanation } from "@/lib/quizEngine";
+import { getExplanation, pickOfficialExam } from "@/lib/quizEngine";
 import { seriesSlice, SERIES_SIZE } from "@/lib/series";
 import { isPaid } from "@/lib/entitlements";
 import { PremiumGate } from "@/components/PremiumGate";
@@ -119,7 +119,14 @@ export default function Practice() {
     // Conserver la session en cours uniquement si même contexte ET non terminée.
     if (session && session.originKey === originKey && !session.endedAt) return;
     if (freeOfficial) {
-      startPractice(initCategory, 40, "officielles", originKey);
+      // Aperçu gratuit : TOUJOURS les mêmes 40 questions (28 officielles + 12
+      // mises en situation), déterministe → rejouer n'apporte rien de neuf.
+      const freeSet = pickOfficialExam({
+        category: initCategory,
+        count: 40,
+        deterministic: true,
+      });
+      startTargetedTest("40 questions gratuites", freeSet, originKey);
       return;
     }
     if (isTargetedTest && subThemeId) {

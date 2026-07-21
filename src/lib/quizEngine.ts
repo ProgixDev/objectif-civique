@@ -75,6 +75,66 @@ export function pickQuestions({
   return shuffled.slice(0, Math.min(count, shuffled.length));
 }
 
+/**
+ * Construit une série au FORMAT OFFICIEL de l'examen : sur 40 questions,
+ * 28 questions de connaissance officielles (`type: "qcm"`, `isOfficial`) et
+ * 12 mises en situation (`type: "mise-en-situation"`) — comme le jour J.
+ *
+ * - `deterministic: true` → toujours la MÊME sélection (aperçu gratuit : rejouer
+ *   n'apporte pas de nouvelles questions).
+ * - `deterministic: false` → tirage aléatoire (examens blancs).
+ *
+ * Si un type manque en stock, on complète avec l'autre pour atteindre `count`.
+ */
+export function pickOfficialExam({
+  category,
+  count = 40,
+  deterministic = false,
+}: {
+  category?: Category | "Tous";
+  count?: number;
+  deterministic?: boolean;
+}): Question[] {
+  const inCat = (q: Question) =>
+    !category || category === "Tous" || q.categories.includes(category);
+  const knowledge = QUESTIONS.filter(
+    (q) => q.type === "qcm" && q.isOfficial && inCat(q)
+  );
+  const situations = QUESTIONS.filter(
+    (q) => q.type === "mise-en-situation" && inCat(q)
+  );
+
+  // Répartition officielle : 12/40 mises en situation, le reste en connaissances.
+  const wantSit = Math.round((count * 12) / 40);
+  const wantKnow = count - wantSit;
+
+  const order = <T,>(arr: T[]): T[] =>
+    deterministic ? arr.slice() : shuffleArray(arr);
+
+  const knowPool = order(knowledge);
+  const sitPool = order(situations);
+
+  let pickKnow = knowPool.slice(0, wantKnow);
+  let pickSit = sitPool.slice(0, wantSit);
+
+  // Complète si un type est en manque, pour toujours atteindre `count`.
+  if (pickKnow.length + pickSit.length < count) {
+    const need = count - pickKnow.length - pickSit.length;
+    const extraSit = sitPool.slice(pickSit.length, pickSit.length + need);
+    pickSit = pickSit.concat(extraSit);
+    const stillNeed = count - pickKnow.length - pickSit.length;
+    if (stillNeed > 0) {
+      pickKnow = pickKnow.concat(
+        knowPool.slice(pickKnow.length, pickKnow.length + stillNeed)
+      );
+    }
+  }
+
+  const combined = pickKnow.concat(pickSit);
+  const finalSet = deterministic ? combined : shuffleArray(combined);
+  return finalSet.slice(0, count).map(shuffleChoices);
+}
+
 export function scoreSession(
   answers: Answer[],
   questions: Question[]

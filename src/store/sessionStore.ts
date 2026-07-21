@@ -4,6 +4,7 @@ import { zustandStorage } from "@/lib/storage";
 import { Answer, Category, Question, Session, ThemeId, Recap } from "@/types";
 import {
   pickQuestions,
+  pickOfficialExam,
   scoreSession,
   shuffleArray,
   shuffleChoices,
@@ -169,11 +170,11 @@ export const useSessionStore = create<SessionState>()(
     const questions =
       opts?.questions && opts.questions.length > 0
         ? opts.questions.slice(0, 40).map(shuffleChoices)
-        : pickQuestions({
-            count: 40,
-            category: opts?.category,
-            themes: opts?.themes,
-          });
+        : opts?.themes && opts.themes.length
+        ? // Simulation ciblée sur des thèmes : on garde le tirage par thème.
+          pickQuestions({ count: 40, category: opts?.category, themes: opts.themes })
+        : // Examen blanc au format officiel : 28 connaissances + 12 mises en situation.
+          pickOfficialExam({ count: 40, category: opts?.category });
     const timerInitialSeconds = 45 * 60;
     set({
       current: {
