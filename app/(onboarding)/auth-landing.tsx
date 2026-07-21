@@ -1,6 +1,7 @@
 import React from "react";
 import {
   Image,
+  Platform,
   Pressable,
   StyleSheet,
   Text,
@@ -16,7 +17,7 @@ import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
 import { IconTilePattern } from "@/components/IconTilePattern";
 import { useHaptics } from "@/hooks/useHaptics";
-import { signInWithGoogle } from "@/lib/auth";
+import { signInWithGoogle, signInWithApple } from "@/lib/auth";
 import { isPersoComplete } from "@/store/userStore";
 import { toast } from "@/store/toastStore";
 
@@ -39,9 +40,19 @@ export default function AuthLanding() {
       );
     }
   };
-  const onApple = () => {
+  const onApple = async () => {
     haptics.light();
-    // TODO: wire Apple Sign-In
+    try {
+      const user = await signInWithApple();
+      if (!user) return;
+      router.replace(
+        isPersoComplete(user) ? "/(tabs)" : "/(onboarding)/perso/step-1"
+      );
+    } catch (err) {
+      toast.error(
+        err instanceof Error ? err.message : "Échec de la connexion Apple."
+      );
+    }
   };
 
   return (
@@ -96,21 +107,23 @@ export default function AuthLanding() {
           <Text style={styles.socialLabel}>Continuer avec Google</Text>
         </Pressable>
 
-        <Pressable
-          onPress={onApple}
-          accessibilityRole="button"
-          accessibilityLabel="Continuer avec Apple"
-          style={({ pressed }) => [
-            styles.socialBtn,
-            styles.appleBtn,
-            pressed && { opacity: 0.85 },
-          ]}
-        >
-          <AppleIcon size={20} color={Colors.white} />
-          <Text style={[styles.socialLabel, { color: Colors.white }]}>
-            Continuer avec Apple
-          </Text>
-        </Pressable>
+        {Platform.OS === "ios" && (
+          <Pressable
+            onPress={onApple}
+            accessibilityRole="button"
+            accessibilityLabel="Continuer avec Apple"
+            style={({ pressed }) => [
+              styles.socialBtn,
+              styles.appleBtn,
+              pressed && { opacity: 0.85 },
+            ]}
+          >
+            <AppleIcon size={20} color={Colors.white} />
+            <Text style={[styles.socialLabel, { color: Colors.white }]}>
+              Continuer avec Apple
+            </Text>
+          </Pressable>
+        )}
 
         <PillButton
           label="Créer un compte"

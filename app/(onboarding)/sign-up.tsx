@@ -27,7 +27,7 @@ import { Typography } from "@/constants/typography";
 import { Input } from "@/components/ui/Input";
 import { PillButton } from "@/components/ui/PillButton";
 import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
-import { signUpWithEmail, signInWithGoogle } from "@/lib/auth";
+import { signUpWithEmail, signInWithGoogle, signInWithApple } from "@/lib/auth";
 import { isPersoComplete } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
 import { toast } from "@/store/toastStore";
@@ -312,24 +312,40 @@ export default function SignUp() {
             <Text style={styles.socialLabel}>Continuer avec Google</Text>
           </Pressable>
 
-          <Pressable
-            onPress={() => {
-              haptics.light();
-              // TODO: wire Apple Sign-In
-            }}
-            accessibilityRole="button"
-            accessibilityLabel="Continuer avec Apple"
-            style={({ pressed }) => [
-              styles.socialBtn,
-              styles.appleBtn,
-              pressed && { opacity: 0.85 },
-            ]}
-          >
-            <AppleIcon size={20} color={Colors.white} />
-            <Text style={[styles.socialLabel, { color: Colors.white }]}>
-              Continuer avec Apple
-            </Text>
-          </Pressable>
+          {Platform.OS === "ios" && (
+            <Pressable
+              onPress={async () => {
+                haptics.light();
+                try {
+                  const user = await signInWithApple();
+                  if (!user) return;
+                  router.replace(
+                    isPersoComplete(user)
+                      ? "/(tabs)"
+                      : "/(onboarding)/perso/step-1"
+                  );
+                } catch (err) {
+                  toast.error(
+                    err instanceof Error
+                      ? err.message
+                      : "Échec de la connexion Apple."
+                  );
+                }
+              }}
+              accessibilityRole="button"
+              accessibilityLabel="Continuer avec Apple"
+              style={({ pressed }) => [
+                styles.socialBtn,
+                styles.appleBtn,
+                pressed && { opacity: 0.85 },
+              ]}
+            >
+              <AppleIcon size={20} color={Colors.white} />
+              <Text style={[styles.socialLabel, { color: Colors.white }]}>
+                Continuer avec Apple
+              </Text>
+            </Pressable>
+          )}
         </View>
 
         <View style={styles.switchRow}>

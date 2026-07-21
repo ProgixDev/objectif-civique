@@ -15,6 +15,7 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.horizon224.objectifcivique",
+      "usesAppleSignIn": true,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -31,6 +32,7 @@
       "expo-font",
       "expo-notifications",
       "expo-web-browser",
+      "expo-apple-authentication",
       [
         "@stripe/stripe-react-native",
         {

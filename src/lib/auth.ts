@@ -1,5 +1,7 @@
+import { Platform } from "react-native";
 import * as WebBrowser from "expo-web-browser";
 import * as Linking from "expo-linking";
+import * as AppleAuthentication from "expo-apple-authentication";
 import { supabase, isSupabaseConfigured } from "@/lib/supabase";
 import { useUserStore } from "@/store/userStore";
 import { useProgressStore } from "@/store/progressStore";
@@ -168,6 +170,77 @@ export async function signInWithGoogle(): Promise<User | null> {
       (authUser.user_metadata?.full_name as string) ??
         (authUser.user_metadata?.name as string) ??
         "",
+      authUser.email ?? ""
+    );
+  if (!pulled) useUserStore.getState().setUser(user);
+  startSync(user.id);
+  void loginRevenueCat(user.id);
+  return user;
+}
+
+/**
+ * Connexion via Apple (natif iOS). OBLIGATOIRE dès qu'un login social tiers
+ * (Google) est proposé — règle App Store 4.8, sinon rejet.
+ *
+ * Flux natif : `expo-apple-authentication` renvoie un `identityToken` échangé
+ * contre une session Supabase (provider "apple"). Apple ne transmet le nom
+ * qu'au PREMIER login → on le capture s'il est présent.
+ *
+ * Prérequis : iOS uniquement ; `usesAppleSignIn: true` (app.json) ; provider
+ * Apple activé dans Supabase (Services ID + clé). Retourne null si annulé.
+ */
+export async function signInWithApple(): Promise<User | null> {
+  ensureConfigured();
+  if (Platform.OS !== "ios") {
+    throw new Error("« Se connecter avec Apple » est disponible sur iPhone.");
+  }
+
+  let credential: AppleAuthentication.AppleAuthenticationCredential;
+  try {
+    credential = await AppleAuthentication.signInAsync({
+      requestedScopes: [
+        AppleAuthentication.AppleAuthenticationScope.FULL_NAME,
+        AppleAuthentication.AppleAuthenticationScope.EMAIL,
+      ],
+    });
+  } catch (e) {
+    // L'utilisateur a fermé la feuille Apple.
+    if (e && typeof e === "object" && (e as { code?: string }).code === "ERR_REQUEST_CANCELED") {
+      return null;
+    }
+    throw new Error(frError(e instanceof Error ? e.message : undefined));
+  }
+
+  const idToken = credential.identityToken;
+  if (!idToken) throw new Error(frError(undefined));
+
+  const { error } = await supabase.auth.signInWithIdToken({
+    provider: "apple",
+    token: idToken,
+  });
+  if (error) throw new Error(frError(error.message));
+
+  const {
+    data: { session },
+  } = await supabase.auth.getSession();
+  const authUser = session?.user;
+  if (!authUser) throw new Error(frError(undefined));
+
+  // Apple ne renvoie le nom qu'au tout premier login.
+  const appleName = [
+    credential.fullName?.givenName,
+    credential.fullName?.familyName,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .trim();
+
+  const pulled = await pullAll(authUser.id);
+  const user =
+    pulled ??
+    defaultUser(
+      authUser.id,
+      appleName || (authUser.user_metadata?.full_name as string) || "",
       authUser.email ?? ""
     );
   if (!pulled) useUserStore.getState().setUser(user);
