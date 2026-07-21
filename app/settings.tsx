@@ -28,6 +28,9 @@ import { toast } from "@/store/toastStore";
 
 const emailSchema = z.string().email();
 
+// Site où sont hébergés les textes légaux (source de vérité).
+const LEGAL_BASE_URL = "https://objectif-civique-landing-page.vercel.app";
+
 export default function Settings() {
   const insets = useSafeAreaInsets();
   const user = useUserStore((s) => s.user);
@@ -58,8 +61,16 @@ export default function Settings() {
       setRemindersEnabled(false);
     }
   };
-  const [modal, setModal] = useState<"faq" | "cgu" | "privacy" | "legal" | null>(null);
+  const [modal, setModal] = useState<"faq" | null>(null);
   const [showReset, setShowReset] = useState(false);
+
+  // Les textes légaux sont hébergés sur le site (source de vérité, mise à jour
+  // sans nouvelle version de l'app). Chaque ligne ouvre la page correspondante.
+  const openLegal = (path: string) => {
+    Linking.openURL(`${LEGAL_BASE_URL}/${path}`).catch(() => {
+      toast.error("Impossible d'ouvrir la page.");
+    });
+  };
 
   const changed = firstName !== user?.firstName || email !== user?.email;
 
@@ -159,9 +170,23 @@ export default function Settings() {
         </Section>
 
         <Section title="Légal">
-          <Row label="Conditions Générales d'Utilisation" onPress={() => setModal("cgu")} />
-          <Row label="Politique de confidentialité" onPress={() => setModal("privacy")} />
-          <Row label="Mentions légales" onPress={() => setModal("legal")} />
+          <Row
+            label="Conditions générales"
+            onPress={() => openLegal("conditions-generales")}
+          />
+          <Row
+            label="Politique de confidentialité"
+            onPress={() => openLegal("confidentialite")}
+          />
+          <Row
+            label="Politique de cookies"
+            onPress={() => openLegal("politique-cookies")}
+          />
+          <Row
+            label="Politique de remboursement"
+            onPress={() => openLegal("politique-remboursement")}
+          />
+          <Row label="Mentions légales" onPress={() => openLegal("mentions-legales")} />
         </Section>
       </ScrollView>
 
@@ -188,17 +213,11 @@ export default function Settings() {
               <X size={20} color={Colors.primary} />
             </Pressable>
             <Text style={[Typography.h1, { color: Colors.onSurface, flex: 1 }]}>
-              {modal === "faq"
-                ? "FAQ"
-                : modal === "cgu"
-                  ? "CGU"
-                  : modal === "privacy"
-                    ? "Confidentialité"
-                    : "Mentions légales"}
+              FAQ
             </Text>
           </View>
           <ScrollView contentContainerStyle={{ padding: 20 }}>
-            {modal === "faq" ? (
+            {(
               <View style={{ gap: 16 }}>
                 <FaqItem
                   q="Comment commencer ?"
@@ -221,11 +240,6 @@ export default function Settings() {
                   a="Depuis Paramètres > Aide > Contacter le support."
                 />
               </View>
-            ) : (
-              <Text style={[Typography.body, { color: Colors.onSurface, lineHeight: 22 }]}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ce contenu
-                est un placeholder pour la version de démonstration d'Objectif Civique.
-              </Text>
             )}
           </ScrollView>
         </View>
