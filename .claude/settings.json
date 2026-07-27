@@ -10,7 +10,11 @@
       "Bash(echo \"===Session type===\" && grep -n \"Session\" src/types/index.ts | head && sed -n '/export type Session/,/};/p' src/types/index.ts)",
       "Bash(node -e 'const f=require\\(\"./FULL-DATA/Tests_test_civique/histoire-all.json\"\\); console.log\\(Array.isArray\\(f\\)?\"array len \"+f.length:typeof f+\" keys \"+Object.keys\\(f\\)\\); const s=Array.isArray\\(f\\)?f[0]:f; console.log\\(JSON.stringify\\(s,null,1\\).slice\\(0,700\\)\\);')",
       "Bash(node -e 'const fs=require\\(\"fs\"\\); try{const e=fs.readFileSync\\(\".env\",\"utf-8\"\\); const m=e.match\\(/^GROQ_API_KEY\\\\s*=\\\\s*\\(.+\\)$/m\\); console.log\\(\"GROQ_API_KEY présent:\", !!\\(m && m[1].trim\\(\\)\\), m?\\(\"\\(longueur \"+m[1].trim\\(\\).length+\"\\)\"\\):\"\" \\);}catch\\(e\\){console.log\\(\"pas de .env:\",e.message\\);}')",
-      "Bash(node scripts/add-test-explanations.mjs)"
+      "Bash(node scripts/add-test-explanations.mjs)",
+      "Bash(curl -s -o /tmp/wh.txt -w \"HTTP %{http_code}\\\\n\" -X POST \"https://ofzfughnmxjxszhdlblu.supabase.co/functions/v1/stripe-webhook\" -H \"Content-Type: application/json\" -d '{\"test\":1}')",
+      "Bash(grep -viE \"^-|Compressing project files$\")",
+      "Bash(sed \"s/^/questions entretien: /\")",
+      "Bash(node -e 'const c=require\\(\"./src/data/examCenters.json\"\\);console.log\\(\"centres examen:\",\\(Array.isArray\\(c\\)?c:c.centers||[]\\).length\\)')"
     ],
     "additionalDirectories": [
       "C:\\Users\\Hp\\objectif-civique\\src\\types",
