@@ -13,7 +13,6 @@ import {
   Bell,
   ChevronRight,
   FileText,
-  Globe,
   Handshake,
   LifeBuoy,
   LogOut,
@@ -219,11 +218,6 @@ export default function Profile() {
             icon={<Bell size={16} color={Colors.primary} />}
             label="Notifications"
             onPress={go(() => router.push("/settings"))}
-          />
-          <Row
-            icon={<Globe size={16} color={Colors.primary} />}
-            label="Langue (Français)"
-            onPress={go(() => toast.info("Multilingue à venir"))}
             last
           />
         </View>

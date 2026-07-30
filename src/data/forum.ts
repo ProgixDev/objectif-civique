@@ -1,5 +1,7 @@
 export type ForumReply = {
   id: string;
+  /** Auteur du contenu. `null` pour les discussions d'amorçage (système). */
+  userId?: string | null;
   author: string;
   authorInitials: string;
   authorGoal: "NAT" | "CSP" | "CR";
@@ -10,6 +12,8 @@ export type ForumReply = {
 
 export type ForumThread = {
   id: string;
+  /** Auteur du contenu. `null` pour les discussions d'amorçage (système). */
+  userId?: string | null;
   author: string;
   authorInitials: string;
   authorGoal: "NAT" | "CSP" | "CR";

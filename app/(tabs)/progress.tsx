@@ -25,7 +25,6 @@ import { useProgressStore, getSuccessRate } from "@/store/progressStore";
 import { THEMES } from "@/data/themes";
 import { ACHIEVEMENTS } from "@/data/achievements";
 import { todayKey } from "@/lib/formatters";
-import { toast } from "@/store/toastStore";
 
 export default function ProgressTab() {
   const insets = useSafeAreaInsets();
@@ -161,12 +160,6 @@ export default function ProgressTab() {
 
       <View style={styles.sectionHead}>
         <Text style={styles.sectionTitle}>Récompenses</Text>
-        <Text
-          onPress={() => toast.info("Section bientôt disponible")}
-          style={styles.sectionLink}
-        >
-          Voir tout
-        </Text>
       </View>
       <ScrollView
         horizontal

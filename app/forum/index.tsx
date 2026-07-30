@@ -14,6 +14,7 @@ import {
   MessageSquare,
   Eye,
   MessagesSquare,
+  MoreHorizontal,
   Plus,
 } from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
@@ -22,6 +23,7 @@ import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
 import { ForumThread } from "@/data/forum";
 import { fetchThreads } from "@/lib/forumApi";
+import { showContentActions } from "@/lib/moderation";
 
 const FILTERS = [
   { key: "all", label: "Tous" },
@@ -154,6 +156,23 @@ export default function ForumList() {
                   {timeAgo(t.createdAt)} · {t.authorGoal}
                 </Text>
               </View>
+              <Pressable
+                onPress={() =>
+                  showContentActions({
+                    kind: "thread",
+                    contentId: t.id,
+                    authorId: t.userId ?? null,
+                    authorName: t.author,
+                    onBlocked: load,
+                  })
+                }
+                hitSlop={8}
+                style={styles.moreBtn}
+                accessibilityRole="button"
+                accessibilityLabel="Signaler ou bloquer"
+              >
+                <MoreHorizontal size={18} color={Colors.textSecondary} />
+              </Pressable>
             </View>
             <Text style={styles.title} numberOfLines={2}>
               {t.title}
@@ -290,6 +309,13 @@ const styles = StyleSheet.create({
     fontFamily: "Inter_700Bold",
     fontSize: 11,
     color: Colors.white,
+  },
+  moreBtn: {
+    width: 32,
+    height: 32,
+    borderRadius: 999,
+    alignItems: "center",
+    justifyContent: "center",
   },
   author: {
     fontFamily: "Inter_600SemiBold",

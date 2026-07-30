@@ -6,6 +6,7 @@ import {
   NativeSyntheticEvent,
   Pressable,
   ScrollView,
+  Share,
   StyleSheet,
   Text,
   View,
@@ -57,6 +58,19 @@ export default function Coaching() {
     });
   };
 
+  /** Partage le lien de l'accompagnement via la feuille native du système. */
+  const onShare = async () => {
+    haptics.light();
+    try {
+      await Share.share({
+        message: `Accompagnement personnalisé pour vos démarches civiques : ${SITE_URL}`,
+        url: SITE_URL, // iOS présente l'aperçu du lien à partir de ce champ.
+      });
+    } catch {
+      toast.error("Partage impossible");
+    }
+  };
+
   return (
     <View style={{ flex: 1, backgroundColor: Colors.surface }}>
       <Stack.Screen options={{ headerShown: false }} />
@@ -85,7 +99,7 @@ export default function Coaching() {
               <ChevronLeft size={18} color={Colors.white} />
             </Pressable>
             <Pressable
-              onPress={() => toast.info("Bientôt partageable")}
+              onPress={onShare}
               style={styles.iconBtn}
               accessibilityLabel="Partager"
             >

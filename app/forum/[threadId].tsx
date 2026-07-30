@@ -11,13 +11,20 @@ import {
   View,
 } from "react-native";
 import { router, useLocalSearchParams } from "expo-router";
-import { ChevronLeft, ThumbsUp, MessageCircle, Send } from "lucide-react-native";
+import {
+  ChevronLeft,
+  ThumbsUp,
+  MessageCircle,
+  MoreHorizontal,
+  Send,
+} from "lucide-react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Colors } from "@/constants/colors";
 import { Typography } from "@/constants/typography";
 import { Radius } from "@/constants/radius";
 import { ForumThread } from "@/data/forum";
 import { fetchThread, createReply } from "@/lib/forumApi";
+import { showContentActions } from "@/lib/moderation";
 import { toast } from "@/store/toastStore";
 
 function formatDate(iso: string) {
@@ -123,6 +130,24 @@ export default function ForumThreadScreen() {
                   {formatDate(thread.createdAt)} · {thread.authorGoal}
                 </Text>
               </View>
+              <Pressable
+                onPress={() =>
+                  showContentActions({
+                    kind: "thread",
+                    contentId: thread.id,
+                    authorId: thread.userId ?? null,
+                    authorName: thread.author,
+                    // L'auteur bloqué : la discussion n'a plus lieu d'être ouverte.
+                    onBlocked: () => router.back(),
+                  })
+                }
+                hitSlop={8}
+                style={styles.moreBtn}
+                accessibilityRole="button"
+                accessibilityLabel="Signaler ou bloquer"
+              >
+                <MoreHorizontal size={18} color={Colors.textSecondary} />
+              </Pressable>
             </View>
             <Text style={styles.title}>{thread.title}</Text>
             <Text style={styles.body}>{thread.body}</Text>
@@ -149,6 +174,23 @@ export default function ForumThreadScreen() {
                     {formatDate(r.createdAt)} · {r.authorGoal}
                   </Text>
                 </View>
+                <Pressable
+                  onPress={() =>
+                    showContentActions({
+                      kind: "reply",
+                      contentId: r.id,
+                      authorId: r.userId ?? null,
+                      authorName: r.author,
+                      onBlocked: load,
+                    })
+                  }
+                  hitSlop={8}
+                  style={styles.moreBtn}
+                  accessibilityRole="button"
+                  accessibilityLabel="Signaler ou bloquer"
+                >
+                  <MoreHorizontal size={18} color={Colors.textSecondary} />
+                </Pressable>
               </View>
               <Text style={styles.body}>{r.body}</Text>
               {r.helpful > 0 ? (
@@ -250,6 +292,13 @@ const styles = StyleSheet.create({
     fontFamily: "Inter_700Bold",
     fontSize: 12,
     color: Colors.white,
+  },
+  moreBtn: {
+    width: 32,
+    height: 32,
+    borderRadius: 999,
+    alignItems: "center",
+    justifyContent: "center",
   },
   author: {
     fontFamily: "Inter_700Bold",

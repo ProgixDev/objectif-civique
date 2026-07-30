@@ -142,11 +142,12 @@ export default function Settings() {
             value={soundHaptic}
             onChange={setSoundHaptic}
           />
-          <ToggleRow
-            label="Mode sombre (bientôt)"
-            value={false}
-            onChange={() => {}}
-            disabled
+        </Section>
+
+        <Section title="Forum">
+          <Row
+            label="Utilisateurs bloqués"
+            onPress={() => router.push("/forum/blocked")}
           />
         </Section>
 
@@ -154,10 +155,6 @@ export default function Settings() {
           <Row
             label="Réinitialiser ma progression"
             onPress={() => setShowReset(true)}
-          />
-          <Row
-            label="Exporter mes données"
-            onPress={() => toast.info("Bientôt disponible")}
           />
         </Section>
 
