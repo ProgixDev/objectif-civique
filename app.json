@@ -15,6 +15,7 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.objectifcivique.app",
+      "icon": "./assets/branding/icon-ios.png",
       "usesAppleSignIn": true,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -47,9 +48,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "969297dd-c639-4af6-a0ce-03000da0b46a"
+        "projectId": "f6b1bc29-d88a-4df2-bb69-6390a693e8c4"
       }
     },
-    "owner": "progix_2026"
+    "owner": "mohameddev7"
   }
 }
