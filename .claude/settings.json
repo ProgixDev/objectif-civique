@@ -1,20 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(node -e \"const fs=require\\('fs'\\);for\\(const f of ['assets/branding/icon.png','assets/branding/splash.png','assets/branding/icon-foreground.png']\\){const b=fs.readFileSync\\(f\\);console.log\\(f,b.readUInt32BE\\(16\\)+'x'+b.readUInt32BE\\(20\\),\\(b.length/1024\\).toFixed\\(0\\)+'KB'\\);}\")",
-      "Bash(node -e ' *)",
-      "Bash(echo \"TSC_EXIT=$?\")",
-      "Bash(git log *)",
-      "Bash(cd \"c:/Users/Hp\" && find . -maxdepth 4 -type d \\\\\\( -iname \"*objectif*\" -o -iname \"*objective*civique*\" -o -iname \"*civique*\" \\\\\\) -not -path \"*/node_modules/*\" 2>/dev/null | head -30)",
+      "Bash(ls \"c:/Users/Hp/\" | head -30; echo \"=== recherche de copies ===\"; ls \"c:/Users/Hp/objectif-civique\" 2>/dev/null | head -20 || echo \"objectif-civique introuvable\")",
       "Read(//c/Users/Hp/**)",
-      "Bash(node --input-type=module -e ' *)",
-      "Bash(npx vitest *)",
-      "Bash(node -e 'const fs=require\\(\"fs\"\\);const p=\"src/lib/contentFilter.ts\";let s=fs.readFileSync\\(p,\"utf8\"\\);const bad=\"/[\"+String.fromCharCode\\(768\\)+\"-\"+String.fromCharCode\\(879\\)+\"]/g\";const good=\"/[\\\\\\\\u0300-\\\\\\\\u036f]/g\";if\\(!s.includes\\(bad\\)\\){console.log\\(\"motif introuvable\"\\);process.exit\\(1\\);}s=s.split\\(bad\\).join\\(good\\);fs.writeFileSync\\(p,s\\);const line=s.split\\(\"\\\\n\"\\).find\\(l=>l.includes\\(\"u0300\"\\)\\);console.log\\(\"ecrit:\",JSON.stringify\\(line\\)\\);')",
-      "Bash(node -e 'const s=require\\(\"fs\"\\).readFileSync\\(\"src/lib/contentFilter.ts\",\"utf8\"\\);const lines=s.split\\(\"\\\\n\"\\);const i=lines.findIndex\\(l=>l.includes\\(\"NFD\"\\)\\);for\\(let k=i;k<i+3;k++\\)console.log\\(k,JSON.stringify\\(lines[k]\\),\"codes:\",[...lines[k]].map\\(c=>c.charCodeAt\\(0\\)\\).filter\\(c=>c>127\\).join\\(\",\"\\)\\);')",
-      "Bash(node -e 'const s=require\\(\"fs\"\\).readFileSync\\(\"src/lib/contentFilter.ts\",\"utf8\"\\);const lines=s.split\\(\"\\\\n\"\\);lines.forEach\\(\\(l,i\\)=>{if\\(l.includes\\(\".replace\\(\"\\)||l.includes\\(\"normalize\\(\\\\\"NFD\\\\\"\\)\"\\)\\)console.log\\(i,JSON.stringify\\(l\\)\\);}\\);')",
-      "Bash(node -e 'const fs=require\\(\"fs\"\\);const p=\"src/lib/contentFilter.ts\";const lines=fs.readFileSync\\(p,\"utf8\"\\).split\\(\"\\\\n\"\\);const i=lines.findIndex\\(l=>[...l].some\\(c=>c.charCodeAt\\(0\\)>=768&&c.charCodeAt\\(0\\)<=879\\)\\);if\\(i<0\\){console.log\\(\"introuvable\"\\);process.exit\\(1\\);}lines[i]=\"    .replace\\(/[^\\\\\\\\x00-\\\\\\\\x7f]/g, \\\\\"\\\\\"\\)\";fs.writeFileSync\\(p,lines.join\\(\"\\\\n\"\\)\\);console.log\\(\"ligne\",i,\"->\",JSON.stringify\\(lines[i]\\),\"| non-ASCII:\",[...lines[i]].filter\\(c=>c.charCodeAt\\(0\\)>127\\).length\\);')",
-      "Bash(echo \"LINT_EXIT=$?\")",
-      "Bash(awk '{print $5, $9}')"
+      "Bash(node -e ' *)",
+      "mcp__claude_ai_Supabase__get_publishable_keys",
+      "Bash(node \"C:/Users/Hp/AppData/Local/Temp/claude/c--Users-Hp-objectif-civique/9ebedcaf-b110-49fa-80e3-adef8ead178f/scratchpad/flatten-icon.js\" \"assets/branding/logo 1024x1024.png\" \"assets/branding/icon-1024.png\" \"#FFFFFF\")"
     ]
   }
 }
