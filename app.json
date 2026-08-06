@@ -18,7 +18,8 @@
       "icon": "./assets/branding/icon-ios.png",
       "usesAppleSignIn": true,
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSCameraUsageDescription": "L'accès à l'appareil photo permet de scanner votre carte bancaire lors d'un paiement, pour éviter d'en saisir le numéro à la main."
       }
     },
     "android": {
