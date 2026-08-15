@@ -81,14 +81,34 @@ export type RevenueCatPurchaseOutcome = "success" | "canceled" | "error";
 export async function purchasePlan(
   planId: string
 ): Promise<{ outcome: RevenueCatPurchaseOutcome; message?: string }> {
+  // Étape 1 — récupération du catalogue.
+  //
+  // `getOfferings()` échoue tant que la boutique n'est pas complètement
+  // configurée (accord Paid Applications, clé App Store Connect côté
+  // RevenueCat, produits rattachés à l'offering). Le SDK renvoie alors un texte
+  // technique en anglais, avec des liens de dépannage : il ne doit jamais
+  // remonter jusqu'à l'utilisateur.
+  let pkg: PurchasesPackage | null = null;
   try {
-    const pkg = await findPackageForPlan(planId);
-    if (!pkg) {
-      return {
-        outcome: "error",
-        message: "Ce forfait n'est pas disponible pour le moment.",
-      };
-    }
+    pkg = await findPackageForPlan(planId);
+  } catch (err) {
+    console.warn("[revenuecat] getOfferings a échoué", err);
+    return {
+      outcome: "error",
+      message:
+        "Les forfaits sont momentanément indisponibles. Réessayez dans quelques minutes.",
+    };
+  }
+
+  if (!pkg) {
+    return {
+      outcome: "error",
+      message: "Ce forfait n'est pas disponible pour le moment.",
+    };
+  }
+
+  // Étape 2 — achat natif.
+  try {
     await Purchases.purchasePackage(pkg);
     return { outcome: "success" };
   } catch (err) {
@@ -96,10 +116,10 @@ export async function purchasePlan(
     if (err && typeof err === "object" && (err as any).userCancelled) {
       return { outcome: "canceled" };
     }
+    console.warn("[revenuecat] purchasePackage a échoué", err);
     return {
       outcome: "error",
-      message:
-        err instanceof Error ? err.message : "Le paiement a échoué.",
+      message: "Le paiement n'a pas abouti. Réessayez ou contactez le support.",
     };
   }
 }

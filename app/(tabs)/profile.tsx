@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import {
   Image,
+  Linking,
+  Platform,
   Pressable,
   ScrollView,
   Share,
@@ -86,6 +88,31 @@ export default function Profile() {
   const go = (fn: () => void) => () => {
     haptics.light();
     fn();
+  };
+
+  /**
+   * Ouvre la page de notation de la boutique correspondante.
+   *
+   * Sur Android on tente d'abord `market://`, qui ouvre l'app Play Store
+   * directement ; si elle est absente (émulateur, appareil sans Play Services),
+   * on retombe sur l'URL web.
+   */
+  const onRate = async () => {
+    const url =
+      Platform.OS === "ios"
+        ? "https://apps.apple.com/app/id6793272755?action=write-review"
+        : "market://details?id=com.horizon224.objectifcivique";
+    try {
+      await Linking.openURL(url);
+    } catch {
+      if (Platform.OS === "android") {
+        Linking.openURL(
+          "https://play.google.com/store/apps/details?id=com.horizon224.objectifcivique"
+        ).catch(() => toast.error("Impossible d'ouvrir la boutique."));
+      } else {
+        toast.error("Impossible d'ouvrir la boutique.");
+      }
+    }
   };
 
   return (
@@ -242,7 +269,7 @@ export default function Profile() {
           <Row
             icon={<Star size={16} color={Colors.primary} />}
             label="Noter l'application"
-            onPress={go(() => toast.success("Merci !"))}
+            onPress={go(onRate)}
           />
           <Row
             icon={<Share2 size={16} color={Colors.primary} />}

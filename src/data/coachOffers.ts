@@ -148,7 +148,7 @@ export const COACH_CONTACT = {
   phone: "+33 7 51 25 23 09",
   phoneTel: "+33751252309",
   // Numéro perso du client (provisoire, à remplacer par le numéro pro).
-  email: "service.horizon224@gmail.com",
-  hours: "Lun – Sam : 9h – 20h",
+  email: "support@demarchesciviques.fr",
+  hours: "Lun – Sam : 9h – 18h",
   whatsapp: "+33751252309",
 } as const;
