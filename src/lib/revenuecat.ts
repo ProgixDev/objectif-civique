@@ -43,6 +43,31 @@ export async function loginRevenueCat(appUserId: string): Promise<void> {
   }
 }
 
+/**
+ * Restaure les achats à partir du reçu de la boutique (App Store / Play).
+ *
+ * Indispensable et distinct d'une simple relecture du profil Supabase : le reçu
+ * appartient au compte **Apple ou Google**, pas au compte de l'app. C'est le
+ * seul chemin qui fonctionne quand l'utilisateur réinstalle et se reconnecte
+ * avec un autre compte Objectif Civique, ou quand un webhook a échoué et que
+ * Supabase ignore encore l'achat.
+ *
+ * RevenueCat rattache les droits retrouvés à l'`app_user_id` courant et
+ * déclenche son webhook ; le forfait redescend ensuite dans Supabase.
+ *
+ * Renvoie `true` si au moins un droit actif a été retrouvé.
+ */
+export async function restorePurchases(): Promise<boolean> {
+  if (!isRevenueCatConfigured) return false;
+  try {
+    const info = await Purchases.restorePurchases();
+    return Object.keys(info.entitlements.active).length > 0;
+  } catch (err) {
+    console.warn("[revenuecat] restorePurchases a échoué", err);
+    return false;
+  }
+}
+
 /** Repasse en utilisateur anonyme (à la déconnexion). */
 export async function logoutRevenueCat(): Promise<void> {
   if (!isRevenueCatConfigured || !configured) return;

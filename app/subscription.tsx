@@ -21,6 +21,7 @@ import { useUserStore } from "@/store/userStore";
 import { PLANS, PLAN_LABELS } from "@/data/plans";
 import { usePurchase } from "@/hooks/usePurchase";
 import { effectivePlan } from "@/lib/entitlements";
+import { restorePurchases } from "@/lib/revenuecat";
 import { pullAll } from "@/lib/sync";
 import { toast } from "@/store/toastStore";
 import { PaidPlanId, SubscriptionPlan } from "@/types";
@@ -194,12 +195,29 @@ export default function Subscription() {
             onPress={async () => {
               if (!user) return;
               setBusy(true);
-              const refreshed = await pullAll(user.id);
-              setBusy(false);
-              if (refreshed && refreshed.subscriptionPlan !== "free") {
-                toast.success("Achats restaurés.");
-              } else {
-                toast.info("Aucun achat actif trouvé pour ce compte.");
+              try {
+                // 1. Interroge la boutique (App Store / Play). Le reçu appartient
+                //    au compte Apple ou Google, pas au compte Objectif Civique :
+                //    c'est le seul chemin qui fonctionne après une réinstallation
+                //    avec un autre compte, ou si un webhook a échoué.
+                const found = await restorePurchases();
+
+                // 2. RevenueCat a notifié Supabase ; on relit le profil. Le
+                //    webhook peut arriver avec un léger décalage, d'où la
+                //    seconde tentative.
+                let refreshed = await pullAll(user.id);
+                if (found && refreshed?.subscriptionPlan === "free") {
+                  await new Promise((r) => setTimeout(r, 1500));
+                  refreshed = await pullAll(user.id);
+                }
+
+                if (refreshed && refreshed.subscriptionPlan !== "free") {
+                  toast.success("Achats restaurés.");
+                } else {
+                  toast.info("Aucun achat actif trouvé pour ce compte.");
+                }
+              } finally {
+                setBusy(false);
               }
             }}
           />
