@@ -214,16 +214,21 @@ export async function signInWithApple(): Promise<User | null> {
   const idToken = credential.identityToken;
   if (!idToken) throw new Error(frError(undefined));
 
-  const { error } = await supabase.auth.signInWithIdToken({
+  const { data, error } = await supabase.auth.signInWithIdToken({
     provider: "apple",
     token: idToken,
   });
   if (error) throw new Error(frError(error.message));
 
-  const {
-    data: { session },
-  } = await supabase.auth.getSession();
-  const authUser = session?.user;
+  // On utilise l'utilisateur renvoyé directement par l'appel, sans repasser par
+  // `getSession()` : sur React Native la session est persistée dans
+  // AsyncStorage, et une relecture immédiate peut revenir vide. Le code levait
+  // alors une erreur alors que la connexion Apple avait réussi.
+  // `getSession()` ne sert plus que de repli.
+  const authUser =
+    data.user ??
+    data.session?.user ??
+    (await supabase.auth.getSession()).data.session?.user;
   if (!authUser) throw new Error(frError(undefined));
 
   // Apple ne renvoie le nom qu'au tout premier login.
