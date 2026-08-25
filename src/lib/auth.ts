@@ -189,10 +189,33 @@ export async function signInWithGoogle(): Promise<User | null> {
  * Prérequis : iOS uniquement ; `usesAppleSignIn: true` (app.json) ; provider
  * Apple activé dans Supabase (Services ID + clé). Retourne null si annulé.
  */
+/**
+ * Vrai si « Se connecter avec Apple » est réellement utilisable ici.
+ *
+ * Le bouton était affiché sans condition. Or `signInAsync` échoue quand la
+ * fonctionnalité n'est pas disponible — aucun compte iCloud sur l'appareil,
+ * restrictions parentales, iOS trop ancien — et l'utilisateur se retrouvait
+ * devant un message d'erreur après avoir touché un bouton qui n'aurait pas dû
+ * lui être proposé. C'est ce qu'a rapporté la vérification Apple.
+ */
+export async function isAppleSignInAvailable(): Promise<boolean> {
+  if (Platform.OS !== "ios") return false;
+  try {
+    return await AppleAuthentication.isAvailableAsync();
+  } catch {
+    return false;
+  }
+}
+
 export async function signInWithApple(): Promise<User | null> {
   ensureConfigured();
   if (Platform.OS !== "ios") {
     throw new Error("« Se connecter avec Apple » est disponible sur iPhone.");
+  }
+  if (!(await isAppleSignInAvailable())) {
+    throw new Error(
+      "« Se connecter avec Apple » n'est pas disponible sur cet appareil. Utilisez votre e-mail et mot de passe."
+    );
   }
 
   let credential: AppleAuthentication.AppleAuthenticationCredential;

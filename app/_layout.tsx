@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Alert, View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import { SafeAreaProvider } from "react-native-safe-area-context";
@@ -28,33 +28,11 @@ export default function RootLayout() {
     }
   }, [loaded]);
 
-  // Capteur d'erreur global : transforme une erreur JS fatale (qui sinon ferme
-  // l'app sans message) en alerte lisible — aide à diagnostiquer les crashs
-  // signalés sur appareil réel. (Les crashs purement natifs ne passent pas ici.)
-  useEffect(() => {
-    const g = global as unknown as {
-      ErrorUtils?: {
-        getGlobalHandler: () => (e: unknown, fatal?: boolean) => void;
-        setGlobalHandler: (h: (e: unknown, fatal?: boolean) => void) => void;
-      };
-    };
-    const EU = g.ErrorUtils;
-    if (!EU) return;
-    // DIAGNOSTIC : on AVALE l'erreur fatale (on n'appelle PAS le handler par
-    // défaut qui fermerait l'app) → l'app reste ouverte et affiche le message,
-    // pour pouvoir le capturer en photo. À retirer une fois le crash identifié.
-    EU.setGlobalHandler((error) => {
-      try {
-        const err = error as Error;
-        Alert.alert(
-          "Détails de l'erreur (à envoyer au développeur)",
-          `${err?.message ?? String(error)}\n\n${(err?.stack ?? "").slice(0, 700)}`
-        );
-      } catch {
-        // ignore
-      }
-    });
-  }, []);
+  // NB : un gestionnaire d'erreur global de diagnostic vivait ici. Il affichait
+  // à l'utilisateur une alerte « Détails de l'erreur » contenant la trace
+  // d'exécution — utile en débogage, mais inacceptable en production, et
+  // possiblement ce qu'a vu le vérificateur Apple. `ErrorBoundary` couvre déjà
+  // les erreurs de rendu avec un écran présentable.
 
   if (!loaded) {
     return <View style={{ flex: 1, backgroundColor: Colors.surface }} />;
@@ -71,12 +49,27 @@ export default function RootLayout() {
           >
             <AuthSyncProvider>
               <StatusBar style="dark" />
-              <Stack
-                screenOptions={{
-                  headerShown: false,
-                  contentStyle: { backgroundColor: Colors.surface },
-                }}
-              />
+              {/*
+                Colonne de contenu à largeur maximale.
+
+                L'app est dessinée pour un téléphone : sur un iPad de 11
+                pouces, les 50 écrans s'étiraient sur toute la largeur, ce
+                qu'Apple a refusé en guideline 4 (« crowded interface »).
+                On borne donc la largeur et on centre.
+
+                Sur téléphone la contrainte est inerte — tous les écrans font
+                moins de 640 points de large — donc aucun risque de régression.
+              */}
+              <View style={styles.root}>
+                <View style={styles.column}>
+                  <Stack
+                    screenOptions={{
+                      headerShown: false,
+                      contentStyle: { backgroundColor: Colors.surface },
+                    }}
+                  />
+                </View>
+              </View>
               <ToastHost />
             </AuthSyncProvider>
           </StripeProvider>
@@ -85,3 +78,18 @@ export default function RootLayout() {
     </ErrorBoundary>
   );
 }
+
+const styles = StyleSheet.create({
+  root: {
+    flex: 1,
+    backgroundColor: Colors.surface,
+    alignItems: "center",
+  },
+  column: {
+    flex: 1,
+    width: "100%",
+    // 640 points : au-delà, les lignes de texte deviennent trop longues à lire
+    // et les cartes s'étirent. En deçà (tous les téléphones), sans effet.
+    maxWidth: 640,
+  },
+});

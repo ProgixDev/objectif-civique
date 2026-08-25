@@ -13,7 +13,7 @@
       "backgroundColor": "#FFFFFF"
     },
     "ios": {
-      "supportsTablet": false,
+      "supportsTablet": true,
       "bundleIdentifier": "com.objectifcivique.app",
       "icon": "./assets/branding/icon-ios.png",
       "usesAppleSignIn": true,

@@ -30,6 +30,7 @@ import { AppleIcon, GoogleIcon } from "@/components/SocialIcons";
 import { signUpWithEmail, signInWithGoogle, signInWithApple } from "@/lib/auth";
 import { isPersoComplete } from "@/store/userStore";
 import { useHaptics } from "@/hooks/useHaptics";
+import { useAppleAvailable } from "@/hooks/useAppleAvailable";
 import { toast } from "@/store/toastStore";
 
 const schema = z.object({
@@ -59,6 +60,10 @@ function passwordRules(pwd: string) {
 export default function SignUp() {
   const insets = useSafeAreaInsets();
   const haptics = useHaptics();
+  // Le bouton Apple ne doit apparaitre que si la connexion Apple est
+  // reellement utilisable : un iPad est bien sous iOS, mais la fonctionnalite
+  // peut y etre indisponible (pas de compte iCloud, restrictions).
+  const appleAvailable = useAppleAvailable();
   const [showPwd, setShowPwd] = useState(false);
   const [submitting, setSubmitting] = useState(false);
 
@@ -312,7 +317,7 @@ export default function SignUp() {
             <Text style={styles.socialLabel}>Continuer avec Google</Text>
           </Pressable>
 
-          {Platform.OS === "ios" && (
+          {appleAvailable && (
             <Pressable
               onPress={async () => {
                 haptics.light();
