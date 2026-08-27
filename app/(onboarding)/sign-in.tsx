@@ -217,46 +217,63 @@ export default function SignIn() {
           style={{ marginTop: 20 }}
         />
 
-        <View style={styles.divider}>
-          <View style={styles.dividerLine} />
-          <Text style={[Typography.caption, styles.dividerLabel]}>
-            Ou continuer avec
-          </Text>
-          <View style={styles.dividerLine} />
-        </View>
+        {/*
+          Connexions tierces : masquees sur iOS.
 
-        <View style={{ gap: 12 }}>
-          <Pressable
-            onPress={onGoogle}
-            accessibilityRole="button"
-            accessibilityLabel="Continuer avec Google"
-            style={({ pressed }) => [
-              styles.socialBtn,
-              pressed && { opacity: 0.85 },
-            ]}
-          >
-            <GoogleIcon size={20} />
-            <Text style={styles.socialLabel}>Continuer avec Google</Text>
-          </Pressable>
+          La guideline 4.8 impose Sign in with Apple des lors qu'une connexion
+          tierce est proposee. Sign in with Apple echouait cote serveur Apple
+          (« Sign Up Not Completed ») malgre une configuration verifiee correcte
+          — entitlement present dans le profil et le binaire, App ID en primary.
+          Deux refus de verification en ont decoule.
 
-          {appleAvailable && (
-            <Pressable
-              onPress={onApple}
-              accessibilityRole="button"
-              accessibilityLabel="Continuer avec Apple"
-              style={({ pressed }) => [
-                styles.socialBtn,
-                styles.appleBtn,
-                pressed && { opacity: 0.85 },
-              ]}
-            >
-              <AppleIcon size={20} color={Colors.white} />
-              <Text style={[styles.socialLabel, { color: Colors.white }]}>
-                Continuer avec Apple
+          En ne proposant aucune connexion tierce sur iOS, l'obligation tombe :
+          il reste l'e-mail et le mot de passe, qui fonctionnent. Android
+          conserve Google, deja en production et sans probleme.
+        */}
+        {Platform.OS !== "ios" && (
+          <>
+            <View style={styles.divider}>
+              <View style={styles.dividerLine} />
+              <Text style={[Typography.caption, styles.dividerLabel]}>
+                Ou continuer avec
               </Text>
-            </Pressable>
-          )}
-        </View>
+              <View style={styles.dividerLine} />
+            </View>
+
+            <View style={{ gap: 12 }}>
+              <Pressable
+                onPress={onGoogle}
+                accessibilityRole="button"
+                accessibilityLabel="Continuer avec Google"
+                style={({ pressed }) => [
+                  styles.socialBtn,
+                  pressed && { opacity: 0.85 },
+                ]}
+              >
+                <GoogleIcon size={20} />
+                <Text style={styles.socialLabel}>Continuer avec Google</Text>
+              </Pressable>
+
+              {appleAvailable && (
+                <Pressable
+                  onPress={onApple}
+                  accessibilityRole="button"
+                  accessibilityLabel="Continuer avec Apple"
+                  style={({ pressed }) => [
+                    styles.socialBtn,
+                    styles.appleBtn,
+                    pressed && { opacity: 0.85 },
+                  ]}
+                >
+                  <AppleIcon size={20} color={Colors.white} />
+                  <Text style={[styles.socialLabel, { color: Colors.white }]}>
+                    Continuer avec Apple
+                  </Text>
+                </Pressable>
+              )}
+            </View>
+          </>
+        )}
 
         <View style={styles.switchRow}>
           <Text style={[Typography.body, { color: Colors.textSecondary }]}>
